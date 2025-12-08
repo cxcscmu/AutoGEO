@@ -10,8 +10,8 @@
 AutoGEO automatically extracts content preference rules from generative engines and rewrites documents to maximize visibility while preserving accuracy.
 
 **How GEO models work:**
-- **Input:** Documents
-- **Output:** Rewritten documents with higher visibility in generative engine (GE) responses
+- **Input:** Target document
+- **Output:** Rewritten document with higher visibility in generative engine (GE) responses
 - **Goal:** Maximize visibility without harming GE utility
 
 **Three core components:**

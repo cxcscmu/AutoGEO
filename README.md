@@ -65,13 +65,13 @@ Rewrite a document using AutoGEO API:
 ```python
 from autogeo.rewriters import rewrite_document
 
-rewritten_content = rewrite_document(
+rewritten_text = rewrite_document(
     document="AutoGEO automatically extracts content preference rules from generative engines and rewrites documents to maximize visibility while preserving accuracy.",
     dataset="Researchy-GEO",   # Options: E-commerce, GEO-Bench, Researchy-GEO
     engine_llm="gemini"        # Options: gemini, gpt, claude
 )
 
-print(rewritten_content)
+print(rewritten_text)
 ```
 
 
@@ -96,7 +96,7 @@ Use extracted or custom rules for rewriting:
 ```python
 from autogeo.rewriters import rewrite_document
 
-rewritten = rewrite_document(
+rewritten_text = rewrite_document(
     document="Your document text here",
     rule_path=f"data/{dataset}/rule_sets/{engine_llm}/merged_rules.json"
 )

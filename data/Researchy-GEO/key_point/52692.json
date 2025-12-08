@@ -1,0 +1,625 @@
+{
+  "question": "how facebook/social media impacts life?",
+  "key_points": {
+    "clueweb22-en0003-51-03556": [
+      {
+        "point_number": 1,
+        "point_content": "Social media can prevent quality sleep due to blue light emitted by devices interfering with melatonin production.",
+        "spans": [
+          "Social Media Can Prevent Quality Sleep",
+          "Due to the blue light that is emitted by the electronic devices you use.",
+          "There are multiple studies out there that show that the blue light from LED screens interferes with your body’s production of melatonin, which is the hormone that tells your brain that it is time to fall asleep."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Social media can negatively affect self-esteem by exacerbating insecurities and causing Facebook envy.",
+        "spans": [
+          "Social Media Can Affect Your Self Esteem",
+          "a study carried out at the University of Copenhagen found that those who used social media regularly tended to suffer from Facebook envy.",
+          "Facebook envy refers to the feelings of jealousy that you feel after seeing all of the activities that your friends have been up to on social media."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Social media makes it easier to spread and absorb knowledge and information quickly, but also facilitates the spread of fake news.",
+        "spans": [
+          "Social Media Makes it Easier to Spread and Absorb Knowledge and Information",
+          "Fake news spreads like wildfire on social media, with the more “likes” a story receives making others believe it even more."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Social media can hinder real life social interaction by distracting people from their immediate surroundings.",
+        "spans": [
+          "Social Media Can Hinder Real Life Social Interaction",
+          "Constantly staring at your phone, or even checking it periodically, takes your attention away from what is actually going on around you."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Social media can promote real life social interaction by reconnecting old friends and promoting events.",
+        "spans": [
+          "Social Media Can Also Promote Real Life Social Interaction",
+          "Social media is a fantastic way to reconnect with old friends whom you have lost touch with, bringing you together once again and making it easier for you to meet up in real life.",
+          "There are also many events that are organized and promoted through social media, which you may otherwise have never heard of."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Social media can encourage cyberbullying by making it easy to send intimidating messages.",
+        "spans": [
+          "Social Media Can Encourage Cyberbullying",
+          "This is a problem that is becoming increasingly common, and refers to bullying an individual by sending them intimidating messages.",
+          "This is largely due to social media, and the way that these platforms make it so easy to involve yourself in someone else’s life."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Social media provides entertainment through videos, pictures, games, and stories, helping people relax and de-stress.",
+        "spans": [
+          "Social Media Can Be Extremely Entertaining",
+          "One of the great things about social media is the amount of entertainment it provides. This can be in many different forms, such as: Watching videos, Looking at pictures, Playing games, Reading stories"
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Social media keeps you constantly connected, which can have detrimental effects on mental health due to pressure to always be available.",
+        "spans": [
+          "Social Media Keeps You Constantly Connected",
+          "Because of the pressure you face to always be available and quickly respond to others, and this can often make you feel as though you simply never have any time to relax."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Social media makes it easier for small businesses to reach customers and build a brand even without a marketing budget.",
+        "spans": [
+          "Social Media Makes It Easier for Small Businesses to Reach Customers",
+          "Even with a completely non-existent marketing budget, social media still gives you the opportunity to reach out to, connect with, and interact with new and existing customers, making it so much easier for you to build a reputable brand."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Social media encourages multitasking, which reduces productivity because the brain switches rapidly between tasks instead of focusing.",
+        "spans": [
+          "Social Media Encourages Multitasking",
+          "research shows that the human brain is not actually capable of multitasking. While you may think that you are doing multiple tasks at once, your brain is actually just switching from one to the other very rapidly, meaning that you are not fully concentrating on any one task."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Social media can affect job prospects as employers check social media profiles to learn more about candidates.",
+        "spans": [
+          "Social Media Can Affect Your Job Prospects",
+          "Many people still do not realize just how often potential employers will check out your social media accounts."
+        ]
+      }
+    ],
+    "clueweb22-en0027-17-09249": [
+      {
+        "point_number": 1,
+        "point_content": "Facebook has already become a part of our life; and it changed our lives in four aspects: it changed our online life, relationships with our parents, relationships with our friends, and also eased our feeling of loneliness.",
+        "spans": [
+          "Facebook has already become a part of our life; and it changed our lives in four aspects: it changed our online life, relationships with our parents, relationships with our friends, and also eased our feeling of loneliness."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Facebook has already changed our Internet life and created a new way to communicate with your parents and friends.",
+        "spans": [
+          "Facebook has already changed our Internet life",
+          "Facebook didn’t only change our Internet life, but also create a new way to communicate with your parents and friends."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Many teenagers don’t like adding their parents as friends on Facebook because they want a world to chat with their friends without worrying about their parents.",
+        "spans": [
+          "many teenagers don’t like adding their parents as friends",
+          "They want a world that they can chart with their friends without worrying about their parents."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "There are still many teenagers who believe that Facebook is a good way to communicate with their parents.",
+        "spans": [
+          "there are still many teenagers believe that Facebook is a good way to communicate with their parents."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Social media has so many platforms such as Facebook, Snapchat, Twitter, etc... to transfer information and we depend on social media so much that we can't live without it.",
+        "spans": [
+          "Social media has so many platforms such as Facebook, Snapchat, Twitter, etc... to transfer information.",
+          "We depend on social media so much that we can't live without it."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Technology impacts almost everyone’s lives; people communicate with Facebook and text messages rather than calling or visiting, which reduces face-to-face socialization.",
+        "spans": [
+          "Technology has an impact on almost everyone’s lives these days.",
+          "People communicate with Facebook and text messages other than calling people on the phone or actually going to visit that person.",
+          "the more involved with technology we are the less we are involved with socialization."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Social media and networking play an essential part in everyone’s lives and have both positive and negative impacts on communication skills.",
+        "spans": [
+          "Social media and networking seem to play an essential part in everyone’s lives throughout the planet.",
+          "Many debate whether it is improving or destroying human face to face interaction.",
+          "This essay doesn’t just focus on the negative impacts but the positive impacts of communication through social media as well."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Employers use social media profiles to investigate potential job candidates to determine if they fit their position.",
+        "spans": [
+          "Your social media profile can be more revealing that your resume",
+          "This allows employers to search any potential job candidate’s social media to investigate user’s posts to determine if they fit their position"
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Stephen Marche believes Facebook is making us lonely because it is changing the dynamics of social interaction despite having 845 million users.",
+        "spans": [
+          "Stephen Marche believes Facebook is making us lonely because it is changing the dynamics",
+          "At the forefront of all this unexpectedly lonely interactivity is Facebook, with 845 million users and $3.7 billion in revenue last year"
+        ]
+      }
+    ],
+    "clueweb22-en0006-05-09931": [
+      {
+        "point_number": 1,
+        "point_content": "Social media has evolved from a means for keeping in touch with friends and family to being used in ways that have a real impact on society.",
+        "spans": [
+          "social networks to evolve from being a handy means for keeping in touch with friends and family to being used in ways that have a real impact on society"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Social media shapes politics, business, world culture, education, careers, innovation, and more.",
+        "spans": [
+          "The Influence of Social media is being used in ways that shape politics, business, world culture, education, careers, innovation, and more"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Social media allows people to communicate more freely and helps create influential social organizations among once-marginalized groups.",
+        "spans": [
+          "Because social media allows people to communicate more freely, they are helping to create surprisingly influential social organizations among once-marginalized groups"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Social media increases visibility of social, ethical, environmental, and political issues, shifting power from a few to the masses.",
+        "spans": [
+          "Without social media, social, ethical, environmental, and political ills would have minimal visibility. Increased visibility of issues has shifted the balance of power from the hands of a few to the masses"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Social media activism can lead to 'slacktivism' where people show support online without active real-life engagement.",
+        "spans": [
+          "Social media is slowly killing real activism and replacing it with ‘slacktivism’",
+          "Some argue that social sharing has encouraged people to use computers and mobile phones to express their concerns on social issues without actually having to engage actively with campaigns in real life"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Social media is important for businesses to connect with customers, generate insights, stimulate demand, and create targeted product offerings.",
+        "spans": [
+          "Companies see the importance of using social media to connect with customers and build revenue",
+          "Businesses have realized they can use social media to generate insights, stimulate demand, and create targeted product offerings"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Social media has a profound effect on recruitment and hiring, with many employers using it to research job candidates.",
+        "spans": [
+          "Social media has had a profound effect on recruitment and hiring",
+          "Nineteen percent of hiring managers make their hiring decisions based on information found on social media"
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Social media is used as a tool in education and training, contributing to long-distance online learning and skill development.",
+        "spans": [
+          "Blogs, wikis, LinkedIn, Twitter, Facebook, and podcasts are now common tools for learning in many educational institutions",
+          "Social media has contributed to the increase in long-distance online learning"
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Heavy use of social media is linked to increased risk of depression, self-harm, anxiety, loneliness, and issues like FOMO and cyberbullying.",
+        "spans": [
+          "multiple researchers have concluded a strong relationship between heavy use of social media platforms with an increase in risk of depression, self-harm, anxiety, and loneliness",
+          "Fear of Missing Out (FOMO)",
+          "Cyberbullying"
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Social media encourages forming 'social media friendships' which are weaker than traditional friendships.",
+        "spans": [
+          "One of the effects of social media is encouraging people to form and cherish \"social media friendships\" over actual friendships"
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0006-99-03566": [
+      {
+        "point_number": 1,
+        "point_content": "Facebook is changing the social life of our species with over a billion users, raising questions about whether it brings people together or tears them apart.",
+        "spans": [
+          "With over a billion users, Facebook is changing the social life of our species. Cultural commentators ponder the effects. Is it bringing us together or tearing us apart?"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Facebook users tend to be more extraverted and narcissistic, but less conscientious and socially lonely, with personality influencing usage patterns.",
+        "spans": [
+          "[FB] users tend to be more extraverted and narcissistic, but less conscientious and socially lonely, than nonusers"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "People use Facebook to connect with others, including those with specialist interests and people with autism who enjoy interacting via Facebook and other online networks.",
+        "spans": [
+          "people use FB to connect with others with specialist interests, such as diabetes patients sharing information and experiences, and that people with autism particularly enjoy interacting via FB and other online networks"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Facebook is used for instant communication and connection with friends, with personality traits influencing preference for Facebook or Twitter.",
+        "spans": [
+          "most people use Facebook “ to get instant communication and connection with their friends ”",
+          "student narcissists prefer Twitter, while more mature narcissists prefer FB"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Facebook profiles tend to reflect users' actual personalities rather than idealized selves, and 'likes' can reveal personality traits more accurately than friends and relatives.",
+        "spans": [
+          "they reflected their actual personalities, not their ideal selves",
+          "your “likes” can be analysed by a computer programme to produce a more accurate profile of your personality than the profiles produced by your friends and relatives"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Facebook usage can reveal private information and personality traits, with narcissistic users disclosing more self-promotional content and lonelier people disclosing more private information but fewer opinions.",
+        "spans": [
+          "higher degrees of narcissism led to deeper self-disclosures and more self-promotional content within these messages",
+          "lonelier people disclose more private information, but fewer opinions"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Facebook profile pictures can reveal cultural background and relationship status, with more selfies associated with higher narcissism.",
+        "spans": [
+          "people from Taiwan were more likely to have a zoomed-out picture",
+          "US users were more likely to have a close-up picture",
+          "people who post more selfies probably are more narcissistic"
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Facebook use has mixed effects on loneliness and mental health, with some studies showing increased connectedness and others showing decreased life satisfaction and increased envy.",
+        "spans": [
+          "One group were asked to post more updates than usual for one week – this led them to feel less lonely and more connected to their friends",
+          "The more people used Facebook at one time point, the worse they felt the next time we text-messaged them; [and] the more they used Facebook over two-weeks, the more their life satisfaction levels declined over time",
+          "Facebook could also be fuelling envy"
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Facebook use can negatively impact academic performance when used for socializing, but using it for information sharing may be associated with better grades.",
+        "spans": [
+          "the more they used the network to socialise, the poorer their grades tended to be",
+          "using the site to collect and share information was actually associated with better grades"
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Viewing one's own Facebook profile boosts self-esteem and emotions are contagious on Facebook, with users experiencing a 'core flow state' characterized by positive mood and high arousal.",
+        "spans": [
+          "Viewing your own FB profile boosts self-esteem",
+          "Emotions are contagious on Facebook",
+          "looking at your FB account is different, physiologically speaking, from stress or relaxation. It provokes what these researchers describe appealingly as a “ core flow state “, characterised by positive mood and high arousal"
+        ]
+      }
+    ],
+    "clueweb22-en0013-70-08549": [
+      {
+        "point_number": 1,
+        "point_content": "Social media users are finding themselves more stressed than ever from their time spent on sites like Facebook, Instagram, and Twitter, leading to serious mental health problems, including depression and anxiety.",
+        "spans": [
+          "Amidst the noise, social media users are finding themselves more stressed than ever from their time spent on sites like Facebook, Instagram, and Twitter. And it's leading to serious mental health problems, including depression and anxiety."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The potential causes of social media-induced stress include misinformation about current news and the fear of missing out (FOMO) on group gatherings.",
+        "spans": [
+          "The potential causes of social media-induced stress range from misinformation about current news to the \"fear of missing out\" (FOMO) on group gatherings you're not a part of."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Many social media users feel stressed out when seeing the perfectly curated lives of others, which can lead to feelings of being left behind or less happy.",
+        "spans": [
+          "In the era of editing photos, it's easy to make it look like you have a perfect life, full of happy relationships, travel, babies, and a successful career. As a result, it's common to feel like you're being left behind or that others are happier than you are."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Social media can cause stress due to misinformation and political arguments, with many users feeling worn out or frustrated by opposing views.",
+        "spans": [
+          "Nearly 1 out of 4 people say they've shared a fake political news story, and some say they've done so on purpose.",
+          "37% of social media users say they feel worn out by the political content they see. Even more, many users feel stressed out or frustrated when they see views that oppose their own."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Social media has benefits such as staying in touch with friends and family, reconnecting with acquaintances, building relationships, participating in civic activities, and staying informed.",
+        "spans": [
+          "Some benefits of social media sites include: Staying in touch with friends and family Reconnecting with long-lost acquaintances Building friendships and, sometimes, romantic relationships Taking part in civic and political activities, such as petitions Getting and sharing important information, such as health news or scientific information Staying informed about the current news"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Ways to manage social media stress include recognizing the curated nature of posts, monitoring feelings, limiting time spent, fact-checking news, and disengaging from tense arguments.",
+        "spans": [
+          "Keep in mind what people are not posting, from break-ups to job losses to not-so-flattering photos.",
+          "Pay attention to your feelings as you scroll. By acknowledging that you feel a little jealous, it can help you overcome that feeling a little easier.",
+          "Limit the time you spend on social media by setting screen time limits for certain apps or keeping a log in your notes.",
+          "Fact-check your news with a few news outlets you trust.",
+          "Know when to disengage from a tense argument and agree to disagree."
+        ]
+      }
+    ],
+    "clueweb22-en0045-52-18179": [
+      {
+        "point_number": 1,
+        "point_content": "Social media has become a fully integrated part of nearly every aspect of daily life for many.",
+        "spans": [
+          "the impact of social media has gone from being an entertaining extra to a fully integrated part of nearly every aspect of daily life for many"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Social media influences politics, commerce, law enforcement, and even future technology concepts like brain implants.",
+        "spans": [
+          "Recently in the realm of commerce, Facebook faced skepticism in its testimony to the Senate Banking Committee on Libra, its proposed cryptocurrency and alternative financial system. In politics, heartthrob Justin Bieber tweeted the President of the United States, imploring him to “let those kids out of cages.” In law enforcement, the Philadelphia police department moved to terminate more than a dozen police officers after their racist comments on social media were revealed. And in the ultimate meshing of the digital and physical worlds, Elon Musk raised the specter of essentially removing the space between social and media through the invention — at some future time — of a brain implant that connects human tissue to computer chips."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Social media is not just a utility; it carries social significance especially among young people who care about what platform they use.",
+        "spans": [
+          "Social media isn’t a utility. It’s not like power or water where all people care about is whether it works. Young people care about what using one platform or another says about them. It’s not cool to use the same site as your parents and grandparents, so they’re always looking for the hot new thing."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Social media has become fundamental to how billions get information and connect, raising stakes enormously.",
+        "spans": [
+          "social media has become really fundamental to the way that billions of people get information about the world and connect with each other, which raises the stakes enormously."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "There is public skepticism and criticism of Facebook and social media regarding trust, data handling, and misinformation.",
+        "spans": [
+          "Facebook is dangerous,” said Sen. Sherrod Brown (D-Ohio) at July’s hearing of the Senate Banking Committee. “Facebook has said, ‘just trust us.’ And every time Americans trust you, they seem to get burned.",
+          "Facebook has its critics, says Wharton marketing professor Pinar Yildirim, and they are mainly concerned about two things: mishandling consumer data and poorly managing access to it by third-party providers; and the level of disinformation spreading on Facebook."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Social media is addictive and adaptive, making it engaging but also potentially harmful to mental health.",
+        "spans": [
+          "Social media is like a drug, but what makes it particularly addictive is that it is adaptive. It adjusts based on your preferences and behaviors, which makes it both more useful and engaging and interesting, and more addictive."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Limiting social media use can reduce loneliness and depression, according to a University of Pennsylvania study.",
+        "spans": [
+          "The results, published in the Journal of Social and Clinical Psychology, showed significant reductions in loneliness and depression over three weeks in the group limiting use compared to the control group."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Social media has expanded beyond networking to include virtual worlds, gaming, and e-sports, creating new economic and social realities.",
+        "spans": [
+          "Virtual worlds and gaming have become a major part of the sector, too.",
+          "E-sports is serious business, with revenues globally — including advertising, sponsorships, and media rights — expected to reach $1.1 billion in 2019, according to gaming industry analytics company Newzoo."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Social media platforms are diversifying functions beyond social networking, including streaming, payments, and commerce.",
+        "spans": [
+          "They are creating groups and group connections, but you see them moving into lots of other services like streaming entertainment, mobile payments, and customer-to-customer buying and selling."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Social media has democratized fame and attention but also facilitates the spread of false information and negative behaviors.",
+        "spans": [
+          "Social media has certainly made fame and attention more democratic, though not always in a good way.",
+          "Before, only media companies had reach, so it was harder for false information to spread. It could happen, but it was slow. Now anyone can share anything, and because people tend to believe what they see, false information can spread just as, if not more easily, than the truth."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Social media changes society by enabling manipulation, sowing confusion, and undermining accountability.",
+        "spans": [
+          "The “attention-grabbing algorithms underlying social media … propel authoritarian practices that aim to sow confusion, ignorance, prejudice, and chaos, thereby facilitating manipulation and undermining accountability,”"
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "Despite concerns, social media is unlikely to disappear and continues to increase social connectivity and economic and social outcomes.",
+        "spans": [
+          "Social connections are fabrics of society. Just as the telegraph or telephone as an innovation of communication did not reduce social connectivity, online social networks did not either. If anything, it likely increased connectivity, or reduced the cost of communicating with others.",
+          "It is thanks to online social networks that individuals likely have larger social networks, she says, and while many criticize the fact that we are in touch with large numbers of individuals in a superficial way, these light connections may nevertheless be contributing to our lives when it comes to economic and social outcomes — ranging from finding jobs to meeting new people."
+        ]
+      }
+    ],
+    "clueweb22-en0026-18-17829": [
+      {
+        "point_number": 1,
+        "point_content": "Social media, besides being attractive and all-consuming, can also have an enormous impact on your everyday life.",
+        "spans": [
+          "social media, besides being attractive and all-consuming, can also have an enormous impact on your everyday life"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The use of Facebook is justified by two main needs: the need to belong somewhere and the presentation of self.",
+        "spans": [
+          "According to Nadkarni and Hofmann (2012), the use of Facebook is justified by two main needs: the need to belong somewhere and the presentation of self"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Social networks have the purpose to build relationships in the virtual world, similar to physical society where we belong to groups.",
+        "spans": [
+          "we do not notice the need to belong only in physical society, where we are all part of groups helping us to develop ourselves and to consolidate our identity, but also in the virtual world, where social networks have the purpose to build relationships"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Social media networks guide the way in which we want to look in front of others, often creating an unrealistic or utopian presentation of self.",
+        "spans": [
+          "social media networks have the power to guide the way in which we want to look in front of others",
+          "The presentation of self is many times unrealistic or utopian, creating an illusion which can disappoint others, as well as yourself, bringing interior controversy and frustration"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Internet interaction differs from face-to-face interaction by more anonymity, less emphasis on physical aspect, better control over time and rhythm, and ease of finding similar-minded people.",
+        "spans": [
+          "McKenna et al. (2002) propose 4 major factors to differentiate Internet interaction from face-to-face one.",
+          "More anonymity",
+          "Less emphasis on the physical aspect",
+          "Better control over time and the rhythm of interactions",
+          "Ease of finding similar-minded people"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Social media can lead to judging people based on photos and profiles rather than personal interaction.",
+        "spans": [
+          "we judge a person based on their Facebook photos",
+          "Facebook helps us find out a user’s hobbies, his interests, favourite movies or music, all through a single click"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Social networks can lock us in a box with the key inside, limiting the natural process of getting to know someone step by step.",
+        "spans": [
+          "Sometimes I feel that, instead of helping us make new friends, social networks lock us in a box with the key inside"
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Humans have a fundamental need for constant relation with one another, which social media changes but cannot replace.",
+        "spans": [
+          "one of the main needs of us, humans, is the constant relation with one another"
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "We can develop a conscious approach to social media use to control negative instincts like comparison and influence.",
+        "spans": [
+          "we can develop a conscious approach to how we use them",
+          "The moment we are able to control the instincts that makes us compare ourselves with other users or radically influence us, we will manage to win the fight between virtual and reality"
+        ]
+      }
+    ],
+    "clueweb22-en0015-87-08974": [
+      {
+        "point_number": 1,
+        "point_content": "Facebook and other social media sites have changed the way we interact with each other, making it simple to stay connected in people’s lives.",
+        "spans": [
+          "These social media sites have changed the way we interact with each other. Sites like Facebook, Twitter, LinkedIn, Vine and more make it simple to stay connected in people’s lives."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Social media is important for personal life as it allows sharing statuses, photos, and videos to catch up with friends and family.",
+        "spans": [
+          "You can easily catch up with friends with their statuses, photos and videos they post."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Social media is also a great tool for businesses or anyone trying to develop their professional network or look for a job.",
+        "spans": [
+          "And social media is not just important for your personal life, it is also a great tool for businesses or anyone trying to develop their professional network or look for a job."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Facebook combines statuses, photos, video and more, being the optimal site for sharing your life with others and keeping family connected.",
+        "spans": [
+          "Probably the best social media platform for this purpose is Facebook. This particular site combines statuses, photos, video and more, being the optimal site for sharing your life with others."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Twitter offers an opportunity to network and get to know people, with features like meet-ups and hashtags to connect with local conversations.",
+        "spans": [
+          "For those looking to get to know people — maybe you have moved to a new town — Twitter offers more of an opportunity to network and get to know people.",
+          "Twitter also utilizes hashtags, so you can see what other people are talking about. Look up the hashtag for your city, and you will be connected with people talking about it or sharing information about the place you reside."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "For businesses, being on many social media sites increases visibility and offers different ways to share information and interact with users.",
+        "spans": [
+          "When it comes to your business, it is important to be on as many social media sites as possible. These sites offer many different options to share information and have different users on each one."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Facebook allows businesses to communicate intimately through status updates, photos, messages and interaction with followers, which helps spread word of mouth.",
+        "spans": [
+          "Facebook allows users to get to know your business more intimately. You can communicate through status updates, photos, messages and more.",
+          "The key to being successful with Facebook is interaction. If patrons post a question on your page, respond! The more you respond and interact with the people who “Like” your page, the more they will talk about your business to others and share your page, getting you more “Likes.”"
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Twitter helps businesses share news and updates quickly and find like-minded people through hashtags to gain new fans and followers.",
+        "spans": [
+          "With Twitter, you can share news and updates about your business quickly.",
+          "It also gives you a chance to find like-minded people through hashtags, which were mentioned before.",
+          "Using hastags this way can help not only other people discover you, but help you discover people who are talking about the same topic."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Instagram is useful for retail businesses to showcase products and use hashtags to attract customers and network globally.",
+        "spans": [
+          "Instagram is a great show-and-tell social media tool.",
+          "This social media platform is great for those in the retail business because you can use it to show off new arrivals.",
+          "Like Twitter, it utilizes hashtags to make it easier for like-minded people to discover your business and follow you."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Social media is important for job searching and professional networking, with LinkedIn being the largest professional network and Twitter useful for casual professional networking.",
+        "spans": [
+          "Social media is also important if you are job searching or about to dive into your field.",
+          "LinkedIn is probably the best site to network and connect with professionals in your field, as it is the largest professional network in the world.",
+          "Like LinkedIn, Twitter can also help you network with professionals in a more casual way."
+        ]
+      }
+    ]
+  }
+}

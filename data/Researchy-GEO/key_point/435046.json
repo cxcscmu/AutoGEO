@@ -1,0 +1,40 @@
+{
+  "question": "what makes an athlete elite",
+  "key_points": {
+    "null": [],
+    "clueweb22-en0035-79-11999": [
+      {
+        "point_number": 1,
+        "point_content": "Elite athletes have more efficient neuromuscular pathways than average athletes.",
+        "spans": [
+          "Neuromuscular pathways are the communication channels between the brain and the muscles.",
+          "The real reason training improves athletes’ athletic ability is because it creates new, more efficient neuromuscular pathways."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Training improves athletic ability by redefining how the brain tells muscles to move, creating faster and better muscle firing sequences.",
+        "spans": [
+          "Good training regimens are able to redefine the way your brain tells your muscles how to move.",
+          "These new paths will become more efficient and thereby deliver messages from the brain more quickly so the muscles will fire faster.",
+          "It will also allow for the brain to better sequence different muscles firing."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Elite athletes have superb coordination due to better sequencing and faster firing of muscles.",
+        "spans": [
+          "The result of your muscles firing in better sequences and in faster succession with one another is what we call coordination.",
+          "Elite athletes have superb coordination and is the primary reason they are able to perform highly difficult tasks with such ease."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The efficiency of the motor control center of the brain and its ability to quickly deliver messages to muscles distinguishes elite athletes from average athletes.",
+        "spans": [
+          "What separates elite athletes from average athletes and average athletes from the general population has a lot to do with the efficiency of the motor control center of the brain and how quickly it can deliver messages to the muscles to perform certain movements."
+        ]
+      }
+    ]
+  }
+}

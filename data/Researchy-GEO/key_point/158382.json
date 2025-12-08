@@ -1,0 +1,40 @@
+{
+  "question": "how did the balfour declaration contribute to tension between jews and arabs?",
+  "key_points": {
+    "clueweb22-en0034-84-08823": [
+      {
+        "point_number": 1,
+        "point_content": "The Balfour Declaration supported the establishment of a Jewish homeland in Palestine, which contributed to tension between Jews and Arabs.",
+        "spans": [
+          "How did the Balfour Declaration contribute to tension between Jews and Arabs?",
+          "It supported the establishment of a Jewish homeland in Palestine."
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0037-53-12008": [
+      {
+        "point_number": 1,
+        "point_content": "The Balfour Declaration supported the establishment of a Jewish homeland in Palestine.",
+        "spans": [
+          "It supported the establishment of a Jewish homeland in Palestine."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The Balfour Declaration contributed to tension between Jews and Arabs by supporting the establishment of a Jewish homeland in Palestine.",
+        "spans": [
+          "How did the Balfour Declaration contribute to tension between Jews and Arabs?",
+          "It supported the establishment of a Jewish homeland in Palestine."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The division into Jewish and Arab states led Arabs to feel that Jews were taking their land, which contributed to conflict.",
+        "spans": [
+          "The division into Jewish and Arab states led Arabs to feel that Jews were taking their land."
+        ]
+      }
+    ]
+  }
+}

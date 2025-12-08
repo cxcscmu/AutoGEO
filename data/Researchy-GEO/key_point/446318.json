@@ -1,0 +1,374 @@
+{
+  "question": "should the government be responsible for the homeless",
+  "key_points": {
+    "clueweb22-en0036-25-16478": [
+      {
+        "point_number": 1,
+        "point_content": "The government has enough resources that none of its citizens should be without a home and it is the government's duty to help them.",
+        "spans": [
+          "our country has enough resources that none of its citizens should be without a home.",
+          "It is the governments duty to help them."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The government should do more for the homeless because the true measure of a society is how it treats its most vulnerable members.",
+        "spans": [
+          "The true measure of a society is how it treats it's most vulnerable members.",
+          "Therefore, the government should be doing much more than it is for the homeless population."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The homeless are human and deserve help and respect, and the government should help them.",
+        "spans": [
+          "they are human, and many simply need a helping hand or a second chance.",
+          "I agree that the goverment should help the homeless because who deserves to live like that?",
+          "We are all humans and deserve some respect!"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Helping the homeless can boost the economy by leading to more spending and higher economic growth.",
+        "spans": [
+          "If the government helps the homeless. Its a great way to boost the economy. It will lead to more spending and higher economic growth."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The homeless have feelings and need help to live, especially in expensive places, so the government should help but not excessively with taxpayers' money.",
+        "spans": [
+          "Every single person is human.",
+          "The homeless have feelings and the ability to process as well.",
+          "The gov't should definitely help the homeless but not with OUR money."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Some argue the government should not help the homeless because many refuse to work and misuse aid, and they already qualify for various benefits.",
+        "spans": [
+          "One must remember that these people generally refuse to hold down a job.",
+          "Not to mention all homeless people already qualify for food stamps, emergency medicaid, and can get any life saving treatment at a hospital without ever paying the bill, they just need a 9.00 a month PO Box to get benefits."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Some believe that reducing government support would encourage homeless people to find work and solutions for survival on their own.",
+        "spans": [
+          "If we chose not to spend our wealth to support those with their hands out - the vast majority of these leech-humans would suddenly and miraculously find themselves working out solutions for survival on their own."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Government aid can create dependency and discourage homeless people from finding jobs; instead, help should focus on job placement.",
+        "spans": [
+          "Too many programs make it easy for homeless and jobless to depend on the government.",
+          "Help them find a job, Don't just feed them a fish."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Government is inefficient and corrupt, and people should help the homeless directly rather than relying on government aid.",
+        "spans": [
+          "Government is inefficient and corrupt.",
+          "People need to stop being lazy and passing the issue off onto the government so they feel better.",
+          "If you want the homeless to do better, Then those who want to help them get your ass out there and help."
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0045-30-11111": [
+      {
+        "point_number": 1,
+        "point_content": "76% of people say the government is responsible for helping the homeless.",
+        "spans": [
+          "76% Say Yes"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Housing is considered a human right and the government should enforce human rights including housing, healthcare, education, living wage, job security, and a healthy environment.",
+        "spans": [
+          "Housing is a human right!",
+          "Human rights to housing, Healthcare, Education, Living wage, Job security, And a healthy environment should be respected and enforced consistently"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The government can prevent homelessness by providing job security and ensuring employers pay a living wage based on the cost of living.",
+        "spans": [
+          "When it comes to being homeless due to unemployment and not being paid a living wage that leads to being homeless which the government can prevent by providing job security and ending employment at will law. Also by making employers pay a living wage based upon the cost of living"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The government is responsible and should care about the homeless, and has money that it is not donating to non-profit organizations that help the homeless.",
+        "spans": [
+          "It is the government's job to help the homeless.",
+          "The government has so much money they are keeping and not donating some of the money to non-profit organizations that help the homeless people."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Some argue it is not the government's responsibility to help the homeless; people should take care of themselves and find jobs.",
+        "spans": [
+          "It is not the governments responsibility to watch over people in need. They should be able to take care of themselves and look out for themselves. They should be able to find a job and earn money for food."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "The federal government does not have the money to support the homeless and should promote charity rather than force it through taxes.",
+        "spans": [
+          "As of right now, the federal government does not have the money to support the homeless",
+          "I believe that the federal government should promote charity, rather than take the money from the taxpayers to pay for something that the taxpayer may not support."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Some believe homelessness is a personal issue and not the government's fault, so the government should not help the homeless.",
+        "spans": [
+          "It might be a personal issue. It isn't government's fault that they became homeless."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Some believe it is the church's responsibility, not the government's, to take care of the homeless.",
+        "spans": [
+          "It's not the government's responsibility because it is the church's responsibility we are to take care of the homeless and the less fortunate"
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Some argue that health care and housing are not human rights and that believing so supports slavery because someone must provide and pay for these services.",
+        "spans": [
+          "If you say health care and housing are \"human rights\" then you support slavery.",
+          "Health care is NOT a human right."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Some believe many homeless people are responsible for their situation due to drugs or bad decisions, so the government should not help them.",
+        "spans": [
+          "Most people are strung out on drugs or on making bad decisions. In that case the government should not help."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "The constitution does not mandate the government to provide housing for individuals; people should take responsibility for their own situations.",
+        "spans": [
+          "I have yet to find the language of our founding fathers that mandates government to put a roof over my head.",
+          "Whether inside or outside we all are subject to the laws of this nation and the rights of our constution."
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "Helping homeless people may encourage them to remain homeless because they rely on government aid instead of trying to work.",
+        "spans": [
+          "If the government help them your encouraging them to be homeless because they know the end of the day nothing bad life threatening will happen   because the government   will be help them every time they fall . So they won't try to work."
+        ]
+      }
+    ],
+    "clueweb22-en0026-18-14713": [
+      {
+        "point_number": 1,
+        "point_content": "Municipal governments should provide subsidized housing for their homeless residents to help them get a job, get back on their feet, and have a safe place to stay.",
+        "spans": [
+          "Municipal governments should provide subsidized housing for their homeless residents.",
+          "This could help the homeless population of Louisburg.",
+          "By providing the homeless with an address that gives them the opportunity to get a job, get back on their feet, and also give them a safe place to stay while beginning a new life."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Providing for the homeless is a moral support duty, not charity, and supporting them does not mean encouraging laziness or drug addiction.",
+        "spans": [
+          "Providing for the homeless should not be a charity for show but, for the moral support of human beings.",
+          "Supporting the homeless does not mean we are encouraging them.",
+          "Just because some are is homeless doesn’t mean they are drug addicts or just lazy."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Death of the homeless could be prevented if the municipal government would provide a safe place for the homeless to go.",
+        "spans": [
+          "Death of the homeless could be prevented if the municipal government would provide a safe place for the homeless to go."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The true measure of a society is how it treats its most vulnerable members, so the government should do more for the homeless population.",
+        "spans": [
+          "The true measure of a society is how it treats its most vulnerable members.",
+          "Therefore, the government should be doing much more than it is for the homeless population."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The homeless need help and understanding from their government.",
+        "spans": [
+          "They need help and understanding, and they need it from their government."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "As a society we have a duty to ensure people have a home with support to deal with their problems.",
+        "spans": [
+          "As a society we have a duty to ensure people have a home.",
+          "One where they have the support they need to deal with problems they may be struggling with."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "The municipal government could do a lot to help the homeless population but not many changes are being made.",
+        "spans": [
+          "The municipal government could a lot to help the homeless population but not many are seeing any changes being made."
+        ]
+      }
+    ],
+    "clueweb22-en0034-75-18904": [
+      {
+        "point_number": 1,
+        "point_content": "Government should provide the poor and the homeless with houses because they are citizens and have the right to have houses.",
+        "spans": [
+          "Firstly, poor and homeless are the citizen of country so they have right to have a houses."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Providing houses to the poor and homeless can improve their life and encourage them to live better.",
+        "spans": [
+          "Also, providing houses to poor or homeless can improve their life. They will more encourage by the government's step and will start something that help them to live better."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Government providing houses helps with cleanliness and benefits the poor by enabling them to do small business and earn money.",
+        "spans": [
+          "So government has made some bold decisions and gives every poor and homeless family a house to live. So it also helps government for cleanliness as well as it also beneficial for poor as they can do small business and earn money."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Providing houses brings safety for poor and homeless people who otherwise sleep on roads and face dangers.",
+        "spans": [
+          "In addition, providing houses also brings safety for poor and homeless people.",
+          "Sometimes they sleep on roads and many accidents happen because of that.",
+          "Sleeping on roads or sideways of roads is also dangerous."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Poor and homeless cannot buy houses as they cannot earn money, so government provision is beneficial.",
+        "spans": [
+          "And they cannot buy any houses as they cannot earn money that they buy houses. So providing houses is also beneficial for them."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "A country with a high poverty rate cannot develop; government focus on poor and homeless with housing and jobs is necessary for development.",
+        "spans": [
+          "Moreover, any country whose 25% populations are below poverty line can never become developed country.",
+          "If government more focuses on poor, homeless people who cannot buy houses or unemployed, then country can never become developed.",
+          "And if government provide houses with jobs for family, then can achieve same as everyone."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Providing houses to poor and homeless brings safety, encouragement, small business opportunities, and cleanliness benefits.",
+        "spans": [
+          "As we discussed, providing houses will bring safety, encourage to do better, small business and cleanliness."
+        ]
+      }
+    ],
+    "clueweb22-en0020-83-08165": [
+      {
+        "point_number": 1,
+        "point_content": "More than a quarter of Republicans (27%) say America’s local governments have “no obligation” to the homeless.",
+        "spans": [
+          "More than a quarter of Republicans (27%) say America’s local governments have “no obligation” to the homeless."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Within that group, 19% of Republicans say there is no government obligation because charities should be responsible for the homeless, while 8% say “sleeping on the streets should be illegal.”",
+        "spans": [
+          "Within that group, 19% of Republicans say there is no government obligation because charities should be responsible for the homeless, while 8% say “sleeping on the streets should be illegal.”"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "President Donald Trump said, “We may intercede, we may do something to get that whole thing cleaned up; it’s inappropriate. We’re really not very equipped as a government to be doing that kind of work; that’s not really the kind of work that the government probably should be doing.”",
+        "spans": [
+          "Trump spoke about people living on the street in large cities, saying, “We may intercede, we may do something to get that whole thing cleaned up; it’s inappropriate. We’re really not very equipped as a government to be doing that kind of work; that’s not really the kind of work that the government probably should be doing.”"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Democrats are much less likely (5%) to say local governments have “no obligation” to the homeless.",
+        "spans": [
+          "Democrats are much less likely (5%) to say local governments have “no obligation” to the homeless."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Three in ten (30%) Democrats believe all homeless people should be provided beds in a shelter by their local government, a sentiment that just 12% of Republicans agree with.",
+        "spans": [
+          "Three in ten (30%) Democrats believe all homeless people should be provided beds in a shelter by their local government, a sentiment that just 12% of Republicans agree with."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Most Republicans, Democrats, and Independents say some homeless people should be provided beds and the government should give assistance to charities where possible.",
+        "spans": [
+          "most Republicans, Democrats, and Independents say some homeless people should be provided beds and the government should give assistance to charities where possible."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Half of Republicans (50%) support a split of duties between government and charities compared to 48% of Independents and 45% of Democrats.",
+        "spans": [
+          "Half of Republicans (50%) support a split of duties between government and charities compared to 48% of Independents and 45% of Democrats."
+        ]
+      }
+    ],
+    "clueweb22-en0010-43-16385": [
+      {
+        "point_number": 1,
+        "point_content": "The government is responsible for ensuring the well-being of their people, including providing homes and jobs.",
+        "spans": [
+          "In democratic countries, the government is responsible for ensuring the well-being of their people.",
+          "Since homes and jobs are among the basic needs of the people, the government is certainly responsible for that."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "An efficient government can create enough jobs through education, loans, and running enterprises, which in turn resolves homelessness.",
+        "spans": [
+          "An efficient administration can do a lot of things to create enough jobs for all the people.",
+          "For example, it can provide education to improve the employability of people.",
+          "It can offer loans to help them build their own businesses.",
+          "It can also run many enterprises on its own and employ people.",
+          "Once jobs are created, the problem of homelessness will resolve on its own."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "People are also responsible for the problems affecting their country by electing corrupt or dishonest leaders.",
+        "spans": [
+          "Even so, I do not believe that the government is the only body responsible for the growth and development of a country.",
+          "The people are equally responsible especially in a democratic country.",
+          "Oftentimes, in India, it is quite common for people to elect corrupt and dishonest people to offices of power.",
+          "Many people only consider caste, religion or other vested interests when they vote and thus they get rulers who do not care for the development of the country.",
+          "Obviously, people are also responsible for the problems affecting their country."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The main problem is the people's inability to choose the right government, so both government and people share responsibility.",
+        "spans": [
+          "In conclusion, I believe that the government is certainly responsible for the problems affecting a country; having said that, people who elect the government also have to take some of the blame because the main problem plaguing the country is their inability to choose the right government."
+        ]
+      }
+    ]
+  }
+}

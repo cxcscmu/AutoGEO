@@ -1,0 +1,112 @@
+{
+  "question": "what human activities affect climate change",
+  "key_points": [
+    {
+      "point_number": 1,
+      "point_content": "Human activities have increased the abundance and concentration of greenhouse gases in the atmosphere since the Industrial Revolution, primarily through burning fossil fuels such as coal, oil, and natural gas, deforestation, and land use changes, leading to a significant increase in carbon dioxide, methane, nitrous oxide, ozone, and chlorofluorocarbons.",
+      "original_point_number": [
+        1,
+        2,
+        12,
+        19,
+        20,
+        30,
+        31,
+        34,
+        38,
+        39,
+        40
+      ]
+    },
+    {
+      "point_number": 2,
+      "point_content": "Burning fossil fuels releases carbon dioxide, a major greenhouse gas, contributing significantly to climate change; this includes emissions from electricity production by coal, gas, or oil-burning power plants (20% of all emissions), transportation (approximately 14%), industrial processes, and extraction and processing of fossil fuels (11%).",
+      "original_point_number": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        22,
+        38,
+        41,
+        42
+      ]
+    },
+    {
+      "point_number": 3,
+      "point_content": "Land use changes such as deforestation, land clearing, and clearing of forests for agriculture and development release carbon stored in soil and trees, accounting for about 10% of all greenhouse gas emissions, and reduce carbon absorption capacity.",
+      "original_point_number": [
+        9,
+        13,
+        21,
+        24,
+        39
+      ]
+    },
+    {
+      "point_number": 4,
+      "point_content": "Agriculture contributes significantly to greenhouse gas emissions through practices such as raising ruminant livestock (cattle, sheep, goats) producing methane, rice cultivation producing methane, manure management, soils, and nitrogen fertilizer use producing nitrous oxide, and deforestation for cattle grazing and commercial crops.",
+      "original_point_number": [
+        10,
+        14,
+        25,
+        26,
+        27,
+        36,
+        37
+      ]
+    },
+    {
+      "point_number": 5,
+      "point_content": "Thawing permafrost in Arctic regions releases carbon dioxide and methane, creating a feedback loop that accelerates warming.",
+      "original_point_number": [
+        11
+      ]
+    },
+    {
+      "point_number": 6,
+      "point_content": "Cement production releases massive amounts of carbon dioxide due to a chemical reaction.",
+      "original_point_number": [
+        8
+      ]
+    },
+    {
+      "point_number": 7,
+      "point_content": "A small number of fossil fuel corporations are responsible for a large share of energy-related carbon dioxide and methane emissions.",
+      "original_point_number": [
+        29
+      ]
+    },
+    {
+      "point_number": 8,
+      "point_content": "Human activities driving large scale environmental changes include land and sea use; hunting and harvesting of organisms; pollution; and invasive species introductions.",
+      "original_point_number": [
+        18
+      ]
+    },
+    {
+      "point_number": 9,
+      "point_content": "The anthropogenic greenhouse effect has led to a global temperature increase of approximately 1.0°C above pre-industrial levels, and to limit warming to 1.5°C, we need to reduce greenhouse gas emissions drastically.",
+      "original_point_number": [
+        15,
+        16
+      ]
+    },
+    {
+      "point_number": 10,
+      "point_content": "Anthropogenic aerosols, such as pollutants or smoke, can increase cloud formation and potentially offset global warming.",
+      "original_point_number": [
+        17
+      ]
+    },
+    {
+      "point_number": 11,
+      "point_content": "Humans put an estimated 9.5 billion metric tons of carbon into the atmosphere each year by burning fossil fuels, and another 1.5 billion metric tons through deforestation and other land cover changes.",
+      "original_point_number": [
+        32,
+        33
+      ]
+    }
+  ]
+}

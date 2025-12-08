@@ -1,0 +1,823 @@
+{
+  "question": "why is communism bad form of gov",
+  "key_points": {
+    "clueweb22-en0018-83-16097": [
+      {
+        "point_number": 1,
+        "point_content": "Communism limits individual freedom and decision-making opportunities.",
+        "spans": [
+          "That reduces the impact of social classes and money, but it also limits individual freedom and decision-making opportunities."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Public ownership under communism is easily manipulated by those in power, leading to abuse.",
+        "spans": [
+          "Public ownership structures are easily manipulated by others.",
+          "Because there is no private ownership involved with communism, the public nature of all properties creates a higher risk of abuse. Those who are at the highest levels of government within this structure control the most resources."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Individual rights are not a top priority under Communist rule, with individuals only free to pursue interests that benefit the whole community.",
+        "spans": [
+          "Individual rights are not a top priority under Communist rule.",
+          "You are only free to pursue your interests if they contribute to the welfare of the whole."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Opposition and dissent are not permitted under Communist rule and are often met with severe punishment.",
+        "spans": [
+          "Opposition is not permitted in Communism unless the central authority authorizes it.",
+          "Dissent is not permitted under Communist rule.",
+          "Dissidents in the Soviet Union faced an even worse fate, including forced admittance to mental hospitals, entry to a labor camp, or general exile. Because dissent was considered a criminal act, it could result in lengthy prison sentences too."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Communism uses propaganda indistinguishable from education to control the population.",
+        "spans": [
+          "Communism makes no distinction between propaganda and education.",
+          "Everything from textbooks to newspaper articles is carefully directed, managed, and monitored to produce results."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "There is no way to change the behaviors of the ruling group from within under communism, leading to repression and forced disappearances.",
+        "spans": [
+          "There is no way to change the behaviors of the ruling group from within.",
+          "When Communism encounters a voice which doesn’t support it, the first effort involves immediate suppression through repression. People disappear frequently, even today, because of how the government is perceived.",
+          "Forced disappearances occur when the state secretly imprisons or abducts someone, then refuses to acknowledge their whereabouts or fate."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Communism reduces levels of meaningful employment and personal incentives, often leading to poverty.",
+        "spans": [
+          "It reduces levels of meaningful employment in society.",
+          "Communism doesn’t earn you a paycheck. It gives you the right to continue living with the basic essentials and not much more.",
+          "The outcome of Communism is often poverty.",
+          "Most people live in poverty under Communism unless free-market exceptions, like those passed in recent decades by China, allow for some freedoms under the structure."
+        ]
+      }
+    ],
+    "clueweb22-en0009-96-13007": [
+      {
+        "point_number": 1,
+        "point_content": "Disadvantages of communism include strong government control, little motivation for individuals to better themselves, limited individual freedom, and protection of inefficient people or producers.",
+        "spans": [
+          "Some disadvantages of communism include strong government control, little motivation for individuals to better themselves, limited individual freedom, and protection of inefficient people or producers."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Communism involves government control of all production, collective ownership of goods, and income based on need.",
+        "spans": [
+          "To achieve this, the government controls all production. All goods are owned collectively, and income payment is based on need."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Communism comes at the cost of certain personal freedoms due to strong government control, including no ownership of businesses or goods by individuals.",
+        "spans": [
+          "This idea of equality may sound appealing, but it does come at the cost of certain personal freedoms due to strong government control. People are not allowed to own their own businesses or produce their own goods."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Decisions on production and compensation are made by the government, which can lead to inefficiencies and lack of incentives.",
+        "spans": [
+          "Decisions regarding how much to produce are left to the government’s discretion, which can lead to overproduction or underproduction. People’s compensation is also determined by the government."
+        ]
+      }
+    ],
+    "clueweb22-en0016-06-13760": [
+      {
+        "point_number": 1,
+        "point_content": "Communism does not value creativity and views jobs like poet or painter as unnecessary and ridiculous.",
+        "spans": [
+          "Communism views them as unnecessary and ridiculous."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Forced collectivization under communism led to mass starvation and death, as seen in Soviet Russia and Communist China.",
+        "spans": [
+          "The most notorious example of forced collectivization is the land reform carried out by Soviets between 1928 and 1933.",
+          "Exactly the same atrocity took place in Communist China, between 1958 and 1961."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Communism involves the forced redistribution of all land and property, taking away citizens' rights.",
+        "spans": [
+          "Marx advocated ten rules in his Communist Manifesto for the forced redistribution of all land and property for the good of the national community.",
+          "They are forced to join the new Communist government—whether they like it or not."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Communism reduces incentives to work hard because all reap an equal share regardless of effort.",
+        "spans": [
+          "When there are no extra incentives available—such as in a Communist state, where all reap an equal share in what some have worked harder to sow —the people in difficult jobs quickly lose their motivation."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Communist states are militant in opposition to imperialism and seek to replace all governments by Communist governments.",
+        "spans": [
+          "The Communist Manifesto advocates the replacement of all governments by Communist governments."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Communist states show indifference towards the environment, exploiting it without care for its health.",
+        "spans": [
+          "A Communist state will make up for its inefficient economy by doing whatever is necessary to produce crops and water.",
+          "The Soviet government chose to extract everything it could from the environment—without caring one bit about the health of that environment."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Communism suffers from the economic calculation problem, lacking sufficient information on market prices to ration resources properly.",
+        "spans": [
+          "The latter never has sufficient information on the market prices of commodities, and therefore cannot properly ration the distribution of a nation’s resources."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Communism does not erase class struggle but perpetuates it by creating a ruling upper class and a lower class with no middle class.",
+        "spans": [
+          "Communism itself does not erase the class struggle, as it proclaims, but keeps it going.",
+          "By maintaining their power, the leaders of a Communist state separate the population into at least two classes: themselves as the upper class, and preferably everyone else in the lower class.",
+          "Communist states have generally not featured a middle class"
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Communist rule has been responsible for mass murders and genocides, causing tens of millions of deaths.",
+        "spans": [
+          "Communist rule may be directly blamed for the deaths of at least eighty-five million people in the twentieth century.",
+          "In 1975, the Khmer Rouge seized power in Cambodia, and set out to establish a Communist utopia. They immediately committed genocide on their own people.",
+          "His “Great Leap Forward” caused the deaths by starvation of forty-five million Chinese civilians."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Karl Marx's economic theories underlying communism are flawed and not grounded in reality, leading to economic collapse.",
+        "spans": [
+          "Marx’s doctrine is fraught with faulty logic, loopholes, and unsolved problems.",
+          "This is expressly why Marxist Communism has caused the utter collapse of so many national economies: it thinks in broad strokes, and fails to tell one subtlety from another."
+        ]
+      }
+    ],
+    "clueweb22-en0008-34-17685": [
+      {
+        "point_number": 1,
+        "point_content": "The track record of implementing communism is appalling with terrible human costs and economic chaos.",
+        "spans": [
+          "the track record of implementing it is appalling. Various recipes have been tried with terrible human costs and and economic chaos."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Communism in practice has produced horrible results in countries like USSR, North Korea, Cuba, Venezuela, Cambodia, and initially China.",
+        "spans": [
+          "the flavors tried in the USSR, NKorea, Cuba, Venezuela, Cambodia and initially in China have produced horrible results."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Any form of government that strictly adheres to an ideology is bad and sooner or later fails.",
+        "spans": [
+          "Any form of government that strictly adheres to an ideology is bad, and all sooner or later failed."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Communism involves group rights being superior to individual rights, centralized control, and controlled markets, which leads to failure compared to capitalism.",
+        "spans": [
+          "As long as Communism is: Group rights superior to individual rights Centralized control Controlled markets Communism will never work as well as capitalism"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Communism has led to mass killings, political repression, famines, lack of freedom, and economic shortages.",
+        "spans": [
+          "hundred million people being killed, kangaroo court political processes leading to innocent people being tortured and executed, people being shot, eaten alive by guardian dogs or electrocuted on borders, incarcerating people in labor camps for telling the truth, large scale famines killing millions because of government believing in pseudoscience, not allowing kids to go to college because of their family background, waiting for 3 days in a queue to get your washing mashine and then getting the type you didn’t want, lying to children in school and rewriting the history"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Communism runs out of other people's money and stifles innovation and creation which sustains growth.",
+        "spans": [
+          "The problem of communism and its associated ideologies is that subsequently you run out of other people's money It is the power of innovation and creation that sustained humankind, growth happens by creating something new, not by just looting what exists already"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Communism is not a form of government but a political ideology aiming for a stateless, classless society which has never existed in practice.",
+        "spans": [
+          "Communism isn’t a form of government at all. It’s a kind of society. And on the terms of societies that profess it as a goal, it has never yet existed.",
+          "Communism is a political ideology, in the same way that liberal democracy, religious conservatism or democratic socialism are."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Communism is a form of oligarchy where the people do not rule, contrary to being a democracy.",
+        "spans": [
+          "Communism is not a form of democracy. It is a form of oligarchy. In communism the people do not rule."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Communism removes the desire for comparative advantage and innovation by enforcing equality, which harms progress.",
+        "spans": [
+          "What makes communism bad is the equality of the human soul, by removing the desire of comparative advantage, people no longer have desire to innovate."
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0015-19-01401": [
+      {
+        "point_number": 1,
+        "point_content": "Communism is a system of government where there is collective ownership. The government collectively owns properties, businesses, and social infrastructures.",
+        "spans": [
+          "Communism is a system of government where there is collective ownership. The government collectively owns properties, businesses, and social infrastructures."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "In a communist setting, there is government ownership of resources in the land. The government distributes them according to the ability of the citizens.",
+        "spans": [
+          "In a communist setting, there is government ownership of resources in the land. The government distributes them according to the ability of the citizens."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Communism is an ideology where individuals have little or no rights as regards their livelihood.",
+        "spans": [
+          "Communism is an ideology where individuals have little or no rights as regards their livelihood."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "In a pro-communist system, citizens do not have the right to lead protests against the government. Instead, the government dictates to you how you should live your life.",
+        "spans": [
+          "In a pro-communist system, citizens do not have the right to lead protests against the government. Instead, the government dictates to you how you should live your life."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "It is common knowledge that the majority of Americans approach life from an individualistic point of view. Americans believe that individuals should have the freedom to go about their lives and businesses as they please.",
+        "spans": [
+          "It is common knowledge that the majority of Americans approach life from an individualistic point of view. Americans believe that individuals should have the freedom to go about their lives and businesses as they please."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Ban on freedom of speech in a communist system of government, individuals cannot voice out their ideas or opinions concerning government laws and policies, especially when it conflicts with the ideologies of the government.",
+        "spans": [
+          "Ban on freedom of speech",
+          "In a communist system of government, individuals cannot voice out their ideas or opinions concerning government laws and policies, especially when it conflicts with the ideologies of the government."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "It encourages laziness because workers receive an equal amount of wages regardless of the input they put into their work.",
+        "spans": [
+          "It encourages laziness",
+          "Workers receive an equal amount of wages regardless of the input they put into their work."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "It prohibits any form of opposition; communism is majorly a one-party system and only permits opposition if the central government allows it.",
+        "spans": [
+          "It prohibits any form of opposition",
+          "Communism is majorly a one-party system and only permits opposition if the central government allows it."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "It limits individual rights; citizens have little or no rights over their lives. The government dictates how individuals should lead their lives, go about their businesses, and handle their resources.",
+        "spans": [
+          "It limits Individual rights",
+          "Citizens have little or no rights over their lives. The government dictates how individuals should lead their lives, go about their businesses, and handle their resources."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "The absence of free markets; the government determines the operations and production of goods and services, leading to overproduction and scarcity of goods in the market.",
+        "spans": [
+          "The absence of free markets",
+          "In a communist system of government, the government determines the operations and production of goods and services. There is no issue of demand and supply to regulate the production of goods. As a result, it often leads to overproduction and scarcity of goods in the market."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "The regulation of income; the government determines the level of income the citizens get, limiting any form of extra income and constraining entrepreneurs.",
+        "spans": [
+          "The regulation of income",
+          "The government determines the level of income the citizens get, regardless of how much input they put into their businesses. The interest of the government is in seeing that you meet your basic needs. Thus, it limits any form of extra income. Communism limits the growth of entrepreneurs and constrains them to a particular level as the government deems fit."
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "Poor economic relations; the government finds it hard to accommodate foreigners, leading to poor relations between nations and scaring investors.",
+        "spans": [
+          "Poor economic relations",
+          "In a communist setting, the government finds it hard to accommodate foreigners because they come in with their ideologies and beliefs. As a result, it leads to poor relations between nations, which, in turn, scare investors from investing their wealth in a communist system of government."
+        ]
+      }
+    ],
+    "clueweb22-en0045-44-04798": [
+      {
+        "point_number": 1,
+        "point_content": "Communist countries were ruled by dictatorial leaders who controlled the lives of everyone else.",
+        "spans": [
+          "countries ruled by dictatorial leaders who controlled the lives of everyone else"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Communist leaders set the wages, set the prices, and distributed the wealth, indicating centralized control and lack of economic freedom.",
+        "spans": [
+          "The communist leaders set the wages, they set the prices, and they distributed the wealth"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Most communist countries collapsed after Western capitalist nations fought hard against communism, showing practical failures of communist governments.",
+        "spans": [
+          "Western capitalist nations fought hard against communism, and eventually, most communist countries collapsed"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Marx’s utopia was never achieved as it required revolution on a global scale, which never came to pass, indicating the impracticality of communism as a form of government.",
+        "spans": [
+          "Marx’s utopia was never achieved, as it required revolution on a global scale, which never came to pass"
+        ]
+      }
+    ],
+    "clueweb22-en0019-85-11884": [
+      {
+        "point_number": 1,
+        "point_content": "Communism is described as a perfect system in an imperfect world, but humans are too corrupt to maintain equality, leading to 'more equal' people.",
+        "spans": [
+          "It has been described as \"a perfect system in an imperfect world.\"",
+          "Basically, humans are too corrupt to maintain the equality; just look at Stalin, there will always be \"more equal\" people."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Communism does not work practically due to human nature and greed.",
+        "spans": [
+          "It does not work practically.",
+          "Even if society was able to function under Communism, which has been proven impossible due to greed,"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Power corrupts absolutely in communism, and those who run communist countries are often not benign or tolerant.",
+        "spans": [
+          "the problem is people - power corrupts and absolute power corrupts absolutely. communism can be benign and tolerant. the people who use it to run a country as a rule are not"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Communism bans religion, restricts personal freedom, and does not allow personal property, making it harder to escape persecution.",
+        "spans": [
+          "All religion is banned because people must surrender totally to the state.",
+          "No personal freedom.",
+          "No right to personal property means that it's harder to start a new life elsewhere if they're suffering persecution."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Total control of the economy in communism allows the state to commit genocide by starving out 'undesirables'.",
+        "spans": [
+          "Total control of the economy means the state can commit genocide simply by starving out 'undesirables' which it can get away with more easily than if it were to use gas chambers or soldiers."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "There is no reward for doing more than is required, which demotivates people from taking hard or stressful jobs.",
+        "spans": [
+          "There is no reward for doing more than is required apart from a warm fuzzy feeling.",
+          "Put it this way, jobs like doctors in emergency rooms are extraordinarily stressful, plus they have to have staff on 24/7, which means night shifts. Yet they are rewarded the same as everyone else."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Communism eliminates competition and democracy, allowing people to take advantage and twist the system.",
+        "spans": [
+          "Like others have said communism isn't that bad on paper but when put into practice people take advantage and are able to twist it.",
+          "Also it eliminates any kind of competition and democracy."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Communism does not fulfill people's needs and requires giving up control over things around you.",
+        "spans": [
+          "It doesnt furfil the needs of the peoples requirement. I.e if i said you have to have porridge for breakfast. Esssentially you give up you're right to control the things around you."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Communism has never been successfully implemented as a true communist state and would require a lengthy transition period.",
+        "spans": [
+          "There has never been a communist state (even the very term 'communist state' is an oxymoron), despite what certain states have claimed over the past century, and if there ever will be one (of which I'm not convinced), it will not be for many, many years."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Communism is repressive in practice, with no freedom of speech or democracy, and discourages hard work due to equal pay regardless of effort.",
+        "spans": [
+          "Like others have said, it's not the worst idea, but when it's put into practice it's repressive.",
+          "There's no freedom of speach, no democracy and why would people want hard/stressful jobs, if they're getting paid the same as people basically dossing around, having fun all day at work."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Historical tragedies such as the Holodomor, Khmer Rouge genocide, Mao's policies, and the Great Purge are cited as reasons why communism was bad.",
+        "spans": [
+          "http://en.wikipedia.org/wiki/Holodomor",
+          "http://en.wikipedia.org/wiki/Khmer_R...le_of_Cambodia",
+          "http://en.wikipedia.org/wiki/Mao_zedong#Legacy",
+          "http://en.wikipedia.org/wiki/Great_Purge",
+          "This is why Communism was bad. All of these tragedies were inflicted during the process of creating - or, while attempting to create - a communist state."
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "Communism causes the cleverer people to leave the country, resulting in a lack of professionals and a decline in potential.",
+        "spans": [
+          "It is the worst thing possible. How can people achieve their maximum potential in a communist state? In the end, a lot of the cleverer people leave to other countries and the communist country is left with a lack of professionals. Awful idea."
+        ]
+      }
+    ],
+    "clueweb22-en0037-39-13796": [
+      {
+        "point_number": 1,
+        "point_content": "Communism does not work because it pays everyone the same regardless of effort, leading to lack of motivation to work and economic decline.",
+        "spans": [
+          "communism is when the government gives everyone the same amount of money, no matter how hard they work, no matter who they are.",
+          "If you knew that you would get just as much money as anyone else, no matter what you did, you wouldn't work as hard-- or even work at all.",
+          "With no one working, the economy would fall..."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Communism has failed everywhere it was implemented and leads to loss of personal freedom and government control over spending.",
+        "spans": [
+          "Communism has failed everywhere it was implemented, along with socialism.",
+          "A communist government or even a socialist government (which Hitler ran) has all the power.",
+          "The people are not free to spend their money how they want"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Communism pays all professions equally regardless of education or skill, causing skilled professionals to quit and society to suffer.",
+        "spans": [
+          "Communism is bad, Because if there is a taxi driver, And a doctor, Then they get paid the same for their passion.",
+          "In the real world, If doctors get 6 years of school, And taxi drivers get maybe 1 week, Then the doctors will quit and just become a taxi driver, Or something else with no schooling.",
+          "People will suffer having no doctors, Or something like that."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "In communism, the government owns everything and dissent is punished, while only party members benefit.",
+        "spans": [
+          "The government owns literally everything.",
+          "You can’t own anything.",
+          "Only the people in the communist party gets to share all the good stuff while the rest of the people lives in pain and terror caused by the insane government."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Communism leads to oppression, tyranny, and mass deaths historically, using equality as a guise.",
+        "spans": [
+          "Communism is possibly one of the worst political systems ever devised, arguably worse than Fascism.",
+          "Communism in the USSR, China, North Korea, Southeast Asia, Cuba, and other parts of the world has led to more deaths than both world wars and every war the United States has ever fought combined.",
+          "Communism uses the guise of equality to hide its aspects of oppression and tyranny."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Communism removes incentives to work hard, which is necessary for societal progress and innovation.",
+        "spans": [
+          "Equality is good, but TOO much is just wrong! We need that drive to get us forward in life.",
+          "NOBODY will have the drive to do anything important for our society such as electrical engineering when they can work at a grocery market."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Communism creates resentment and division between producers and non-producers due to forced equal sharing.",
+        "spans": [
+          "Taking from someone, especially what they have produced, creates resentment between the taker and the producer.",
+          "The communist system creates a cultural divide, it does not heal them."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Communism is impractical because it cannot fairly decide distribution of resources and services.",
+        "spans": [
+          "there is no way to systematically decide who gets what.",
+          "If we are sharing goods and services equally everyone gets an incision, and the cancer remains inside."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Communism has historically led to brutal dictatorships and poverty rather than prosperity.",
+        "spans": [
+          "communism has always failed.",
+          "communism can literally be used to create a brutal dictatorship and take control of everyone.",
+          "Without using communism properly, it can lead to poverty rather than prosperity."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Communism requires a central planner and control maintained by force, leading to equalized suffering except for decision makers.",
+        "spans": [
+          "Without rewards or incentives, production and consumption is un-coordinated.",
+          "These central planners can only maintain control at the tip of a bayonet, thus an orderly society that shares the suffering equally, except for those that make decisions."
+        ]
+      }
+    ],
+    "clueweb22-en0006-88-10461": [
+      {
+        "point_number": 1,
+        "point_content": "Communism can be easily manipulated to serve the purpose of the state, with the government holding all the common property instead of the people.",
+        "spans": [
+          "The primary disadvantage of Communism is the fact that it can be easily manipulated to serve the purpose of the state.",
+          "Governments which have implemented structures which have been called Communism have switched the concept so that the government holds all the common property instead of the people."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Individual rights are restricted under Communism, with people not free to pursue their own interests and job assignments based on community needs.",
+        "spans": [
+          "Individual rights are restricted.",
+          "Their job assignments are based on what the community requires for survival."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "There is no unauthorized opposition in Communism, with absolute control over law and suppression of dissent.",
+        "spans": [
+          "There is no unauthorized opposition.",
+          "They have an absolute rule over the law and can even outlaw private ownership of any capitalistic items, such as currency or property.",
+          "If you don’t agree with the direction of society, you could be imprisoned or worse."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "People are kept in ignorance by government control of information and limited contact with the outside world.",
+        "spans": [
+          "People are kept in ignorance.",
+          "The single party can control the message that people receive within their country.",
+          "There is rarely any contact with the outside world that has not been screened by the government first."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Violence tends to be the only option for dissent due to lack of authorized opposition, leading to increased government repression.",
+        "spans": [
+          "Violence tends to be the only option for dissent.",
+          "Because only authorized dissent is allowed in Communism, people who feel like their voices are not being heard tend to resort to violence or violent rhetoric to make their point.",
+          "Secret police and other forms of enforcement are then used to maintain control within the governmental structure."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Earning is limited with specific caps on income, reducing motivation for innovation and hard work.",
+        "spans": [
+          "Earning is limited.",
+          "There are specific caps placed on the amount of income that can be earned by individuals within this structure of government.",
+          "These hard caps make it difficult for innovation to grow because there is no motivation to work harder."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Communism often results in poverty as the system is easy to manipulate by officials to benefit a few while others work for virtually nothing.",
+        "spans": [
+          "It often results in poverty.",
+          "One politician can tweak the rules and laws so that their class of people receive the most compensation while still mandating everyone else to work for virtually nothing."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "No savings or inheritance are allowed as all wealth belongs to the community or state.",
+        "spans": [
+          "No savings are allowed.",
+          "There is no precedent for inheritance under true Communism because everything belongs to the singular party, state, or government."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Employment may be high but meaningful employment is low, with people working jobs assigned by the government and lacking passion.",
+        "spans": [
+          "Employment may go up, but meaningful employment goes down.",
+          "Many people living within this form of government aren’t following their passions because they don’t have the final say for their career."
+        ]
+      }
+    ],
+    "clueweb22-en0028-72-16681": [
+      {
+        "point_number": 1,
+        "point_content": "The government owns everything, including property, businesses, and production means, eliminating the free market and causing inefficiencies like surpluses and shortages.",
+        "spans": [
+          "The most significant disadvantage of communism is the fact that it eliminates the free market from domestic society.",
+          "Because of this disadvantage, it is not unusual for the government to produce too much of one item and too little of another. Surpluses and shortages in critical need areas can be strong enough at times that government disruptions can occur."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "There is no freedom of speech in the typical communist government, as individual freedoms are suppressed to maintain government power.",
+        "spans": [
+          "There is no freedom of speech in the typical communist government.",
+          "The only reason to suppress this right is to keep those who are in power from losing it, which is why there are restrictions made on individual expressions, journalistic thought, and other challenges to the actions of the government."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Central planning is challenging to achieve, leading to black markets and distrust in the system.",
+        "spans": [
+          "Central planning is challenging to achieve in a communist government.",
+          "Because a free market doesn’t exist under this structure, the citizens will setup black markets to help them trade the items they want or need that are not part of the planner’s provisions."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Efficiency and productivity are difficult since there is little motive for workers and no entrepreneurs.",
+        "spans": [
+          "Efficiency and productivity are difficult since there is little motive for workers.",
+          "There is never a need to have entrepreneurs operating in a communist space because the government maintains control of everything."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The needs of the consumer are not taken into consideration, leading to economic inefficiencies and shortages.",
+        "spans": [
+          "The needs of the consumer are not taken into consideration in a communist government.",
+          "There is a reason why only five active governments in the world today practice communism."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Diverse populations may be challenging to govern due to different needs that are hard to meet under a uniform system.",
+        "spans": [
+          "Diverse populations may be challenging to govern with their need for different rules.",
+          "Even though it became a communist nation in 1960 when Castro proclaimed it to be the ruling party to encourage the Soviet Union to provide economic support in return for access to the United States, it has struggled to provide each sector with the needs that are necessary for even an average quality of life."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "There are strict rules in place that govern the structure of a classless society, causing emotional unrest and lack of recognition.",
+        "spans": [
+          "There are strict rules in place that govern the structure of a classless society.",
+          "That means farmers are going to receive the same compensation as an administrative worker, which can cause problems in some societal segments since the work can be more demanding.",
+          "This disadvantage can cause high levels of emotional unrest for a variety of reasons. You never receive recognition for your work because this would set you apart from the rest of the society, so there is an expectation to be productive and remain that way for basic survival."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Communism comes with high levels of official abuse due to state ownership and control over resources.",
+        "spans": [
+          "It is a government structure that comes with high levels of official abuse.",
+          "Because ownership in a communist government lies with the state instead of in private hands, there is a higher risk of abuse for monetary purposes, power and control, or to pursue a personal agenda."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Opposition is not allowed unless authorized by the communist government, leading to repression and lack of political freedom.",
+        "spans": [
+          "Opposition is not allowed unless the communist government authorizes it.",
+          "The goal of the communist party once it comes into power is to hold onto that leverage by any means necessary."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Communism often causes poverty instead of wealth, with people living on the bare minimum.",
+        "spans": [
+          "Instead of providing wealth, communism often causes poverty.",
+          "For the other five countries that continue to use this governing structure, the result is a higher level of poverty than other nations."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "You cannot save any money in a communist government due to wealth caps and redistribution policies.",
+        "spans": [
+          "You cannot save any money in a communist government.",
+          "Because everything belongs to the state in communism, there are specific wealth caps that you and your family must follow."
+        ]
+      }
+    ],
+    "clueweb22-en0004-80-15481": [
+      {
+        "point_number": 1,
+        "point_content": "Every time communism has been tried, it has led to millions of deaths, such as Stalin's Gulag camps, Mao's Great Leap Forward, Cambodia's Khmer Rouge.",
+        "spans": [
+          "every time we have tried to implement communism it has led to millions of people dying - Stalin's Gulag camps, Mao's Great Leap Forward, Cambodia's Khmer Rouge are just a few quick examples you can google."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The principle 'each person contributes and receives according to their ability and needs' creates poor incentives, discouraging people from developing their abilities and encouraging them to exaggerate their needs.",
+        "spans": [
+          "The main reason for the failure in practice is probably this exact sentence: \"each person contributes and receives according to their ability and needs\". If you receive more the more needs you have and work less the less ability you have, would you feel incentivised to develop your abilities? Or instead, you would feel incentivised to prove that you have greater needs than the others around you. Incentives like these seem to matter too much, and we as humans seem to be unable to rise to some moral ideal - instead, we try to create the best lives for ourselves, and in the case of communism that means signalling needs and a lack of ability"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Communism requires people to ignore innate human desires such as greed and laziness, which is unrealistic on a large scale, leading to breakdowns and the need for enforcement with an iron fist.",
+        "spans": [
+          "The problem with communism is that it requires people to ignore certain innate human desires such as greed, power, and on the opposite spectrum: laziness.",
+          "On a large scale, it's simply impossible to expect a society to have all members forego so many basic human instincts in order to prevent the breakdown, so the system must be enforced with an iron fist."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Communism tends to create authoritarian governments where the party is always in control and treats people poorly to maintain the system.",
+        "spans": [
+          "The power structure is designed to view people as the property of the state.",
+          "\"The Party\" is all that is important and they most certainly tell you to \" treat your people like dirt\" if you question the party."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Communism is incompatible with human nature and individual incentives, leading to shortages, oppression, and impoverishment under the state.",
+        "spans": [
+          "Communism is a system in which government intervention into private affairs is so pervasive that individual accomplishment and individuality becomes devalued.",
+          "The individual does not directly benefit from the fruits of their labor. Because of that, the individual has no incentive to actually work to their fullest ability.",
+          "Communist states are almost always plagued by shortages of basic goods.",
+          "Communism, according to its own ideology, is the only legitimate form of governance; there can be no valid opposition to the dialectically ordained dictatorship of the proletariat.",
+          "The end result is a system of governance whereby the people are impoverished and the state must compel them into productivity."
+        ]
+      }
+    ],
+    "clueweb22-en0031-33-20181": [
+      {
+        "point_number": 1,
+        "point_content": "Communism is a political ideology and type of government in which the state owns the major resources in a society, including property, means of production, education, agriculture and transportation.",
+        "spans": [
+          "Communism is a political ideology and type of government in which the state owns the major resources in a society, including property, means of production, education, agriculture and transportation."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Lenin overturned the election results and used military force to prevent democratic assembly, establishing state-centered government programs and a secret police force to censor and control opposition.",
+        "spans": [
+          "when the Bolsheviks gained only 25 percent of votes in the 1917 elections, Lenin overturned the results and used military force to prevent democratic assembly",
+          "He established several state-centered government programs and policies that would continue, in some form, throughout the reign of the Soviet Union",
+          "He also established the Cheka, a secret police force to defend the success of the Russian Revolution and censor and control anti-Bolshevik newspapers and activists."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Lenin authorized the Red Terror, an execution order of former government officials and the royal family.",
+        "spans": [
+          "Lenin, following a suggestion from a military leader named Joseph Stalin, authorized the start of the Red Terror, an execution order of former government officials under the Czar and Provisional Government, as well as the royal family."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The civil war after the revolution involved terror tactics, mass executions, and labor camps, devastating the country’s agricultural and economic system.",
+        "spans": [
+          "Both sides engaged in terror tactics against each other included mass executions and the establishment of Prisoner of War labor camps, and wreaked havoc on the country’s already-weak agricultural and economic system."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Stalin proposed fighting the Communist Party’s enemies through systematic mass terror and killings and led brutal military actions and repression.",
+        "spans": [
+          "Stalin actually proposed the idea of fighting the Communist Party’s enemies through systematic mass terror and killings to Lenin",
+          "he also oversaw brutal military actions throughout the civil war and led the 1921 invasion of Georgia to overthrow an unfriendly social-democratic government",
+          "Stalin took the lead in establishing a Bolshevik regime in the country hard-line policies that forcefully repressed any communist opposition."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Stalin isolated and removed his opponents, becoming the unchallenged leader and ruled from 1924-1953 with a highly centralized command economy causing famine and repression.",
+        "spans": [
+          "Over the next few years, Stalin isolated his major opponents in the Communist Party, eventually throwing them out, and became the unchallenged leader of the Soviet Union",
+          "He officially ruled the country from 1924-1953",
+          "Stalin revamped the Soviet Union’s economic policy, replacing Lenin’s New Economy Policy with a highly centralized command economy controlled by the state, which rapidly industrialized the country",
+          "the quick transition from agriculture to industry disrupted food supply and caused a massive famine lasting from 1932 to 1933",
+          "people deemed to be political enemies began being imprisoned in labor camps or deported to remote areas of Russia"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "The Great Purge under Stalin led to about one million executions from 1934 to 1940 of political enemies including Communist Party members who disagreed with Stalin.",
+        "spans": [
+          "In 1934, actions against political enemies, including members of the Communist Party who disagreed with Stalin’s policies, intensified with the start of the Great Purge",
+          "About one million people were executed from 1934 to 1940 under Stalin’s orders."
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "question": "how have covid shutdowns, virtual school, and remote work changed our relationship to technology?",
+  "key_points": [
+    {
+      "point_number": 1,
+      "point_content": "The COVID-19 pandemic has caused worldwide school closures, leading to a rapid shift to remote and online learning, significantly changing education with increased use of digital platforms and e-learning tools.",
+      "original_point_number": [
+        1,
+        9,
+        10,
+        18,
+        19,
+        33,
+        53,
+        61
+      ]
+    },
+    {
+      "point_number": 2,
+      "point_content": "There has been a significant surge in the use and expansion of education technology during the pandemic, including language apps, virtual tutoring, video conferencing tools, online learning software, and comprehensive digital tools for education and remote work.",
+      "original_point_number": [
+        2,
+        3,
+        4,
+        29,
+        30,
+        31,
+        32,
+        34,
+        43
+      ]
+    },
+    {
+      "point_number": 3,
+      "point_content": "The pandemic has accelerated the integration of information technology in education, making online education an integral component of school education and potentially catalyzing a shift towards new, more effective educational methods.",
+      "original_point_number": [
+        5,
+        9,
+        20,
+        21,
+        35
+      ]
+    },
+    {
+      "point_number": 4,
+      "point_content": "Online learning can be more effective than traditional classrooms, allowing students to learn at their own pace, retain more material, and engage more, with technology enabling more efficient communication and interaction between teachers and students.",
+      "original_point_number": [
+        6,
+        7,
+        20,
+        34
+      ]
+    },
+    {
+      "point_number": 5,
+      "point_content": "There are challenges such as the digital divide, where some students lack reliable internet access or technology, economic and health factors causing disengagement, and concerns that distance learning technologies could widen disparities in digital readiness and income levels.",
+      "original_point_number": [
+        8,
+        16,
+        44
+      ]
+    },
+    {
+      "point_number": 6,
+      "point_content": "Student achievement impacts from the pandemic are mixed: students in grades 3-8 performed similarly in reading in fall 2020 compared to 2019, possibly due to increased reading and parental support, but math achievement was about 5 to 10 percentile points lower; overall, most students made some learning gains, though smaller in math, with no evidence of increased variability in learning gains despite concerns about unequal opportunities.",
+      "original_point_number": [
+        11,
+        12,
+        13,
+        14,
+        15
+      ]
+    },
+    {
+      "point_number": 7,
+      "point_content": "Educators have gained more experience with remote instruction since the initial school closures in spring 2020, but the collective shock and challenges of the transition continue.",
+      "original_point_number": [
+        17
+      ]
+    },
+    {
+      "point_number": 8,
+      "point_content": "Technology has the potential to transform education from a teaching culture to a learning culture, enabling personalized, flexible, and collaborative learning experiences, with real-time data allowing teachers to support students holistically and potentially replace traditional testing with continuous assessment.",
+      "original_point_number": [
+        20,
+        22,
+        23
+      ]
+    },
+    {
+      "point_number": 9,
+      "point_content": "Teachers need to adapt to new roles as model learners and facilitators of personalized learning, learning alongside students and embracing new technology.",
+      "original_point_number": [
+        24
+      ]
+    },
+    {
+      "point_number": 10,
+      "point_content": "Businesses and educational institutions worldwide have rapidly responded to the COVID-19 pandemic by implementing travel restrictions, work from home (WFH), and remote learning policies, leading to lasting impacts on remote work and technology adoption.",
+      "original_point_number": [
+        25,
+        26,
+        35
+      ]
+    },
+    {
+      "point_number": 11,
+      "point_content": "The surge in remote work and learning has created unprecedented growth in users and usage of collaboration tools, video conferencing, and group chat, with providers offering free or extended services to accommodate users working and learning from home.",
+      "original_point_number": [
+        27,
+        28,
+        29,
+        30,
+        31,
+        36
+      ]
+    },
+    {
+      "point_number": 12,
+      "point_content": "Zoom has become a mainstream communication tool and social platform for millions, including students and families, amid social distancing.",
+      "original_point_number": [
+        32
+      ]
+    },
+    {
+      "point_number": 13,
+      "point_content": "Remote work is enabled by technologies such as VPNs, VoIPs, virtual meetings, cloud technology, collaboration tools, and facial recognition technologies, providing benefits like virus spread prevention, saved commute time, and more flexibility, but also challenges including information security, privacy, tech support, loneliness, and work-life balance.",
+      "original_point_number": [
+        38,
+        39,
+        40
+      ]
+    },
+    {
+      "point_number": 14,
+      "point_content": "If remote work becomes more common post-pandemic, employers may reduce lease costs and hire people from regions with cheaper labor costs.",
+      "original_point_number": [
+        41
+      ]
+    },
+    {
+      "point_number": 15,
+      "point_content": "Many educational institutions started offering courses online to ensure education continuity during quarantine, using technologies similar to those for remote work, including virtual reality, augmented reality, 3D printing, and AI-enabled robot teachers.",
+      "original_point_number": [
+        42,
+        43
+      ]
+    },
+    {
+      "point_number": 16,
+      "point_content": "Telehealth can effectively contain the spread of COVID-19 while providing essential primary care, using wearable IoT devices and chatbots, but remote work, distance learning, and telehealth require good internet connection and tech literacy.",
+      "original_point_number": [
+        45,
+        46
+      ]
+    },
+    {
+      "point_number": 17,
+      "point_content": "COVID-19 has transformed online shopping into a necessity worldwide, with developments in contactless delivery and robot deliveries, and contactless digital payments are recommended to avoid virus spread and enable online transactions.",
+      "original_point_number": [
+        47,
+        48
+      ]
+    },
+    {
+      "point_number": 18,
+      "point_content": "Transitioning to online teaching requires reinventing the course experience beyond just using technology like Zoom, involving changes in course content, balancing asynchronous and synchronous activities, and using data to enhance classes during shelter-in-place.",
+      "original_point_number": [
+        49,
+        50,
+        51,
+        52
+      ]
+    },
+    {
+      "point_number": 19,
+      "point_content": "Key learnings from transitioning to online teaching include flipping the classroom (students prepare before class to use class time for applied exercises), ensuring engagement through frequent quizzes, and being approachable online to create personal bonds despite the virtual setting.",
+      "original_point_number": [
+        54,
+        55,
+        56,
+        57,
+        58,
+        59
+      ]
+    },
+    {
+      "point_number": 20,
+      "point_content": "Digital tools and data help create an engaging learning environment and challenge teachers to use data more effectively to ensure higher engagement.",
+      "original_point_number": [
+        60
+      ]
+    },
+    {
+      "point_number": 21,
+      "point_content": "School counselors are using technology and online tools to provide virtual advisement and counseling, staying connected and engaged with students, addressing digital safety, cyberbullying prevention, privacy protection, and adapting to a hybrid model of in-person and online instruction, with future trends including increased online counseling platforms and comprehensive online college advising.",
+      "original_point_number": [
+        62,
+        63,
+        64,
+        65,
+        66
+      ]
+    }
+  ]
+}

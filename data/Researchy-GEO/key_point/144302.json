@@ -1,0 +1,211 @@
+{
+  "question": "how does being vaccinated protect others",
+  "key_points": {
+    "clueweb22-en0024-15-05349": [
+      {
+        "point_number": 1,
+        "point_content": "COVID-19 vaccines reduce the likelihood of becoming infected and spreading the virus to others.",
+        "spans": [
+          "fully vaccinated people are less likely to become infected and less likely to spread the virus to others"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Getting vaccinated helps protect people around you, especially those with underlying health conditions.",
+        "spans": [
+          "Because the vaccine reduces your likelihood to pass the virus to others, getting a vaccine can help protect people around you — especially those who do have underlying health conditions that would make it harder for them to recover from severe disease."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Vaccination is about protecting your community as well as yourself.",
+        "spans": [
+          "Getting vaccinated against COVID-19 is similar to getting vaccinated for other diseases in that it’s as much about protecting your community as it is about protecting yourself."
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0013-31-01365": [
+      {
+        "point_number": 1,
+        "point_content": "Vaccination reduces the risk of infection and severe complications, thus protecting others by lowering the chance of spreading the virus.",
+        "spans": [
+          "No vaccine offers 100% protection against illness, yet it does give you a better chance to fight off the infectious consequences of being exposed to the SARS-CoV2 virus."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Vaccinated people may still transmit COVID-19, but at a lower rate, which helps protect others.",
+        "spans": [
+          "While it is possible, Dr. Cardona says that the ability to transmit COVID-19 may occur at a lower rate."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Vaccinated people who become infected have less detectable virus and shed virus for fewer days, reducing the likelihood of spreading the virus to others.",
+        "spans": [
+          "The results of this study also suggest that fully or partially vaccinated people who become infected with COVID-19 might be less likely to spread the virus to others.",
+          "With fully or partially vaccinated study participants, the virus was 40% less detectable in their noses. It was also detected in six fewer days (i.e., viral shedding) as compared to those who weren’t vaccinated when they became infected."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Vaccination lowers the chance of prolonged infection, which is associated with reduced spread of the virus to others.",
+        "spans": [
+          "In addition, people who were partially or fully vaccinated were 66% less likely to test positive for the SARS-CoV-2 infection for more than one week in comparison to those who were unvaccinated."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Getting vaccinated is safer for you, your loved ones, and the community, implying protection of others through reduced transmission and serious illness.",
+        "spans": [
+          "But the one thing we do know is that getting vaccinated is still the safer choice for preventing serious illness for you, your loved ones and the benefit of our communities."
+        ]
+      }
+    ],
+    "clueweb22-en0002-89-17223": [
+      {
+        "point_number": 1,
+        "point_content": "Vaccinating people around those who cannot get vaccinated protects those vulnerable individuals.",
+        "spans": [
+          "We know for sure that having that cocoon of protection in the household by vaccinating everyone around the patient protects them"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Some people cannot get vaccinated or may not respond well to the vaccine due to immune conditions or medications.",
+        "spans": [
+          "some are not able to get the vaccine at all",
+          "You also have a group of people that may get the vaccine but may not respond appropriately because they have an immune condition or they are taking medicines that may impair that response to the vaccine"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Getting vaccinated is a selfless act that helps protect others who cannot be vaccinated.",
+        "spans": [
+          "Getting vaccinate can be a selfless act. Doctors say your vaccination can help others who aren't able to be vaccinated."
+        ]
+      }
+    ],
+    "clueweb22-en0002-85-19572": [
+      {
+        "point_number": 1,
+        "point_content": "Getting vaccinated helps keep the community healthy by preventing the spread of germs.",
+        "spans": [
+          "when you get vaccinated, you’re protecting yourself and your community?",
+          "when enough people are vaccinated against a certain disease, the germs can’t travel as easily from person to person — and the entire community is less likely to get the disease."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Community immunity protects people who cannot get vaccinated or have weak immune responses.",
+        "spans": [
+          "That means even people who can’t get vaccinated will have some protection from getting sick.",
+          "Community immunity protects everyone. But it’s especially important because some people can’t get vaccinated for certain diseases — such as people with some serious allergies and those with weakened or failing immune systems (like people who have cancer, HIV/AIDS, type 1 diabetes, or other health conditions).",
+          "Community immunity is also important for the very small group of people who don’t have a strong immune response from vaccines."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Vaccinating a large portion of the community reduces the chance of outbreaks and can eventually wipe out diseases.",
+        "spans": [
+          "if a person does get sick, there’s less chance of an outbreak because it’s harder for the disease to spread. Eventually, the disease becomes rare — and sometimes, it’s wiped out altogether."
+        ]
+      }
+    ],
+    "clueweb22-en0011-07-04845": [
+      {
+        "point_number": 1,
+        "point_content": "The Covid-19 vaccine blocks pretty much all cases of serious illness and is a very big step towards protecting those around you, particularly vulnerable people.",
+        "spans": [
+          "The Covid-19 vaccine blocks pretty much all cases of serious illness",
+          "it is becoming increasingly clear the jab is a very big step towards protecting those around you - particularly people who are vulnerable"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The vaccine stops a big chunk of people catching the virus at all, so if you don't get infected, you cannot infect others.",
+        "spans": [
+          "A growing body of real-world evidence suggests it stops a big chunk of people catching the virus at all - if you don't get infected in the first place, you cannot infect other people."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Vaccination moves people down the severity ladder of Covid, reducing the risk of severe illness and possibly preventing infection altogether.",
+        "spans": [
+          "Being vaccinated effectively moves people down the rungs of this ladder."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Studies show vaccination reduces positive tests and asymptomatic infections, indicating reduced transmission potential.",
+        "spans": [
+          "Regular testing of participants in the Oxford-AstraZeneca vaccine trials, with or without symptoms, found positive tests fell by more than half.",
+          "a later study of 40,000 health workers in England suggested one Pfizer-BioNTech dose cut the risk of  infection - symptomatic or otherwise - by 70%, and two doses by 85%.",
+          "a separate analysis of the test results of hospital workers in Cambridge found a 75% decrease in asymptomatic infections after vaccination."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "People living with vaccinated NHS staff were less likely to catch the virus, providing direct evidence the jab can protect others.",
+        "spans": [
+          "People living with vaccinated NHS staff in Scotland were considerably less likely to catch the virus than those living with unvaccinated health workers, providing direct evidence the jab can protect others."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Vaccinated people have lower viral loads, meaning they shed less virus and are less contagious.",
+        "spans": [
+          "the infections there had much lower \"viral loads\" - people shed less virus, meaning they would be less contagious as well as at lower risk of becoming ill."
+        ]
+      }
+    ],
+    "clueweb22-en0033-88-02424": [
+      {
+        "point_number": 1,
+        "point_content": "Vaccination against Covid is crucial to preventing severe disease and death.",
+        "spans": [
+          "vaccination against Covid is crucial to preventing severe disease and death"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Fully vaccinated individuals who catch the virus are just as infectious to others in their household as infected unvaccinated people.",
+        "spans": [
+          "People who are fully vaccinated against Covid yet catch the virus are just as infectious to others in their household as infected unvaccinated people"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Vaccinated people clear the infection sooner than unvaccinated people.",
+        "spans": [
+          "these levels dropped off more quickly in the vaccinated people, suggesting they cleared the infection sooner"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Vaccination protects individuals against severe disease and death and tends to result in only a mild infection if infected.",
+        "spans": [
+          "Should fully vaccinated individuals become infected, they remain protected against severe disease and death, and tend to have only a mild infection"
+        ]
+      }
+    ],
+    "clueweb22-en0010-50-08399": [
+      {
+        "point_number": 1,
+        "point_content": "The COVID-19 vaccines are the best way to protect yourself and others.",
+        "spans": [
+          "The COVID-19 vaccines are the best way to protect yourself and others."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Research has shown the vaccines help reduce your risk of catching or spreading COVID-19.",
+        "spans": [
+          "Research has shown the vaccines help:",
+          "reduce your risk of catching or spreading COVID-19"
+        ]
+      }
+    ]
+  }
+}

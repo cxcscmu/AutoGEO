@@ -1,0 +1,901 @@
+{
+  "question": "compare and contrast high school and college",
+  "key_points": {
+    "clueweb22-en0025-37-03786": [
+      {
+        "point_number": 1,
+        "point_content": "College students have higher responsibility than high school students.",
+        "spans": [
+          "being college students stands for higher responsibility than being high school students"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "College offers freedom of choice in majors, unlike high school.",
+        "spans": [
+          "Love their freedom of choice (a variety of majors)"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "High school students have teachers who remind them of all upcoming tests and quizzes, while college students must keep track of test and exam dates themselves.",
+        "spans": [
+          "At school, You know about all upcoming tests and quizzes as your teacher reminds of due dates every class.",
+          "It’s up to you to keep in mind all test and exam dates. Stick to the schedule received at the beginning of the very first lecture. Then, all examinations will be expected, so you’ll have at least a week to get ready. Review your syllabus every day after college sessions. If you miss the first lecture for some reasons, make sure to obtain the syllabus and other important course details."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Attendance is mandatory in high school but not in college, where students meet professors only 2-3 times a week.",
+        "spans": [
+          "Attendance of every school class is a must.",
+          "College students meet with particular professors only 2-3 times a week."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "High school assignments are simpler and can be done alone, while college assignments are more complex and include new types of papers and formats.",
+        "spans": [
+          "You can cope with most of the school assignments on your own. Homework essays are not that complex to break your head against the wall or buy essays online.",
+          "Besides, college assignments are much more complicated in contrast to small high school essays. Many new types of papers such as research and term paper will appear as well as new writing formats: APA Turabian Harvard Vancouver Oxford"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "High school students spend time memorizing many things they may never need, and their opinions are less valued; college professors focus on personal progress and career.",
+        "spans": [
+          "Hours spent at high school are not that precious. Students have to memorize a lot of things they won’t probably ever need. Their opinion is not too much valued.",
+          "College professors are more interested in the personal progress and career of each student."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "High school teachers prepare students for tests by giving similar problems in homework and quizzes; college students do not have full information on tests and must study all materials.",
+        "spans": [
+          "Teachers prepare students for the upcoming tests. They often give the same problems in both homework assignments and class quizzes to make the process simpler.",
+          "Students do not have the entire information on the upcoming tests in college. Unlike at high school, here they have to study all materials despite the expected questions."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "High school students can study a few hours per week to understand material; college students need analytical work, research, and experience to earn high grades.",
+        "spans": [
+          "Studying just a few hours per week would be enough for the average high school students to understand and remember the necessary study material.",
+          "College students need to build a certain set of skills to succeed with their college education. Solving homework assignments and simply learning material by heart is not enough. A lot of analytical work which includes in-depth research and solid experience is required to earn the highest grades in college."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "High school teachers are less specialized and may not explain material well; college professors are experts and available for students after classes.",
+        "spans": [
+          "High school teachers are less professional in narrow fields. They try to teach everything. In fact, they often don’t understand the entire material.",
+          "The knowledge of most college professors impresses. They are all experts in both education and the field of their interest. They are available for every student after classes to explain the differences between various theories, point to the importance of hypothesis, interpret complex formulas, etc."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "High school teachers and parents cooperate to monitor students closely; college offers freedom and requires students to take responsibility.",
+        "spans": [
+          "Your school teachers and your parents cooperate to discuss your progress when you study at high school. They contact each other to help you. They also combine their authorities to control children. Your family monitors how you spend your time and often even involves special spying software to watch every step.",
+          "Unlike high school, college is a freedom of actions. Forget about mommy and home – it’s time to take on your responsibilities."
+        ]
+      }
+    ],
+    "clueweb22-en0024-47-14702": [
+      {
+        "point_number": 1,
+        "point_content": "Class time in high school is about 6 hours each day with a 36-week school year, while college classes total 12 to 16 hours per week with two 15-week semesters.",
+        "spans": [
+          "HIGH SCHOOL: You spend on average 6 hours each day/30 hours a week in class, proceeding from one class to the next. The school year is 36 weeks long; with a short break in the spring and a long one over the summer.",
+          "COLLEGE: You spend 12 to 16 hours each week in class, usually with breaks in between. Times are not limited to daylight hours, many classes are offered in the evening.  In most cases, the academic year is divided into two 15-week semesters, plus a week after each semester for exams. There is generally a winter break and a spring break, which is followed by exams. The spring semester can conclude in early May."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "High school classes are smaller (no more than 35 students) and taught by teachers, while college classes vary in size and are taught by professors or graduate assistants.",
+        "spans": [
+          "HIGH SCHOOL: Classes generally have no more than 35 students and are taught by teachers.",
+          "COLLEGE: Depending on the size of college you select, classes may range in size from twenty to hundreds of students. Classes are taught by professors, who will be referred to as Doctor if they have acquired a Doctorate in their chosen field. At large universities, classes may be taught by graduate assistants, not professors."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Teaching style in high school involves teachers presenting material and writing on the board, while college professors lecture and expect students to be up to date on readings.",
+        "spans": [
+          "HIGH SCHOOL: Teachers present material to help you understand the material in the textbook, often writing information on the chalkboard to be copied in your notes.",
+          "COLLEGE: Professors may lecture nonstop, give you illustrations, provide background information, or discuss research about the topic you are studying. You will be expected to be up to date on all assigned readings and be able summarize it, so good notes are critical."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Time management in high school is structured by others, while in college students manage their own time and attendance is less strictly monitored.",
+        "spans": [
+          "HIGH SCHOOL: Your time is usually structured by others: administrators, teachers, coaches and of course, parents. Teachers carefully monitor class attendance.",
+          "COLLEGE: You manage your own time. It’s up to you to get to class, do your lab work and study. Professors may not formally take roll, but they are still likely to know whether or not you attended, especially at smaller colleges where they will get to know you."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Homework in high school is assigned and checked by teachers, while in college students are expected to follow the syllabus and professors may not check homework but expect mastery on tests.",
+        "spans": [
+          "HIGH SCHOOL: You will usually be told what you need to learn from assigned readings and teachers will remind you of assignments and due dates. They will check your completed homework.",
+          "COLLEGE: Professors expect you to utilize the course syllabus (outline); which spells out exactly what is expected of you, when it is due and how you will be graded. It's up to you to read and understand the assigned material; lectures and assignments are based on the assumption that you've already done so. Professors may not always check completed homework, but they will assume you can perform the same tasks on tests."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "In high school, teachers approach students needing help, while in college students are expected to seek help during office hours or use academic resources.",
+        "spans": [
+          "HIGH SCHOOL: Teachers will approach you if they believe you need assistance.",
+          "COLLEGE: Professors are usually open and helpful, but expect and want you to attend their scheduled office hours if you need assistance. Students will also have resources like an Academic Skills Center or Writing Center at their disposal should they need it."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Studying in high school may be minimal and focused on test prep, while college requires substantial reading and studying outside of class.",
+        "spans": [
+          "HIGH SCHOOL: You are expected to read short assignments that are then discussed in class. You may study outside of class as little as 2 hours a week, and this may be mostly test preparation.",
+          "COLLEGE: You are assigned substantial amounts of reading and writing which may not be discussed in class. You need to study at least 2 to 3 hours outside of class for each hour in class to keep up with the coursework."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Testing in high school is frequent and covers small amounts of material with makeup tests often available, while college testing is infrequent, covers large amounts, and makeup tests are rare.",
+        "spans": [
+          "HIGH SCHOOL: Testing is frequent and covers small amounts of material. Teachers frequently conduct review sessions, pointing out the most important concepts. If you miss the test, makeup tests are often available.",
+          "COLLEGE: Testing is infrequent (a particular course may have only 2 or 3 tests in a semester) and may cover large amounts of material. You are expected to organize the material to prepare for the test. Professors rarely offer review sessions, and when they do, expect you to come prepared with questions. Makeup tests are rarely an option; on exam day you need to be prepared and on time."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Grading in high school rewards comprehension and effort with opportunities for extra credit, while college grading focuses on application and consistent performance with rare extra credit.",
+        "spans": [
+          "HIGH SCHOOL: Good grades are based on the ability to comprehend what you were taught in the form in which it was presented to you, or to solve the types of problems you were taught how to solve. Courses are usually structured to reward a \"good-faith” effort so consistently good homework grades may help raise your overall grade if test grades are low. In addition, extra credit projects are often available to help raise your grade.",
+          "COLLEGE: Good grades are based on your ability to apply what you've learned to new situations or to solve new kinds of problems. You must do well consistently: grades on tests and papers usually provide most of the course grade.  Unlike high school, first tests may account for a substantial part of your course grade and extra credit projects are rarely used to raise a grade."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Graduation requirements in high school require passing courses with a D or higher, while college requires meeting a departmental average standard, usually a 2.0 or C.",
+        "spans": [
+          "HIGH SCHOOL: You may graduate as long as you have passed all required courses with a grade of D or higher.",
+          "COLLEGE: You may graduate only if your average in classes meets the departmental standard – usually a 2.0 or C."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Expenses in high school are mostly covered with few personal costs, while college students must pay for housing, dining, textbooks, and often a computer.",
+        "spans": [
+          "HIGH SCHOOL: In most cases, almost all of your living expenses are paid for. Your textbooks are likely provided at little or no expense and you are not required to own a computer.  You need money for gas, special events, activities or trips.",
+          "COLLEGE: If you live on campus, you will need to pay for housing and dining in advance of each semester.  You will need to budget substantial funds for textbooks, which will likely cost at least $200 each semester. Most colleges require each student to have a computer, which can often be purchased through them at a reduced price.  You will need money to meet basic necessities, so be prepared!"
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "Responsibilities in high school are guided and reminded by parents and teachers, while in college students are responsible for their actions and managing life independently.",
+        "spans": [
+          "HIGH SCHOOL: Parents and teachers will remind you what your responsibilities are and guide you in setting priorities. You will no doubt be corrected if your behavior is out of line.",
+          "COLLEGE: You're now responsible for what you do and don't do, as well as for the consequences of your decisions.  In addition to studying, you will be expected to manage a budget, do your own laundry and learn how to live in a whole new environment without a lot of structure.  Along the way, you will be faced with a large number of moral and ethical decisions you have not had to face previously. You must balance your responsibilities and set priorities."
+        ]
+      }
+    ],
+    "clueweb22-en0031-95-06153": [
+      {
+        "point_number": 1,
+        "point_content": "High school and college differ in the subjects offered and curriculum structure.",
+        "spans": [
+          "One of the primary differences between high school and college is the curriculum or subjects offered to the students.",
+          "In high school, students are required to take fundamental subjects.",
+          "Meanwhile, in college, students are given more liberty to choose the courses or subjects they want to take."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The difficulty of lessons and assessments is higher in college than in high school.",
+        "spans": [
+          "If you compare high school and college, you cannot leave out the difficulty of the lessons and assessments.",
+          "In high school, the difficulty of the lessons increases yearly, especially for subjects that follow the spiral curriculum.",
+          "In college, on the other hand, students are only given a semester to learn and master one course.",
+          "Because the lessons are complex, so are the tests."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Workload in college is significantly heavier than in high school.",
+        "spans": [
+          "Another difference between high school and college is the workload.",
+          "In high school, students’ requirements are limited to give them more time for other activities.",
+          "In contrast, the workload of college students can be overwhelming."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Time management and schedule flexibility differ between high school and college.",
+        "spans": [
+          "Lastly, managing time is an essential factor in the battle of high school versus college.",
+          "In high school, students are required to go to school at a particular time.",
+          "But in college, they can come anytime as long as they are not late for their class.",
+          "Additionally, high school students are given more restrictions because of their parents.",
+          "But when they go to college, they get to decide on some matters without their parents’ guidance."
+        ]
+      }
+    ],
+    "clueweb22-en0020-30-09284": [
+      {
+        "point_number": 1,
+        "point_content": "College is more expensive than high school due to tuition, living expenses, and books.",
+        "spans": [
+          "First, when it comes to the cost of college, it is more expensive than high school because of the tuition, living expenses, and books.",
+          "College tuition for a year can be in the ball park of $26,250.",
+          "In contrast, the government funds high schools, so there is no cost to the students.",
+          "On top of the college tuition some students must live off of campus.",
+          "As a result the student must rent an apartment close to the college they are attending.",
+          "Rent can cost anywhere from $600.00-1,200.00 a month.",
+          "In contrast, high school students do not have living expenses, because most students live at home with their parents.",
+          "College is more costly when students have to purchase text books.",
+          "Textbooks can become very costly, they can cost annually anywhere from $1,000.00-1,500.00.",
+          "In contrast high school students are not required to purchase textbooks, the school provides every student with the books they need."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "College workload is heavier and more demanding than high school workload.",
+        "spans": [
+          "Second the heavy workload in college classes are more demanding than the workload in high school.",
+          "College students are often assigned four to five assignments weekly, in contrast, high school students are usually assigned one to three per week.",
+          "In college, assignments are more challenging and take far more time to complete.",
+          "In contrast, high school assignments can be finished in a student’s free time, or in school at study hall, and it takes much less time to do them.",
+          "Students are expected to arrive in a college class already having studied the material, so that more information can be covered every semester.",
+          "In contrast, this does not happen in an ordinary high school setting, the teachers present and teach the material.",
+          "In college it is a student’s choice to arrange their schedule with an advisor, in contrast a high school students schedule is arranged for them.",
+          "In college, grades on tests and major papers provide most of the course grade.",
+          "In contrast, in high school, consistently good homework grades will raise the overall grade when test grades are low."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "College offers more social activities, events, and independence than high school.",
+        "spans": [
+          "Third, college provides more activities, social events, and most importantly independence.",
+          "For example Harvard provides over four hundred student organizations, such as orchestra, chamber music ensemble, jazz combo, concert band, choral group, gospel choir, or glee club.",
+          "In contrast high school does not provide such a wide range of organizations for students.",
+          "High schools generally have smaller groups because the population is generally smaller.",
+          "In college there is something to do for everyone, in contrast high school does not always have something for every student’s interests.",
+          "In college a student must decide whether to participate in extracurricular activities.",
+          "In contrast in high school a student must get permission to participate in extracurricular activities."
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0023-07-11688": [
+      {
+        "point_number": 1,
+        "point_content": "High School is mandatory while College is not.",
+        "spans": [
+          "College is not mandatory while High School is."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Colleges are expensive while High Schools are usually free.",
+        "spans": [
+          "Colleges are expensive while High Schools are usually free"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Colleges are more self-managed than High School.",
+        "spans": [
+          "Colleges are more self-managed than High School."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "High schools are usually paid for by the state and local government while college expense is usually paid by the attender.",
+        "spans": [
+          "High schools are usually paid for by the state and local government while college expense is usually paid by the attender."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "College students usually have to make the cost of their education a regular priority into their life so they can manage their other needs, while high school students have their parents pay for most of their expenses.",
+        "spans": [
+          "High school students don’t know how much it actually costs to get an education while college students usually have to make the cost of their education a regular priority into their life so they can manage their other needs. High school students have their parents pay for most of their expenses and college attenders pay their own way and for everything."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "In high school, students follow a school directed schedule and proceed from one class to another, while in college you manage your own time and schedule.",
+        "spans": [
+          "In high school follow a school directed schedule and proceed from one class to another while in college you manage your own time and schedule."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "In high school a bell tells you when classes start and end and in college you get to class without any formal reminder.",
+        "spans": [
+          "In high school a bell tells you when classes start and end and in college you get to class without any formal reminder."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "In college you are required to have all homework or any missed tests or assignments done with no reminder from teachers like you get in high school.",
+        "spans": [
+          "In college you are required to have all homework or any missed tests or assignments done with no reminder from teachers like you get in high school."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "In college, you are required to get help if needed because teachers do not approach you with the request if they think you need help, unlike in high school.",
+        "spans": [
+          "You are also required to get help if needed in college because teachers do not approach you with the request if they think you need help."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "College is self-based and you do not get much help from anyone unless you ask for it yourself, unlike high school where teachers and parents help you.",
+        "spans": [
+          "Everything you do in college is all up to you and you have to manage everything. You do not get much help from anyone unless you ask for it yourself. College is self-based. High school is more like elementary school. Teachers make sure you get everything you need done and parents help you with what you don’t know."
+        ]
+      }
+    ],
+    "clueweb22-en0040-44-02433": [
+      {
+        "point_number": 1,
+        "point_content": "In college, you'll have much more independence than you had in high school.",
+        "spans": [
+          "The biggest change for high school vs. college is that, in college, you'll have much more independence than you had in high school."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "In college, you'll be treated like an adult and expected to make your own decisions.",
+        "spans": [
+          "Along with your increased independence, you'll also be treated like an adult in college as opposed to a child under your parents' care."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "College offers a wider variety of classes to choose from compared to high school.",
+        "spans": [
+          "In college, even if you attend a smaller school, you'll have many more options. They'll be a wider variety of classes to choose from, and many of them will focus on more specific topics like astronomy, ancient Roman history, French literature, the geography of the United States, and more."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "College classes vary widely in format and size, unlike high school classes which are more uniform.",
+        "spans": [
+          "Classes can range from two to 500 students, and their format can vary widely as well. Classes may be completely lecture-based, require hands-on lab work, or be discussion-based where you spend most of class time engaged in conversations or debates with your classmates and professor."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "College schedules are more complicated and vary day to day, unlike high school schedules which are consistent.",
+        "spans": [
+          "In college, things get a little trickier. Some classes meet three times a week for an hour and a half, some meet five times a week for an hour, some meet once a week for three hours, etc. This means you'll likely be starting and ending class at different times during the week, and you may end up with a different class schedule for every day of the week."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "In college, you'll have a new set of classmates for each class, unlike high school where classmates are mostly the same.",
+        "spans": [
+          "Additionally, you'll likely have a different set of classmates for each of your classes."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "College classes require more critical thinking and application of knowledge than high school classes.",
+        "spans": [
+          "You'll be tested less on memorization and basic regurgitation of facts and more on critical thinking skills and being able to apply what you learned in class to other situations."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "College costs more than high school, including tuition, room and board, and other expenses.",
+        "spans": [
+          "There's no way around it; college definitely costs more than high school. Tuition is thousands of dollars, and you'll likely be paying for room and board as well."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "College students spend less time in class per week than high school students.",
+        "spans": [
+          "Most full-time college students spend about 15-20 hours in class a week, which comes out to about three or four hours a day. This is probably much less time than you spent in high school classes every day"
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "College students have more schoolwork outside of class compared to high school students.",
+        "spans": [
+          "The general rule of thumb is that you'll spend about three hours a week on schoolwork for every one hour of class you're in."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Attendance in college is generally up to the student, unlike high school where attendance is mandatory and monitored.",
+        "spans": [
+          "In high school, you had to go to class every day because if you didn't, you could get in trouble for truancy or (sometimes even more frightening) your parents could find out. In college, there are no requirements for attending class, and no one is going to call your parents if you don't show up."
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "College offers more social opportunities and activities than high school.",
+        "spans": [
+          "Even if you were a social butterfly in high school, you'll have tons more opportunities to be social and make friends in college. There will be sports teams to join, parties to go to, clubs you can be part of, and more."
+        ]
+      },
+      {
+        "point_number": 13,
+        "point_content": "It is harder to stand out in college because of the larger and more talented student body.",
+        "spans": [
+          "Once you start college, you won't be a big fish in a small pond anymore, and it'll be harder to stand out from the crowd."
+        ]
+      },
+      {
+        "point_number": 14,
+        "point_content": "College courses often have fewer grades and assignments, making each grade more significant.",
+        "spans": [
+          "Once you start college, you may find that many classes have far fewer assignments, meaning you'll receive fewer grades and each of those grades are worth more."
+        ]
+      },
+      {
+        "point_number": 15,
+        "point_content": "College requires a lot of reading, including textbooks, journal articles, and literature.",
+        "spans": [
+          "Expect to do lots of reading in college, including textbooks, journal articles, and literature."
+        ]
+      }
+    ],
+    "clueweb22-en0036-02-15885": [
+      {
+        "point_number": 1,
+        "point_content": "High school is mandatory and your time is structured by others, whereas college is voluntary and you manage your own time.",
+        "spans": [
+          "High school is mandatory",
+          "Your time is structured by others.",
+          "College is voluntary",
+          "You manage your own time."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "In high school, you proceed from one class directly to another spending 6 hours each day in class, while in college you often have hours between classes and spend only 12 to 16 hours each week in class.",
+        "spans": [
+          "Each day you proceed from one class directly to another, spending 6 hours each day–30 hours a week–in class.",
+          "You often have hours between classes; class times vary throughout the day and evening and you spend only 12 to 16 hours each week in class"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "In high school, most classes are arranged for you and you are not responsible for knowing graduation requirements, but in college you arrange your own schedule and are expected to know graduation requirements.",
+        "spans": [
+          "Most of your classes are arranged for you.",
+          "You are not responsible for knowing what it takes to graduate.",
+          "You arrange your own schedule in consultation with your advisor.",
+          "Graduation requirements are complex, and can differ from year to year. You are expected to know those that apply to you."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "In high school, you are usually told what to do and corrected if your behavior is out of line, whereas in college you are expected to take responsibility for your actions and decisions.",
+        "spans": [
+          "Guiding principle: You will usually be told what to do and corrected if your behavior is out of line.",
+          "Guiding principle: You are expected to take responsibility for what you do and don’t do, as well as for the consequences of your decisions."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "High school classes are generally 36 weeks long with no more than 35 students, and you may study 0 to 2 hours a week outside class, while college semesters are 14 weeks long, classes vary in size, and you need to study 2 to 3 hours outside class for each hour in class.",
+        "spans": [
+          "The school year is 36 weeks long; classes generally have no more than 35 students.",
+          "You may study outside class as little as 0 to 2 hours a week, and this may be mostly last-minute test preparation.",
+          "The academic year is divided into two separate 14-week semesters, plus a week after each semester for exams.",
+          "Classes may vary in size from 6- 30 students or more.",
+          "You need to study at least 2 to 3 hours outside of class for each hour in class."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "High school teachers check homework, remind you of incomplete work, and provide information and guidance, whereas college professors expect you to be responsible for your work and learning, and may not check homework or remind you of incomplete work.",
+        "spans": [
+          "Teachers check your completed homework.",
+          "Teachers remind you of your incomplete work.",
+          "Teachers approach you if they believe you need assistance.",
+          "Teachers provide you with information you missed when you were absent.",
+          "Professors may not always check completed homework, but they will assume you can perform the same tasks on tests.",
+          "Professors may not remind you of incomplete work.",
+          "Professors expect and want you to attend their scheduled office hours.",
+          "Professors expect you to get from classmates any notes from classes you missed."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Testing in high school is frequent and covers small amounts of material with makeup tests often available, while in college testing is infrequent, cumulative, and makeup tests are seldom an option.",
+        "spans": [
+          "Testing is frequent and covers small amounts of material.",
+          "Makeup tests are often available.",
+          "Testing is usually infrequent and may be cumulative, covering large amounts of material.",
+          "Makeup tests are seldom an option; if they are, you need to request them."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Grades in high school are given for most assigned work and effort counts, while in college grades are mostly based on tests and major papers and results count.",
+        "spans": [
+          "Grades are given for most assigned work.",
+          "Consistently good homework grades may raise your overall grade when test grades are low.",
+          "Extra credit projects are often available to help you raise your grade.",
+          "Grades may not be provided for all assigned work.",
+          "Grades on tests and major papers usually provide most of the course grade.",
+          "Extra credit projects cannot, generally speaking, be used to raise a grade in a college course."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "High school teaches you to report on the research of others without strict citation requirements, while college expects original analysis, proper citation, and scholarly inquiry.",
+        "spans": [
+          "The type of sources used is less important than having them.",
+          "Using the exact words and phrasing of your sources is acceptable.",
+          "You are not required to use discipline specific citation styles.",
+          "You will be expected to know what sources are appropriate for each discipline and assignment.",
+          "Your papers should always reflect your own analysis and thinking.",
+          "You will be expected to learn and appropriately use discipline specific citation styles.",
+          "Bibliographies are the norm."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "High school guidance counselors monitor your progress and pick your classes, while college academic advisors make recommendations but expect you to take responsibility and initiate contact.",
+        "spans": [
+          "It is their full time job to carefully monitor your progress on graduation requirements.",
+          "Will pick your classes for you each term.",
+          "Make recommendations about class selection, but leave the final decision to you.",
+          "Are available to assist you with planning and making the most of your college career, but will expect you to initiate contact and take responsibility for your decisions."
+        ]
+      }
+    ],
+    "clueweb22-en0002-29-10156": [
+      {
+        "point_number": 1,
+        "point_content": "High school and college are two distinct worlds with mostly contrasting characteristics.",
+        "spans": [
+          "High school and college may appear to be closely related, but in reality they are two distinct worlds."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "College offers more freedom, while high school focuses on discipline and structure.",
+        "spans": [
+          "Colleges tend to offer a more substantial amount of freedom. High school on the other hand tends to focus on discipline and structural matters."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "High school prepares students for college, while college prepares students for their future occupation.",
+        "spans": [
+          "In high school students are taught to treat college as the next step.",
+          "College is similar in this way only instead of preparing the pupil for another round of schooling, they are being prepared for their future occupation."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "High school offers limited options (career pathway and college preparatory), whereas college offers many options, both aiming to prepare the student for the future.",
+        "spans": [
+          "In high school only two options are offered: career pathway and college preparatory.",
+          "In college the options are without end, but they both guide for the same purpose­ the future of the student."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The main similarity between high school and college is preparation for the future; otherwise, they differ significantly in rules and testing.",
+        "spans": [
+          "Preparation for the future seems to be the only real similarity between the two.",
+          "Whenever analyzing the aspects of college and high school, one would find the two differ in the rules and testing; however, both play"
+        ]
+      }
+    ],
+    "clueweb22-en0043-20-02448": [
+      {
+        "point_number": 1,
+        "point_content": "High school classes are about seven hours a day, while college classes are about three to four hours a day, requiring effective time management.",
+        "spans": [
+          "Your high school class schedule is probably comparable to a full-time job: you’re in the building for about seven hours each day.",
+          "In college, however, you can expect to spend half that time in class.",
+          "As a full-time college student, you’ll only spend three or four hours each day in class, which comes out to about 15-20 hours per week.",
+          "What’s more, those time gaps will force you to manage your time effectively."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "College workload is heavier and includes homework, essays, research, and group projects, unlike high school where less work was required.",
+        "spans": [
+          "I quickly learned that 15 hours of class time each week doesn’t mean 15 hours of work.",
+          "You’ll spend a fraction of the time in a physical classroom in college compared to high school.",
+          "But that extra time takes the form of homework, essays, research, and group projects."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "High school textbooks are provided at little to no cost, while college students must acquire their own textbooks, often at high cost.",
+        "spans": [
+          "In high school, your textbooks are provided to you at little to no cost.",
+          "College, on the other hand, is the Wild West of textbooks.",
+          "Your professor will tell you which books you’ll need, and then it’s up to you how you get them"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "High school offers many opportunities to boost grades through homework, quizzes, extra credit, while college often has fewer grading opportunities.",
+        "spans": [
+          "In high school, there are many opportunities to keep your grade afloat: daily homework assignments, weekly quizzes, extra credit, test revisions, maybe even credit just for showing up to class.",
+          "Unfortunately, most of these opportunities don’t exist in college.",
+          "I even had a philosophy class where the only grades were a midterm and a final exam."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "College dorm life is a major lifestyle change from high school, teaching social intelligence and independence.",
+        "spans": [
+          "Of all the differences between high school and college, living in a dorm is definitely the most drastic—but it’s a change for the better.",
+          "Dorm life will teach you all sorts of things you didn’t know about yourself, such as your organizational preferences and how well you deal with domestic conflicts."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "College social life starts fresh for everyone, offering opportunities to form diverse friendships unlike the often fixed social groups in high school.",
+        "spans": [
+          "Think of making friends in college like an athlete making the transition to the pros: people can talk all day about what the athlete accomplished before the pros, but all that matters is what happens on gameday.",
+          "Similarly, college is an opportunity to create the social life you want. It doesn’t matter who you were in high school — in college, everyone starts from scratch."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "College requires more self-directed time management compared to high school where schedules are often controlled by others.",
+        "spans": [
+          "Time management in college is a catch-22: you’ll have more independence than you’ve ever had, but you’ll also need to shoulder more responsibilities than you did in high school.",
+          "Right now, there’s a good chance your daily schedule is largely decided by your parents, coaches, or teachers.",
+          "In college, however, all of that control shifts over to you."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "College students have more opportunities to earn money and often need to manage finances independently, unlike most high school students.",
+        "spans": [
+          "One of the most exciting parts about transitioning from high school to college is that your opportunities to earn money expand significantly.",
+          "Being broke is one of the most common stereotypes associated with college students, but I’m here to tell you: it doesn’t have to be that way."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Maintaining health in college requires conscious effort with diet and exercise, unlike in high school where routines may be more structured.",
+        "spans": [
+          "You may have heard about the freshman fifteen: those extra pounds that students pack on during their first couple semesters in college.",
+          "Getting fit in college may require a different approach than you’re taking in high school, but that’s certainly not an excuse to throw in the towel on your health."
+        ]
+      }
+    ],
+    "clueweb22-en0040-33-11804": [
+      {
+        "point_number": 1,
+        "point_content": "College offers more independence and control over your identity and future compared to high school.",
+        "spans": [
+          "In college, you can create your own future and your own identity.",
+          "You are in full control of who you become.",
+          "College is unlike high school, where your identity and reputation has remained the same for a while."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "In college, you choose your classes and study what you want, unlike high school with set schedules and mandatory classes.",
+        "spans": [
+          "You choose your classes and can study anything and you are treated as an adult in those classes.",
+          "Say goodbye to cliques, set schedules, and mandatory classes, and say hello to choice and independence."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "College professors usually do not take attendance and student involvement is voluntary, unlike high school teachers.",
+        "spans": [
+          "Your professor likely won’t be taking attendance, and even if they are, it’s up to you if you want those participation points or not.",
+          "Your involvement in the class is also voluntary.",
+          "Your teacher will not call on you like they did in high school."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "College workload is more challenging with longer exams, frequent writing assignments, and more discussions compared to high school.",
+        "spans": [
+          "Truthfully, college courses and materials will be more challenging than in high school.",
+          "Exams can be long, writing assignments are frequent, and there are more debates and discussions."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "In college, you are solely responsible for your grades and graduation progress, unlike high school where reminders are common.",
+        "spans": [
+          "It is your sole responsibility to ensure that you are getting the grades you want.",
+          "There will be no one to remind you of deadlines, or to push you harder.",
+          "Graduating on time is also under your control."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "College textbooks are expensive and reading assignments are heavy, unlike high school where textbooks are given.",
+        "spans": [
+          "In high school, textbooks are given to you, but in college they are very expensive.",
+          "Expect to be assigned several chapters of a textbook per week, in addition to research papers, opinion pieces, and other types of books."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "College classes are larger initially but become smaller and more specialized; students study what they want and face less rote work.",
+        "spans": [
+          "In the first few years you may find yourself in larger classes, but they will get smaller as courses become more specialized.",
+          "You will finally be studying exactly what you want to study.",
+          "There is much less rote work in college."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "College life requires self-discipline and time management as students have full control over their schedule and study habits.",
+        "spans": [
+          "You are in complete control of your time, your schedule, and your study habits.",
+          "This can backfire if you don’t organize your time well, or don’t implement enough self discipline."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "College often involves living with roommates, which is a new social experience compared to high school.",
+        "spans": [
+          "Whether you are living on campus, off campus, or in the Greek community, chances are you will be cohabiting your room or living space with others in college."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "College students must manage their own health and lifestyle choices, including diet and exercise, unlike high school where there is more structure.",
+        "spans": [
+          "While it can be tempting to eat whatever you want during college, and hard to stay on top of your health due to a busy schedule, staying healthy and fit is possible.",
+          "Take advantage of your school gym or intramural leagues, and make the decision to eat healthy by making good food choices."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "In college, students have more social opportunities and meet a more diverse group of people than in high school.",
+        "spans": [
+          "In college, you will gain so many new friends.",
+          "College is full of students of more varied backgrounds than the classmates you spent your high school years with.",
+          "Your social calendar will be much more varied."
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "College professors are less personally familiar with students, but building relationships can be beneficial for networking.",
+        "spans": [
+          "At very large universities, you will no longer be able to see your teacher as your friend, or someone who knows you personally.",
+          "Get to know your professors from the start, and what research they are doing or what projects they have been a part of and see if you can get involved somehow."
+        ]
+      },
+      {
+        "point_number": 13,
+        "point_content": "College sports require more commitment and can be more like a part-time job compared to high school sports.",
+        "spans": [
+          "Being on a college sports team is much more similar to a part-time job than an extracurricular in terms of commitment, effort and time."
+        ]
+      },
+      {
+        "point_number": 14,
+        "point_content": "High school generally does not prepare students fully for the academic and social challenges of college.",
+        "spans": [
+          "Unfortunately, most people say that no, high school doesn’t prepare you for college academically or socially."
+        ]
+      },
+      {
+        "point_number": 15,
+        "point_content": "College can be easier than high school because students take fewer classes, have detailed syllabi, and study topics of interest.",
+        "spans": [
+          "College can be easier than high school in certain ways.",
+          "You are taking less classes and therefore have less due dates and class material to keep track of.",
+          "You also get a clearly detailed syllabus with class schedule, timeline, grade explanations, and student expectations in the first week.",
+          "College is easier because you are studying topics that interest you and you are naturally more motivated to study those topics of interest."
+        ]
+      },
+      {
+        "point_number": 16,
+        "point_content": "College is considered better than high school by many because of independence and choice in classes, social life, and schedule.",
+        "spans": [
+          "Absolutely — college is the best time of many people’s lives.",
+          "You are independent for the first time, you get to choose your classes, your social life, and your schedule.",
+          "This is all very different from high school, where most things are chosen for you."
+        ]
+      }
+    ],
+    "clueweb22-en0002-43-03722": [
+      {
+        "point_number": 1,
+        "point_content": "High school is a very structured environment with a structured class schedule and the same classmates throughout all four years, whereas college requires self-reliance and managing your own time and schedule.",
+        "spans": [
+          "High school is a very structured environment.",
+          "In college, you are self-reliant and manage your own time and schedule."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "In high school, students depend on teachers and classmates for guidance and reminders about assignments, while in college, professors simply lecture and students must understand the material on their own.",
+        "spans": [
+          "In high school, you depend on your teachers for that constant reminder of the completion of assignments.",
+          "On the other hand, in college your professors simply lecture. It is up to the student to understand the material from the lecture."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "High school classes are general, mandatory, and shared by all students of the same grade, while college courses are selected by the student based on their major and interests.",
+        "spans": [
+          "Classes in high school are very structured and defined by the mandatory credits for graduation.",
+          "Courses are selected by the student based on their choice of major."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Homework and assignments in high school are given as extra credit and there is leniency to help achieve passing grades, whereas in college, homework is based on the effort put into studying and professors expect students to understand the material without leniency.",
+        "spans": [
+          "Homework and assignments are given in high school as an extra credit mechanism to help raise grades.",
+          "In college, homework is truly based on the amount of effort you place in studying.",
+          "The professors in college don’t give that leniency."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Time management skills learned in high school are essential and tested in college, where students must be independent.",
+        "spans": [
+          "To manage your time is a learned experience in high school and carried on through college.",
+          "Your time management skills are put to the test in college.",
+          "Even though the environment in college is to be independent, you depend on the skills learned from high school to help achieve that independence."
+        ]
+      }
+    ],
+    "clueweb22-en0033-69-06883": [
+      {
+        "point_number": 1,
+        "point_content": "High school and university are two important levels of every education’s foundation in the world.",
+        "spans": [
+          "High school and university are two important levels of every education’s foundation  in the world."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "There are many similarities and quite a few differences between high school and university.",
+        "spans": [
+          "there are many similarities and quite a few differences between the two hurdles"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "High school is a mandatory and free secondary institution of learning, while college is both voluntary and expensive.",
+        "spans": [
+          "High school is a mandatory and free secondary institution of learning‚ while college is both voluntary and expensive."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "In high school, students are guided for what responsibilities they have and students are corrected if they are out of line. In contrast, students in college have more responsibilities and less guidance.",
+        "spans": [
+          "In high school ‚ students are guided for what responsibilities they have and students are corrected if they are out of line. In contrast ‚ students in college"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The transition from high school to college involves getting used to being on their own and having more responsibilities than ever before.",
+        "spans": [
+          "The transition from high school to college is an arduous one. Students have to get used to being on their own and have more responsibilities than ever before."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Along with an increase in workload, students are also forced to learn proper time management skills such as how to juggle a job, school, all while maintaining a social life.",
+        "spans": [
+          "Along with an increase in workload‚ students are also forced to learn proper time management skills such as how to juggle a job‚ school ‚ all while maintaining a social life."
+        ]
+      }
+    ]
+  }
+}

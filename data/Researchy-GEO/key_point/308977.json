@@ -1,0 +1,661 @@
+{
+  "question": "pros and cons of the industrial revolution",
+  "key_points": {
+    "clueweb22-en0029-35-00174": [
+      {
+        "point_number": 1,
+        "point_content": "The industrial revolution increased job opportunities by allowing more people to have jobs in factories, changing the way people earned a living.",
+        "spans": [
+          "It increased job opportunities.",
+          "The industrial revolution made it possible for more people to have jobs."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The industrial revolution inspired innovation and created opportunities to build great wealth.",
+        "spans": [
+          "It inspired innovation.",
+          "Great wealth was available within the industrial revolution."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Production levels increased due to factories enabling mass production, improving quality of living.",
+        "spans": [
+          "Production levels increased.",
+          "Factories allowed for groups of people to be more productive than one person on their own."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Competition was created, shifting power to consumers with more product choices.",
+        "spans": [
+          "Competition was created.",
+          "The industrial revolution shifted power away from businesses and into the hands of consumers."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The industrial revolution improved processes in virtually any sector, making products and services better.",
+        "spans": [
+          "It improved processes in virtually any sector.",
+          "Almost every sector of commerce and industry improved during this period, making products and services better"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "It reduced the influences of borders by making transportation easier and cheaper, enabling international trade.",
+        "spans": [
+          "It reduced the influences of borders.",
+          "The industrial revolution made transportation easier and cheaper, which allowed businesses to create an international presence for their brand."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "The industrial revolution changed the world from a rural culture to an urban culture, causing societal adaptation struggles.",
+        "spans": [
+          "It changed the world from being a rural culture to an urban culture.",
+          "Many people moved out of their rural homes so they could be closer to the factories where they could get a “good” job."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "The industrial revolution contributed significantly to pollution and global warming, with unknown long-term effects.",
+        "spans": [
+          "We still don’t know the effects of pollution on our planet.",
+          "The industrial revolution is not the only source of atmospheric and global pollution, but it is a major contributor."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Working conditions during the industrial revolution were often brutal, with long hours, low wages, and unsafe environments.",
+        "spans": [
+          "Working conditions can be brutal.",
+          "The working conditions in many of the first factories during the industrial revolution were horrible."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "The industrial revolution was not a global phenomenon, creating a wealth gap between industrialized and non-industrialized nations.",
+        "spans": [
+          "It wasn’t a global phenomenon.",
+          "It has created a wealth gap between industrialized and non-industrialized nations that may never really be eliminated."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "The industrial revolution requires natural resources, especially fossil fuels, which are finite and may cause future societal shifts.",
+        "spans": [
+          "It requires natural resources.",
+          "Most of the processes developed during the industrial revolutions require fossil fuels to operate."
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "Local jobs were poached due to businesses hiring workers willing to work for lower wages, limiting craftsmanship and individuality.",
+        "spans": [
+          "Local jobs got poached.",
+          "Businesses could hire the workers that would work for the lowest amount."
+        ]
+      }
+    ],
+    "clueweb22-en0015-97-06232": [
+      {
+        "point_number": 1,
+        "point_content": "The Industrial revolution was a time of rapid growth and change throughout America and Europe, leading to more goods being produced in a shorter amount of time due to advancements in architecture, agriculture, transportation, and communication.",
+        "spans": [
+          "The Industrial revolution was a time of rapid growth and change throughout America and Europe.",
+          "More goods where able to be produced, and in a shorter amount of time.",
+          "This is owed to advancements in architecture, agriculture, transportation, and communication."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The Industrial Revolution increased wealth, national pride, and improved the well-being of people.",
+        "spans": [
+          "As an effect of industrialization, classes in the well being of people increased.",
+          "Nations started to identify national pride and identities.",
+          "It increased wealth."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Factories increased in number and production rate multiplied due to machinery innovation, leading to mass production, decreased prices, and enhanced quality of living.",
+        "spans": [
+          "Factories that produce quality products have increased in numbers rapidly.",
+          "The production rate is multiplied because of the innovation in machinery.",
+          "As a result of the mass production of goods, the price of products decreased resulting to enhanced quality living."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The Industrial Revolution led to the building of comfortable, strong, and cheaper houses, fashionable clothes, and new appliances, making life easier.",
+        "spans": [
+          "Comfortable, strong and cheaper houses were built every day.",
+          "Cheaper and fashionable clothes were designed.",
+          "New appliances were invented and upgraded slowly as time passes by.",
+          "It made people’s infinitely easier."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Transportation became cheaper, faster, and more comfortable, opening up new areas to many people.",
+        "spans": [
+          "The means of transportation changed enormously.",
+          "It became cheaper, faster and very comfortable.",
+          "Easier travel opened up new areas to many people."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Industrialization increased production, trade, jobs, and employment rate.",
+        "spans": [
+          "The increase in production was associated to the hike in trade.",
+          "It produces new jobs and it increases the employment rate."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Cities grew offering work and opportunity, enabling many people to become successful.",
+        "spans": [
+          "Cities grew and offer a lot of work and opportunity.",
+          "It makes a lot of people to become successful in life."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Factory work was exhausting with long hours, bad conditions, and health risks including injury and death.",
+        "spans": [
+          "Working from other factories is exhausting.",
+          "It causes long working hours, it has bad working conditions, and there are times that it causes illness and death.",
+          "There are cases that factory workers got caught by uncovered machinery resulting to injury or death.",
+          "The dust and fumes from chemical factories can also harm a person’s health."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Industrialization attracted immigrants but caused overcrowded cities and slum areas.",
+        "spans": [
+          "Industrialization in modern cities attracts immigrants.",
+          "It promises a good life but not all were lucky.",
+          "It causes overcrowded cities and slum areas appeared."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Industrialization caused pollution including air, water, and land pollution, harming the environment.",
+        "spans": [
+          "Industrialization comes with pollution.",
+          "Factories, automobiles and aircrafts produces unthinkable air pollution to some advanced cities in the world.",
+          "Chemicals and wastes that were not properly disposed causes water and land pollution.",
+          "The condition of the environment is at stake because of the industrialization."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Machines replaced human labor causing unemployment and some were forced to commit crime to support families.",
+        "spans": [
+          "Some machines took the place of human labor resulting to high unemployment rate for those people who lack competencies and skills.",
+          "Because of this, those who cannot look for a better job to earn for living were forced to commit crime just to support their families."
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "New lifestyle trends and products led to lifestyle diseases like diabetes, heart attack, and cancer.",
+        "spans": [
+          "New lifestyle trend means new invented products.",
+          "Some of these are the main cause of lifestyle diseases like diabetes, heart attack, cancer and a lot more."
+        ]
+      },
+      {
+        "point_number": 13,
+        "point_content": "Industrialization negatively impacted culture, values, and morality, shifting principles, beliefs, and faith.",
+        "spans": [
+          "Another negative result of industrialization is that it brought a negative impact on culture, values and morality of mankind.",
+          "Technology drives the shift in principles, beliefs and faith."
+        ]
+      }
+    ],
+    "clueweb22-en0030-11-00397": [
+      {
+        "point_number": 1,
+        "point_content": "Factories and the machines that they housed began to produce items faster and cheaper than could be made by hand, making goods more affordable and accessible.",
+        "spans": [
+          "Factories and the machines that they housed began to produce items faster and cheaper than could be made by hand.",
+          "As the supply of various items rose, their cost to the consumer declined (see supply and demand )."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The Industrial Revolution led to rapid development of labor-saving inventions and improvements in transportation and communication.",
+        "spans": [
+          "The rapid production of hand tools and other useful items led to the development of new types of tools and vehicles to carry goods and people from one place to another.",
+          "The growth of road and rail transportation and the invention of the telegraph (and its associated infrastructure of telegraph—and later telephone and fiber optic —lines) meant that word of advances in manufacturing, agricultural harvesting, energy production, and medical techniques could be communicated between interested parties quickly.",
+          "Labor-saving machines such as the spinning jenny (a multiple-spindle machine for spinning wool or cotton) and other inventions, especially those driven by electricity (such as home appliances and refrigeration) and fossil fuels (such as automobiles and other fuel-powered vehicles), are also well-known products of the Industrial Revolution."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The Industrial Revolution spurred advances in medicine through improved production of medical instruments and faster communication of medical knowledge.",
+        "spans": [
+          "The Industrial Revolution was the engine behind various advances in medicine .",
+          "Industrialization allowed medical instruments (such as scalpels, microscope lenses, test tubes, and other equipment) to be produced more quickly.",
+          "Using machine manufacturing, refinements to these instruments could more efficiently roll out to the physicians that needed them.",
+          "As communication between physicians in different areas improved, the details behind new cures and treatments for disease could be dispersed quickly, resulting in better care."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Mass production lowered costs and created new employment opportunities, enhancing wealth and quality of life for the average person.",
+        "spans": [
+          "Mass production lowered the costs of much-needed tools, clothes, and other household items for the common (that is, nonaristocratic) people, which allowed them to save money for other things and build personal wealth.",
+          "In addition, as new manufacturing machines were invented and new factories were built, new employment opportunities arose.",
+          "The rising demand for manufactured goods meant that average people could make their fortunes in cities as factory employees and as employees of businesses that supported the factories, which paid better wages than farm-related positions.",
+          "Generally speaking, people could save some portion of their wages, and many had the opportunity to invest in profitable businesses, thereby growing their family “nest eggs.”"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Industrialization led to the rise of specialist professions and the expansion of cities and governmental bureaucracies.",
+        "spans": [
+          "Factory workers were trained to perform specialized tasks.",
+          "Factory owners divided their workers into different groups, each group focusing on a specific task.",
+          "As the factories grew and workers became more specialized, additional teachers and trainers were needed to pass on specialized skills.",
+          "Governmental bureaucracies grew to support these, and new specialized departments were created to handle traffic, sanitation, taxation, and other services.",
+          "Other businesses within the towns also became more specialized as more builders, physicians, lawyers, and other workers were added to handle the various needs of the new residents."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Overcrowding of cities and industrial towns led to poor living conditions and outbreaks of infectious diseases.",
+        "spans": [
+          "The promise of better wages attracted migrants to cities and industrial towns that were ill-prepared to handle them.",
+          "Although initial housing shortages in many areas eventually gave way to construction booms and the development of modern buildings, cramped shantytowns made up of shacks and other forms of poor-quality housing appeared first.",
+          "Local sewerage and sanitation systems were overwhelmed by the sudden influx of people, and drinking water was often contaminated.",
+          "People living in such close proximity, fatigued by poor working conditions, and drinking unsafe water presented ideal conditions for outbreaks of typhus, cholera, smallpox, tuberculosis, and other infectious diseases."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "The Industrial Revolution caused pollution and environmental degradation, contributing to global warming and loss of biodiversity.",
+        "spans": [
+          "With relatively few exceptions, the world’s modern environmental problems began or were greatly exacerbated by the Industrial Revolution.",
+          "To fuel the factories and to sustain the output of each and every type of manufactured good, natural resources (water, trees, soil, rocks and minerals, wild and domesticated animals, etc.) were transformed, which reduced the planet’s stock of valuable natural capital.",
+          "The global challenges of widespread water and air pollution, reductions in biodiversity, destruction of wildlife habitat, and even global warming can be traced back to this moment in human history.",
+          "For example, atmospheric carbon dioxide, a primary driver of global warming, existed in concentrations of 275 to 290 parts per million by volume (ppmv) before 1750 and increased to more than 400 ppmv by 2017."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Poor working conditions prevailed in factories, with long hours, low wages for women and children, and unsafe environments.",
+        "spans": [
+          "Factory workers often labored 14–16 hours per day six days per week.",
+          "Men’s meager wages were often more than twice those of women.",
+          "The wages earned by children who worked to supplement family income were even lower.",
+          "The various machines in the factory were often dirty, expelling smoke and soot, and unsafe, both of which contributed to accidents that resulted in worker injuries and deaths."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "The Industrial Revolution contributed to unhealthy lifestyle habits, including reduced physical activity and increased consumption of processed foods.",
+        "spans": [
+          "As more cheap labor-saving devices become available, people performed less strenuous physical activity.",
+          "Other vehicles, such as trains and automobiles, effectively reduced the amount of healthy exercise people partook in each day.",
+          "Also, many professions that required large amounts of physical exertion outdoors were replaced by indoor office work, which is often sedentary.",
+          "Such sedentary behaviors also occur away from work, as television programs and other forms of passive entertainment came to dominate leisure time.",
+          "Many people eat food that has been processed with salt and sugar to help with its preservation, lower its cooking time, and increase its sweetness."
+        ]
+      }
+    ],
+    "clueweb22-en0010-27-01746": [
+      {
+        "point_number": 1,
+        "point_content": "The Industrial Revolution inspired the innovation we see today and created the first real market-based economies.",
+        "spans": [
+          "It inspired the innovation we see today.",
+          "The first real market-based economies began to emerge because of the industrial revolution."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "It improved living standards for many people by creating more jobs and lowering costs for better products.",
+        "spans": [
+          "It improved living standards for many people.",
+          "Because more products were being made, there were more jobs available for the general public."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "It created the concept of competition and a free-market society allowing consumer choice.",
+        "spans": [
+          "It created the concept of competition.",
+          "This period introduced the concept of a free-market society allowing the consumer to choose what they wanted instead of being dependent on the family that provided the trade for their community."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "It improved production inventories and allowed businesses to become profitable internationally.",
+        "spans": [
+          "It improved production inventories.",
+          "Businesses could look at creating multiple products instead of dedicating their resources to a single item."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "It encouraged international trade and specialization among nations.",
+        "spans": [
+          "It encouraged international trade.",
+          "Nations found they could specialize in certain industries, trade with other nations of their specialization, and everyone could benefit from the transaction."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "It improved personal health through rapid medical advancements and better healthcare equipment.",
+        "spans": [
+          "It improved personal health.",
+          "With the improved communication of this time period, medical advancements occurred rapidly, and instruments could be produced for lower costs."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "It created massive wealth gaps and exploitation of labor.",
+        "spans": [
+          "It created massive wealth gaps that have never really disappeared.",
+          "Many of the figures who made great wealth during this period tended to keep it for themselves. Even worse, they tended to exploit the labor of others, paying them as little as possible while exposing them to difficult working conditions to continue lining their pockets."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "It caused environmental damage and contributed to global warming.",
+        "spans": [
+          "It changed the very structure of our planet.",
+          "We know that the type of pollution caused by industrialization has a cumulative effect on the atmosphere."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "It led to dangerous working conditions and health issues for workers.",
+        "spans": [
+          "It killed people.",
+          "There was no reason to do so since most trades were kept within families. As the economy shifted toward an employer-based system, businesses and individuals focused solely on profit."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "It initially benefitted only a handful of countries, creating a divide between developed and developing nations.",
+        "spans": [
+          "It only benefitted a handful of countries.",
+          "It’s the 21st century and there are still nations that have not been fully industrialized."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "It relies on finite fossil fuel resources and caused pollution-related illnesses.",
+        "spans": [
+          "It utilizes a finite fuel resource.",
+          "Breathing in particulates caused countless illnesses and deaths over the years."
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "It shifted population centers toward urban environments and affected wages and employment.",
+        "spans": [
+          "It shifted population centers toward urban environments.",
+          "Since immigrants, legal or otherwise, were often willing to work for lower wages as a way to establish their family, they got the jobs and local workers were left out in the cold."
+        ]
+      },
+      {
+        "point_number": 13,
+        "point_content": "It forced changes in the agricultural sector and led to innovations like genetically modified foods.",
+        "spans": [
+          "It forced changes in the agricultural sector.",
+          "That shift in perspective changed the agricultural industries of every nation that went through the first Industrial Revolution."
+        ]
+      },
+      {
+        "point_number": 14,
+        "point_content": "It inspired a rise in unhealthy habits such as drug use and poor nutrition.",
+        "spans": [
+          "It inspired a rise in unhealthy habits.",
+          "Drug use rose during the Industrial Revolution."
+        ]
+      }
+    ],
+    "clueweb22-en0015-84-14071": [
+      {
+        "point_number": 1,
+        "point_content": "The Industrial Revolution led to industrial growth, economic development, and increased world trade.",
+        "spans": [
+          "Industrial development The Industrial Revolution means that industrial growth has allowed economies to develop and world trade to increase."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The Industrial Revolution improved quality of life by increasing production efficiency and lowering prices.",
+        "spans": [
+          "In response to the increased production of goods, the price of foods declined, contributing to better, convenient quality of life."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The Industrial Revolution created many jobs and opportunities, moving people from agricultural to industrial work.",
+        "spans": [
+          "This development was motivated by developments in technology, manufacturing, transport and construction, which provided people with many jobs.",
+          "Because more products were produced, the general public had more jobs. The Industrial Revolution has continued to drive people from an agricultural community to today’s modern world."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The Industrial Revolution introduced the concept of free enterprise and competition in the market.",
+        "spans": [
+          "The Industrial Revolution has certainly opened up the concept of free enterprise, as before, only one or two options would be offered in your small town with products.",
+          "The idea of a free market society was implemented during this time, which enabled customers to choose what they want, rather than being dependent upon the family who supplied their community with exchange."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The Industrial Revolution improved transportation, making travel safer, quicker, and cheaper.",
+        "spans": [
+          "Transportation improvement During the Industrial Revolution, transport means changed enormously and became more convenient, quicker and cheaper. It made traveling safer, opening up new places for many."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "The Industrial Revolution caused poor working conditions, including child labor and health risks.",
+        "spans": [
+          "Work from mines, where people spent more hours working in bad conditions, risking sickness and even death, was stressful.",
+          "In fact, contaminants ‘ particles and gases harmed people’s health.",
+          "They were encouraged to work at age 7, and they had low salaries."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Industrialization led to overpopulation and overcrowded slum areas in some regions.",
+        "spans": [
+          "Of example, overpopulation draws refugees through industrialisation, as it offers a good life. Not all regions were, however, blessed, because they were overcrowded which led to a lot of slum areas."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Industrialization caused environmental pollution and waste problems.",
+        "spans": [
+          "Waste Industrialization is common knowledge of waste. In modern cities worldwide, manufacturers and cars cause visible air pollution. Incorrect management of pollutants and other pollution often threatens and jeopardizes the state of the environment."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "The Industrial Revolution caused unemployment due to automation and lack of skills.",
+        "spans": [
+          "Unemployment Although there were prospects in the industrial revolution, unemployment still existed.",
+          "New computers were used to substitute manual labor, which culminated in high unemployment rates for individuals without the right skills."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "The Industrial Revolution led to lifestyle diseases such as heart attacks, asthma, and obesity.",
+        "spans": [
+          "Inventions and items that became the primary cause of lifestyle disorders, such as heart attacks, asthma, obesity, etc. have arisen with the new lifestyle phenomenon."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "The Industrial Revolution created vast income disparities and exploitation of workers.",
+        "spans": [
+          "It created vast disparities in income that were never really gone.",
+          "they tended to take advantage of other people’s work, thus charging them as little as possible to keep them under stressful working conditions."
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "The Industrial Revolution altered the planet's environment, contributing to global warming.",
+        "spans": [
+          "It has altered our planet’s composition.",
+          "We realize the cumulative effect on the environment of the pollution caused by industrialization."
+        ]
+      },
+      {
+        "point_number": 13,
+        "point_content": "The Industrial Revolution caused health and safety issues for workers, including long hours, low wages, and stress.",
+        "spans": [
+          "We murdered people.",
+          "It indicated the workers have long hours, no rest, low wages and little insurance benefits."
+        ]
+      },
+      {
+        "point_number": 14,
+        "point_content": "The benefits of the Industrial Revolution were initially limited to a few countries.",
+        "spans": [
+          "Just a few countries profit.",
+          "America, and then the US, gained first from the Industrial Revolution."
+        ]
+      },
+      {
+        "point_number": 15,
+        "point_content": "The Industrial Revolution increased dependency on fossil fuels and caused pollution-related health issues.",
+        "spans": [
+          "It requires a cost of gasoline.",
+          "Particulate respiration over the years has contributed to countless infections and deaths."
+        ]
+      },
+      {
+        "point_number": 16,
+        "point_content": "The Industrial Revolution caused population shifts to urban areas and wage disparities.",
+        "spans": [
+          "The population centers were moved to urban environments.",
+          "It forced local workers to develop those talents or trades, often from what their families had received in the previous generations."
+        ]
+      },
+      {
+        "point_number": 17,
+        "point_content": "The Industrial Revolution forced changes in agriculture and food production methods.",
+        "spans": [
+          "The agricultural sector was forced to change.",
+          "It forced industries to innovate new food production methods as food resources fell immediately and dramatically."
+        ]
+      },
+      {
+        "point_number": 18,
+        "point_content": "The Industrial Revolution encouraged unhealthy habits, including increased drug use and processed food consumption.",
+        "spans": [
+          "The production in unhealthy habits has been encouraged.",
+          "During the Industrial Revolution, drug use increased.",
+          "processed foods were created."
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0019-46-02293": [
+      {
+        "point_number": 1,
+        "point_content": "Industry 4.0 helps us to improve operational performance and efficiency.",
+        "spans": [
+          "Industry 4.0 helps us to improve operational performance and efficiency."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "With minimum machine downtimes, we can produce more and faster while allocating resources more cost-effectively and efficiently.",
+        "spans": [
+          "With minimum machine downtimes, we can produce more and faster while allocating resources more cost-effectively and efficiently."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Since most of the production processes are automated, high-quality standards can be maintained at a lower manufacturing cost.",
+        "spans": [
+          "Since most of the production processes are automated, high-quality standards can be maintained at a lower manufacturing cost."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "It can also enhance flexibility, speed to market, and agility for launching new products and services.",
+        "spans": [
+          "It can also enhance flexibility, speed to market, and agility for launching new products and services."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Industry 4.0 presents an opportunity to improve customer experience and service by reducing resolution time, fewer defects, and offers more product choices to the customers.",
+        "spans": [
+          "Industry 4.0 presents an opportunity to improve customer experience and service by reducing resolution time, fewer defects, and offers more product choices to the customers."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "It makes compliance easier – complying with regulations in industries like pharmaceutical and medical device manufacturing does not have to be a manual process.",
+        "spans": [
+          "It makes compliance easier – complying with regulations in industries like pharmaceutical and medical device manufacturing does not have to be a manual process."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Data security issues are one of the main concerns for the manufacturers as they believe investing in smart factories may increase the risk of security breaches and the chance of proprietary production knowledge theft.",
+        "spans": [
+          "Data security issues are one of the main concerns for the manufacturers as they believe investing in smart factories may increase the risk of security breaches and the chance of proprietary production knowledge theft."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Technical glitches loss of high-paying jobs and resistance from stakeholders to invest in new technologies are few entry-level barriers towards industry 4.0.",
+        "spans": [
+          "Technical glitches loss of high-paying jobs and resistance from stakeholders to invest in new technologies are few entry-level barriers towards industry 4.0."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Social issues and their impact on society are a few of the notable cons.",
+        "spans": [
+          "Social issues and their impact on society are a few of the notable cons."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Earlier industrial revolutions as they went through made Huge changes in social terms. There was a lot of urbanization and industrialization.",
+        "spans": [
+          "Earlier industrial revolutions as they went through made Huge changes in social terms. There was a lot of urbanization and industrialization."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "There is uncertainty as to how things will shape up now.",
+        "spans": [
+          "There is uncertainty as to how things will shape up now."
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "Interoperability, information transparency, automation, and integration of the production process are a few critical changes lying ahead for all the existing manufacturers.",
+        "spans": [
+          "Interoperability, information transparency, automation, and integration of the production process are a few critical changes lying ahead for all the existing manufacturers."
+        ]
+      },
+      {
+        "point_number": 13,
+        "point_content": "Skill education and training of manpower need to be improved and it takes a good chunk of investment.",
+        "spans": [
+          "Skill education and training of manpower need to be improved and it takes a good chunk of investment."
+        ]
+      }
+    ]
+  }
+}

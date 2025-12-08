@@ -1,0 +1,194 @@
+{
+  "question": "why is there a shortage of school bus drivers",
+  "key_points": {
+    "clueweb22-en0029-83-09724": [
+      {
+        "point_number": 1,
+        "point_content": "The pandemic exacerbated the shortage of school bus drivers.",
+        "spans": [
+          "The pandemic \"completely exacerbated\" the shortage",
+          "COVID just completely exacerbated the bus driver shortage."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Health concerns, especially due to COVID-19 and the delta variant, have caused some drivers to leave or not return.",
+        "spans": [
+          "One is health concerns, especially as COVID-19 cases are rising in many parts of the country due to the highly contagious delta variant.",
+          "During COVID, people chose their health over a position",
+          "A lot of them left, just really out of health reasons and concerns for their own health. And you can't blame them."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Money and pay competition from other transportation jobs affect the availability of school bus drivers.",
+        "spans": [
+          "Money, from enhanced unemployment benefits to a lack of full-time hours preventing people from applying, also may be a factor",
+          "People with a commercial driver's license, which is required to be a school bus driver, also may have been drawn to other jobs in the transportation industry that offer more competitive pay",
+          "CDL drivers are a commodity right now",
+          "Everybody's paying top dollar."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Closure or limited hours of DMV offices during the pandemic prevented people from getting or maintaining their CDL, limiting new drivers.",
+        "spans": [
+          "With DMV offices closed or offering limited hours during the pandemic, that also may have prevented people from getting or maintaining their CDL",
+          "When a lot of states' DMV agencies were closed, we weren't filling the funnel with new drivers."
+        ]
+      }
+    ],
+    "clueweb22-en0009-31-03149": [
+      {
+        "point_number": 1,
+        "point_content": "There is a nationwide school bus driver shortage, worsened by the COVID-19 pandemic.",
+        "spans": [
+          "there is a nationwide school bus driver shortage",
+          "due to the COVID-19 pandemic, shortages have been even more of an issue than ever before"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Low pay causes many bus drivers to leave for higher-paying jobs.",
+        "spans": [
+          "Nearly 25% of people have admitted to leaving their current job for a higher-paying job",
+          "Many bus drivers seek other employment opportunities because their pay isn’t as high as expected"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "School bus drivers work inconsistent and short hours, which is not enough work for them.",
+        "spans": [
+          "A school bus driver will work inconsistent hours",
+          "They’ll usually block off about 2-3 hours of driving in the morning and about 2-3 hours in the afternoon",
+          "Most times, these short days aren’t enough work for drivers"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Many companies only hire drivers with CDL and at least two years of experience, making it hard for new drivers to enter the industry.",
+        "spans": [
+          "Many school bus companies will only hire drivers who already have their CDL and have driven for at least two years"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "COVID-19 has caused some drivers at higher risk to retire due to health concerns.",
+        "spans": [
+          "Drivers who are at higher risk of getting the virus have taken this opportunity to retire because it’s not worth the potential health risk to continue driving"
+        ]
+      }
+    ],
+    "clueweb22-en0014-44-13457": [
+      {
+        "point_number": 1,
+        "point_content": "The U.S. labor force has come down because over 700,000 people have died during the COVID-19 pandemic.",
+        "spans": [
+          "The U.S. labor force has come down because over 700,000 people have died during the COVID-19 pandemic."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Many people haven't returned to the labor market due to concerns about contracting the coronavirus, family care needs, and early retirement.",
+        "spans": [
+          "Some of them are concerned about contracting the coronavirus, while others have to take care of their families' needs after the death of a member. A lot of people have also pulled forward their retirement since the elderly are especially at the risk from the coronavirus."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The bus driver shortage in the U.S. is a structural problem, an annual event when school starts in the fall, with complaints of low wages and poor working conditions.",
+        "spans": [
+          "The bus driver shortage in the U.S. is a structural problem, and it's an annual event when school starts in the fall. School bus drivers often complain of low wages and poor working conditions."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Many bus drivers lost their jobs since schools were closed during the COVID-19 pandemic and moved to other jobs.",
+        "spans": [
+          "Many bus drivers lost their jobs since schools were closed during the COVID-19 pandemic. While students moved to Zoom calls for schooling, school bus drivers also pivoted towards other jobs."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The average wages for school bus drivers are low and it's a seasonal job limited to the school year, leaving drivers without wages when schools are closed.",
+        "spans": [
+          "The average wages for school bus drivers are low and it's a seasonal job that's limited to the school year. In many cases, school bus drivers are left without wages when the schools are closed."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "School bus drivers are reluctant to return to their jobs and some have found jobs in alternate industries with better pay, such as truck driving.",
+        "spans": [
+          "A lot of school bus drivers seem reluctant to return to their jobs and some of them might have found jobs in alternate industries.",
+          "Companies like FedEx have been paying premium wages for workers. School bus drivers' skill sets have fungibility with other driving jobs. The average wages for a truck driver are higher than that of a school bus driver."
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0022-02-04041": [
+      {
+        "point_number": 1,
+        "point_content": "The shortage began to mount last year, when 95% of all K-12 schools in the US transitioned to remote learning.",
+        "spans": [
+          "The current shortage began to mount last year, when 95% of all K-12 schools in the US transitioned to remote learning."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Bus companies were forced to furlough or lay off their drivers en masse, and it’s been extraordinarily difficult to recruit them back.",
+        "spans": [
+          "Bus companies — which rely on the 180-day school year for business — were forced to furlough or lay off their drivers en masse. These drivers went on to find other transportation jobs, and it’s been extraordinarily difficult to recruit them back."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Many of the remaining drivers have also quit voluntarily over health concerns due to COVID-19 risks.",
+        "spans": [
+          "This year, as schools have reopened, many of the remaining drivers have also quit voluntarily over health concerns.",
+          "Workers in this age bracket are 40x more likely to die from COVID-19 than those in the 18-29 age bracket.",
+          "From Georgia to Florida to Michigan, bus drivers are dying of COVID-19 at an alarming rate as the Delta variant sweeps the nation."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Bus drivers typically work a split schedule and earn low pay, making the job less attractive.",
+        "spans": [
+          "Bus drivers typically work a split schedule, meaning they work in 2 shifts: One in the morning, and another in the afternoon.",
+          "Nationally, bus drivers earn a salary of $16.80/hour. In some states, like Mississippi and Arkansas, pay averages less than $12/hour."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Obtaining a commercial driver’s license is costly and time-consuming, and the job lacks benefits and year-round pay.",
+        "spans": [
+          "Before hitting the road, a new driver must obtain a commercial driver’s license — a process that can take up to 12 weeks and cost thousands of dollars.",
+          "The school year is only 180 days, and drivers usually aren’t compensated for holidays, PTO, or summers without work. Many are non-union employees who don’t receive benefits or regular pay raises."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "School bus employers have tried to increase pay and offer signing bonuses, but competition with other employers remains tough.",
+        "spans": [
+          "First Student, the largest school bus contractor in the US, has bumped pay to $21/hr",
+          "School districts in Pennsylvania, Arizona, Virginia, and many other states are offering drivers signing bonuses of up to $3k."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "School districts cannot compete with companies like Amazon that offer higher pay and more flexible schedules.",
+        "spans": [
+          "A major reason is that the district can’t compete with Amazon, which recently opened a 96k-sq.-ft. warehouse there, and is actively recruiting commercial delivery drivers.",
+          "The district’s bus drivers start at $14.57/hour; Amazon offers $16.50+."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Bus drivers face difficult working conditions including dealing with disruptive children and cleaning duties without extra pay.",
+        "spans": [
+          "You get kids throwing stuff at you on the bus, you get the fights, the bullying, the name-calling,” he says. “You have to be a chaperone on top of the driving. And we ain’t getting paid for that part of it.",
+          "After a long day with 2 shifts, Rodney often has to clean his bus for several hours, scrubbing away spilled juice and scraping gum off the floor."
+        ]
+      }
+    ]
+  }
+}

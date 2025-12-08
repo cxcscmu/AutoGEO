@@ -1,0 +1,750 @@
+{
+  "question": "why do some exposed people not get covid",
+  "key_points": {
+    "clueweb22-en0029-84-09732": [
+      {
+        "point_number": 1,
+        "point_content": "Some people are not infected at all, although they have intensive contact with Covid patients.",
+        "spans": [
+          "other people are not infected at all, although they have intensive contact with Covid patients"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "A group of 58 people had neither a positive corona test nor antibodies against the virus within four months despite exposure.",
+        "spans": [
+          "a group of 58 people who had neither a corona test positive nor antibodies against the virus within four months"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "20 of the blood samples from non-infected people showed increased levels of certain T cells that can control infection quickly.",
+        "spans": [
+          "the value of 20 of the blood samples was certain T cells was increased",
+          "It appears, NTV also reports, that it could immune system of these people fight the virus before it can establish itself and multiply in the body"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "T cells can recognize and kill the body’s own cells that have been infected by viruses, providing rapid defense.",
+        "spans": [
+          "T cells belong to the lymphocytes and play an important role in the immune system. They recognize structures foreign to the body when they are presented on an endogenous cell.",
+          "So there is T cells, recognize and kill the body’s own cells that have been infected by viruses.",
+          "Scientists suspect that this is the reason for this rapid defense T cells, also known as memory cells."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "T cells may have developed before the pandemic due to infections with other coronaviruses, providing cross immunity.",
+        "spans": [
+          "Because the T cells were found not only in the blood of the non-infected, but also in samples that were taken before the pandemic, the scientists came to an assumption: It is conceivable that these T cells developed in the body before the pandemic if infections with one of the four known coronaviruses took place.",
+          "Because of the previous infection, usually only one cold triggered, cross immunity may have occurred."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "The immune protein IFI 27 found in some blood samples indicates previous contact with SARS-CoV-2 but rapid termination of infection.",
+        "spans": [
+          "The scientists also found the immune protein IFI 27 in 19 of the blood samples.",
+          "This means that the coronavirus could have got into the body of those affected, but it was fought so quickly there that it only left the immune protein as a clue."
+        ]
+      }
+    ],
+    "clueweb22-en0039-94-04067": [
+      {
+        "point_number": 1,
+        "point_content": "Some people don't get infected by the coronavirus for reasons not yet understood, possibly due to unique genes.",
+        "spans": [
+          "An international team of researchers is hoping to identify individuals in the population who, for reasons that are not yet understood, don't get\u0000infected by the coronavirus\u0000 that causes COVID-19.",
+          "They want determine whether these people have unique genes that could be studied to develop new treatments against the disease."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "COVID-19 resistant people might have a mechanism where the virus cannot attach to their cells and inject its genetic payload, so the immune system doesn't see the virus.",
+        "spans": [
+          "If the virus cannot attach to our cells and inject its genetic payload to make more copies of itself, the immune system doesn't even see the virus.",
+          "This is what scientists\u0000suspect could be\u0000happening in COVID-19 resistant people."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Researchers are recruiting people exposed to SARS-CoV-2 who didn't get sick and show no immune signs of encountering the virus to study their resistance.",
+        "spans": [
+          "Vinh is the only Canadian investigator in\u0000an international team\u0000that has\u0000started recruiting people who were exposed to SARS-CoV-2, the virus that causes COVID-19, but who didn't get sick, and whose immune systems show\u0000no signs of encountering the virus."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Some family members of very ill COVID-19 patients remain totally well and uninfected despite exposure, indicating possible resistance.",
+        "spans": [
+          "The first candidates for this study are relatives of people who became very ill, but who themselves never tested positive, said Vinh.",
+          "\"There are these people who come to the hospital sick, sometimes deathly sick, with life-threatening COVID-19 and they have a family member or several family members who are totally, totally well \t6 who themselves got tested and found out they weren't infected.\""
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Scientists can detect if a person's immune system has encountered the virus by studying antibodies and T-cells.",
+        "spans": [
+          "Scientists can tell by studying a person's antibodies and T-cells if their immune systems have ever encountered the virus through a natural infection."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "The goal is to develop treatments that can interrupt infection earlier and more completely than vaccines, which do not always prevent infection or transmission.",
+        "spans": [
+          "In an interview with Quirks & Quarks host\u0000Bob McDonald, Vinh said one goal of this project is to develop treatments that can interrupt an infection even earlier and more completely than a vaccine.",
+          "Vaccines are excellent at protecting us against disease, but people who are vaccinated can still get infected and transmit the virus, albeit for a shorter period of time."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "The research team has recruited 1,000 exposed individuals suspected to be resistant and plans to scan their genomes to find gene variants preventing infection.",
+        "spans": [
+          "Vinh said that his team has already recruited 1,000 exposed individuals who they suspect are resistant to infection.",
+          "The plan is to scan their genomes and compare the group\u0000to people who\u0000were exposed and infected,\u0000to identify any gene variants that can prevent the virus from establishing itself."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Identifying genes associated with resistance could lead to understanding protective proteins and developing new treatments.",
+        "spans": [
+          "Once the team\u0000identifies\u0000genes that are heavily represented in those who are resistant, they\u0000will shift their focus to the proteins\u0000the genes make, and whether they offer any protection against infection."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "There are precedents in human history where some people exposed to viruses like malaria, HIV, and norovirus do not get infected due to molecular resistance.",
+        "spans": [
+          "Throughout\u0000human history, there are other examples of people who are exposed to\u0000viruses like malaria, HIV and norovirus\u0000but don't get\u0000infected, said Vinh.",
+          "\"In all of these infections, what we've seen are clusters of people who are exposed, but uninfected and then the molecules responsible for that resistance have been identified and some have even been transformed into drug therapies,\" said\u0000Vinh."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "A natural resistance gene discovered in Kenyan sex workers exposed to HIV-1 led to development of an antiviral that blocks virus entry into cells.",
+        "spans": [
+          "A good example of how this information can be\u0000useful for fighting off infections came from a group of\u0000sex workers in Kenya who, though exposed to the virus, were found to\u0000have\u0000a natural resistance\u0000to HIV-1\u0000infection .",
+          "By investigating the genetic basis for that immunity, scientists discovered one unexpected gene\u0000that, in its mutated form, protected the sex workers from getting infected, said Vinh.",
+          "That led to the development of a highly-effective antiviral that suppresses the HIV-1 virus by inhibiting its ability to enter and infect cells, which Vinh said is what they're hoping to\u0000do\u0000for the SARS-CoV-2 virus."
+        ]
+      }
+    ],
+    "clueweb22-en0040-79-13148": [
+      {
+        "point_number": 1,
+        "point_content": "Researchers are hoping to study why some people get infected with COVID-19 after being exposed, while others do not.",
+        "spans": [
+          "The researchers are hoping to study why some people get infected with COVID-19 after being exposed, while others do not, he said."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The study will focus on household contacts of an infected person to see who gets infected and why.",
+        "spans": [
+          "A new Case Western Reserve University study will focus on the household contacts of an infected person, said Dr. Christopher King, who is a researcher and pathologist at CWRU.",
+          "From there, researchers will study the members of a patient’s immediate household to see who gets infected – and why."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Researchers want to discover if participants develop antibodies or have a different kind of immune response that prevents infection.",
+        "spans": [
+          "They hope to discover if participants develop antibodies, or if their bodies have a different kind of immune response, he added.",
+          "What is it about them – what is it the nature of their behavior that prevents them from getting it. What is the nature of their immune response that prevents them from getting it?"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The nature of behavior and immune response may prevent some household members from getting infected.",
+        "spans": [
+          "Researchers will also ask the participants questions about behaviors that may have led to family members getting infected.",
+          "What is it about them – what is it the nature of their behavior that prevents them from getting it. What is the nature of their immune response that prevents them from getting it?"
+        ]
+      }
+    ],
+    "clueweb22-en0027-58-13079": [
+      {
+        "point_number": 1,
+        "point_content": "Some individuals clear virus rapidly due to a strong immune response from existing T-cells, meaning tests record negative result.",
+        "spans": [
+          "some individuals clear virus rapidly due to a strong immune response from existing T-cells, meaning tests record negative result"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "A proportion of people experience 'abortive infection' in which the virus enters the body but is cleared by the immune system’s T-cells at the earliest stage meaning that PCR and antibody tests record a negative result.",
+        "spans": [
+          "a proportion of people experience “abortive infection” in which the virus enters the body but is cleared by the immune system’s T-cells at the earliest stage meaning that PCR and antibody tests record a negative result"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "A subset of people already had memory T-cells from previous infections from other seasonal coronaviruses causing common colds, which protected them from Covid-19.",
+        "spans": [
+          "a subset of people already had memory T-cells from previous infections from other seasonal coronaviruses causing common colds, which protected them from Covid-19"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "These immune cells 'sniff out' proteins in the replication machinery – a region of Covid-19 shared with seasonal coronaviruses – and in some people this response was quick and potent enough for the infection to be cleared at the earliest stage.",
+        "spans": [
+          "These immune cells “sniff out” proteins in the replication machinery – a region of Covid-19 shared with seasonal coronaviruses – and in some people this response was quick and potent enough for the infection to be cleared at the earliest stage"
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0024-92-05971": [
+      {
+        "point_number": 1,
+        "point_content": "Scientists are studying people who have been exposed to the virus but do not get infected to see if there are genetic variants that mean you can't get infected.",
+        "spans": [
+          "A global group of researchers are looking for people who have been exposed to the virus but do not get infected",
+          "The study is going to compare the DNA of the people who get infected with the DNA of people who get exposed but not infected to see if there are genetic variants that mean you can’t get infected."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Some people might have 'abortive infections' where their T-cells kill off the virus before it invades the body, leading to no positive PCR test or symptoms.",
+        "spans": [
+          "15 percent experienced low-level “abortive infections” that weren’t picked up on PCR tests",
+          "Essentially, their T-cells had killed off the virus before it had invaded the rest of their bodies."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Some people might have been infected but never knew it due to varying test effectiveness and symptom severity.",
+        "spans": [
+          "MacDonald thinks might be happening to The Invincibles now: They were infected by COVID and just didn’t know it.",
+          "There are so many different tests out there, and each test is more or less effective at identifying an infected person",
+          "The disease also has so many different varying symptoms and severities, people might have no idea they were sick."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Environmental factors like where you sit and air circulation can affect the likelihood of getting infected, supporting the idea of 'dumb luck'.",
+        "spans": [
+          "Science might support the theory of dumb luck, MacDonald said.",
+          "For example, studies show that where you sit in a restaurant and the direction of the air circulation matters from one person to another among tables."
+        ]
+      }
+    ],
+    "clueweb22-en0009-59-05512": [
+      {
+        "point_number": 1,
+        "point_content": "Some people seem to avoid catching Covid altogether while others have managed to be reinfected.",
+        "spans": [
+          "Some people seem to avoid catching Covid altogether while others have managed to be reinfected"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Top immunologists think there could be a reason behind it - with some lucky people having a natural built in immunity.",
+        "spans": [
+          "Top immunologists think there could be a reason behind it - with some lucky people having a natural built in immunity."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Experts in Britain and Brazil are investigating if some humans already had a body that was prepped to fight the virus, before the pandemic began.",
+        "spans": [
+          "Experts in Britain and Brazil are investigating if some humans already had a body that was prepped to fight the virus, before the pandemic began."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "For those that keep catching Covid, it doesn't necessarily mean their immune system isn't working as well.",
+        "spans": [
+          "For those that keep catching Covid, it doesn't necessarily mean their immune system isn't working as well."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Danny Altmann, professor of medicine and immunology at Imperial College London, told the Telegraph immunity genes differ hugely from person to person.",
+        "spans": [
+          "Danny Altmann, professor of medicine and immunology at Imperial College London, told the Telegraph immunity genes differ hugely from person to person."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "A similar study happened at the start of the pandemic, where healthcare based staff were likely to be exposed to Covid at work.",
+        "spans": [
+          "A similar study happened at the start of the pandemic, where healthcare based staff were likely to be exposed to Covid at work."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "The remaining 15 per cent had experienced low-level \"abortive infections\", which weren't picked up on PCR tests. They had no Covid antibodies, but had a higher than average T-cell count - suggesting their bodies had seen off the virus before it bedded in.",
+        "spans": [
+          "The remaining 15 per cent had experienced low-level \"abortive infections\", which weren't picked up on PCR tests.",
+          "They had no Covid antibodies, but had a higher than average T-cell count - suggesting their bodies had seen off the virus before it bedded in."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "It was as if their bodies were already able to battle Covid, despite not having come across the virus before.",
+        "spans": [
+          "It was as if their bodies were already able to battle Covid, despite not having come across the virus before."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Mala Maini, a professor of viral immunology at University College London, and co-author of the study, said: \"They didn’t completely resist the infection, but they eliminated it so rapidly that it couldn’t be picked up by the standard test.\"",
+        "spans": [
+          "Mala Maini, a professor of viral immunology at University College London, and co-author of the study, said: \"They didn’t completely resist the infection, but they eliminated it so rapidly that it couldn’t be picked up by the standard test.\""
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Sir John Bell, regius professor of medicine at Oxford University, said it's likely a large amount of the population already had a \"background level\" of protection against Covid-19.",
+        "spans": [
+          "Sir John Bell, regius professor of medicine at Oxford University, said it's likely a large amount of the population already had a \"background level\" of protection against Covid-19."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "He said: \"So there is probably background T-cell immunity in people before they see the coronavirus, and that may be relevant that many people get a pretty asymptomatic disease.\"",
+        "spans": [
+          "He said: \"So there is probably background T-cell immunity in people before they see the coronavirus, and that may be relevant that many people get a pretty asymptomatic disease.\""
+        ]
+      }
+    ],
+    "clueweb22-en0032-52-01532": [
+      {
+        "point_number": 1,
+        "point_content": "Some people avoid getting COVID-19 from an infected housemate partly due to luck and the infected person not releasing droplet particles into the air.",
+        "spans": [
+          "It is possible you just got lucky and the infected person didn't release any droplet particles into the air"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Infectiousness varies based on how many droplet particles a person produces and how long they contain the virus.",
+        "spans": [
+          "Infectiousness depends on how many droplet particles a person produces, and how long they contain the virus for"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The amount of virus a person has varies over time, with the largest amounts present from a day or two before symptoms appear and for a few days after.",
+        "spans": [
+          "We know that with SARS-CoV-V2, the largest amounts of virus are present from a day or two before symptoms appear, and running for a few days after that"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Some people stay infectious for much longer than others, ranging from eight to 37 days after infection.",
+        "spans": [
+          "people with COVID stay infectious between eight and 37 days after they first caught the virus"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Asymptomatic people might not be very infectious, but they may be responsible for 60% of cases.",
+        "spans": [
+          "asymptomatic people might not be very infectious, but a statistical model by the CDC published in JAMA Network Open in 2021 found that they may actually be responsible for 60% of cases"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Behavior and precautions like isolation, hand washing, cleaning, and mask wearing can prevent infection.",
+        "spans": [
+          "If your roommate has isolated themselves and you've been washing your hands, cleaning everything in sight, and wearing masks, Dr. Elliot says, you can both prevent infection"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Living conditions such as room size and ventilation affect the risk of infection.",
+        "spans": [
+          "If you’re in a small room with poor ventilation, the risks will be greater than if you are outdoors or in a very large room that has good ventilation"
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "A person's immune system strength and health status may provide some protection against infection.",
+        "spans": [
+          "Your own immune system may have also helped, he says; if you're young, have no underlying conditions, and your immune system is robust, you may have a bit more protection"
+        ]
+      }
+    ],
+    "clueweb22-en0002-47-02604": [
+      {
+        "point_number": 1,
+        "point_content": "The exact reasons for why some people develop symptoms and others do not is unknown, but we do know that the healthier you are, the more likely you are to have an asymptomatic case.",
+        "spans": [
+          "The exact reasons for why some people develop symptoms and others do not is unknown, but we do know that the healthier you are, the more likely you are to have an asymptomatic case."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Age is a factor, with young people having much higher amounts of asymptomatic cases than older people.",
+        "spans": [
+          "Age: Young people have been shown to have much higher amounts of asymptomatic cases than older people."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Genetics may play a role, including genetic variations of the ACE2 proteins and blood type and gender associations.",
+        "spans": [
+          "Genetics: A number of studies looking at asymptomatic cases in Africa point towards genetics potentially playing a role.certain genetic variations., Ffor example, some people have variations of the ACE2 proteins (which the COVID-19 virus binds to) that make them more likely to get infected by COVID-19's as well as sicker. Those who don’t have these variations are less likely to have symptoms. genetic variations in receptors used for COVID-19 entrance into cells which could influence asymptomatic infections. BAdditionally, bBlood typegroup type and gender are two other genetic factors that might behas also been associatedindicated within asymptomatic cases, though there is conflicting dataconflicting data is present. As has gender with a study pointing towards higher rates of asymptomatic cases in women."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Cross immunity from past exposure to other viruses or vaccines like BCG may provide partial protection leading to asymptomatic cases.",
+        "spans": [
+          "Cross immunity: Cross immunity is the idea that past exposure to one virus—either through infection or vaccination—could provide partial protection against another virus. Studies suggest that cross-immunity can lead to asymptomatic COVID-19 cases. One example is the Bacillus Calmette–Guérin (BCG) vaccine used to prevent tuberculosis. Recent data suggest that regions with required BCG vaccines have had lower rates of COVID-19 cases and deaths. In addition, the BCG vaccine has been shown to reduce the viral load of other viruses like the flu. This suggests that BCG vaccines could boost immunity against COVID-19 and decrease inflammation, leading to less symptoms. However, further studies are needed."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Environment exposing people to diverse microbes from an early age may help protect against symptoms.",
+        "spans": [
+          "Environment: One theory suggests that environments that expose people to a diverse range of “friendly” microbes from an early age may help protect people more against dangerous new pathogens like the virus that causes COVID-19. As a result, it’s possible that more multimicrobial environments could be resulting in more asymptomatic cases."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "COVID-19 vaccination reduces symptomatic and asymptomatic cases overall, but vaccinated people who get infected may be more likely to have asymptomatic cases.",
+        "spans": [
+          "COVID-19 vaccination: COVID-19 vaccines reduce both symptomatic and asymptomatic cases overall. However, among people who have gotten the vaccine and end up getting infected, they may be more likely to have an asymptomatic case because of the vaccine A growing amount of data suggests that COVID-19 vaccinations are associated with asymptomatic infections. This would be consistent with past findings with influenza and measles, in which vaccination reduces both symptomatic and asymptomatic infections."
+        ]
+      }
+    ],
+    "clueweb22-en0022-60-13677": [
+      {
+        "point_number": 1,
+        "point_content": "The gene, HLA-DRB1*04:01, is found three times as often in people who are asymptomatic, suggesting some level of protection from severe Covid.",
+        "spans": [
+          "the gene, HLA-DRB1*04:01, is found three times as often in people who are asymptomatic",
+          "people with this gene have some level of protection from severe Covid"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "This study compared asymptomatic people to patients who developed severe Covid but had no underlying illnesses, providing clear evidence of genetic resistance.",
+        "spans": [
+          "compared asymptomatic people to patients from the same community who developed severe Covid but had no underlying illnesses",
+          "this is the first clear evidence of genetic resistance"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The study used next generation sequencing to focus in detail on the HLA genes, which are packed together on chromosome 6, rather than scanning the whole genome.",
+        "spans": [
+          "used next generation sequencing to focus in detail and at scale on the HLA genes which are packed together on chromosome 6",
+          "Other studies have scanned the whole genome but that approach is less effective in the tissue typing complex"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "HLA-DRB1*04:01 is directly correlated to latitude and longitude, meaning more people in the North and West of Europe are likely to have this gene and be more likely to remain asymptomatic.",
+        "spans": [
+          "It is known that the human leukocyte antigen gene identified, HLA-DRB1*04:01, is directly correlated to latitude and longitude",
+          "more people in the North and West of Europe are likely to have this gene",
+          "populations of European descent will be more likely to remain asymptomatic"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "People with this gene may catch Covid but not get sick, which could lead to a genetic test to prioritize vaccinations.",
+        "spans": [
+          "This is an important finding as it may explain why some people catch Covid but don’t get sick",
+          "It could lead us to a genetic test which may indicate who we need to prioritize for future vaccinations"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "People who are resistant and asymptomatic risk spreading the virus while asymptomatic.",
+        "spans": [
+          "when we have lots of people who are resistant, so they catch Covid but don’t show symptoms, then they risk spreading the virus while asymptomatic"
+        ]
+      }
+    ],
+    "clueweb22-en0023-18-07516": [
+      {
+        "point_number": 1,
+        "point_content": "Getting infected by SARS-CoV-2 requires close contact over a sustained period of time (generally more than 15 minutes).",
+        "spans": [
+          "Getting infected by SARS-CoV-2 requires close contact over a sustained period of time (generally more than 15 minutes)."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Lots of things affect whether or not a person exposed to a virus gets sick from it: the ventilation of the space, how robust your immune system is, how many people inside the space were exhaling viral particles.",
+        "spans": [
+          "Lots of things affect whether or not a person exposed to a virus gets sick from it: the ventilation of the space, how robust your immune system is, how many people inside the space were exhaling viral particles."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Because COVID-19 is contagious even if someone is not showing symptoms (or not yet), it’s possible that someone you’ve spent time may have unknowingly been infected. If you practice strict social distancing guidelines, wear masks whenever you must interact, and clean shared surfaces frequently, you may be able to escape infection yourself.",
+        "spans": [
+          "Because COVID-19 is contagious even if someone is not showing symptoms (or not yet), it’s possible that someone you’ve spent time may have unknowingly been infected. If you practice strict social distancing guidelines, wear masks whenever you must interact, and clean shared surfaces frequently, you may be able to escape infection yourself."
+        ]
+      }
+    ],
+    "clueweb22-en0038-53-05572": [
+      {
+        "point_number": 1,
+        "point_content": "Some people have a natural built-in immunity to Covid, which helps them avoid infection even after exposure.",
+        "spans": [
+          "Top immunologists think there could be a reason behind it - with some lucky people having a natural built in immunity."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Some humans may have had a body prepped to fight the virus before the pandemic began, indicated by higher than average T-cell counts and abortive infections.",
+        "spans": [
+          "Experts in Britain and Brazil are investigating if some humans already had a body that was prepped to fight the virus, before the pandemic began.",
+          "The remaining 15 per cent had experienced low-level \"abortive infections\", which weren't picked up on PCR tests.",
+          "They had no Covid antibodies, but had a higher than average T-cell count - suggesting their bodies had seen off the virus before it bedded in."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Immunity genes differ hugely from person to person, affecting susceptibility to Covid.",
+        "spans": [
+          "Danny Altmann, professor of medicine and immunology at Imperial College London, told the Telegraph immunity genes differ hugely from person to person.",
+          "He said: \"I’m talking about thousands of possibilities on your chequerboard; no two people will ever look the same.”"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "People who keep catching Covid may have waning immunity, be more prone to viruses, or be less careful with precautions, not necessarily a failing immune system.",
+        "spans": [
+          "For those that keep catching Covid, it doesn't necessarily mean their immune system isn't working as well.",
+          "Despite being vaccinated, they may be simply more prone to viruses, their immunity has waned, they are less careful with handwashing/mask wearing etc or just unlucky in managing to tick off each variant."
+        ]
+      }
+    ],
+    "clueweb22-en0006-72-15324": [
+      {
+        "point_number": 1,
+        "point_content": "COVID appears to be following a 20-80 rule where 80% of transmission is caused by 20% of those infected.",
+        "spans": [
+          "COVID appears to be following a 20-80 rule.",
+          "Eighty per cent of transmission is in general caused by 20 per cent of those who are infected"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "There is very uneven transmission of the virus, unlike flu where transmission is more uniform.",
+        "spans": [
+          "there's been a \"very uneven transmission\" of the virus.",
+          "It's not like flu, where the transmission is more uniform from person to person"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Speaking loudly or singing, not wearing masks, or biological factors could explain why some family members contract COVID and others don't.",
+        "spans": [
+          "Professor Good says speaking loudly or singing, not wearing masks or possible biological factors could help explain why some family members contract COVID and others don't."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Some people may have previously had the virus unknowingly and been asymptomatic, developing stronger immunity.",
+        "spans": [
+          "Professor Good says some people may have previously had the virus unknowingly and been asymptomatic so they've developed stronger immunity."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Vaccine response varies among individuals and vaccination combined with social distancing is the best way to prevent disease.",
+        "spans": [
+          "He says vaccine response plays a part too.",
+          "Different people do respond differently.",
+          "But in general, vaccination is by far the best way to to prevent the disease but it has to be combined, I think, also with social distancing measures."
+        ]
+      }
+    ],
+    "clueweb22-en0003-13-05889": [
+      {
+        "point_number": 1,
+        "point_content": "Once one person becomes infected, there is a 12% likelihood that someone they are living with will become infected, too.",
+        "spans": [
+          "Once one person becomes infected, there is a 12% likelihood that someone they are living with will become infected, too, according to University of Utah’s Utah HERO phase one study."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Spread from one person in a household to another fails to happen about 88% of the time despite close contact.",
+        "spans": [
+          "spread from one person in a household to another fails to happen about 88% of the time."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "There is a large variability in infectiousness, and certain conditions are conducive to spreading the virus to large numbers of people.",
+        "spans": [
+          "there is a large variability in infectiousness, and certain conditions are conducive to spreading the virus to large numbers of people."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "A relatively small proportion of people could be responsible for much of the spread of the disease.",
+        "spans": [
+          "Research suggests that 10 to 20% of infected people were responsible for 80% of the cases examined."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Biological differences that lead infected people to shed more virus—and for longer periods of time—could boost their infectivity.",
+        "spans": [
+          "Biological differences that lead infected people to shed more virus—and for longer periods of time—could boost their infectivity."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Environmental factors like household size, multigenerational families, or poor ventilation could affect spread.",
+        "spans": [
+          "Imagine that households with a large number of people in tight quarters, multigenerational families, or poor ventilation could be particularly conducive to spreading the disease."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Risk for infection was higher between spouses, at 43%, possibly due to intimacy or longer exposure.",
+        "spans": [
+          "risk for infection was higher between spouses, at 43%, which could be a reflection of transmission through intimacy, or longer or more direct exposure."
+        ]
+      }
+    ],
+    "clueweb22-en0028-45-18789": [
+      {
+        "point_number": 1,
+        "point_content": "Some people are naturally Covid-resistant and remain immune even as the virus mutates.",
+        "spans": [
+          "mounting evidence that some people are naturally resistant to Covid and its mutations",
+          "it's thought that these people were already immune to the Covid virus, and they remain so even as it mutates"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Some individuals have T cells from previous exposure to other coronaviruses that help them fight off Covid without infection.",
+        "spans": [
+          "they discovered other immune system cells, called T cells, similar to those found in the immune systems of people who have recovered from Covid",
+          "One theory is that the protection came from regular exposure in the past.",
+          "This could have been through their jobs dealing with sick patients or facing other, less destructive types of coronavirus – the type of disease that includes Covid, of which four strains cause common colds."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "T cells remain in the system longer than antibodies and can destroy the virus before it infects healthy cells.",
+        "spans": [
+          "T cells remain in the system for longer and will have snuffed out the virus before it had a chance to infect healthy cells or do any damage"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Exposure to other viruses or vaccines can boost general immune response, including T cells and macrophages, which may protect against Covid.",
+        "spans": [
+          "When the body is infected with any virus, or is primed to recognise it by a vaccine, the immune system mounts a response",
+          "Another key line of defence is fighter cells, called T cells, which are released after a jab or infection and are not as specific in their response.",
+          "exposure to a virus or its vaccine can also ramp up another type of specialised cell – macrophages, which are particularly effective for fighting respiratory viruses"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Flu vaccination may reduce the likelihood of catching Covid-19 due to a strong T cell response.",
+        "spans": [
+          "Striking evidence from the US shows that people who had had a flu vaccine were 24 per cent less likely to catch Covid-19",
+          "The scientists, writing in the American Journal Of Infection Control, concluded that this pattern could be due to a strong T cell response following the flu jab."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Genetic variations might make certain people impervious to Covid infection.",
+        "spans": [
+          "In America and Brazil, researchers are looking at potential genetic variations that might make certain people impervious to the infection",
+          "Another plausible hypothesis is that natural Covid resistance – and a potential preventative treatment – lies in the genes."
+        ]
+      }
+    ],
+    "clueweb22-en0022-81-05033": [
+      {
+        "point_number": 1,
+        "point_content": "One of the likeliest factors is the health of our individual immune systems.",
+        "spans": [
+          "one of the likeliest factors is the health of our individual immune systems"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Someone with a strong, healthy immune system who is exposed to a virus may not become infected, or may become infected but show few symptoms.",
+        "spans": [
+          "Someone with a strong, healthy immune system who is exposed to a virus may not become infected, or may become infected but show few symptoms"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Proper hygiene can prevent transmission within a family even if one individual is infected.",
+        "spans": [
+          "with proper hand washing, not touching their nose and mouth, you can actually prevent transmission within a family"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Women generally have a much more robust immune response to infections than men, which may explain why men are more likely to become infected.",
+        "spans": [
+          "women generally have a much more robust immune response to infections",
+          "there are more males than females becoming infected"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Not testing positive or showing symptoms does not mean someone is immune; immunity requires prior exposure to the virus.",
+        "spans": [
+          "just because someone doesn’t test positive for the coronavirus or show symptoms, does not mean they are somehow immune",
+          "What does it meant to be immune? It means you’ve had to be exposed to the virus once before"
+        ]
+      }
+    ],
+    "clueweb22-en0002-39-16813": [
+      {
+        "point_number": 1,
+        "point_content": "Some people might be genetically resistant to SARS-CoV-2, never contracting COVID-19 despite exposure.",
+        "spans": [
+          "An international team of researchers wants to find people who are genetically resistant to SARS-CoV-2",
+          "Imagine being born naturally resistant to SARS-CoV-2, and never having to worry about contracting COVID-19 or spreading the virus."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Researchers are focusing on people who have been exposed to the virus without protection but have not tested positive or developed an immune response.",
+        "spans": [
+          "The first step is to narrow the search to people who have been exposed, without protection, to a sick person over an extended period, and have not tested positive or mounted an immune response against the virus."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Discordant couples, where one partner is infected and the other is not despite close contact, are of particular interest.",
+        "spans": [
+          "Of particular interest are people who shared a home and bed with an infected partner — pairs known as discordant couples."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Genetic resistance to the virus may be very rare, possibly only a handful of people have this trait.",
+        "spans": [
+          "If genetic resistance to the coronavirus SARS-CoV-2 exists, there may be “only a handful” of people with this trait"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Some mechanisms of resistance might include lack of a functioning ACE2 receptor or powerful immune responses that prevent the virus from replicating.",
+        "spans": [
+          "The most obvious could be that some people don’t have a functioning ACE2 receptor, which SARS-CoV-2 uses to enter cells.",
+          "Other people resistant to SARS-CoV-2 might have very powerful immune responses, especially in the cells lining the insides of their noses."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Identifying genes responsible for resistance could lead to development of drugs that block the virus and prevent infection and transmission.",
+        "spans": [
+          "The team hopes that identifying the genes protecting these individuals could lead to the development of virus-blocking drugs that not only protect people from COVID-19, but also prevent them from passing on the infection."
+        ]
+      }
+    ]
+  }
+}

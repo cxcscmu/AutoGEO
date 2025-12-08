@@ -1,0 +1,77 @@
+{
+  "question": "can we ever rely on other people’s cdd procedures?",
+  "key_points": {
+    "clueweb22-en0030-22-19631": [
+      {
+        "point_number": 1,
+        "point_content": "If my client has been introduced to me by another firm, do I still need to do CDD on them?",
+        "spans": [
+          "If my client has been introduced to me by another firm, do I still need to do CDD on them?"
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0024-93-00804": [
+      {
+        "point_number": 1,
+        "point_content": "Reliance is still possible under the MLR 2017, but only if certain conditions are met.",
+        "spans": [
+          "Reliance is still possible under the MLR 2017. A firm may rely on another person who is subject to the MLR 2017 or equivalent to carry out CDD, but only if it obtains from that third party significant amounts of the CDD information required and enters into a written agreement with the third party under which the third party agrees to provide within two working days of a request to do so copies of any identification and verification data on the customer or its beneficial owner, and agrees to keep records for the periods the MLR 2017 require."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Firms are permitted to rely on CDD carried out by other group companies if done to MLD4 standards under supervision.",
+        "spans": [
+          "The MLR 2017 confirm that firms are permitted to rely on CDD carried out by other group companies, provided these are carried out to MLD4 standards under the supervision of an appropriate MLD4 supervisor."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Firms may outsource CDD but remain liable for any failures.",
+        "spans": [
+          "They also confirm firms may outsource CDD, but again will remain liable for any failures."
+        ]
+      }
+    ],
+    "clueweb22-en0037-66-16500": [
+      {
+        "point_number": 1,
+        "point_content": "Businesses must carry out CDD when establishing a business relationship.",
+        "spans": [
+          "Businesses must carry out CDD when establishing a business relationship."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Simplified Due Diligence (SDD) is allowed for low-risk customers and reduces the time and extent of verification but does not skip required CDD steps.",
+        "spans": [
+          "In circumstances posing a low money laundering risk, some regulators allow conducting a simplified check, known as Simplified Due Diligence (SDD).",
+          "SDD doesn’t skip over any of the required CDD steps, but it allows businesses to reduce the time and extent of the verification process."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Enhanced Due Diligence (EDD) is required for higher-risk customers and involves more in-depth verification and senior management approval.",
+        "spans": [
+          "For higher-risk situations, businesses may need to perform more in-depth verification called Enhanced Due Diligence (EDD).",
+          "The additional checks within EDD can range from requests for more information to verification of sources of wealth and funds, as well as getting senior management approval before starting the business relationship."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Businesses choose between regular, enhanced, and simplified due diligence based on what they know about a customer.",
+        "spans": [
+          "Businesses choose between regular, enhanced, and simplified due diligence based on what they know about a customer."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Due diligence is ongoing, as customer profiles can change over time, requiring continuous monitoring.",
+        "spans": [
+          "Due diligence is ongoing, as there’s always a chance that a customer’s profile changes over time."
+        ]
+      }
+    ]
+  }
+}

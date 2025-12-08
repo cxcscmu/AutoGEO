@@ -1,0 +1,248 @@
+{
+  "question": "what challenges do medical facilities face when trying to become more culturally competent?",
+  "key_points": {
+    "clueweb22-en0020-79-16629": [
+      {
+        "point_number": 1,
+        "point_content": "Medical facilities face challenges in becoming culturally competent due to assumptions providers make about people from other cultures.",
+        "spans": [
+          "What kinds of assumptions do providers sometimes make about people from other cultures?"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Providers may relate to patients in a biased manner due to various factors.",
+        "spans": [
+          "What factors may cause providers to relate to patients in a biased manner?"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Healthcare organizations need to ensure cultural competence among their employees.",
+        "spans": [
+          "What can healthcare organizations do to ensure cultural competence among their employees?"
+        ]
+      }
+    ],
+    "clueweb22-en0016-83-14314": [
+      {
+        "point_number": 1,
+        "point_content": "Physicians face challenges providing care to a multicultural society complicated by literacy issues and sociocultural differences affecting health beliefs and behavior.",
+        "spans": [
+          "Physicians are increasingly faced with providing care to a multicultural society complicated by literacy issues.",
+          "Ensuring safe and quality health care for all patients requires physicians to understand how each patient’s sociocultural background affects his or her health beliefs and behavior."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Language barriers and refusal of interpreter services complicate communication and care delivery.",
+        "spans": [
+          "She spoke English moderately well but with a heavy accent. Offers of an interpreter were declined, including translation of the surgical consent form.",
+          "The patient, whose primary language was Spanish, had limited English skills but refused an interpreter at all clinic appointments."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Cultural norms can affect communication and consent processes, leading to delayed treatment.",
+        "spans": [
+          "Communication regarding the patient’s care or concerns would occur only when a male family member was present.",
+          "After several days of delayed treatment because consent for a necessary but nonemergent surgery could not be obtained from the patient, a visiting chaplain of the same nationality explained the cultural requirement that a male be present for a female’s care."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Inadequate provider-patient communication contributes to noncompliance, poor outcomes, and litigation, especially in multicultural populations due to behavioral, cognitive, linguistic, contextual, and cultural barriers.",
+        "spans": [
+          "The Doctors Company’s closed claims studies have shown that inadequate provider-patient communication is a frequent contributing factor to patient noncompliance, poor patient outcomes, and litigation.",
+          "In multicultural and minority populations, the issue of communication may play an even larger role because of behavioral, cognitive, linguistic, contextual, and cultural barriers that preclude effective patient-provider communication."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Traditional cross-cultural training focusing on lists of health beliefs and behaviors can lead to stereotyping and does not consider acculturation and socioeconomic status.",
+        "spans": [
+          "Traditionally, training in cross-cultural medicine has focused on providing a list of common health beliefs, behaviors, and key “dos and don’ts.” This approach does not take into account acculturation and socioeconomic status and can lead to stereotyping."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Physicians may struggle to elicit patient information and negotiate appropriate care due to cultural differences, leading to negative health consequences.",
+        "spans": [
+          "If the provider is unable to elicit patient information and negotiate appropriate care, negative health consequences may occur."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Health literacy challenges affect patients' ability to understand health information and follow treatment instructions, complicating culturally competent care.",
+        "spans": [
+          "Studies have shown that people from all age, race, income, and education levels are challenged by an inability to obtain, process, and understand basic health information and services needed to make appropriate health decisions and to follow instructions for treatment.",
+          "AHRQ has found that only 12 percent of the adult population has the skills to navigate and understand our complex health systems—skills reduced by stress and illness."
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0039-68-13997": [
+      {
+        "point_number": 1,
+        "point_content": "A lack of conceptual clarity around cultural competence persists in the field and the research community.",
+        "spans": [
+          "A lack of conceptual clarity around cultural competence persists in the field and the research community."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "There is confusion about what cultural competence means, and different ways in which it is conceptualized and operationalized.",
+        "spans": [
+          "There is confusion about what cultural competence means, and different ways in which it is conceptualized and operationalized."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "This confusion leads to disagreement regarding the topic areas and practices in which a provider should train to attain cultural competence.",
+        "spans": [
+          "This confusion leads to disagreement regarding the topic areas and practices in which a provider should train to attain cultural competence."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Cultural competence is often seen as encompassing only racial and ethnic differences, omitting other marginalized population groups who are ethnically and racially similar to a provider but who are at risk for stigmatization or discrimination, are different in other identities, or have differences in healthcare needs that result in health disparities.",
+        "spans": [
+          "Cultural competence is often seen as encompassing only racial and ethnic differences, omitting other marginalized population groups who are ethnically and racially similar to a provider but who are at risk for stigmatization or discrimination, are different in other identities, or have differences in healthcare needs that result in health disparities."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Concerns have been raised about cultural competency programs that use a group-specific approach to teach providers about the attitudes, values, and beliefs of a specific cultural group leading to stereotyping and oversimplifying the diversity within a particular priority group.",
+        "spans": [
+          "Concerns have been raised about cultural competency programs that use a group-specific approach to teach providers about the attitudes, values, and beliefs of a specific cultural group leading to stereotyping and oversimplifying the diversity within a particular priority group."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "For those gains to translate into culturally competent behaviors there also needs to be changes in the structures and culture of health care systems and organizations.",
+        "spans": [
+          "for those gains to translate into culturally competent behaviors there also needs to be changes in the structures and culture of health care systems and organizations."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "People from the disability culture may face multiple levels or forms of access barriers, such as transportation to facilities and whether the exam room and its contents is physically accessible.",
+        "spans": [
+          "people from the disability culture may face multiple levels or forms of access barriers, such as transportation to facilities and whether the exam room and its contents is physically accessible."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "While cultural competence interventions often aim to improve cultural sensitivity by reducing stereotyping and stigma, there remains the possibility that some interventions may inadvertently induce different stereotyping behaviors by inducing a provider to create new scripts, or ways of categorizing people, that result in negative consequences.",
+        "spans": [
+          "while cultural competence interventions often aim to improve cultural sensitivity by reducing stereotyping and stigma, there remains the possibility that some interventions may inadvertently induce different stereotyping behaviors by inducing a provider to create new scripts, or ways of categorizing people, that result in negative consequences."
+        ]
+      }
+    ],
+    "clueweb22-en0044-07-01238": [
+      {
+        "point_number": 1,
+        "point_content": "Health care professionals largely view cross-cultural education from a 'cultural awareness' perspective, focusing on cultural knowledge and communication facilitation rather than systemic issues.",
+        "spans": [
+          "The majority of the sample appeared to view cross-cultural education from a ‘cultural awareness’ perspective - effective cross-cultural care was often defined in terms of possessing useful cultural knowledge (e.g., norms and customs) and facilitating communication (the use of interpreters); in other words, from an immediate practical standpoint."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Systemic cross-cultural approaches such as recognition of racism, power imbalances, and self-reflexivity are scarcely acknowledged by health care professionals.",
+        "spans": [
+          "The principles of systemic cross-cultural approaches (e.g., cultural competence, cultural safety) such as a recognition of racism, power imbalances, entrenched majority culture biases and the need for self-reflexivity (awareness of one’s own prejudices) were scarcely acknowledged by study participants."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Interpreter services and bilingual staff are commonly recognized as important resources for effective cross-cultural care.",
+        "spans": [
+          "The availability of interpreters was the most common example of effective cross-cultural care as denoted by participants.",
+          "A lack of interpreter services has been identified as a common obstacle for cross-cultural service delivery in prior studies [27, 29, 30, 34 ].",
+          "Over 90% of participants indicated that they work alongside bi-lingual staff."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Formal cross-cultural education and training, often focused on cultural norms and customs, is seen as a key factor to improve cross-cultural health care.",
+        "spans": [
+          "Many (n  = 31) participants believed that formal cross-cultural education and training would indeed improve their organization’s capacity to provide cross-cultural health care.",
+          "The cross-cultural training undertaken, was largely described as learning about the norms and customs of other cultural groups (either online or through presentations) which is reminiscent of the cultural awareness model."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Challenges include difficulty engaging with patients from different cultural backgrounds and the possibility that health care providers' own cultural background may make some patients uncomfortable.",
+        "spans": [
+          "Over 40% (n  = 23) of participants believed that their cultural background often makes patients from other cultural backgrounds uncomfortable.",
+          "Additionally, almost 60% acknowledged that their own culture may make some patients uncomfortable.",
+          "Over 80% of participants sharing that they often or sometimes found it more difficult to engage with or treat patients from cultures different to their own."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "There is a possible over-confidence or unawareness among health care professionals regarding their ability to address cultural needs effectively.",
+        "spans": [
+          "The sample’s apparent confidence in their own abilities to work effectively cross-culturally despite obvious challenges may reflect workplaces committed to cultural competence initiatives and diversity.",
+          "There is also a possible incongruity between the assumption that one is commonly addressing cultural needs and the frequent experiencing of challenges when working with minority patients, which may signal an over-confidence and/or unawareness."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Staff diversity is seen as beneficial but opinions differ on its importance in hiring practices.",
+        "spans": [
+          "Some participants expressed that organizations should aim for cultural diversity when recruiting staff.",
+          "A tension between affirmative action and colour-blind approaches was evident among some of the responders.",
+          "Three participants believed that their organization would be more culturally competent if there was greater cultural diversity among staff members.",
+          "In contrast, two participants stated that cultural background was not the main priority when hiring new staff members."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Cross-cultural education often lacks focus on systemic issues such as institutional inequality, racism, and privilege.",
+        "spans": [
+          "Only two participants described the need for training to encompass themes of systemic bias and privilege which reflect the cultural safety approach.",
+          "No participants referred to any bureaucratic procedures that constrained their ability to work effectively cross-culturally."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Some health care professionals believe their organizations are already culturally competent and do not see the need for further improvements.",
+        "spans": [
+          "Somewhat surprisingly, several participants disclosed that their organizations were already culturally competent and as such, did not offer any recommendations to improve cross-cultural care."
+        ]
+      }
+    ],
+    "clueweb22-en0027-05-10953": [
+      {
+        "point_number": 1,
+        "point_content": "The text does not provide specific challenges medical facilities face when trying to become more culturally competent.",
+        "spans": [
+          "What challenges do medical facilities face when trying to become more culturally competent?"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The text does not specify kinds of assumptions providers sometimes make about people from other cultures.",
+        "spans": [
+          "What kinds of assumptions do providers sometimes make about people from other cultures?"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The text does not detail factors that may cause providers to relate to patients in a biased manner.",
+        "spans": [
+          "What factors may cause providers to relate to patients in a biased manner?"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The text does not specify what healthcare organizations can do to ensure cultural competence among their employees.",
+        "spans": [
+          "What can healthcare organizations do to ensure cultural competence among their employees?"
+        ]
+      }
+    ]
+  }
+}

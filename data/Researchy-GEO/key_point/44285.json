@@ -1,0 +1,150 @@
+{
+  "question": "will global warming cause more rain?",
+  "key_points": {
+    "clueweb22-en0003-07-05941": [
+      {
+        "point_number": 1,
+        "point_content": "Global warming will increase rainfall in some of the world's driest areas over land.",
+        "spans": [
+          "Global warming will increase rainfall in some of the world's driest areas over land"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Not only does the wet get wetter over land, but the driest areas get wetter too.",
+        "spans": [
+          "Not only does the wet get wetter over land, but the driest areas get wetter too"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Global warming will bring an overall increase in rainfall and in extreme precipitation events in Earth's dry regions.",
+        "spans": [
+          "global warming will bring an overall increase in rainfall and in extreme precipitation events"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "There may be more extreme flooding events in dry areas due to increased rainfall from global warming.",
+        "spans": [
+          "there may be more extreme flooding events"
+        ]
+      }
+    ],
+    "clueweb22-en0021-78-20178": [
+      {
+        "point_number": 1,
+        "point_content": "Global warming is increasing rainfall rates and precipitation intensity.",
+        "spans": [
+          "Global warming is increasing rainfall rates",
+          "more intense rainfalls and snow events, which lead to increased risk of flooding",
+          "Observations reveal more intense rainfalls and flooding in some areas"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Warmer air holds more water vapor, leading to moister air and potentially more intense precipitation events.",
+        "spans": [
+          "It’s a well-known scientific principle that warmer air holds more water vapor.",
+          "the amount of moisture that can be held in air grows very rapidly as temperatures increase",
+          "it’s expected that in general, air will get moister as the Earth warms – provided there is a moisture source"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Some regions will experience both more drought and more flooding due to faster evaporation and intense downpours.",
+        "spans": [
+          "warmer air can also more quickly evaporate water from surfaces",
+          "some regions will experience both more drought and more flooding in the future",
+          "The dry spells are longer and with faster evaporation causing dryness in soils. But, when the rains fall, they come in heavy downpours potentially leading to more floods"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Precipitation rates increase between 5 and 10% for every degree Celsius increase in temperature, with some tropical regions experiencing more than 10%.",
+        "spans": [
+          "precipitation rates are increasing between 5 and 10% for every degree C increase",
+          "in the tropics, there’s more than a 10% increase in precipitation for a degree Celsius increase in temperature"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "There is an increase of precipitation with temperature up until a peak temperature, after which more warming coincides with decreased precipitation.",
+        "spans": [
+          "there appears to be an increase of precipitation with temperature up until a peak and thereafter, more warming coincides with decreased precipitation"
+        ]
+      }
+    ],
+    "clueweb22-en0041-06-19407": [
+      {
+        "point_number": 1,
+        "point_content": "Human-caused global warming is causing heavier rainfall by supercharging the water cycle’s evaporation process and altering rainfall patterns.",
+        "spans": [
+          "Scientists believe human-caused global warming is to blame. That’s because climate change is supercharging the water cycle’s evaporation process and messing with rainfall patterns."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "As air warms, it can hold more water vapor, leading to more water available for heavier rain and snow.",
+        "spans": [
+          "As air warms, it can “hold” more water vapor than air at cooler temperatures.",
+          "As temperatures rise, more water evaporates from soils, plants, oceans and waterways — this becomes vapor. Additional water vapor means there’s more water available for heavier rain and snow."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "For every 1°C of warming, atmospheric water vapor content can increase about seven percent globally, increasing precipitation potential.",
+        "spans": [
+          "The Clausius-Clapeyron equation, which calculates how temperature affects the behavior of water vapor molecules, dictates that for every 1°C (1.8°F) of warming, precipitable water — or the atmospheric water vapor content — can increase about seven percent on a global scale, says the IPCC, but this number can vary regionally depending on relative humidity."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Precipitation is projected to increase in certain regions, with some US cities experiencing more intense and frequent extreme precipitation events.",
+        "spans": [
+          "Based on the latest IPCC projections, precipitation may increase over high latitudes, the equatorial Pacific and various monsoon regions like the West African Monsoon’s central Sahel.",
+          "One study even predicts a number of major US cities — including Salt Lake City, Utah; Nashville, Tennessee; and New York, New York — could experience extreme precipitation events that are up to 20 percent more intense and twice as frequent in future years."
+        ]
+      }
+    ],
+    "clueweb22-en0030-43-15174": [
+      {
+        "point_number": 1,
+        "point_content": "A warmer atmosphere can hold more moisture, and globally water vapour increases by 7% for every degree centigrade of warming.",
+        "spans": [
+          "A warmer atmosphere can hold more moisture, and globally water vapour increases by 7% for every degree centigrade of warming."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The total volume of precipitation is likely to increase by 1-2% per degree of warming.",
+        "spans": [
+          "the total volume of precipitation is likely to increase by 1-2% per degree of warming."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Regions that are already wet are likely to get wetter.",
+        "spans": [
+          "There's evidence to show that regions that are already wet are likely to get wetter"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The dry regions of the subtropics are likely to get drier and will shift towards the poles.",
+        "spans": [
+          "The dry regions of the subtropics are likely to get drier and will shift towards the poles."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "In a warmer climate heavy rainfall will increase and be produced by fewer more intense events, leading to longer dry spells and a higher risk of floods.",
+        "spans": [
+          "It is likely that in a warmer climate heavy rainfall will increase and be produced by fewer more intense events. This could lead to longer dry spells and a higher risk of floods."
+        ]
+      }
+    ],
+    "clueweb22-en0019-16-11974": [],
+    "null": []
+  }
+}

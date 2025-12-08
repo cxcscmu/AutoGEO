@@ -1,0 +1,627 @@
+{
+  "question": "should euthanization be legal",
+  "key_points": {
+    "clueweb22-en0042-96-01736": [
+      {
+        "point_number": 1,
+        "point_content": "Euthanasia is the act of a doctor or other third party who ends a patient’s life in response to severe, permanent, and untreatable pain and suffering.",
+        "spans": [
+          "Euthanasia is the act of a doctor or other third party who ends a patient’s life. They do this in response to severe, permanent, and untreatable pain and suffering."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Voluntary Euthanasia is legal only in a few countries; Physician-assisted suicide is legal in some US states under strict conditions.",
+        "spans": [
+          "Voluntary Euthanasia in most parts of the world is not legal. The Netherlands, Belgium, Luxembourg, and Colombia are the only countries to approve it.",
+          "Physician-assisted suicide is currently legal in many states in the United States. These include Oregon, Vermont, California, Washington D.C., Hawaii, Maine, New Jersey, etc."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The debate is about whether it should be legal for someone else to be involved in ending a person’s life, not about ending one's own life.",
+        "spans": [
+          "The discussion is NOT over whether a person should be allowed to end his or her own life.",
+          "The argument is whether it should be legal for someone else to be interested in ending a person’s life."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Pros of legalizing euthanasia include ending suffering, death with dignity, and eliminating fear of financial burden.",
+        "spans": [
+          "The End of Suffering",
+          "Death with Dignity",
+          "Eliminating fear of the financial burden"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Cons of legalizing euthanasia include potential corruption, slippery slope to murder, and religious concerns.",
+        "spans": [
+          "Corruption",
+          "The Slippery slope",
+          "Religious Concern"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "The medical profession’s goal should be to save lives but also respect the right of the person to choose to end their life and die with dignity.",
+        "spans": [
+          "The medical profession’s goal should be to save lives. But this should not be at the cost of compassion and the right of the person to choose to end their life and die with dignity."
+        ]
+      }
+    ],
+    "clueweb22-en0007-28-01549": [
+      {
+        "point_number": 1,
+        "point_content": "Euthanasia is the intentional practice of ending life so as to relieve pain and suffering of a person.",
+        "spans": [
+          "Euthanasia also called mercy killing is the intentional practice of ending life so as to relieve pain and suffering of a person (Encyclopedia Britannica)."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Active euthanasia is criminal while passive euthanasia is non criminal.",
+        "spans": [
+          "Active euthanasia is criminal while passive euthanasia is non criminal."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Euthanasia can only be voluntary that is with the consent of the patient.",
+        "spans": [
+          "Euthanasia can only be voluntary that is with the consent of the patient."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The legality of euthanasia has been a subject of controversy since time immemorial with different countries having different stances.",
+        "spans": [
+          "The legality of euthanasia has also been a subject of controversy since time immemorial.",
+          "This is still evident by the look of diverse ways in which euthanasia is considered in different countries around the world; some embrace it, some do it partially while others refrain completely."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The Netherlands became the first to allow euthanasia by enabling their Supreme Court to allow voluntary euthanasia in 1984.",
+        "spans": [
+          "Later on after still numerous debates in many countries, the Netherlands became the first to allow euthanasia by enabling their Supreme Court to allow voluntary euthanasia in 1984."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "The U.S. state of Oregon passed the Death with Dignity Act to allow physician assisted suicide.",
+        "spans": [
+          "The following year was characterized by voters in the state of Oregon passing measure sixteen. This was the Death with Dignity Act that was meant to allow physician assisted suicide."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "The U.S. Supreme Court in 1997 allowed all states to pass legislation that criminalized euthanasia.",
+        "spans": [
+          "As matters proved more difficult with numerous debates and lobbying, the U. S. Supreme Court would in 1997 allows all states to pass legislation that criminalized euthanasia."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "The Netherlands officially legalized euthanasia in 2001.",
+        "spans": [
+          "The Netherlands officially legalized euthanasia in 2001"
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "There is a growing level of acceptance of euthanasia among the general public in Western European countries.",
+        "spans": [
+          "According to a survey done in respect to acceptance of euthanasia by the general public the results show a growing level of acceptance (Top News, 2011).",
+          "Overall in a number of western countries, there has been a notable increase in euthanasia acceptance as the study showed and it further proved that pressure is still building up for euthanasia to be legalized all over (Oxford, web)."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Reducing unbearable pain in a patient is a foremost reason for legalizing euthanasia.",
+        "spans": [
+          "Foremost is the aspect of reducing the unbearable pain in a patient."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Self-determination or right to make a choice about life is another reason which allows euthanasia to take place.",
+        "spans": [
+          "Self-determination or right to make a choice about life is another reason which allows euthanasia to take place."
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "Euthanasia is a sensitive political issue with varied opinions influenced by religion, culture, and political affiliations.",
+        "spans": [
+          "Euthanasia in political arena has created both agreements and rivalries.",
+          "Their opinions also differ according to religion (ThirdWay: Nov 2008, Pg 42), culture and political affiliations."
+        ]
+      },
+      {
+        "point_number": 13,
+        "point_content": "The best way to decide on the legality of euthanasia is through free and fair voting with all voices heard.",
+        "spans": [
+          "In conclusion, it may be necessary for all voices to be heard before a hasty decision is made on whether to legalize euthanasia or not.",
+          "Since each individual has a right of expression I think the best way to answer the question of whether euthanasia should be legal be subjected to free and fair voting and the outcome be upheld."
+        ]
+      }
+    ],
+    "clueweb22-en0010-62-07961": [
+      {
+        "point_number": 1,
+        "point_content": "People have the right to die as a fundamental human right, separate from the right to live.",
+        "spans": [
+          "Right to Die",
+          "every man has the fundamental right to die"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "People have the explicit right to choose how they live and die, including choosing euthanasia to die with dignity.",
+        "spans": [
+          "Right to Choose",
+          "the right to choose how you die"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Euthanasia is not immoral because it respects the patient's choice and relieves suffering, unlike murder which infringes on the right to life.",
+        "spans": [
+          "Euthanasia is Moral",
+          "no person has the right to demand of another person to live a life of suffering"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Euthanasia protects self-hood and human dignity by allowing individuals to avoid prolonged suffering and loss of self-determination.",
+        "spans": [
+          "Euthanasia Preserves Dignity",
+          "Euthanasia can provide them with the opportunity to finish their life keeping their human dignity intact"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Euthanasia does not harm others as it is a private decision and does not infringe on anyone else's fundamental rights.",
+        "spans": [
+          "Euthanasia should be considered a fundamental human right",
+          "The process of euthanasia does not restrict or infringe on anyone’s fundamental rights and therefore does no harm"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Euthanasia can be properly regulated to prevent abuse, as demonstrated by countries like the Netherlands.",
+        "spans": [
+          "euthansasia is regulated and can be regulated",
+          "it is possible to properly and effectively regulate euthanasia as various first world countries have done"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Everyone has a right to a good death and should not be denied a dignified death if they choose euthanasia.",
+        "spans": [
+          "Everyone has a right to a good death, therefore a good death must not be denied to those who want one",
+          "Do we have the right to compare their experiences day by day, having experienced none of them, and say that they don’t deserve to die with dignity"
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Euthanasia does not significantly shorten life spans and is used mainly to end suffering in terminally ill patients.",
+        "spans": [
+          "Euthansasia Doesn’t Shorten Life Span",
+          "86% of Euthanasia cases only shortened the life of the patient by a maximum of 1 week"
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Legalization of euthanasia has reduced the incidence of euthanasia without patient consent, thus saving lives by providing a regulated framework.",
+        "spans": [
+          "Euthansasia Saves Lives",
+          "legalization of euthanasia actually had the reverse of the expected effect and cut the unacceptable practice of no consent euthanasia in half"
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "The Hippocratic oath can be interpreted to support euthanasia as it emphasizes the wellbeing of the patient, which may include relieving suffering through death.",
+        "spans": [
+          "Euthansasia consistent with Hippocratic Oath",
+          "If it is given me to save a life, all thanks. But it may also be within my power to take a life"
+        ]
+      }
+    ],
+    "clueweb22-en0010-99-04980": [
+      {
+        "point_number": 1,
+        "point_content": "Euthanasia gives you that choice in fact it hands it to you on a silver platter next to the caviar. The choice is what relieves you.",
+        "spans": [
+          "Euthanasia gives you that choice in fact it hands it to you on a silver platter next to the caviar."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Euthanasia should be legal because it gives you a choice so that you are not scared and it saves your family and friends from grieving as much plus it gives organs to people who can have a full life with no handicap keeping them from what they love.",
+        "spans": [
+          "Euthanasia should be legal be cause it gives you a choice so that you are not scared and it saves your family and friends from grieving as much plus it gives organs to people who can have Aaron full life with no handicap keeping them from what they love."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "If my mother or grandmother were to be diagnosed with a terminal disease, I would respect their choice to die with dignity and support them.",
+        "spans": [
+          "If my mother or grandmother were to be diagnosed with a terminal disease,God forbid, I would respect their choice because I know that dying is a very scary thing especially if you fell like you have more to offer to the world but if they chose to die with dignity I would support them because they are highly respected women and if they want to be remembered as such I will stand behind them."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "More than 28,000 people were saved last year because of organ donations and that number could be a lot more if euthanasia was legalized.",
+        "spans": [
+          "More than 28,000 people were saved last year because of organ donations and that mp number could be a lot more if euthanasia was legalized."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "People suffering in a life they do not want to live should be given the choice to escape their pain through euthanasia.",
+        "spans": [
+          "People are suffering in what they believe to be a life they do not want to live but are forced to. I think they should be given the choice to escape their pain."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "If a person wants to die, they should be allowed to die, especially if terminally ill or in constant pain.",
+        "spans": [
+          "If a person wants to die, they should be allowed to die.",
+          "If you have a mother/father that has in constant pain and much be on drugs to reduce that pain, do you let them suffer for the next 20 years? Or do they have the own choice to end their life?"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "It is the right of a terminally ill, mentally sound individual to choose a quicker, less painful death.",
+        "spans": [
+          "It is the right of a terminally ill, mentally sound individual to choose a quicker, less painful death."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "In cases where the patient is terminally ill and suffering greatly, with explicit consent, euthanasia is humane to ease suffering.",
+        "spans": [
+          "In cases where the patient is terminally ill and is suffering greatly, than the humane thing to do is to ease his suffering. Obviously, the doctors in charge would need the explicit consent of the patient to perform such thing."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "The cost of keeping someone alive can be very high, forcing families into debt, while euthanasia is much cheaper.",
+        "spans": [
+          "The cost of keeping someone alive for a couple more months can be upwards of $40,000.",
+          "The cost of prescription to end a life is around $45."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "People have the right over their own body and should be allowed to choose euthanasia to end suffering.",
+        "spans": [
+          "People have the right over their own body.",
+          "someone telling them NO, you must continue to deal with this and be maintained by the hospital well beyond your natural limits is a form of torture."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Euthanasia allows people to avoid unbearable pain and is the only humane thing to do in such cases.",
+        "spans": [
+          "Why should we force people through this if we have the capability to end this pain for them? It is the only humane thing to do."
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "Euthanasia allows one to die with dignity, increases organ donations, and saves family members from suffering and financial burden.",
+        "spans": [
+          "Because it allows one to die with dignity, increases the number of vital organs used for transplantation, and saves family members a plethora of suffering and money, euthanasia should be allowed as a means of ending ones life."
+        ]
+      },
+      {
+        "point_number": 13,
+        "point_content": "The patient needs to consent to euthanasia for it to be considered moral and ethical.",
+        "spans": [
+          "The main factor I want to touch on is the fact that the patient needs to consent to the euthanasia, for it to be considered moral."
+        ]
+      }
+    ],
+    "clueweb22-en0042-10-08799": [
+      {
+        "point_number": 1,
+        "point_content": "The court has denied her request that her husband be allowed to help her. This decision may be consistent with legal precedent but is morally wrong. That is why the law should be changed.",
+        "spans": [
+          "The court has denied her request that her husband be allowed to help her. This decision may be consistent with legal precedent but is morally wrong. That is why the law should be changed."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "If death is in a patient's best interest then death constitutes a moral good.",
+        "spans": [
+          "If death is in a patient's best interest then death constitutes a moral good"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The moral and legal status of not saving a life through failing to treat can be the same as actively taking that life.",
+        "spans": [
+          "Against the background of the duty to care, the moral and legal status of not saving a life through failing to treat can be the same as actively taking that life."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "It is sometimes acceptable for doctors to stop life sustaining treatments when there are grounds for assuming that this is in the best interests of severely incompetent patients.",
+        "spans": [
+          "So it is sometimes acceptable for doctors to stop life sustaining treatments when there are grounds for assuming that this is in the best interests of severely incompetent patients."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Parliament and the courts should take the next step of recognising that this same equivalence should hold when there is clinical agreement that it is in the best interests of some severely incompetent patients to end their life.",
+        "spans": [
+          "Thus parliament and the courts should take the next step of recognising that this same equivalence should hold when there is clinical agreement that it is in the best interests of some severely incompetent patients to end their life."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "For opponents of euthanasia such judgments of benefit and burden must not be linked to any claim that the patient's life is no longer worth living.",
+        "spans": [
+          "However, for opponents of euthanasia such judgments of benefit and burden must not be linked to any claim that the patient's life is no longer worth living."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "When the continuation of life sustaining treatment is described as being of no benefit or of too much burden, the clinician must already have decided that the life of the incompetent patient in question is not worth living and therefore not worth prolonging.",
+        "spans": [
+          "Therefore, when the continuation of life sustaining treatment is described as being of no benefit or of too much burden, the clinician must already have decided that the life of the incompetent patient in question is not worth living and therefore not worth prolonging."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "If death is in the best interests of some patients—if the withdrawal of life sustaining treatment can be said to be of benefit in this case—then death constitutes a moral good for these patients.",
+        "spans": [
+          "On the other hand, if death is in the best interests of some patients—if the withdrawal of life sustaining treatment can be said to be of benefit in this case—then death constitutes a moral good for these patients."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Provided the circumstances are clinically warranted, doctors should be able to withdraw life sustaining treatment when they intend to accelerate death as well as to relieve suffering.",
+        "spans": [
+          "Provided the circumstances are clinically warranted, doctors should be able to withdraw life sustaining treatment when they intend to accelerate death as well as to relieve suffering."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "If passively ending the life of severely incompetent patients is legally and professionally acceptable then involuntary active euthanasia should have the same status.",
+        "spans": [
+          "If passively ending the life of severely incompetent patients is legally and professionally acceptable then involuntary active euthanasia should have the same status."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Should she not be able to invite them actively to end her life and to advise them about how this should be done?",
+        "spans": [
+          "Therefore, should she not be able to invite them actively to end her life and to advise them about how this should be done?"
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "Mrs Pretty can refuse life sustaining treatment at any time, and her doctors are legally obliged to respect her choice.",
+        "spans": [
+          "This decision becomes all the more morally questionable when we realise that Mrs Pretty can refuse life sustaining treatment at any time, and her doctors are legally obliged to respect her choice."
+        ]
+      },
+      {
+        "point_number": 13,
+        "point_content": "This support should be regarded as a moral good instigated in her interests and at her request. It should be legally condoned—either by the interpretation of existing law by a more courageous judiciary or by new legislation.",
+        "spans": [
+          "Some doctors would probably be only too glad to help Mrs Pretty to end her life. This support should be regarded as a moral good instigated in her interests and at her request. It should be legally condoned—either by the interpretation of existing law by a more courageous judiciary or by new legislation."
+        ]
+      },
+      {
+        "point_number": 14,
+        "point_content": "To provide either of these to appropriate patients who make a competent request represents respect for their autonomy and their desire to die with what they perceive to be dignity.",
+        "spans": [
+          "To provide either of these to appropriate patients who make a competent request represents respect for their autonomy and their desire to die with what they perceive to be dignity."
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0024-32-08791": [
+      {
+        "point_number": 1,
+        "point_content": "Euthanasia or physician-assisted suicide, also know as mercy killing, is becoming a prominent public debate.",
+        "spans": [
+          "Euthanasia or physician- assisted suicide, also know as mercy killing, is becoming a prominent public debate."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Some countries, like Belgium, The Netherlands, and some states in the USA, have passed laws allowing voluntary euthanasia.",
+        "spans": [
+          "Some countries, like for instance Belgium, The Netherlands, and some states in the USA, including New Mexico, Montana, Oregon and Vermont, have passed laws allowing voluntary euthanasia."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The legality of choosing the moment of death is an extremely controversial subject because it appeals to personal views on ethics and morality and is highly emotional and linked to religious beliefs.",
+        "spans": [
+          "But the legality of choosing the moment of death is an extremely controversial subject because it appeals to personal views on ethics and morality and is highly emotional and linked to religious beliefs."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Most countries still consider euthanasia a crime.",
+        "spans": [
+          "Most countries still consider euthanasia a crime."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Some people consider allowing euthanasia to risk opening a slippery slope where killing may become more common, and risk the killing of people misinformed or against their will.",
+        "spans": [
+          "Some people consider allowing euthanasia to risk opening a slippery slope where killing may become more common, and risk the killing of people misinformed or against their will."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Supporters of euthanasia claim it is an individual right to decide when to die, to keep control of their fate when it is still possible.",
+        "spans": [
+          "Supporters of euthanasia claim it is an individual right to decide when to die, to keep control of their fate when it is still possible."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Voluntary euthanasia: to intentionally end the life of someone who asked for it to relieve physical pain and psychological suffering.",
+        "spans": [
+          "Voluntary euthanasia: to intentionally end the life of someone who asked for it to relieve physical pain and psychological suffering."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Involuntary euthanasia is against the patient’s will and is illegal, considered as murder, in most countries.",
+        "spans": [
+          "Involuntary euthanasia is against the patient’s will and is illegal, considered as murder, in most countries."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Passive euthanasia: when the family or medical staff withhold life support from the patient.",
+        "spans": [
+          "Passive euthanasia: when the family or medical staff withhold life support (e.g. medication, respiratory machine, feeding or liquids) from the patient."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Active euthanasia: when the patient is administered a lethal dose of any chemical substance to end her/life.",
+        "spans": [
+          "Active euthanasia: when the patient is administered (e.g. injected) a lethal dose of any chemical substance to end her/life."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Pros of euthanasia include dying with dignity, end to human suffering, legal certainty, healthcare spending, and autonomy and self-determination.",
+        "spans": [
+          "Dying with dignity: some people are deeply sick, postrated and unable to do even the most basic human actions, such as eating, changing clothes, washing themselves or using the toilets.",
+          "End to human suffering: people with terminal illness and no chance of recovery often suffer great physical pain and emotional distress.",
+          "Legal certainty: according to research conducted in the Netherlands, regulating euthanasia has improved legal certainty and has contributed to the carefulness of assisted suicide.",
+          "Healthcare spending: keeping alive terminal patients who are suffering and not able to recover is also very expensive and detracts medical resources from other patients who could heal or need treatments.",
+          "Autonomy and self-determination: opposing to someone's will of ending her/his life goes against that person freedom and right of deciding on their future."
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "Cons of euthanasia include moral and ethical problems, misunderstandings and errors, legalizing murder, abuse, and complexity.",
+        "spans": [
+          "Moral and ethical problems: physician assisted death clashes with religious beliefs.",
+          "Misunderstandings and errors: there are cases in which doctors have wrongfully diagnosed a terminal disease or have thought that a patient is without hope of recovery.",
+          "Legalizing murder: regulating euthanasia for some extreme cases may mean crossing a line.",
+          "Abuse: if euthanasia is legal, there may be an incentive to exaggerate the negative condition of patients so that the family decides to \"disconnect\" them so that the hospital or insurance company saves money.",
+          "Complexity: even if countries decide to legalize euthanasia, there may be great difficulties in agreeing with the cases and situations in which these mercy killings are acceptable and with the legal procedures that should be respected."
+        ]
+      }
+    ],
+    "clueweb22-en0008-25-05854": [
+      {
+        "point_number": 1,
+        "point_content": "Physician-assisted suicide is defined as suicide by a patient facilitated by means or information provided by a physician aware of the patient’s intent.",
+        "spans": [
+          "“[S]uicide by a patient facilitated by means (such as a drug prescription) or by information (such as an indication of a lethal dosage) provided by a physician aware of the patient’s intent.”"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Euthanasia refers to the act or practice of killing or permitting the death of hopelessly sick or injured individuals in a relatively painless way for reasons of mercy.",
+        "spans": [
+          "“[T]he act or practice of killing or permitting the death of hopelessly sick or injured individuals (such as persons or domestic animals) in a relatively painless way for reasons of mercy…"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Proponents argue that physician-assisted suicide provides a sense of control over one’s destiny and can relieve anticipatory suffering such as depression and anxiety related to fear of death.",
+        "spans": [
+          "“My strong advocacy comes from knowing what a powerful medicine a sense of control over one’s destiny imparts. In today’s world of palliative medicine, physical suffering at the end of life can very often be avoided. But there is another type of suffering, which in my viewpoint, is even worse. It is called anticipatory suffering, and it includes the depression and anxiety that accompanies fear of death and fear of what is believed to be the inevitable suffering that comes with end of life.”"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Proponents believe that people with terminal illness and unbearable pain should have the right to choose to end their lives and those who help them should be free from prosecution.",
+        "spans": [
+          "“I think those who have a terminal illness and are in great pain should have the right to choose to end their lives and those that help them should be free from prosecution.”"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Opponents argue that physician-assisted suicide damages the medical profession and compromises the trust between physician and patient, which should be based on healing, not killing.",
+        "spans": [
+          "“Physician-assisted suicide does damage to patients who are in very difficult situations. It does damage to the medical profession. It compromises the sacred trust between physician and patient, which should be based on healing, not based on killing.”"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Opponents claim that legalizing assisted suicide places pressure on vulnerable groups to end their lives and undermines efforts to provide real compassion and address patients’ pain and problems.",
+        "spans": [
+          "“[C]ampaigning to end certain people’s lives doesn’t end suffering – it passes on the suffering to other similar people, who now have to fear they are the next people in line to be seen as having worthless lives. And people who have died from a drug overdose have no freedom of choice at all. Moreover, societies that authorize suicide as a ‘choice’ for some people soon end up placing pressure on them to ‘do the right thing’ and kill themselves… Seeing suicide as a solution for some illnesses can only undermine the willingness of doctors and society to learn how to show real compassion and address patients’ pain and other problems.”"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "The American Medical Association states that physician-assisted suicide is fundamentally incompatible with the physician’s role as healer and would pose serious societal risks.",
+        "spans": [
+          "“Physician-assisted suicide is fundamentally incompatible with the physician’s role as healer, would be difficult or impossible to control, and would pose serious societal risks… [P]ermitting physicians to engage in euthanasia would ultimately cause more harm than good. Euthanasia is fundamentally incompatible with the physician’s role as healer, would be difficult or impossible to control, and would pose serious societal risks.”"
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Proponents argue that the right to die with dignity is a fundamental human freedom and that patients should have options to control their own end-of-life care.",
+        "spans": [
+          "“The greatest human freedom is to live, and die, according to one’s own desires and beliefs. The most common desire among those with a terminal illness is to die with some measure of dignity. From advance directives to physician-assisted dying, death with dignity is a movement to provide options for the dying to control their own end-of-life care.”"
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Opponents argue that every life has inherent dignity and it is unethical to deliberately end the life of a suffering person or assist them to end their life.",
+        "spans": [
+          "“Every life holds promise, even if disadvantaged by developmental disability, injury, disease, or advanced aging. FRC believes that every human life has inherent dignity, and that it is unethical to deliberately end the life of a suffering person (euthanasia), or assist or enable another person to end their life (assisted suicide)… True compassion means finding ways to ease suffering and provide care for each person, while maintaining the individual’s life and dignity.”"
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Some argue that legalizing euthanasia would have detrimental effects, including weakening safeguards and allowing killing of people who do not genuinely volunteer to be killed.",
+        "spans": [
+          "“Legalising euthanasia would have a wide range of profoundly detrimental effects. It would diminish the protection offered to the lives of all. It would allow the killing of people who do not genuinely volunteer to be killed, and any safeguards, although initially observed, would inevitably weaken over time.”"
+        ]
+      }
+    ],
+    "clueweb22-en0042-31-16353": [
+      {
+        "point_number": 1,
+        "point_content": "Proponents argue that terminally ill people should have the right to end their suffering with a quick, dignified, and compassionate death.",
+        "spans": [
+          "Proponents of euthanasia and physician-assisted suicide (PAS) contend that terminally ill people should have the right to end their suffering with a quick, dignified, and compassionate death."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Proponents claim the right to die is protected by constitutional safeguards similar to other personal rights.",
+        "spans": [
+          "They argue that the right to die is protected by the same constitutional safeguards that guarantee such rights as marriage, procreation, and the refusal or termination of life-saving medical treatment."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Opponents argue doctors have a moral responsibility to keep patients alive as reflected by the Hippocratic Oath.",
+        "spans": [
+          "Opponents of euthanasia and physician-assisted suicide contend that doctors have a moral responsibility to keep their patients alive as reflected by the Hippocratic Oath."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Opponents warn of a slippery slope from euthanasia to murder and potential targeting of vulnerable groups if euthanasia is legalized.",
+        "spans": [
+          "They argue there may be a slippery slope from euthanasia to murder, and that legalizing euthanasia will unfairly target the poor and disabled and create incentives for insurance companies to terminate lives in order to save money."
+        ]
+      }
+    ]
+  }
+}

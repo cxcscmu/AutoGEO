@@ -1,0 +1,337 @@
+{
+  "question": "why gas prices are so high",
+  "key_points": [
+    {
+      "point_number": 1,
+      "point_content": "OPEC and Russia, accounting for just over half of global oil production, have been gradually restoring production but at a slower pace than desired by the U.S., influencing global oil supply and prices.",
+      "original_point_number": [
+        1,
+        2,
+        3,
+        22,
+        30,
+        31,
+        32,
+        38,
+        56,
+        57,
+        58,
+        86,
+        87,
+        90
+      ]
+    },
+    {
+      "point_number": 2,
+      "point_content": "The coronavirus pandemic caused a collapse in demand for crude oil in 2020, leading to oversupply and price drops below zero, but demand has since rebounded faster than supply, causing prices to rise dramatically.",
+      "original_point_number": [
+        4,
+        10,
+        29,
+        34,
+        37,
+        39,
+        108,
+        110,
+        111,
+        112,
+        113,
+        135,
+        136,
+        137,
+        139
+      ]
+    },
+    {
+      "point_number": 3,
+      "point_content": "The U.S. is the world’s biggest oil producer but cannot quickly increase production due to political, environmental, and practical constraints, including federal government restrictions and policies such as moratoriums on drilling and cancellation of pipelines, which may limit future production and contribute to higher prices.",
+      "original_point_number": [
+        5,
+        15,
+        21,
+        27,
+        39,
+        59,
+        133,
+        138,
+        141
+      ]
+    },
+    {
+      "point_number": 4,
+      "point_content": "Supply disruptions such as Hurricane Ida, a cyberattack on a major fuel pipeline, refinery maintenance, and seasonal changeover to summer gasoline blends have reduced production and refining capacity, contributing to higher gas prices.",
+      "original_point_number": [
+        7,
+        13,
+        18,
+        118,
+        140
+      ]
+    },
+    {
+      "point_number": 5,
+      "point_content": "High demand due to Americans driving more than a year ago, loosening of COVID restrictions globally, and seasonal travel have increased gasoline demand, pushing gas prices up.",
+      "original_point_number": [
+        8,
+        10,
+        34,
+        62,
+        67,
+        89,
+        139
+      ]
+    },
+    {
+      "point_number": 6,
+      "point_content": "Low production by U.S. independent producers, OPEC members limiting oil production, costs of blending ethanol, and lower gasoline inventories are factors propping up gasoline prices.",
+      "original_point_number": [
+        9,
+        63,
+        113
+      ]
+    },
+    {
+      "point_number": 7,
+      "point_content": "Strong discipline among the OPEC+ nations related to their agreement to limit exports has played a major role in tightening the relationship between global supply and demand, contributing to higher prices.",
+      "original_point_number": [
+        11,
+        22,
+        31,
+        32,
+        38,
+        56,
+        57,
+        86,
+        87,
+        90
+      ]
+    },
+    {
+      "point_number": 8,
+      "point_content": "Markets perceive the Biden/Harris administration as inhibiting U.S. oil production, which tightens the global market and influences crude oil prices, though experts say gas price markets are mostly dictated by global market forces, not the president.",
+      "original_point_number": [
+        12,
+        33,
+        59,
+        132,
+        133,
+        138
+      ]
+    },
+    {
+      "point_number": 9,
+      "point_content": "Gasoline prices are composed of four main components: supply and demand for oil in a global market, taxes levied by federal, state and local government, distribution and market costs, and the cost of refining crude oil to turn it into gasoline.",
+      "original_point_number": [
+        16
+      ]
+    },
+    {
+      "point_number": 10,
+      "point_content": "The largest component of the price of gasoline is the price of oil, which made up about 43-52 percent of the price at the pump in early 2021.",
+      "original_point_number": [
+        17,
+        55,
+        71
+      ]
+    },
+    {
+      "point_number": 11,
+      "point_content": "Gasoline prices increase due to higher prices for oil on world markets because of increasing world demand, production quotas by OPEC+ countries, geopolitical events such as attacks on Saudi Arabian oil ports, and geopolitical unrest in the Middle East.",
+      "original_point_number": [
+        19,
+        20,
+        23,
+        69
+      ]
+    },
+    {
+      "point_number": 12,
+      "point_content": "U.S. gasoline prices are also affected by federal and state taxes, which accounted for about 21 percent of the price in January 2021.",
+      "original_point_number": [
+        24
+      ]
+    },
+    {
+      "point_number": 13,
+      "point_content": "Distribution and marketing costs constitute about 15 percent of the cost of gasoline, including retailer costs and profits.",
+      "original_point_number": [
+        25
+      ]
+    },
+    {
+      "point_number": 14,
+      "point_content": "Refining costs make up about 12 percent of the retail price of gasoline and vary seasonally and regionally, with refinery maintenance and seasonal blend changeovers raising costs.",
+      "original_point_number": [
+        26,
+        13,
+        18
+      ]
+    },
+    {
+      "point_number": 15,
+      "point_content": "California has higher gasoline prices almost entirely due to politics around climate change and state policies inhibiting drilling and production, and implementing emissions regulations and mandates for electric vehicles.",
+      "original_point_number": [
+        14
+      ]
+    },
+    {
+      "point_number": 16,
+      "point_content": "The U.S. is not energy independent and current policies will weaken America’s energy security by inhibiting U.S. oil production and increasing reliance on foreign oil imports.",
+      "original_point_number": [
+        15
+      ]
+    },
+    {
+      "point_number": 17,
+      "point_content": "Gas prices are high due to rising wholesale prices and a supply shortage, influenced by factors such as the war in Ukraine, cold winter, reduced gas market capacity, and increased demand as countries recover from the Covid-19 pandemic.",
+      "original_point_number": [
+        44,
+        45,
+        46,
+        47,
+        48,
+        78,
+        80
+      ]
+    },
+    {
+      "point_number": 18,
+      "point_content": "Energy companies have seen the wholesale prices they pay affected by geopolitical events such as the war in Ukraine and continuing pressure on gas supplies, leading to increased energy bills and price volatility.",
+      "original_point_number": [
+        42,
+        43,
+        78,
+        100,
+        101
+      ]
+    },
+    {
+      "point_number": 19,
+      "point_content": "Gas prices in the UK have risen sharply due to a combination of high global gas prices, supply shortages, increased demand, reduced gas market capacity, and issues with the National Grid, leading to concerns about fuel poverty and energy security.",
+      "original_point_number": [
+        79,
+        81,
+        82,
+        84,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        127,
+        128,
+        129,
+        130,
+        131
+      ]
+    },
+    {
+      "point_number": 20,
+      "point_content": "Energy bills have increased due to higher wholesale prices, increased taxes and levies including support for renewable energy, grid-related costs, and an outdated energy market structure that limits consumer benefits from new technologies.",
+      "original_point_number": [
+        41,
+        100,
+        102,
+        103,
+        104,
+        105,
+        106
+      ]
+    },
+    {
+      "point_number": 21,
+      "point_content": "Gas prices in America are averaging over $3.27 per gallon of regular, the highest since 2014, driven by increased demand, constrained supply, and high crude oil prices.",
+      "original_point_number": [
+        53,
+        66,
+        70,
+        85,
+        107,
+        109,
+        115,
+        117,
+        119
+      ]
+    },
+    {
+      "point_number": 22,
+      "point_content": "Crude oil prices depend on supply-demand dynamics and are influenced by market sentiment, refining costs, refiner margins, specific events such as the Colonial Pipeline attack, and commodities traders bidding prices up based on expected future prices.",
+      "original_point_number": [
+        16,
+        73,
+        76,
+        116,
+        140
+      ]
+    },
+    {
+      "point_number": 23,
+      "point_content": "Gasoline prices fluctuate regardless of which president is in office, influenced more by market factors than presidential policies, though some policies may have long-term but not short-term effects on prices.",
+      "original_point_number": [
+        33,
+        38,
+        132,
+        133,
+        138,
+        141
+      ]
+    },
+    {
+      "point_number": 24,
+      "point_content": "OPEC+ cut daily oil output by 10 million barrels a day in April 2020 and has not returned to pre-pandemic production levels despite growing demand, adding only 400,000 barrels per day in November, which is small compared to consumption levels.",
+      "original_point_number": [
+        30,
+        31,
+        114
+      ]
+    },
+    {
+      "point_number": 25,
+      "point_content": "The 2022 Russia-Ukraine conflict and sanctions on Russia caused gas prices to jump to decade highs, with wholesale gas prices up 250 percent since January 2021 in the UK and Europe.",
+      "original_point_number": [
+        78,
+        91,
+        128
+      ]
+    },
+    {
+      "point_number": 26,
+      "point_content": "Natural gas prices have skyrocketed in recent weeks in Europe due to low supplies caused by factors such as reduced Russian exports, competition for LNG shipments, low renewable output, and a prolonged cold winter, leading to energy crunch and fears of winter blackouts.",
+      "original_point_number": [
+        94,
+        99,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        131
+      ]
+    },
+    {
+      "point_number": 27,
+      "point_content": "Gas prices in Canada are high due to a production slowdown in the U.S., maintenance at refineries, increased demand in the U.S., influence from the Chicago wholesale price, and a weakened Canadian dollar increasing the cost of imported gasoline.",
+      "original_point_number": [
+        60,
+        61,
+        62,
+        64
+      ]
+    },
+    {
+      "point_number": 28,
+      "point_content": "Higher energy prices, including gas, are boosting inflation and increasing transportation, logistics, and input costs for many industries.",
+      "original_point_number": [
+        119
+      ]
+    }
+  ]
+}

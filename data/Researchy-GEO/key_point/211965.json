@@ -1,0 +1,545 @@
+{
+  "question": "how litter affects the environment",
+  "key_points": {
+    "clueweb22-en0011-79-17215": [
+      {
+        "point_number": 1,
+        "point_content": "Littering causes pollution by releasing chemicals and microparticles into the environment, contaminating soil, water, and air.",
+        "spans": [
+          "Litter Causes Pollution",
+          "As litter degrades, chemicals and microparticles are released.",
+          "These poisons can make their way into the soil and freshwater sources, impacting both humans and animals.",
+          "In fact, 60% of water pollution is attributed to litter.",
+          "In addition to water and soil pollution, litter can also pollute the air.",
+          "Researchers estimate that more than 40% of the world’s litter is burned in the open air, which can release toxic emissions."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Litter kills wildlife, especially marine animals, through ingestion and entanglement.",
+        "spans": [
+          "Litter Kills Wildlife",
+          "Researchers estimate that over one million animals die each year after ingesting, or becoming entrapped in, improperly discarded trash.",
+          "Plastic litter is the most common killer of animals, and marine animals are the most notably affected.",
+          "Each year over 100,000 dolphins, fish, whales, turtles, and more drown after becoming entangled in or digesting plastic litter."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Litter facilitates the spread of disease by serving as a breeding ground for bacteria and viruses, which can be transmitted directly or indirectly to humans.",
+        "spans": [
+          "Litter Facilitates the Spread of Disease",
+          "Improperly discarded trash is a breeding ground for bacteria and diseases.",
+          "Litter can spread diseases, viruses, and parasites through two methods, direct and indirect contact.",
+          "Germs can be transmitted directly by physically coming into contact with litter.",
+          "Bacteria and parasites can also be transmitted to humans indirectly through an affected vector."
+        ]
+      }
+    ],
+    "clueweb22-en0041-45-10186": [
+      {
+        "point_number": 1,
+        "point_content": "Litter causes a plethora of environmental problems including harm to wildlife and degradation of habitats.",
+        "spans": [
+          "litter causes a plethora of environmental and social problems",
+          "it flows into our waterways and is distributed into streams, rivers, lakes, and oceans",
+          "This harms wildlife and degrades their habitats"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Eighty percent of marine pollution originates from land-based sources and affects marine organisms through plastic ingestion and entanglement.",
+        "spans": [
+          "Eighty percent of marine pollution can be traced back to sources on land",
+          "Marine organisms are affected by a variety of plastics by getting tangled in it as well as ingesting the plastic"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Toxins from litter accumulate in marine life over their lifespan, causing long-term harm.",
+        "spans": [
+          "When marine life is exposed to toxins, death may not be imminent, but the toxins accumulate in the organism over its life span"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Litter leads to environmental degradation and social problems such as unsafe seafood, beach closures, clogged stormwater drains, and neighborhood flooding.",
+        "spans": [
+          "Some fish and seafood are unsafe to eat, beaches are closed to public access and stormwater drains are clogged with trash and debris which leads to broken pipes and neighborhood floods"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Litter creates safety, fire, and human health hazards by attracting harmful organisms like bacteria, rats, roaches, and mosquitoes.",
+        "spans": [
+          "Litter creates safety, fire, and a variety of human health hazards because of the organisms attracted to it (bacteria, rats, roaches, and mosquitoes)"
+        ]
+      }
+    ],
+    "clueweb22-en0039-67-08306": [
+      {
+        "point_number": 1,
+        "point_content": "Waste that is not biodegradable and cannot be properly be recycled is filling our oceans and landfills.",
+        "spans": [
+          "Waste that is not biodegradable and cannot be properly be recycled is filling our oceans and landfills."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Only 9% of the 6.3 billion metric tons of plastic waste produced has been recycled.",
+        "spans": [
+          "A recent study found that of the 6.3 billion metric tons of plastic waste that has been produced, only 9% of that plastic waste had been recycled."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The amount of waste generated affects the environment in multiple ways: its contribution to the worsening climate crisis, its negative impact on wildlife and the natural environment, and its detriment to our very own public health.",
+        "spans": [
+          "All together, the amount of waste generated affects the environment in multiple ways: its contribution to the worsening climate crisis, its negative impact on wildlife and the natural environment, and its detriment to our very own public health."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Trash dumped in landfills releases methane gas, with open landfills representing 91% of all landfill methane emissions.",
+        "spans": [
+          "the trash that is dumped in landfills releases methane gas. Taken one step further open landfills were found to represent 91% of all landfill methane emissions."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Burning large, open piles of trash emits dangerous levels of carbon dioxide, a greenhouse gas heating up our planet.",
+        "spans": [
+          "The burning of large, open piles of trash in various parts of the world emits dangerous levels of carbon dioxide, a greenhouse gas that is heating up our planet."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Approximately 40% of the world’s trash is burned in open piles, posing large-scale risks to the atmosphere and nearby people.",
+        "spans": [
+          "Researchers have calculated that approximately 40% of the world’s trash is burned in this fashion, posing large-scale risks to both our atmosphere and the people that live near these burning sites."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Trash affects marine life and waterways, causing aquatic animals to consume trash which results in death.",
+        "spans": [
+          "Simply put, it affects the people who depend on the ocean for their livelihoods. They cannot distinguish between what is or isn’t food. They consume the trash, which results in death because the aquatic animal could not process it."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Many aquatic species have plastic fragments in them, leading to starvation and death because they cannot digest the plastic.",
+        "spans": [
+          "This affects fish, seals, turtles, whales, and many other aquatic animals, as scientists have also found many plastic fragments in over a thousand species.",
+          "Due to ingestion of trash or plastics, starvation is usually the next step because some species do not have high acidic levels in their stomach to break down the object that they ingested."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Plastic fragments can last 100 years, severely affecting biodiversity and the health of the world’s species.",
+        "spans": [
+          "There are some animals that do but plastic fragments have been known to be able to last 100 years.",
+          "When it comes to biodiversity, our waste problem is severely plaguing the health of the world’s species."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Improper trash disposal and emissions from waste contribute to human health risks including diseases such as asthma, cancer, and cardiovascular disease.",
+        "spans": [
+          "Human health is at risk through our inaction. We keep producing large amounts of trash, we do not dispose of it correctly, and in the end that will be our downfall as it is for the environment and wildlife in the ecosystems we all share.",
+          "The more emissions that we produce due to how much trash we generate, affects us long term. One can develop diseases such as asthma, birth defects, cancer, cardiovascular disease, childhood cancer, COPD, infectious diseases, low birth weight, and preterm delivery."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Trash attracts bacteria, vermin and insects, adding to public health problems.",
+        "spans": [
+          "Bacteria, vermin and insects can also be added to the problem that trash causes."
+        ]
+      }
+    ],
+    "clueweb22-en0001-57-14646": [
+      {
+        "point_number": 1,
+        "point_content": "Littering leads to physical harm to wildlife, especially from plastic waste in rivers and oceans.",
+        "spans": [
+          "Physical harm to wildlife from plastic waste in rivers and oceans",
+          "Plastic litter, particularly lighter weight items such as sweet wrappers, packaging or bags easily get caught on the wind and find their way to storm drains where they are washed into sewers and eventually into the ocean in many cases.",
+          "Plastic is particularly problematic as it doesn’t degrade easily and can last in water for a long time.",
+          "It is estimated that plastic bags take over 20 years to decompose, plastic bottles take up to 450 years to decompose and other sturdier plastics can take over 600 year s.",
+          "The United Nations (UN) has stated as many as 800 species have been affected by marine debris worldwide of which 80% is plastic debris.",
+          "Sea turtles are one species that suffer adverse effects from plastic litter pollution.",
+          "A sea turtle has to ingest as few as 14 pieces of plastic to have a 50% increased risk of death.",
+          "The unaltered stomach contents of a dead albatross chick photographed on Midway Atoll National Wildlife Refuge in the Pacific in September 2009 include plastic marine debris fed the chick by its parents.",
+          "Another group of animals that are particularly vulnerable are seabirds which ingest plastic more frequently than any other group of animal s.",
+          "The ingested pieces of plastic can harm seabirds in a number of ways from physical damage and blocking of the digestive tract meaning they are unable to eat.",
+          "Even larger mammals are not safe from plastic litter in the oceans. Over 8 years a study in Southeast Alaska and British Columbia revealed 388 stellar sea lions were entangled in marine debris.",
+          "22% of cetaceans (whales, dolphins etc.) that swallow plastic are at risk of death."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Litter breaks down into microplastics which have toxic effects on marine and terrestrial life.",
+        "spans": [
+          "Litter can break down into microplastics",
+          "Microplastics in the oceans can be observed by all sorts of marine life.",
+          "80% of sampled invertebrates were known to have ingested microplastics.",
+          "The toxic nature of some of these small particles has been shown to have an impact.",
+          "Microplastics can transport other harmful chemicals and pollutants such as pesticides, solvents and pharmaceuticals.",
+          "Across a variety of studies micropplastics have been blamed for decreased food consumptions, weight loss and decreased growth.",
+          "Microplastics aren’t just a concern in water and impacts are being observed on land too.",
+          "Earthworms were found to make burrows differently when microplastics were present in the soil, affecting their likely survival.",
+          "Microplastics eventually break down into nanoplastics (<0.1 micrometers) which are so small they can get into human and animal bloodstreams, even crossing cell membranes."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Litter acts as a transport mechanism for invasive species across oceans.",
+        "spans": [
+          "Transport of ‘alien’ species",
+          "Floating pieces of litter in the ocean can act as a raft which certain species can attach to.",
+          "A study in 2018 in Sweden on the Baltic Sea showed how litter is used by non-native species as a transport mechanism.",
+          "This impact can be higher in extreme events such as after the Japanese tsunami when lots of litter was washed into oceans."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Litter releases toxic chemicals into soils and water, harming wildlife and ecosystems.",
+        "spans": [
+          "Toxic chemicals into soils and water",
+          "Additives in plastics can leach into soils and cause damage.",
+          "Phthaltes and Bisphenol A have been observed to leach out into soils and are known to affect wildlife by disrupting hormones.",
+          "E-waste items are full of toxic compounds from mercury to arsenic. These chemicals leach into the soil and don’t break down easily.",
+          "Nicotine from cigarette butts wash away in rainwater and end up in rivers and streams. Studies have shown they pose a threat to drinking water quality."
+        ]
+      }
+    ],
+    "clueweb22-en0016-26-09839": [
+      {
+        "point_number": 1,
+        "point_content": "Littering causes pollution, a major threat to the environment.",
+        "spans": [
+          "Littering causes pollution, a major threat to the environment"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Litter adversely affects the environment by polluting waterways, soil or aquatic environments.",
+        "spans": [
+          "Litter adversely affects the environment. Littering along the road, on the streets or by the litter bins, toxic materials or chemicals in litter can be blown or washed into rivers, forests, lakes and oceans, and, eventually can pollute waterways, soil or aquatic environments."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "7 billion tons of debris enter the world’s oceans annually and most of it is long-lasting plastic.",
+        "spans": [
+          "Based on recent data, 7 billion tons of debris enter the world’s oceans annually and most of it is long-lasting plastic."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Litter reduces air quality due to the smell and toxic/chemical vapor emanating from the trash.",
+        "spans": [
+          "Litter also reduces air quality due to the smell and toxic/chemical vapor emanating from the trash."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "A polluted environment can encourage the spread of diseases and contaminate water systems affecting health of animals and humans.",
+        "spans": [
+          "A polluted environment can encourage the spread of diseases. Toxic chemicals and disease-causing microorganisms in the trash may also contaminate water systems and spread water-borne diseases which can negatively affect the health of both animals and humans if unclean or untreated water is consumed."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Cigarette butts take ten years to decompose and contain toxic substances like arsenic which can contaminate soil and water.",
+        "spans": [
+          "Cigarette butts take a grand total of ten years to decompose because of cellulose acetate, contrary to the common perception that cigarette butts decompose very quickly in only a matter of days.",
+          "In reality, cigarette butts are a serious threat to the environment, as they contain toxic substances like arsenic which can contaminate soil and water."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Plastic litter is mistaken for food by wildlife, causing harm and death to animals.",
+        "spans": [
+          "Plastic litter is another threat to the environment and its inhabitants. It has often been mistaken for food by both land and marine wildlife.",
+          "Much of marine wildlife including birds, whales, dolphins and turtles have been found dead with plastic and cigarettes found in their stomachs."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "An estimated 100,000 sea mammals are killed by plastic litter every year.",
+        "spans": [
+          "An estimated 100,000 sea mammals are killed by plastic litter every year."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Littering is expensive for society due to cleanup costs and reduces property and tourism value.",
+        "spans": [
+          "Another negative aspect of littering is that it is too expensive for a country, society and individuals. Cleaning up litter requires a huge amount of money that is financed by taxpayers that could be used in more productive ways.",
+          "Littered places are visually displeasing and they depreciate the aesthetic and real value of the surrounding environments.",
+          "Similarly, it affects tourism as it makes city areas and roadsides look disgusting and tourists tend to avoid staying and even visiting areas that are littered."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Littering can lead to car accidents causing serious injuries or death.",
+        "spans": [
+          "Furthermore, littering can lead to car accidents. Some trash in the road is enough to create a dangerous situation that could result in serious injuries or death."
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0002-44-12565": [
+      {
+        "point_number": 1,
+        "point_content": "Littering causes physical and chemical damage to the environment and wildlife.",
+        "spans": [
+          "Littering has tragic consequences on the environment.",
+          "The damage can be physical (Getting tangled around marine life), or chemical (fertilizers causing algal blooms) but in both cases they can cause lasting damage to the nature and wildlife of an area."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Litter causes damage to marine life, seas and rivers by polluting water and harming animals.",
+        "spans": [
+          "Litter causes damage to marine life, seas and rivers",
+          "Dumping litter on sidewalks or along curbs, often causes it to get washed down in to storm drains during a heavy rain.",
+          "Plastic litter can drift out to sea, and if you have seen Blue planet II, you will know animals like turtles or dolphins may ingest the plastic.",
+          "Animals may mistake the items of litter floating in the water as food and could choke on them or they may get entangled in it.",
+          "The plastic creates horrendous health problems for the animals, which can include depleting their nutrients and blocking their stomachs and intestines.",
+          "Animals cannot break down plastic in their digestive system and will typically die from the obstruction.",
+          "Parts of plastic can also get tangled around animals’ bodies or heads and cause injury or death."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Litter in water creates a toxic environment affecting animals and plants, and can also affect humans who consume these animals.",
+        "spans": [
+          "Litter in water supply from consumer and commercial use creates a toxic environment.",
+          "The water is ingested by deer, fish and a variety of other animals.",
+          "The toxins may cause blood clotting, seizures or serious medical issues that can kill animals.",
+          "The toxic water may also kill off surrounding plant life on riverbanks and the bottom of a pond’s ecosystem.",
+          "When humans eat animals that have ingested compromised water supplies, they also can become sick."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Litter creates visual pollution and can spread germs and diseases.",
+        "spans": [
+          "Litter Creates Visual Pollution",
+          "The presence of litter makes a place unclean and very unpleasant to the eyes, damaging the aesthetics of a place.",
+          "Not only does litter look dirty, it may carry germs.",
+          "Some animals are attracted to areas with lots of litter.",
+          "They find their food among the trash and can pick up the germs and become carriers for diseases that may make people sick."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Littering causes the death of millions of animals through entanglement, injury, and ingestion of toxic substances.",
+        "spans": [
+          "Littering Is Accountable For The Death Of Millions Of Animals",
+          "Countless animals die every year thanks to littering.",
+          "Animals can get entangled in littered objects and die a slow and painful death.",
+          "Items like broken glass, pins, and other sharp objects present in the litter can injure animals who tread on them unknowingly.",
+          "Some substances present in the litter can be ingested by animals and produce toxic effects inside their bodies, irreversibly harming them."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Littering causes soil, water, and air pollution through hazardous chemicals and burning of litter.",
+        "spans": [
+          "Littering Can cause Soil, Water, And Air Pollution",
+          "Hazardous chemicals can leak out of the litter and pollute the soil and nearby water.",
+          "These toxins eventually enter the human body via the food chain.",
+          "The contaminants also inhibit plant growth and can cause health issues in animals.",
+          "Littering can actually lead to air pollution.",
+          "Frequently, litter is burnt as an easy way to get rid of it.",
+          "The burning process can emit a substantial amount of toxic particulate matter and gases into the air.",
+          "The pollutants can then lead to respiratory problems and other health problems in humans and other living beings."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Litter can cause physical harm to humans and may lead to epidemics and accidents.",
+        "spans": [
+          "Sharp objects, toxic chemicals, and other discarded objects can also cause physical harm to humans.",
+          "Pathogens in the litter could even lead to an epidemic.",
+          "Also accidents could result when vehicles come in contact with waste."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Litter containing flammable materials can cause fires and wildfires.",
+        "spans": [
+          "There Is A Possibility Of A Fire",
+          "When the litter contains flammable materials, a small spark or even lightning can immediately start a fire.",
+          "Such fires can become uncontrollable and lead to large losses of lives and property.",
+          "Accidental lighting of litter can even cause wildfires.",
+          "For example, discarded cigarette buttes that have not been fully put out can cause fires."
+        ]
+      }
+    ],
+    "clueweb22-en0018-34-14234": [
+      {
+        "point_number": 1,
+        "point_content": "Littering has severe adverse effects on the environmental system.",
+        "spans": [
+          "Littering can be regarded as a serious issue to our environmental system since it has severe adverse effects."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Littering causes spread of diseases by attracting animals like rats and breeding harmful bacteria.",
+        "spans": [
+          "Littering can cause the spread of diseases, depending on how the littering mass is composed of.",
+          "The littering of organic waste always poses a threat to human health since it attracts animals like rats which are known to be able to transmit serious diseases when they get in touch with humans.",
+          "Moreover, litter can be the breeding ground for many harmful bacteria which can lead to the spread of diseases like Cholera or other serious health conditions."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Littering can cause injuries especially from metals, blades or needles.",
+        "spans": [
+          "There may also be injuries caused by littering.",
+          "People are especially at risk when the litter is composed of metals, blades or needles."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Littering leads to social costs due to cleanup and environmental pollution.",
+        "spans": [
+          "Littering also leads to significant costs in our society.",
+          "On the one hand, the litter has to be cleaned up by employees which adds up to quite a lot of money which has to be spent on this cleaning process.",
+          "On the other hand, there are costs related to the pollution of our environment."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Littering may cause social tensions and conflicts.",
+        "spans": [
+          "Littering may also cause tensions in our daily life.",
+          "When someone throws garbage on the ground, there are other people who want to convince this person to avoid this behavior.",
+          "This may lead to conflicts between both parties which could result in fights if things get out of control."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Littering increases the probability of fires, especially wildfires from discarded cigarettes.",
+        "spans": [
+          "Littering may also contribute to fires.",
+          "For example, if people just throw away their cigarettes wherever they stand, they are at risk to start wildfires.",
+          "Thus, littering can cause an increase in probability of wildfires."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Litter serves as a breeding ground for insects and pests, increasing their population.",
+        "spans": [
+          "Litter can also serve as a breeding ground for insects or pests.",
+          "Thus, littering can lead to an increase in undesirable insects since it contributes to increase in their population."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Littering causes soil pollution, especially from hazardous materials like batteries.",
+        "spans": [
+          "Soil pollution is another important adverse effect of littering.",
+          "If these batteries are disposed of improperly and result in litter, they may pollute the soil in a severe way."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Littering causes water pollution by contaminating rivers, lakes, oceans, and groundwater.",
+        "spans": [
+          "Water pollution from littering can come in several ways.",
+          "Our rivers and lakes can be polluted through littering when people just dispose of their garbage directly in the water.",
+          "Moreover, part of this garbage is likely to eventually end up in our oceans.",
+          "In addition, water pollution also includes the pollution of our groundwater."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Burning litter, especially plastic, causes air pollution and releases toxic gases.",
+        "spans": [
+          "In some cases, in order to get rid of the litter, it is just burned.",
+          "However, in the combustion process, there are many harmful substances that can enter our air and thus lead to air pollution.",
+          "This problem is especially severe when it comes to the burning of plastic since this leads to the emission of many toxic gases and particulate matter which in turn can harm the human respiratory system."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Littering leads to a decrease in tourism as polluted environments are less attractive to tourists.",
+        "spans": [
+          "Many poor countries rely on tourism since that is their biggest source of income.",
+          "Thus, polluted beaches may not be their first choice for their vacation.",
+          "Therefore, littering can lead to a serious decrease in tourism."
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "Littering causes visual pollution, making environments look unpleasant and causing discomfort.",
+        "spans": [
+          "Visual pollution is another effect of littering.",
+          "It just doesn’t look nice if beaches are polluted with rubbish or when forests are full of tires or other garbage.",
+          "People will feel uncomfortable which may lead to more stress for them."
+        ]
+      },
+      {
+        "point_number": 13,
+        "point_content": "Littering negatively affects the quality of life of people living in affected areas.",
+        "spans": [
+          "Littering also affects the quality of life of people living in the affected areas.",
+          "If there is trash on every corner and every square foot is polluted by cigarettes, the life quality of many people drops significantly."
+        ]
+      },
+      {
+        "point_number": 14,
+        "point_content": "Littering has severe adverse effects on animals, including health issues and death.",
+        "spans": [
+          "Apart from the many adverse effects on humans from littering, there are also several serious adverse effects on animals.",
+          "Animals will try to eat some of the litter.",
+          "For example, if animals try to eat cigarettes, chances are that they simply will die."
+        ]
+      },
+      {
+        "point_number": 15,
+        "point_content": "Littering affects plants through soil contamination, which can lead to harmful substances entering the food cycle.",
+        "spans": [
+          "Plants can also be affected by littering.",
+          "Through the pollution of the soil through littering, plants are also contaminated since they get their nutrients from the soil.",
+          "This could in turn eventually even lead to contamination of humans with these harmful substances in a later stage through the food cycle."
+        ]
+      },
+      {
+        "point_number": 16,
+        "point_content": "Littering adversely affects aquatic life by polluting water bodies and harming aquatic animals.",
+        "spans": [
+          "Aquatic life can also be adversely affected by littering.",
+          "Our lakes, rivers and especially oceans suffer from a vast plastic pollution problem.",
+          "Many water animals and plants may die off since plastic contains harmful elements that contaminate the water.",
+          "Moreover, some fishes try to eat plastic particles and also die from this since they are not able to digest plastic."
+        ]
+      },
+      {
+        "point_number": 17,
+        "point_content": "Littering affects birds by causing them to ingest trash or contaminated fish, leading to death or harm.",
+        "spans": [
+          "Birds are also affected by littering and the implied consequences.",
+          "When the trash from littering finally ends up in oceans, many birds can die since they will try to eat this trash.",
+          "Moreover, they eat fish that may also be contaminated with plastic and in turn suffer from adverse consequences."
+        ]
+      },
+      {
+        "point_number": 18,
+        "point_content": "Littering leads to significant economic costs due to cleanup and environmental damage.",
+        "spans": [
+          "Apart from the adverse environmental effects, there are also significant economic effects from littering.",
+          "These problems also transfer into economic problems since we have to spend quite a lot of money to clean up polluted areas.",
+          "Thus, littering also leads to the spending of a lot of money which could be used for other purposes it there was no littering issue."
+        ]
+      }
+    ]
+  }
+}

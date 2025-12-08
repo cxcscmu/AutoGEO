@@ -1,0 +1,176 @@
+{
+  "question": "why are information systems vulnerable to destruction, error, and abuse?",
+  "key_points": [
+    {
+      "point_number": 1,
+      "point_content": "Information systems are vulnerable because digital data are vulnerable to destruction, misuse, error, fraud, and hardware or software failures.",
+      "original_point_number": [
+        1,
+        8,
+        9
+      ]
+    },
+    {
+      "point_number": 2,
+      "point_content": "The Internet's open design increases vulnerability to external attacks such as denial-of-service and network penetration by hackers, making internal corporate systems more vulnerable to outsiders and virtually open to anyone.",
+      "original_point_number": [
+        2,
+        11,
+        12
+      ]
+    },
+    {
+      "point_number": 3,
+      "point_content": "Wi-Fi networks can be easily penetrated by intruders using sniffer programs to access network resources.",
+      "original_point_number": [
+        3,
+        14
+      ]
+    },
+    {
+      "point_number": 4,
+      "point_content": "Computer viruses and worms can disable systems and websites, contributing to vulnerability.",
+      "original_point_number": [
+        4,
+        15
+      ]
+    },
+    {
+      "point_number": 5,
+      "point_content": "The dispersed nature of cloud computing complicates tracking unauthorized activity and applying controls remotely.",
+      "original_point_number": [
+        5
+      ]
+    },
+    {
+      "point_number": 6,
+      "point_content": "Software bugs and vulnerabilities can be exploited by hackers and malicious software, increasing system vulnerability.",
+      "original_point_number": [
+        6,
+        16
+      ]
+    },
+    {
+      "point_number": 7,
+      "point_content": "End users often introduce errors, adding to the vulnerability of information systems.",
+      "original_point_number": [
+        7,
+        17
+      ]
+    },
+    {
+      "point_number": 8,
+      "point_content": "Information systems are vulnerable to destruction, error and abuse because of many factors mainly caused by unauthorized users gaining access to company networks.",
+      "original_point_number": [
+        18,
+        34
+      ]
+    },
+    {
+      "point_number": 9,
+      "point_content": "Common threats against contemporary information systems occur at client, communication lines, corporate servers, and corporate systems levels.",
+      "original_point_number": [
+        19
+      ]
+    },
+    {
+      "point_number": 10,
+      "point_content": "Threats on the client level involve unauthorized access and errors.",
+      "original_point_number": [
+        20,
+        35
+      ]
+    },
+    {
+      "point_number": 11,
+      "point_content": "Threats originating from communication lines may involve wire-tapping, sniffing, message modifications, theft/fraud, and radiation.",
+      "original_point_number": [
+        21
+      ]
+    },
+    {
+      "point_number": 12,
+      "point_content": "Threats on corporate servers may include hacking, planting viruses and worms, theft/fraud, and denial-of-service attacks.",
+      "original_point_number": [
+        22
+      ]
+    },
+    {
+      "point_number": 13,
+      "point_content": "Threats on corporate systems may include stolen, copied, and manipulated company data and crashes in hardware and software.",
+      "original_point_number": [
+        23
+      ]
+    },
+    {
+      "point_number": 14,
+      "point_content": "Malware, including viruses, worms, and Trojan horses, are malicious software that contribute to vulnerabilities.",
+      "original_point_number": [
+        24
+      ]
+    },
+    {
+      "point_number": 15,
+      "point_content": "Viruses attach to software or data files and can erase programs or data without the user's knowledge.",
+      "original_point_number": [
+        25
+      ]
+    },
+    {
+      "point_number": 16,
+      "point_content": "Worms copy themselves to many computers on a network and spread quickly without human action.",
+      "original_point_number": [
+        26
+      ]
+    },
+    {
+      "point_number": 17,
+      "point_content": "Trojan horses appear nonthreatening but later perform unexpected harmful actions, allowing malware entry.",
+      "original_point_number": [
+        27
+      ]
+    },
+    {
+      "point_number": 18,
+      "point_content": "Hackers are unauthorized users who exploit security weaknesses and can cause security problems and damage systems.",
+      "original_point_number": [
+        28
+      ]
+    },
+    {
+      "point_number": 19,
+      "point_content": "Information systems are vulnerable due to accessibility to electronic data, increasingly complex software and hardware, network access points, wireless vulnerability, and the Internet.",
+      "original_point_number": [
+        29
+      ]
+    },
+    {
+      "point_number": 20,
+      "point_content": "Threats to computerized information systems include hardware failure, software failure, personnel actions, terminal access penetration, theft of data, services, equipment, fire, electrical problems, user errors, unauthorized program changes, and telecommunication problems.",
+      "original_point_number": [
+        30
+      ]
+    },
+    {
+      "point_number": 21,
+      "point_content": "Systems are vulnerable to attacks such as hackers, Trojan horses, denial of service (DoS) attacks, computer viruses, and worms.",
+      "original_point_number": [
+        31
+      ]
+    },
+    {
+      "point_number": 22,
+      "point_content": "System quality problems arise from software and data issues including bugs and defects, incomplete testing, high maintenance costs due to organizational change, software complexity, and faulty system analysis and design.",
+      "original_point_number": [
+        32
+      ]
+    },
+    {
+      "point_number": 23,
+      "point_content": "Data quality problems are caused by errors during data input or faulty information system and database design.",
+      "original_point_number": [
+        33
+      ]
+    }
+  ]
+}

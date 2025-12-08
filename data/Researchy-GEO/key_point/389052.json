@@ -1,0 +1,23 @@
+{
+  "question": "how did the new deal recast the meaning of american freedom?",
+  "key_points": {
+    "null": [],
+    "clueweb22-en0038-70-09442": [
+      {
+        "point_number": 1,
+        "point_content": "The New Deal linked freedom with economic security and identified entrenched economic inequality as its greatest enemy.",
+        "spans": [
+          "Freedom linked with economic security and identify entrenched economic inequality as its greatest enemy"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "FDR's new definition of liberty emphasized greater security for the average man, contrasting with the old definition of liberty which served the interests of the privileged few.",
+        "spans": [
+          "FDR's new definition of liberty - greater security for the average man",
+          "Old definition of liberty - liberty of contract, served interests of privileged few"
+        ]
+      }
+    ]
+  }
+}

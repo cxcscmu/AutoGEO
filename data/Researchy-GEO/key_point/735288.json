@@ -1,0 +1,79 @@
+{
+  "question": "what are possible consequences of using poor or outdated recruitment and selection practices?",
+  "key_points": {
+    "clueweb22-en0013-97-01170": [
+      {
+        "point_number": 1,
+        "point_content": "Poor recruitment can negatively affect workflow if the new staff are not of the required standard.",
+        "spans": [
+          "If the staff being brought into a business are not of the required standard, the workflow can be negatively affected."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Hiring unsuitable staff can create issues with existing employees due to poor culture fit and personality clashes.",
+        "spans": [
+          "Another significant problem that can be caused by recruiting unsuited members of staff is that issues can start to emerge with existing employees.",
+          "These problems can take place if the new hire is not the right culture fit for a company.",
+          "there may be a clash of personalities, and this can create tension."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Poor recruitment wastes time and training costs if the candidate is not right for the role.",
+        "spans": [
+          "The amount of time spent on the hiring process, and on training new starters, means that recruitment must be taken seriously.",
+          "if it is recognised early on that a candidate is not right, all this time and money will have been for nothing."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Poor recruitment can damage a company's reputation and deter future suitable candidates, leading to a cycle of hiring lower quality talent and further turnover.",
+        "spans": [
+          "poor recruitment can lead to a negative impression being created about a business.",
+          "If it is recognised that a company has a high turnover of staff, it may suggest that they are not a stable outfit.",
+          "If higher calibre candidates are put off joining, a business may be forced to settle for the lower quality talent on the market.",
+          "there is a higher chance of these candidates not ultimately proving suitable for the role, which could result in further turnover of staff being experienced."
+        ]
+      }
+    ],
+    "clueweb22-en0011-16-04829": [
+      {
+        "point_number": 1,
+        "point_content": "Bad recruitment causes loss of time and money due to the need to restart the selection process.",
+        "spans": [
+          "Recruiting requires the entrepreneur to invest time… and money.",
+          "Starting a selection process from the beginning will impose a series of responsibilities and obligations that you could have avoided if you had made the first recruitment correctly."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "A vacant or badly filled position leads to loss of productivity and practical stoppage of activity in that sector.",
+        "spans": [
+          "A vacant or badly filled position causes a company to lose money in productivity functions since that worker will not perform with the efficiency that he or she should.",
+          "it will be impossible to carry out any initiative during the entire time that the job is being renewed so that there will be a practical stoppage of activity in the sector in which the poorly selected worker is included."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Poor recruitment affects good employees' morale and trust, causing mistrust and questioning of leadership.",
+        "spans": [
+          "Introducing a person unsuitable for the position into the work routine is a bad sign for the truly talented workers who will have to deal with it.",
+          "If the person relieved was in an elevated position, the subordinates could question not only their mandates but those of all the “bosses” of the company.",
+          "If it was a low-level employee, the feeling of being surrounded by unqualified people will generate mistrust among good employees."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Bad recruitment leads to loss of trust among high positions, workers, potential customers, and the recruited worker themselves.",
+        "spans": [
+          "The high positions will lose confidence with the workers when thinking that the bad recruitment of one could have repeated in more of them, and also they will lose confidence with the person in charge of that bad hiring.",
+          "Ordinary workers lose confidence with their superiors when they see that they have made a mistake in something as important as selecting the right person for the right job.",
+          "Potential customers also lose confidence in the company when they see that a job is continually changing or when the team is not stable.",
+          "And even the badly recruited worker himself will lose self-confidence and find it more difficult to find a suitable job in the future."
+        ]
+      }
+    ],
+    "null": []
+  }
+}

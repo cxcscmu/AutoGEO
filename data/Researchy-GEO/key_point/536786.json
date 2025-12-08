@@ -1,0 +1,148 @@
+{
+  "question": "how is public opinion about american institutions measured?",
+  "key_points": {
+    "null": [],
+    "clueweb22-en0035-54-05493": [
+      {
+        "point_number": 1,
+        "point_content": "Public opinion is measured accurately through polls using statistical techniques developed by George Gallup and Elmo Roper in the 1930s.",
+        "spans": [
+          "Accurate measurement of public opinion through polls is a relatively recent phenomenon. George Gallup and Elmo Roper first developed statistical techniques for this purpose in the 1930s"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Scientific polling requires a representative sample where every possible respondent has the same probability of participating, achieved by random telephone dialing and random selection within households.",
+        "spans": [
+          "A key element of scientific polling, by contrast, is the representative sample, which requires that every possible respondent has the same probability of participating. This is accomplished today by using computers to dial telephone numbers randomly and then picking which person in a household to interview using another random method."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Polls typically survey between 1,200 and 1,500 people to give an accurate picture of national opinion, with a margin of error indicating the expected variation.",
+        "spans": [
+          "if the pollster succeeds at generating a random sample, then between 1,200 and 1,500 people will give an accurate picture of national opinion. The level of accuracy is often called the margin of error"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Polls can be biased by question wording and interviewer influence, so questions must be neutral and interviewers must avoid injecting their own views.",
+        "spans": [
+          "In addition to sampling errors, polls can be biased by the type of questions asked and the way the polls are conducted. Questions must be as neutral as possible to avoid skewed results.",
+          "Interviewers must be careful not to inject their own views into the process by how they ask a question."
+        ]
+      }
+    ],
+    "clueweb22-en0038-62-03358": [
+      {
+        "point_number": 1,
+        "point_content": "Public opinion about American institutions is measured in public approval ratings rather than in questions of choice between positions or candidates.",
+        "spans": [
+          "Public opinion about American institutions is measured in public approval ratings rather than in questions of choice between positions or candidates."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Public opinion is measured using polls, election outcomes, and voting.",
+        "spans": [
+          "How is public opinion measured? -polls (take the 'pulse' of the people) can be written, verbal aka over phone, or online - Election outcomes - voting"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Public opinion polling involves sampling a cross-section of the public to predict election results or estimate public attitudes on issues.",
+        "spans": [
+          "Public Opinion Polling a poll taken by sampling a cross-section of the public in an effort to predict election results or to estimate public attitudes on issues."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Good polls have at least 1000-1500 respondents; larger samples yield more accurate responses/opinions.",
+        "spans": [
+          "GOOD POLLS HAVE ATLEAST 1000-1500 RESPONDENTS larger samples= more accurate responces/opinions"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Poll errors can arise from sampling error, selection effects, measurement error, question types, inaccurate timing, lack of participant knowledge, and participant deception.",
+        "spans": [
+          "Poll Errors 1. Sampling Error 2. Selection Effects 3. Measurement Error 4. Question Types (leading/framing/bias) 5. Inaccurate timing ( the voter changed her/his mind) 6. Lack of participant knowledge on polled issue 7. Participant deception (lies about what they actually think because they are scared of being judged or hated)"
+        ]
+      }
+    ],
+    "clueweb22-en0011-47-10426": [
+      {
+        "point_number": 1,
+        "point_content": "Public opinion is measured using polls that collect opinions from a sample of the population.",
+        "spans": [
+          "An informal poll that collects opinions from a non-random population"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "To accurately reflect the opinions of the population, a representative sample must be collected.",
+        "spans": [
+          "In order to aggregate responses in a manner that reflects the quantified opinions of the population under study, the researcher must collect a ______.",
+          "representative sample"
+        ]
+      }
+    ],
+    "clueweb22-en0028-67-15142": [
+      {
+        "point_number": 1,
+        "point_content": "Public opinion about American institutions is measured by public approval ratings and opinion polls.",
+        "spans": [
+          "Public approval ratings",
+          "Opinion polls"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Polls are carefully designed and results are analyzed by statisticians and social scientists to measure public opinion.",
+        "spans": [
+          "Polls are carefully designed and results are analyzed by statisticians and social scientists."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "For a poll to be completed scientifically, the desired population of respondents must be identified and a representative sample must be used.",
+        "spans": [
+          "The desired population of respondents must be identified.",
+          "A group whose demographic distribution is similar to the overall population of the United States"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "A random sample is a sample in which each person has an equal chance of being chosen to participate in the poll.",
+        "spans": [
+          "A sample in which each person has an equal chance of being chosen to participate in the poll"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The lower the margin of error, the more predictive the poll is.",
+        "spans": [
+          "The lower the margin of error, the more predictive the poll is."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Internet polling methods are problematic because they have a high likelihood of self-selection bias.",
+        "spans": [
+          "Internet polling methods are problematic because they have a high likelihood of what type of error?",
+          "Self-selection bias"
+        ]
+      }
+    ],
+    "clueweb22-en0036-71-11557": [
+      {
+        "point_number": 1,
+        "point_content": "Public opinion about American institutions is measured by public approval ratings.",
+        "spans": [
+          "How is public opinion about American institutions measured?",
+          "public approval ratings"
+        ]
+      }
+    ]
+  }
+}

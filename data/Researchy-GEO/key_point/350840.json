@@ -1,0 +1,64 @@
+{
+  "question": "why ethical people make unethical choices",
+  "key_points": {
+    "clueweb22-en0013-88-02797": [
+      {
+        "point_number": 1,
+        "point_content": "Organizations create environments in which people feel forced to make choices they could never have imagined, leading good people to make unethical choices.",
+        "spans": [
+          "Despite good intentions, organizations set themselves up for ethical catastrophes by creating environments in which people feel forced to make choices they could never have imagined."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "It is psychologically unsafe to speak up, which inhibits raising ethical concerns and can lead to unethical choices.",
+        "spans": [
+          "It is psychologically unsafe to speak up.",
+          "Creating a culture in which people freely speak up is vital to ensuring people don’t collude with, or incite, misconduct.",
+          "You have to confront the two fundamental challenges preventing employees from speaking up. The first is the natural feeling of futility — feeling like speaking up isn’t worth the effort or that on one wants to hear it. The second is the natural fear that speaking up will lead to retribution or harsh reactions.",
+          "A manager’s reactions to an employee’s concerns sets the tone for whether or not people will raise future issues. If a leader reacts with even the slightest bit of annoyance, they are signaling they don’t really want to hear concerns."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Excessive pressure to reach unrealistic performance targets encourages people to make compromising choices to meet goals.",
+        "spans": [
+          "There is excessive pressure to reach unrealistic performance targets.",
+          "Significant research from Harvard Business School suggests unfettered goal setting can encourage people to make compromising choices in order to reach targets, especially if those targets seem unrealistic.",
+          "Leaders may be inviting people to cheat in two ways. They will cut corners on the way they reach a goal, or they will lie when reporting how much of the goal they actually achieved.",
+          "Goals have a strong effect of causing tunnel vision, narrowly focusing people at the expense of seeing much else around them, including the potential consequences of compromised choices made to reach goals.",
+          "Once people sense the risk of failure, they go into “loss prevention” mode, fearing the loss of job, status, or at-risk incentives."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Conflicting goals provoke a sense of unfairness, which sets the stage for compromise and unethical behavior.",
+        "spans": [
+          "Conflicting goals provoke a sense of unfairness.",
+          "Once a sense of injustice is provoked, the stage is set for compromise.",
+          "Research on organizational injustice clearly shows a direct correlation between employees’ sense of fairness and their conscious choice to sabotage the organization."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Talking about ethics only during scandals or compliance reviews is insufficient; ethics must be infused in everyday activities to strengthen ethical choices.",
+        "spans": [
+          "Too many leaders assume that talking about ethics is something you do when there’s been a scandal, or as part of an organization’s compliance program.",
+          "Leaders have to infuse everyday activities with ethical considerations and design policies and norms that keep ethics top of mind.",
+          "Focusing on the positive reasons you are in business, and reinforcing the good things people do strengthens ethical choices as ‘the norm’ of the organization."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Leaders must set positive examples and be vigilant about how their behavior is interpreted to avoid signaling that unethical behavior is acceptable.",
+        "spans": [
+          "A positive example isn’t being set.",
+          "Leaders must accept they are held to higher standards than others.",
+          "Leaders who know their people well make careful choices in how they react to stressful situations, confront poor performance, how politic they are in the face of controversy, and how receptive they are to bad news.",
+          "Even in what might be considered the smallest “white lie,” ethical leaders are careful not to signal that hypocrisy is ok."
+        ]
+      }
+    ],
+    "null": []
+  }
+}

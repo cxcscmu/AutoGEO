@@ -1,0 +1,402 @@
+{
+  "question": "should doctors lie to patients",
+  "key_points": {
+    "clueweb22-en0037-10-06809": [
+      {
+        "point_number": 1,
+        "point_content": "Doctors shouldn’t lie to their patients, but they do it all the time, mostly for what they believe is the good of their patients.",
+        "spans": [
+          "Doctors shouldn’t lie to their patients, even now when the parsing of words and the telling of white lies is common at the highest level of our government. But they do it all the time — sometimes for personal reasons but most of the time for what they believe is the good of their patients."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Truth and honesty are key parts of the foundation of the doctor-patient relationship and commitment to honesty is a primary responsibility for physicians.",
+        "spans": [
+          "truth and honesty are key parts of the foundation of the doctor-patient relationship. “Commitment to honesty with patients” is a primary responsibility for physicians set out in the Charter on Medical Professionalism."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Physicians sometimes lie to offer words that lighten patients' or parents' hearts in moments of despair, not to deceive but to spare feelings.",
+        "spans": [
+          "We tell these untruths not to deceive parents, but to offer words that lighten their hearts in moments of despair. We do it, we tell ourselves, to spare their feelings."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Some lies by physicians are harmful, such as not disclosing serious medical errors or financial relationships, and transparency is necessary.",
+        "spans": [
+          "These sorts of lies are clearly harmful and transparency is necessary."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Some physicians lie to third-party payers to obtain approval for treatments their patients need, with willingness varying by disease severity.",
+        "spans": [
+          "Some physicians lie to third-party payers to obtain approval for treatments or procedures their patients need. Their willingness to deceive payers varies by disease severity: 58 percent said they would do this for coronary bypass surgery and 35 percent for screening mammography, but just 2.5 percent for cosmetic rhinoplasty — a nose job."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Medical ethicists debate the moral distinction between lying and deception, and physicians struggle with absolute honesty versus withholding dismal facts.",
+        "spans": [
+          "Medical ethicists have argued for decades on the moral distinction between lying and deception, and physicians have long struggled with absolute honesty versus withholding dismal facts."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "More than 55 percent of physicians sometimes describe a patient’s prognosis more positively than facts support, and a deception flowchart exists to help decide when deception is morally acceptable.",
+        "spans": [
+          "One study found that more than 55 percent of physicians sometimes or often described a patient’s prognosis in a more positive manner than the facts support. A deception flowchart has been developed to help doctors “who are not absolutist” decide when it is morally acceptable for them to deceive patients."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Being brutally honest doesn’t always help families make decisions or guarantee preferred outcomes; giving hope by describing prognosis more positively is common.",
+        "spans": [
+          "And being brutally honest doesn’t always help families make decisions or guarantee the preferred outcome. We could — and should — dutifully cite statistics of morbidities and mortality to families, such as, “Your child has a 60 percent chance of survival.” As physicians, we may feel that at least they heard the numbers. But for families, survival is a dichotomous yes or no. Giving hope and sometimes describing a prognosis in a more positive manner than the facts might support is the reality of what physicians do."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Deception that limits informed decision-making is reprehensible; sugar-coating or making light of grave situations is wrong; honesty and clarity are essential.",
+        "spans": [
+          "To be sure, deception that limits an individual’s or a parent’s ability to make informed decisions is reprehensible. Sugar-coating devastating results, or making light of grave situations as if there will be meaningful recovery is also wrong. Patients and their family members must be told results and expectations based on experience and evidence, as honestly and as clearly as a clinician can."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "The art of medicine requires nuance and possibly shielding patients from unnecessary pain; white lies can coexist with a strong doctor-patient relationship if grounded in kindness.",
+        "spans": [
+          "But the art of medicine calls upon us to be nuanced and possibly shield them from unnecessary pain.",
+          "The foundations of a doctor-patient relationship can remain strong even with “white lies,” as long as our actions are grounded in kindness and we are doing our best for our patients in difficult times."
+        ]
+      }
+    ],
+    "clueweb22-en0043-03-12883": [
+      {
+        "point_number": 1,
+        "point_content": "Eleven percent of 1,800-plus physicians recently surveyed by Massachusetts General Hospital admitted to having lied to a patient in the preceding year, and 55 percent said they’d described a prognosis to a patient in a more positive light than was medically accurate.",
+        "spans": [
+          "Eleven percent of 1,800-plus physicians recently surveyed by Massachusetts General Hospital admitted to having lied to a patient in the preceding year",
+          "55 percent said they’d described a prognosis to a patient in a more positive light than was medically accurate"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Physicians may lie out of compassion and genuine concern to maintain positive attitudes or provide hope by reporting prognoses as less grim than they really are.",
+        "spans": [
+          "dishonesty is often borne from compassion and genuine concern",
+          "Physicians may be trying to maintain the positive attitudes of their patients or provide them with hope by reporting prognoses as less grim than they really are"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Honesty is almost always the best policy, but some hypothetical situations might justify telling a patient something untrue if it makes no difference in treatment or outcome.",
+        "spans": [
+          "Honesty is almost always the best policy",
+          "I could see some hypothetical situations where telling the patient something untrue, or being more positive than is warranted, might be the best course of action and make no difference in the treatment of the patient and the outcome"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Professional standards dictate that physicians should be forthright with their patients to enable informed choices and patient-centered care.",
+        "spans": [
+          "professional standards dictate that physicians should be forthright with their patients",
+          "Patients who do not get the full story might not be able to make an informed choice about the best course of action for their care"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Violating patient trust, even with good intentions, diminishes the conviction of the doctor’s role and is generally unethical, especially when motivated by self-protection.",
+        "spans": [
+          "Violating that trust, even in well-intentioned ways, diminishes the conviction of the doctor’s role",
+          "When motives of self-protection, such as a fear of being sued, cause dishonesty, lying is unambiguously unethical"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Effective communication of difficult truths is necessary despite the human desire to avoid upsetting patients.",
+        "spans": [
+          "if there is a difficult truth they need to tell their patient, they need to figure out a way of communicating that effectively"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Forthright communication and straightforwardness can ease the repercussions of medical errors and maintain trust.",
+        "spans": [
+          "Even in the case of medical error, forthright communication and straightforwardness can ease the repercussions of a troubling mistake"
+        ]
+      }
+    ],
+    "clueweb22-en0028-92-05222": [
+      {
+        "point_number": 1,
+        "point_content": "Doctors can legally get away with lying to patients in some situations.",
+        "spans": [
+          "doctors can legally get away with lying to patients in some situations"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Most doctors tell lies in some form, often to give hope or comfort to patients and their families.",
+        "spans": [
+          "Almost all doctors tell lies in some form of the word. Most lie to give hope where it otherwise wouldn’t exist, such as telling family members a coma patient can hear them, even when there is no way for the physician to know if this is true. Others may lie when there is nothing else to do, such as saying a baby with birth deformities is “perfect.”"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "White lies by doctors are not strictly against the law unless they cause harm to the patient or others.",
+        "spans": [
+          "While these types of “white lies” may not be entirely ethical, they are not strictly against the law unless they cause harm to the patient or others"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Lies that doctors tell to mask mistakes, cover up medical errors, or disguise fraud are illegal and may break the law if they injure patients.",
+        "spans": [
+          "It is the lies that doctors tell to mask their own mistakes, cover up medical errors, or disguise fraud that are illegal in the medical field. Lies that can or do injure patients (physically, emotionally, or financially) may break the law that holds doctors to strict standards of patient care."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Patients can file a medical malpractice lawsuit if a doctor breaches the duty of care and causes injury or death.",
+        "spans": [
+          "a patient can file a medical malpractice lawsuit against a health care practitioner or facility if the identified party failed to use the “degree of care, skill, and learning expected of a reasonable and prudent provider in similar circumstances,” and if this lapse caused the patient’s injury or death"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "White lies generally do not meet the requirements for a medical malpractice lawsuit unless they cause physical injury or emotional pain and suffering.",
+        "spans": [
+          "Most white lies won’t meet the requirements for a medical malpractice lawsuit in West Virginia. Even if you discover the untruth and are upset that your doctor wasn’t 100% honest, you won’t have grounds for a lawsuit unless you can prove that the white lie constitutes a breach of duty of care, and that it caused you physical injury or emotional pain and suffering."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Lies that impact a patient's ability to give informed consent may constitute a breach of duty and grounds for a lawsuit.",
+        "spans": [
+          "Lies that impact a patient’s ability to give his/her informed consent to a procedure could constitute a severe enough breach of duty for a medical malpractice lawsuit. It is part of a physician or surgeon’s job to inform a patient of potentially serious risks involved in an operation or treatment."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Physicians must provide complete diagnoses, purpose of treatments, alternatives, and benefits and risks to patients for informed consent.",
+        "spans": [
+          "The law entitles patients to complete diagnoses, purpose of proposed treatments, available alternative treatments, and the benefits of risks of each treatment type."
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0023-95-17744": [
+      {
+        "point_number": 1,
+        "point_content": "Doctors sometimes withhold or distort information to protect patients or avoid harm, which can be seen as a form of lying.",
+        "spans": [
+          "What doctors reveal, withhold, or distort matters greatly to their patients.",
+          "Others have viewed the withholding of information as a clinical aid, if not a duty.",
+          "According to Korsch and Harding, “The information a doctor gives a patient should be tempered by who the patient is and what he or she is ready to hear.”"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Lying in the doctor-patient relationship can damage trust and compromise clinical care.",
+        "spans": [
+          "Such untruths and manipulation of information can damage relationships and compromise clinical care.",
+          "Incomplete disclosure in both directions compromises clinical care."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "There is debate about the morality of doctors lying to patients, with some philosophical and historical perspectives opposing lying and others allowing it in certain contexts.",
+        "spans": [
+          "Despite a lack of a clear prohibition of lying within such oaths, philosophers have long argued that lying is inappropriate.",
+          "Many historians and philosophers, however, have taken a less definitive position on deception.",
+          "Similarly, the philosopher Sartre argued that there is no universal law to guide choices (eg, in matters of truth and deception)."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Physicians may lie to avoid causing unnecessary pain, to maintain hope, or due to competitive pressures, while patients may lie to avoid negative consequences or for secondary gain.",
+        "spans": [
+          "Doctors cite reasons for limiting such exchanges and for not wanting to confuse patients, to cause unnecessary pain, or to eliminate hope.",
+          "Physicians also lie to respond to intense competitive pressures.",
+          "Patients lie to avoid negative consequences, to achieve secondary gain (eg, to obtain medication or disability payments), out of embarrassment or shame, or to present themselves in a better light"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Physicians are encouraged to foster an environment that promotes honesty and to negotiate the amount of information shared with patients.",
+        "spans": [
+          "More important is to focus on the creation of an environment that fosters honesty.",
+          "Negotiating explicitly with a patient around the amount and detail of information to be discussed comfortably.",
+          "Physicians can maximize truthfulness in the relationship by the following:",
+          "Physicians are encouraged to rehearse different communication strategies and to seek supervision and consultation around matters that are challenging."
+        ]
+      }
+    ],
+    "clueweb22-en0004-94-13203": [
+      {
+        "point_number": 1,
+        "point_content": "The American Medical Association (AMA) Code of Medical Ethics states that a physician shall be honest in all professional interactions and uphold standards of professionalism.",
+        "spans": [
+          "“A physician shall uphold the standards of professionalism, be honest in all professional interactions, and strive to report physicians deficient in character or competence, or engaging in fraud or deception, to appropriate entities,” notes the American Medical Association (AMA) in its Code of Medical Ethics."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The AMA states it is a fundamental ethical requirement that a physician should at all times deal honestly and openly with patients, and patients have a right to know their medical status.",
+        "spans": [
+          "“It is a fundamental ethical requirement that a physician should at all times deal honestly and openly with patients. Patients have a right to know their past and present medical status and to be free of any mistaken beliefs concerning their conditions.”"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Physicians are ethically obligated to tell patients all facts necessary to ensure comprehension of medical complications resulting from a physician’s mistake or misjudgment.",
+        "spans": [
+          "In situations where medical complications have resulted from a physician’s mistake or misjudgment, the AMA notes that the physician is ethically obligated to tell the patient all the facts necessary to ensure comprehension of what has occurred."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Physicians should notify patients of any change in diagnosis after retrospective review, even if treatment options remain unchanged.",
+        "spans": [
+          "Physicians should also notify patients of any change in diagnosis that transpired after retrospective review of charts. Even if a patient’s treatment or options remain unchanged in the advent of new information, the patient needs to be truthfully informed."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Concerns over legal implications should not alter a physician’s honesty with a patient according to the AMA.",
+        "spans": [
+          "Finally, the AMA advises that concerns over legal implications or consequences should not alter a physician’s honesty with a patient."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Research shows some physicians do lie or withhold information, including not disclosing serious medical errors and framing prognosis more optimistically.",
+        "spans": [
+          "In a survey of more than 1,800 practicing physicians, about one-third of respondents did not completely agree with disclosing serious medical errors to patients, one-fifth did not completely agree that physicians should never tell a patient something that is untrue, and approximately two-fifths did not completely agree that they should share their financial industry relationships with patients.",
+          "Furthermore, more than half of respondents reported having framed a patient’s prognosis as better than it was. Lastly, just over one-tenth of respondents said they had told patients something untrue in the previous year."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Some physicians lie to third-party payers to secure necessary care for patients, reflecting a flawed system.",
+        "spans": [
+          "In another study published in JAMA Internal Medicine, researchers found that some physicians lie when dealing with third-party payers—especially Medicaid and managed care. These physicians are fine with lying to secure care that they deem necessary for the patient, thereby obviating the need for a lengthy appeals process."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Medical residents sometimes withhold information about near-miss events and may deceive insurance companies to secure benefits for patients.",
+        "spans": [
+          "Researchers of one study published in the Journal of Medical Ethics showed that 40.9% of Loma Linda University medical residents would not inform a patient about a near-miss event because they believed it has no effect on patient health, and would only cause unwarranted worry and anxiety.",
+          "Furthermore, about half of all residents said that they would be willing to deceive insurance companies to secure additional patient benefits."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Lauren B. Smith, MD, argues that dishonesty undermines patient autonomy and informed decision-making.",
+        "spans": [
+          "In the vast majority of cases, Dr. Smith is against lying to patients. “The problem with being dishonest is that it goes against our concept of autonomy. Patients should be able to make informed decisions based on honest information,” she said."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "White lies may be told to lighten psychological burdens, but knowingly deceiving patients is wrong.",
+        "spans": [
+          "First, there’s the issue of white lies—little lies like “you’ll feel better” or “the pain will go away.” These little lies are sometimes told by physicians who want to lighten their patients’ psychological burdens and offer some hope.",
+          "“If [the motivation] is truly to be deceptive, then I think it’s wrong,” Dr. Smith said. “But if you actually believe what you’re saying to the patient, then even if it ends up being wrong, I don’t think that’s anything we can avoid. If you knowingly tell a patient that they’re going to feel better and you know they’re not going to, I don’t see the benefit to the physician or patient in that situation.”"
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Cultural differences may justify withholding information if the patient consents to not knowing.",
+        "spans": [
+          "Second, cultural differences may make a lie of omission, or the practice of withholding information from the patient, prudent. For instance, some cultures and religions dictate that the husband or head male family members make all medical decisions for women.",
+          "“We’ve had situations where we might have a cultural difference between the patient and family, and they request that the patient not know certain information,” said Smith. “We can consent the patient to ‘not know.’”"
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "Physicians should speak privately with patients about their desire to know or not know their diagnosis and respect their wishes.",
+        "spans": [
+          "In these situations, it’s important that the physician speak with the patient privately and ask whether the patient doesn’t want to know their diagnosis. If the patient doesn’t want to know, ask who the patient does want to know this information. The physician must also stress that the patient can change their mind at any time."
+        ]
+      },
+      {
+        "point_number": 13,
+        "point_content": "Concealing serious medical errors is discouraged; patients want to know about errors and near misses.",
+        "spans": [
+          "Concealing serious medical errors is something Dr. Smith recommends against.",
+          "“Errors do happen,” she said. “What should be the protocol? I don’t think there’s a national standard on when errors should be disclosed to patients. Patients definitely do want to know."
+        ]
+      },
+      {
+        "point_number": 14,
+        "point_content": "Physicians fear legal ramifications but apologizing to patients for errors can be successful and may include compensation.",
+        "spans": [
+          "Physicians get scared to tell the truth because of legal ramifications. At the University of Michigan, we have a policy of apologizing to patients, and it’s been very successful.” Of note, such apologies at the University of Michigan can be followed by financial compensation to the patient."
+        ]
+      },
+      {
+        "point_number": 15,
+        "point_content": "There is hope that emphasis on patient-centered care and understanding legal risks will encourage honesty in the future.",
+        "spans": [
+          "“I think there’s been more emphasis on how to effectively deal with medical errors in a way that’s fair to patients—more patient-centered care,” she said. “We’ll hopefully get to a place where people don’t worry so much about the ramifications of doing the right thing."
+        ]
+      }
+    ],
+    "clueweb22-en0037-75-15230": [
+      {
+        "point_number": 1,
+        "point_content": "Some doctors admit to not being completely honest with patients, including giving overly rosy prognoses and not fully disclosing medical mistakes.",
+        "spans": [
+          "More than half admitted describing someone's prognosis in a way they knew was too rosy.",
+          "Nearly 20 percent said they hadn't fully disclosed a medical mistake for fear of being sued."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Doctors may lie or withhold truth to give patients hope or to help them adjust to hard truths gradually.",
+        "spans": [
+          "She said the untruths could have been to give people hope.",
+          "And sometimes it's a matter of dribbling out a hard truth to give patients a chance to adjust, Caplan said: \"OK, this looks serious but we're going to order some more tests,\" when the doctor already knows just how grim things are."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Open communication is important for patients to make informed decisions, and some doctors believe in full disclosure of risks and mistakes.",
+        "spans": [
+          "But it takes open communication for patients to make fully informed decisions about their health care, as opposed to the \"doctor-knows-best\" paternalism of medicine's past, Iezzoni added.",
+          "The vast majority of those surveyed agreed that physicians should fully inform patients of the risks, not just the benefits, of treatment options and never tell a patient something that isn't true - even though some admitted they hadn't followed that advice at least on rare occasions in the past year."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Not revealing a mistake is considered inexcusable by medical ethicists, and apologizing upfront can reduce lawsuits.",
+        "spans": [
+          "Not revealing a mistake is \"just inexcusable,\" said Dr. Arthur Caplan, a prominent medical ethicist at the University of Pennsylvania.",
+          "a growing number of medical centers are adopting policies that tell doctors to say \"I'm sorry\" up front, in part because studies have found patients less likely to sue when that happens."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Doctors sometimes prescribe placebos or exaggerate health findings for patient benefit, which involves some level of deception.",
+        "spans": [
+          "Doctors prescribe placebos sometimes, and telling the patient could negate chances of the fake treatment helping, he noted.",
+          "Sometimes they exaggerate a health finding to shock the patient into shaping up."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Withholding full information is becoming harder due to patients' access to information and electronic medical records.",
+        "spans": [
+          "Withholding the full story is getting harder, though, Iezzoni said.",
+          "Not only do more patients Google their conditions so they know what to ask, but some doctors who have embraced electronic medical records allow patients to log in and check their own test results."
+        ]
+      }
+    ]
+  }
+}

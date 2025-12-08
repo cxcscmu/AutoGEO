@@ -1,0 +1,177 @@
+{
+  "question": "should a database of people paroled or released for crimes be made public?",
+  "key_points": {
+    "clueweb22-en0032-60-02162": [
+      {
+        "point_number": 1,
+        "point_content": "Any person charged with a crime will have their charges displayed publicly and indefinitely, regardless of conviction.",
+        "spans": [
+          "any person charged with a crime (misdemeanor, felony, or otherwise) will have their charges displayed publicly and indefinitely, REGARDLESS if they were convicted of the crime or not"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Criminal records include all charges ever charged, even if dismissed or resolved of guilt.",
+        "spans": [
+          "any and all charges a person has EVER been charged with will ultimately appear upon such records--regardless if the person was convicted of the offense, resolved of all guilt, or simply had the charges dismissed"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Expungement is difficult and costly, with no guarantee of approval.",
+        "spans": [
+          "unless they have attained the necessary legal age for expungement of said charges (in Pennsylvania coincidentally, it is seventy years of age) or can afford the exhorbitant costs involved with applying for an expungement before a judge. This latter approach, however, offers no guarantee that the judge will approve such an order"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "There is no statute of limitations governing disclosure of criminal records; all charges are subject to public interest.",
+        "spans": [
+          "Currently, there is no statute of limitations in place anywhere to govern the disclosure of criminal records, as all charges are made subject to public interest"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Some propose limiting public disclosure to certain serious offenses and implementing statute of limitations for lesser charges.",
+        "spans": [
+          "One proposal, however, that is gaining momentum involves limiting public disclosure of criminal charges to certain offenses (ie. capital offenses), thereby mandating the revision of any existing conditions governing public disclosure. This interest is also garnering support via the suggested implementation of a statute of limitations for most lesser charges"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Public disclosure of criminal records can lead to discrimination against people rather than promoting them.",
+        "spans": [
+          "this information is often used to discriminate against people rather than to promote them"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Example of Jamie shows how public criminal records can harm employment opportunities even if charges were dismissed.",
+        "spans": [
+          "Jamie dabbed at her brow as she patiently sat in the cramped waiting area. Recently released from prison, she had served a forty-eight-hour sentence for a DUI which the district attorney later dropped. ... The answer lies in the data that the interviewer punched-up regarding Jamie's recently received charges. When asked about the charges, Jamie, unabashed, had not denied their existence, and honestly answered the interviewer's questions, stating that she had indeed served time for a DUI, but that the charges had been dismissed. Unfortunately, that was all the interviewer had needed to hear, before closing her mind to the prospect of any employment possibilities"
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0030-29-03295": [
+      {
+        "point_number": 1,
+        "point_content": "Privacy is a fundamental right but it is not an absolute right; it comes in degrees and can be given away to some extent for the sake of security.",
+        "spans": [
+          "privacy is a fundamental right but it is not an absolute right",
+          "privacy comes in degrees",
+          "we can overcome this tension between privacy and security is to understand how much privacy we want to forgo or give away for the sake of security"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "There are technical solutions that prevent misuse without infringing the privacy of a person, so privacy and safety are not necessarily in conflict.",
+        "spans": [
+          "There is not necessarily a conflict between privacy and safety",
+          "Very often there are technical solutions that prevent misuse without infringing the privacy of a person"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Irresponsible or excessive monitoring and collection of too much personal data can decrease safety and security.",
+        "spans": [
+          "Also of concern is irresponsible or excessive monitoring and collection of too much personal data",
+          "if we really choose to give up our privacy then our safety and security would maybe even decrease"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The private sector holds detailed databases of personal data, which governments and intelligence agencies can access, raising concerns about privacy and data protection.",
+        "spans": [
+          "the private sector holds databases which are so detailed",
+          "it doesn’t mean that this data is protected against government access"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The argument 'if we have nothing to hide, we should not be worried about giving up privacy' is a misconception; privacy protects dignity, not secrets, and situations can change making privacy important.",
+        "spans": [
+          "This is a really bad argument, and a very dangerous one",
+          "Privacy is a human right, and is a right that has been there to protect our dignity, not to protect our secrets",
+          "while we don’t have anything to hide today, we might want to hide it tomorrow"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Many people believe that safety from criminals is more important than privacy, especially in democratic countries where law-abiding citizens have nothing to fear.",
+        "spans": [
+          "in a democratic country, if you are a law-abiding citizen, you have nothing to be afraid of: safety from criminals is more important than privacy"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Some argue that giving up privacy for safety is a trade-off that can lead to loss of both liberty and security.",
+        "spans": [
+          "Those who would give up liberty for security deserve neither",
+          "Those who trade their freedom for safety, deserves neither and will, eventually, lose both"
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "There is a concern that mass surveillance and loss of privacy do not necessarily make the world safer.",
+        "spans": [
+          "A lot of your privacy has already been taken by the internet",
+          "And has the internet made the world any safer? I don’t think so"
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Some people feel that privacy is already lost in the digital age, and that surveillance is pervasive.",
+        "spans": [
+          "I do not have any privacy left to give up",
+          "We already lost that battle. In all we do we are traceable"
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "There is a debate about the balance between privacy and security, with some advocating for more safety measures that do not invade privacy or limit personal freedom.",
+        "spans": [
+          "I’d rather pay more for safety measures that don’t limit personal freedom or invade privacy",
+          "We should find ways to improve safety without invading privacy or limiting individual freedom"
+        ]
+      }
+    ],
+    "clueweb22-en0028-99-04027": [
+      {
+        "point_number": 1,
+        "point_content": "Some parts of parole records are publicly accessible and others are not – or at a minimum are difficult to obtain.",
+        "spans": [
+          "Some parts of parole records are publicly accessible and others are not – or at a minimum are difficult to obtain."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Parole records are controlled by state law and legal precedent, but federal law, including HIPAA, which pertains to health information, blocks access to some information.",
+        "spans": [
+          "Parole records are controlled by state law and legal precedent, but federal law, including HIPAA, which pertains to health information, blocks access to some information."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Parole board findings / votes / recommendations are public but some parolee records and discussion about the individual cases may not be available.",
+        "spans": [
+          "Parole board findings / votes / recommendations are public but some parolee records and discussion about the individual cases may not be available."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Likewise, an individual parolee’s status may be public but the week-to-week notes of meetings with a parole officer are likely not public record.",
+        "spans": [
+          "Likewise, an individual parolee’s status may be public but the week-to-week notes of meetings with a parole officer are likely not public record."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Parole records relate to felony convictions, the most serious criminal activities. Felony records are very difficult to seal or expunge in any state, so those records are likely to stay on file in court archives indefinitely.",
+        "spans": [
+          "Parole records relate to felony convictions, the most serious criminal activities. Felony records are very difficult to seal or expunge in any state, so those records are likely to stay on file in court archives indefinitely."
+        ]
+      }
+    ]
+  }
+}

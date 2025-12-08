@@ -1,0 +1,215 @@
+{
+  "question": "how does universal health care work in europe",
+  "key_points": {
+    "clueweb22-en0003-04-01115": [
+      {
+        "point_number": 1,
+        "point_content": "Most European nations have some type of universal healthcare, meaning everyone has equal access to quality healthcare without financial harm.",
+        "spans": [
+          "most European nations (in addition to others around the world) have some type of universal healthcare",
+          "everyone has equal access to quality healthcare that improves the health of patients and that seeking such care would not cause financial harm to those receiving it"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Healthcare in Europe is designed to ensure every person has access to basic health services, with three main systems: single-payer, socialized, and privatized but regulated.",
+        "spans": [
+          "healthcare in Europe is designed with the same goal in mind: to make sure every person has access to basic health services",
+          "they’ve landed largely on three systems: single-payer, socialized, and privatized, but regulated"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "All citizens are included in European healthcare systems, with individual mandates in partially privatized systems and funding largely from tax dollars.",
+        "spans": [
+          "all citizens are included",
+          "an individual mandate is in place (and strictly enforced) to ensure that healthy people are in the system to help offset the costs of sick people",
+          "healthcare in Europe (regardless of system) is largely funded by tax dollars collected from employers and the public"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Single-payer systems have government-funded universal coverage with private providers; citizens may purchase supplemental private insurance.",
+        "spans": [
+          "In a single-payer system, the government funds a type of universal health coverage",
+          "most healthcare is actually provided by private entities",
+          "Citizens often purchase private insurance plans (as their incomes allow) to supplement the government provided healthcare"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Socialized systems have government control of insurance and providers, with government-employed doctors and government-run hospitals; private insurance exists for supplemental or elective care.",
+        "spans": [
+          "In this type healthcare system, the government typically has control of both health insurance and the providers within the industry",
+          "The government is essentially the only health insurance provider",
+          "It also runs (and owns) hospitals and employs healthcare providers, like doctors",
+          "Every citizen is enrolled in the national healthcare system and a good portion of medical services are provided free of charge by doctors who are employed by the government",
+          "there is some room for private insurance companies to operate and for doctors to run private practices",
+          "only those who can afford it would be able to purchase supplemental policies or pay to see doctors not employed by the government"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Privatized but regulated systems, like Germany's, require lower-income citizens to enroll in public insurance, while higher earners may purchase private insurance.",
+        "spans": [
+          "Employed citizens earning less than €57,600 annually are required to be enrolled in the German public health insurance option",
+          "Those making more than that amount are allowed to bypass the public system to purchase private health insurance"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Some European countries have systems similar to the ACA, mandating insurance but allowing private companies to provide it, with government subsidies to make it affordable.",
+        "spans": [
+          "The Netherlands and Switzerland have systems very similar to the American Affordable Care Act (ACA), in that health insurance is mandated (and strictly enforced) to all citizens, but insurance is not provided by the government",
+          "insurance premiums are partially funded through subsidies provided by the government (through taxes) so that policies are truly affordable for everyone"
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0016-12-00967": [
+      {
+        "point_number": 1,
+        "point_content": "European healthcare systems provide universal health coverage aiming for free access, equality, equity, and fairness, regardless of income.",
+        "spans": [
+          "Health coverage in Europe is universal.",
+          "all European healthcare systems aim to provide care to everyone, on the grounds of free access, equality and equity, and fairness: no matter how much you earn, you’re getting a basic package."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Types of universal healthcare systems in Europe include single-payer and multi-payer systems, often involving both government and private sector funding.",
+        "spans": [
+          "So, the types of universal systems in Europe are: 1. Single-payer healthcare system, where the government or the private sector pays fully for health coverage (so a country/private sector is the main insurer) and the healthcare provider sector is mostly private.",
+          "2. Multi-payer system, where there is health insurance for people who earn less than a certain minimum and private one for those who earn more."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "In single-payer systems like Spain, healthcare is mostly free for patients and funded by the government, with some private insurance for extra coverage.",
+        "spans": [
+          "It’s mostly free for patients — in Spain, where a single-payer model is used, the very term “spending on healthcare” was declined.",
+          "Such a system doesn’t imply full-blown governmental control of everything: in addition to the government's funding, there are private insurance companies that still offer coverage for the services of some private practitioners and hospitals’ extra coverage."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Multi-payer systems like Germany require everyone to have insurance, with statutory insurance for lower earners and private insurance for higher earners, funded through taxes and contributions.",
+        "spans": [
+          "Such a two-tier system employed in Germany.",
+          "There are two types of health insurance (HI): statutory (SHI, they are also called “sickness funds”) and private (PHI).",
+          "Those who earn less than €56,250 a year covered by SHI, and their not working dependants are included in the plan.",
+          "Those who earn more or who is self-employed choose between these two.",
+          "Funds are financed through taxes and contributions."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "European universal healthcare systems often combine private and government funds to provide coverage to all citizens.",
+        "spans": [
+          "As you can see, in Europe, universal healthcare systems are often built on the co-existence of private and government funds, which is kinda similar to what happens in the USA."
+        ]
+      }
+    ],
+    "clueweb22-en0007-68-01729": [
+      {
+        "point_number": 1,
+        "point_content": "Nearly all European countries have a universal health care system where everyone pays for health care as a society to minimize overall expense and spread cost and risk.",
+        "spans": [
+          "Nearly all European countries have a universal health care system.",
+          "everyone pays for health care as a society — intending to minimize the overall expense and spread around the cost and risk"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Universal health care in Europe ensures that those living in poverty can get the care they might not otherwise be able to afford.",
+        "spans": [
+          "This also ensures that those living in poverty can get the care they might not otherwise be able to afford."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Europe's universal health care means that everyone is taken care of, including foreigners, and you will receive treatment if you get sick or injured while traveling, no questions asked.",
+        "spans": [
+          "Europe's universal health care does mean that everyone is taken care of — including foreigners.",
+          "So if you get sick or injured while traveling, you will receive treatment, no questions asked."
+        ]
+      }
+    ],
+    "clueweb22-en0016-24-02222": [
+      {
+        "point_number": 1,
+        "point_content": "Universal health care in Denmark automatically enrolls all registered residents in publicly financed health care, which is largely free at the point of use.",
+        "spans": [
+          "All registered Danish residents are automatically enrolled in publicly financed health care, which is largely free at the point of use."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Denmark offers two public insurance options with different access rules to specialists and hospitals.",
+        "spans": [
+          "Danes can choose from two public insurance options. Practically all Danes (98%) choose Group 1 coverage, under which general practitioners (GPs) act as gatekeepers and patients need a referral to see specialists, except for a few specialties. The remaining 2 percent of Danes choose Group 2 coverage, which allows access to specialists without a referral, although copayments apply. Under both insurance options, access to hospitals requires a referral."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Denmark's universal health care system developed gradually, with the current system founded in 1973 through legislative reform.",
+        "spans": [
+          "Universal coverage developed gradually, starting in the latter part of the 1800s with nongovernmental insurance, known as sickness funds, covering primary care and user charges for hospital care. In 1973, the current universal public coverage system was founded through legislative reform."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Universal health care in England has been in place since 1948 through the National Health Service (NHS), providing free care at the point of use to all ordinarily resident individuals.",
+        "spans": [
+          "Health coverage in England has been universal since the creation of the National Health Service (NHS) in 1948.",
+          "Currently, all those “ordinarily resident” in England are automatically entitled to NHS care, still largely free at the point of use, as are nonresidents with a European Health Insurance Card."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "France achieved universal coverage by extending statutory health insurance to all residents and creating additional programs to cover those not eligible, culminating in universal eligibility under the Protection universelle maladie law in 2016.",
+        "spans": [
+          "Universal coverage was achieved over seven decades by extending statutory health insurance (SHI) to all employees (in 1945), retirees (in 1945), the self-employed (in 1966), and the unemployed (in 2000).",
+          "In January 2016, SHI eligibility was universally granted under the Protection universelle maladie (Universal Health Protection law), or PUMa, to fill in the few remaining coverage gaps."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Germany's universal health coverage was established through the Health Insurance Act of 1883 and mandated for all citizens and permanent residents by 2007, with coverage provided by statutory and private insurance.",
+        "spans": [
+          "Chancellor Otto von Bismarck's Health Insurance Act of 1883 established the first social health insurance system in the world.",
+          "The final step toward universal health coverage occurred in 2007, when health insurance, either statutory or private, was mandated for all citizens and permanent residents."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Italy provides universal coverage through its National Health Service, which automatically covers all citizens and legal foreign residents.",
+        "spans": [
+          "Universal coverage is provided through Italy’s National Health Service (Servizio sanitario nazionale, or SSN), established through legislation in 1978. The SSN automatically covers all citizens and legal foreign residents."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Sweden's health system covers all legal residents automatically, with universal coverage based on principles of human dignity, need and solidarity, and cost-effectiveness.",
+        "spans": [
+          "The Health and Medical Services Act states that Sweden’s health system must cover all legal residents. Coverage is universal and automatic."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Switzerland adopted a private insurance model with mandatory health insurance coverage close to 100%, requiring citizens to purchase insurance and cantons to ensure compliance.",
+        "spans": [
+          "Since going into effect in 1996, health insurance coverage is close to 100 percent. Citizens are legally required to purchase insurance, and the cantons ensure compliance."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Taiwan implemented a single-payer National Health Insurance system in 1995, providing equitable medical and health care services to all citizens and legal residents.",
+        "spans": [
+          "Taiwan's NHI system was implemented in 1995.",
+          "NHI is a government-run social health insurance program that provides equitable medical and health care services to all in case of illness, injury, and childbirth. Enrollment in NHI is mandatory for all citizens and for foreigners legally residing in Taiwan for longer than six months. Virtually all residents are enrolled."
+        ]
+      }
+    ]
+  }
+}

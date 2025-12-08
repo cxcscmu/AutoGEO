@@ -1,0 +1,174 @@
+{
+  "question": "how a leaders working style impacts staff",
+  "key_points": [
+    {
+      "point_number": 1,
+      "point_content": "Leaders can stabilize their own resources by adopting various leadership styles, including autocratic, democratic, and participative leadership, and adapt their style to the needs of the situation and staff, as there is no single best style; leaders need to assess goals and choose the style or combination that fits the situation.",
+      "original_point_number": [
+        1,
+        42,
+        14,
+        46
+      ]
+    },
+    {
+      "point_number": 2,
+      "point_content": "The autocratic leadership style centralizes decision-making powers in a single person, decisions are made quickly, and employees are expected to follow instructions; it is useful for driving short-term performance, especially with new employees and difficult business challenges, but can stifle creativity and cause resentment, leading to low employee morale, increased absenteeism, and decreased retention.",
+      "original_point_number": [
+        2,
+        7,
+        33,
+        43
+      ]
+    },
+    {
+      "point_number": 3,
+      "point_content": "The democratic leadership style uses a consultative approach where leaders solicit feedback from team members, leading to slower decisions but higher productivity and morale; it is effective in both short and long term, leading to higher productivity and morale through soliciting team member feedback, encourages participation and collaboration, leading to high engagement and productivity, and accepts input from subordinates for decisions, empowering employees but slowing decision-making.",
+      "original_point_number": [
+        3,
+        10,
+        37,
+        44
+      ]
+    },
+    {
+      "point_number": 4,
+      "point_content": "The participative leadership style delegates most decision-making to trusted team members, encouraging creativity and a positive work environment; it is less effective short term but very useful long term, encouraging a positive work environment and creativity, engages employees to find the best way to accomplish goals, leading to productivity gains such as decreased errors, minimized waste, and increased customer satisfaction, and participative leaders run team-building exercises to promote cultural awareness and diversity, improving productivity by recognizing team strengths and value.",
+      "original_point_number": [
+        4,
+        35,
+        36,
+        45
+      ]
+    },
+    {
+      "point_number": 5,
+      "point_content": "Trust in leadership is a critical factor in employee performance regardless of leadership style, strongly correlating with positive employee behaviors and retention; leaders can win employee trust by telling the truth, following through on commitments, listening to concerns, and promoting a positive work environment; leadership styles and trust both directly impact employee performance; leaders must implement suitable styles and build trust to engage and empower employees.",
+      "original_point_number": [
+        5,
+        6,
+        47,
+        48,
+        49
+      ]
+    },
+    {
+      "point_number": 6,
+      "point_content": "Authoritative leadership style motivates and empowers staff by providing vision and autonomy.",
+      "original_point_number": [
+        8
+      ]
+    },
+    {
+      "point_number": 7,
+      "point_content": "Pacesetting leadership style drives high performance but can cause stress and low motivation among staff.",
+      "original_point_number": [
+        9
+      ]
+    },
+    {
+      "point_number": 8,
+      "point_content": "Coaching leadership style supports staff development and motivation through guidance and feedback; it makes subordinates feel safer and encouraged to focus on their own development, increasing employee morale, retention and satisfaction.",
+      "original_point_number": [
+        11,
+        34
+      ]
+    },
+    {
+      "point_number": 9,
+      "point_content": "Affiliative leadership style focuses on people and relationships, building trust and reducing stress among staff.",
+      "original_point_number": [
+        12
+      ]
+    },
+    {
+      "point_number": 10,
+      "point_content": "Laissez-faire leadership style empowers skilled staff with autonomy but can lead to low productivity if staff are unmotivated; it delegates all responsibility to subordinates; effective if team is experienced, otherwise leads to chaos.",
+      "original_point_number": [
+        13,
+        38
+      ]
+    },
+    {
+      "point_number": 11,
+      "point_content": "Effective leaders set clear direction and align subordinates' objectives to strategic plans, leading to long-term profitability and growth; successful leaders encourage eliminating processes that don’t benefit the consumer, focusing the company on impactful work and optimizing processes for profit; lack of clear priorities from leaders causes subordinates to focus on different metrics, causing conflicts and dysfunction.",
+      "original_point_number": [
+        39,
+        40,
+        41
+      ]
+    },
+    {
+      "point_number": 12,
+      "point_content": "There is a strong relationship between leadership style and employee motivation where the correlation was positive with transformational style and negative with transactional style.",
+      "original_point_number": [
+        15
+      ]
+    },
+    {
+      "point_number": 13,
+      "point_content": "Leadership determines how employees are directed, motivated, influenced, and aligned or staffed, which are functions of project management; transformational leadership is extremely important in mobilizing project resources and making all involved parties accountable for their actions in project execution; managers who plan by involving employees tend to motivate their project teams.",
+      "original_point_number": [
+        16,
+        17,
+        18
+      ]
+    },
+    {
+      "point_number": 14,
+      "point_content": "Leadership plays a significant role in building a fervent environment and encouraging culture in an organization; leadership roles and their styles contribute immensely to employees retention and performance; leadership is proved to lead to better job satisfaction; a leader's behaviour is straightforwardly associated with employee satisfaction.",
+      "original_point_number": [
+        19,
+        20,
+        21,
+        22
+      ]
+    },
+    {
+      "point_number": 15,
+      "point_content": "Leaders should implement different strategies customized to individuals, their desires and needs, as employees are motivated by different factors such as job security, clear company policies, power, recognition, compensation, or enjoyment of their work.",
+      "original_point_number": [
+        23
+      ]
+    },
+    {
+      "point_number": 16,
+      "point_content": "Leadership style at the multi-professional team level has been overlooked but is crucial for team motivation in healthcare organizations; effective leadership can drive improvements in team motivation and benefit organizational culture dynamics in healthcare; traditional top-down leadership approaches may limit organizational culture dynamics and reduce positive team motivation.",
+      "original_point_number": [
+        24,
+        25,
+        26
+      ]
+    },
+    {
+      "point_number": 17,
+      "point_content": "Dynamic leadership style is adaptive and improves team motivation by engaging employees and recognizing team contributions; dynamic leaders motivate teams by inspiring, supporting, and appreciating employees, which enhances team motivation; a dynamic leader motivates each team member individually, respects their abilities, and encourages them, improving overall team abilities and motivation.",
+      "original_point_number": [
+        27,
+        28,
+        31
+      ]
+    },
+    {
+      "point_number": 18,
+      "point_content": "Leadership style influences team motivation, with democratic and dynamic styles positively correlated and laissez-faire negatively correlated.",
+      "original_point_number": [
+        29
+      ]
+    },
+    {
+      "point_number": 19,
+      "point_content": "Leadership and team motivation are important aspects in healthcare to keep workers happy and satisfied and improve organizational outcomes.",
+      "original_point_number": [
+        30
+      ]
+    },
+    {
+      "point_number": 20,
+      "point_content": "Leadership style impacts the organization by affecting employee morale, productivity, decision-making speed, and metrics.",
+      "original_point_number": [
+        32
+      ]
+    }
+  ]
+}

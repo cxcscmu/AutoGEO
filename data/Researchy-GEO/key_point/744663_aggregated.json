@@ -1,0 +1,365 @@
+{
+  "question": "how culture influences health",
+  "key_points": [
+    {
+      "point_number": 1,
+      "point_content": "All cultures have systems of health beliefs explaining illness causes, treatments, and involved parties, influencing health education, beliefs, and treatment methods.",
+      "original_point_number": [
+        1,
+        23,
+        70
+      ]
+    },
+    {
+      "point_number": 2,
+      "point_content": "Cultural beliefs affect health comprehension, treatment options, diagnostic claims, acceptance of diagnosis, preventative healthcare, disease handling, death and dying perceptions, communication practices, symptom sharing, family dynamics, and beliefs about age-related health.",
+      "original_point_number": [
+        24,
+        30,
+        35
+      ]
+    },
+    {
+      "point_number": 3,
+      "point_content": "Culture influences health choices including physician selection, communication with healthcare providers, compliance with treatment and medication, and use of alternative and conventional medical treatments.",
+      "original_point_number": [
+        34,
+        73
+      ]
+    },
+    {
+      "point_number": 4,
+      "point_content": "Culture influences how individuals manifest symptoms, communicate symptoms, cope with psychological challenges, and their willingness to seek treatment.",
+      "original_point_number": [
+        18
+      ]
+    },
+    {
+      "point_number": 5,
+      "point_content": "Cultural differences affect patients' attitudes about medical care, understanding, management, coping with illness, beliefs about medication and treatments, and patient compliance.",
+      "original_point_number": [
+        15,
+        5,
+        44
+      ]
+    },
+    {
+      "point_number": 6,
+      "point_content": "Culture-specific values influence patient roles, information desired, management of death and dying, bereavement, gender and family roles, and decision-making processes.",
+      "original_point_number": [
+        16,
+        41,
+        42
+      ]
+    },
+    {
+      "point_number": 7,
+      "point_content": "Family and community influences affect health care decisions, with some cultures prioritizing family interests over individual interests, and family and church play important roles in health decisions.",
+      "original_point_number": [
+        39,
+        12
+      ]
+    },
+    {
+      "point_number": 8,
+      "point_content": "Religious beliefs can create barriers to typical treatments, including dietary restrictions and refusal of treatment based on faith, and some societies believe illness results from supernatural phenomena promoting spiritual interventions.",
+      "original_point_number": [
+        40,
+        4
+      ]
+    },
+    {
+      "point_number": 9,
+      "point_content": "Different cultures have varying health beliefs affecting pain tolerance, recovery expectations, trust in remedies, and physical responses to medication impacting treatment effectiveness and safety.",
+      "original_point_number": [
+        43,
+        45
+      ]
+    },
+    {
+      "point_number": 10,
+      "point_content": "Culture influences health options, beliefs about illness causes, family opinions in decisions, stigmatization of diseases, health promotion practices, and experiences with pain and illness.",
+      "original_point_number": [
+        33
+      ]
+    },
+    {
+      "point_number": 11,
+      "point_content": "Health is considered a cultural concept influenced by life experiences, cultural class, and is determined by genetic inheritance, personal behaviors, access to quality health care, and the general external environment.",
+      "original_point_number": [
+        32,
+        46
+      ]
+    },
+    {
+      "point_number": 12,
+      "point_content": "The social determinants of health include socioeconomic status, race/ethnicity, gender and sex roles, immigration status and acculturation, poverty, social networks, social support, and psychosocial work environment, influencing health at multiple levels throughout the life course.",
+      "original_point_number": [
+        47,
+        48,
+        49
+      ]
+    },
+    {
+      "point_number": 13,
+      "point_content": "Socioeconomic status (SES) is strongly associated with health, measured by education, income, and occupational status, each influencing health through distinct mechanisms.",
+      "original_point_number": [
+        50
+      ]
+    },
+    {
+      "point_number": 14,
+      "point_content": "Higher educational attainment is associated with better health outcomes across the life course, including lower infant mortality and reduced morbidity.",
+      "original_point_number": [
+        51
+      ]
+    },
+    {
+      "point_number": 15,
+      "point_content": "Higher income is associated with better health outcomes, with a gradient effect where health improves with each incremental rise in income, enabling access to goods and services necessary for health.",
+      "original_point_number": [
+        52
+      ]
+    },
+    {
+      "point_number": 16,
+      "point_content": "Occupational status influences health through exposure to physical hazards, psychosocial work environment, and access to resources, with higher status jobs generally associated with better health.",
+      "original_point_number": [
+        53
+      ]
+    },
+    {
+      "point_number": 17,
+      "point_content": "Social networks and social support are important social determinants of health, linked to positive physical and mental health outcomes and better survival following major illnesses.",
+      "original_point_number": [
+        54
+      ]
+    },
+    {
+      "point_number": 18,
+      "point_content": "The psychosocial work environment, including job stress, is linked to the onset of conditions such as cardiovascular disease and mental illness, with models like job demand-control and effort-reward imbalance explaining these effects.",
+      "original_point_number": [
+        55
+      ]
+    },
+    {
+      "point_number": 19,
+      "point_content": "Social variables affect health outcomes throughout the disease continuum, influencing disease onset, progression, and survival, with effects varying at different disease stages and life course periods.",
+      "original_point_number": [
+        56
+      ]
+    },
+    {
+      "point_number": 20,
+      "point_content": "There are opportunities to expand research on how social and cultural environments influence health, including gene-environment interactions, to better understand health outcomes.",
+      "original_point_number": [
+        57
+      ]
+    },
+    {
+      "point_number": 21,
+      "point_content": "Culture impacts the cancer experience by shaping beliefs, values, and rituals that provide meaning and coping mechanisms for sickness and death, affecting concepts of health and death, pain expression, drug metabolism, emotional responses, decision-making styles, social support, communication etiquette, and attitudes toward truth telling in cancer care.",
+      "original_point_number": [
+        58,
+        59
+      ]
+    },
+    {
+      "point_number": 22,
+      "point_content": "The role of family in cancer care varies culturally, with some cultures prioritizing family welfare over individual autonomy, affecting decision-making and support.",
+      "original_point_number": [
+        60
+      ]
+    },
+    {
+      "point_number": 23,
+      "point_content": "Cultural and personal meanings of cancer, including metaphors and stigma, influence patient and family experiences and coping strategies.",
+      "original_point_number": [
+        61
+      ]
+    },
+    {
+      "point_number": 24,
+      "point_content": "Cultural categories used in medicine, such as racial/ethnic groups, are socio-political and not scientifically valid proxies for culture, which can lead to stereotyping and compromised care.",
+      "original_point_number": [
+        62
+      ]
+    },
+    {
+      "point_number": 25,
+      "point_content": "Patients of all cultures have universal needs: safety, integrity and meaningfulness of life, and belonging; culture shapes how these needs are met during the cancer experience.",
+      "original_point_number": [
+        63
+      ]
+    },
+    {
+      "point_number": 26,
+      "point_content": "Cultural values influence healthcare practices, such as the emphasis on autonomy and truth telling in the US, which may not be applicable or accepted in other cultures.",
+      "original_point_number": [
+        64
+      ]
+    },
+    {
+      "point_number": 27,
+      "point_content": "Beliefs about death and afterlife vary culturally and affect how patients and families approach death and how clinicians prepare and support them.",
+      "original_point_number": [
+        65
+      ]
+    },
+    {
+      "point_number": 28,
+      "point_content": "Spirituality is a fundamental domain for many patients and families coping with cancer, yet it is often neglected in Western medical care.",
+      "original_point_number": [
+        66
+      ]
+    },
+    {
+      "point_number": 29,
+      "point_content": "Hospitalization in Western acute care settings may create barriers to cultural rituals and family involvement important for emotional support and grief expression.",
+      "original_point_number": [
+        67
+      ]
+    },
+    {
+      "point_number": 30,
+      "point_content": "The Form and Function model helps assess cultural differences in palliative care by distinguishing between goals (function) and culturally specific practices (form).",
+      "original_point_number": [
+        68
+      ]
+    },
+    {
+      "point_number": 31,
+      "point_content": "Improving cross-cultural communication in palliative care involves understanding cultural meanings, building trust, active listening, and acknowledging faith and family roles.",
+      "original_point_number": [
+        69
+      ]
+    },
+    {
+      "point_number": 32,
+      "point_content": "Western industrialized societies such as the United States see disease as a result of natural scientific phenomena and advocate medical treatments that combat microorganisms or use sophisticated technology to diagnose and treat disease, while other societies believe illness results from supernatural phenomena and promote prayer or spiritual interventions.",
+      "original_point_number": [
+        3,
+        4
+      ]
+    },
+    {
+      "point_number": 33,
+      "point_content": "Asians/Pacific Islanders have cultural beliefs including the influence of the extended family, respect for older family members, emphasis on harmony, and avoidance of conflict and direct confrontation.",
+      "original_point_number": [
+        6
+      ]
+    },
+    {
+      "point_number": 34,
+      "point_content": "Among Chinese patients, mental illness or behavior indicating lack of self-control may produce shame and guilt, leading to reluctance to discuss symptoms of mental illness or depression.",
+      "original_point_number": [
+        7
+      ]
+    },
+    {
+      "point_number": 35,
+      "point_content": "Some sub-populations from India and Pakistan are reluctant to accept diagnoses of severe emotional illness or mental retardation due to social consequences.",
+      "original_point_number": [
+        8
+      ]
+    },
+    {
+      "point_number": 36,
+      "point_content": "In Vietnamese culture, health is viewed as a harmonious balance between hot and cold, and Western mental health counseling is not readily accepted unless trust is gained.",
+      "original_point_number": [
+        9
+      ]
+    },
+    {
+      "point_number": 37,
+      "point_content": "Russian immigrants often mistrust U.S. medical care due to past authoritarian medical relationships and expect a paternalistic approach from physicians.",
+      "original_point_number": [
+        10
+      ]
+    },
+    {
+      "point_number": 38,
+      "point_content": "Hispanic patients often have fatalistic views of illness as God's will and may prefer home remedies or folk healers.",
+      "original_point_number": [
+        11
+      ]
+    },
+    {
+      "point_number": 39,
+      "point_content": "African-Americans value family and church, with extended kinship bonds and consultation of key family members for health decisions, reflecting cultural roots including African healing, medicine of the Civil War South, European medical and anatomical folklore, West Indies voodoo religion, fundamentalist Christianity, and other belief systems.",
+      "original_point_number": [
+        12,
+        22
+      ]
+    },
+    {
+      "point_number": 40,
+      "point_content": "Native Americans value living in harmony with nature and view illness as an imbalance with natural or supernatural forces, often using a shaman for healing.",
+      "original_point_number": [
+        13
+      ]
+    },
+    {
+      "point_number": 41,
+      "point_content": "In most countries, health is understood using either the Western evidence-based medical approach or traditional indigenous approaches, with traditional systems involving practitioners such as traditional birth attendants, faith healers, diviners, spiritualists, and herbalists in Sub-Saharan Africa.",
+      "original_point_number": [
+        20,
+        21
+      ]
+    },
+    {
+      "point_number": 42,
+      "point_content": "Health care professionals often expect patients to conform to mainstream values, creating barriers to care compounded by language and education differences, with language barriers affecting communication in medical settings and use of interpreters improving communication in clinical encounters.",
+      "original_point_number": [
+        14,
+        71,
+        72
+      ]
+    },
+    {
+      "point_number": 43,
+      "point_content": "Strategies for working with patients in cross-cultural settings include learning about cultural traditions, paying attention to body language, asking open-ended questions, remaining nonjudgmental, following patient advice on communication, understanding cultural beliefs and practices, respecting perceptions, ensuring understanding, acknowledging alternative healing, and negotiating treatment.",
+      "original_point_number": [
+        17,
+        37
+      ]
+    },
+    {
+      "point_number": 44,
+      "point_content": "Culture is a group identity with unique social systems including beliefs and faith regarding religion, cuisine, language, social habits, and is dynamic, taught and learned by generations, shared among a group, identified through symbols, and integrated in all aspects of life, including factors such as education, gender, upbringing, age, socio-economic class, religion, spiritual beliefs, ethnicity, language, geographic origin, sexual orientation, and history.",
+      "original_point_number": [
+        25,
+        26,
+        27
+      ]
+    },
+    {
+      "point_number": 45,
+      "point_content": "Culture varies in communication and affects decision-making regarding physical health, health information, care provider, healthcare practices, and interventions.",
+      "original_point_number": [
+        28
+      ]
+    },
+    {
+      "point_number": 46,
+      "point_content": "Health literacy requires communication and shared understanding among families, patients, and health care staff and providers, influenced by cultural health literacy.",
+      "original_point_number": [
+        29
+      ]
+    },
+    {
+      "point_number": 47,
+      "point_content": "Cultural access to health resources is often restricted, especially in poor communities.",
+      "original_point_number": [
+        36
+      ]
+    },
+    {
+      "point_number": 48,
+      "point_content": "Culture has a significant impact on both diagnoses and treatment options, primarily because of different social beliefs, but also because of biological factors.",
+      "original_point_number": [
+        38
+      ]
+    }
+  ]
+}

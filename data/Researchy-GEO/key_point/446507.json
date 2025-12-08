@@ -1,0 +1,47 @@
+{
+  "question": "what most likely changed when cottage industries began to disappear?",
+  "key_points": {
+    "null": [],
+    "clueweb22-en0009-53-18873": [
+      {
+        "point_number": 1,
+        "point_content": "Cottage industries began to disappear as industrialization progressed, leading to changes in production methods and economic structures.",
+        "spans": [
+          "cottage industries began to disappear"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The disappearance of cottage industries likely led to the rise of factory-based production and the growth of industrial economies.",
+        "spans": [
+          "cottage industries began to disappear"
+        ]
+      }
+    ],
+    "clueweb22-en0011-88-19935": [
+      {
+        "point_number": 1,
+        "point_content": "There were fewer unusual textiles and other unique items when cottage industries began to disappear.",
+        "spans": [
+          "There were fewer unusual textiles and other unique items."
+        ]
+      }
+    ],
+    "clueweb22-en0037-71-15098": [
+      {
+        "point_number": 1,
+        "point_content": "There were fewer unusual textiles and other unique items when cottage industries began to disappear.",
+        "spans": [
+          "3) There were fewer unusual textiles and other unique items."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "There was a greater market for cloth and home furnishings when cottage industries began to disappear.",
+        "spans": [
+          "1) There was a greater market for cloth and home furnishings."
+        ]
+      }
+    ]
+  }
+}

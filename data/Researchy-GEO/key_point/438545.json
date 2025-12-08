@@ -1,0 +1,43 @@
+{
+  "question": "how does the lack of borders impact the future of epidemiology and public health?",
+  "key_points": {
+    "null": [],
+    "clueweb22-en0023-36-16811": [
+      {
+        "point_number": 1,
+        "point_content": "Global health is about worldwide improvement of health, reduction of disparities, and protection against global threats that disregard national borders.",
+        "spans": [
+          "Global health is about worldwide improvement of health, reduction of disparities, and protection against global threats that disregard national borders."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Health problems that transcend national borders or have a global political and economic impact are often emphasized in global health.",
+        "spans": [
+          "Health problems that transcend national borders or have a global political and economic impact are often emphasized."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Global health needs to be focused on as a whole, rather than specific causes, to properly control disease.",
+        "spans": [
+          "The most important aspect in achieving global health is to take on a research approach and act accordingly to data and proven research because global health needs to be focused on as a whole, rather than specific causes."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Modern transport contributes in spreading diseases faster, facilitating the spread of infectious diseases globally.",
+        "spans": [
+          "Modern transport contributes in spreading diseases faster."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Emerging infectious diseases can spread to new populations or areas undergoing ecological transformation, highlighting the impact of lack of borders on disease spread.",
+        "spans": [
+          "EIDs are caused by newly identified species or strains (e.g., SARS, AIDS) that may have evolved from a known infection (e.g., influenza), or spread to a new population (e.g., West Nile virus ), or to an area undergoing ecologic transformation (e.g., Lyme disease)."
+        ]
+      }
+    ]
+  }
+}

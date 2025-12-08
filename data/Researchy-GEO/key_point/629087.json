@@ -1,0 +1,433 @@
+{
+  "question": "why should immigration be accepted",
+  "key_points": {
+    "null": [],
+    "clueweb22-en0007-02-02924": [
+      {
+        "point_number": 1,
+        "point_content": "Immigrants help the country and should be allowed if they pass background and knowledge tests.",
+        "spans": [
+          "I believe that immigrants should be able to come through if they can pass a background check and a knowledge test because immigrants are helping our country."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Immigrants come from countries with fewer education privileges and seek education and jobs in the US.",
+        "spans": [
+          "there are countries that don’t have education privileges like we do.",
+          "People have the right to education, but not every country believes that.",
+          "Immigrants come from all over to get jobs."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Immigrants often do jobs that people in the host country will not or cannot do.",
+        "spans": [
+          "Immigrants will often do jobs that people in the host country will not, or cannot do,"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Most immigrants pay taxes and contribute economically by paying rent, insurance, and buying goods.",
+        "spans": [
+          "Some say that they are not documented, but most of them pay taxes and bills. They pay rent, buy insurance and other different things.",
+          "In 2003 alone, the government received Social Security taxes on $57.8 billion from wage reports that couldn’t be matched to the person filing,"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Immigrants and their children contribute to schools and communities.",
+        "spans": [
+          "On top of everything else, their children go to our schools. Some parents from other countries have kids that need supported and they support their kids’ schools."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Immigrants have historically been essential to the formation and development of the United States.",
+        "spans": [
+          "If it wasn’t for immigrants, then our country wouldn’t be here.",
+          "Many are related to the Irish, Chinese, Japanese, and Polish immigrants at the beginning of the United States of America."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Open borders can lead to a better future as immigrants bring valuable talents and contributions.",
+        "spans": [
+          "In conclusion, I believe that with our borders open, we can have a better future because many of the greatest minds are from other countries.",
+          "Like I’ve said before, immigrants created our country; so why should we close our borders to those who could be of great help to us?"
+        ]
+      }
+    ],
+    "clueweb22-en0045-39-00978": [
+      {
+        "point_number": 1,
+        "point_content": "Illegal immigration benefits the US economy through additional tax revenue, expansion of the low-cost labor pool, and increased money in circulation.",
+        "spans": [
+          "illegal immigration benefits the US economy through additional tax revenue, expansion of the low-cost labor pool, and increased money in circulation"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Immigrants bring good values, have motivations consistent with the American dream, perform jobs that Americans won’t take.",
+        "spans": [
+          "immigrants bring good values, have motivations consistent with the American dream, perform jobs that Americans won’t take"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Opposition to immigration stems from racism.",
+        "spans": [
+          "opposition to immigration stems from racism"
+        ]
+      }
+    ],
+    "clueweb22-en0011-89-07434": [
+      {
+        "point_number": 1,
+        "point_content": "People moved to the United States in the past for the same reasons as today: to join their families, to work, and to seek safety and refuge from war, violence, and natural disasters.",
+        "spans": [
+          "People moved to the United States in the past for the same reasons as today: to join their families, to work, and to seek safety and refuge from war, violence, and natural disasters."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Immigrants make up about 14 percent of the population and nearly 90 million people—28 percent of the overall U.S. population—are immigrants or their U.S.-born children.",
+        "spans": [
+          "there were roughly 45 million immigrants in the United States in 2017, meaning that immigrants make up about 14 percent of the population. Nearly 90 million people—28 percent of the overall U.S. population—are immigrants or their U.S.-born children"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Two-thirds of undocumented immigrants have been living in the United States for more than 10 years and many of them live with their children who are U.S. citizens.",
+        "spans": [
+          "Two-thirds of undocumented immigrants have been living in the United States for more than 10 years and many of them live with their children who are U.S. citizens."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Immigration is integral to the nation’s economic growth because the U.S. workforce is getting older, making tax-paying, job-creating, and business-starting newcomers an economic necessity.",
+        "spans": [
+          "immigration is integral to the nation’s economic growth.",
+          "the U.S. workforce is getting older, which makes the arrival of tax-paying, job-creating, and business-starting newcomers an economic necessity."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "There is little evidence that immigration significantly affects the overall employment levels of native-born workers.",
+        "spans": [
+          "there is “little evidence that immigration significantly affects the overall employment levels of native-born workers.”"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "IRS data from 2015 shows that workers without Social Security numbers, more likely to be undocumented, filed 4.4 million income tax returns worth $23.6 billion.",
+        "spans": [
+          "IRS data from 2015 shows that the agency received 4.4 million income tax returns from workers without Social Security numbers—who are more likely to be undocumented—which were worth $23.6 billion"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Many asylum seekers come to the United States to escape violence, with a significant increase in women and children fleeing violence and crime from Central America's Northern Triangle.",
+        "spans": [
+          "a large—and growing—number of them are trying to escape violence.",
+          "More recently, there’s been a significant increase in the number of women and children fleeing violence and crime from the Northern Triangle."
+        ]
+      }
+    ],
+    "clueweb22-en0044-22-10603": [
+      {
+        "point_number": 1,
+        "point_content": "Immigrants provide significant economic contributions to the United States.",
+        "spans": [
+          "People born in the United States gain an estimated $37 billion a year from the participation of immigrants in the U.S. economy",
+          "over their lifetimes, the average immigrant and her immediate descendants will contribute $80,000 more in taxes than they will receive in benefits"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Immigrants serve in the U.S. Armed Services, contributing to national defense.",
+        "spans": [
+          "As of February 2008, more than 65,000 immigrants (noncitizens and naturalized citizens) were serving on active duty in the U.S. Armed Services—this made up about 5% of all active duty personnel"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Immigration leads to higher educational attainment in subsequent generations.",
+        "spans": [
+          "After immigration, each generation of children achieves greater levels of educational attainment; among first generation parents, 38% have not graduated from high school, compared to only 10% of their second- generation children"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Legalization of undocumented immigrants would significantly boost the U.S. economy.",
+        "spans": [
+          "$1.5 trillion dollars could be added to the U.S. gross domestic product over 10 years by providing a process for undocumented immigrants to get legal status"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Legalization would increase tax revenues and consumer spending, supporting job creation.",
+        "spans": [
+          "In the first three years of a legalization program, the higher earning power of legalized workers would increase tax revenues from $4.5 to $5.4 billion dollars",
+          "These new immigrants with legal status generate increased consumer spending—enough to support 750,000-900,000 new jobs in the United States"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Legalization would raise wages for all workers, especially in industries with many low-wage immigrant workers.",
+        "spans": [
+          "A legalization program would raise the “wage floor” for all workers—particularly in industries where large numbers of easily-exploited, low-wage, and undocumented immigrants currently work"
+        ]
+      }
+    ],
+    "clueweb22-en0006-17-10064": [
+      {
+        "point_number": 1,
+        "point_content": "Immigration can give substantial economic benefits – a more flexible labour market, greater skills base, increased demand and a greater diversity of innovation.",
+        "spans": [
+          "Immigration can give substantial economic benefits – a more flexible labour market, greater skills base, increased demand and a greater diversity of innovation."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Increased economic output and living standards due to growth in the size of the labour force and productive capacity of the economy.",
+        "spans": [
+          "Increased economic output and living standards. Net immigration will lead to a growth in the size of the labour force and an increase in the productive capacity of the economy. Immigration leads to higher economic growth with a corresponding rise in tax revenues and potential for government spending."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Immigrants often have greater incentive to be entrepreneurs and are a dynamic part of the workforce, contributing to innovation and business creation.",
+        "spans": [
+          "Potential entrepreneurs. It is argued that immigrants often arrive with little wealth so have a greater incentive to try and make something for themselves. Also, people who are willing to leave a country and try in a foreign company are the most ambitious and willing to take risks and a result tend to be the more dynamic part of the workforce. Immigrants who are young and mobile are also quite likely to be entrepreneurs – set up businesses which create innovative products."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Immigrants contribute to increased demand and economic growth by spending their wages in the new country, creating new demand in goods and services sectors.",
+        "spans": [
+          "Increased demand and growth. A fear of immigration is that ‘Immigrants take jobs from native-born population’ However, this is known as the lump of labour fallacy. The belief that the number of jobs remains fixed. However, this is not the case, if immigrants move to the US or UK and gain employment, then they will spend their wages in their new country, creating new demand in the service and goods sector. Far from ‘taking jobs’ immigrants contribute to a growth in GDP."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Immigrants tend to be better skilled and more educated, filling job vacancies and contributing to higher tax revenues.",
+        "spans": [
+          "Better skilled workforce. In the UK, immigrants working in the economy are more likely to have more educational and skilled qualifications. For example, just 20% of UK citizens finished education at 21 or later. But 53% of new immigrants were educated until 21 or later. (LSE study 2012) Immigration allows an economy to attract high skilled professionals to fill in job vacancies and contribute to higher tax revenues."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Immigrants provide a net benefit to government revenues as they are more likely to be young and working, paying taxes and using fewer benefits.",
+        "spans": [
+          "Net benefit to government revenues. Because immigrants are more likely to be young and working than native-born citizens, they provide a net benefit to government revenues. Working people pay income tax, but don’t receive benefits, such as education, pensions. Young people are less likely to use health care services than old people."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Immigration helps deal with an ageing population by filling shortages in health care and social care with young workers who contribute to government finances.",
+        "spans": [
+          "Deal with an ageing population. Many economies in the west are facing a demographic crunch with a low birth rate and ageing population causing a rise in the dependency ratio (ratio of old to young workers). This puts pressure on social care, tax revenues and government spending. Immigration is the most effective policy to deal with an ageing population, as it allows shortages in health care and social care to be filled with young workers who make a net contribution to government finances and boost the workforce."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Immigrants make the labour market more flexible by moving to economies with high demand for labour and leaving when demand falls, preventing unemployment rise.",
+        "spans": [
+          "More flexible labour market. Immigrants are highly mobile. They move to economies when wages are high and demand for labour strong. This helps to prevent a booming economy from overheating by providing labour to meet the growing demand. However, less obvious is the fact, that if the economy enters a downturn, migration flows often reverse, meaning they don’t stay to try and get unemployment benefits but return home."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Immigration solves skills shortages by filling immediate needs in sectors like health care where training new workers would take years.",
+        "spans": [
+          "Solves a skills shortage. If an economy has a shortage of skilled workers such as nurses and doctors, it would take several years to train new workers. But, the health service cannot afford this wait. Immigration enables the shortage to be filled immediately."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Immigration fills undesirable job vacancies that native-born workers often avoid, benefiting businesses and allowing natives to pursue better jobs.",
+        "spans": [
+          "Filling undesirable job vacancies. Some types of jobs are often difficult to fill by native-born workers due to low wages and/or the prestige attached to that kind of work. For example, farmers often rely on immigrant workers to pick crops."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Immigration leads to greater cultural diversity, giving a country a more diverse and inclusive feel.",
+        "spans": [
+          "Multi-cultural society. Away from economics, some feel that immigration leads to greater cultural diversity, which gives a country a more diverse and inclusive feel."
+        ]
+      }
+    ],
+    "clueweb22-en0010-50-07542": [
+      {
+        "point_number": 1,
+        "point_content": "Acceptance of refugees is a moral issue that involves respect for dignity and equality.",
+        "spans": [
+          "Throughout history, acceptance of refugees revolved around issues of morality, economics, security and political delineations.",
+          "Anne Frank’s story calls for respect to dignity and equality."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Anne Frank's diary symbolizes hope and a universal appeal for equality and acceptance regardless of differences.",
+        "spans": [
+          "Anne Frank is an ordinary girl living her prime as a teenager in a place that other girls of her age would never imagine to be; a place void of fun, dignity, freedom and normalcy.",
+          "Little did anyone know that a thirteen year old girl will turn out to be a representation of a universal message and her diary an instrument of appeal for equality in dignity and acceptance of each other regardless of our differences."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Refugees seek humane treatment and shelter in other nations, highlighting the ongoing need for acceptance.",
+        "spans": [
+          "there still are many “Anne Frank and her family” in different parts of the world being judged, discriminated upon and maltreated. Desperately trying to search for humane treatment, they chose to seek shelter in other nations hoping for a newfound home."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Breaking stigma and discrimination against refugees is essential for promoting universal acceptance and human rights.",
+        "spans": [
+          "Anne Frank’s story calls for respect to dignity and equality. Having the courage to face our fears will set the trend in breaking the stigma attached to the refugees.",
+          "No one ever has to face being judged and discriminated upon based on gender, race, beliefs and faith."
+        ]
+      }
+    ],
+    "clueweb22-en0032-21-07976": [
+      {
+        "point_number": 1,
+        "point_content": "Immigrants should be allowed because this is a country of immigrants and the U.S says this is the 'land of opportunity.'",
+        "spans": [
+          "Immigrants should be allowed because this is a country of immigrants.",
+          "The U.S says this is the 'land of opportunity.'"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "America was built on immigrants and is a melting pot of different people looking for a good life.",
+        "spans": [
+          "Yes, America was built on immigrants.",
+          "This country is so great and so diverse simply because of the fact that it was a \"melting pot\" for all sorts of different people looking for a good life."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The Declaration of Independence states that everyone is created equal and born with inalienable rights, so refusing immigrants goes against American principles.",
+        "spans": [
+          "In the Declaration it states that everyone is created equal and born with inalienable rights.",
+          "It would be going against the Declaration of Independence and what America stands for, Home of the Free and the Brave, if we refused to give others equality."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Immigrants come to work harder and give their kids a better future, which they might not have had the chance to get when they were younger.",
+        "spans": [
+          "Immigrants just come here to work harder and give their kids a better future something that they might not had the chance to get when they were younger!"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "All legal immigrants who go through the process of becoming a citizen should be welcomed with open arms.",
+        "spans": [
+          "All legal immigrants who go through the process of becoming a citizen should be welcomed with open arms."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "The Statue of Liberty symbolizes America's foundation to welcome the tired, poor, and homeless masses yearning to breathe free.",
+        "spans": [
+          "What happened to \"Give me your tired, your poor, Your huddled masses yearning to breathe free, The wretched refuse of your teeming shore. Send these, the homeless, tempest-tossed to me, I lift my lamp beside the golden door!\"? Where is the old Christian foundation of America? We swore to open our arms to all who needed it."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Families should be able to be together and immigrants come to the U.S. to work and have a better future.",
+        "spans": [
+          "Families should be able to be together.",
+          "She wants to come to the States to WORK! She has no future in Italy and can't make good money there."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Immigrants who work here and are trying to better their lives should be able to stay in the United States and have the same rights as Americans.",
+        "spans": [
+          "Immigrants who work here and are trying to better their lives should be able to stay in the Unites States and have the same rights as Americans."
+        ]
+      }
+    ],
+    "clueweb22-en0002-58-02734": [
+      {
+        "point_number": 1,
+        "point_content": "The U.S. economy and fiscal system need more immigrants due to the aging native white population.",
+        "spans": [
+          "With the native white population aging rapidly, the U.S. economy and fiscal system are in need of other groups to pick up the slack."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The aging baby-boomer population increases the age-dependency ratio, creating financial challenges for the nation.",
+        "spans": [
+          "Demographers and economists have been warning that the aging baby-boomer population presents a serious challenge to the nation’s finances, as the ratio of seniors to working-age adults—the age-dependency ratio—rises."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The age-dependency ratio is rising sharply and is projected to continue rising, increasing the financial burden on working-age people.",
+        "spans": [
+          "By 2030, “the ratio would climb to 35 retiree-age Americans for every 100 of working age . . . and 42 by 2060,” the Journal story said, citing projections released earlier this year."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Immigration increased the working-age population but was not enough to offset declining birth rates.",
+        "spans": [
+          "During those twenty years, according to Census Bureau data, the total number of foreign-born people (documented and undocumented) living in the United States roughly doubled, to about forty million.",
+          "But this influx of working-age people—the vast majority of whom are immigrants of working age—wasn’t enough to offset a decrease in birth rates that began in the nineteen-seventies and has recently accelerated."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The fertility rate is below replacement level, leading to a declining population and rising dependency ratio.",
+        "spans": [
+          "Merely to replace the existing population, the fertility rate needs to be about 2.1 per cent.",
+          "In 2017, it was just 1.76 per cent.",
+          "If this trend persists, as it seems likely to do, it portends a declining population and a sharply rising dependency ratio."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Welcoming more younger immigrants is a viable solution to support the workforce and tax base.",
+        "spans": [
+          "The final option is to welcome more immigrants, particularly younger immigrants, so that, in the coming decades, they and their descendants will find work and contribute to the tax base."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Immigration raises GDP and stimulates business development by increasing the supply of workers and entrepreneurs.",
+        "spans": [
+          "Almost all economists agree that immigration raises G.D.P. and stimulates business development by increasing the supply of workers and entrepreneurs."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Second-generation immigrants have a more favorable net fiscal impact than first-generation immigrants or native-born population.",
+        "spans": [
+          "“Second-generation adults—the children of immigrants—had, on average, a more favorable net fiscal impact for all government levels combined than either first-generation immigrants or the rest of the native-born population,” a study of the period from 1994–2013 by the National Academies of Sciences, Engineering, and Medicine, published in 2016, pointed out."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Welcoming immigrants is a good long-term investment for the United States.",
+        "spans": [
+          "In the long run, welcoming immigrants is a good investment for the United States."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "The U.S. needs immigrants to compensate for the declining white population and birth rates.",
+        "spans": [
+          "with the native white population aging rapidly, the U.S. economy and fiscal system are in dire need of other groups to pick up the slack."
+        ]
+      }
+    ]
+  }
+}

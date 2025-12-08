@@ -1,0 +1,891 @@
+{
+  "question": "what can be done differently? (areas that needed more focus in the appraisal year)",
+  "key_points": {
+    "clueweb22-en0044-19-10062": [
+      {
+        "point_number": 1,
+        "point_content": "Reflect on past work experiences and identify situations that didn't turn out ideally to understand what could have been done differently.",
+        "spans": [
+          "Start by reflecting on past work experiences.",
+          "Make a list of situations that didn't turn out the way you would have liked."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Focus on what you did after a negative event to improve and learn, rather than dwelling on the event itself.",
+        "spans": [
+          "The key to a strong response is to make sure the overall answer reflects positively on you.",
+          "That means you'll want to focus on what you did after the negative event — and not on the event itself."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Turn potential weaknesses into learning opportunities by upgrading skills, increasing knowledge, or modifying behaviors.",
+        "spans": [
+          "Turn potential weaknesses into learning opportunities.",
+          "Mention any steps you took to upgrade your skills, increase your knowledge base, or modify counterproductive behaviors."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Talk about how you would handle a similar situation now to show growth and learning.",
+        "spans": [
+          "Talk about how you'd handle the situation now.",
+          "It can be helpful to talk about how you'd deal with a similar situation now. This shows how you've grown and learned."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Be honest about your weaknesses and the steps taken to address them.",
+        "spans": [
+          "Be honest.",
+          "As with all interview responses, be sure to select issues you can discuss honestly and sincerely, since interviewers will usually notice fabrications."
+        ]
+      }
+    ],
+    "clueweb22-en0046-65-00078": [
+      {
+        "point_number": 1,
+        "point_content": "Identify areas that need improvement by comparing what is going well with what others do better and finding the gap.",
+        "spans": [
+          "When you are thinking about your work's functional areas and how you might identify an area that needs improvement, examine what is going well. Take what’s going well and then try to compare that against someone else who you think does an even better job than you. Then fill the missing gap with what that area is."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Focus on areas you are already decent at but want to improve, which are not directly correlated to the job function but valued by the employer.",
+        "spans": [
+          "An area you are working to improve but are already decent at.",
+          "An area of improvement that isn’t directly correlated to the job function being performed correctly.",
+          "An area of improvement that your employer might value (customer support, for example)."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Maintain confidence by highlighting what you do well and how you could do it better, avoiding complaints or bragging.",
+        "spans": [
+          "Even though there are things that you wish you could be doing better, the important factor in the way that you answer this question is to retain your confidence. Be confident in what you can do and then shed some light on what you could be doing better. Don’t use this as an opportunity to talk about what you “can’t do.” Use this as an opportunity to talk about what you do well and how you could be doing it even better.",
+          "Don’t use this question as a platform to: Complain about the job. Talk about skills you don’t have. Talk about “things” you wish were different. Don’t use this as a platform to brag."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Examples of areas to improve include communication skills, learning new technical skills, and increasing customer engagement.",
+        "spans": [
+          "I feel there’s always room to improve communication skills.",
+          "I’m proficient in a handful of programming languages. But I never took enough time to learn about PHP.",
+          "There’s a lot of value in being able to speak with customers. ... I find myself not reaching out to the customers enough."
+        ]
+      }
+    ],
+    "clueweb22-en0031-73-10419": [
+      {
+        "point_number": 1,
+        "point_content": "Goal-setting can be improved by dividing long-term goals into smaller parts, writing them down, and creating a vision board.",
+        "spans": [
+          "Divide long-term goals into smaller, more achievable parts.",
+          "Write down your goals in a journal, as a checklist, in a spreadsheet or an electronic document in your phone that you can refer to frequently.",
+          "Create a vision board with a visual representation of your goals."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Communication can be enhanced by balancing meetings, establishing routines, and rotating discussion leaders.",
+        "spans": [
+          "Create a balance between meetings, one-on-one conferences and electronic communication to accommodate preferences.",
+          "Establish a fixed appointment or routine that helps facilitate timely conversation.",
+          "Assign a rotating discussion leader for in-person meetings so all members of the team have a chance to lead and facilitate discussion."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Collaboration can be developed through brainstorming, team-building activities, and working on smaller tasks with coworkers.",
+        "spans": [
+          "Build camaraderie through brainstorming sessions, giving equal attention to all members’ ideas and input.",
+          "Participate in team-building activities or working retreats to learn each other’s strengths and weaknesses and build a culture of supporting one another.",
+          "In advance of a more involved project, work with various coworkers on smaller tasks to determine which partnerships will be effective for long-term success."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Listening skills can be improved by making eye contact, allowing silence, expressing appropriate emotion, and asking follow-up questions.",
+        "spans": [
+          "Make eye contact and avoid glancing at distractions, such as computers or cell phones.",
+          "Allow the other person time to think by not talking or interrupting during moments of silence.",
+          "Express emotion appropriate to the situation, such as empathy, happiness, congratulations or encouragement.",
+          "Ask thoughtful follow-up questions for clarification or to give the other person an opportunity to provide more detail."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Conflict resolution can be improved by training, calming down before discussion, and using non-accusatory language.",
+        "spans": [
+          "Participate in an organized conflict resolution training in a neutral environment before problems arise.",
+          "Walk away from the conflict if you feel too emotional—and wait until you feel calmer to discuss your concerns.",
+          "Avoid accusing each other. Instead, try the following phrasing: “ When you[miss our morning meeting], I feel[disrespected].”"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Adaptability can be enhanced by accepting changes, reassessing project scope with the team, and using calming mantras.",
+        "spans": [
+          "Before a project begins, acknowledge and accept that there will likely be adjustments.",
+          "If a project changes course, take time with your team to reassess and redefine the scope much as you would at the beginning of a project by soliciting feedback and input from all members of the team.",
+          "Use mantras or read inspiring quotations that keep you calm and focused on outcomes, even if many aspects of your work change."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Organization can be improved by dedicating daily time, creating a functional system, and prioritizing tasks.",
+        "spans": [
+          "Devote some amount of time each workday to organization, such as filing paperwork for 30 minutes after lunch or entering progress into a spreadsheet.",
+          "Create a functional organization system—with physical file folders and backups on an external hard drive or cloud storage—where documents and files are labeled clearly and consistently.",
+          "Keep high-priority tasks at the forefront of your organization system, whether that is an inbox for paper on your desk or an electronic task-management system that helps you with reminders and alerts."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Accepting constructive feedback can be improved by fostering a feedback culture, training, and being humble to implement changes.",
+        "spans": [
+          "Encourage your company to foster a culture where both positive feedback and suggestions for improvement are a regular part of office communication.",
+          "Participate in a training that teaches best practices for constructive feedback.",
+          "When you receive constructive feedback where correction is warranted, try to be humble and assess how you can implement even a small change."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Integrity can be demonstrated by being honest, using company resources properly, and taking responsibility for work.",
+        "spans": [
+          "Be open and transparent when dealing with financial transactions like petty cash, company credit cards or turning in receipts for reimbursement. Only use company funds for allowed purchases.",
+          "Use company time wisely by working hard on your assigned tasks during the hours you are expected to be there.",
+          "Follow up on answers you have promised others, meet your deadlines without excuses and take responsibility for the results of your work."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Productivity can be increased by focusing on one task, creating a daily system, and taking short breaks.",
+        "spans": [
+          "Try to focus on one task rather than multi-tasking. You can try closing your office door, silencing your phone or shutting down your computer for a period of time to meet a deadline. Every time you look away from the task, it may diminish your focus and increase the overall time it takes to finish.",
+          "Create a system that you can follow every day. That might be making a list every morning, checking email only at certain times of the day or being accountable to a coworker for motivation. Find something you know will be sustainable for how you like to work.",
+          "Take short breaks when you feel especially challenged or tired. A short walk, some desk yoga or a snack can help you feel revitalized and more able to refocus on the task."
+        ]
+      }
+    ],
+    "clueweb22-en0005-69-19304": [
+      {
+        "point_number": 1,
+        "point_content": "The appraisal meeting focuses on discussing your work performance, outcomes, feedback, and future tasks and things to focus on.",
+        "spans": [
+          "discussion will be regarding your work performance, outcomes, feedback, and future tasks and things to focus on"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "You should build a list of development goals as part of your preparation for the performance review.",
+        "spans": [
+          "Build a list of development goals"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "When asked about any complaint or issue, accept responsibility and focus on a common solution rather than blaming others.",
+        "spans": [
+          "When asked about any complaint or issue, the employee should first accept that they know what the problem is and be responsible for it, instead of defending.",
+          "The employee should answer in a way that the solution is a common one which is suitable for everyone and not only for them."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Speak about the goals you have accomplished, how you accomplished them, and ways to succeed with future goals.",
+        "spans": [
+          "the employee should remember to speak about the goals he has accomplished, how he accomplished and ways to succeed with the future for new goals"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Be honest in your self-appraisal answers during the appraisal session.",
+        "spans": [
+          "providing honest self-appraisal answers are mandatory"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Mention your weaknesses realistically and in a positive way by highlighting small work-related faults.",
+        "spans": [
+          "When an employee is asked about his weakness in a performance appraisal, he needs to answer in a smart way.",
+          "It is required to be realistic and answer the question in a positive trait by mentioning small work-related faults."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Maintain a positive attitude during the appraisal session and take ownership of any past issues.",
+        "spans": [
+          "It is always good to maintain a positive attitude during the appraisal session.",
+          "The answers should be truthful and the employee should take ownership of any hassles that have happened previously."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Prepare and practice your answers before the appraisal to ensure confident and strong responses.",
+        "spans": [
+          "To ensure confident conveyance of answers, practicing is the right way.",
+          "Before you perform, it is better to prepare performance appraisal questions to ask your boss and the achievements and failures that you have crossed in the past."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Focus on the goals, job plan, and description clearly as goal setting is the main aspect while preparing for an appraisal.",
+        "spans": [
+          "The goals, job plan, and description should be clear by the employee.",
+          "Goal setting is the main aspect while preparing for an appraisal by which the performance is evaluated."
+        ]
+      }
+    ],
+    "clueweb22-en0007-94-01361": [
+      {
+        "point_number": 1,
+        "point_content": "Communicate clear goals and expectations to your employees",
+        "spans": [
+          "Communicate clear goals and expectations to your employees"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Share information and numbers to increase employees’ sense of ownership",
+        "spans": [
+          "Share information and numbers",
+          "Improve performance through transparency – By sharing numbers with employees, you can increase employees’ sense of ownership."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Encourage open communication and address employee concerns",
+        "spans": [
+          "Encourage open communication",
+          "Address their concerns in the best way you can."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Communicate important updates promptly to avoid negative impact on engagement",
+        "spans": [
+          "Not communicating or communicating late can damage engagement",
+          "Ensure employees hear these messages from the business as soon as possible."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Actively promote organizational effectiveness, reputation, values and ethics",
+        "spans": [
+          "Actively promote organizational effectiveness, reputation, values and ethics"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Encourage employees to find a personal fit with the company culture",
+        "spans": [
+          "Encourage employees to find a personal fit with the company culture."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Let staff tell their own stories about supporting company strategies or values",
+        "spans": [
+          "Let staff tell their own stories"
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Build trust among employees and leadership",
+        "spans": [
+          "Trust",
+          "Employees need to trust each other as well as their leadership."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Show genuine concern for employees’ opinions and use social media to build engagement",
+        "spans": [
+          "Build engagement",
+          "Show that you’re genuinely concerned about employees’ opinions and use social media as a communications tool to build engagement."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Encourage innovation as engaged employees are innovative",
+        "spans": [
+          "Encourage innovation",
+          "Engaged employees are innovative."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Create a strong team environment to enhance employee engagement",
+        "spans": [
+          "Create a strong team environment"
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "Foster a sense of belonging through non-work activities",
+        "spans": [
+          "Sense of belonging",
+          "Non-work activities that foster relationships increase employee engagement."
+        ]
+      },
+      {
+        "point_number": 13,
+        "point_content": "Provide constant positive feedback to boost morale",
+        "spans": [
+          "Provide constant feedback on the positives"
+        ]
+      },
+      {
+        "point_number": 14,
+        "point_content": "Give immediate feedback as a daily occurrence, not just annual reviews",
+        "spans": [
+          "Give immediate feedback"
+        ]
+      },
+      {
+        "point_number": 15,
+        "point_content": "Show how employee feedback is being used",
+        "spans": [
+          "Show how feedback is being used"
+        ]
+      },
+      {
+        "point_number": 16,
+        "point_content": "Support employees in their work and growth through education, coaching, and development opportunities",
+        "spans": [
+          "Support employees in their work and growth"
+        ]
+      },
+      {
+        "point_number": 17,
+        "point_content": "Encourage collaboration and shared problem-solving to empower employees",
+        "spans": [
+          "Collaborate and share on problem-solving"
+        ]
+      },
+      {
+        "point_number": 18,
+        "point_content": "Use delegation as a growth opportunity and to increase employee ownership",
+        "spans": [
+          "Delegation"
+        ]
+      },
+      {
+        "point_number": 19,
+        "point_content": "Use incentives matched to accountability and results, recognizing different motivators",
+        "spans": [
+          "Incentives"
+        ]
+      },
+      {
+        "point_number": 20,
+        "point_content": "Celebrate both financial and non-financial achievements to validate employees",
+        "spans": [
+          "Celebrate both financial and non financial achievements"
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0031-63-08871": [
+      {
+        "point_number": 1,
+        "point_content": "The failure was due to not prioritizing the business model and assuming money-making would come eventually.",
+        "spans": [
+          "we did not prioritize our business model because we [wrongly] assumed that eventually we would figure out a way to make money"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The focus was on acquiring new users without understanding why users were not retained.",
+        "spans": [
+          "we focused our efforts on acquiring new users and didn't strive to understand why users weren't sticking around until it was too late"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Launching the app without a payment system delayed revenue generation and hurt the business.",
+        "spans": [
+          "we decided that we would launch the App with a payment system that would allow us to collect an 18% commission per transaction. However, when we heard we would have to push back our App launch for another 6 weeks we said NO WAY. Let's launch without payment."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Not making money early on was a huge issue when trying to raise Series A funding.",
+        "spans": [
+          "The problem? We weren't making any money. When we started raising our Series A we realized that this was a HUGE issue."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "It is important to have a clear idea of how to make money from the start and start generating revenue as soon as possible.",
+        "spans": [
+          "My advice to you: have a very clear idea of how you're going to make money from the very start and start generating revenue as soon as possible."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Focusing on user acquisition without addressing poor retention was a critical mistake.",
+        "spans": [
+          "I kept focusing on making the App grow while spending very little money, but I failed to act upon the fact that the majority of our users were leaving the App and not coming back."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "The core business assumption about user behavior was wrong, leading to poor user retention.",
+        "spans": [
+          "The thesis of our business assumed that college students would prefer shopping on Modabound because they'd be able to purchase items \"on a whim\" and wear it out that same day, whenever they wanted to shop for a new outfit. But the truth ended up being that there was too much friction for them to transact in that manner, so users didn't bother to come back after having a mediocre first-time experience."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "The peer-to-peer transaction model requiring meet-ups caused user frustration and poor retention.",
+        "spans": [
+          "Modabound required users to message one another, arrange a meet-up and complete purchases in person. ... Most users had a difficult time arranging meet-ups; they got frustrated when other people cancelled or didn't show up to a meet-up (understandably), and users only need one bad experience to decide that they'll never come back."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Avoid ignoring big problems out of fear; focus on retaining users as retention is the toughest part.",
+        "spans": [
+          "it's foolish to turn your back on big problems because you're not sure what to do about it. And I think it's safe to say that you should always focus on retaining users because that's the toughest part."
+        ]
+      }
+    ],
+    "clueweb22-en0034-11-01985": [
+      {
+        "point_number": 1,
+        "point_content": "Identify areas in which you need to improve during the appraisal interview.",
+        "spans": [
+          "Identify Areas of Improvement",
+          "Be sure to take feedback, and identify areas in which you need to improve"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Ask for extra support or soft skill training if required.",
+        "spans": [
+          "Don’t forget to ask for extra support or soft skill training if you feel it’s required"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Be honest about mistakes or misses and focus on plans to cover gaps in the future.",
+        "spans": [
+          "Be honest about what went wrong and prepare what you would like to say with respect to mistakes or misses",
+          "Tackle such situations with a brief, practical outline of what you plan to do to cover up these gaps in future"
+        ]
+      }
+    ],
+    "clueweb22-en0012-77-03097": [
+      {
+        "point_number": 1,
+        "point_content": "Time management is a key area that needs focus to avoid delays and increase productivity.",
+        "spans": [
+          "Time management is very important for your business success.",
+          "Time management opportunities will be its biggest area.",
+          "Developing the best practice for time management to encourage your entire staff to use their time knowing, which is one of the important areas of improvement for an appraisal."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Teamwork and interpersonal communication skills are essential and need improvement through training or mentoring.",
+        "spans": [
+          "Teamwork is essential for the success of most organizations, and good interpersonal communication skills are essential in most cases of group projects.",
+          "In the field of improvement, active listening, productive brainstorming, and collaborative work attempts are included.",
+          "If you do not have anyone who can manage such training, employ a mentor, or send staff to the workshop."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Confidence is important for employee productivity and dedication and should be developed.",
+        "spans": [
+          "Confidence is such a power that multiplies the productivity and efficiency of an employee.",
+          "Having strong confidence is one of the strengths and areas of performance improvement for employees."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Organization skills help with time management and task completion and should be encouraged.",
+        "spans": [
+          "Organizations can make time management a lot easier.",
+          "Encourage your employees to create a daily schedule of up to three or four jobs, and set priority which should be focused on them."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Experience is valuable and employees should be encouraged to gain more experience to improve performance.",
+        "spans": [
+          "An experienced employee is a great resource for the organization.",
+          "Gathering experience is one of the strengths and areas of performance improvement for employees."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Business communication skills need to be accurate and professional, and internal style guides can help improve this.",
+        "spans": [
+          "Develop an internal stylebook for corporate communications improves employee skills in this key area.",
+          "Also, set the parameters to which your organization should represent from that perspective."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Customer service skills need improvement through training and leading by example.",
+        "spans": [
+          "Customer service affects the low quality of service, so running service training should be part of the performance objective of every employee.",
+          "One of the best ways to improve your employee’s customer service skills is by showing them what you are saying and doing."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Personal assessment by employees helps identify areas for improvement and skill development.",
+        "spans": [
+          "Employees should be encouraged to handle their own personal assessment of their expertise in order to find suitable ways to relate their current roles and improve them, which is one of the vital areas of improvement for an appraisal."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "A positive attitude is important for teamwork and productivity and should be fostered.",
+        "spans": [
+          "A positive attitude is one of the strengths and areas of performance improvement for employees.",
+          "When an employee possesses a positive attitude, she is naturally a good personality, a good team player and a result-oriented worker."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Attention to detail and accuracy is valuable and should be encouraged.",
+        "spans": [
+          "When an employee is attentive to his attention – there is no end to his work.",
+          "He enjoys his work and turns to be a valuable resource for an organization."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Cooperation among employees is necessary for overcoming obstacles and achieving potential.",
+        "spans": [
+          "And your staff will need their supporters and their team to run their full potential and to overcome obstacles in their way."
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "Professional development through training, education, and workshops can improve performance and prepare for leadership roles.",
+        "spans": [
+          "Professional development is an always classified class for top actors who are not doing anything poorly but can improve performance with additional skill training or counseling.",
+          "Work shadows, cross-training, ongoing education, or their role related conferences and workshop recommendations."
+        ]
+      },
+      {
+        "point_number": 13,
+        "point_content": "Energy and stamina, both mental and physical, are important for employee performance.",
+        "spans": [
+          "An employee has to be energetic with full of stamina- both mental and physical.",
+          "Keeping energy is one of the strengths and areas of performance improvement for employees."
+        ]
+      },
+      {
+        "point_number": 14,
+        "point_content": "Conflict resolution skills should be developed to reduce management burden and improve workplace harmony.",
+        "spans": [
+          "If you can train your staff to resolve their own discrepancy, then it will benefit your business 100 times with areas of improvement examples for employees."
+        ]
+      },
+      {
+        "point_number": 15,
+        "point_content": "Setting specific, measurable goals helps improve employee performance.",
+        "spans": [
+          "Some positions are easy to measure success.",
+          "Employees can improve their performance by defining specific, measurable goals and objectives."
+        ]
+      },
+      {
+        "point_number": 16,
+        "point_content": "Effective listening skills increase productivity and reduce mistakes.",
+        "spans": [
+          "Effective listening is not just listening, essential for the communication and the success of your business for a list of areas of improvement for employees.",
+          "When you increase the hearing skills of all your employees, their productivity will increase, they make fewer mistakes and they (and your clients) will be much happier."
+        ]
+      },
+      {
+        "point_number": 17,
+        "point_content": "Written communication quality should be improved through internal style guides and training.",
+        "spans": [
+          "If your business relies on written communication, consider creating an internal stylebook for your employees to compile.",
+          "Then encourage your team members to encourage them whenever possible."
+        ]
+      },
+      {
+        "point_number": 18,
+        "point_content": "Employees need to gain more industry-specific knowledge for better decision making and business success.",
+        "spans": [
+          "It is needed to gain more industry-specific knowledge for further development and growth.",
+          "Gathering knowledge is one of the strengths and areas of performance improvement for employees."
+        ]
+      },
+      {
+        "point_number": 19,
+        "point_content": "Meeting deadlines is crucial and employees should develop habits to finish work on time.",
+        "spans": [
+          "Meeting deadlines is a great challenge for many business organizations to execute big deals.",
+          "An employee can improve his efficiency by making a habit to finish a job on time."
+        ]
+      },
+      {
+        "point_number": 20,
+        "point_content": "Learning new skills increases employee value and versatility.",
+        "spans": [
+          "Everyone will benefit from learning new skills.",
+          "With the new skill, you can use team members in different capacities and they will not be a “one-trick pony” which is good at just one thing."
+        ]
+      },
+      {
+        "point_number": 21,
+        "point_content": "Setting targets and development plans helps employees grow and achieve goals.",
+        "spans": [
+          "Setting target is one of the strengths and areas of performance improvement for employees.",
+          "Your team members can create an employee development plan that they can follow in a sure way to help reach their goals."
+        ]
+      },
+      {
+        "point_number": 22,
+        "point_content": "Training employees to handle difficult situations improves customer interactions and business outcomes.",
+        "spans": [
+          "Provides you can even host an in-house skill lab that plays a role in the staff encouraging customer interactions and discussing the best ways to handle difficult situations with the help of emotional intelligence collectively."
+        ]
+      },
+      {
+        "point_number": 23,
+        "point_content": "Commitment and dedication align employees with business goals and improve project execution.",
+        "spans": [
+          "When the employees in an organization are committed and dedicated to their accountability and responsibility, they stay in the streamline of core business goals and direct to areas employees can improve.",
+          "Commitment and dedication are strengths and areas of performance improvement for employees."
+        ]
+      },
+      {
+        "point_number": 24,
+        "point_content": "Setting priorities helps employees focus on important and urgent tasks, saving resources.",
+        "spans": [
+          "Setting priority and focusing on jobs accordingly is a way to save money, time, and resources for the organization."
+        ]
+      },
+      {
+        "point_number": 25,
+        "point_content": "Providing feedback and constructive criticism helps employees improve their work.",
+        "spans": [
+          "Feedback and constructive criticism are an important factor in improving the way your employees work.",
+          "Offer constructive, precise feedback, and set achievable goals for conducting regular performance evaluation, improving the performance of everyone at work."
+        ]
+      },
+      {
+        "point_number": 26,
+        "point_content": "Keeping employees focused and engaged improves productivity and performance.",
+        "spans": [
+          "A large part of your job as a manager is to keep your team focused and involved, which is one of the dynamic areas of improvement for an appraisal.",
+          "But your employees can learn how to improve their productivity and performance for areas of improvement for employee appraisal."
+        ]
+      }
+    ],
+    "clueweb22-en0000-91-02865": [
+      {
+        "point_number": 1,
+        "point_content": "The goals setting process is both top-down and bottom-up, involving planning meetings at each organizational level.",
+        "spans": [
+          "The goals setting process is both top-down and bottom-up:"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Most organizations usually determine up to five key objectives for employees to focus on effectively.",
+        "spans": [
+          "Most organizations usually determine up to five key objectives, which the employees can focus on effectively."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The total weight of all objectives must sum up to 100%, indicating priority and influence on appraisal grade.",
+        "spans": [
+          "The total weight of all objectives must sum up to 100%. The weights help the employees to know which objectives are with higher priority compared to others, and will have more influence on their total grade at the end of the appraisal process."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Goals must be set up for both short term and long term, based on department outcomes and employee skill development respectively.",
+        "spans": [
+          "Goals must be set up for short term and long tern:",
+          "Short term goals: Are based on the department’s most updated outcomes.",
+          "Long term goals: Are based on the skills and abilities employees can achieve and develop for a long period of time."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Each goal should meet the SMART principles: Specific, Measurable, Achievable, Realistic, Time bound.",
+        "spans": [
+          "Each goal and objective should meet the following five principles, known as the SMART principles:",
+          "S for S pecific: the goals must be precise and as clear as possible",
+          "M for M easurable: each goals can be measured and evaluated objectively",
+          "A for A chievable: the employee is responsible for achieving the goals and he/she can affect it",
+          "R for R ealistic: the goals should be practical and attainable.",
+          "T for T ime bound: each goal has to be achieved in a pre-defined time limit."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Mid-Year Review Meetings are recommended to review and adjust objectives based on changes in business terms and priorities.",
+        "spans": [
+          "An optional phase, which is very recommended, is to set Mid-Year Review Meetings, in which the manager will review the employee’s performance in respect of the objectives set at the beginning of the year. This step is quite important because the business terms, assumptions, responsibilities and priorities, which were made a few months before, could have been changed and therefore the organization must adjust itself to these changes."
+        ]
+      }
+    ],
+    "clueweb22-en0021-01-09375": [
+      {
+        "point_number": 1,
+        "point_content": "Time management can be improved by creating to-do lists, using scheduling software, task-tracking programs, setting reminders, and managing schedules closely.",
+        "spans": [
+          "Ways to improve time management: Creating to-do lists, using free scheduling software or applications, using task-tracking programs, setting digital reminders and managing a daily or weekly schedule closely."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Customer service skills can be enhanced by shadowing coworkers, practicing customer interactions, taking training courses, or working with a coach.",
+        "spans": [
+          "Ways to improve customer service: Shadow and mimic a coworker known for their excellent customer service, ask a colleague or manager to practice customer interactions or explain how to handle challenging situations, take online service training courses or work with a customer service coach."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Teamwork can be improved by developing communication and interpersonal skills, engaging in face-to-face interactions, complimenting coworkers, celebrating achievements, and scheduling team outings.",
+        "spans": [
+          "Ways to improve teamwork: Develop communication and interpersonal skills, speak with coworkers in person rather than always digitally, compliment them for a job well done, take time to celebrate achievements and milestones, schedule regular team lunches or outings to encourage discussion and camaraderie outside the office."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Interpersonal skills can be improved by taking courses or practicing active listening and empathy, observing others, working with a mentor, maintaining eye contact, and being aware of body language.",
+        "spans": [
+          "Ways to improve interpersonal skills: Take courses on or practice traits such as active listening and empathy. Observe other employees' interpersonal interactions or work with a mentor on this skill. Maintain eye contact and be aware of body language during meetings and conversations."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Communication skills can be improved by talking face-to-face, listening closely, asking questions, practicing what to say, and paying attention to body language.",
+        "spans": [
+          "Ways to improve verbal and nonverbal communication: To improve communication skills, talk to coworkers face-to-face when possible, listen closely when they speak and ask questions. Practice what you are going to say before you say it if needed. Pay attention to body language and adjust your communication style accordingly."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Writing skills can be improved by studying company style guides, using spelling and grammar checkers, and asking colleagues or managers to review and provide feedback.",
+        "spans": [
+          "Ways to improve writing skills: Study the company style guide for communications and written content if available, install a free spelling and grammar checker to find writing mistakes, ask a colleague or manager to proof or review content and offer feedback on how to improve it."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Accepting feedback can be improved by practicing listening, asking questions, maintaining a calm attitude, and thanking the person giving feedback.",
+        "spans": [
+          "Ways to improve feedback acceptance: Practice listening and ask questions about how you can improve, maintain a calm attitude and facial expression, practice a “matter-of-fact” mindset instead of feeling defeated or angry. Thank the person who gives you the feedback, regardless of whether you agree with them."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Organization skills can be improved by creating daily schedules, maintaining a clean work environment, using digital records, and creating electronic filing systems.",
+        "spans": [
+          "Ways to improve organization: Create a schedule each day that lists the things you need to do and in what order. Create a clean work environment to avoid losing documents or to-do lists in piles of paperwork. Use digital records and daily organizers to reduce the amount of paper to manage. Create electronic filing systems for all projects to quickly and easily access them when needed."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Flexibility can be improved by accepting various projects, learning new skills, and practicing ways to remain calm when plans change.",
+        "spans": [
+          "Ways to improve flexibility: Show a willingness to accept a variety of projects or assignments. Show interest in learning additional skills and practice ways to remain calm when plans change suddenly."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Problem-solving skills can be improved by observing coworkers, reflecting on past problems, remaining calm, and collaborating with others.",
+        "spans": [
+          "Ways to improve problem-solving skills: Watch coworkers you respect to see how they resolve issues in the workplace. After experiencing a problem, think through ways you might have handled it differently and take note for next time. Remain calm and collaborate with others, relying on people who may have skills you don’t."
+        ]
+      }
+    ],
+    "clueweb22-en0030-53-13206": [
+      {
+        "point_number": 1,
+        "point_content": "A skill related to the job you’d like to improve",
+        "spans": [
+          "A skill related to the job you’d like to improve"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "A plan of action for improving it – better that this is already being implemented",
+        "spans": [
+          "A plan of action for improving it – better that this is already being implemented"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Knowing the company and the job description helps with this answer. Honestly evaluating yourself, then comparing what needs to improve to the job requirements will help formulate a strong answer for this question.",
+        "spans": [
+          "Knowing the company and the job description helps with this answer.  Honestly evaluating yourself, then comparing what needs to improve to the job requirements will help formulate a strong answer for this question."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The key is to mention skills that need moderate improvement, the current weakness won’t negatively impact the job, improvement will help the job, and there is a plan to improve.",
+        "spans": [
+          "The key is to mention skills that need moderate improvement, the current weakness won’t negatively impact the job, improvement will help the job, and there is a plan to improve."
+        ]
+      }
+    ],
+    "clueweb22-en0018-71-15223": [
+      {
+        "point_number": 1,
+        "point_content": "Identify areas for improvement by taking responsibility for where you fell short and focusing on steps to correct these in the future.",
+        "spans": [
+          "Identify areas for improvement",
+          "Being critical of your own performance is difficult, but we all go off track at times. Take responsibility for areas where you fell short, but focus on the steps you took or can take to correct these in future."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Example of an area needing more focus: improving familiarity with tools to avoid issues in meetings.",
+        "spans": [
+          "At the beginning of the year, some of our meetings went off course because I wasn't familiar enough with the conferencing tools to troubleshoot when things weren't working. I met with IT to get a better understanding of our software suite and was able to fix the most recent issues myself, and help other team members to do the same."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Example of an area needing more focus: improving time management to follow up with leads.",
+        "spans": [
+          "I have let some lead nurturing fall through the cracks the last few months because of the volume of new clients I've taken on. Going forward I will improve my time management and set aside a dedicated half hour a day to follow up with warm leads."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Suggest areas for professional development to close skills gaps and discuss with your manager how to address them.",
+        "spans": [
+          "Suggest areas for professional development",
+          "Everybody has skills that they can develop further, and organizations often have programmes in place to support these. The performance review is a great time to bring up skills gaps you want to close and to discuss with your manager how to go about that."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Example of professional development focus: improving design skills and knowledge of UI best practices through courses and conferences.",
+        "spans": [
+          "Next year I want to improve my design skills and knowledge of UI best practices. I've researched a couple of available courses and conferences where I'd learn not only the tools I need but would be able to hear new ideas and collaborate with other developers, bringing those skills back to the organization."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Example of professional development focus: developing leadership skills and becoming a mentor through coaching workshops and courses.",
+        "spans": [
+          "As our business grows I want to develop myself as a leader and become a mentor to my team members. Through coaching workshops and organizational psychology courses I will gain a broader knowledge of what motivates people and how I can work to get the best out of our collective talent."
+        ]
+      }
+    ]
+  }
+}

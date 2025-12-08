@@ -1,0 +1,120 @@
+{
+  "question": "what role should police organizations play in delinquency prevention and control?",
+  "key_points": {
+    "clueweb22-en0001-37-19554": [
+      {
+        "point_number": 1,
+        "point_content": "Police officers serve a vital role in the safety and well-being of the community and society at large and are typically the first ones on the scene when there's an issue, problem, or when a crime has been committed.",
+        "spans": [
+          "Police officers serve a vital role in the safety and well-being of the community and society at large.",
+          "they are typically the first ones on the scene when there's an issue, problem, or when a crime has been committed"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Police officers have discretion in how they handle juvenile delinquency cases and can choose to arrest, release, or refer juveniles to social service agencies depending on the crime.",
+        "spans": [
+          "Police officers have lots of discretion when it comes to how they handle a case or person.",
+          "Depending on the type of crime committed, they can arrest a suspect, but they can also let him or her go, or refer the offender to a social service agency for help."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Police officers play a significant role in the prevention of crime through community policing and linkages with community organizations, focusing on rehabilitative methods.",
+        "spans": [
+          "Police officers do have a responsibility to serve and protect, but they also play a significant role in the prevention of crime.",
+          "In this more modern approach, things like community policing and linkages with community organizations serve a very important purpose to reduce crime through more rehabilitative methods."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Law enforcement programs like the Law Enforcement Cadet Program introduce youth to law enforcement and teach responsibility, discipline, and character building as a form of delinquency prevention.",
+        "spans": [
+          "The Law Enforcement Cadet Program with the Los Angeles Police Department is a great example of a delinquency prevention program.",
+          "The program claims to teach responsibility, discipline, and character building skills."
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0015-23-02721": [
+      {
+        "point_number": 1,
+        "point_content": "Police departments have a role in delinquency prevention and control by working with families, schools and juvenile justice centers.",
+        "spans": [
+          "Working with families, schools and juvenile justice centers for one.",
+          "So yes, police departments have a role in this."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Police departments are often the only government program open 24/7/365, making them realistic providers of social services to children and families despite feasibility concerns.",
+        "spans": [
+          "No other govt program is open 24/7/365 except the police."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Police departments are criminal justice agencies and not social workers; social services and juvenile courts are tasked with intervention but often fail.",
+        "spans": [
+          "The Police Department is a criminal justice agency.",
+          "We are not social workers.",
+          "There are social services, including Juvenile Court that are tasked with intervention. As a rule, they fail miserably."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "If all other human services except police are defunded, police will often end up providing social services due to limited jail capacity and high costs of courts and jails.",
+        "spans": [
+          "If every conceiveable human service EXCEPT the police is defunded—as they all have been in the US for decades—the police will often wind up providing services.",
+          "Why? Because jails are limited in size and solve nothing, police budgets too are limited, and courts and jails are IMMENSELY more expensive to run than providing services would be."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Police presence in schools helps build relationships with students and allows officers to sense when something is wrong, aiding in delinquency prevention.",
+        "spans": [
+          "I don't know what other towns do but ours actually has an officer on duty at the high school during student hours.",
+          "The cop gets to know the students and can see or sense when something is off."
+        ]
+      }
+    ],
+    "clueweb22-en0020-69-04073": [
+      {
+        "point_number": 1,
+        "point_content": "The police should work with local communities and businesses to target persistently anti-social and criminal individuals and clamp down hard on even minor offences.",
+        "spans": [
+          "the main role of the police is to work with local communities and businesses to target those areas and individuals who are persistently anti-social and criminal and to clamp down hard on even minor offences"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Police should be very visible on the streets to act as a physical deterrent against crime.",
+        "spans": [
+          "the police being very visible on the streets to act as a physical deterrent against crime"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Police should work closely with the courts after offences have taken place.",
+        "spans": [
+          "the police working closely with the courts after offences have taken place"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Police should spend more time getting to know local communities, involving a less militaristic approach and befriending local youths to prevent crime in the long term.",
+        "spans": [
+          "the police should spend more time getting to know local communities – which involves a less militaristic approach to policing, speaking to and befriending local youths rather than pouring their beer down the drain and constantly ‘moving them on’",
+          "Policing for Left Realists is more about working with communities and not alienating them through ZT in order to prevent crime in the very long term"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Community Support Officers exemplify community policing and do not have enough powers to engage in Zero Tolerance approaches.",
+        "spans": [
+          "Community Support Officers are a good example of ‘community policing’ – they do not have enough powers to engage in Zero Tolerance approaches"
+        ]
+      }
+    ]
+  }
+}

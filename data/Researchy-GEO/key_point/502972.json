@@ -1,0 +1,332 @@
+{
+  "question": "why is it so hard to find workers",
+  "key_points": {
+    "clueweb22-en0024-44-00172": [
+      {
+        "point_number": 1,
+        "point_content": "Many small businesses say they are struggling to fill open positions despite high unemployment levels.",
+        "spans": [
+          "In spite of high unemployment levels, many small businesses say they are struggling to fill open positions."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Reasons people have given for turning down jobs or not returning include anxiety about COVID-19 exposure, lack of childcare, unemployment benefits paying more than some jobs, lack of skills, and jobs being perceived as harder and riskier.",
+        "spans": [
+          "Some of the most common causes for difficulty filling positions include: Anxiety about COVID-19 exposure. Lack of childcare, as not all schools are fully opened. Unemployment benefits may pay more than some available jobs. Lack of skills or certification for the available jobs (like heavy-lifting ability or a commercial driver’s license). The jobs are perceived as harder and riskier now than before the pandemic."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Pandemic-related causes such as fear of contracting COVID-19 and childcare issues are significant reasons for employee reticence.",
+        "spans": [
+          "Many people surveyed about their reasons for not returning to work have given pandemic-related causes. WSJ said millions of people surveyed included fear of contracting or transmitting COVID-19 as a reason for not going to work.",
+          "Also fueled by the pandemic are issues with childcare. Since some schools and daycares are still operating on altered schedules where not all students are in-person full-time, this leaves some parents without viable childcare options."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Unemployment benefits paying more than some available jobs may discourage people from taking those jobs.",
+        "spans": [
+          "A University of Chicago showed that 42 percent of those receiving jobless benefits were making more that way than at their previous employment (via WSJ ). Lorne Zaman, a concert promoter in Los Angeles, backed up this idea: \"If the government is going to pay you to stay home, you’re going to do that unless that job you really want comes along.”"
+        ]
+      }
+    ],
+    "clueweb22-en0031-61-02662": [
+      {
+        "point_number": 1,
+        "point_content": "Many businesses across the country, from resorts to restaurants, say they are struggling to hire enough employees.",
+        "spans": [
+          "Many businesses across the country, from resorts to restaurants, say they are struggling to hire enough employees."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Some conservatives and businesses blame the enhanced unemployment benefits, saying they’re incentivizing and paying workers to stay home rather than return to the workplace.",
+        "spans": [
+          "Some conservatives and businesses blame the enhanced unemployment benefits, saying they’re incentivizing and paying workers to stay home rather than return to the workplace."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Many labor economists say it’s not that simple and that placing the blame on extra unemployment support ignores the bigger picture.",
+        "spans": [
+          "many labor economists say it’s not that simple and that placing the blame on extra unemployment support ignores the bigger picture."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "They say a dearth of child care, poor transportation, lingering fears of workplace safety and poor wages are also factors.",
+        "spans": [
+          "a dearth of child care, poor transportation, lingering fears of workplace safety and poor wages are also factors."
+        ]
+      }
+    ],
+    "clueweb22-en0031-14-14043": [
+      {
+        "point_number": 1,
+        "point_content": "Potential workers are holding back due to fear of getting Covid, lack of child care and enhanced unemployment benefits.",
+        "spans": [
+          "fear of getting Covid, lack of child care and enhanced unemployment benefits"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Employers in sectors like manufacturing, restaurants and construction are struggling to find workers despite more job openings than before the pandemic.",
+        "spans": [
+          "employers in sectors like manufacturing, restaurants and construction are struggling to find workers",
+          "There are more job openings in the U.S. this spring than before the pandemic hit in March 2020"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "There are fewer people in the labor force compared to before the pandemic.",
+        "spans": [
+          "fewer people in the labor force"
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0028-16-13345": [
+      {
+        "point_number": 1,
+        "point_content": "Labour shortages are rising even though unemployment remains high in America.",
+        "spans": [
+          "Labour shortages are rising even though unemployment remains high"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Total vacancies are running at their highest level for at least two decades, indicating many unfilled positions.",
+        "spans": [
+          "Total vacancies are running at their highest level for at least two decades"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Job openings are leading to fewer hires than expected based on historical data, and wage growth is about 3%, suggesting firms are offering bigger pay packets to attract workers.",
+        "spans": [
+          "job openings are leading to fewer hires than you would expect based on the historical relationship between the two",
+          "wage growth, at about 3%, has been surprisingly robust, suggesting that firms are offering bigger pay packets to tempt workers"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Three potential explanations for the shortages are over-generous benefits, fearful workers, and reallocation of labour between industries.",
+        "spans": [
+          "There are three potential explanations for the puzzling shortages: over-generous benefits; fearful workers; and a reallocation of labour between industries"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "A federal supplement to unemployment insurance currently $300 a week means four in ten unemployed people earn more from benefits than from their previous job, which can blunt incentives to look for work.",
+        "spans": [
+          "A federal supplement to unemployment insurance (UI ), currently $300 a week, ensures that four in ten unemployed people earn more from benefits than they did in their previous job",
+          "Economic research has long concluded that more generous benefits blunt incentives to look for work"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "The relationship between benefits and work incentives has weakened during the pandemic, as increases in UI payments have been time-limited and their expiry had little effect on overall employment.",
+        "spans": [
+          "this relationship appears to have weakened during the pandemic",
+          "the UI supplement was even more generous, at $600, but its expiry in the summer had “little effect on overall employment”"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Fear of the coronavirus pandemic is causing nearly 4 million people not to look for work, especially in industries with high person-to-person contact like health care, recreation, and hospitality.",
+        "spans": [
+          "Nearly 4m people are not looking for work “because of the coronavirus pandemic”",
+          "Jobs in health care, recreation and hospitality report the highest level of job openings, relative to employment",
+          "Many of these involve plenty of person-to-person contact, making their workers especially vulnerable to infection"
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Industries where social distancing or being outside is easier, like construction, have fewer labour shortages.",
+        "spans": [
+          "in industries where maintaining social distancing or being outside is often easier, labour shortages are less of an issue",
+          "The number of job openings per employee in the construction industry is lower today than it was before the pandemic"
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "There is a reallocation of labour between industries due to changing consumer demands, causing job churn and mismatches between workers' skills and available jobs.",
+        "spans": [
+          "The final reason for worker shortages relates to the extraordinary reallocation of resources under way in the economy",
+          "The headline growth in vacancies represents the rise in opportunities in some industries—say, clerks in DIY stores—as others decline, reflecting changing consumer demands",
+          "Workers may take time to catch up with this creative destruction"
+        ]
+      }
+    ],
+    "clueweb22-en0038-62-16665": [
+      {
+        "point_number": 1,
+        "point_content": "Some industries are thriving and eager to hire, which should be welcome in an economy that has recovered only a little over half of the 22 million jobs lost during the coronavirus pandemic.",
+        "spans": [
+          "Some industries are thriving and eager to hire, which should be welcome in an economy that has recovered only a little over half of the 22 million jobs lost during the coronavirus pandemic."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "A lot of those openings are in industries that require in-person work, like construction, delivery services or warehousing — exactly the types of jobs now being shunned by many Americans in the midst of a fearful pandemic.",
+        "spans": [
+          "a lot of those openings are in industries that require in-person work, like construction, delivery services or warehousing — exactly the types of jobs now being shunned by many Americans in the midst of a fearful pandemic."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Martin says he has tried it all to hire workers. His company has offered higher wages and even posted good old-fashioned \"We're Hiring\" signs.",
+        "spans": [
+          "Martin says he has tried it all to hire workers. His company has offered higher wages and even posted good old-fashioned \"We're Hiring\" signs."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Most job seekers, she says, are looking for remote work. The problem is that those are not the jobs available right now.",
+        "spans": [
+          "Most job seekers, she says, are looking for remote work. The problem is that those are not the jobs available right now."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "only 1 in 10 job postings in the ZipRecruiter marketplace offers remote work as an option",
+        "spans": [
+          "only 1 in 10 job postings in the ZipRecruiter marketplace offers remote work as an option"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "There's this huge gap between the kinds of conditions under which people are prepared to work and the kinds of conditions that they actually find in the jobs that are available",
+        "spans": [
+          "There's this huge gap between the kinds of conditions under which people are prepared to work and the kinds of conditions that they actually find in the jobs that are available"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "For many workers, there's an understandable fear of getting sick and then infecting kids or other family members at home.",
+        "spans": [
+          "For many workers, there's an understandable fear of getting sick and then infecting kids or other family members at home."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "There are many, many people who have pulled back and are deciding to sort of wait out this year and come back to work when the conditions are right.",
+        "spans": [
+          "There are many, many people who have pulled back and are deciding to sort of wait out this year and come back to work when the conditions are right."
+        ]
+      }
+    ],
+    "clueweb22-en0015-31-00439": [
+      {
+        "point_number": 1,
+        "point_content": "Business owners often won’t let poor-performing employees go when they know the person is not a good fit, which hinders finding good workers.",
+        "spans": [
+          "Too often, business owners simply won’t let poor-performing employees go when they know the person is not a good fit."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Relying on outdated methods like help-wanted ads in the local paper instead of using social networks limits finding good employees.",
+        "spans": [
+          "there is simply no reason why a business owner should be stuck depending on a help-wanted ad in the local paper to find good people."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Business owners overvalue their own skills and believe no one can do their job as well, preventing delegation and growth.",
+        "spans": [
+          "Because of our inner pride, it’s easy to think that no one can do our job as well as we can."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "A business lacking a clear identity, culture, and unique appeal fails to attract potential employees.",
+        "spans": [
+          "Every company needs a face, a culture, and an identity. Without it, you simply won’t attract those persons looking for what you offer."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Underestimating employees' abilities and not allowing them to grow discourages good workers.",
+        "spans": [
+          "too often business owners don’t allow their employees to exercise their gifts and talents."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Negative attitude of business owners can repel potential employees and affect hiring success.",
+        "spans": [
+          "Business owners attract into their lives employees that are a reflection of who they are."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Only hiring experienced people limits the pool; hiring teachable and hardworking people is more effective.",
+        "spans": [
+          "As new business owners, we often times have this silly belief that it’s imperative to find great and experienced people in our field."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Believing and saying there are no good people out there is false and hinders the hiring process.",
+        "spans": [
+          "You keep saying there aren’t good people out there: Last but certainly not least, you’ve got to stop saying this, because it’s a lie."
+        ]
+      }
+    ],
+    "clueweb22-en0027-96-10530": [
+      {
+        "point_number": 1,
+        "point_content": "Many businesses and recruiting managers have no intention of filling all of those job openings.",
+        "spans": [
+          "many businesses and recruiting managers have no intention of filling all of those job openings"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Numerous positions advertised by businesses are not entirely available to external applicants because companies hire internally.",
+        "spans": [
+          "Companies hire internally",
+          "Numerous positions advertised by businesses are not entirely available to external applicants"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Many of the available positions cannot be advertised on public employment boards and are filled through recruiters or internal referrals.",
+        "spans": [
+          "Jobs aren't publicly posted",
+          "Many of the available positions can not be advertised on public employment boards",
+          "managers of these roles prefer to fill them through recruiters or internal referrals"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Positions are competitive with hundreds of applications for a single job ad, making it difficult to capture employer's attention.",
+        "spans": [
+          "Positions are competitive",
+          "Hundreds of applications might be received for a single job ad"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Companies are selective and look for ideal candidates who can add instant value due to changed employment market dynamics.",
+        "spans": [
+          "Companies can be selective",
+          "Employers need a quick return on their recruiting investment",
+          "They've grown increasingly picky in their hiring",
+          "They need to understand that you can add instant value to the organization"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Over 90% of companies use applicant tracking systems (ATS) to filter resumes, which can be a significant barrier for job seekers.",
+        "spans": [
+          "Applicant Tracking Systems are difficult",
+          "Over 90% of companies use an applicant tracking system, or ATS, to filter and categorize resume submissions"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "question": "are nursing spending too much time documenting using ehr",
+  "key_points": [
+    {
+      "point_number": 1,
+      "point_content": "EHRs help providers improve productivity and work-life balance by saving time with easier chart management and enabling them to track all aspects of a patient’s care, facilitating streamlined documentation and communication.",
+      "original_point_number": [
+        1,
+        14
+      ]
+    },
+    {
+      "point_number": 2,
+      "point_content": "EHRs help promote legible, complete documentation and accurate, streamlined coding and billing, with a critical performance requirement of generating clinical revenues by supporting providers’ billing and documentation to maximize revenue for each clinical service.",
+      "original_point_number": [
+        2,
+        5
+      ]
+    },
+    {
+      "point_number": 3,
+      "point_content": "Many physicians are unhappy with their electronic health records (EHRs) because they spend too much time keying in data and too little making eye contact with patients; current EHRs are clunky, poorly designed, hard to navigate, and cluttered with useless detail that colleagues have cut and pasted to meet documentation requirements.",
+      "original_point_number": [
+        3,
+        4
+      ]
+    },
+    {
+      "point_number": 4,
+      "point_content": "Current EHRs were not created to support many of the things that physicians, patients, and policymakers value, such as better care experiences, reduced costs, or improved care quality and population health management.",
+      "original_point_number": [
+        6
+      ]
+    },
+    {
+      "point_number": 5,
+      "point_content": "Clinicians unhappy with EHRs have a huge stake in moving from fee-for-service to value-based payment, so that providers and their EHR vendors start to prioritize the production of health and the reduction of waste in health systems, which will reduce documentation requirements.",
+      "original_point_number": [
+        7
+      ]
+    },
+    {
+      "point_number": 6,
+      "point_content": "A second requirement will be to lower the burden of data entry, with solutions like using scribes or natural language processing and artificial intelligence to enable clinicians’ conversations with patients and their subsequent assessment and treatment plan to be recorded in real time.",
+      "original_point_number": [
+        8
+      ]
+    },
+    {
+      "point_number": 7,
+      "point_content": "Another approach to assisting data entry is to systematically redesign records for ease of use and to prune away unnecessary recording requirements.",
+      "original_point_number": [
+        9
+      ]
+    },
+    {
+      "point_number": 8,
+      "point_content": "Nurse Informaticists play a crucial role in evaluating healthcare data and identifying areas of opportunity within clinical settings for improvement, focusing on reducing strain on nursing and management teams while increasing patient care and satisfaction; they help train clinical staff on new tools and implement digital management systems to streamline documentation and communication.",
+      "original_point_number": [
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "point_number": 9,
+      "point_content": "By taking advantage of data-sharing technology, documentation can be standardized and redundant documents eliminated, enhancing interdepartmental and cross-organizational communication.",
+      "original_point_number": [
+        13
+      ]
+    },
+    {
+      "point_number": 10,
+      "point_content": "Nurses spend a significant portion of their time on documentation (35% or 3.5 hours per workday), with 49% reporting discomfort while inputting charting data; physical strain can be increased by ergonomic issues with computer equipment, leading to less friendly or limited patient interaction and increased need for assistance from other staff.",
+      "original_point_number": [
+        15,
+        16,
+        17,
+        18
+      ]
+    },
+    {
+      "point_number": 11,
+      "point_content": "A survey from HIMSS Analytics revealed that nurses were less likely to think that EHRs help with efficiency and many responded that EHRs did not allow them to spend more time with patients.",
+      "original_point_number": [
+        19
+      ]
+    },
+    {
+      "point_number": 12,
+      "point_content": "More than half of nurses were not documenting their nursing care adequately, with lack of time, shortage or inadequacy of documenting sheets, and unfamiliarity with operational standards significantly associated with poor nursing documentation practice; majority of nurses denied the application of computerized nursing documentation in their hospital, implying documentation is mostly manual.",
+      "original_point_number": [
+        20,
+        21,
+        22,
+        23,
+        24
+      ]
+    },
+    {
+      "point_number": 13,
+      "point_content": "Since 1995, CMS policies have tied reimbursement for evaluation and management services to documentation requirements, influencing the documentation structure of EHRs; the 2009 Health Information Technology for Economics and Clinical Health Act launched the Medicare and Medicaid Meaningful Use reward and incentive program to encourage EHR implementation and align financial incentives.",
+      "original_point_number": [
+        25,
+        26
+      ]
+    },
+    {
+      "point_number": 14,
+      "point_content": "Despite the wide adoption of EHRs, there have been mixed results, including inadvertent consequences such as new safety risks and medical errors.",
+      "original_point_number": [
+        27
+      ]
+    },
+    {
+      "point_number": 15,
+      "point_content": "CMS has tried to reduce the documentation burden associated with evaluation and management services, stating that requirements were often outdated and coding nuances too complex and ambiguous.",
+      "original_point_number": [
+        28
+      ]
+    },
+    {
+      "point_number": 16,
+      "point_content": "The study by Berdahl et al found that observers confirmed approximately 40% of review of systems (ROS) and 56% of physical examination (PE) documentation, demonstrating the need for improvement in physician documentation; unsubstantiated documentation was more common for elements that seemed to be less clinically relevant; the study evaluated how well EHR documentation represented the ROS and PE performed by emergency physician residents through real-time observation; there is a need to investigate the root cause of discrepancies between patient report and physician documentation to prevent them in the future.",
+      "original_point_number": [
+        29,
+        30,
+        31,
+        32
+      ]
+    },
+    {
+      "point_number": 17,
+      "point_content": "Nurses may spend less than two hours of a 12-hour shift in direct patient care due to tasks such as paperwork and tracking down supplies; hospitals are adopting electronic medical records and placing computers in patient rooms to enable nurses to access information quickly and fill out medical charts while keeping close to patients; electronic records have reduced by 42 minutes the amount of time nurses spend paging doctors, copying and faxing, and tracking down tests; hospitals are shifting routine tasks to less highly skilled staff to free up nurses' time for direct patient care; the aim is to let nurses spend more time both caring for patients and educating them and their families on follow-up care once they leave the hospital.",
+      "original_point_number": [
+        33,
+        34,
+        35,
+        36,
+        37
+      ]
+    },
+    {
+      "point_number": 18,
+      "point_content": "Nursing documentation is essential for good clinical communication and provides an accurate reflection of nursing assessments, changes in clinical state, care provided and pertinent patient information; there is an expectation that shift required documentation is completed within 3 hours of shift start time to comply with standards; nursing documentation is aligned with the nursing process and should be continuous, reflecting assessment, planning, implementation and evaluation.",
+      "original_point_number": [
+        38,
+        39,
+        40
+      ]
+    },
+    {
+      "point_number": 19,
+      "point_content": "Nurses perform an EMR review at the beginning of each shift to gather pertinent patient details, which involves working through the EMR activities; the nursing hub is a shift planning tool that provides a timeline view of the plan of care and allows nurses to document directly from the hub into Flowsheets in real-time; real time progress notes should be signed off after the first entry and subsequent entries are entered as addendums, documenting changes in clinical state and patient outcomes.",
+      "original_point_number": [
+        41,
+        42,
+        43
+      ]
+    },
+    {
+      "point_number": 20,
+      "point_content": "Providers often feel that they spend more time documenting than caring for patients; with increased virtual work, providers may argue that their workload has increased with the advent of EMRs, including completing charts and handling patient emails.",
+      "original_point_number": [
+        44,
+        45
+      ]
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "question": "what are the main advantages and disadvantages of organizing a firm as a​ corporation?",
+  "key_points": {
+    "null": [],
+    "clueweb22-en0041-55-17629": [
+      {
+        "point_number": 1,
+        "point_content": "Corporations provide limited liability protection to owners, separating personal liability from business transactions.",
+        "spans": [
+          "Corporations are limited liability companies. This implies that there is personal liability protection for the owners, and the affairs of the business are kept separate from the affairs of the individuals themselves."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Ownership in corporations is represented by stocks, making it easier to transfer ownership compared to sole proprietorships or partnerships.",
+        "spans": [
+          "Ownerships in corporations functions with the mechanism of stocks. This means that all stockholders are technically the owners of the company.",
+          "Since corporations deal with stocks, it is easier for owners to deal with stocks. This means that companies can sell ownership in terms of stock, relatively easily."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Corporations have easier access to capital through public stock exchanges, making fundraising simpler than for unincorporated companies.",
+        "spans": [
+          "Corporations are normally listed on the public stock exchanges after cumbersome processes. This, in return, gives them access to capital.",
+          "Publicly raising funds is relatively easier for corporations as compared to unincorporated companies."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Corporations can scale operations more easily due to greater access to capital and funds.",
+        "spans": [
+          "Since the access to capital and funds is of a considerable magnitude when it comes to corporations, it can be seen that scaling and expanding operations also gets easier for corporations."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Corporations have perpetual life, allowing ownership to pass on to heirs and continuing beyond the life of original owners.",
+        "spans": [
+          "Perpetual life of corporations: Corporations do not have a fixed life. Factually, ownership can pass on to generations too."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Establishing a corporation is a cumbersome and time-consuming process involving multiple regulatory requirements.",
+        "spans": [
+          "Establishing a corporation (regardless of Private Ltd, or Public Limited, or S-Corp or C-Corp), is a cumbersome process.",
+          "This is a time consuming process."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Corporations incur high costs related to underwriting, IPO, audits, and compliance, which may be prohibitive for small and medium enterprises.",
+        "spans": [
+          "Costs associated with corporations: In addition to the cumbersome processes of establishing corporations, added costs is another limitation of corporations.",
+          "Underwriting services, as well as IPO is a considerably expensive task, and it cannot be afforded by all organizations.",
+          "Once corporations are formed, they are also required to go forward with continual audits, so that the shareholders are informed about the internal affairs within the company.",
+          "In the same manner, it is also gets important for companies to prepare their financial statements in accordance with the accepted accounting rules. These financial statements also need to be audited, so that there are no doubts about the authenticity of the issued financial statements."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Corporations are subject to double taxation, which can reduce the net income of owners.",
+        "spans": [
+          "Corporations are taxed at higher rates as compared to other unincorporated companies.",
+          "They are subject to double taxation, since corporations are taxed on their profits first, and then the shared income is also taxed under the personal income tax law."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "There is a separation between ownership and control in corporations, which may limit owners' direct influence on company operations.",
+        "spans": [
+          "Divorce between ownership and control: This tends to be one of the most prominent shortcomings of corporations.",
+          "the decision making mandate rests with the Board Members of the company. Therefore, the actual owners might not be able to have a say on the actual affairs of the company, to say the least."
+        ]
+      }
+    ],
+    "clueweb22-en0042-87-00317": []
+  }
+}

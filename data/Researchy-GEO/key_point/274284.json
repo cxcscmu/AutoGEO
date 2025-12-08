@@ -1,0 +1,241 @@
+{
+  "question": "how can market forces of supply and demand affect interest rates and the economy",
+  "key_points": {
+    "clueweb22-en0011-76-12240": [
+      {
+        "point_number": 1,
+        "point_content": "The money supply in the United States is influenced by supply and demand and the actions of the Federal Reserve and commercial banks.",
+        "spans": [
+          "The money supply in the United States is influenced by supply and demand and the actions of the Federal Reserve and commercial banks."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Money supply and interest rates have an inverse relationship: a larger money supply lowers market interest rates, making it less expensive for consumers to borrow, while a smaller money supply raises market interest rates, making it pricier for consumers to take out a loan.",
+        "spans": [
+          "Money supply and interest rates have an inverse relationship. A larger money supply lowers market interest rates, making it less expensive for consumers to borrow.",
+          "Conversely, smaller money supplies tend to raise market interest rates, making it pricier for consumers to take out a loan."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The current level of liquid money (supply) coordinates with the total demand for liquid money (demand) to help determine interest rates.",
+        "spans": [
+          "The current level of liquid money (supply) coordinates with the total demand for liquid money (demand) to help determine interest rates."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Setting interest rates involves assessing the strength of the economy, including factors like inflation, unemployment, and supply and demand.",
+        "spans": [
+          "In order to set interest rates, the Fed must look at the overall strength of the economy. This includes studying factors like inflation, unemployment, and supply and demand."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Interest rates affect the lending rates at which commercial banks borrow from the Fed, from each other, and the rates set for consumers to borrow from retail banks.",
+        "spans": [
+          "Interest rates have a huge impact on various facets of the economy, including: The lending rate at which commercial banks can borrow from the Fed The lending rate at which commercial banks can borrow money from each other The lending rate set for consumers to borrow from retail banks"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "More money flowing through the economy corresponds with lower interest rates, while less money available generates higher rates.",
+        "spans": [
+          "More money flowing through the economy corresponds with lower interest rates, while less money available generates higher rates."
+        ]
+      }
+    ],
+    "clueweb22-en0033-88-03841": [
+      {
+        "point_number": 1,
+        "point_content": "Supply and demand is the relationship between buyers and sellers that is used as a measure for price determination in financial markets.",
+        "spans": [
+          "Supply and demand is the relationship between buyers and sellers that is used as a measure for price determination in financial markets."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The forces of supply and demand interact to affect an equilibrium price between buyers and sellers whereby the quantity of demand equals the quantity of supply.",
+        "spans": [
+          "The forces of supply and demand interact to affect an equilibrium price between buyers and sellers whereby the quantity of demand equals the quantity of supply."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Generally, positive news means increased demand and lessened supply – equating to higher prices. Negative news usually spells lower demand and increased supply.",
+        "spans": [
+          "Generally, positive news means increased demand and lessened supply – equating to higher prices. Negative news usually spells lower demand and increased supply."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "When rates increase, forex rollover payments also increase, incentivizing more traders to buy and fewer to sell, affecting supply and demand.",
+        "spans": [
+          "When rates increase, forex rollover payments also increase.",
+          "All else being equal, more traders would want to buy; and fewer traders would want to sell as the opportunity cost of selling (the rollover payment) has just gotten more expensive."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Price aims to find a comfortable point where buyers and sellers balance, moving up when demand increases and down when supply exceeds demand.",
+        "spans": [
+          "As you can see, price aims to find a comfortable point and will increase until there are no more buyers willing to pay that price. At this point, sellers outnumber buyers, and price will respond by moving down.",
+          "As additional buyers enter the picture, price will move up to reflect this increased demand."
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0034-38-14852": [
+      {
+        "point_number": 1,
+        "point_content": "Higher the demand for money higher the interest rates.",
+        "spans": [
+          "higher the demand for money higher the interest rates"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "If the supply of money increases, other things remaining the same the price of money—interest rates, go down.",
+        "spans": [
+          "if the supply of money increases, other things remaining the same the price of money—interest rates, go down"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Higher the fiscal deficit, higher the government borrowing, higher the interest rates.",
+        "spans": [
+          "Higher the fiscal deficit, higher the government borrowing, higher the interest rates"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "In high inflation era, the interest rates tend to stay up and vice versa.",
+        "spans": [
+          "in high inflation era, the interest rates tend to stay up and vice versa"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "If India wants to attract global capital then the interest rates in India need to go up if the interest rates are going up globally.",
+        "spans": [
+          "If India wants to attract global capital then the interest rates in India need to go up if the interest rates are going up globally"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Central bank’s monetary policy objectives thus influence the interest rates.",
+        "spans": [
+          "Central bank’s monetary policy objectives thus influence the interest rates"
+        ]
+      }
+    ],
+    "clueweb22-en0033-98-12200": [
+      {
+        "point_number": 1,
+        "point_content": "Interest rates that lenders charge can have a significant influence on the level of consumer demand in the economy and on economic growth.",
+        "spans": [
+          "The interest rates that lenders charge can have a significant influence on the level of consumer demand in the economy and on economic growth."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "When interest rates are high, some loans become too costly and borrower demand may lessen, reducing total consumption of loans; when interest rates drop, demand for loan products increases.",
+        "spans": [
+          "when interest rates are high, some loans become too costly and borrower demand may lessen, which reduces the total consumption of loans",
+          "when interest rates drop, consumers take advantage of the lower loan rates, which increases demand for loan products"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Low interest rates make it cheaper to borrow money, increasing consumer demand; high interest rates make borrowing costly, reducing demand and total consumption.",
+        "spans": [
+          "Low interest rates make it cheaper to borrow money, which in turn makes it less expensive to buy anything from an education to electronics",
+          "If interest rates are high, borrowing is costly, which is likely to reduce demand and total consumption."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Low interest rates encourage investment by making saving less rewarding and loans cheaper for businesses; high interest rates discourage investment.",
+        "spans": [
+          "In general, low interest rates encourage investment because they make saving less rewarding, while high interest rates tend to discourage investment",
+          "Low interest rates also make it cheaper for businesses to take out loans and invest in new projects."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Consumer demand and investments influence economic growth; low interest rates can spur growth and reduce unemployment, while high rates can slow growth.",
+        "spans": [
+          "Consumer demand and investments are key factors in determining the economy's overall health and growth rate",
+          "low interest rates can help spur economic growth and reduce unemployment, while high interest rates can slow growth."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "The Federal Reserve influences interest rates to affect consumer spending, investment, and economic growth by altering the federal funds rate.",
+        "spans": [
+          "The U.S. Federal Reserve Board influences interest rates by altering the federal funds rate, which is the interest rates banks charge one another for short-term loans",
+          "When the economy is not doing well, the government can reduce the federal funds rate in an attempt to spark consumer spending, investment and growth. This tends to reduce interest rates in the economy as a whole."
+        ]
+      }
+    ],
+    "clueweb22-en0037-68-00713": [
+      {
+        "point_number": 1,
+        "point_content": "If customer demand decreases, then suppliers will typically reduce their production, which slows down the economy.",
+        "spans": [
+          "If customer demand decreases, then suppliers will typically reduce their production, which slows down the economy."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "In an economy with high inflation, a consumer will have less buying power.",
+        "spans": [
+          "In an economy with high inflation, a consumer will have less buying power."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "If the demand for food commodities is really high, but the availability of food commodities is lower than normal, consumer prices for food will sharply rise.",
+        "spans": [
+          "If the demand for food commodities is really high, but the availability of food commodities is lower than normal, consumer prices for food will sharply rise."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Paying more for food will affect a consumer's buying power, giving her less money to spend on other products and services.",
+        "spans": [
+          "Paying more for food will affect a consumer's buying power. She will have to spend more for food, giving her less money to spend on other products and services."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "When people have employment, they have money to turn around and spend in the economy.",
+        "spans": [
+          "When people have employment, they have money to turn around and spend in the economy."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "If there is a demand for many types of products and services in a healthy economy, businesses will grow and add jobs.",
+        "spans": [
+          "So if there is a demand for many types of products and services in a healthy economy, businesses will grow and add jobs."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "The best market situation for a product is equilibrium price, where the patterns of supply and demand intersect.",
+        "spans": [
+          "The best market situation for a product is equilibrium price, where the patterns of supply and demand intersect."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "In this situation, consumer demand for a product closely balances with available supply, and the price of a product remains relatively stable.",
+        "spans": [
+          "In this situation, consumer demand for a product closely balances with available supply. Here the price of a product remains relatively stable, creating a predictable market around which businesses can plan their activities."
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,334 @@
+{
+  "question": "what are the major differences between china and the united states in higher education?",
+  "key_points": [
+    {
+      "point_number": 1,
+      "point_content": "The main differences of higher education between China and America from educational ideology are displayed in entrance selection system, teaching method, concept of private and public university, curriculums, evaluation criteria to students, and education on students’ personal characteristics and morality.",
+      "original_point_number": [
+        1
+      ]
+    },
+    {
+      "point_number": 2,
+      "point_content": "America has no uniform examinations for enrolling students and uses multiple criteria including ACT/SAT scores, GPA, College Application, Essay, and Letters of Recommendation, while China uses a uniform system of National Higher Education Entrance Examination (Gao Kao).",
+      "original_point_number": [
+        2
+      ]
+    },
+    {
+      "point_number": 3,
+      "point_content": "In the US, teaching emphasizes helping students construct knowledge and encourages independent thought and participation, while in China, many teachers still adopt a \"force-feed type\" teaching method.",
+      "original_point_number": [
+        3
+      ]
+    },
+    {
+      "point_number": 4,
+      "point_content": "American higher education emphasizes liberal arts education with broad general education and elective courses, while Chinese higher education focuses more on professional education aimed at employment.",
+      "original_point_number": [
+        4
+      ]
+    },
+    {
+      "point_number": 5,
+      "point_content": "America has a large number of private universities which are prestigious and well-funded, while China has fewer private universities and underestimates their position.",
+      "original_point_number": [
+        5
+      ]
+    },
+    {
+      "point_number": 6,
+      "point_content": "American evaluation criteria focus on students' ability to analyze and solve problems, with GPA composed of multiple parts and final exams less weighted, while Chinese evaluation relies heavily on rote memorization and final exam scores.",
+      "original_point_number": [
+        6
+      ]
+    },
+    {
+      "point_number": 7,
+      "point_content": "American higher education values volunteering and community service as important for personal characteristics and morality, while in China these are less emphasized but increasing.",
+      "original_point_number": [
+        7
+      ]
+    },
+    {
+      "point_number": 8,
+      "point_content": "American education emphasizes critical thinking and encourages students to debate and defend their ideas, whereas Chinese education teaches that teachers are always right and students must keep quiet.",
+      "original_point_number": [
+        8
+      ]
+    },
+    {
+      "point_number": 9,
+      "point_content": "American education encourages students to ask questions, while Chinese education aims to ensure students have no questions, leading to high grades but low analytical abilities in some students.",
+      "original_point_number": [
+        9
+      ]
+    },
+    {
+      "point_number": 10,
+      "point_content": "American education values both academic studies and social practices, allowing students time for social activities, whereas Chinese students study under great pressure with little time for social activities due to population and school quality issues.",
+      "original_point_number": [
+        10
+      ]
+    },
+    {
+      "point_number": 11,
+      "point_content": "Chinese teachers are responsible for larger student bodies in their classrooms than are American teachers.",
+      "original_point_number": [
+        11
+      ]
+    },
+    {
+      "point_number": 12,
+      "point_content": "In China, the focus is more on the collective group of students as a whole, while in America, the focus is on individual student learning.",
+      "original_point_number": [
+        12
+      ]
+    },
+    {
+      "point_number": 13,
+      "point_content": "In the American school system, students usually move on to a different teacher each year, whereas in China, students may have the same teacher for several years.",
+      "original_point_number": [
+        13
+      ]
+    },
+    {
+      "point_number": 14,
+      "point_content": "Exams and test scores hold substantial weight in China and are used to evaluate both students and teachers, while in America, consequences for teachers based on student performance are less significant.",
+      "original_point_number": [
+        14
+      ]
+    },
+    {
+      "point_number": 15,
+      "point_content": "Arts and sports are highly encouraged in America from a young age, whereas in China, there is usually no time for creative arts or sports, with a focus on memorization and test scores.",
+      "original_point_number": [
+        15
+      ]
+    },
+    {
+      "point_number": 16,
+      "point_content": "Chinese students are not praised as individuals; education success is celebrated as a whole by the state, unlike in America where individual achievements are recognized.",
+      "original_point_number": [
+        16
+      ]
+    },
+    {
+      "point_number": 17,
+      "point_content": "Chinese students have homework even during breaks and holidays and have longer school days compared to American students.",
+      "original_point_number": [
+        17
+      ]
+    },
+    {
+      "point_number": 18,
+      "point_content": "In America, homework expectations vary and some districts have done away with homework, while in China homework and reinforcement of learning are significant.",
+      "original_point_number": [
+        18
+      ]
+    },
+    {
+      "point_number": 19,
+      "point_content": "Chinese students never stop studying or learning, even during summer vacation, unlike American students.",
+      "original_point_number": [
+        19
+      ]
+    },
+    {
+      "point_number": 20,
+      "point_content": "Chinese culture places high respect and honor on educators, viewing them as highly revered figures, which is different from American culture.",
+      "original_point_number": [
+        20
+      ]
+    },
+    {
+      "point_number": 21,
+      "point_content": "In China, students have a clear idea of their rank in each core subject, unlike in America.",
+      "original_point_number": [
+        21
+      ]
+    },
+    {
+      "point_number": 22,
+      "point_content": "In China, students must test into and apply to middle schools, and high school teachers do home visits for welfare checks, unlike in America where students move based on residence.",
+      "original_point_number": [
+        22
+      ]
+    },
+    {
+      "point_number": 23,
+      "point_content": "Chinese education emphasizes rote memorization first, while American education is moving towards inquiry-based learning.",
+      "original_point_number": [
+        23
+      ]
+    },
+    {
+      "point_number": 24,
+      "point_content": "Discipline is a real problem in America but hardly an issue in China.",
+      "original_point_number": [
+        24
+      ]
+    },
+    {
+      "point_number": 25,
+      "point_content": "The U.S. values the success of the individual, while China emphasizes the collective national identity.",
+      "original_point_number": [
+        25
+      ]
+    },
+    {
+      "point_number": 26,
+      "point_content": "In China, interpersonal mingling and building long-term relationships (guanxi) in business is encouraged, whereas in the U.S. business relies more on negotiation and contracts.",
+      "original_point_number": [
+        26
+      ]
+    },
+    {
+      "point_number": 27,
+      "point_content": "Chinese business culture avoids confrontation to save face, while U.S. business culture accepts aggressive discussions as part of negotiation.",
+      "original_point_number": [
+        27
+      ]
+    },
+    {
+      "point_number": 28,
+      "point_content": "In the U.S., subordinates can challenge managers and this is seen as positive, while in China subordinates are expected to follow the supervisor's decisions without question.",
+      "original_point_number": [
+        28
+      ]
+    },
+    {
+      "point_number": 29,
+      "point_content": "Asian schools are lecture-based and learning is memorization-based, while American schools encourage student participation and creativity.",
+      "original_point_number": [
+        29
+      ]
+    },
+    {
+      "point_number": 30,
+      "point_content": "Teacher-student relationships in American schools are casual and friendly, whereas in Asian schools they are formal and hierarchical.",
+      "original_point_number": [
+        30
+      ]
+    },
+    {
+      "point_number": 31,
+      "point_content": "Asian students are generally more well-mannered and respectful to teachers compared to American students.",
+      "original_point_number": [
+        31
+      ]
+    },
+    {
+      "point_number": 32,
+      "point_content": "Asian schools traditionally do not encourage imagination and curiosity, rewarding conformance instead, which stifles creativity.",
+      "original_point_number": [
+        32
+      ]
+    },
+    {
+      "point_number": 33,
+      "point_content": "There is a trend of change in Chinese schools towards more Western-style education, but many local schools still follow the old style.",
+      "original_point_number": [
+        33
+      ]
+    },
+    {
+      "point_number": 34,
+      "point_content": "The system of American higher education in the 21th century includes 4000 public and private colleges and universities, divided into vocational or technical institutions, primary or community college, four-year college and university or Polytechnic Institute.",
+      "original_point_number": [
+        34
+      ]
+    },
+    {
+      "point_number": 35,
+      "point_content": "The educational administration and assessment system in the US is decentralized, with executive power in state and local governments or private organizations, and limited federal education department role.",
+      "original_point_number": [
+        35
+      ]
+    },
+    {
+      "point_number": 36,
+      "point_content": "Chinese education aims to teach students how to imitate, while American education targets to teach students how to think independently.",
+      "original_point_number": [
+        36
+      ]
+    },
+    {
+      "point_number": 37,
+      "point_content": "Chinese students are taught to learn by rote, whereas American students are taught to ask more questions, leading to Americans being more innovative.",
+      "original_point_number": [
+        37
+      ]
+    },
+    {
+      "point_number": 38,
+      "point_content": "Americans are good innovators/novelty-generators, whereas Chinese are good imitators.",
+      "original_point_number": [
+        38
+      ]
+    },
+    {
+      "point_number": 39,
+      "point_content": "American education until the mid-1960s stressed rote learning similar to China, but later shifted to encourage self-expression and creativity.",
+      "original_point_number": [
+        39
+      ]
+    },
+    {
+      "point_number": 40,
+      "point_content": "Chinese students do not like asking questions and are passive in classrooms where teachers are authoritative and always right.",
+      "original_point_number": [
+        40
+      ]
+    },
+    {
+      "point_number": 41,
+      "point_content": "Rote learning is essential in children's early education, but crammed education in China hinders creativity growth.",
+      "original_point_number": [
+        41
+      ]
+    },
+    {
+      "point_number": 42,
+      "point_content": "China and America have different education values, aims, and teaching modes due to their different historical backgrounds, economic patterns, and traditional cultures.",
+      "original_point_number": [
+        42
+      ]
+    },
+    {
+      "point_number": 43,
+      "point_content": "American education is quality-oriented focusing on creativity and ability, while Chinese education is exam-oriented focusing on high scores and foundational knowledge.",
+      "original_point_number": [
+        43
+      ]
+    },
+    {
+      "point_number": 44,
+      "point_content": "American education is student-centered with friendly teachers encouraging questioning and creativity, whereas Chinese education is teacher-centered with strict teachers focusing on skills and obedience.",
+      "original_point_number": [
+        44
+      ]
+    },
+    {
+      "point_number": 45,
+      "point_content": "Chinese education is memory-based focusing on repetition and memorization, while American education is understanding-based focusing on practical application of knowledge.",
+      "original_point_number": [
+        45
+      ]
+    },
+    {
+      "point_number": 46,
+      "point_content": "Chinese education aims to train children into talents with a focus on academic achievement and stable jobs, while American education aims to train children into social individuals with independence and problem-solving abilities.",
+      "original_point_number": [
+        46
+      ]
+    },
+    {
+      "point_number": 47,
+      "point_content": "American students tend to be independent, adaptable, and confident, while Chinese students tend to be passive, reliant on parents, and less adaptable socially.",
+      "original_point_number": [
+        47
+      ]
+    }
+  ]
+}

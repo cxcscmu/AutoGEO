@@ -1,0 +1,97 @@
+{
+  "question": "who do you feel should be responsible for determining how team resources are used?",
+  "key_points": {
+    "null": [],
+    "clueweb22-en0014-93-10040": [
+      {
+        "point_number": 1,
+        "point_content": "A team leader is responsible for overseeing all activities within a team, which includes managing how team resources are used.",
+        "spans": [
+          "Manager or supervisor: Responsible for overseeing all activities within a team."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "A team leader is responsible for deciding how to approach tasks and develop a plan to accomplish them, implying responsibility for resource allocation.",
+        "spans": [
+          "Strategist: Responsible for deciding how to approach tasks and develop a plan to accomplish them."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "A team leader is responsible for organizing tasks, employees, and documents, which relates to managing team resources.",
+        "spans": [
+          "Organizer: Responsible for keeping track of and structuring various tasks, employees and documents."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Team leaders have responsibilities including decision-making and managing conflict, which are part of determining how resources are used.",
+        "spans": [
+          "Responsibilities of a team leader include decision-making, coaching, mentoring, developing the team’s skills and managing conflict."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Team leaders delegate tasks to appropriate team members based on their strengths and weaknesses, showing responsibility for resource allocation.",
+        "spans": [
+          "By determining which team member excels at which task, you can delegate the required tasks to the appropriate person."
+        ]
+      }
+    ],
+    "clueweb22-en0003-58-08788": [
+      {
+        "point_number": 1,
+        "point_content": "Management then determines the most effective course of action to maximize the effective use of limited resources and gain the best return on investment.",
+        "spans": [
+          "Management then determines the most effective course of action to maximize the effective use of limited resources and gain the best return on investment."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Educating people (especially management) was a critical part of getting it accepted as a part of the project planning process.",
+        "spans": [
+          "Educating people (especially management) was a critical part of getting it accepted as a part of the project planning process."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "project managers and their teams speak to most of these points through internal project reporting and other communications channels.",
+        "spans": [
+          "If formal resource allocation reports aren’t an option, then I recommend that project managers and their teams speak to most of these points through internal project reporting and other communications channels."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "project managers schedule staff across different projects based on project priorities.",
+        "spans": [
+          "The appropriate use of managing resources lets project managers schedule staff across different projects based on project priorities."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "project teams and their leaders need insight into what everyone is working on, and the level of effort involved in all of the tasks.",
+        "spans": [
+          "I still think that project teams and their leaders need insight into what everyone is working on, and the level of effort involved in all of the tasks."
+        ]
+      }
+    ],
+    "clueweb22-en0016-44-08895": [
+      {
+        "point_number": 1,
+        "point_content": "The team leader is responsible for delegating tasks and assigning responsibilities.",
+        "spans": [
+          "The main role of a team leader is to provide the team with direction and support. They’re also responsible for delegating tasks.",
+          "Assign responsibilities."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "A team leader must outline the tasks each employee is responsible for.",
+        "spans": [
+          "To effectively lead a team, a team leader must outline not only the team’s main objective but the tasks each employee is responsible for."
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "question": "why are hospitals overwhelmed",
+  "key_points": [
+    {
+      "point_number": 1,
+      "point_content": "Hospitals are overwhelmed due to a surge in COVID-19 hospitalizations driven by the highly contagious Delta and Omicron variants, with Omicron's extreme contagiousness leading to a high absolute number of hospitalizations that saturate the health-care system despite many cases being less severe individually.",
+      "original_point_number": [
+        1,
+        5,
+        11,
+        12,
+        15,
+        18,
+        21
+      ]
+    },
+    {
+      "point_number": 2,
+      "point_content": "Staffing shortages and burnout among healthcare workers, worsened by Omicron breakthrough infections and sick leaves, contribute significantly to hospitals being overwhelmed and reduce quality of care, causing delays and difficulties in treatment and discharge.",
+      "original_point_number": [
+        2,
+        13,
+        16,
+        19,
+        26
+      ]
+    },
+    {
+      "point_number": 3,
+      "point_content": "Most COVID-19 patients currently hospitalized, including the majority in ICU, are unvaccinated, leading to higher hospital admissions and strain on resources, although hospitals are seeing a wider spectrum of disease severity with both unvaccinated and vulnerable vaccinated individuals being hospitalized.",
+      "original_point_number": [
+        3,
+        20,
+        22,
+        23
+      ]
+    },
+    {
+      "point_number": 4,
+      "point_content": "Hospitals are also dealing with the usual winter flu season and patients with chronic conditions exacerbated by COVID-19 or who can no longer care for themselves after infection, adding to capacity strain.",
+      "original_point_number": [
+        4,
+        14,
+        24
+      ]
+    },
+    {
+      "point_number": 5,
+      "point_content": "Hospitals are filling up again as cases surge, but a smaller proportion of those patients are landing in intensive care units or requiring mechanical ventilation; most patients testing positive in emergency are being discharged, indicating that while Omicron is less dangerous for individuals, it still puts a lot of strain on hospitals due to patient influx and staff absences.",
+      "original_point_number": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "point_number": 6,
+      "point_content": "Hospitals are operating beyond capacity, leading to long waits, reduced care quality, and some patients being discharged earlier than usual due to lack of beds; hospitals must isolate all COVID-19 positive patients regardless of admission reason, which adds to the strain on resources.",
+      "original_point_number": [
+        17,
+        25
+      ]
+    }
+  ]
+}

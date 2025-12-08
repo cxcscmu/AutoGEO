@@ -1,0 +1,149 @@
+{
+  "question": "how hcahps impacts insurance reimbursement",
+  "key_points": {
+    "clueweb22-en0034-83-13871": [
+      {
+        "point_number": 1,
+        "point_content": "Higher HCAHPS scores lead to higher hospital reimbursements.",
+        "spans": [
+          "According to the program, the higher a hospital’s HCAHPS scores, the higher their reimbursements will be"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Low HCAHPS scores limit the amount of funding hospitals receive from Medicare.",
+        "spans": [
+          "low HCAHPS scores impact a hospital’s bottom line in two ways: by hindering their reputation among consumers and limiting the amount of funding they receive from Medicare"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Hospitals want high HCAHPS scores because higher scores increase a facility’s reimbursement.",
+        "spans": [
+          "Higher scores on the assessment survey increase a facility’s reimbursement"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Patient satisfaction scores are tied to Medicare reimbursement, incentivizing hospitals to improve patients’ perceptions of their care.",
+        "spans": [
+          "Patient satisfaction scores are now available publicly and are tied to Medicare reimbursement incentivizing hospitals to improve patients’ perceptions of their care"
+        ]
+      }
+    ],
+    "clueweb22-en0042-04-11434": [
+      {
+        "point_number": 1,
+        "point_content": "Hospitals are being rewarded or penalized based on their patient experience scores as part of the Hospital Value-Based Purchasing program authorized by the Affordable Care Act (ACA).",
+        "spans": [
+          "a growing emphasis on patient satisfaction across the country—more specifically, concerns over linking financial incentives to patient experience scores as part of the Hospital Value-Based Purchasing program authorized by the Affordable Care Act (ACA)"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "CMS is withholding 1 percent of Medicare payments—30 percent of which is tied to HCAHPS scores—to fund the incentives of the program.",
+        "spans": [
+          "Now, as part of the ACA’s Hospital Value-Based Purchasing Program [1], CMS is withholding 1 percent of Medicare payments—30 percent of which is tied to HCAHPS scores—to fund the incentives of the program"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Measurement of and incentives linked to patient experience are increasing.",
+        "spans": [
+          "Overall, measurement of and incentives linked to patient experience are increasing"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Hospitals and clinics are using patient experience scores to justify greater investment in improving experience for patients.",
+        "spans": [
+          "Hospitals and clinics are using these scores to justify greater investment in improving experience for patients"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Physicians can no longer choose not to participate in patient experience incentive programs, but they can decide how best to engage with them.",
+        "spans": [
+          "Physicians can no longer choose not to participate in, but they can decide how best to engage with, incentive programs"
+        ]
+      }
+    ],
+    "clueweb22-en0038-11-10460": [
+      {
+        "point_number": 1,
+        "point_content": "Since the Center for Medicare and Medicaid Services (CMS) began reimbursing hospitals based on HCAHPS scores, it has also been a financial priority.",
+        "spans": [
+          "since the Center for Medicare and Medicaid Services (CMS) began reimbursing hospitals based on HCAHPS scores"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Patient experience directly impacts HCAHPS scores and reimbursement.",
+        "spans": [
+          "patient experience directly impacts HCAHPS scores and reimbursement"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The government provides reimbursements based on these results – meaning that exceptional survey performance helps to keep a hospital’s financial position strong.",
+        "spans": [
+          "the government provides reimbursements based on these results – meaning that exceptional survey performance helps to keep a hospital’s financial position strong"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Under the value-based purchasing program, providers could be financially penalized for low HCAHPS scores.",
+        "spans": [
+          "under the value-based purchasing program, providers could be financially penalized for low HCAHPS scores"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Unified healthcare communication hubs such as WELL ™ are demonstrating that healthcare technologies can improve patient communication around appointment management, during the hospital stay, and after discharge. Ultimately, this results in reduced staff workload, enhanced patient satisfaction and improved HCAHPS scores and reimbursement.",
+        "spans": [
+          "Unified healthcare communication hubs such as WELL ™ are demonstrating that healthcare technologies can improve patient communication around appointment management, during the hospital stay, and after discharge. Ultimately, this results in reduced staff workload, enhanced patient satisfaction and improved HCAHPS scores and reimbursement"
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0037-40-10685": [
+      {
+        "point_number": 1,
+        "point_content": "The Medicare Hospital Readmissions Reduction Program (HRRP) did not penalize the hospitals when patients reported lower satisfaction via the Hospital Consumer Assessment of Healthcare Providers and Systems (HCAHPS) scores.",
+        "spans": [
+          "the Medicare Hospital Readmissions Reduction Program (HRRP) did not penalize the hospitals when patients reported lower satisfaction via the Hospital Consumer Assessment of Healthcare Providers and Systems (HCAHPS) scores"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "A high-readmission rate is not associated with lower payment, which conflicts with the goals of value-based purchasing programs.",
+        "spans": [
+          "a high-readmission rate is not associated with lower payment"
+        ]
+      }
+    ],
+    "clueweb22-en0014-42-15823": [
+      {
+        "point_number": 1,
+        "point_content": "Centers for Medicare & Medicaid Services is tying reimbursements to HCAHPS scores.",
+        "spans": [
+          "Centers for Medicare & Medicaid Services is tying reimbursements to HCAHPS scores"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Hospitals can either lose or gain up to 1.5% of their Medicare payments in fiscal year 2015 based on HCAHPS scores.",
+        "spans": [
+          "Based in part on these scores, hospitals can either lose or gain up to 1.5% of their Medicare payments in fiscal year 2015"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "CMS will increase the reimbursement dollars at risk to 2% by fiscal year 2017.",
+        "spans": [
+          "CMS will up the ante over the next few years, with 2% of reimbursement dollars ultimately being at risk by fiscal year 2017"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "question": "why are natural gas prices going up?",
+  "key_points": {
+    "clueweb22-en0040-78-14561": [
+      {
+        "point_number": 1,
+        "point_content": "The global economic recovery in 2021 following the Covid-19 pandemic has led to higher consumption and thus higher prices.",
+        "spans": [
+          "The global economic recovery in 2021 following the Covid-19 pandemic has led to higher consumption and thus higher prices."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Geopolitics and the energy transition are also contributing to high natural gas prices.",
+        "spans": [
+          "Also contributing to high prices are geopolitics, as well as the energy transition."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Europe and parts of Asia shifting from coal to gas for electricity has boosted reliance on gas and reduced supplies, increasing prices.",
+        "spans": [
+          "Europe and parts of Asia are shifting from using coal to produce electricity, which has boosted the world’s reliance on gas and reduced supplies."
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0013-72-01292": [
+      {
+        "point_number": 1,
+        "point_content": "Natural gas prices are a function of market supply and demand, with decreases in supply tending to lead to higher prices.",
+        "spans": [
+          "Natural gas prices are a function of market supply and demand",
+          "Increases in natural gas supply generally result in lower natural gas prices, and decreases in supply tend to lead to higher prices."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Short-term increases in demand and/or reductions in supply may cause large changes in natural gas prices, especially during the wintertime.",
+        "spans": [
+          "Because of natural gas supply infrastructure constraints and limitations in the ability of many natural gas consumers to switch fuels quickly, short-term increases in demand and/or reductions in supply may cause large changes in natural gas prices, especially during the wintertime."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Severe weather such as hurricanes and very cold weather can disrupt natural gas supply and cause prices to increase.",
+        "spans": [
+          "Severe weather can disrupt supply",
+          "Natural gas prices have been affected when hurricanes disrupted natural gas production in the Gulf of Mexico as in 2005 with Hurricanes Katrina and Rita.",
+          "Very cold weather can also disrupt natural gas production.",
+          "If these supply disruptions occur when demand for natural gas is high, prices may increase more than expected."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Winter weather increases natural gas demand for heating, putting upward pressure on prices.",
+        "spans": [
+          "Winter weather strongly influences residential and commercial demand",
+          "During cold months, natural gas demand for heating by residential and commercial consumers generally increases overall natural gas demand and can put upward pressure on prices."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Hot summer weather increases electric power demand for natural gas, which can increase prices.",
+        "spans": [
+          "Hot summer weather can increase electric power demand for natural gas",
+          "Hot weather tends to increase demand for air conditioning in homes and buildings, which generally increases the power sector's demand for natural gas.",
+          "During high demand periods, natural gas prices on the spot market may increase sharply if natural gas supply sources are relatively low or constrained."
+        ]
+      }
+    ],
+    "clueweb22-en0038-01-02353": [
+      {
+        "point_number": 1,
+        "point_content": "Natural gas prices are increasing due to supply and demand factors, including production levels, storage, imports/exports, and demand influenced by weather and economic growth.",
+        "spans": [
+          "understanding what influences the cost of natural gas really boils down to one simple concept: supply and demand",
+          "the supply of natural gas depends largely on factors including how much natural gas is being produced, how much natural gas is currently in storage, and how much natural gas is being imported and exported from the U.S.",
+          "On the demand side, variations in winter and summer weather – such as extreme cold or heat – will impact how many people need natural gas",
+          "Economic growth also leads to higher demand as the commercial and industrial sectors consume more natural gas to produce greater quantities of goods and services"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Extreme weather events in the past year have caused spot prices of natural gas to rise, which utilities are now passing on to consumers through higher retail rates.",
+        "spans": [
+          "Remember last winter when we had a streak of really cold days – including the Texas Freeze – and this past summer when we saw heat wave after heat wave?",
+          "Even though this winter is anticipated to be warmer than usual, we’re still paying for these past weather events due to spot prices.",
+          "Spot prices of natural gas reflect the current price it’s being bought and sold at on the market – but the price that’s actually passed onto us as consumers is the retail rate.",
+          "Now, to recoup the increased costs that utilities paid to procure natural gas, they’re raising retail rates throughout the year."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Economic growth after the pandemic has increased demand for natural gas, while production has remained fairly constant, leading to higher prices.",
+        "spans": [
+          "Another large factor at play right now is economic growth: more and more businesses are growing and consumers are returning to more normal behavior after the shutdowns that occurred at the start of the pandemic.",
+          "Higher demand for goods and services means greater production, which requires more natural gas.",
+          "However, the production of natural gas has remained fairly constant, so as demand for gas approaches ever closer to the supply, we’re seeing prices increase."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The U.S. is less impacted by rising natural gas prices compared to other countries because it is the world's largest producer and relies less on imports.",
+        "spans": [
+          "the U.S. is being impacted to a much lesser extent than many other countries.",
+          "The U.S. is the world’s largest producer of natural gas, so because we produce the natural gas we consume (instead of relying on other countries for imports), we’re better protected from price spikes."
+        ]
+      }
+    ],
+    "clueweb22-en0018-68-03578": [
+      {
+        "point_number": 1,
+        "point_content": "Natural gas prices have doubled since last year, sitting at $5.77 per BTU in the United States.",
+        "spans": [
+          "Natural gas prices have doubled since last year, sitting at $5.77 per BTU in the United States."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Asia had a cold winter leading to a big pull on demand and global inventories have been drawn down with slow supply response.",
+        "spans": [
+          "Asia, in particular, had a cold winter",
+          "There was a big pull on demand",
+          "And since then, we have seen pretty much nothing but inventories draw down globally, and supply has been very slow to respond in all regions."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Inventory in the U.S. is below five-year average levels and producers are not increasing supply due to investment return priorities.",
+        "spans": [
+          "Inventory here in the U.S. is below five-year average levels, and producers don’t seem too anxious to get more gas onto the market. Oil and gas investors want a return on investment, not more drilling."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The U.S. is exporting more natural gas than ever but export capacity is maxed out, limiting further exports despite high prices in Europe.",
+        "spans": [
+          "Now, the U.S. is exporting more natural gas than ever before, but even if a producer wanted to send more liquified natural gas overseas to cash in, the capacity isn’t there",
+          "We’re maxed out on exports, we can’t export more — no matter what the price is — in Europe"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "A colder than normal winter in the U.S. could lead to significant increases in heating bills for consumers.",
+        "spans": [
+          "a colder than normal winter probably wouldn’t threaten your ability to keep the heat on in your home. But the price spikes could be real",
+          "During the winter, there will be consumers, depending on what jurisdiction you’re in, that are going to have a 100% increase in their heating bill"
+        ]
+      }
+    ]
+  }
+}

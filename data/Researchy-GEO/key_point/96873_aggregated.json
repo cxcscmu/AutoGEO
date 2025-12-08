@@ -1,0 +1,163 @@
+{
+  "question": "should doctors lie to patients",
+  "key_points": [
+    {
+      "point_number": 1,
+      "point_content": "Doctors often lie to patients, mostly believing it is for the patients' good, such as to offer hope or lighten despair, but this can damage trust and compromise care.",
+      "original_point_number": [
+        1,
+        3,
+        6,
+        7,
+        8,
+        11,
+        12,
+        19,
+        26,
+        27,
+        29,
+        36,
+        46,
+        47
+      ]
+    },
+    {
+      "point_number": 2,
+      "point_content": "Truth and honesty are fundamental to the doctor-patient relationship, with professional and ethical standards requiring physicians to be forthright and honest to enable informed patient choices and maintain trust.",
+      "original_point_number": [
+        2,
+        14,
+        15,
+        16,
+        17,
+        28,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        39,
+        42,
+        48,
+        49
+      ]
+    },
+    {
+      "point_number": 3,
+      "point_content": "Some lies by physicians are harmful and unethical, such as concealing serious medical errors or financial relationships, which patients want disclosed; transparency and apology can reduce lawsuits and maintain trust.",
+      "original_point_number": [
+        4,
+        43,
+        44,
+        49
+      ]
+    },
+    {
+      "point_number": 4,
+      "point_content": "Physicians sometimes lie to third-party payers or insurance companies to obtain approval for necessary treatments, reflecting a flawed system and varying willingness depending on disease severity.",
+      "original_point_number": [
+        5,
+        37,
+        38
+      ]
+    },
+    {
+      "point_number": 5,
+      "point_content": "There is debate among medical ethicists about the morality of lying versus deception, with some allowing lies in certain contexts and others opposing it; physicians struggle with balancing absolute honesty and withholding dismal facts.",
+      "original_point_number": [
+        6,
+        28,
+        40
+      ]
+    },
+    {
+      "point_number": 6,
+      "point_content": "More than 55% of physicians sometimes describe a patient’s prognosis more positively than facts support, using deception flowcharts to decide when deception is morally acceptable; white lies can coexist with a strong doctor-patient relationship if grounded in kindness.",
+      "original_point_number": [
+        7,
+        8,
+        10,
+        11,
+        12,
+        19
+      ]
+    },
+    {
+      "point_number": 7,
+      "point_content": "Deception that limits informed decision-making or sugar-coating grave situations is reprehensible; honesty and clarity are essential for patient autonomy and informed consent.",
+      "original_point_number": [
+        9,
+        13,
+        15,
+        24,
+        39
+      ]
+    },
+    {
+      "point_number": 8,
+      "point_content": "Doctors can legally lie to patients in some situations; white lies are not strictly illegal unless they cause harm, but lies masking mistakes, covering errors, or disguising fraud are illegal and may lead to malpractice lawsuits if they cause injury or breach duty of care.",
+      "original_point_number": [
+        18,
+        20,
+        21,
+        22,
+        23,
+        24
+      ]
+    },
+    {
+      "point_number": 9,
+      "point_content": "Physicians must provide complete information including diagnoses, treatment purposes, alternatives, benefits, and risks to ensure informed consent and patient comprehension.",
+      "original_point_number": [
+        25,
+        30,
+        32,
+        33,
+        42
+      ]
+    },
+    {
+      "point_number": 10,
+      "point_content": "Physicians sometimes withhold or distort information to protect patients or avoid harm, which can be seen as lying; cultural differences and patient preferences may justify withholding information if consented to.",
+      "original_point_number": [
+        26,
+        41,
+        42
+      ]
+    },
+    {
+      "point_number": 11,
+      "point_content": "Effective communication of difficult truths is necessary despite the desire to avoid upsetting patients; forthrightness can ease repercussions of medical errors and maintain trust.",
+      "original_point_number": [
+        16,
+        17,
+        44,
+        48,
+        49
+      ]
+    },
+    {
+      "point_number": 12,
+      "point_content": "Physicians fear legal ramifications but apologizing to patients for errors can be successful and may include compensation; not revealing mistakes is considered inexcusable by ethicists.",
+      "original_point_number": [
+        44,
+        49
+      ]
+    },
+    {
+      "point_number": 13,
+      "point_content": "Doctors sometimes prescribe placebos or exaggerate health findings for patient benefit, involving some level of deception.",
+      "original_point_number": [
+        50
+      ]
+    },
+    {
+      "point_number": 14,
+      "point_content": "Withholding full information is becoming harder due to patients' access to information and electronic medical records.",
+      "original_point_number": [
+        51
+      ]
+    }
+  ]
+}

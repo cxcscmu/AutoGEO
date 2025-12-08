@@ -1,0 +1,125 @@
+{
+  "question": "how did the patent system encourage inventiveness",
+  "key_points": {
+    "null": [],
+    "clueweb22-en0033-79-16086": [
+      {
+        "point_number": 1,
+        "point_content": "Inventors are driven primarily by the expectation of profiting from owning the rights to their inventions, which patents provide.",
+        "spans": [
+          "inventors are driven primarily by the expectation of profiting from owning the rights to their inventions"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The U.S. patent system provided broad access to property rights on new inventions and required public disclosure, stimulating the growth of a market for technology and promoting technological change.",
+        "spans": [
+          "The U.S. patent system had a powerful impact on the patterns of inventive activity. Its provision of broad access to property rights on new inventions, coupled with the requirement of public disclosure, was extremely effective at stimulating the growth of a market for technology and promoting technological change"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Startups combined with patents lead to jobs and economic growth.",
+        "spans": [
+          "Startups + patents = jobs and economic growth!"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Patents induce people to invent because of the prospect of profiting from those inventions (ex ante innovation).",
+        "spans": [
+          "patents continue to foster ex ante innovation — meaning, they induce people to invent because of the prospect of profiting from those inventions"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Patents provide a substantial premium for innovations, with firms earning on average a 50% premium over the no patenting case.",
+        "spans": [
+          "the patent premium for innovations that were patented is substantial. Firms earn on average a 50% premium over the no patenting case"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "The biggest job-creating new industries of the last 60 years were launched and grew strong on the basis of patented inventions created by startup businesses.",
+        "spans": [
+          "the biggest job-creating new industries of the last 60 years — semiconductors (consumer electronics), PCs, software, biotech, mobile telephony, and Internet e-commerce — were all launched and grew strong on the basis of patented inventions created by startup businesses"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Investments in the biotech industry are based entirely on patents; without strong patents, raising money to find cures for disease is not possible.",
+        "spans": [
+          "investments in the biotech industry are based entirely on patents. Without strong patents, we cannot raise money to find cures for disease"
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Stronger levels of patent protection are positively and significantly associated with inflows of high-tech products and expenditures on R&D.",
+        "spans": [
+          "stronger levels of patent protection are positively and significantly associated with inflows of high-tech product [and] expenditures on R&D"
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Patent reforms in Taiwan stimulated additional inventive activity and induced additional foreign direct investment.",
+        "spans": [
+          "the 1986 reforms strengthening the Taiwanese patent system “stimulated additional inventive activity, especially in industries where patent protection is generally regarded as an effective strategy for extracting returns, and in industries which are more R&D intensive. The reforms also seemed to induce additional foreign direct investment in Taiwan"
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Patents promote knowledge sharing and improve the allocation of resources by encouraging rapid experimentation and efficient ex-post transfer of knowledge across firms.",
+        "spans": [
+          "patents improve the allocation of resources by encouraging rapid experimentation and efficient ex-post transfer of knowledge across firms"
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "The patent system is one of the most effective tools for knowledge-sharing and technology transfer, with 88 percent of businesses relying on patent information to keep up with technology advances and direct R&D efforts.",
+        "spans": [
+          "the patent system is one of the most effective tools for knowledge-sharing and technology transfer ever devised. A 2006 study by French economists Francois Leveque and Yann Meniere found that 88 percent of U.S., European, and Japanese businesses said they actually rely upon the information disclosed in patents to keep up with technology advances and direct their own R&D efforts"
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "Patents stimulate downstream development work and new technologies of commercial significance.",
+        "spans": [
+          "his seminal 1880 incandescent lamp patent (No. 223,898) actually “stimulated downstream development work” that resulted in “new technologies of commercial significance"
+        ]
+      },
+      {
+        "point_number": 13,
+        "point_content": "The patent system promotes the diffusion of information about technology by establishing exclusive property rights, encouraging inventors to promote their discoveries widely to maximize returns.",
+        "spans": [
+          "The very act of establishing exclusive property rights in invention not only protected patentees but also promoted the diffusion of information about technology",
+          "inventors would now feel free to promote their discoveries as widely as possible so as to maximize returns either from commercializing their ideas themselves or from [licensing] rights to the idea to others"
+        ]
+      },
+      {
+        "point_number": 14,
+        "point_content": "A strong patent system enabling licensing and cross-licensing of proprietary technology across industries produced the successful smartphone industry.",
+        "spans": [
+          "Only a strong patent system enabling the licensing and cross-licensing of proprietary technology across four very disparate industries —telephony, electronics, computing and software — could have produced the hugely successful smartphone industry that we enjoy today"
+        ]
+      }
+    ],
+    "clueweb22-en0015-83-09100": [
+      {
+        "point_number": 1,
+        "point_content": "The patent system encouraged inventiveness by guaranteeing an inventor sole rights to the use of his or her invention for a limited time.",
+        "spans": [
+          "It guaranteed an inventor sole rights to the use of his or her invention for a limited time."
+        ]
+      }
+    ],
+    "clueweb22-en0012-27-01428": [
+      {
+        "point_number": 1,
+        "point_content": "The patent system encouraged inventiveness by granting inventors exclusive rights to their inventions, motivating them to create new products and technologies.",
+        "spans": [
+          "patent system encouraged inventiveness"
+        ]
+      }
+    ]
+  }
+}

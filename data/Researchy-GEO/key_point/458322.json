@@ -1,0 +1,311 @@
+{
+  "question": "how money laundering works",
+  "key_points": {
+    "clueweb22-en0041-31-00578": [
+      {
+        "point_number": 1,
+        "point_content": "Money laundering is a process that criminals use in an attempt to hide the illegal source of their income.",
+        "spans": [
+          "Money laundering is a process that criminals use in an attempt to hide the illegal source of their income."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Money laundering typically occurs in three phases: initial entry or placement, layering, and final integration.",
+        "spans": [
+          "Money laundering typically occurs in three phases:\nInitial entry or placement is the initial movement of an amount of money earned from criminal activity into some legitimate financial network or institution.\nLayering is the continuing transfer of the money through multiple transactions, forms, investments, or enterprises, to make it virtually impossible to trace the money back to its illegal origin.\nFinal integration is when the money is freely used legally without the necessity to conceal it any further."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Initial placement is the initial movement of money earned from criminal activity into a legitimate financial institution.",
+        "spans": [
+          "Initial entry or placement is the initial movement of an amount of money earned from criminal activity into some legitimate financial network or institution."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Layering involves transferring the money through multiple transactions and accounts to make it difficult to trace back to its illegal origin.",
+        "spans": [
+          "Layering is the continuing transfer of the money through multiple transactions, forms, investments, or enterprises, to make it virtually impossible to trace the money back to its illegal origin."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Final integration is when the laundered money is used legally without concealment.",
+        "spans": [
+          "Final integration is when the money is freely used legally without the necessity to conceal it any further."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "A common method of money laundering is funneling illegal money through a business with many cash transactions, such as a restaurant.",
+        "spans": [
+          "One of the most commonly used and simpler methods of “washing” money is by funneling it through a restaurant or other business where there are a lot of cash transactions."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "In the example, illegal money is deposited into a restaurant's bank account by falsely reporting higher cash sales.",
+        "spans": [
+          "Money obtained from illegal activities is gradually deposited into a bank through the restaurant. The restaurant reports daily cash sales much higher than what it actually takes in."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Layering can involve investing laundered money in other businesses, using shell companies, casinos, foreign currency exchanges, and offshore tax havens to obscure the money's origin.",
+        "spans": [
+          "The “layering” often involves passing the money through multiple transactions, accounts, and companies – it may pass through a casino to be disguised as gambling winnings, go through one or more foreign currency exchanges, be invested in the financial markets, and ultimately be transferred to accounts in offshore tax havens where banking transactions are subject to much less scrutiny and regulation."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "In the final integration phase, laundered money is used to purchase luxury goods or create new business entities.",
+        "spans": [
+          "In the final phase of money laundering – integration – the money is placed into legitimate business or personal investments. It may be used to purchase high-end luxury goods, such as jewelry or automobiles. It may even be used to create yet another business entity through which future amounts of illegal cash will be laundered."
+        ]
+      }
+    ],
+    "clueweb22-en0042-45-04145": [
+      {
+        "point_number": 1,
+        "point_content": "Money laundering, at its simplest, is the act of making money that comes from Source A look like it comes from Source B.",
+        "spans": [
+          "Money laundering, at its simplest, is the act of making money that comes from Source A look like it comes from Source B."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "In practice, criminals are trying to disguise the origins of money obtained through illegal activities so it looks like it was obtained from legal sources.",
+        "spans": [
+          "In practice, criminals are trying to disguise the origins of money obtained through illegal activities so it looks like it was obtained from legal sources."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The basic money laundering process has three steps: Placement, Layering, Integration.",
+        "spans": [
+          "The basic money laundering process has three steps:"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Placement: At this stage, the launderer inserts the dirty money into a legitimate financial institution. This is often in the form of cash bank deposits.",
+        "spans": [
+          "Placement: At this stage, the launderer inserts the dirty money into a legitimate financial institution. This is often in the form of cash bank deposits."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Layering: This involves sending money through various financial transactions to change its form and make it difficult to follow.",
+        "spans": [
+          "Layering: This involves sending money through various financial transactions to change its form and make it difficult to follow."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Layering may consist of several bank-to-bank transfers; wire transfers between different accounts in different names in different countries; making deposits and withdrawals to continually vary the amount of money in the accounts; changing the money's currency; and purchasing high-value items (boats, houses, cars, diamonds) to change the form of the money.",
+        "spans": [
+          "Layering may consist of several bank-to-bank transfers; wire transfers between different accounts in different names in different countries; making deposits and withdrawals to continually vary the amount of money in the accounts; changing the money's currency; and purchasing high-value items (boats, houses, cars, diamonds) to change the form of the money."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Integration: At the integration stage, the money re-enters the mainstream economy in legitimate-looking form — it appears to come from a legal transaction.",
+        "spans": [
+          "Integration: At the integration stage, the money re-enters the mainstream economy in legitimate-looking form — it appears to come from a legal transaction."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "At this point, the criminal can use the money without getting caught.",
+        "spans": [
+          "At this point, the criminal can use the money without getting caught."
+        ]
+      }
+    ],
+    "clueweb22-en0015-66-09210": [
+      {
+        "point_number": 1,
+        "point_content": "Money laundering is typically thought of as a three-stage process: placement (where the ‘dirty’ money enters the financial system), layering (where the money trail becomes complicated) and integration (where money is re-invested into criminal activities or siphoned into the legitimate economy).",
+        "spans": [
+          "Money laundering is typically thought of as a three-stage process: placement (where the ‘dirty’ money enters the financial system), layering (where the money trail becomes complicated) and integration (where money is re-invested into criminal activities or siphoned into the legitimate economy)."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Criminals need to make this hot money look like everyday day cash with an innocuous backstory. They need to break a followable chain between the crime and the money. This process is, of course, called money laundering - concealing money’s origins.",
+        "spans": [
+          "The problem is, of course, this money can’t just be deposited into the everyday banking system and then spent like a normal wage. Rather, criminals need to make this hot money look like everyday day cash with an innocuous backstory. They need to break a followable chain between the crime and the money. This process is, of course, called money laundering - concealing money’s origins."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The step-by-step approach would typically conform to the placement/layering / integration model.",
+        "spans": [
+          "The step-by-step approach would typically conform to the placement/layering / integration model."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Money mules tend to transfer money that originates from predicate offences through their bank account in exchange for a commission or cash offers, participating in the placement/layering phases.",
+        "spans": [
+          "Money mules tend to transfer money that originates from predicate offences (e.g., drug trafficking, human trafficking, etc.) through their bank account in exchange for a commission or cash offers. Then they transfer the money to other accounts so they participate in the placement / layering phases depending on circumstances."
+        ]
+      }
+    ],
+    "clueweb22-en0009-66-11312": [
+      {
+        "point_number": 1,
+        "point_content": "Following criminal cash from the streets of London to the gold markets of Dubai",
+        "spans": [
+          "Following criminal cash from the streets of London to the gold markets of Dubai"
+        ]
+      }
+    ],
+    "clueweb22-en0042-19-18669": [
+      {
+        "point_number": 1,
+        "point_content": "Money laundering is the process of converting illegal money legal, through some mechanism that eradicates the previously formed money trail.",
+        "spans": [
+          "Money laundering can be defined as the process of converting illegal money legal, through some mechanism that eradicates the previously formed money trail."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Money laundering is often conducted in three major steps: placement, layering, and integration.",
+        "spans": [
+          "Therefore, the step on money laundering is often conducted in three major steps: placement, layering, which is eventually followed by integration."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Placement involves putting the money that needs to be legitimized into a credible financial system.",
+        "spans": [
+          "The process of placement mainly involves putting the money that needs to be legitimized into a credible financial system."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Layering involves hiding the source of the money using multiple transactions and bookkeeping tricks to avoid being tracked.",
+        "spans": [
+          "The money trail in this regard is then ‘layered’ by hiding the source of the money.",
+          "The act of layering is mainly carried out using multiple transactions as well as bookkeeping tricks."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Integration involves withdrawing the money from the legitimate account to get cash against the money that is now legitimized.",
+        "spans": [
+          "Lastly, as far as integration is concerned, it involves withdrawing the money from the legitimate account, in order to get cash against the money that is now legitimized through the aforementioned processes."
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0016-60-17843": [
+      {
+        "point_number": 1,
+        "point_content": "There are three stages in money laundering: placement, layering, and integration.",
+        "spans": [
+          "There are three stages in money laundering.",
+          "The first stage, placement, is when illegally obtained funds are introduced into the legitimate economy.",
+          "The second stage, layering, is when criminals hide the origins of the illicit funds by re-distributing them in multiple ways which obscure the source.",
+          "The third stage, integration, is when the illicit funds are extracted and used, now disguised as legal currency."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Money laundering techniques include bank methods, smurfing, currency exchanges, and double-invoicing.",
+        "spans": [
+          "There are as many as twelve - and possibly more - defined methods of money laundering, which fit into four generic typologies, namely “bank methods, smurfing (also known as structuring), currency exchanges, and double-invoicing.”"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Smurfing involves breaking down illicit funds into small amounts and depositing them into multiple accounts to avoid detection.",
+        "spans": [
+          "Smurfing. Also known as structuring, this is when illicitly obtained funds are broken down into small amounts, then deposited into and transferred between multiple accounts.",
+          "The amounts are calculated to avoid triggering suspicious transaction reports (STRs)."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Money muling involves multiple participants transferring illicit funds through their accounts, sometimes unknowingly.",
+        "spans": [
+          "Money muling. This technique involves multiple participants transferring illicit funds (sometimes recruited, and/or without knowing that they are breaking the law) through their accounts, via online resources, or even through courier services, on behalf of criminal entities, usually for a stipend of the money involved."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Bulk Cash smuggling is physically moving proceeds of crime across borders or jurisdictions with less stringent regulations.",
+        "spans": [
+          "Bulk Cash smuggling. Here, the proceeds of crime are physically moved across international borders, or from one jurisdiction to another with less stringent regulations."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Blending funds involves investing illicit funds into businesses with high cash flows to mix illegal and legitimate money.",
+        "spans": [
+          "Blending funds. This entails investment into businesses with high cash flows, such as laundromats and carwashes, which intermingles illicit funds with legitimate money until the two income streams are indistinguishable from each other."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Trade-based money laundering uses purchasing goods at inflated or deflated prices, or investing in legal financial streams to integrate illicit funds.",
+        "spans": [
+          "Trade-based money laundering. Money launderers use this technique to integrate the proceeds of crime into the legitimate economy by purchasing goods at inflated or deflated prices, often internationally.",
+          "Another variation is to make legitimate investments in legal financial streams, such as trading in stocks and bonds, or purchasing interests in established businesses."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Shell companies are dummy companies created to hide illegal funds and avoid paying taxes.",
+        "spans": [
+          "Shell companies. This is when dummy companies (‘shells’) are created by money launderers to hide illegal funds and avoid paying taxes."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Round Tripping involves transferring funds offshore and returning them as foreign investment to circumvent tax obligations.",
+        "spans": [
+          "Round Tripping. Here, crafty accountancy methods transfer funds to offshore enterprises or jurisdictions with weaker AML controls, before being returned as direct foreign investment to circumvent tax obligations."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Bank Capture is when money launderers gain control of a financial institution to move funds without scrutiny.",
+        "spans": [
+          "Bank Capture. This is when the money launderers themselves gain control of a financial institution. They then move funds around without scrutiny and can transact with other, above-board banks to legitimise their funds."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Casinos are used to launder money by exchanging cash for chips, gambling briefly, then cashing out chips as gambling returns.",
+        "spans": [
+          "Casinos. Criminals use casinos to launder money by swapping illegally acquired cash for gambling chips, playing the tables or machines for a short period, then cashing the chips for a cheque or receipt."
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "Black Salaries involve cash-in-hand payments of salaries to unregistered workers using illicit funds.",
+        "spans": [
+          "Black Salaries. This money laundering technique involves ‘cash-in-hand’ payments of salaries to unregistered workers, often using illegally obtained and untaxed funds."
+        ]
+      },
+      {
+        "point_number": 13,
+        "point_content": "Tax Havens are jurisdictions with favorable financial regulations used for tax evasion or minimization, including by criminals.",
+        "spans": [
+          "Tax Havens. There are various jurisdictions around the world regarded as tax havens because of financial regulations favourable to a variety of investors for tax evasion or minimisation purposes, including criminals."
+        ]
+      },
+      {
+        "point_number": 14,
+        "point_content": "Transaction Laundering occurs when illicit businesses hide illegal online sales through legitimate merchants.",
+        "spans": [
+          "Transaction Laundering. This growing problem in the e-commerce sphere occurs when illicit businesses hide illegal online sales and purchases through legitimate merchants, who are either complicit or unknowingly been exploited."
+        ]
+      }
+    ]
+  }
+}

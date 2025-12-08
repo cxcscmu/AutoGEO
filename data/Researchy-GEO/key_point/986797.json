@@ -1,0 +1,327 @@
+{
+  "question": "why oil price rise",
+  "key_points": {
+    "clueweb22-en0035-63-17055": [
+      {
+        "point_number": 1,
+        "point_content": "Positive news on the Covid front that the vaccines in development were extremely efficacious, promising an endpoint to the spread of the virus, initiated strong moves higher in crude oil prices.",
+        "spans": [
+          "the advent of positive news on the Covid front that the vaccines in development were extremely efficacious, promising an endpoint to the spread of the virus"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Gradual decline in U.S. shale production and inventories over the same period boosted the upward trend in crude oil prices.",
+        "spans": [
+          "gradual decline in U.S. shale production and inventories over the same period"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "OPEC+ restrained output into mid-2021 and Saudi Arabia removed another 1-million BOPD from the market, providing impetus for WTI to rise firmly into the $50s.",
+        "spans": [
+          "the move in early January, by OPEC+ to restrain output into mid-2021, and an extra “gift” from Saudi Arabia to remove another 1-million BOPD from the market"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Demand will return as implementation of vaccines increases the virus-immune population, resuming business activity and demand for refined petroleum products.",
+        "spans": [
+          "As implementation of the vaccines increases the pool of the virus-immune population, business activity will resume creating demand for refined petroleum products"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Democrats controlling all three branches of government will make increases in U.S. production very unlikely, leading to a stricter regulatory environment and increased renewable fuels at the expense of petroleum-based fuels.",
+        "spans": [
+          "The concentration of power over the next couple of years, with Democrats controlling all three branches of government, will make increases in U.S. production very unlikely",
+          "We will see an enhanced and stricter regulatory environment in the coming years",
+          "The U.S. will be put firmly on a path where renewable fuels are increased at the expense of petroleum-based fuels"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "OPEC+ and Saudi Arabia's actions to reduce supply have moved oil prices above $50 and suggest OPEC+ is resuming its traditional role of setting crude prices for the world.",
+        "spans": [
+          "OPEC+ has surprised the world with its resolve to finally push prices higher",
+          "Saudi Arabia unilaterally chose to withdraw another 1-million BOPD from global markets beyond its OPEC+ commitments",
+          "It was this action that moved the oil markets above $50 for the first time since early March 2020",
+          "What this suggests strongly is that the cartel is resuming its traditional role of setting crude prices for the world"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Decline of U.S. supplies and capital restraint by U.S. shale producers will keep the overall trend down, returning pricing power to OPEC+ and making $50 a likely floor price.",
+        "spans": [
+          "The decline of U.S. supplies will return pricing power firmly to OPEC+",
+          "The recently obtained $50 handle is likely to be a floor price going forward",
+          "The glut we’ve had to deal with over the last few years will continue to dissipate as capital restraint by U.S. shale producers keeps the overall trend down"
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Commodity prices, including crude oil, are susceptible to inflationary pressures and are expected to boom due to stimulus and monetary policies.",
+        "spans": [
+          "There is no commodity that is more fundamental to the world economy than crude oil",
+          "Among the things that drive crude oil other than scarcity is the fact it’s priced in dollars, which makes it very susceptible to inflationary pressures",
+          "There is a price to be paid for the tidal wave of cash distributed thus far, and the further stimulus to come as the Biden administration assumes control of the economy",
+          "Classic monetary theory tells us that part of the price is likely to be inflation",
+          "Commodity prices rose sharply between, 2008-2011 in the face of the stimulus provided in response to the Financial Crisis of 2008",
+          "A rising or sharply rising price environment for commodities is strongly bullish for higher oil prices"
+        ]
+      }
+    ],
+    "clueweb22-en0026-46-05803": [
+      {
+        "point_number": 1,
+        "point_content": "The price of Brent crude oil has been rising steadily since hitting a low of USD 16 per barrel on April 22, 2020, and has now crossed the USD 80-per-barrel mark.",
+        "spans": [
+          "From hitting as low as USD 16 per barrel on April 22, 2020, the price of Brent crude oil has been rising steadily ever since and has now crossed the USD 80-per-barrel mark."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Global demand for crude oil has increased in 2021 as the world economy recovers from COVID-19, resulting in a sharp rise in prices.",
+        "spans": [
+          "As the world economy recovers from COVID-19, global demand for crude oil has increased in 2021 resulting in a sharp rise in prices."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Supply restrictions maintained by the OPEC+ grouping nations have caused a sharp increase in international oil prices.",
+        "spans": [
+          "Another reason for a sharp increase in international oil prices is the supply restrictions maintained by the OPEC+ grouping nations."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Oil-producing economies continue with slow production increases due to the pandemic, leading to a rise in oil and gas prices.",
+        "spans": [
+          "Due to the pandemic, these oil-producing economies continue with slow production increases leading to a rise in oil and gas prices."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "There is a shortage of gas in Europe and Asia, boosting demand for oil for power generation.",
+        "spans": [
+          "There is a shortage of gas in Europe and Asia at present which has boosted the demand for oil for power generation."
+        ]
+      }
+    ],
+    "clueweb22-en0019-24-12907": [
+      {
+        "point_number": 1,
+        "point_content": "Oil prices went up significantly last week despite an over-supply of crude oil in the U.S. market.",
+        "spans": [
+          "Oil prices went up significantly last week.",
+          "In the U.S. there is an over-supply of crude oil in the market, at present."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Crude oil inventories increased more than expected due to strong imports, but distillate fuel inventories fell due to high demand.",
+        "spans": [
+          "More than expected crude inventories due to more imports. An increase of 2.7 million barrels.",
+          "Increased crude oil stockpiles on the back of strong imports. The stockpiles increased to 341.6 million barrels, a climb by almost 4.1 million bbl (for week ended February 26).",
+          "Distillate fuel inventories fell 900,000 bbl to 151.8 million bbl due to high demand."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Refinery utilization in the U.S. rose to 81.9%, the highest since October, increasing refinery operating costs which compensated for any possible decrease in oil price.",
+        "spans": [
+          "According to the U.S. Energy department, refinery utilization in the U.S. rose to 81.9%, an increase by 0.7% for the week ending February 26. The refinery operating rates were the highest since October.",
+          "For its part, the high refinery cost has compensated for any possible decrease in the price of oil."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "US fuel demand increased by 3% from last year, contributing to the rise in oil prices.",
+        "spans": [
+          "In addition, the US fuel demand was at 19.3 million barrels for the last four weeks an increase of 3% from last year-according to the department."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Reports of rebel groups attacking oil installations in Nigeria caused investor fears about oil exports, helping increase oil prices.",
+        "spans": [
+          "Amid this, there were reports of rebel groups attacking oil installations in Nigeria.",
+          "investors feared for the oil exports from the region.",
+          "The reports of the attacks are yet to be confirmed, but, still, helped increase the oil prices ."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Lower than expected US unemployment figures led investors to see signs of economic revival, causing the dollar to fall and oil prices to rise.",
+        "spans": [
+          "U.S. jobs report showed lower than expected unemployment figures.",
+          "As soon as the Labor department came up with the news, dollar fell increasing the oil prices."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "A weak dollar makes dollar-denominated commodities cheaper, increasing the price of oil.",
+        "spans": [
+          "Dollar-denominated commodities become cheaper with a weak dollar, in turn increasing the price of oil."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Optimistic signs in US manufacturing and business confidence increased expectations of fuel demand, supporting oil prices.",
+        "spans": [
+          "Moving on, there were optimistic signs on the manufacturing font in the U.S.",
+          "Confidence of the businesses showed as the Inventories continued to increase."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Positive economic targets set by China, the world's second biggest oil consumer, suggest better fuel demand and support oil prices.",
+        "spans": [
+          "In addition, there emerged positive signs from the world's second biggest oil consumer, China.",
+          "Last Friday, the Chinese premier Wen Jiabao set an economic target of eight percent for this year."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Other geopolitical and economic factors such as heating oil demand in the Northern hemisphere, piracy in the Gulf of Aden, Iraqi elections, and Greece's austerity measures also influenced oil prices.",
+        "spans": [
+          "Heating oil demand from the Northern hemisphere",
+          "Seizure of a Saudi Arabian oil tanker by pirates in the Gulf of Aden too worried the investors.",
+          "As did the Iraqi parliamentary election due March 7.",
+          "Greece's austerity measures to rein in the debt problem"
+        ]
+      }
+    ],
+    "clueweb22-en0015-12-00112": [
+      {
+        "point_number": 1,
+        "point_content": "High oil prices are caused by high demand, low supply, OPEC quotas, or a drop in the dollar's value.",
+        "spans": [
+          "High oil prices are caused by high demand, low supply, OPEC quotas, or a drop in the dollar's value ."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Demand for oil and gas typically follow a predictable seasonal swing, rising in spring and summer due to increased driving for vacations.",
+        "spans": [
+          "Demand for oil and gas typically follow a predictable seasonal swing. Demand rises in the spring and summer due to increased driving for summer vacations."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Low supply occurs when war or natural disasters curtail exports from oil-producing countries, causing traders to bid up prices.",
+        "spans": [
+          "Low supply occurs when war or natural disasters curtail exports from oil-producing countries. Traders often bid up prices when they hear of impending disasters or the threat of war."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "OPEC members reducing their output can cause high oil prices, as seen in 2017 and 2018.",
+        "spans": [
+          "The third factor is when OPEC members reduce their output. That's what caused high oil prices in 2017 and 2018."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Most oil contracts are traded in dollars, so when the dollar declines, it costs more to buy a barrel of oil, driving prices up.",
+        "spans": [
+          "Most oil contracts around the world are traded in dollars. As a result, when the dollar declines, it costs more to buy a barrel of oil."
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0033-62-07428": [
+      {
+        "point_number": 1,
+        "point_content": "Crude oil prices have been rising steadily since the beginning of 2021 due to hopes of improving demand and supply cuts by key oil-producing countries.",
+        "spans": [
+          "Crude oil prices have been rising steadily since the beginning of 2021 when Brent Crude was trading at about $52 per barrel buoyed both by hopes of improving demand due to economic recoveries across geographies as well as supply cuts by key oil-producing countries."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "OPEC extended supply cuts made in 2020 and Saudi Arabia made an additional voluntary production cut, which has been partially restored.",
+        "spans": [
+          "The Organisation of Petroleum Exporting Countries extended supply cuts made in 2020 when crude oil prices had reached a low of under $19 per barrel through the first five months of 2021.",
+          "Saudi Arabia notably made an additional voluntary production cut of 1 million barrels per day between February and April of which only 250,000 barrels of production has been restored in May and 750,000 barrels of production is set to be restored over June and July."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "OPEC+ is set to restore production gradually but this is unlikely to significantly impact prices as demand increases with economic activity.",
+        "spans": [
+          "Beside the reversal of the voluntary cut by Saudi Arabia, OPEC+ is set to restore production of 350,000 barrels per day in June and 441,000 barrels per day July.",
+          "Experts have noted however that the gradual withdrawal of cuts is unlikely to have any significant impact on prices as demand for petroleum products increases as demand increases spurred by increasing economic activity."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "A potential Iran nuclear deal and removal of sanctions would not majorly impact oil prices as any increase in Iranian production would be gradual.",
+        "spans": [
+          "A potential breakthrough in international efforts for a new Iran nuclear deal which would see international sanctions on Iranian oil removed would also not have a major impact on oil prices according to OPEC which expects that any increase in crude oil production from Iran would happen gradually and would not destabilise crude oil prices."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Rising crude oil prices have led to record high petrol and diesel prices in India, with significant hikes since the beginning of the year.",
+        "spans": [
+          "Rising crude oil prices have contributed to petrol and diesel prices rising to record high levels across the country.",
+          "The price of petrol has been hiked by Rs 10.8 per litre since the beginning of the year while the price of diesel has been hiked by Rs 11.5 per litre in the same time period."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Current petrol and diesel prices in India are still lower than what refiners should charge based on international prices, and prices may rise further without tax cuts or crude price falls.",
+        "spans": [
+          "Officials at oil marketing companies have however noted that even current record-high prices are lower than what refiners should be charging in line with international prices and that prices are set to rise further unless there is a cut on levies on autofuels or a fall in crude oil prices."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "State and central taxes make up a large portion of petrol and diesel prices in India, with central excise duties hiked in 2020 to shore up revenues during the pandemic.",
+        "spans": [
+          "State and central taxes account for about 58 per cent of the pump price of petrol and 52 per cent of the pump price of diesel in the national capital on Wednesday.",
+          "The central government had in 2020 hiked central excise duties on petrol by Rs 13 per litre and those on diesel by Rs 16 per litre to shore up revenues as economic activity fell due to the pandemic."
+        ]
+      }
+    ],
+    "clueweb22-en0025-14-04284": [
+      {
+        "point_number": 1,
+        "point_content": "Demand is rising as the world economy is getting back to normal and supply cannot keep up.",
+        "spans": [
+          "Demand fell and prices fell during the coronavirus lockdown, but now that the world economy is getting back to normal the demand is rising and supply cannot keep up."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Economies around the world are back up and running and looking to make up for lost time, thereby increasing demand.",
+        "spans": [
+          "Economies around the world are back up and running and looking to make up for lost time, thereby increasing demand."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Hurricanes Ida and Nicholas damaged US oil infrastructure in the Gulf of Mexico, affecting supply.",
+        "spans": [
+          "Hurricanes Ida and Nicholas damaged US oil infrastructure in the Gulf of Mexico."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Coal shortages in Asia have led to increased oil usage in that continent.",
+        "spans": [
+          "Coal shortages in Asia have seen countries on that continent use more oil than they used to."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "A surge in natural gas prices has increased demand for oil as a substitute.",
+        "spans": [
+          "A surge in natural gas prices has increased demand for oil.",
+          "The recent surge in natural gas and coal prices globally has increased demand for crude oil to meet power demand."
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "question": "how are managers today different from managers in the past?",
+  "key_points": {
+    "null": [],
+    "clueweb22-en0025-86-07506": [
+      {
+        "point_number": 1,
+        "point_content": "Management is more progressive today. There is more emphasis on working in teams.",
+        "spans": [
+          "Management is more progressive today. There is more emphasis on:",
+          "working in teams."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "One of the challenges facing today's managers is to work with a more educated workforce.",
+        "spans": [
+          "One of the challenges facing today's managers is to:",
+          "work with a more educated workforce."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Today's progressive managers emphasize teamwork and cooperation rather than discipline and order-giving.",
+        "spans": [
+          "Today's progressive managers:",
+          "emphasize teamwork and cooperation rather than discipline and order-giving."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Compared to earlier workers, today's employees are more willing to leave the firm to seek better opportunities.",
+        "spans": [
+          "Which of the following statements comparing today's workers with those from earlier eras is most accurate? Compared to earlier workers, today's employees are:",
+          "more willing to leave the firm to seek better opportunities."
+        ]
+      }
+    ],
+    "clueweb22-en0021-61-05353": [
+      {
+        "point_number": 1,
+        "point_content": "Today's progressive managers tend to emphasize cooperation and supporting employees rather than discipline and order-giving.",
+        "spans": [
+          "Today's progressive managers:",
+          "B. tend to emphasize cooperation and supporting employees rather than discipline and order-giving."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Managers today emphasize teamwork and communication, unlike managers in the past.",
+        "spans": [
+          "How are managers today different from managers in the past?",
+          "D. Managers today emphasize teamwork and communication."
+        ]
+      }
+    ],
+    "clueweb22-en0029-54-10006": [
+      {
+        "point_number": 1,
+        "point_content": "Managers today emphasize teamwork rather than individual work or strict control.",
+        "spans": [
+          "Management is more progressive today. There is more emphasis on: B. working in teams.",
+          "Today's progressive managers: B. emphasize teamwork and cooperation rather than discipline and order-giving.",
+          "The revolution in management that is currently underway suggests that the most effective managers of the future will: D. emphasize team work.",
+          "How are managers today different from managers in the past? D. Managers today emphasize teamwork"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Today's managers work with a more educated workforce compared to the past.",
+        "spans": [
+          "One of the challenges facing today's managers is to: C. work with a more educated workforce."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Today's employees are more willing to leave the firm to seek better opportunities than earlier workers.",
+        "spans": [
+          "Which of the following statements comparing today's workers with those from earlier eras is most accurate? Compared to earlier workers, today's employees are: C. more willing to leave the firm to seek better opportunities."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Managers today must become more like coaches and counselors than bosses due to empowerment and team use.",
+        "spans": [
+          "As firms make greater use of empowerment and teams, managers will find that they: D. must become more like coaches and counselors than bosses.",
+          "Adam is a first-line manager for Idle Time Gaming, Inc., a company whose values and focus is innovation. Having recently transferred in from a traditional retail (top/down) company, which of the following changes will the new company expect Adam to embrace? C. He will need to act less like a \"boss\" and more like a coach, advisor, counselor, and team player"
+        ]
+      }
+    ]
+  }
+}

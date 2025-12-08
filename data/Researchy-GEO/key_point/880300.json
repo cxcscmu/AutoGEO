@@ -1,0 +1,80 @@
+{
+  "question": "do women experience pain differently than men",
+  "key_points": {
+    "clueweb22-en0023-76-07691": [
+      {
+        "point_number": 1,
+        "point_content": "Women experience greater levels of pain than men in reaction to the same painful stimuli and experience more distress and suffering in relation to pain.",
+        "spans": [
+          "women experience greater levels of pain than men in reaction to the same painful stimuli",
+          "Women also experience more distress and suffering in relation to pain"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "There are different neural pathways and central nervous system processing of pain in men and women, with women having increased nerve density and more sensitive nociceptors.",
+        "spans": [
+          "There may be sex differences in peripheral afferent pathways, in the central networks which integrate and process noxious sensation, and/or in the descending, efferent systems which modulate nociception.",
+          "there is an extensive literature from both humans and animals demonstrating that females have lower pain thresholds across multiple sensory modalities.",
+          "Research using fMRI has illuminated substantial sex differences in CNS (central nervous system) processing of pain stimuli and even of anticipation of pain stimuli",
+          "women averaged 34 nerve fibers per square centimeter of facial skin while men only averaged 17 nerve fibers"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Women tend to be more self aware of bodily sensations and more likely to notice and describe pain, leading to earlier help seeking but also more worry and catastrophizing about pain.",
+        "spans": [
+          "Women tend to be more self aware of experiences and sensations within their body.",
+          "Women are often more regularly visiting a medical professional for things like smear tests",
+          "Women are more likely to seek help for ill health sooner",
+          "women are more inclined to worry about their health, and therefore are more susceptible to negative thoughts about their pain",
+          "Women are therefore more likely to be hypervigilant (meaning being overly focused on their pain) and to catastrophize (meaning worry excessively) about their pain"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Hormones such as estrogen, progesterone, and testosterone influence pain processing, with testosterone being anti-nociceptive and higher in men, contributing to less severe pain experience in men.",
+        "spans": [
+          "The receptors for sex hormones, such as estrogen, progesterone and testosterone, are in the same areas of the nervous system as those which pick up and transmit pain messages.",
+          "Testosterone is anti-nociceptive, which means that it essentially blocks or lessens the effects of external painful stimuli.",
+          "Levels of testosterone are much higher in men, which contributes to them experiencing less severe pain levels than women in response to the same stimuli"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Gender role beliefs and stigma affect how men and women report pain and seek treatment, with men more likely to hide pain and women more likely to seek help but also face dismissal or misdiagnosis.",
+        "spans": [
+          "Women are more likely to report pain than men and to seek help.",
+          "Men are more likely to feel that they need to appear strong and ‘power through’ their pain",
+          "females being more likely to seek help, both from medical professionals and from loved ones, while men feel they need to bottle things up",
+          "men are less likely to be diagnosed with chronic pain, because many medical professionals view it as a ‘women’s illness’",
+          "men are more likely to be given painkillers while women are more likely to be given sedatives or diagnosed with a mental health condition"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Women are more likely to struggle with anxiety and depression, which impacts chronic pain levels and management.",
+        "spans": [
+          "Women are more likely to struggle with anxiety and depression, being 2 to 3 times more likely to struggle with these disorders as this study describes"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Women are more likely to have experienced childhood trauma, which is linked to chronic pain in adulthood.",
+        "spans": [
+          "Women are more likely to have experienced trauma in childhood",
+          "This link may be driven by hypothalamus–pituitary–adrenal axis abnormalities and/or neuroendocrine dysregulation caused by the initial trauma"
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Pain medications like opioids are processed differently in men and women, with women often getting more effective pain relief at lower doses.",
+        "spans": [
+          "Women are more likely to get more effective pain relief from opioids than men",
+          "Human experiments consistently show that µ opioids have increased potency in females"
+        ]
+      }
+    ],
+    "null": []
+  }
+}

@@ -1,0 +1,519 @@
+{
+  "question": "how microbiology affect human life",
+  "key_points": {
+    "clueweb22-en0028-53-13760": [
+      {
+        "point_number": 1,
+        "point_content": "Microorganisms play crucial roles in nutrient cycling, biodegradation, climate change, food spoilage, the cause and control of disease, and biotechnology.",
+        "spans": [
+          "These microbes play crucial roles in nutrient cycling, biodegradation, climate change, food spoilage, the cause and control of disease, and biotechnology."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Microorganisms make up more than 60 per cent of the Earth’s living matter and recycle nutrients necessary for life on Earth.",
+        "spans": [
+          "They make up more than 60 per cent of the Earth’s living matter and scientists estimate that 2 to 3 billion species share the planet with us, also some microbial cells break down organic matter and recycle nutrients, such as carbon and nitrogen, that are necessary for life on Earth."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Microorganisms can be used in making life-saving drugs, manufacturing biofuels, cleaning up pollution, and producing or processing foods and drinks.",
+        "spans": [
+          "They can be used in many ways; making life-saving drugs, the manufacturing of biofuels, cleaning up of pollution and producing or processing of foods and drinks."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Medical microbiology helps in the identification, isolation, diagnosis and treatment of pathogenic microorganisms and produces beneficial organisms such as yeasts and some antibiotics.",
+        "spans": [
+          "The major importance of medical microbiology is that it helps in the identification, isolation, diagnosis and treatment of pathogenic microorganisms and also produces beneficial organisms such as yeasts and some antibiotics."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Microbiology provides information used to create vaccines and treatments for different diseases.",
+        "spans": [
+          "Microbiology gives the information which further use to create the vaccines and treatments for different diseases."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Microbiologists help diagnose diseases and prevent their spread by identifying, containing and treating disease in the human body.",
+        "spans": [
+          "These scientists help to diagnose diseases such as meningitis and tuberculosis and help to prevent the spread of diseases by identifying, containing and treating disease in the human body."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Microbiology is essential for understanding the immune system and the development of medical devices for pathogen detection.",
+        "spans": [
+          "Biologists use knowledge obtained from microbiology when studying the immune system.",
+          "Microbiology plays a significant role in medical devices, such as fluorescent fusion, which is used for fast and precise detection of pathogens in tissue samples."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Recombinant DNA technology involving bacteria is used to produce human insulin safely and in large amounts.",
+        "spans": [
+          "Then rDNA(Recombinant DNA) technique involving E.coli bacteria was adopted to produce large amounts of human insulin which are even safe."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Environmental microbiology studies microbial communities in soil, water, air, and sediments and their interactions with plants, animals, and environmental factors.",
+        "spans": [
+          "Environmental microbiology is the study of the composition and physiology of microbial communities in the environment. The environment, in this case, means the soil, water, air and sediments covering the planet and can also include the animals and plants that inhabit these areas."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Microorganisms help degrade oil spills and aromatic compounds, aiding in environmental cleanup and biotechnological applications.",
+        "spans": [
+          "Oil spills of coastal regions and the open sea are poorly containable and mitigation is difficult, however much of the oil can be eliminated by the hydrocarbon-degrading activities of microbial communities, in particular, the Hydrocarbonoclastic bacteria (HCB).",
+          "Acinetobacter strains isolated from the environment are capable of the degradation of a wide range of aromatic compounds."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Microorganisms are used in bio-treatment processes to treat waste in an environmentally friendly way.",
+        "spans": [
+          "Bio-treatment is the processing of waste using living organisms; it is an environmentally friendly alternative to other options."
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "Microbiology helps keep food safe by identifying microorganisms in food and preventing food spoilage and contamination.",
+        "spans": [
+          "Microbiology helps us to identify the microorganisms that exist in food. With a better understanding of these microorganisms, help the biologists to find out the ways for preventing the food from spoilage and make food safe.",
+          "Scientists use good bacteria against pathogenic bacteria to prevent food contamination."
+        ]
+      },
+      {
+        "point_number": 13,
+        "point_content": "Microbiologists work with regulatory agencies to identify food products that pose health risks and investigate food poisoning outbreaks.",
+        "spans": [
+          "Microbiologists specializing in food-based bacteria can work with the Food and Drug Administration to help identify food products that can pose a risk to human health. They also investigate the food poisoning outbreaks, aiming to identify their causes in order to prevent recurrence."
+        ]
+      },
+      {
+        "point_number": 14,
+        "point_content": "Microorganisms help keep water clean through sewage treatment by breaking down organic matter.",
+        "spans": [
+          "These living bacteria help to keep water clean through sewage treatment. Bacteria break down the organic matter in sewage, helping to clean the water before this water released back into the environment."
+        ]
+      },
+      {
+        "point_number": 15,
+        "point_content": "Microbiology helps farmers by controlling plant pests and diseases, optimizing nitrate levels, and using microbes as natural pesticides and manures.",
+        "spans": [
+          "Microbiologists investigate the vital role of microbes in the soil. Some concentrate on plant pests and diseases, developing ways to control them or even use microbes to control insect pests and weeds.",
+          "Few microbes like bacteria and virus are exploited against pest attacking farm crops. Hence they are called natural pesticides.",
+          "Few microbes like algae and bacteria are grown up to enhance soil fertility by fixing nitrogen and also water retaining the capacity of the soil."
+        ]
+      },
+      {
+        "point_number": 16,
+        "point_content": "Microbes decompose synthetic pesticide residues and other toxic materials in agricultural soil, protecting farms from toxin accumulation.",
+        "spans": [
+          "Microbes decompose the synthetic pesticide residues and other toxic material in agriculture soil and thereby protecting farms from toxin accumulation."
+        ]
+      },
+      {
+        "point_number": 17,
+        "point_content": "Microbiology is used in food production processes such as making curd, cheese, bread, and yoghurt, and synthesizes vitamin K in the human body.",
+        "spans": [
+          "For example, for the making of curd and cheese, microorganisms are needed.",
+          "A bacterium called Lactobacillus converts the lactose sugar present in milk to lactic which results in the conversion of milk into curd.",
+          "Moreover, yeast can be used to make bread, bacteria is important during the process of making yoghurt.",
+          "Also, vitamin K is only synthesized by the microorganism in the human body."
+        ]
+      },
+      {
+        "point_number": 18,
+        "point_content": "Microorganisms synthesize commercially valuable products like hydroxybutyric acid, ethanol biofuel, and amino acids used as dietary supplements.",
+        "spans": [
+          "bacteria are used to synthesize the commercial valuable products like hydroxybutyric acid which is used in the manufacture of disposable diapers and plastics. Also in ethanol which is a biofuel. They also synthesize amino acids which are very common dietary supplements."
+        ]
+      }
+    ],
+    "clueweb22-en0006-78-09988": [
+      {
+        "point_number": 1,
+        "point_content": "Microbiology impacts human life through infectious diseases that are leading causes of death worldwide.",
+        "spans": [
+          "Infectious diseases are the leading cause of death around the world."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Microorganisms cause diseases such as tuberculosis, HIV/AIDS, malaria, measles, syphilis, tetanus, and respiratory infections, affecting millions and causing high mortality rates.",
+        "spans": [
+          "Top Deadly Diseases of the Developing World",
+          "Infectious diseases are the leading cause of death around the world.",
+          "One third of the worlds population has tuberculosis and it’s particularly prominent in children.",
+          "One in 10 tuberculosis cases are resistant to antibiotics (MDR-TB).",
+          "By the way, the very high HIV infection rate in Africa (10-50% depending on the country) is the reason why Africans are locked in poverty.",
+          "Note that tetanus has an annual infection rate of about 500k and the mortality rate is about 214k."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Microbiology affects human life through the spread of infectious diseases facilitated by global travel and migration.",
+        "spans": [
+          "The world is a global village.",
+          "International travel trade and commerce (the world is a global village).",
+          "Mass migration, spread of the human population."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Emerging infectious diseases arise due to factors like antibiotic misuse, climate change, poverty, and animal husbandry practices.",
+        "spans": [
+          "Emerging infectious diseases are new pathogens that have appeared and quickly spread through populations or known pathogens that have become resurgent, once again threatening wider with greater incidence and geographic range.",
+          "Factors that contribute to emerging infectious diseases:",
+          "6. Medical “malpractice” (the questionable and rampant use of antibiotics).",
+          "7. Poverty and desperate and unequal distribution of wealth and resource.",
+          "9. Animal husbandry (the use of antibiotics in cattle, poultry, etc).",
+          "10. Antibiotic residues in water, soil and food."
+        ]
+      }
+    ],
+    "clueweb22-en0020-80-00913": [
+      {
+        "point_number": 1,
+        "point_content": "Microbes live in and on our bodies and help us digest food and fight off bad bacteria.",
+        "spans": [
+          "most of us are aware our bodies are teeming with microscopic organisms, or microbes.",
+          "These bacteria are mostly beneficial and live in symbiosis with us.",
+          "They help us to digest our food and fight off “bad” bacteria."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Microbes are used in food production such as making alcohol, bread, and cheese.",
+        "spans": [
+          "One way is the commercial use of microbes in food production.",
+          "Bacteria or yeast are typically used to convert the sugar in these drinks into alcohol.",
+          "Yeast, a type of fungi, is also used to make bread.",
+          "A bacteria culture is added to milk to make cheese"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Probiotic supplements contain good bacteria that help keep us healthy.",
+        "spans": [
+          "Probiotic supplements often come in pill form and contain the same “good” bacteria living in our intestines.",
+          "These “good” bacteria help to keep us healthy."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Microbes are used to research and make vaccines and antibiotics which prevent and treat diseases.",
+        "spans": [
+          "Other medical uses for microbiology include using microbes to research and make vaccines and antibiotics.",
+          "Vaccines help to prevent and eradicate disease while antibiotics treat disease in progress."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Microbes are used in industrial processes such as treating wastewater, making natural pesticides, and breaking down waste and pollutants.",
+        "spans": [
+          "Industrial microbiology uses involve treating wastewater in sewage plants with bacteria, making natural pesticides, and using microbes to create products.",
+          "Certain microbes are able metabolize our waste and pollutants and break them down in the process.",
+          "Rural dwelling homeowners with septic systems must add a bacterial mixture to their systems every month to break down the waste.",
+          "A microbial pesticide is a bacterium used to harm pests that might otherwise feed on plants or crops."
+        ]
+      }
+    ],
+    "clueweb22-en0043-57-09367": [
+      {
+        "point_number": 1,
+        "point_content": "There is a demonstrated link between exposures to infectious microorganisms present in built environments and human health.",
+        "spans": [
+          "There is a demonstrated link between exposures to infectious microorganisms present in built environments and human health."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Exposure to indoor microorganisms is linked to the development of respiratory and allergic symptoms, especially from microorganisms in damp indoor settings.",
+        "spans": [
+          "There is evidence of a link between exposure to indoor microorganisms and the development of respiratory and allergic symptoms, particularly those arising from exposure to microorganisms that flourish in damp indoor settings."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Certain microbial exposures, including early-life exposures to diverse microorganisms associated with animals, may have beneficial health effects such as protection from allergy and respiratory symptoms.",
+        "spans": [
+          "Preliminary evidence suggests that certain microbial exposures, including early-life exposures to diverse microorganisms associated with animals, may have beneficial health effects, such as protection from allergy and respiratory symptoms."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Indoor environments are the primary ecosystems inhabited by people in developed areas, influencing the human microbiome and health.",
+        "spans": [
+          "First, in developed areas of the world, indoor environments are the primary ecosystems inhabited by people.",
+          "Second, the environments people inhabit may influence the human microbiome, which may in turn impact human health."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The diversity of microbiomes in built environments may impact the diversity of human microbiomes, which is important for immune development and nutrient processing.",
+        "spans": [
+          "The diversity of the microbiomes of the built environments in which humans live may impact the microbiomes of their bodies.",
+          "This diversity may benefit human health as the microbiomes to which humans are exposed may be important for immune development and the processing of nutrients in the gut, which may not function as well when gut microbial communities change."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Microorganisms impact human health through pathogen-associated molecular patterns (PAMPs) such as endotoxin, LPS, flagellin, and glucans, which influence immune responses and can have toxic effects.",
+        "spans": [
+          "The dominant microbial components linked to human health include pathogen-associated molecular patterns (PAMPs). PAMPs are molecules such as endotoxin and lipopolysaccharide (LPS) (a component of bacterial cell membranes), flagellin (from bacteria), and (1–3)-β-D glucans (also referred to as triple helical glucan, from fungi wall membranes). These molecules are associated with groups of microbes (bacteria or fungi) that may influence human innate immune system responses, interact with airway epithelial cell or irritant receptors (Lambrecht and Hammad, 2013, 2014 ), or have toxic effects."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Indoor microbial exposures can cause respiratory illnesses including asthma development and exacerbation, especially in damp or water-damaged buildings.",
+        "spans": [
+          "Damp building conditions promote the growth of mold, bacteria, and other microbial agents.",
+          "Living, working, or attending school in damp indoor environments has been associated with onset or worsening and exacerbation of asthma in children and adults."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Microbial exposures in indoor environments may also affect nonrespiratory health outcomes such as brain health, endocrine disruption, and child development, though these effects are less well understood.",
+        "spans": [
+          "The impact of bacterial or fungal communities in buildings on health outcomes other than those related to respiratory conditions or allergy is less well established.",
+          "Studies in the United States and internationally have suggested that adult or child brain health may be influenced by aspects of homes or public buildings such as offices, schools, and hospitals."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Indoor microbial communities may have beneficial effects by training or modulating the human immune system and producing molecules that mediate health.",
+        "spans": [
+          "Indoor microbes and their components and metabolites may have beneficial health effects in some circumstances and detrimental health effects in others.",
+          "Potentially beneficial microbes include primarily microorganisms that train or modulate the human immune system (Kelly et al., 2005 ), produce small molecules that mediate human health (Neish, 2009 ), or enable other functions that improve well-being in a human host (Reber et al., 2016; Rook and Lowry, 2008 )."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Early-life exposure to diverse microbial communities, such as those associated with farm environments or pets, may protect against asthma and allergic diseases.",
+        "spans": [
+          "Over the past two decades, interest in the potentially protective influences of indoor environmental microbes has been stimulated in part by farm community studies (see Box 2-3 and Annex Table 2-2 at the end of this chapter) that reproducibly demonstrate a reduced risk of allergic asthma with certain microbial exposures at home in early life.",
+          "Recent evidence suggests that the bacterial communities in dust in homes near farms may be reducing the incidence of asthma in certain populations (Stein et al., 2016) (see Box 2-3 ).",
+          "Dog-associated dust and the bacterial communities therein also have been shown to reduce atopy symptoms in mice (Fujimura et al., 2014 ), a finding suggesting that young children who live in homes with dogs may be less likely to develop asthma (Fall et al., 2015 )."
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0016-83-06427": [
+      {
+        "point_number": 1,
+        "point_content": "Microbiology is important in food science as microorganisms are involved in food production, preservation, and can cause food spoilage and diseases.",
+        "spans": [
+          "Microorganisms involved in food microbiology include bacteria molds and yeasts.",
+          "Bacteria mainly cause food intoxication and food spoilage thereby causing various human gut health diseases.",
+          "Several bacterial strains are used to produce a wide range of food and dairy products.",
+          "Lactic acid bacteria help in producing yogurt cheese, hot sauce, pickles, fermented sausages, and kimchi.",
+          "Molds are used to manufacture various food and food products.",
+          "Yeasts are used in the food industry as they ferment sugar into ethanol and carbon dioxide.",
+          "A yeast, Saccharomyces cerevisiae is used to make bread, brew beer, and make wine.",
+          "Nisin is an antimicrobial agent derived from bacteria. It is used in cheese, meats, and beverages to preserve them by inhibiting the growth of detrimental microorganisms."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Microbiology is crucial in medical science for identifying, diagnosing, preventing diseases, and producing antimicrobial drugs and vaccines.",
+        "spans": [
+          "Through the knowledge of medical microbiology, microbiologists can identify, isolate, diagnose, prevent pathogenic microorganisms.",
+          "They also can engineer beneficial microorganisms to produce antimicrobial drugs.",
+          "The knowledge of microbiology helps microbiologists to innovate new methods to combat diseases.",
+          "Fluorescent fusion is a good example of medical microbiology, that helps in the rapid detection of pathogens in the tissue sample."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Microbiology contributes to the pharmaceutical industry through the discovery of antibiotics, vaccines, phage therapy, steroids, and production of insulin using recombinant DNA technology.",
+        "spans": [
+          "The discovery of antibiotics is one of the most important contributions of microbiology in the pharmaceutical industry.",
+          "Antibiotics are the metabolic byproduct of microorganisms.",
+          "The vaccine is also another important discovery of microbiology.",
+          "Phage therapy has also attracted great attention due to its killing potential against bacteria.",
+          "Steroids are also another pharmaceutical product produced by microorganisms.",
+          "One of the great examples of medical microbiology is the discovery of Insulin.",
+          "Recombinant DNA technology uses E. coli to produce a higher amount of insulin to control sugar concentration in diabetes patients."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Knowledge of microbiology in nursing helps control and prevent infections, maintain hygiene, and manage aseptic techniques in healthcare.",
+        "spans": [
+          "The knowledge of microbiology in nursing is very important to control and prevent infection in the hospital.",
+          "The knowledge of microbiology for the nurses and other health professionals in healthcare is very important because it gives them much information about health and hygiene.",
+          "Through the knowledge of microbiology, the nurses and other health professionals in healthcare can learn, how infections spread and how to carefully cure or surgery an open wound without infecting it.",
+          "The knowledge of microbiology teaches them to keep the instruments aseptic and contaminant-free.",
+          "It helps them find and identify the symptoms of an infection and type of infection at its early stage."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Microorganisms are used in biotechnology for fermentation, molecular biology, bioremediation, bioleaching, and production of industrial products.",
+        "spans": [
+          "Microorganisms are used in various fields of biotechnology.",
+          "In the fermentation industry, microbes are used to produce ethanol, organic acids, vinegar, and fermented foods by degrading complex organic matters.",
+          "Microbes (e. g. virus) are used as a source of molecular vectors such as a plasmid, phagemid, and cosmid in molecular biology and recombinant DNA technology.",
+          "Microbes are used in bioremediation that removes organic compounds and hydrocarbon from sewage water by degrading these organic wastes.",
+          "By using microorganisms, microbiologists extract metals or heavy metals from their ore through a process called bioleaching and biomining.",
+          "Microorganisms also produce enzymes, vitamins, organic acids, antibiotics, amino acids, and polysaccharides as their metabolic products for industrial purposes."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Microorganisms produce various chemical products used industrially such as acids, alcohols, sugars, and other compounds.",
+        "spans": [
+          "Several industrial chemical products are produced through the use of microorganisms.",
+          "These products include acetaldehyde, acetic acid, acetoacetic acid, butanol, ethanol, fructose, galactose, glycerol, lactic acid, mannitol, mannose, pyruvic acid, sorbose, succinic acid."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Microbiology is important in fuel production, including biofuel, biodiesel, ethanol, and butanol from microalgae and fermentation.",
+        "spans": [
+          "Biofuel can be obtained from extracted microalgae oil, biomethane by anaerobic digestion of Microalgae biomass, ethanol by fermentation of carbohydrate.",
+          "Microalgae are a potential source of oil content for biodiesel production.",
+          "Microalgae contain a large amount of cellulose, starch, mannitol, agar and laminarin that are fermented to alcohol (ethanol and butanol)."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Microorganisms play a vital role in aquaculture by decomposing organic matter, protecting fish from infections, improving water quality, and controlling diseases.",
+        "spans": [
+          "Heterotrophic microorganisms play an important role in decomposing organic matter and cycling of nutrients in aquatic systems.",
+          "Microorganisms also play various important roles in aquaculture as they grow naturally in the aquatic environment.",
+          "Microorganisms may Protect fish and larvae from various microbial infections.",
+          "Improve the overall quality of water.",
+          "Control the development of microbial and insect-infected diseases.",
+          "Suppress the growth of harmful bacteria and enhance larval survival, minimizing the need to apply antibiotics."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Microorganisms enhance soil fertility, fix nitrogen, help plant nutrient absorption, and control pests in agriculture.",
+        "spans": [
+          "Microorganisms help in decomposing toxic compounds in agricultural soil preventing toxic accumulation in the soil.",
+          "Microorganisms (e.g. Blue-green algae) play an important role in nitrogen fixation.",
+          "Fungi like Mycorrhiza help the plant absorb minerals and water from the soil and protect its roots from other fungi and nematodes.",
+          "Actinomycetes (Nocardia and Monospora) and Molds (Mucor and Aspergillus) increase the fertility of the soil by decomposing its organic matter.",
+          "Other soil bacteria help in nitrification, nitrification, mineralization and sulfur oxidation, etc.",
+          "Soil bacteria produce Humus that helps in retaining soil moisture and enhances the formation of soil structure.",
+          "Soil bacteria support plant growth by producing several substances like auxins, gibberellins, and antibiotics.",
+          "Soil bacteria also help in controlling pest and microbial disease."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Microbiology is important in environmental science for degrading pollutants, sewage treatment, and nutrient cycling.",
+        "spans": [
+          "Environmental Microbiology is the study of microorganisms that lives in air, soil, water.",
+          "Microorganisms degrade toxic pollutants from the environment.",
+          "Bacteria help us clean water through sewage treatment.",
+          "Bacteria degrade the organic matter in sewage removing the pollution from water.",
+          "Nitrification and phosphorous removal are occurred by bacteria in the sewage system.",
+          "Nitrosomonas spp oxidize ammonium to nitrite and Nitrobacter spp oxidize nitrite to nitrate.",
+          "Denitrifying bacteria (Pseudomonas) reduce nitrate into nitrogen gas using the chemical energy in organic matter to reduce.",
+          "Aerobic bacteria also ferment solid components of the sewage."
+        ]
+      }
+    ],
+    "clueweb22-en0021-03-15976": [
+      {
+        "point_number": 1,
+        "point_content": "Micro-organisms matter because they affect every aspect of our lives – they are in us, on us and around us.",
+        "spans": [
+          "Micro-organisms matter because they affect every aspect of our lives – they are in us, on us and around us."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Microbes play key roles in nutrient cycling, biodegradation/biodeterioration, climate change, food spoilage, the cause and control of disease, and biotechnology.",
+        "spans": [
+          "These microbes play key roles in nutrient cycling, biodegradation/biodeterioration, climate change, food spoilage, the cause and control of disease, and biotechnology."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Microbes can be put to work in many ways: making life-saving drugs, the manufacture of biofuels, cleaning up pollution, and producing/processing food and drink.",
+        "spans": [
+          "Thanks to their versatility, microbes can be put to work in many ways: making life-saving drugs, the manufacture of biofuels, cleaning up pollution, and producing/processing food and drink."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Microbiology research has been central to meeting many global challenges such as maintaining food, water and energy security for a healthy population on a habitable earth.",
+        "spans": [
+          "Microbiology research has been, and continues to be, central to meeting many of the current global aspirations and challenges, such as maintaining food, water and energy security for a healthy population on a habitable earth."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Microbes and the human body: Ever wondered why when we are surrounded by microbes we are not ill all the time?",
+        "spans": [
+          "Microbes and the human body",
+          "Ever wondered why when we are surrounded by microbes we are not ill all the time?"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Microbes and food: Bread, chocolate, yoghurt, blue cheese and tofu are all made using microbes.",
+        "spans": [
+          "Microbes and food",
+          "Food for thought – bread, chocolate, yoghurt, blue cheese and tofu are all made using microbes."
+        ]
+      }
+    ],
+    "clueweb22-en0038-81-12583": [
+      {
+        "point_number": 1,
+        "point_content": "Microbes on the human body help to protect us from becoming infected with harmful microbes.",
+        "spans": [
+          "The surfaces of the human body inside and out, for example the skin, mouth and the intestines, are covered in millions of individual micro-organisms that don’t do us any harm. In fact they help to protect us from becoming infected with harmful microbes."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The normal body flora consists of about 100 million bacterial cells, which is 10 times greater than the number of human cells.",
+        "spans": [
+          "The number of normal bacterial cells that live on the body is in the region of 100 million. This number is 10 times greater than the 10 million cells that make up the human body."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Microbes that cause disease are called pathogens.",
+        "spans": [
+          "Microbes that cause disease are called pathogens."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The immune system fights infections caused by invading pathogens.",
+        "spans": [
+          "An infection can be seen as a battle between the invading pathogens and host. How does the immune system work?"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Vaccines help protect against diseases caused by microbes.",
+        "spans": [
+          "Just a shot in the arm – what do vaccines do?"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Antibiotics are medicines that fight bacterial infections.",
+        "spans": [
+          "Antibiotics are powerful medicines that only fight bacterial infections."
+        ]
+      }
+    ]
+  }
+}

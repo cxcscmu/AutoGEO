@@ -1,0 +1,151 @@
+{
+  "question": "does inequality help growth or hurt it",
+  "key_points": {
+    "null": [],
+    "clueweb22-zh_chs0006-63-15780": [],
+    "clueweb22-zh_chs0003-78-00136": [],
+    "clueweb22-zh_chs0007-52-15239": [],
+    "clueweb22-en0013-15-14969": [
+      {
+        "point_number": 1,
+        "point_content": "The relationship between economic growth and inequality is not clear and is still debated both theoretically and empirically.",
+        "spans": [
+          "the answer to the question of how unequal household income affects a country’s growth is still not clear, both from a theoretical and also empirical perspective."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Historically, greater inequality was thought to benefit growth by incentivizing work and investment and through higher savings by the rich.",
+        "spans": [
+          "the prevailing view in the 1950s and 60s was that greater inequality could benefit growth, essentially through two mechanisms.",
+          "inequality benefits economic growth insofar as it generates an incentive to work and invest more.",
+          "greater inequality can lead to higher growth is through more investment, given that high-income groups tend to save and invest more."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "More recent views warn that inequality can hurt growth by reducing opportunities for disadvantaged groups and social mobility, and by limiting investment in human capital.",
+        "spans": [
+          "several voices have subsequently warned of the negative effects of inequality on growth.",
+          "greater inequality can reduce the professional opportunities available to the most disadvantaged groups in society and therefore decrease social mobility, limiting the economy’s growth potential.",
+          "a higher level of inequality can result in less investment in human capital by lower-income individuals if, for example, there is no suitable state system of education or grants."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Inequality can also negatively affect growth by encouraging populist policies and excessive credit growth, which can act as a brake on growth.",
+        "spans": [
+          "Greater inequality can also negatively affect growth if, for example, it encourages populist policies",
+          "another source of discussion is whether an increase in inequality can lead to an excessive rise in credit, which ends up acting as a brake on growth"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Empirical evidence on inequality's effect on growth is mixed and difficult to isolate from other factors, but a general pattern depends on the stage of development of the economy.",
+        "spans": [
+          "many authors have attempted to provide empirical evidence of inequality’s effects on economic growth. The findings are not always conclusive",
+          "Broadly speaking, there is no single, universal mechanism behind the relationship between inequality and growth",
+          "When an economy is at an early stage of its development, the return from physical capital tends to be higher than the return provided by human capital and greater inequality can therefore trigger higher growth.",
+          "as an economy achieves a more advanced stage of development, the return from physical capital tends to decrease while that from human capital tends to rise, so increases in inequality can negatively affect growth."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Recent IMF and OECD studies suggest that increases in inequality harm economic growth, especially inequality affecting the poorest.",
+        "spans": [
+          "A recent study by the IM F 4 suggests that an increase in inequality is harmful to economic growth.",
+          "if the income share of the richest 20% of the population increases by 1 pp (a rise in inequality), GDP growth slows down by 0.08 pps during the next five years.",
+          "if the income share of the poorest 20% of the population increases by 1 pp (a reduction in inequality), GDP growth is 0.38 pps higher during the next five years on average.",
+          "a study by the OEC D 5 estimates that an increase in the Gini coefficient of three points would have a negative impact on economic growth of 0.35 pps per year over 25 years",
+          "the most negative effect on growth is caused by the inequality affecting the lowest income individuals"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Inequality reduces investment opportunities in education for the poorest, which acts as a brake on economic performance.",
+        "spans": [
+          "one of the key channels through which inequality acts as a brake on economic performance is by reducing the investment opportunities, primarily in education, of the poorest segments of the population."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Less social mobility is linked to higher inequality, especially within the lowest income groups, reducing chances to improve social status through education.",
+        "spans": [
+          "less social mobility can act as an indicator of a rise in inequality.",
+          "inequality, particularly when this occurs within the lowest income groups, reduces the chances of the more disadvantaged segment of the population to invest in education, which is the main way to increase social status."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Reducing inequality, especially among the lowest income groups, has a positive effect on economic growth as well as social justice.",
+        "spans": [
+          "the latest empirical evidence suggests that, if inequality is reduced, particularly among the lowest income groups, this has a positive effect not only in terms of social justice but also in terms of economic growth."
+        ]
+      }
+    ],
+    "clueweb22-en0044-13-09119": [
+      {
+        "point_number": 1,
+        "point_content": "One theory is that inequality is the price of robust economic growth, encouraging the best and brightest to pull away from everyone else to shift the economy into its highest gear.",
+        "spans": [
+          "One is that inequality is the price of robust economic growth. If the private sector is thriving, the most successful capitalists will be getting very rich. Creating a system that allows - indeed, encourages - the best and the brightest to pull away from everyone else is how you shift your economy into its highest gear."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Another theory is that rising inequality crushes economic growth by creating instability and reducing middle-class spending.",
+        "spans": [
+          "In this view, rising inequality is not a symptom of a fast-growing economy or an incentive that will help create one. Instead, too much income inequality crushes economic growth.",
+          "One is that high income inequality creates an unstable system that is vulnerable to costly booms and busts. Another is that when too much of the income goes to the very top and not enough goes to the middle, spending slumps - how many yachts does a plutocrat need? - putting a brake on growth."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "David Howell finds no simple correlation between income inequality and economic growth in the US and Britain compared to other rich countries.",
+        "spans": [
+          "Howell tested that view by comparing the United States and Britain to their peers. He asked whether “compared to other rich countries, U.S. income inequality has paid off in relatively high growth.” His answer: not particularly. He finds that “there is no simple correlation between our measures of growth and income inequality.”"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Some European countries with more modest inequality have outperformed the US in productivity growth.",
+        "spans": [
+          "But the reality is that at least some of those allegedly sclerotic European economies, dragged down by their highly redistributive welfare states, have outperformed the United States.",
+          "“What we see is Sweden having really good productivity growth by all measures, despite much more modest increases in inequality and starting at a much lower level,” he said."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Howell does not show that inequality hurts growth, only that it is not necessary for growth.",
+        "spans": [
+          "But while his work suggests inequality is not needed to get growth, he does not show that inequality actually hurts growth either: “I don’t show a strong measurable inverse effect.”"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Lars Osberg argues that growing inequality imperils the economy by causing financial instability and crises.",
+        "spans": [
+          "Osberg argues that a growing chasm between those at the very top and everyone else imperils the overall economy. His worry is financial instability.",
+          "“The added savings of the increasingly affluent must be loaned to balance total current expenditure,” he writes, “but increasing indebtedness implies financial fragility, periodic financial crises, greater volatility of aggregate income and, as governments respond to mass unemployment with countercyclical fiscal policies, a compounding instability of public finances.”"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Raghuram Rajan suggests rising inequality contributed to the financial crisis by increasing consumer credit to the middle class, which eventually led to a consumption and financial bubble burst.",
+        "spans": [
+          "This is a variation of an argument by Raghuram Rajan, a politically center-right professor at the University of Chicago, who has suggested that rising income inequality was one of the drivers of the financial crisis.",
+          "As income inequality increased, and the incomes of the middle class stagnated, the U.S. government responded by increasing the consumer credit available to the middle class.",
+          "In the short term, that was a win-win solution: consumption, and therefore the economy, grew, and the middle class was quiescent because stagnating incomes were masked by increasing consumer debt. But in the medium term that Goldilocks scenario broke down - the middle class consumption bubble, and the Wall Street bubble it helped finance, popped with devastating consequences."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Both Howell and Osberg are skeptical of rising income inequality as a driver of economic growth, and rising inequality may lead to political backlash.",
+        "spans": [
+          "Both Howell and Osberg are skeptical, at best, of the value of rising income inequality as a driver of economic growth.",
+          "When you put that conclusion together with the arithmetic of democracy - rising income inequality means a majority of voters are on the losing end of the deal - a political backlash seems inevitable."
+        ]
+      }
+    ]
+  }
+}

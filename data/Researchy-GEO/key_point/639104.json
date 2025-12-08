@@ -1,0 +1,119 @@
+{
+  "question": "how do american cultural beliefs and values influence the use of medical technology?",
+  "key_points": {
+    "clueweb22-en0034-21-10804": [
+      {
+        "point_number": 1,
+        "point_content": "American cultural beliefs, characterized by a short-term orientation and high time preference, influence the valuation of health states and the willingness to trade length of life for quality of life.",
+        "spans": [
+          "many Western countries such as the US and UK only achieve ranks 17 and 18, respectively",
+          "If time preference is determined by cultural values, then utilities obtained by TTO have a cultural dimension as well",
+          "A person with a low preference for the present, which is equivalent to a long-term orientation, would be less willing to trade lengths of life for quality of life and would therefore have a higher utility value than a person from a culture with a strong preference for the present seeking gratification in the here and now"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "American cultural values of low uncertainty avoidance and high risk-taking affect utility values derived from the standard gamble method, influencing health technology assessments.",
+        "spans": [
+          "The US and UK are considered as countries with a culture of high risk-taking",
+          "In terms of Hofstede’s risk avoidance ranking, countries such as Greece, Belgium, Italy, and Korea rank high while the US und the United Kingdom have very low scores on the uncertainty avoidance index"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Differences in cultural beliefs and values lead to different utility values for the same health states, affecting the perceived value of medical interventions in the US compared to countries with long-term orientation like Japan.",
+        "spans": [
+          "If the higher utility values of Asians simply result from their long-term orientation, a medical intervention likely to restore perfect health in an Asian context will not create as much value (regarding additional utilities) as the same intervention in a culture with a short-term orientation",
+          "This is because a culture with short-term orientation would value given health states lower and the potential utility increase of an intervention is larger"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Health technology assessment systems and cost-utility analyses need to consider local cultural values and beliefs, as American cultural beliefs influence the utility values and thus the assessment outcomes.",
+        "spans": [
+          "These findings underline the necessity to take local values into consideration when designing health technology assessment systems",
+          "The implications of these findings for health technology assessment (HTA) are quite significant",
+          "If the equivalent threshold is to be applied, the same drugs would then sell at lower prices in Japan than in the UK, due to differences in utility values that in turn differ due to different time preference rates"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "American cultural beliefs, including short-term orientation and risk attitudes, influence the shape of utility functions and thus the valuation of health states in health economics.",
+        "spans": [
+          "Countries such as Japan are characterized by a long-term time horizon, or a low time preference rate",
+          "Cultural practices and beliefs are reflected in a concave shape of a country’s utility function",
+          "Such a curvature profile implies that incremental health gains are valued less",
+          "health-care interventions create different value in different cultural settings that should be accounted for in HTA"
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0007-88-09877": [
+      {
+        "point_number": 1,
+        "point_content": "Western industrialized societies such as the United States, which see disease as a result of natural scientific phenomena, advocate medical treatments that combat microorganisms or use sophisticated technology to diagnose and treat disease.",
+        "spans": [
+          "Western industrialized societies such as the United States, which see disease as a result of natural scientific phenomena, advocate medical treatments that combat microorganisms or use sophisticated technology to diagnose and treat disease."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Cultural differences affect patients‘ attitudes about medical care and their ability to understand, manage, and cope with the course of an illness, the meaning of a diagnosis, and the consequences of medical treatment.",
+        "spans": [
+          "Cultural differences affect patients‘ attitudes about medical care and their ability to understand, manage, and cope with the course of an illness, the meaning of a diagnosis, and the consequences of medical treatment."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Patients and their families bring culture specific ideas and values related to concepts of health and illness, reporting of symptoms, expectations for how health care will be delivered, and beliefs concerning medication and treatments.",
+        "spans": [
+          "Patients and their families bring culture specific ideas and values related to concepts of health and illness, reporting of symptoms, expectations for how health care will be delivered, and beliefs concerning medication and treatments."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "In addition, culture specific values influence patient roles and expectations, how much information about illness and treatment is desired, how death and dying will be managed, bereavement patterns, gender and family roles, and processes for decision making.",
+        "spans": [
+          "In addition, culture specific values influence patient roles and expectations, how much information about illness and treatment is desired, how death and dying will be managed, bereavement patterns, gender and family roles, and processes for decision making."
+        ]
+      }
+    ],
+    "clueweb22-en0003-49-01358": [
+      {
+        "point_number": 1,
+        "point_content": "Advancement in medical technology and the medical model that primarily governs health care delivery in the U.S. focuses on illness rather than wellness.",
+        "spans": [
+          "advancement in medical technology and the medical model that primarily governs health care delivery in the U.S. and focuses on illness rather than wellness"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "A strong belief in capitalism has led to health care being viewed as an economic good (or service), not as a public resource, influencing the fee-for-service payment model with uncontrolled utilization, prices, and payments.",
+        "spans": [
+          "A strong belief in capitalism, which has lead to health care being viewed as an economic good (or service), not as a public resource. This has lead to the fee-for-service being the primary model of payment, which has uncontrolled utilization, uncontrolled prices and payments."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Capitalism has led to the belief that individuals and corporate entities seek to manipulate financial incentives to their own advantage without regard to the system as a whole.",
+        "spans": [
+          "Capitalism has also lead to the belief that each individual and corporate entity within the predominantly private entrepreneurial system seeks to manipulate financial incentives to its own advantage, without regard to its impact on the system as a whole"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Concern for underprivileged classes has led to public programs such as Medicare, Medicaid, and CHIP.",
+        "spans": [
+          "A concern for the most underprivileged classes of society, the poor, the elderly, the disabled, and children has led to the creation of public programs such as Medicare, Medicaid and CHIP"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Principles of free enterprise and distrust of big government have kept health care delivery largely in private hands.",
+        "spans": [
+          "principles of free enterprise and general distrust of big government have kept the delivery of health care largely in private hands"
+        ]
+      }
+    ]
+  }
+}

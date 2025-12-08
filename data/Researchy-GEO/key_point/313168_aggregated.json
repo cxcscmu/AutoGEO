@@ -1,0 +1,116 @@
+{
+  "question": "why do we need ethical hacking",
+  "key_points": [
+    {
+      "point_number": 1,
+      "point_content": "Ethical hackers find vulnerabilities and weaknesses in a company's systems, networks, or software to help companies fix them before exploitation or attacks occur.",
+      "original_point_number": [
+        1,
+        3,
+        5,
+        7,
+        13,
+        22,
+        27,
+        29
+      ]
+    },
+    {
+      "point_number": 2,
+      "point_content": "Ethical hacking is an authorized, planned, approved, and legal process of exploiting an IT system with the owner's permission to identify vulnerabilities and tighten security, unlike malicious hacking.",
+      "original_point_number": [
+        15,
+        25,
+        26,
+        30
+      ]
+    },
+    {
+      "point_number": 3,
+      "point_content": "Ethical hackers think from an attacker's perspective to find potential entry points and fix them before any attacks happen, helping to prevent cybercrime and cyber-terrorism.",
+      "original_point_number": [
+        2,
+        8,
+        9,
+        18
+      ]
+    },
+    {
+      "point_number": 4,
+      "point_content": "The demand for ethical hackers is huge due to many hacking attacks and the increasing sophistication of cyber threats impacting national security.",
+      "original_point_number": [
+        4,
+        18
+      ]
+    },
+    {
+      "point_number": 5,
+      "point_content": "Ethical hacking helps secure important data, safeguard computers from exploitation, and improve overall IT system security by eliminating threats and vulnerabilities.",
+      "original_point_number": [
+        6,
+        14,
+        20
+      ]
+    },
+    {
+      "point_number": 6,
+      "point_content": "Ethical hackers test security measures in a safe and controlled environment to determine effectiveness and identify areas needing updates or more secure procedures.",
+      "original_point_number": [
+        21,
+        22
+      ]
+    },
+    {
+      "point_number": 7,
+      "point_content": "Ethical hackers understand and demonstrate hacker techniques to help management prepare to prevent unauthorized access and potential cyber invasions.",
+      "original_point_number": [
+        23,
+        24
+      ]
+    },
+    {
+      "point_number": 8,
+      "point_content": "White hat hackers are ethical hackers who look for exploits with permission, do not release or sell data unethically, and play a critical role in fighting cybercrime by responsibly reporting vulnerabilities.",
+      "original_point_number": [
+        16,
+        17
+      ]
+    },
+    {
+      "point_number": 9,
+      "point_content": "Companies should appreciate ethical hackers who report flaws, as ignoring them can lead to costly fines and data breaches.",
+      "original_point_number": [
+        19
+      ]
+    },
+    {
+      "point_number": 10,
+      "point_content": "Ethical hackers develop tools and methods to eliminate system vulnerabilities and help learn new skills applicable in roles like software development, risk management, quality assurance testing, and network defense.",
+      "original_point_number": [
+        10,
+        12
+      ]
+    },
+    {
+      "point_number": 11,
+      "point_content": "In companies, trained ethical hackers are a main strength to ensure software functions properly by applying quick security tests.",
+      "original_point_number": [
+        11
+      ]
+    },
+    {
+      "point_number": 12,
+      "point_content": "Ethical hackers check for key vulnerabilities including injection attacks, changes in security settings, exposure of sensitive data, breaches in authentication protocols, and components that may be used as access points.",
+      "original_point_number": [
+        31
+      ]
+    },
+    {
+      "point_number": 13,
+      "point_content": "Ethical hackers collect and analyze information to figure out ways to strengthen the security of systems, networks, and applications.",
+      "original_point_number": [
+        28
+      ]
+    }
+  ]
+}

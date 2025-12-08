@@ -1,0 +1,100 @@
+{
+  "question": "what flaw can lead to exposure of resources or functionality to unintended actors?",
+  "key_points": {
+    "clueweb22-en0036-08-00694": [
+      {
+        "point_number": 1,
+        "point_content": "The flaw that can lead to exposure of resources or functionality to unintended actors is Improper Authentication.",
+        "spans": [
+          "What flaw can lead to exposure of resources or functionality to unintended actors?",
+          "B. Improper Authentication"
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0029-56-07776": [
+      {
+        "point_number": 1,
+        "point_content": "The flaw that can lead to exposure of resources or functionality to unintended actors is Improper Authentication.",
+        "spans": [
+          "What flaw can lead to exposure of resources or functionality to unintended actors?",
+          "Correct Answer is Option D): Improper Authentication"
+        ]
+      }
+    ],
+    "clueweb22-en0033-36-18619": [
+      {
+        "point_number": 1,
+        "point_content": "Improper authentication can lead to exposure of resources or functionality to unintended actors.",
+        "spans": [
+          "Improper authentication"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Invalidated redirects and forwards can lead to exposure of resources or functionality to unintended actors.",
+        "spans": [
+          "Invalidated redirects and forwards"
+        ]
+      }
+    ],
+    "clueweb22-en0004-21-01908": [
+      {
+        "point_number": 4,
+        "point_content": "What flaw can lead to exposure of resources or functionality to unintended actors?",
+        "spans": [
+          "What flaw can lead to exposure of resources or functionality to unintended actors?"
+        ]
+      },
+      {
+        "point_number": 13,
+        "point_content": "What flaw can lead to exposure of resources or functionality to unintended actor?",
+        "spans": [
+          "What flaw can lead to exposure of resources or functionality to unintended actor?"
+        ]
+      }
+    ],
+    "clueweb22-en0004-13-09253": [
+      {
+        "point_number": 1,
+        "point_content": "The flaw that can lead to exposure of resources or functionality to unintended actors is Improper Authentication.",
+        "spans": [
+          "What flaw can lead to exposure of resources or functionality to unintended actors?",
+          "B. Improper Authentication"
+        ]
+      }
+    ],
+    "clueweb22-en0022-55-09206": [
+      {
+        "point_number": 1,
+        "point_content": "Improper Authentication can lead to exposure of resources or functionality to unintended actors.",
+        "spans": [
+          "What flaw can lead to exposure of resources or functionality to unintended actors? Options Select answer Improper Authentication YES"
+        ]
+      }
+    ],
+    "clueweb22-en0040-76-17060": [
+      {
+        "point_number": 1,
+        "point_content": "Improper Authentication can lead to exposure of resources or functionality to unintended actors.",
+        "spans": [
+          "Correct Answer is Improper Authentication"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Improper authentication occurs when a user's identity is incorrectly verified by an application.",
+        "spans": [
+          "Improper authentication takes place when a user's identity is incorrectly verified by an application."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Incorrect validation of login information can allow an attacker to gain privileges or access sensitive data.",
+        "spans": [
+          "A software validates the login information of the user incorrectly, resulting in an attacker being able to gain certain privileges within the application or disclose sensitive information that allows them to access sensitive data and cause arbitrary execution of code."
+        ]
+      }
+    ]
+  }
+}

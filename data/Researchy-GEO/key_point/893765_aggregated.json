@@ -1,0 +1,58 @@
+{
+  "question": "how cloud models work in the information age",
+  "key_points": [
+    {
+      "point_number": 1,
+      "point_content": "Cloud computing models include Infrastructure as a Service (IaaS), Platform as a Service (PaaS), Software as a Service (SaaS), and Functions as a Service (FaaS), each providing different levels of service and control to users, with IaaS offering virtual computing resources, PaaS providing platforms and development tools, SaaS delivering software applications on demand, and FaaS allowing deployment of individual functions independently.",
+      "original_point_number": [
+        1,
+        2,
+        3,
+        4,
+        12,
+        13,
+        14,
+        15,
+        16,
+        21
+      ]
+    },
+    {
+      "point_number": 2,
+      "point_content": "Cloud deployment models include private, public, hybrid, and community clouds, each with different control, security, and risk profiles.",
+      "original_point_number": [
+        5,
+        11,
+        23
+      ]
+    },
+    {
+      "point_number": 3,
+      "point_content": "Cloud computing enables delivery of applications and services via the Internet, reducing costs of owning and operating data centers, leveraging work of other software developers, and providing pay-as-you-go pricing, scalability, global accessibility, simplicity, and secure infrastructure.",
+      "original_point_number": [
+        6,
+        10
+      ]
+    },
+    {
+      "point_number": 4,
+      "point_content": "Cloud computing is a system of computer resources, infrastructure, computing power, and data storage available on-demand without user involvement, where services are hosted over the internet instead of physical hardware, allowing access from any device with internet connectivity.",
+      "original_point_number": [
+        7,
+        8,
+        9,
+        17,
+        18,
+        19,
+        20
+      ]
+    },
+    {
+      "point_number": 5,
+      "point_content": "The cloud is a decentralized place to share information through networks, hosted by companies responsible for maintaining data centers that provide security, storage capacity, and computing power.",
+      "original_point_number": [
+        22
+      ]
+    }
+  ]
+}

@@ -1,0 +1,386 @@
+{
+  "question": "why is fast food so popular",
+  "key_points": {
+    "clueweb22-en0008-92-01193": [
+      {
+        "point_number": 1,
+        "point_content": "Fast food is popular because it is quick and easy to get to.",
+        "spans": [
+          "They're quick: 92.3%",
+          "They're easy to get to: 80.1%"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Many people like the taste of fast food and find it inexpensive.",
+        "spans": [
+          "I like the taste of fast food: 69.2%",
+          "They're inexpensive: 63.6%"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "People often eat fast food because they are too busy to cook or do not like to prepare food themselves.",
+        "spans": [
+          "I'm too busy to cook: 53.2%",
+          "I don't like to prepare foods myself: 44.3%"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Fast food is seen as a treat and a way to socialize with friends and family.",
+        "spans": [
+          "It's a \"treat\" for myself: 50.1%",
+          "It is a way of socializing with friends and family: 33.1%"
+        ]
+      }
+    ],
+    "clueweb22-en0021-68-04436": [
+      {
+        "point_number": 1,
+        "point_content": "Fast food is extremely easy to obtain, in most cases you don’t even need to leave the comfort of your car to enjoy a meal.",
+        "spans": [
+          "Fast food is extremely easy to obtain, in most cases you don’t even need to leave the comfort of your car to enjoy a meal."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Fast food is very cheap, a Big Mac meal from McDonald’s costs only $5.99 and includes a burger, fries and a drink.",
+        "spans": [
+          "Fast food is very cheap, a Big Mac meal from McDonald’s costs only $5.99 and includes a burger, fries and a drink"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Getting a meal from a fast food restaurant is quick, in most cases your food will be prepared and served in well under 10 minutes.",
+        "spans": [
+          "Finally, getting a meal from a fast food restaurant is quick, in most cases your food will be prepared and served in well under 10 minutes."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "One of the main reasons for fast food’s popularity is the convenience factor.",
+        "spans": [
+          "One of the main reasons for fast food’s popularity is the convenience factor."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "McDonald’s is the most popular fast food restaurant, with over 37,000 locations.",
+        "spans": [
+          "McDonald’s is the most popular fast food restaurant, with over 37,000 locations"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "With most meals at McDonald’s you don’t need any kind of cutlery to eat your meal, just your hands will do.",
+        "spans": [
+          "With most meals at McDonald’s you don’t need any kind of cutlery to eat your meal, just your hands will do."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Over 20% of American meals are eaten in cars, a concept that didn’t exist before fast food.",
+        "spans": [
+          "Because of this, over 20% of American meals are eaten in cars"
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Many college students find it hard to find time in their day to cook or go out and sit down for a healthy meal, leading to high fast food consumption.",
+        "spans": [
+          "For example, many college students find it hard to find time in their day to cook or go out and sit down for a healthy meal. Due to this it has been reported that 23% of college students eat fast food daily and 50% of students reported eating at least 3 fast food meals per week"
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "The typical American spends $1200 annually on fast food, indicating its low cost and popularity.",
+        "spans": [
+          "The typical american spends $1200 annually on fast food"
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Many people perceive fast food as the least expensive dining option available and therefore are drawn to it.",
+        "spans": [
+          "Many people perceive fast food as the least expensive dining option available and therefore are drawn to it."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "In a survey, 32% percent of people stated that they ate fast food because it is cheap.",
+        "spans": [
+          "In a survey, 32% percent of people stated that they ate fast food because it is cheap"
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "Americans spend over $50 Billion annually on fast food, showing the magnitude of the obsession.",
+        "spans": [
+          "Americans spend over $50 Billion annually on fast food"
+        ]
+      },
+      {
+        "point_number": 13,
+        "point_content": "The time between placing your order and receiving your food is very short due to mechanization and mass production.",
+        "spans": [
+          "The final reason why fast food is so popular in America is because the time between placing your order and receiving your food is very short.",
+          "Almost everything on the menu was mass produced in a factory somewhere and then frozen and shipped out to the thousands of nearby storefront. This cuts down almost all the prep time that the “cooks” need so that your order will be prepared in mere minutes."
+        ]
+      },
+      {
+        "point_number": 14,
+        "point_content": "Many people who feel that they don’t have the time to get any other kind of meal will turn to fast food despite its negative health effects.",
+        "spans": [
+          "Many people who feel that they don’t have the time to get any other kind of meal will turn to fast food despite its negative health effects."
+        ]
+      },
+      {
+        "point_number": 15,
+        "point_content": "46% of fast food meals eaten by college students were at lunch time, a time when people don’t have a lot of time, showing fast food is chosen for speed.",
+        "spans": [
+          "A study of college students showed that 46% of fast food meals eaten were at lunch time"
+        ]
+      }
+    ],
+    "clueweb22-en0011-14-14550": [
+      {
+        "point_number": 1,
+        "point_content": "People try to save as much time as possible due to the necessity to cope with numerous tasks within limited time, leading them to prefer fast food.",
+        "spans": [
+          "Today, people try to save as much time as possible due to the necessity to cope with numerous tasks within limited time."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Fast food is served quickly, saving a great deal of time.",
+        "spans": [
+          "First of all, this kind of food will be served really fast to you."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Fast food is tasty, with features like crispy crust in French fries and tasty sauce in burgers.",
+        "spans": [
+          "Second, this food is rather tasty – it has crispy crust in case of French fries, or tasty sauce in case of burgers."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Fast food restaurants are usually close to work or home due to their many locations.",
+        "spans": [
+          "Third, fast food restaurants are usually close to your work or home, as their networks usually include many locations and one of them will definitely be nearby."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The price of fast food is comparatively low and affordable for the majority of people.",
+        "spans": [
+          "The last but not least, the price of such food is comparatively low and the majority of people can afford it."
+        ]
+      }
+    ],
+    "clueweb22-en0009-90-18696": [
+      {
+        "point_number": 1,
+        "point_content": "Fast food is popular because it is cheap compared to healthy and organic items.",
+        "spans": [
+          "Fast Food is Cheap",
+          "In the USA it is not uncommon to find fast food products at a very cheap price",
+          "fast food chains selling stuff at very low prices compared to those of traditional restaurants with table-service"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Fast food is popular because it tastes good and appeals to many people's taste preferences.",
+        "spans": [
+          "Fast Food is Good Tasting",
+          "Most people love the taste of fast food",
+          "Sandwiches are often caloric and loaded of sauces",
+          "side dishes like French fries or nuggets meet the taste of several people",
+          "There is a general love for the taste of fried stuff and of caloric food",
+          "fast food restaurants often feature also a wide selection of ice creams, donuts, croissants, cakes and other sugary stuff"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Fast food chains invest heavily in marketing, which increases their popularity.",
+        "spans": [
+          "Fast Food Chains Invest Much in Marketing",
+          "The biggest fast food chains are generally very aggressive when it comes to invest in marketing",
+          "They put much money into TV commercials, internet ads, social media marketing and promotions inside food delivery apps",
+          "Big fast food labels often make ads targeted to kids",
+          "These kids ask their parents to go to the fast food restaurant and this leads to entire families going to dine out",
+          "Other ads are targeted more to students and workers and often highlight the low prices for having a meal at the fast food restaurant before coming back to work",
+          "Fast food chains generally give much importance to delivery",
+          "Promoting delivery services and investing in highlighted positioning on the various platforms allow them to ensure a good number of loyal customers who order food from home",
+          "Aggressive advertisement: fast food chains release frequent TV commercials and always propose new products",
+          "This also keeps the attention on the general brand over the years, making sure it continues to keep its value from generation to generation"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Fast food restaurants are family friendly and convenient for students, workers, and people wanting affordable meals.",
+        "spans": [
+          "they are usually family friendly and also good for students, workers and people who want to eat something without spending too much"
+        ]
+      }
+    ],
+    "clueweb22-en0001-35-17724": [
+      {
+        "point_number": 1,
+        "point_content": "Fast food is popular because it is quick and easy to get to.",
+        "spans": [
+          "They're quick: 92.3%",
+          "They're easy to get to: 80.1%"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "People like the taste of fast food and find it inexpensive.",
+        "spans": [
+          "I like the taste of fast food: 69.2%",
+          "They're inexpensive: 63.6%"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Many people eat fast food because they are too busy to cook or do not like to prepare foods themselves.",
+        "spans": [
+          "I'm too busy to cook: 53.2%",
+          "I don't like to prepare foods myself: 44.3%"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Fast food is considered a treat and a way to socialize with friends and family.",
+        "spans": [
+          "It's a \"treat\" for myself: 50.1%",
+          "It is a way of socializing with friends and family: 33.1%"
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0020-13-05040": [
+      {
+        "point_number": 1,
+        "point_content": "Fast food is popular because life is fast-paced and people are busy, so they don't have time to cook.",
+        "spans": [
+          "Life now becomes fast-paced.",
+          "Everybody becomes busy in school, work, and in the community.",
+          "Because of this, people don’t have time anymore to cook."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Fast food is affordable and practical, costing less time and money than cooking at home.",
+        "spans": [
+          "Another reason why fastfood is popular because it offers meals that are affordable.",
+          "It is also more practical because you pay for what you eat.",
+          "When you cook, you need to go to the market and buy the ingredients, cook the food in the kitchen, and eat.",
+          "Cooking will also cost much because you need to buy the recipes and use electricity or natural fuel to cook the food."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Fast food is served quickly and conveniently, suitable for office workers, drivers, and travelers.",
+        "spans": [
+          "Fastfood as the name implies, is food served quickly.",
+          "This is very convenient to office workers who don’t need any more to go home and cook just to eat.",
+          "For drivers and travelers, fastfood is also an advantage because of the drive-thru systems.",
+          "You can eat anytime even at your car."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Fast food restaurants are popular social places for teenagers to meet and bond.",
+        "spans": [
+          "Now, fastfood restaurant is very popular especially to teenagers because it is considered as a social place where friends meet and bond."
+        ]
+      }
+    ],
+    "clueweb22-en0028-80-01299": [
+      {
+        "point_number": 1,
+        "point_content": "Fast food is a notoriously affordable option, and price is one of the primary reasons people frequent fast food chains.",
+        "spans": [
+          "Fast food is a notoriously affordable option, and price is one of the primary reasons people frequent fast food chains."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The ready availability of fast food chains with drive-thru windows provides consumers a quick option to purchase meals, making convenience a key factor in its popularity.",
+        "spans": [
+          "The ready availability of fast food chains with drive-thru windows provides consumers a quick option to purchase meals."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Many fast food restaurants offer tasty and filling menu items that serve as appealing comfort foods, contributing to their popularity.",
+        "spans": [
+          "Many fast food restaurants offer guilty pleasures on their menus, such as french fries and burgers smothered with cheese or bacon."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Fast food restaurants spend a great deal of money marketing their meals to consumers, targeting children, teens, and adults with specific promotions, which helps increase their popularity.",
+        "spans": [
+          "Fast food restaurants spend a great deal of money marketing their meals to consumers, and this seems to be panning out.",
+          "Fast food chains appeal to children by offering toys and special meals aimed just for this demographic.",
+          "Teens and adults may respond to marketing promotions that capitalize on popular sports and media events or that publicize contests as a way to entice diners through their doors.",
+          "For busy parents, advertisers highlight convenience, healthy meal options and the idea that fast food brings family happiness."
+        ]
+      }
+    ],
+    "clueweb22-en0010-66-03765": [
+      {
+        "point_number": 1,
+        "point_content": "Junk food is easily available, convenient, needs little or no preparation, and is usually consumed on the go.",
+        "spans": [
+          "Junk food is easily available, convenient, needs little or no preparation, and is usually consumed on the go."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Fast food is often the default choice because it is convenient, easy to grab, tasty, and cheap.",
+        "spans": [
+          "Fast food is often the default choice. Not only is it convenient and easy to grab, it's also tasty and cheap."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Fast food joints also serve as great teenage hangout places.",
+        "spans": [
+          "And fast food joints also serve as great teenage hangout places."
+        ]
+      }
+    ],
+    "clueweb22-en0037-66-02838": [
+      {
+        "point_number": 1,
+        "point_content": "Fast food is popular because people have limited time and need quick meals.",
+        "spans": [
+          "Nowadays, time seems to be an important factor for people around the world.",
+          "Therefore people don't have time to cook or prepare their own meals for themselves or for their family.",
+          "Fast food is one of the better choices for people who have limited time."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Fast food restaurants are widely available and offer convenience such as drive-through and delivery services.",
+        "spans": [
+          "Moreover, there are many fast food restaurants in Thailand and around the world, such as Macdonald's, KFC, Burger King, Chester Grill, Dunkin' Donuts, Pizza Hut, or The pizza Company.",
+          "Some restaurants provide a drive-through or delivery service for the customer's convenience."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Fast food is popular due to its taste, price, and convenience.",
+        "spans": [
+          "The main reasons that so many people eat fast food are the taste of the food, its price,and the fact that it is fast and convenient.",
+          "The delicious taste of the food is one of the major reasons for the increase in the number of customers in fast food restaurants."
+        ]
+      }
+    ]
+  }
+}

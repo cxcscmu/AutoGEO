@@ -1,0 +1,95 @@
+{
+  "question": "are vaccinated people dying more than unvaccinated",
+  "key_points": [
+    {
+      "point_number": 1,
+      "point_content": "Comparisons of raw numbers of deaths without considering population sizes or vaccination coverage lead to misleading conclusions about vaccine effectiveness; death rates per 100,000 people are higher among unvaccinated individuals, while more vaccinated people may die in raw numbers due to the larger vaccinated population and higher vaccination coverage among older and clinically vulnerable groups.",
+      "original_point_number": [
+        1,
+        2,
+        3,
+        5,
+        6,
+        7,
+        12,
+        13,
+        25
+      ]
+    },
+    {
+      "point_number": 2,
+      "point_content": "Claims that vaccinated people are more likely to die from COVID-19, including the Delta variant, are misleading and taken out of context; a large proportion of deaths among vaccinated individuals is expected when most at-risk people are vaccinated, but death rates remain significantly lower among vaccinated compared to unvaccinated individuals.",
+      "original_point_number": [
+        4,
+        18,
+        19,
+        21,
+        22,
+        23,
+        29,
+        30
+      ]
+    },
+    {
+      "point_number": 3,
+      "point_content": "Vaccines are highly effective at preventing infection, symptomatic disease, severe illness, hospitalization, and death from COVID-19 and its variants, including Delta; vaccinated people are less likely to get infected and have lower death rates than unvaccinated people.",
+      "original_point_number": [
+        8,
+        9,
+        10,
+        11,
+        20,
+        26,
+        27,
+        37,
+        38,
+        39,
+        40
+      ]
+    },
+    {
+      "point_number": 4,
+      "point_content": "Official mortality data from countries such as the United States, England, Switzerland, and Chile show that COVID-19 death rates per 100,000 people are higher among unvaccinated individuals compared to fully vaccinated and boosted individuals, with data updated weekly.",
+      "original_point_number": [
+        14,
+        15,
+        16,
+        17
+      ]
+    },
+    {
+      "point_number": 5,
+      "point_content": "Vaccination programs prioritized clinically vulnerable individuals who are at higher risk of hospitalization and death, which affects the interpretation of death statistics among vaccinated populations.",
+      "original_point_number": [
+        7,
+        25
+      ]
+    },
+    {
+      "point_number": 6,
+      "point_content": "No vaccine is perfect; some vaccinated individuals will still die from COVID-19, but if everyone were vaccinated, all deaths would be among vaccinated people, though the total number of deaths would be much lower; vaccines have saved thousands of lives, such as an estimated 27,000 in England.",
+      "original_point_number": [
+        23,
+        24
+      ]
+    },
+    {
+      "point_number": 7,
+      "point_content": "Counting methods and data reporting practices, such as considering deaths within 14 days post-vaccination as unvaccinated deaths, different testing guidelines for vaccinated and unvaccinated individuals, and only counting breakthrough cases resulting in hospitalization or death, can skew data and hide vaccine failures.",
+      "original_point_number": [
+        31,
+        32,
+        33,
+        34,
+        35
+      ]
+    },
+    {
+      "point_number": 8,
+      "point_content": "Vaccinated individuals constitute a significant portion of hospitalizations and deaths in some regions, which contradicts the narrative that unvaccinated individuals are the majority of severe cases.",
+      "original_point_number": [
+        36
+      ]
+    }
+  ]
+}

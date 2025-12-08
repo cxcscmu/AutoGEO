@@ -1,0 +1,321 @@
+{
+  "question": "are vaccinated people dying more than unvaccinated",
+  "key_points": {
+    "clueweb22-en0011-45-18050": [
+      {
+        "point_number": 1,
+        "point_content": "The claim makes a statistical error by comparing raw numbers of deaths instead of death rates.",
+        "spans": [
+          "The claim makes a statistical error. The ratio it cites is based on raw numbers of deaths among vaccinated and unvaccinated people. It does not compare death rates, which would take into account the size of each group."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "More vaccinated people died in raw numbers because the vaccinated population is much larger than the unvaccinated population.",
+        "spans": [
+          "Well over 90% of the adult population is double vaccinated, so the vaccinated cohort is over nine times the size of the unvaccinated cohort.",
+          "A very small percentage of a large population is still more people than a higher percentage of a very small one."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Death rates per 100,000 people are higher among unvaccinated than vaccinated individuals.",
+        "spans": [
+          "During the three-week period, it says, England had 54.9 COVID-19 deaths per 100,000 people among those who were vaccinated and 125.4 deaths per 100,000 among those who were unvaccinated."
+        ]
+      }
+    ],
+    "clueweb22-en0023-43-06017": [
+      {
+        "point_number": 1,
+        "point_content": "The claim that vaccinated people are six times more likely to die from the Delta variant than those who are unvaccinated is misleading and taken out of context.",
+        "spans": [
+          "Fact Check-Claim that vaccinated people are six times more likely to die from the Delta variant than those who are unvaccinated is misleading",
+          "While the data was indeed taken from a Public Health England (PHE) briefing held in June, it was taken out of context."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Deaths predominantly occur in older age groups who have had much higher vaccination coverage, which skews the data.",
+        "spans": [
+          "The analysis presented is very misleading and ignores the fact that deaths predominantly occur in older age groups who have had much higher vaccination coverage"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "When most people are vaccinated, most infections and deaths are expected to be among those vaccinated due to the high vaccination coverage.",
+        "spans": [
+          "When most people are vaccinated, most infections and deaths are expected to be among those vaccinated"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The vaccination program prioritised clinically vulnerable individuals, who are already at significant risk of hospitalisation and death.",
+        "spans": [
+          "The vaccination program also prioritised “clinically vulnerable” individuals, and thus the majority of those vaccinated will “disproportionately represent elderly and those with underlying comorbidities, who are already at significant risk of hospitalisation and death,"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The overall rate of infection is much less in vaccinated populations, indicating that vaccination is working.",
+        "spans": [
+          "The overall rate of infection is much less in vaccinated populations, which “indicates that vaccination is working,"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Vaccines are highly effective at preventing hospitalisation and provide significant protection against symptomatic disease and severe illness from the Delta variant.",
+        "spans": [
+          "Vaccines are “highly effective at preventing hospitalisation, so it is vital to get both doses to gain maximum protection against all existing and emerging variants,",
+          "They reduce the risk of symptomatic infection by 60-80%, and if infected they reduce the risk of severe illness and hospitalisation by 90-98%. While vaccines provide significant protection, they are not curatives"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Compared to unvaccinated people, vaccinated people are less likely to get infected by all strains, including variants.",
+        "spans": [
+          "compared to unvaccinated people, vaccinated people are less likely to get infected by all of the strains, including the variants."
+        ]
+      }
+    ],
+    "clueweb22-en0033-35-05226": [
+      {
+        "point_number": 1,
+        "point_content": "The death rate among the vaccinated is significantly lower than among the unvaccinated.",
+        "spans": [
+          "of 10 unvaccinated people, 5 died → the death rate among the unvaccinated is 50%",
+          "of 50 vaccinated people, 5 died → the death rate among the vaccinated is 10%",
+          "We therefore see that the death rate among the vaccinated is 5-times lower than among the unvaccinated."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Comparisons of absolute numbers of deaths without considering population sizes lead to incorrect conclusions about vaccine effectiveness.",
+        "spans": [
+          "Comparisons of the absolute numbers, as some headlines do, is making a mistake that’s known in statistics as a ‘base rate fallacy’: it ignores the fact that one group is much larger than the other."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "In countries with high vaccination rates, the number of vaccinated people is much larger than the number of unvaccinated people, affecting death count comparisons.",
+        "spans": [
+          "it is important to avoid this mistake, especially now, as in more and more countries the number of people who are vaccinated against COVID-19 is much larger than the number of people who are unvaccinated"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Official mortality data from the United States, England, Switzerland, and Chile show death rates by vaccination status, updated weekly.",
+        "spans": [
+          "Here we bring together the official mortality data by vaccination status published by the United States, England, Switzerland, and Chile. These charts are updated weekly, if new data has been published by the official source."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "In Switzerland, the COVID-19 death rate per 100,000 people is higher among unvaccinated than fully vaccinated individuals, including those with boosters.",
+        "spans": [
+          "Switzerland: COVID-19 weekly death rate by vaccination status, All ages",
+          "Unvaccinated 3.16 Fully vaccinated, no booster 0.26 Fully vaccinated + booster 0.24"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "In the United States, the COVID-19 death rate per 100,000 people is higher among unvaccinated than fully vaccinated individuals, including those with boosters.",
+        "spans": [
+          "United States: COVID-19 weekly death rate by vaccination status, All ages",
+          "Unvaccinated 3.37 Fully vaccinated, no booster 0.42 Fully vaccinated + booster 0.2"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "In Chile, mortality data by vaccination status is published and shows death rates among not fully vaccinated, fully vaccinated, and boosted individuals.",
+        "spans": [
+          "Chile has fully vaccinated 90.8% of its population, mostly with the Sinovac vaccine. Mortality data by vaccination status is published by the Ministry of Health.",
+          "This chart presents the COVID-19 death rate among people who are not fully vaccinated, among fully-vaccinated people, and among those who additionally received a booster dose."
+        ]
+      }
+    ],
+    "clueweb22-en0018-10-10297": [
+      {
+        "point_number": 1,
+        "point_content": "A large proportion of those dying with the Delta variant of coronavirus had been vaccinated, but this is a misinterpretation of the data.",
+        "spans": [
+          "a large proportion of those dying with the Delta variant of coronavirus had been vaccinated"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The claim that vaccinated people were dying at higher rates than those who had not received the jab is untrue.",
+        "spans": [
+          "One conspiracy site even claimed vaccinated people were dying at higher rates than those who had not received the jab, which is untrue."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "58% of confirmed Delta cases were in completely unvaccinated people and only 8% were fully vaccinated, showing the vaccine is reducing cases.",
+        "spans": [
+          "Of these, 58% were in completely unvaccinated people and only 8% were fully vaccinated.",
+          "So we can see the vaccine is reducing cases."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Of the 117 people who died with the Delta variant, 50 (43%) had been fully vaccinated, but this figure only relates to deaths and misses all vaccinated people who did not catch it or did not become very ill.",
+        "spans": [
+          "Of the 117 people who died with the Delta variant, first identified in India, 50 (43%) had been fully vaccinated.",
+          "The 43% figure relates to deaths only - so it misses all the vaccinated people who were exposed to Covid but did not catch it, or caught the virus but did not become very ill."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Almost everyone at risk of dying from Covid has been vaccinated (more than 90%).",
+        "spans": [
+          "And by now, almost everyone at risk of dying from Covid has been vaccinated (more than 90%)."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "No vaccine is perfect, so a small number of vaccinated people will still die, but if everyone was vaccinated, 100% of deaths would be vaccinated people, though the total deaths would be much lower.",
+        "spans": [
+          "No vaccine is perfect in preventing people from getting Covid and therefore a small number of people will still die.",
+          "And in a world where every single person had been vaccinated, 100% of Covid deaths would be of vaccinated people.",
+          "But the actual number of people dying would be much lower - a 20th as many as if no-one was vaccinated, according to PHE estimates."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Vaccines are estimated to have saved 27,000 lives in England.",
+        "spans": [
+          "The vaccines are already estimated to have saved 27,000 lives in England."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Most fully vaccinated people are over 50 and more likely to die, while most unvaccinated people are young and healthy, so comparing deaths directly is misleading.",
+        "spans": [
+          "Because most fully vaccinated people are over the age of 50 - and therefore more likely to die - while most unvaccinated people are young and healthy."
+        ]
+      }
+    ],
+    "clueweb22-en0016-65-01966": [
+      {
+        "point_number": 1,
+        "point_content": "Unvaccinated people are 11 times more likely to die from COVID than those who are vaccinated.",
+        "spans": [
+          "“People who are unvaccinated are 11 times more likely to die from COVID than those who are vaccinated”",
+          "“People who are unvaccinated are 11 times more likely to die from COVID than those who are vaccinated,” said Dr. Grannis."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Vaccines dramatically reduce the risk of getting COVID and protect from severe consequences including hospitalization and death.",
+        "spans": [
+          "“We don’t expect the vaccine to prevent every case, but it dramatically reduces your risk of getting it.”",
+          "the vaccines do protect Hoosiers from going to the hospital or suffering other severe consequences."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "COVID-19 deaths have been declining since January shortly after vaccines began rolling out.",
+        "spans": [
+          "COVID-19 deaths have been declining since January shortly after vaccines began rolling out."
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0038-38-06724": [
+      {
+        "point_number": 1,
+        "point_content": "People who received the covid-19 shot are more than three times likely to die than those who have not received the vaccine.",
+        "spans": [
+          "people who received the covid-19 shot are more than three times likely to die than those who have not received the vaccine"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Out of 117 people who died over a time period of four weeks, 73 of them had received the covid-19 vaccine, meaning 63 percent of those who died from the Delta variant had been vaccinated.",
+        "spans": [
+          "Out of 117 people who died over a time period of four weeks, 73 of them had received the covid-19 vaccine. That means 63 percent of those who died from the Delta variant had been vaccinated"
+        ]
+      }
+    ],
+    "clueweb22-en0016-93-08501": [
+      {
+        "point_number": 1,
+        "point_content": "Anyone who dies within the first 14 days post-injection is counted as an unvaccinated death, which inaccurately inflates the unvaccinated death toll and hides the real dangers of the COVID shots.",
+        "spans": [
+          "Anyone who dies within the first 14 days post-injection is counted as an unvaccinated death.",
+          "Not only does this inaccurately inflate the unvaccinated death toll, but it also hides the real dangers of the COVID shots, as the vast majority of deaths from these shots occur within the first two weeks"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "You’re not counted as fully vaccinated until a full 14 days have passed since your second injection in the case of Pfizer or Moderna, or 14 days after your first dose of Janssen.",
+        "spans": [
+          "According to the U.S. Centers for Disease Control and Prevention, you’re not counted as fully vaccinated until a full 14 days have passed since your second injection in the case of Pfizer or Moderna, or 14 days after your first dose of Janssen"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "If you’ve received one dose of Pfizer or Moderna and develop symptomatic COVID-19, get admitted to the hospital and/or die from COVID, you’re counted as an unvaccinated case.",
+        "spans": [
+          "In other words, if you’ve received one dose of Pfizer or Moderna and develop symptomatic COVID-19, get admitted to the hospital and/or die from COVID, you’re counted as an unvaccinated case."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The CDC has two different sets of testing guidelines — one for vaccinated patients and another for the unvaccinated, which skews the data.",
+        "spans": [
+          "The CDC also has two different sets of testing guidelines — one for vaccinated patients and another for the unvaccinated.",
+          "If you’re unvaccinated, CDC guidance says to use a cycle threshold (CT) of 40, known to result in false positives.",
+          "If you’re vaccinated, they recommend using a CT of 28 or less, which minimizes the risk of false positives"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The CDC only counts breakthrough cases that result in hospitalization or death, hiding vaccine failures.",
+        "spans": [
+          "The CDC also hides vaccine failures and props up the “pandemic of the unvaccinated” narrative by only counting breakthrough cases that result in hospitalization or death"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Vaccinated individuals are making up a significant portion of hospitalizations and deaths in various regions, contradicting the narrative that unvaccinated are the majority of severe cases.",
+        "spans": [
+          "In Scotland, official data on hospitalizations and deaths show 87% of those who have died from COVID-19 in the third wave that began in early July were vaccinated.",
+          "In Gibraltar, which has a 99% COVID jab compliance rate, COVID cases have risen by 2,500% since June 1, 2021, and in Iceland, where over 82% have received the shots, 77% of new COVID cases are among the fully vaccinated.",
+          "A CDC investigation of an outbreak in Barnstable County, Massachusetts, between July 6, 2021, through July 25, 2021, found 74% of those who received a diagnosis of COVID19, and 80% of hospitalizations, were among the fully vaccinated."
+        ]
+      }
+    ],
+    "clueweb22-en0013-92-08967": [
+      {
+        "point_number": 1,
+        "point_content": "Unvaccinated people were six times more likely to contract COVID-19 during the month of August when the delta variant was ravaging the country.",
+        "spans": [
+          "According to the CDC, scientists discovered that during the month of August, when the delta variant was ravaging the country, unvaccinated people were six times more likely to contract COVID-19."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Unvaccinated people accounted for 736 cases for every 100,000 people, while vaccinated people accounted for 121 cases for every 100,000 people at the peak of reported cases.",
+        "spans": [
+          "At the peak of the reported cases during that period of time, data shows unvaccinated people accounted for 736 cases for every 100,000 people. Vaccinated people accounted for 121 cases for every 100,000 people."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Unvaccinated people were 11 times more likely to die from COVID-19 during the same period in August.",
+        "spans": [
+          "When looking at deaths, the difference between being vaccinated and unvaccinated was much more drastic. The CDC says, during that same period of time in August, unvaccinated people were 11 times more likely to die from COVID-19."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "For every 100,000 unvaccinated people, there were 13 reported COVID-related deaths, while vaccinated people accounted for just one death.",
+        "spans": [
+          "Once again looking at the data provided, for every 100,000 unvaccinated people, there were 13 reported COVID-related deaths. Vaccinated people accounted for just one death."
+        ]
+      }
+    ]
+  }
+}

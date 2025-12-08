@@ -1,0 +1,57 @@
+{
+  "question": "how the shape of chemical data can enable data-driven materials discovery",
+  "key_points": [
+    {
+      "point_number": 1,
+      "point_content": "The MGI approach involves generating, analyzing, and sharing vast materials datasets to identify attributes underpinning materials functionality and accelerate materials discovery, exemplified by data-driven approaches integrating experiment, computation, and theory in a closed-loop manner, including high-throughput synthesis, characterization, centralized databases, computational modeling, inverse design, and iterative experimental validation.",
+      "original_point_number": [
+        1,
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "point_number": 2,
+      "point_content": "The shape and structure of chemical data, such as molecular structures, processing routes, and crystal structure information including atomic positions, space groups, lattice constants, and symmetry, are fundamental properties of materials and enable the development of computational models and inverse design frameworks to predict and optimize material properties, with such data available in materials databases.",
+      "original_point_number": [
+        4,
+        6
+      ]
+    },
+    {
+      "point_number": 3,
+      "point_content": "Machine learning models use descriptors derived from chemical composition and crystal structure, including basic descriptors like atomic electronegativity, atomic radius, unit cell dimension, and derived descriptors such as bottleneck size, ion radius ratio, polyhedron volume, as well as elemental properties and positions in the periodic table, to predict material properties and discover new materials.",
+      "original_point_number": [
+        7,
+        8,
+        16
+      ]
+    },
+    {
+      "point_number": 4,
+      "point_content": "Advanced machine learning techniques such as crystal graph convolutional neural networks (CGCNN) can represent crystal structure preserving the structure topology and provide interpretability in models predicting material properties.",
+      "original_point_number": [
+        9
+      ]
+    },
+    {
+      "point_number": 5,
+      "point_content": "Feature engineering, including feature extraction and selection methods such as wrapper and embedded approaches, is important in machine learning models for materials to identify appropriate features related to property prediction and improve model performance.",
+      "original_point_number": [
+        10,
+        11
+      ]
+    },
+    {
+      "point_number": 6,
+      "point_content": "Machine learning models establish quantitative structure-activity relationships (QSAR) between descriptors (conditional attributes) and material properties (decision attributes) for property prediction and materials discovery, predicting properties such as ionic conductivity, diffusion barrier, migration energy, shear moduli, elastic constants of solid electrolytes, electrode material properties including volume changes, voltage, redox potential, capacity, crystal system, thermodynamic stability, and formation energy.",
+      "original_point_number": [
+        12,
+        13,
+        14,
+        15
+      ]
+    }
+  ]
+}

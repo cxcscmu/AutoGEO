@@ -1,0 +1,85 @@
+{
+  "question": "why are people taking ivermectin for covid",
+  "key_points": [
+    {
+      "point_number": 1,
+      "point_content": "Some early research and a five-day course of ivermectin suggested it might reduce COVID-19 illness duration, but clinical trials have not found it effective for treating COVID-19 in humans.",
+      "original_point_number": [
+        1,
+        3,
+        11,
+        17,
+        33
+      ]
+    },
+    {
+      "point_number": 2,
+      "point_content": "Ivermectin is widely discussed and promoted in social media and certain groups, with some people convinced it treats and prevents COVID-19 despite lack of scientific evidence and politicization of its use.",
+      "original_point_number": [
+        2,
+        6,
+        13,
+        19,
+        35
+      ]
+    },
+    {
+      "point_number": 3,
+      "point_content": "Ivermectin is not easily absorbed by humans and the dosage needed to kill coronavirus safely is likely much higher than safe levels; the lab study showing a 5,000-fold reduction used toxic doses not translatable to safe human treatment.",
+      "original_point_number": [
+        4,
+        9,
+        10,
+        15,
+        16
+      ]
+    },
+    {
+      "point_number": 4,
+      "point_content": "Most studies claiming ivermectin benefits for COVID-19 are low quality or based on fraudulent data, and major health organizations like NIH and WHO state there is insufficient evidence to recommend ivermectin for COVID-19 treatment outside clinical trials and call for more well-designed studies.",
+      "original_point_number": [
+        5,
+        12,
+        18,
+        28,
+        29,
+        30,
+        34
+      ]
+    },
+    {
+      "point_number": 5,
+      "point_content": "Some proponents profit by selling ivermectin and encourage people to buy it from animal supply stores and self-administer it, leading to poisonings; veterinary ivermectin products contain higher levels not safe for humans.",
+      "original_point_number": [
+        7,
+        14,
+        20,
+        27,
+        35
+      ]
+    },
+    {
+      "point_number": 6,
+      "point_content": "Health authorities warn against using ivermectin without prescription due to risks of overdose and serious side effects, which can range from mild to life-threatening including seizures and coma.",
+      "original_point_number": [
+        8,
+        36,
+        37
+      ]
+    },
+    {
+      "point_number": 7,
+      "point_content": "Ivermectin is approved to treat parasite infections in humans and animals, but is prescription-only for humans due to potential harmful side effects.",
+      "original_point_number": [
+        36
+      ]
+    },
+    {
+      "point_number": 8,
+      "point_content": "Ivermectin is thought to work against COVID-19 by blocking a cargo transporter that viral proteins use to enter the cell nucleus, potentially allowing the body to fight the infection normally, but this mechanism has not been proven effective clinically.",
+      "original_point_number": [
+        31
+      ]
+    }
+  ]
+}

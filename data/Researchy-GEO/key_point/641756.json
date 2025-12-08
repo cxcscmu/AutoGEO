@@ -1,0 +1,299 @@
+{
+  "question": "why is there world hunger",
+  "key_points": {
+    "null": [],
+    "clueweb22-en0014-12-10757": [
+      {
+        "point_number": 1,
+        "point_content": "Factors increasing global hunger include economic slowdowns and extreme weather events.",
+        "spans": [
+          "Factors increasing global hunger include economic slowdowns and extreme weather events."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Food insecurity has consistently increased since 2014, with the number of hungry people growing by 10 million between 2018 and 2019.",
+        "spans": [
+          "Food insecurity – both moderate and severe – has “consistently increased” since 2014, when the prevalence of under-nourishment was at 8.6%. It is now at 8.9%. Between 2018 and 2019, the number of hungry people grew by 10 million people."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Economic slowdowns and rising debt in poorer nations have reduced growth and increased hunger.",
+        "spans": [
+          "Since the 2009-9 financial crisis, economic slowdowns have hit many economies. The past decade has also brought a rising amount of debt to many poorer nations, which the FAO says has reduced growth."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "High level of commodity-import dependence can increase food prices and scarcity, contributing to hunger.",
+        "spans": [
+          "The report also identifies a high level of “commodity-import dependence” – a reliance on food and goods from outside a country’s borders that can increase food prices and scarcity."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Conflicts, violence, altered weather conditions, and pests such as locust swarms contribute to worsening hunger.",
+        "spans": [
+          "Added to this are conflicts, violence and “altered weather conditions.” And then there’s pests – such as locust swarms, which could leave millions at risk of starvation this year."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "The COVID-19 pandemic is expected to worsen food security and nutrition, potentially increasing the number of undernourished people by 83 to 132 million in 2020.",
+        "spans": [
+          "The pandemic could increase the total number of undernourished people in the world by between 83 and 132 million in 2020."
+        ]
+      }
+    ],
+    "clueweb22-en0023-78-00406": [
+      {
+        "point_number": 1,
+        "point_content": "Drought reduces the amount of food available, exacerbated by climate change and global warming.",
+        "spans": [
+          "Drought. Many developing countries are prone to drought – reducing the amount of food available. Climate change and global warming are exacerbating the situation."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "High population growth leads to more mouths to feed and smaller farm sizes, causing resource degradation.",
+        "spans": [
+          "Population size. High population growth across the developing world means there are more mouths to feed but also smaller farm sizes to produce food. High population pressure is also causing increased deforestation and natural resource degradation."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Many people living in poverty do not have enough money to buy food due to various factors.",
+        "spans": [
+          "Not enough money. Many people living in poverty simply do not have enough money to buy food due to factors like having children at a very young age, HIV/AIDS, natural disasters and lack of opportunities for income."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Biofuel production from food crops makes staples like maize, rice, and wheat more expensive.",
+        "spans": [
+          "Biofuel production. As more biofuels are produced from food crops, important staples like maize (corn), rice and wheat are becoming more expensive."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Low agricultural productivity due to lack of skills, education, and government investment limits food production.",
+        "spans": [
+          "Low productivity. Sometimes the land can produce more food with better practices but farmers struggle to grow more food and market their produce due to lack of skills and education. Governments also often invest very little money in improving their country’s agricultural productivity."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "HIV/AIDS pandemic affects food production by leaving many farmers sick and unable to grow food.",
+        "spans": [
+          "HIV/AIDS. In regions like southern Africa, food production is affected by the HIV/AIDS pandemic, which has left many farmers sick and unable to grow food."
+        ]
+      }
+    ],
+    "clueweb22-en0026-01-18955": [
+      {
+        "point_number": 1,
+        "point_content": "The dramatic worsening of world hunger in 2020 is much of it likely related to the fallout of COVID-19.",
+        "spans": [
+          "There was a dramatic worsening of world hunger in 2020, the United Nations said today – much of it likely related to the fallout of COVID-19."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The pandemic continues to expose weaknesses in our food systems, which threaten the lives and livelihoods of people around the world.",
+        "spans": [
+          "Unfortunately, the pandemic continues to expose weaknesses in our food systems, which threaten the lives and livelihoods of people around the world,"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Hunger had started creeping upwards in the mid-2010s, and in 2020 hunger shot up in both absolute and proportional terms, outpacing population growth.",
+        "spans": [
+          "Already in the mid-2010s, hunger had started creeping upwards, dashing hopes of irreversible decline. Disturbingly, in 2020 hunger shot up in both absolute and proportional terms, outpacing population growth:"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The sharpest rise in hunger was in Africa, where the estimated prevalence of undernourishment is more than double that of any other region.",
+        "spans": [
+          "But the sharpest rise in hunger was in Africa, where the estimated prevalence of undernourishment – at 21 percent of the population – is more than double that of any other region."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "In many parts of the world, the pandemic has triggered brutal recessions and jeopardized access to food. Even before the pandemic, hunger was spreading; progress on malnutrition lagged. Conflict, climate extremes, economic downturns, and high inequality are major drivers of food insecurity.",
+        "spans": [
+          "In many parts of the world, the pandemic has triggered brutal recessions and jeopardized access to food. Yet even before the pandemic, hunger was spreading; progress on malnutrition lagged. This was all the more so in nations affected by conflict, climate extremes or other economic downturns, or battling high inequality – all of which the report identifies as major drivers of food insecurity, which in turn interact."
+        ]
+      }
+    ],
+    "clueweb22-en0025-54-09954": [
+      {
+        "point_number": 1,
+        "point_content": "Armed conflict and war disrupt food production and cause displacement, leading to hunger.",
+        "spans": [
+          "Armed conflict and war are not only a cause of hunger, but also a consequence of it as well.",
+          "the ongoing decades-long conflicts in the Democratic Republic of the Congo and Somalia have severely disrupted food production, directly contributing to enduring hunger in both countries.",
+          "many people who flee their homes in situations of conflict are unable to feed themselves"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Climate change negatively impacts food production, especially in developing countries, reducing crop yields.",
+        "spans": [
+          "Food production in the developing world is particularly vulnerable to the increasing impact of climate change.",
+          "Scientists and experts predict that rising temperatures due to climate change may result in two percent cuts to global crop yields every decade"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "A large portion of food produced globally is lost or wasted, contributing to hunger and environmental problems.",
+        "spans": [
+          "Every year more than one third of food produced globally, estimated at 1.3 billion tons, is lost or wasted throughout the supply chain and is never consumed.",
+          "Wasted food also presents significant environmental problems as well."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The legacy of colonialism has shaped agricultural sectors in some countries to focus on cash crops for export rather than feeding their own populations.",
+        "spans": [
+          "The colonial past still exercises an important influence over the agricultural sectors of several food insecure countries.",
+          "many countries were designed to grow a select few cash crops for export under European colonization",
+          "several food insecure countries are stuck in that export-oriented agricultural framework, relying economically on exporting crops to more developed countries rather than feeding their own populations"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Rising and volatile food prices make it difficult for the poor to afford nutritious food, perpetuating hunger and malnutrition.",
+        "spans": [
+          "Rising and volatile food prices pose stark challenges for the world’s poor.",
+          "Many of these consumers cannot adapt to food-price shocks, and are simply unable to afford enough food for a proper nutritious diet.",
+          "Consumers may instead seek to lower expenses by buying less nutritious food, perpetuating undernourishment and malnutrition problems."
+        ]
+      }
+    ],
+    "clueweb22-en0021-49-16545": [
+      {
+        "point_number": 1,
+        "point_content": "Hunger is caused by lack of money, lack of access to food, or other resources leading to severe food insecurity.",
+        "spans": [
+          "they go for entire days without eating due to lack of money, lack of access to food, or other resources"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Hunger is strongly interconnected with poverty and involves social, political, demographic, and societal factors.",
+        "spans": [
+          "Hunger is strongly interconnected with poverty, and it involves interactions among an array of social, political, demographic, and societal factors"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Conflict is a key driver of severe food crises and famine, worsening hunger especially when prolonged and institutions are weak.",
+        "spans": [
+          "Conflict is also a key driver of severe food crises, including famine",
+          "Hunger and undernutrition are much worse when conflicts are prolonged and institutions are weak"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Weather-related events and climate change have impacted food availability and contributed to food insecurity.",
+        "spans": [
+          "Weather-related events, in part associated with climate change, have also impacted food availability in many countries and thus contributed to the rise of food insecurity"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Economic downturns in countries dependent on primary-commodity export revenues have affected food availability and decreased access to food.",
+        "spans": [
+          "Economic downturns in countries dependent on oil and other primary-commodity export revenues has also affected food availability and decreased people’s ability to access food"
+        ]
+      }
+    ],
+    "clueweb22-en0034-08-08545": [
+      {
+        "point_number": 1,
+        "point_content": "World hunger is complicated and cannot be solved simply by giving $6 billion.",
+        "spans": [
+          "World hunger can't be solved with $6 billion",
+          "saving those 42 million lives is, in fact, complicated?"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Food aid can harm local farmers and economies by driving down prices and making it harder for poor nations to become self-sufficient.",
+        "spans": [
+          "food aid itself",
+          "dumping food on poor nations, driving down prices and bankrupting farmers, ultimately making it harder for poor nations to become self-sufficient"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Food aid has historically undermined local agriculture and economies in various countries.",
+        "spans": [
+          "In the 1950s and 1960s, surplus wheat from the US was sent to India, undermining local farmers",
+          "In 1976, the US sent wheat to Guatemala, in response to an earthquake, even though the country had just produced record yields",
+          "Six years later, the Peruvian government asked the US government to stop dumping rice on the country, given its impact on poor farmers"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Food aid can prolong conflicts and undermine social and economic systems in war-torn countries.",
+        "spans": [
+          "food aid prolonged that nation’s civil war in three ways",
+          "food aid was stolen and sold to buy arms, furthering the conflict",
+          "food aid helped destroy the centuries-old credit system",
+          "food aid undermined the very incentive to farm"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Poor governance can lead to misuse of aid money, worsening the situation.",
+        "spans": [
+          "When there is poor governance, aid money makes the situation worse, not better"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "War and political instability are major causes of hunger, preventing farming and food transportation.",
+        "spans": [
+          "what causes hunger in most cases is not the absence of food but the presence of war and political instability",
+          "They are all at war or in political turmoil, which is preventing farming and the transportation of food"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Most famines are deliberately caused as a weapon of war, not by lack of food supply or drought.",
+        "spans": [
+          "most famines are deliberately caused as a weapon of war",
+          "They weren’t, for the most part, the result of food supplies in general or drought in particular"
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Stability and peace are necessary for ending hunger, allowing farming and economic development.",
+        "spans": [
+          "almost every nation escapes hunger and famine in the same way",
+          "there is sufficient stability to allow farmers to produce and transport their crops",
+          "Stability allows farmers to become more productive, and cities to develop new industries"
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Economic development through industrialization and manufacturing is key to reducing hunger and poverty.",
+        "spans": [
+          "factories were allowed to operate freely",
+          "manufacturing could drive economic development",
+          "almost every other developed country in the world... has transformed its economy with factories"
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Poor nations must go through development steps including industrialization and sometimes civil war to achieve political stability and end hunger.",
+        "spans": [
+          "poor nations must go through the same, often painful steps toward development, including, often civil war, in order to achieve the political stability they need to develop"
+        ]
+      }
+    ]
+  }
+}

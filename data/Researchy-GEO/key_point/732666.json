@@ -1,0 +1,567 @@
+{
+  "question": "how global warming affects humans",
+  "key_points": {
+    "clueweb22-en0018-60-17273": [
+      {
+        "point_number": 1,
+        "point_content": "Climate change makes many existing diseases and conditions worse, and it helps pests and pathogens spread into new regions.",
+        "spans": [
+          "climate change makes many existing diseases and conditions worse",
+          "it helps pests and pathogens spread into new regions"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The most vulnerable people—children, the elderly, the poor, and those with health conditions—are at increased risk for climate-related health effects.",
+        "spans": [
+          "The most vulnerable people—children, the elderly, the poor, and those with health conditions—are at increased risk for climate-related health effects"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Extreme heat and poor air quality increase complications from underlying heart and respiratory conditions like asthma, renal failure, and pre-term birth, and as temperatures rise, there will be more heat-related illness and deaths in both urban and rural areas.",
+        "spans": [
+          "Extreme heat and poor air quality increase complications from underlying heart and respiratory conditions like asthma, renal failure, and pre-term birth",
+          "as temperatures rise, there will be more heat-related illness and deaths in both urban and rural areas"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Americans will be exposed to more frequent and/or intense extreme weather and climate events that not only threaten their lives and health, but also significantly disrupt health and social services.",
+        "spans": [
+          "Americans will be exposed to more frequent and/or intense extreme weather and climate events that not only threaten their lives and health, but also significantly disrupt health and social services"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The risk of very large fires has increased and will increase further across California and other parts of the West, directly threatening people’s lives and causing severe air pollution across large areas.",
+        "spans": [
+          "The risk of very large fires has increased and will increase further across California and other parts of the West, directly threatening people’s lives and causing severe air pollution across large areas"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "The frequency and intensity of heavy downpours has increased and is likely to increase further, raising the risk of flash flooding.",
+        "spans": [
+          "The frequency and intensity of heavy downpours has increased and is likely to increase further, raising the risk of flash flooding"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Ticks and mosquitos that transmit illnesses like Lyme disease and West Nile virus are likely to increase and spread to new areas in the United States.",
+        "spans": [
+          "Ticks and mosquitos that transmit illnesses like Lyme disease and West Nile virus are likely to increase and spread to new areas in the United States"
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "More frequent heavy rain events will likely increase Americans’ exposure to water-borne illnesses, including those linked to sewage contamination of drinking water.",
+        "spans": [
+          "More frequent heavy rain events will likely increase Americans’ exposure to water-borne illnesses, including those linked to sewage contamination of drinking water"
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Recreational waters are likely to experience more outbreaks of aquatic pathogens, including Vibrio bacteria and harmful algal blooms.",
+        "spans": [
+          "Recreational waters are likely to experience more outbreaks of aquatic pathogens, including Vibrio bacteria and harmful algal blooms"
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Human-caused climate change also threatens food safety in multiple ways including lowering the nutritional quality of staples like wheat and rice, causing greater accumulation of mercury and other toxins in seafood, and increasing the chance for food-borne pathogens to enter to food supply.",
+        "spans": [
+          "Human-caused climate change also threatens food safety in multiple ways including lowering the nutritional quality of staples like wheat and rice",
+          "causing greater accumulation of mercury and other toxins in seafood",
+          "increasing the chance for food-borne pathogens to enter to food supply"
+        ]
+      }
+    ],
+    "clueweb22-en0012-15-11268": [
+      {
+        "point_number": 1,
+        "point_content": "The recent increase in average temperature of only a couple degrees is already leading to global changes in precipitation, snow and ice extent, and extreme weather, such as heavy rains, heat waves, and severe storms.",
+        "spans": [
+          "The recent increase in average temperature of only a couple degrees is already leading to global changes in precipitation, snow and ice extent, and extreme weather, such as heavy rains, heat waves, and severe storms."
+        ]
+      }
+    ],
+    "clueweb22-en0016-31-12125": [
+      {
+        "point_number": 1,
+        "point_content": "Climate change impacts human health in both direct and indirect ways.",
+        "spans": [
+          "Climate change impacts human health in both direct and indirect ways"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Extreme heat waves, rising sea level, changes in precipitation resulting in flooding and droughts, and intense hurricanes can directly cause injury, illness, and even death.",
+        "spans": [
+          "Extreme heat waves, rising sea level, changes in precipitation resulting in flooding and droughts, and intense hurricanes can directly cause injury, illness, and even death"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Worsening air pollution levels can have negative impacts on respiratory and cardiovascular conditions.",
+        "spans": [
+          "worsening air pollution levels can have negative impacts on respiratory and cardiovascular conditions"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Changes in temperature and rainfall can alter the survival, distribution, and behavior of insects and other species that can lead to changes in infectious diseases.",
+        "spans": [
+          "Changes in temperature and rainfall can alter the survival, distribution, and behavior of insects and other species that can lead to changes in infectious diseases"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Increases in precipitation, storm surge, and sea temperature can lead to more water-related illnesses.",
+        "spans": [
+          "Increases in precipitation, storm surge, and sea temperature can lead to more water-related illnesses"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Climate change can affect food safety, exposing people to contaminated foods that can result in foodborne illnesses.",
+        "spans": [
+          "Climate change can also affect food safety, exposing people to contaminated foods that can result in foodborne illnesses"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Climate change can affect mental health and well-being.",
+        "spans": [
+          "climate change can affect mental health and well-being"
+        ]
+      }
+    ],
+    "clueweb22-en0017-91-05176": [
+      {
+        "point_number": 1,
+        "point_content": "Global warming is causing rising temperatures and melting ice, which affects wildlife and habitats.",
+        "spans": [
+          "The planet is warming, from North Pole to South Pole.",
+          "The heat is melting glaciers and sea ice, shifting precipitation patterns, and setting animals on the move."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Climate change leads to extreme weather events and changes in ecosystems, impacting human life.",
+        "spans": [
+          "Climate change encompasses not only rising average temperatures but also extreme weather events, shifting wildlife populations and habitats, rising seas, and a range of other impacts."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Melting ice contributes to sea-level rise, which threatens coastal areas and human settlements.",
+        "spans": [
+          "Much of this melting ice contributes to sea-level rise.",
+          "Global sea levels are rising 0.13 inches (3.2 millimeters) a year."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Changes in precipitation patterns cause droughts, wildfires, lost crops, and drinking water shortages, affecting human resources.",
+        "spans": [
+          "Precipitation (rain and snowfall) has increased across the globe, on average.",
+          "Yet some regions are experiencing more severe drought, increasing the risk of wildfires, lost crops, and drinking water shortages."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Some diseases will spread due to climate change, affecting human health.",
+        "spans": [
+          "Some diseases will spread, such as mosquito-borne malaria (and the 2016 resurgence of the Zika virus )."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Less freshwater will be available as glaciers melt, impacting human water supply.",
+        "spans": [
+          "Less freshwater will be available, since glaciers store about three-quarters of the world's freshwater."
+        ]
+      }
+    ],
+    "clueweb22-en0003-40-07017": [
+      {
+        "point_number": 1,
+        "point_content": "The effects of human-caused global warming are happening now, are irreversible on the timescale of people alive today, and will worsen in the decades to come.",
+        "spans": [
+          "The effects of human-caused global warming are happening now, are irreversible on the timescale of people alive today, and will worsen in the decades to come."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Global climate change has already had observable effects on the environment, including glaciers shrinking, ice on rivers and lakes breaking up earlier, plant and animal ranges shifting, and trees flowering sooner.",
+        "spans": [
+          "Global climate change has already had observable effects on the environment. Glaciers have shrunk, ice on rivers and lakes is breaking up earlier, plant and animal ranges have shifted and trees are flowering sooner."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Effects predicted from global climate change are now occurring: loss of sea ice, accelerated sea level rise and longer, more intense heat waves.",
+        "spans": [
+          "Effects that scientists had predicted in the past would result from global climate change are now occurring: loss of sea ice, accelerated sea level rise and longer, more intense heat waves."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The net damage costs of climate change are likely to be significant and to increase over time.",
+        "spans": [
+          "Taken as a whole, the range of published evidence indicates that the net damage costs of climate change are likely to be significant and to increase over time."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Scientists have high confidence that global temperatures will continue to rise for decades to come, largely due to greenhouse gases produced by human activities.",
+        "spans": [
+          "Scientists have high confidence that global temperatures will continue to rise for decades to come, largely due to greenhouse gases produced by human activities."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "The IPCC forecasts a temperature rise of 2.5 to 10 degrees Fahrenheit over the next century.",
+        "spans": [
+          "The Intergovernmental Panel on Climate Change (IPCC), which includes more than 1,300 scientists from the United States and other countries, forecasts a temperature rise of 2.5 to 10 degrees Fahrenheit over the next century."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "The extent of climate change effects on individual regions will vary over time and with the ability of different societal and environmental systems to mitigate or adapt to change.",
+        "spans": [
+          "According to the IPCC, the extent of climate change effects on individual regions will vary over time and with the ability of different societal and environmental systems to mitigate or adapt to change."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Net annual costs will increase over time as global temperatures increase.",
+        "spans": [
+          "Net annual costs will increase over time as global temperatures increase."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Global climate is projected to continue to change over this century and beyond, depending on heat-trapping gases emitted globally and climate sensitivity.",
+        "spans": [
+          "Global climate is projected to continue to change over this century and beyond. The magnitude of climate change beyond the next few decades depends primarily on the amount of heat-trapping gases emitted globally, and how sensitive the Earth’s climate is to those emissions."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "The length of the frost-free season and growing season has been increasing nationally since the 1980s, affecting ecosystems and agriculture, and is projected to continue to lengthen.",
+        "spans": [
+          "The length of the frost-free season (and the corresponding growing season) has been increasing nationally since the 1980s, with the largest increases occurring in the western United States, affecting ecosystems and agriculture.",
+          "Across the United States, the growing season is projected to continue to lengthen."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "More droughts and heat waves are projected to become more intense, and cold waves less intense everywhere.",
+        "spans": [
+          "Droughts in the Southwest and heat waves (periods of abnormally hot weather lasting days to weeks) everywhere are projected to become more intense, and cold waves less intense everywhere."
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "Summer temperatures are projected to continue rising, with extreme heat days becoming more frequent.",
+        "spans": [
+          "Summer temperatures are projected to continue rising, and a reduction of soil moisture, which exacerbates heat waves, is projected for much of the western and central U.S. in summer.",
+          "By the end of this century, what have been once-in-20-year extreme heat days (one-day events) are projected to occur every two or three years over most of the nation."
+        ]
+      },
+      {
+        "point_number": 13,
+        "point_content": "Hurricanes will become stronger and more intense, with increased intensity, frequency, and duration.",
+        "spans": [
+          "The intensity, frequency and duration of North Atlantic hurricanes, as well as the frequency of the strongest (Category 4 and 5) hurricanes, have all increased since the early 1980s.",
+          "Hurricane-associated storm intensity and rainfall rates are projected to increase as the climate continues to warm."
+        ]
+      },
+      {
+        "point_number": 14,
+        "point_content": "Sea level will rise 1-8 feet by 2100, increasing flooding risks.",
+        "spans": [
+          "Global sea level has risen by about 8 inches since reliable record keeping began in 1880.",
+          "It is projected to rise another 1 to 8 feet by 2100.",
+          "In the next several decades, storm surges and high tides could combine with sea level rise and land subsidence to further increase flooding in many regions."
+        ]
+      },
+      {
+        "point_number": 15,
+        "point_content": "The Arctic Ocean is expected to become essentially ice free in summer before mid-century.",
+        "spans": [
+          "The Arctic Ocean is expected to become essentially ice free in summer before mid-century."
+        ]
+      },
+      {
+        "point_number": 16,
+        "point_content": "Regional effects in the U.S. include heat waves, heavy downpours, sea level rise, infrastructure and health impacts, wildfires, and water supply issues.",
+        "spans": [
+          "Northeast. Heat waves, heavy downpours and sea level rise pose growing challenges to many aspects of life in the Northeast.",
+          "Northwest. Changes in the timing of streamflow reduce water supplies for competing demands.",
+          "Southeast. Sea level rise poses widespread and continuing threats to the region’s economy and environment. Extreme heat will affect health, energy, agriculture and more.",
+          "Midwest. Extreme heat, heavy downpours and flooding will affect infrastructure, health, agriculture, forestry, transportation, air and water quality, and more.",
+          "Southwest. Increased heat, drought and insect outbreaks, all linked to climate change, have increased wildfires. Declining water supplies, reduced agricultural yields, health impacts in cities due to heat, and flooding and erosion in coastal areas are additional concerns."
+        ]
+      }
+    ],
+    "clueweb22-en0011-70-11866": [
+      {
+        "point_number": 1,
+        "point_content": "Global warming causes risk of death, injury, ill-health, or disrupted livelihoods in low-lying coastal zones and small island developing states due to storm surges, coastal flooding, and sea level rise.",
+        "spans": [
+          "Risk of death, injury, ill-health, or disrupted livelihoods in low-lying coastal zones and small island developing states and other small islands, due to storm surges, coastal flooding, and sea level rise."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Large urban populations face severe ill-health and disrupted livelihoods due to inland flooding in some regions.",
+        "spans": [
+          "Risk of severe ill-health and disrupted livelihoods for large urban populations due to inland flooding in some regions."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Extreme weather events cause systemic risks leading to breakdown of infrastructure networks and critical services such as electricity, water supply, and health and emergency services.",
+        "spans": [
+          "Systemic risks due to extreme weather events leading to breakdown of infrastructure networks and critical services such as electricity, water supply, and health and emergency services."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Extreme heat increases risk of mortality and morbidity, especially for vulnerable urban populations and outdoor workers.",
+        "spans": [
+          "Risk of mortality and morbidity during periods of extreme heat, particularly for vulnerable urban populations and those working outdoors in urban or rural areas."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Global warming causes risk of food insecurity and breakdown of food systems linked to warming, drought, flooding, and precipitation variability, especially for poorer populations.",
+        "spans": [
+          "Risk of food insecurity and the breakdown of food systems linked to warming, drought, flooding, and precipitation variability and extremes, particularly for poorer populations in urban and rural settings."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Loss of rural livelihoods and income due to insufficient access to drinking and irrigation water and reduced agricultural productivity, especially for farmers and pastoralists with minimal capital in semi-arid regions.",
+        "spans": [
+          "Risk of loss of rural livelihoods and income due to insufficient access to drinking and irrigation water and reduced agricultural productivity, particularly for farmers and pastoralists with minimal capital in semi-arid regions."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Loss of marine and coastal ecosystems, biodiversity, and ecosystem services affects coastal livelihoods, especially fishing communities in the tropics and Arctic.",
+        "spans": [
+          "Risk of loss of marine and coastal ecosystems, biodiversity, and the ecosystem goods, functions, and services they provide for coastal livelihoods, especially for fishing communities in the tropics and the Arctic."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Loss of terrestrial and inland water ecosystems, biodiversity, and ecosystem services affects livelihoods.",
+        "spans": [
+          "Risk of loss of terrestrial and inland water ecosystems, biodiversity, and the ecosystem goods, functions, and services they provide for livelihoods."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Global warming causes water scarcity, increased droughts, declining water quality, and negatively impacts freshwater ecosystems and related livelihoods.",
+        "spans": [
+          "Global populations are increasingly experiencing water scarcity, and areas affected by major river floods are experiencing increases.",
+          "Raw water quality is declining, affecting drinking water quality even with conventional treatment, due to increased temperature, as well as sediment, nutrient, and pollutant runoff during heavy rain and floods.",
+          "Freshwater ecosystems are likewise being negatively impacted, affecting freshwater-related livelihoods."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Sea level rise causes submergence, coastal flooding, and erosion, increasing risks for coastal populations, assets, and ecosystems.",
+        "spans": [
+          "As the sea level rises, coastal systems and low-lying areas are increasingly experiencing submergence, coastal flooding, and coastal erosion.",
+          "Coastal populations, assets, and ecosystems are facing significant risk increase due to population growth, economic development, and urbanization."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Ocean warming causes marine species redistribution, biodiversity reduction, and negative impacts on fisheries, livelihoods, and food security.",
+        "spans": [
+          "Global warming-related marine-species redistribution and marine-biodiversity reduction in sensitive regions impacts productivity of fisheries and other ecosystem services.",
+          "Increasing ocean warming is causing spatial shifts of marine species, with resultant high-latitude invasions and high local-extinction rates in the tropics and semi-enclosed seas.",
+          "Oxygen minimum zones, anoxic “dead zones,” and ocean acidification increasingly impact marine ecosystems and fish habitats, with negative consequences for fisheries, livelihoods, and food security."
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "Rising temperatures negatively impact major crop production, threatening food security especially after 2050.",
+        "spans": [
+          "Major crop production is negatively impacted as temperatures are rising.",
+          "Wheat, rice, and maize production in tropical and temperate regions are anticipated to vary widely in yields, with severe yield impacts significantly increasing after 2050, depending on global temperatures."
+        ]
+      },
+      {
+        "point_number": 13,
+        "point_content": "Urban areas face multiple risks including heat stress, flooding, air pollution, drought, and water scarcity, with higher risks for people in poor-quality housing or insufficient infrastructure.",
+        "spans": [
+          "Urban areas pose multiple risks for people, assets, economies, and ecosystems.",
+          "These risks include heat stress, extreme precipitation, inland and coastal flooding, landslides, air pollution, drought, and water scarcity.",
+          "For people living in poor-quality housing and exposed areas, or in areas with insufficient infrastructure and services, risk are especially high."
+        ]
+      },
+      {
+        "point_number": 14,
+        "point_content": "Rural areas experience declines in water availability, food security, and agricultural incomes, disproportionately affecting low-income and vulnerable populations.",
+        "spans": [
+          "Negative effects of global warming on humans in rural areas occur through declines in water availability and supply, food security, and agricultural incomes.",
+          "As food production areas shift due to global temperatures, low-income people in rural areas will increasingly suffer, especially female-headed homes, people with limited education, access to infrastructure, land, and/or modern agricultural methodologies."
+        ]
+      },
+      {
+        "point_number": 15,
+        "point_content": "Global warming exacerbates health problems, increases ill-health, injury, disease, and death risks, especially in developing countries and vulnerable populations.",
+        "spans": [
+          "Effects of global warming on humans’ health includes exacerbating health problems that already exist, increases in ill-health in many regions and especially in developing countries with low-income, and greater likelihood of injury, disease, and death.",
+          "These risks are due to more intense heat waves and fires, and increased likelihood of under-nutrition resulting from diminished food production in poor regions.",
+          "Risks from lost work capacity and reduced labor productivity in vulnerable populations also increase, as well as increased risks from vector-, food-, and water-borne diseases."
+        ]
+      },
+      {
+        "point_number": 16,
+        "point_content": "Global warming-related extreme weather events displace people, increase social upheaval, change migration patterns, and raise risks of violent conflicts.",
+        "spans": [
+          "Increasingly displacing people, global warming-related extreme weather events in both rural and urban areas expose vulnerable populations to high risk of social upheaval.",
+          "Changes in migration patterns are occurring as populations become displaced due to weather-related impacts.",
+          "Violent conflicts are also at risk of rising, due to climate change impacts on economic stability."
+        ]
+      },
+      {
+        "point_number": 17,
+        "point_content": "Economic effects of global warming increase poverty, erode food security, and increase socioeconomic inequality, impacting both rural and urban low-income populations.",
+        "spans": [
+          "Economic effects of global warming on humans are significant, making poverty reduction more difficult and further eroding food security for the poor.",
+          "Climate change impacts economic growth, creating new poverty traps for more people, especially in urban areas and regions experiencing food insecurity.",
+          "Increasing socioeconomic inequality, in both developed and developing nations are impacting both rural and urban areas.",
+          "Wage-earners in low-income households are facing increasing risks due to food prices increasing as food insecurity rises."
+        ]
+      }
+    ],
+    "clueweb22-en0002-66-07409": [
+      {
+        "point_number": 1,
+        "point_content": "Climate change affects the social and environmental determinants of health – clean air, safe drinking water, sufficient food and secure shelter.",
+        "spans": [
+          "Climate change affects the social and environmental determinants of health – clean air, safe drinking water, sufficient food and secure shelter."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Between 2030 and 2050, climate change is expected to cause approximately 250 000 additional deaths per year, from malnutrition, malaria, diarrhoea and heat stress.",
+        "spans": [
+          "Between 2030 and 2050, climate change is expected to cause approximately 250 000 additional deaths per year, from malnutrition, malaria, diarrhoea and heat stress."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Climate change is the single biggest health threat facing humanity, and health professionals worldwide are already responding to the health harms caused by this unfolding crisis.",
+        "spans": [
+          "Climate change is the single biggest health threat facing humanity, and health professionals worldwide are already responding to the health harms caused by this unfolding crisis."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The climate crisis threatens to undo the last fifty years of progress in development, global health, and poverty reduction, and to further widen existing health inequalities between and within populations.",
+        "spans": [
+          "The climate crisis threatens to undo the last fifty years of progress in development, global health, and poverty reduction, and to further widen existing health inequalities between and within populations."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Climate change is already impacting health in a myriad of ways, including by leading to death and illness from increasingly frequent extreme weather events, such as heatwaves, storms and floods, the disruption of food systems, increases in zoonoses and food-, water- and vector-borne diseases, and mental health issues.",
+        "spans": [
+          "Climate change is already impacting health in a myriad of ways, including by leading to death and illness from increasingly frequent extreme weather events, such as heatwaves, storms and floods, the disruption of food systems, increases in zoonoses and food-, water- and vector-borne diseases, and mental health issues."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Climate change is undermining many of the social determinants for good health, such as livelihoods, equality and access to health care and social support structures.",
+        "spans": [
+          "climate change is undermining many of the social determinants for good health, such as livelihoods, equality and access to health care and social support structures."
+        ]
+      }
+    ],
+    "clueweb22-en0012-58-02241": [
+      {
+        "point_number": 1,
+        "point_content": "Climate change influences human health and disease in numerous ways, intensifying existing health threats and causing new ones.",
+        "spans": [
+          "Climate change, together with other natural and human-made health stressors, influences human health and disease in numerous ways. Some existing health threats will intensify and new health threats will emerge."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Not everyone is equally at risk from the health effects of climate change; factors include age, economic resources, and location.",
+        "spans": [
+          "Not everyone is equally at risk. Important considerations include age, economic resources, and location."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Health effects of climate disruptions include increased respiratory and cardiovascular disease, injuries and premature deaths from extreme weather, changes in food- and water-borne illnesses, and threats to mental health.",
+        "spans": [
+          "The health effects of these disruptions include increased respiratory and cardiovascular disease, injuries and premature deaths related to extreme weather events, changes in the prevalence and geographical distribution of food- and water-borne illnesses and other infectious diseases, and threats to mental health."
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0018-74-11346": [
+      {
+        "point_number": 1,
+        "point_content": "Climate change affects human health and wellbeing through more extreme weather events and wildfires, decreased air quality, and diseases transmitted by insects, food, and water.",
+        "spans": [
+          "Climate change affects human health and wellbeing through more extreme weather events and wildfires, decreased air quality, and diseases transmitted by insects, food, and water."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Climate disruptions to agriculture have been increasing and are projected to become more severe over this century, a trend that would diminish the security of America’s food supply.",
+        "spans": [
+          "Climate disruptions to agriculture have been increasing and are projected to become more severe over this century, a trend that would diminish the security of America’s food supply."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Surface and groundwater supplies in some regions are already stressed, and water quality is diminishing in many areas, in part due to increasing sediment and contaminant concentrations after heavy downpours.",
+        "spans": [
+          "Surface and groundwater supplies in some regions are already stressed, and water quality is diminishing in many areas, in part due to increasing sediment and contaminant concentrations after heavy downpours."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "In some regions, prolonged periods of high temperatures associated with droughts contribute to conditions that lead to larger wildfires and longer fire seasons.",
+        "spans": [
+          "In some regions, prolonged periods of high temperatures associated with droughts contribute to conditions that lead to larger wildfires and longer fire seasons."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "For coastal communities, sea level rise, combined with coastal storms, has increased the risk of erosion, storm surge damage, and flooding.",
+        "spans": [
+          "For coastal communities, sea level rise, combined with coastal storms, has increased the risk of erosion, storm surge damage, and flooding."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Extreme heat, sea level rise, and heavy downpours are affecting infrastructure like roads, rail lines, airports, port facilities, energy infrastructure, and military bases.",
+        "spans": [
+          "Extreme heat, sea level rise, and heavy downpours are affecting infrastructure like roads, rail lines, airports, port facilities, energy infrastructure, and military bases."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Longer growing seasons, along with higher temperatures and carbon dioxide levels, can increase pollen production, intensifying and lengthening the allergy season.",
+        "spans": [
+          "Longer growing seasons, along with higher temperatures and carbon dioxide levels, can increase pollen production, intensifying and lengthening the allergy season."
+        ]
+      }
+    ]
+  }
+}

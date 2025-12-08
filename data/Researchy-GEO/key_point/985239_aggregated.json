@@ -1,0 +1,126 @@
+{
+  "question": "what ethical concerns do you have about the sharing of health data online?",
+  "key_points": [
+    {
+      "point_number": 1,
+      "point_content": "The issue essentially comes down to balancing the need to protect the security of patient information with the potential for better care and outcomes associated with greater interoperability and improved ability to share records among healthcare entities.",
+      "original_point_number": [
+        1
+      ]
+    },
+    {
+      "point_number": 2,
+      "point_content": "The protection of private patient information is a key ethical issue in health informatics, involving ethical dilemmas from data availability and sharing, and healthcare privacy is a central ethical concern especially with big data making vast amounts of personal information widely accessible electronically.",
+      "original_point_number": [
+        2,
+        3,
+        7
+      ]
+    },
+    {
+      "point_number": 3,
+      "point_content": "There is a clear potential for abuse of health data by employers, insurers, and the government, necessitating sound regulation to protect individual privacy as much as possible.",
+      "original_point_number": [
+        8,
+        9,
+        24
+      ]
+    },
+    {
+      "point_number": 4,
+      "point_content": "The Health Insurance Portability and Accountability Act (HIPAA) strengthened the privacy protections of patients regarding the sharing of medical information, but health information shared via social networking, web postings, internet searches, devices, wearables, and apps may not be covered by HIPAA and is consolidated and linked with other data.",
+      "original_point_number": [
+        4,
+        14
+      ]
+    },
+    {
+      "point_number": 5,
+      "point_content": "AHIMA’s Code of Ethics includes safeguarding privacy and security of health information and ensuring the accessibility and integrity of health information.",
+      "original_point_number": [
+        5
+      ]
+    },
+    {
+      "point_number": 6,
+      "point_content": "Patient information must be held as securely as possible and passwords and other login information must never be shared among team members.",
+      "original_point_number": [
+        6
+      ]
+    },
+    {
+      "point_number": 7,
+      "point_content": "Individual privacy will be compromised to some degree by computer analytics using vast amounts of personal information for medical care, research, and insurance, and law and custom have not caught up with protecting information combined into big data.",
+      "original_point_number": [
+        11,
+        12
+      ]
+    },
+    {
+      "point_number": 8,
+      "point_content": "Medical record and prescription data are used and even sold for various purposes; de-identified data does not require patient permission.",
+      "original_point_number": [
+        13
+      ]
+    },
+    {
+      "point_number": 9,
+      "point_content": "Patients may be unaware of how their data is used and can be harmed by privacy violations, denial of services, or identity theft.",
+      "original_point_number": [
+        15
+      ]
+    },
+    {
+      "point_number": 10,
+      "point_content": "Important ethical and legal questions include sufficiency of de-identification, meaningfulness of consent, transparency, and balancing beneficial uses with privacy protection.",
+      "original_point_number": [
+        16
+      ]
+    },
+    {
+      "point_number": 11,
+      "point_content": "More transparency and education about data collection, uses, and legal protections can help people make informed choices and guide policy, and public education is needed to increase understanding and acceptance of big data benefits and reduce fear of privacy invasion.",
+      "original_point_number": [
+        17,
+        22
+      ]
+    },
+    {
+      "point_number": 12,
+      "point_content": "Privacy should be designed into research from the start rather than checked at the end.",
+      "original_point_number": [
+        18
+      ]
+    },
+    {
+      "point_number": 13,
+      "point_content": "No established standards exist for de-identification of health information; consent paradigms need adjustment for big data use, and tracking individual consent for all data uses is complex; some researchers use 'open consent' for broader data use permissions.",
+      "original_point_number": [
+        19,
+        20
+      ]
+    },
+    {
+      "point_number": 14,
+      "point_content": "There may be a need to balance privacy concerns with the benefits of big data for research and medical advances.",
+      "original_point_number": [
+        21
+      ]
+    },
+    {
+      "point_number": 15,
+      "point_content": "Big data allows targeting of specific interventions for individual patients in a sophisticated manner not otherwise feasible and enables post-market monitoring of drugs and devices to improve patient safety.",
+      "original_point_number": [
+        10,
+        23
+      ]
+    },
+    {
+      "point_number": 16,
+      "point_content": "Returning to old privacy practices is impossible due to widespread electronic use; regulation is necessary.",
+      "original_point_number": [
+        25
+      ]
+    }
+  ]
+}

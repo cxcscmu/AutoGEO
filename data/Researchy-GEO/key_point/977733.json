@@ -1,0 +1,168 @@
+{
+  "question": "why do you think people are so quick to accept “statistics” as true?",
+  "key_points": {
+    "null": [],
+    "clueweb22-en0041-70-16276": [
+      {
+        "point_number": 1,
+        "point_content": "Statistics are often accepted as the final word in what's true or not true because they provide actual numbers in support of ideas and conclusions.",
+        "spans": [
+          "Statistics are a favorite evidence of many writers and speakers.",
+          "They provide actual numbers in support of ideas and conclusions.",
+          "Such evidence is not only difficult to refute, it's often accepted as the final word in what's true or not true."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Statistics are seen as a prime source of proof that what you say is true.",
+        "spans": [
+          "Statistics are a prime source of proof that what you say is true."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Statistics are based on studies searching for possible connections between facts, often using sets and subsets to represent proportions.",
+        "spans": [
+          "Statistics are based on studies: a search for possible connections between disparate facts that nonetheless have a connection.",
+          "If you remember your math classes, you will recall the concept of sets and subsets.",
+          "Statistics are, in large measure, concerned with that concept."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Statistics use samples to obtain results rather than doing actual head counts, making the selection of the sample crucial for validity.",
+        "spans": [
+          "Statistics also use samples to obtain results, rather than doing actual \"head counts\".",
+          "Neilson selects these families very carefully since each one represents the viewing habits and desires of some 60,000 people.",
+          "Thus the selection of the sample, whether Neilson's or incidence of AIDS in the US population, is of paramount importance in the validity of the statistics thus generated."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "People tend to accept statistics quickly because they are difficult to refute and appear as concrete evidence supporting conclusions.",
+        "spans": [
+          "Statistics are invaluable as evidence in support of conclusions.",
+          "If you can either find or generate statistics that show the truth of your conclusions, there are few that would refute your ideas."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "The phrase 'numbers don't lie' is true, but one must examine who is publishing the numbers and what they are trying to prove with them.",
+        "spans": [
+          "The phrase \"numbers don't lie\" is true; what you need to examine is who is publishing the numbers, and what are they trying to prove with them."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Statistics can support every way of viewing an idea, so people may accept statistics that align with their beliefs without questioning them.",
+        "spans": [
+          "The problem arises when you find statistics that support every way of viewing an idea."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "People often do not question statistics deeply because they trust the numbers and the authority behind them, even though statistics can be manipulated or biased.",
+        "spans": [
+          "Every point of view uses statistics to support their ideas.",
+          "It's your job to examine all statistics supporting all points of view, to arrive at your own conclusions based on all of them."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Statistics are often accepted quickly because they appear objective and scientific, even though the methods and interpretations can be subjective and influenced by human factors.",
+        "spans": [
+          "Statistics are, in large measure, concerned with that concept.",
+          "Statistics are invaluable as evidence in support of conclusions.",
+          "There are, of course, problems with using statistics as evidence.",
+          "What you must do is ask yourself some questions: who did the study that came up with the statistics, what exactly are the statistics measuring, who was asked, how were they asked, and compared with what?"
+        ]
+      }
+    ],
+    "clueweb22-en0025-47-00135": [
+      {
+        "point_number": 1,
+        "point_content": "Statistics can be manipulated, massaged and misstated.",
+        "spans": [
+          "they can be manipulated, massaged and misstated"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "If bogus statistical information is repeated often enough, it eventually is considered to be true.",
+        "spans": [
+          "if bogus statistical information is repeated often enough, it eventually is considered to be true"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Examples of manipulated statistics in political debates show how statistics can be misleading.",
+        "spans": [
+          "In 2012, when Barak Obama and Mitt Romney squared off, the president was heard to declare that “Over the last 30 months, we’ve seen 5 million jobs in the private sector created.” But 30 months only dates back to January 2010. And the president took office in January 2009.",
+          "It turns out that in his first year in office, the country lost some 5 million jobs. While things got better, the cumulative job creation in the private sector during Obama’s first term is in fact a more humble 125,000.",
+          "Romney, for his part, said that “If I’m president I will create — help create 12 million new jobs in this country with rising incomes.” While that may have seemed impressive, it’s the exact same figure that had been used by economic forecasters for how many jobs they already expected the economy would add over the next four years given a stable economy. And it had nothing to do with who was in the White House."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Commonly believed statistics are often false or misleading.",
+        "spans": [
+          "The teen pregnancy rate is on the rise. No, it isn’t.",
+          "People only use 10 per cent of their brains: Nobody knows for sure where this nugget came from",
+          "Men think about sex every seven seconds: Calculated over 16 waking hours that adds up to 8,000 salacious thoughts in a day. While we’ve known a few guys who met or maybe even exceeded that mark, a 2011 Ohio State study found that young men think about sex 19 times a day, compared with 10 for young women."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Spurious correlations can be created from real data but have no actual correlation, showing how statistics can be misleading.",
+        "spans": [
+          "He has created a website called Spurious Correlations (found at tylervigen.com)",
+          "Using data from the Center for Disease Control and the U.S. Census, he intertwines the numbers to reach statistical conclusions which are based on real data but which have to actual correlation whatsoever.",
+          "In his first example, he has illustrated in graph form that the number of people who trip and fall over their own feet is in direct correlation with the number of lawyers in Nevada.",
+          "Next up is a chart that show the number of people murdered by being pushed from high places corresponds with the precipitation in Tuscola County, Mississippi.",
+          "Vigen has showed that the age of our Miss Americas declines in concert with the number of murders by steam, hot vapors and hot objects.",
+          "Then we see that the number of sociology doctorates awarded is in direct proportion to the number of deaths caused by anticoagulants.",
+          "By the same measurement, we find that the per capita consumption of mozzarella cheese is in statistical lockstep with civil engineering doctorates awarded.",
+          "More intriguing is the chart that illustrates that the number of people who drowned by falling into a swimming pool correlates with the number of films in which Nicolas Cage has appeared."
+        ]
+      }
+    ],
+    "clueweb22-en0021-09-14935": [
+      {
+        "point_number": 1,
+        "point_content": "Statistics allow you to evaluate claims based on quantitative evidence and help you differentiate between reasonable and dubious conclusions.",
+        "spans": [
+          "Statistics allow you to evaluate claims based on quantitative evidence and help you differentiate between reasonable and dubious conclusions."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Statistical analyses account for uncertainty and error in the results, producing accurate results when used correctly.",
+        "spans": [
+          "When analysts use statistical procedures correctly, they tend to produce accurate results. In fact, statistical analyses account for uncertainty and error in the results."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Statisticians ensure that all aspects of a study follow the appropriate methods to produce trustworthy results.",
+        "spans": [
+          "Statisticians ensure that all aspects of a study follow the appropriate methods to produce trustworthy results."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "There are many potential problems and analytical errors that can affect a study, which statisticians help to avoid.",
+        "spans": [
+          "Statisticians offer critical guidance in producing trustworthy analyses and predictions. Along the way, statisticians can help investigators avoid a wide variety of analytical traps."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Unscrupulous analysts can use incorrect methodology to draw unwarranted conclusions, but statistical knowledge helps protect against manipulation.",
+        "spans": [
+          "Unscrupulous analysts can use incorrect methodology to draw unwarranted conclusions.",
+          "Statistical knowledge is the solution to this problem. Use it to protect yourself from manipulation and to react to information intelligently."
+        ]
+      }
+    ]
+  }
+}

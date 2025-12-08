@@ -1,0 +1,118 @@
+{
+  "question": "why emojis are a no-brainer for digital communication",
+  "key_points": {
+    "clueweb22-en0016-92-09713": [
+      {
+        "point_number": 1,
+        "point_content": "Emojis have had an enormous effect on the way people talk online and are widely used by smartphone users.",
+        "spans": [
+          "the enormous effect yellow smiley faces and other colorful emojis representing food, animals and hand gestures have had on the way people talk online",
+          "80 percent of smartphone users in Britain use emojis",
+          "almost 100 percent of smartphone users text with emojis",
+          "74 percent of Americans use emojis every day"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Emojis help convey non-verbal cues that are lost in digital communication, reducing misinterpretation of messages.",
+        "spans": [
+          "as much as 70 percent of the meaning we derive from a face-to-face encounter with someone comes from non-verbal cues",
+          "words account for only around 30 percent of what we say",
+          "emails, text messages and instant messages mostly allow us to communicate with words, and you can see how messages can lose their meaning or be misinterpreted",
+          "Where text took the empathy out of messages, emojis and emoticons put it back in"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Emojis surpassed emoticons because they allow more diverse communication and are standardized across platforms, making them accessible and easy to use.",
+        "spans": [
+          "There's a lot more that people can communicate with emojis",
+          "once emojis were incorporated into Unicode - an international system that standardizes characters across different operating systems",
+          "they became accessible and easy to use"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Humans have a biological inclination to use visual communication, making emojis a natural fit for digital communication.",
+        "spans": [
+          "humans as a collective species are programmed to use visual communication"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Emojis help people online express the intended tone or emotion behind their words, clarifying meaning.",
+        "spans": [
+          "the real innovation behind emojis lies in their ability to help people online say what they mean",
+          "when they write \"What the heck?\" they can signify with an accompanying laughing emoji or an angry-faced emoji whether their statement is an expression of amusement or outrage"
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0017-71-00028": [
+      {
+        "point_number": 1,
+        "point_content": "Emojis improve our ability to communicate by conveying emotions that are often lost in text-based communication.",
+        "spans": [
+          "Instead, emojis actually improve our ability to communicate.",
+          "Today, emojis offer us all a wider breadth of expression—and some of the emotional nuance that is often lost over email and text-based communication."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Humans naturally read facial expressions and constructed faces like emojis to understand emotions.",
+        "spans": [
+          "Humans are adept at perceiving emotions.",
+          "We now read punctuation marks as emotional expressions when combined in new, however grammatically inaccurate, ways.",
+          "Science has shown that we react to these constructed faces in the same way we do a human smile or frown—but only when read left to right."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Emojis help clarify the intention behind messages and reduce misunderstandings in professional communication.",
+        "spans": [
+          "Since emojis convey emotion, they help clarify the intention behind a message.",
+          "Emojis go further than improving open rates. They improve interpersonal communication and reduce the number of misunderstandings between colleagues."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Using emojis in customer communication increases engagement and open rates.",
+        "spans": [
+          "research reveals higher rates of customer engagement when emojis are used.",
+          "A study by LeanPlum and App Annie found that including emojis in a push notification increases open rates by 85 percent."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Emojis substitute for missing tone of voice, body language, or facial cues in digital communication.",
+        "spans": [
+          "Emojis help substitute some of the missing tone of voice, body language, or facial cues that ensure meaning isn’t lost or misconstrued."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Emojis are vital for remote teams to understand nuance and share personality.",
+        "spans": [
+          "If emojis are important for inter-office communication, they’re vital for remote teams.",
+          "Emojis can help remote team members understand the nuance in a conversation, and to share their personality."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Positive emojis can soften the impact of negative feedback in digital communication.",
+        "spans": [
+          "Studies have shown that when a superior shares a specific critique with an employee, a positive emoji can soften the blow and make it easier for the employee to accept the information.",
+          "A simple smiley face can help the reader to know that the negative information is shared in a positive and constructive spirit."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Emojis help counteract the negativity bias in email and text communication by providing emotional cues.",
+        "spans": [
+          "In what’s known as the “negativity bias,” we tend to read emails as more negatively than intended by the sender.",
+          "Help your colleagues and customers out by providing an emotional cue. It’s simple: just add some extra punctuation. :)"
+        ]
+      }
+    ]
+  }
+}

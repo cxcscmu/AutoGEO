@@ -1,0 +1,45 @@
+{
+  "question": "should motorcycles be outlawed on public streets?",
+  "key_points": {
+    "clueweb22-en0014-47-14539": [
+      {
+        "point_number": 1,
+        "point_content": "Motorcycles provide a cheap and reliable mode of transport for people who cannot afford a car and afford more road space for those who have cars.",
+        "spans": [
+          "Because they provide a cheap and reliable mode of transport for people who cannot afford a car.",
+          "They afford more road space for those who have cars."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Motorcycles are fuel-efficient and fun despite being noisy and not particularly safe.",
+        "spans": [
+          "I admit they’re noisy and not particularly safe, but they’re also fuel-efficient and fun."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "A lot of the risk to motorcyclists comes from car drivers who do not see or notice them.",
+        "spans": [
+          "Regarding safety, it’s my understanding that a lot (by no means all, of course) of the risk to a motorcyclist is from car drivers who either don’t see or don’t notice the motorcyclist."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Motorcycles are an efficient form of transportation, an expression of freedom and control, and are loved by many.",
+        "spans": [
+          "They are a efficient form of transportation, they are the fullest expression of freedom and control. Most importantly, they are loved."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Motorcycles take less space on the road and use less fuel than most cars, making them efficient especially in developing countries where many cannot afford cars.",
+        "spans": [
+          "They'r efficient form of transportation, they take less space on the road , they use less fuel than most of the cars and also they can take you to destination without much worrying about the traffic.",
+          "Also they cost cheaper and most of the people in the developing countries can't afford cars."
+        ]
+      }
+    ],
+    "null": []
+  }
+}

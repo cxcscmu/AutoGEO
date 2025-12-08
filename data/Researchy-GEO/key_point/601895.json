@@ -1,0 +1,334 @@
+{
+  "question": "are mobile banking apps safe",
+  "key_points": {
+    "clueweb22-en0019-79-17567": [
+      {
+        "point_number": 1,
+        "point_content": "Never use public wifi to access your banking services for security reasons.",
+        "spans": [
+          "Never Use Public Wifi",
+          "never, ever, use public wifi to access your banking services"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Using a VPN or cellular data connection is recommended over public wifi for online banking security.",
+        "spans": [
+          "Use a VPN or your cellular data connection, not public wifi. Hands down, this is one of the top recommendations from security experts."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Mobile banking apps are generally more secure than online banking websites, especially those with multi-factor authentication.",
+        "spans": [
+          "Bankrate.com says that online banking is less secure than a bank’s mobile app.",
+          "Some banks that have multi-factor authentication on their mobile apps don’t provide the same capability on their websites."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Well-designed mobile banking apps don’t store any data and smartphones are less likely to have viruses compared to computers.",
+        "spans": [
+          "Well-designed mobile apps don’t store any data, and you’re less likely to hear about a virus on a smartphone."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Bigger banks tend to have better mobile apps and stronger security features.",
+        "spans": [
+          "In general, bigger banks will have better mobile apps and stronger security on them."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Look for two-factor authentication and biometric security features in your mobile banking apps for enhanced security.",
+        "spans": [
+          "Look for two-factor authentication in your financial apps.",
+          "Biometrics is one example of a two-factor authentication method."
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0023-62-06930": [
+      {
+        "point_number": 1,
+        "point_content": "Mobile banking registrations jumped 200% in March 2021 due to the coronavirus pandemic.",
+        "spans": [
+          "Mobile banking registrations jumped 200% in March 2021 due to the coronavirus pandemic."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Banking using your smartphone gives you direct access to your bank accounts but also means your account could be open to anyone who manages to access your phone.",
+        "spans": [
+          "Banking using your smartphone gives you direct access to your bank accounts. But it also means your account could be open to anyone who manages to access your phone."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Text update facilities give you notifications of your balance or a mini statement and pose little risk as they don’t provide direct access to your accounts.",
+        "spans": [
+          "Text update facilities give you notifications of your balance or a mini statement. They pose little risk as they don’t provide direct access to your accounts, and as such, there’s little a potential fraudster can do with this facility alone."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Newer mobile phone operating systems come with built-in security, so keeping your operating system up to date is a key priority.",
+        "spans": [
+          "Newer mobile phone operating systems come with built-in security - which means keeping your operating system up to date is a key priority."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "If you plan to use your smartphone for banking regularly, then antivirus software can add an extra level of protection.",
+        "spans": [
+          "If you plan to use your smartphone for banking regularly, then antivirus software can add an extra level of protection."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Most mobile banking apps don’t store your bank details directly on your phone but instead access them from a secure data centre.",
+        "spans": [
+          "Most mobile banking apps don’t store your bank details directly on your phone but instead access them from a secure data centre, and this means your mobile itself will never hold your personal bank information."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "UK banking institutions will refund any losses caused by unauthorised transactions if you’ve taken reasonable care and not misused the service.",
+        "spans": [
+          "UK banking institutions will refund any losses caused by unauthorised transactions if you’ve taken reasonable care and not misused the service."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Providing you take the necessary security precautions, you have no reason to think mobile banking is less secure than any other means of accessing your accounts.",
+        "spans": [
+          "Providing you take the necessary security precautions, you have no reason to think mobile banking is less secure than any other means of accessing your accounts."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Should you lose your mobile, contact your mobile network provider as soon as possible to block the phone to make it unusable.",
+        "spans": [
+          "Should you lose your mobile, contact your mobile network provider as soon as possible. They can then block the phone to make it unusable."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "To reduce your chances of falling victim to fraud when you bank online via your smartphone, you should only download mobile applications directly from your bank and install quality security software.",
+        "spans": [
+          "Only download mobile applications directly from your bank – they’re free to use, and you can download them without any reservations about the software",
+          "Install quality security software. Often if you have it installed, there’s a remote deletion option that means you can delete any data stored on the phone if you discover it’s lost or stolen"
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Make your smartphone more secure by using a PIN or password to lock your phone when you’re not using it and switch off Bluetooth when not in use.",
+        "spans": [
+          "Make your smartphone more secure by using a PIN or password to lock your phone when you’re not using it",
+          "Switch off the Bluetooth function on your mobile when it is not in use."
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "Banks will never ask for your mobile banking passwords or login details by phone, text or email, so any contact asking for this information should be treated as a scam.",
+        "spans": [
+          "Banks will never ask for your mobile banking passwords or login details by phone, text or email, so any contact you receive asking for this information should be treated as a scam."
+        ]
+      }
+    ],
+    "clueweb22-en0003-33-08954": [
+      {
+        "point_number": 1,
+        "point_content": "Mobile banking safety depends on user caution and knowledge about security threats like social engineering and malware.",
+        "spans": [
+          "So, how safe is mobile banking? It all depends on how cautious and well-informed you are.",
+          "Hackers exploit weak passwords and vulnerabilities of public Wi-Fi to infect devices with malware.",
+          "However, most mobile banking attacks happen through social engineering – when users are manipulated to give up their usernames and passwords to hackers, scammers and other cybercriminals."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Use strong passwords and biometric identification to secure your phone and never leave it unattended.",
+        "spans": [
+          "A strong password (made of a random string of lowercase and uppercase letters, numbers, and symbols, at least six characters long) is the most secure way to lock your phone.",
+          "Never leave your phone unattended. Install an anti-theft and recovery app that can locate your phone, lock it remotely, or even wipe your data if it gets stolen."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Use the official banking app from your bank's website instead of browsers or third-party apps to avoid fake apps and scams.",
+        "spans": [
+          "Make sure your bank created or approves of the app you are downloading. Get it from their website.",
+          "Moreover, do not use mobile browsers to log in to your bank account – they are less secure than bank-sanctioned apps.",
+          "Finally, before downloading any app to your phone, you should research the developer, read the reviews, check the app rating on Google Play or App Store."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Do not click on suspicious links claiming to be from your bank; always verify URLs and never send your credentials via email or messages.",
+        "spans": [
+          "Always check the URL and domain of any link you are about to click on, especially if it claims to be from your bank.",
+          "Never send your username or password via email, social media or text message."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Avoid using mobile banking on public Wi-Fi; use cellular networks or VPNs to protect your data.",
+        "spans": [
+          "Mobile banking or any other activity that exposes your sensitive data should never be done on public Wi-Fi.",
+          "If you are scrolling in a library or a coffee shop and you need to access your bank account, use your cellular network instead.",
+          "Better yet, turn on a VPN and use public Wi-Fi without the risk of compromising your personal data."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Android users should download apps only from Google Play, keep apps updated, and use Google Play Protect and Find My Device features.",
+        "spans": [
+          "Minimize your risks by downloading apps only from Google Play and update them in a timely manner.",
+          "Go to your Android settings and make sure that you have turned on Google Play Protect, which scans your apps for suspicious behavior.",
+          "You can also use the Find My Device setting, which lets you find, ring, lock, or even wipe your device from afar."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "iPhone users should avoid jailbreaking and only use apps from the App Store to maintain security.",
+        "spans": [
+          "Banking apps on iOS tend to be secure thanks to the rigorous standards of the App Store.",
+          "If you are just a regular iOS user, you should never jailbreak your iPhone. Only use apps from the App Store, which are usually safe."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Mobile banking apps are safe if you use official apps, keep them updated, use VPN on public Wi-Fi, and keep your phone secure.",
+        "spans": [
+          "Is it safe to use mobile banking apps? Yes. Download the official banking app, update it constantly, use a VPN with a public Wi-Fi, and keep your phone close by!"
+        ]
+      }
+    ],
+    "clueweb22-en0032-22-00196": [
+      {
+        "point_number": 1,
+        "point_content": "Mobile banking is increasingly popular in the UK and is expected to outperform online banking by 2023.",
+        "spans": [
+          "Mobile banking is increasingly popular in the UK.",
+          "Industry analysts CACI say that mobile banking will outperform online banking by 2023, with as many as 72% of adults in the UK adopting the app services."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Mobile banking apps have security vulnerabilities, including insecure coding and weak encryption.",
+        "spans": [
+          "A 2019 report released by advisory firm Aite Group warned that mobile financial apps showed a \"systemic\" issue with insecure coding.",
+          "For example, 83% of the apps analysed were shown to store data insecurely, and 80% used weak encryption."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Mobile banking apps are targeted by criminals using malware and fake apps to steal information or money.",
+        "spans": [
+          "Fraudsters are always finding new ways to exploit technology.",
+          "At the moment, a big risk of mobile banking include malware introduced via fake apps (i.e. apps made to look like a bank's real software).",
+          "This malware can be used to get access to a bank account or employed as 'ransomware' - a type of virus that steals files or information and demands money for release."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Mobile banking apps downloaded from official app stores are vetted but not always safe; user behavior and security practices affect safety.",
+        "spans": [
+          "Apps downloaded from Apple or Google's Play Store, on the other hand, are vetted by the tech giants (although, as we'll discuss later, this doesn't always mean they're safe).",
+          "Factors such as network security, whether a phone is jailbroken (unlocked to allow third-party apps), and whether a customer uses two-factor authentication will all affect the relative security of browser vs app banking."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Users should follow safety practices such as avoiding fake apps, using two-factor authentication, avoiding insecure Wi-Fi, and keeping phones physically safe.",
+        "spans": [
+          "Be wary of fake apps (and don't 'jailbreak' or modify phones to allow unofficial app installation)",
+          "Practice good password hygiene - don't use the same PIN for everything",
+          "Use two-factor authentication where possible",
+          "Avoid insecure wi-fi - mobile data is better than public wi-fi",
+          "Keep phones physically safe",
+          "Log out of banking apps at the end of a session",
+          "Be wary of giving out personal information",
+          "Keep on top of general mobile phone security"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Mobile-only banks invest heavily in app technology but may have less financial resources and customer service for security issues.",
+        "spans": [
+          "On one hand, digital banks have more incentive to invest in app technology.",
+          "On the other hand, digital banks are smaller than the high-street banking giants. They have less financial heft to secure the best security experts; and their customer service teams might be understaffed, which can be a huge problem when dealing with potential security breaches."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Open Banking apps are regulated and considered safe due to modern data protection rules and FCA authorization.",
+        "spans": [
+          "For a company to access the bank APIs, they must be authorised by the Financial Conduct Authority (FCA).",
+          "That means they're bound by the modern regulations, which include stringent data security measures."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Mobile banking is not dramatically less safe than online banking if users follow basic online safety procedures and mobile-specific precautions.",
+        "spans": [
+          "If it's more dangerous than online banking, it isn't dramatically so.",
+          "Following basic online safety procedures, as well as keeping an eye on some mobile-specific risk factors, should allow users to minimise the dangers while maximising the ease of their financial transactions."
+        ]
+      }
+    ],
+    "clueweb22-en0024-11-08302": [
+      {
+        "point_number": 1,
+        "point_content": "Which? has rated 15 of the biggest UK banks on the security of their online and mobile banking systems.",
+        "spans": [
+          "Which? has rated 15 of the biggest UK banks on the security of their online and mobile banking systems."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The biggest threat to banking security comes from using a compromised device, whether computer or smartphone.",
+        "spans": [
+          "The biggest threat to banking security comes from using a compromised device. And this applies whether you’re using a computer or a smartphone."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "You can mitigate the risk of losing your phone by registering for Google ‘Find My Device’ and Apple ‘Find My iPhone’ to locate, lock, and wipe data remotely if lost or stolen.",
+        "spans": [
+          "you can mitigate the risk by registering for Google ‘Find My Device’ and Apple ‘Find My iPhone’ so that it can be located, locked and even wiped of data remotely if it's lost or stolen."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "It is difficult to plant a keylogger in an Android or iOS device, which helps protect usernames and passwords.",
+        "spans": [
+          "It's difficult to plant a keylogger in an Android or iOS device (software used to track every key you press and potentially steal usernames and passwords)."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Mobile banking isn’t risk-free; fake apps can appear in app stores and malware targeting mobile phones exists.",
+        "spans": [
+          "But mobile banking isn’t risk-free - fakes can turn up in app stores and malware does exist that specifically targets mobile phones."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Always download bank apps from official app stores vetted by Apple and Google, and keep software updated for security patches and new features.",
+        "spans": [
+          "Always download bank apps from the official app stores as these are vetted by Apple and Google, and keep your software updated as manufacturers and app developers will usually release software updates which contain security patches and new security features."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Many banks have improved app security features such as instant card freezing, freezing specific purchases, and real-time spending notifications.",
+        "spans": [
+          "Make use of your bank's security features too. Thanks to competition from innovative mobile-only banks Monzo and Starling, many high street banks have started to improve app security: Instant card freezing Freeze specific purchases Real-time spending notifications"
+        ]
+      }
+    ]
+  }
+}

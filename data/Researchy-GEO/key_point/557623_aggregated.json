@@ -1,0 +1,552 @@
+{
+  "question": "is social media helping or hurting us",
+  "key_points": [
+    {
+      "point_number": 1,
+      "point_content": "Social media use has skyrocketed over the past decade and a half.",
+      "original_point_number": [
+        1
+      ]
+    },
+    {
+      "point_number": 2,
+      "point_content": "There is concern about social media's impacts on our lives and psychological well-being.",
+      "original_point_number": [
+        2
+      ]
+    },
+    {
+      "point_number": 3,
+      "point_content": "There is very little evidence that social media directly displaces meaningful interaction with close relational partners, but high school seniors in 2016 spent an hour less a day engaging in in-person social interaction compared with those in the late 1980s, associated with increased digital media use.",
+      "original_point_number": [
+        3,
+        4
+      ]
+    },
+    {
+      "point_number": 4,
+      "point_content": "Adolescents who spent the most time on social media and the least time in face-to-face social interactions reported the most loneliness.",
+      "original_point_number": [
+        5
+      ]
+    },
+    {
+      "point_number": 5,
+      "point_content": "Restrictive parenting could drive social media use and social media use could reduce the time teens spend together in person.",
+      "original_point_number": [
+        6
+      ]
+    },
+    {
+      "point_number": 6,
+      "point_content": "Social media presents both risks and opportunities for adolescents.",
+      "original_point_number": [
+        7
+      ]
+    },
+    {
+      "point_number": 7,
+      "point_content": "Social media benefits teens by expanding their social networks and keeping them in touch with their peers and far-away friends and family.",
+      "original_point_number": [
+        8
+      ]
+    },
+    {
+      "point_number": 8,
+      "point_content": "More than a quarter of teens said that social media is extremely or very important for them for expressing themselves creatively.",
+      "original_point_number": [
+        9
+      ]
+    },
+    {
+      "point_number": 9,
+      "point_content": "13 percent of teens reported being cyberbullied at least once, and social media facilitates cyberbullying.",
+      "original_point_number": [
+        10,
+        86
+      ]
+    },
+    {
+      "point_number": 10,
+      "point_content": "Social media can be a conduit for accessing inappropriate content like violent images or pornography.",
+      "original_point_number": [
+        11
+      ]
+    },
+    {
+      "point_number": 11,
+      "point_content": "Nearly two-thirds of teens who use social media said they often or sometimes come across racist, sexist, homophobic, or religious-based hate content in social media, and social media aids the spread of hate groups.",
+      "original_point_number": [
+        12,
+        89
+      ]
+    },
+    {
+      "point_number": 12,
+      "point_content": "Social media use seems to be connected to offline developmental concerns such as sexuality, identity, and intimacy.",
+      "original_point_number": [
+        13
+      ]
+    },
+    {
+      "point_number": 13,
+      "point_content": "Teens use social media for self-presentation and identity construction, which may be beneficial or harmful.",
+      "original_point_number": [
+        14
+      ]
+    },
+    {
+      "point_number": 14,
+      "point_content": "It is unclear if online support is as effective as offline support.",
+      "original_point_number": [
+        15
+      ]
+    },
+    {
+      "point_number": 15,
+      "point_content": "Digital interactions may be more ephemeral and fleeting compared to face-to-face interactions.",
+      "original_point_number": [
+        16
+      ]
+    },
+    {
+      "point_number": 16,
+      "point_content": "For youth, there is fluidity and connectedness between the real and the physical and the offline and the online.",
+      "original_point_number": [
+        17
+      ]
+    },
+    {
+      "point_number": 17,
+      "point_content": "Growing up with digital technology may be changing teen brain development in ways we don't yet know, and exposure to technology early may cause changes at a neural level, making youth interaction with technology qualitatively different from adults.",
+      "original_point_number": [
+        18,
+        19
+      ]
+    },
+    {
+      "point_number": 18,
+      "point_content": "Social media tools can be used to improve or enhance professional networking and education, organizational promotion, patient care, patient education, and public health programs, and social media participation by health care professionals can improve health outcomes, develop professional networks, increase awareness, motivate patients, and provide health information.",
+      "original_point_number": [
+        20,
+        22
+      ]
+    },
+    {
+      "point_number": 19,
+      "point_content": "Social media are widely used for professional networking, education, organizational promotion, patient care, patient education, and public health programs in healthcare.",
+      "original_point_number": [
+        23
+      ]
+    },
+    {
+      "point_number": 20,
+      "point_content": "Social media can improve patient education and access to health information, and can motivate behavioral changes and support for patients.",
+      "original_point_number": [
+        24
+      ]
+    },
+    {
+      "point_number": 21,
+      "point_content": "Social media can be a powerful tool for public health education, advocacy, and rapid response to health emergencies, and allows for quick, easy dissemination of public health and safety information from reputable sources.",
+      "original_point_number": [
+        25,
+        66
+      ]
+    },
+    {
+      "point_number": 22,
+      "point_content": "The main limitation of health information on social media is a lack of quality and reliability, with potential for misinformation, and social media enables the spread of unreliable and false information.",
+      "original_point_number": [
+        26,
+        75
+      ]
+    },
+    {
+      "point_number": 23,
+      "point_content": "Social media use can damage professional image through unprofessional content and breaches of privacy, can lead to breaches of patient privacy and confidentiality with legal consequences under HIPAA and other laws, can blur patient–HCP boundaries and raise ethical concerns about online interactions, and can lead to licensing and legal issues for health care professionals due to unprofessional behavior or privacy violations.",
+      "original_point_number": [
+        27,
+        28,
+        29,
+        30
+      ]
+    },
+    {
+      "point_number": 24,
+      "point_content": "Guidelines and policies from health care organizations and professional societies exist to help manage the benefits and risks of social media use.",
+      "original_point_number": [
+        31
+      ]
+    },
+    {
+      "point_number": 25,
+      "point_content": "Social media permits users to connect to one another - to participate in a social network that includes friends, other connections, invites, updates, events, status updates, etc.",
+      "original_point_number": [
+        32
+      ]
+    },
+    {
+      "point_number": 26,
+      "point_content": "Facebook and social media can be helpful for people suffering from social anxiety as they provide the opportunity to develop social relationships online without the stress that face-to-face interactions provoke, and Facebook connectedness is associated with lower depression and anxiety and greater satisfaction with life.",
+      "original_point_number": [
+        33,
+        34
+      ]
+    },
+    {
+      "point_number": 27,
+      "point_content": "Facebook boasts numerous mutual support groups for people struggling with difficult circumstances; particularly useful for people who do not live in areas where meetings are scheduled or are more likely to participate in an online platform due to privacy concerns.",
+      "original_point_number": [
+        35
+      ]
+    },
+    {
+      "point_number": 28,
+      "point_content": "Cyberbullying increases risk of depression and anxiety in children.",
+      "original_point_number": [
+        36
+      ]
+    },
+    {
+      "point_number": 29,
+      "point_content": "Facebook can cause depression if the user makes negative comparisons between himself or herself and others, can cause envy which can lead to depression, and Facebook use predicts declines in subjective well-being: how people feel moment to moment and how satisfied they are with their lives.",
+      "original_point_number": [
+        37,
+        38,
+        39
+      ]
+    },
+    {
+      "point_number": 30,
+      "point_content": "Social media can increase symptoms of ADHD, and opponents of social networking say that the sites alter children’s brains and behavior making them more prone to ADHD.",
+      "original_point_number": [
+        40,
+        51
+      ]
+    },
+    {
+      "point_number": 31,
+      "point_content": "Body exposure on Facebook can lead to eating disorders, and the incidence of body image disturbance among adolescent girls is associated with Facebook use.",
+      "original_point_number": [
+        41,
+        42
+      ]
+    },
+    {
+      "point_number": 32,
+      "point_content": "Internet addiction causes neurological complications, psychological disturbances and social problems; excessive Facebook use correlated with elements of addiction as well as neuroticism; nearly 10% of users display disordered social networking use; and excessive Facebook use can be detrimental to both a person's health and their social relationships.",
+      "original_point_number": [
+        43,
+        44,
+        45,
+        46
+      ]
+    },
+    {
+      "point_number": 33,
+      "point_content": "Facebook users can stay in touch with friends and loved ones they do not get to see as much as they would like, as well as opportunities to meet new people with whom they might have interests, concerns or experiences in common, but Facebook cannot replace other forms of communication or meaningful social relationships.",
+      "original_point_number": [
+        47,
+        48
+      ]
+    },
+    {
+      "point_number": 34,
+      "point_content": "Facebook and mental health: Hurting or helping? Yes...depending on how it's used.",
+      "original_point_number": [
+        49
+      ]
+    },
+    {
+      "point_number": 35,
+      "point_content": "Proponents of social networking sites say that the online communities promote increased interaction with friends and family; offer teachers, librarians, and students valuable access to educational support and materials; facilitate social and political change; and disseminate useful information rapidly.",
+      "original_point_number": [
+        50
+      ]
+    },
+    {
+      "point_number": 36,
+      "point_content": "Opponents of social networking say that the sites prevent face-to-face communication; waste time on frivolous activity; expose users to predators like pedophiles and burglars; and spread false and potentially dangerous information.",
+      "original_point_number": [
+        51
+      ]
+    },
+    {
+      "point_number": 37,
+      "point_content": "Social media spreads information faster than any other media.",
+      "original_point_number": [
+        52
+      ]
+    },
+    {
+      "point_number": 38,
+      "point_content": "Law enforcement uses social media to catch and prosecute criminals.",
+      "original_point_number": [
+        53
+      ]
+    },
+    {
+      "point_number": 39,
+      "point_content": "Social media sites help students do better at school.",
+      "original_point_number": [
+        54
+      ]
+    },
+    {
+      "point_number": 40,
+      "point_content": "Social media allows people to improve their relationships and make new friends.",
+      "original_point_number": [
+        55
+      ]
+    },
+    {
+      "point_number": 41,
+      "point_content": "Social media helps empower business women.",
+      "original_point_number": [
+        56
+      ]
+    },
+    {
+      "point_number": 42,
+      "point_content": "Social media sites help employers find employees and job-seekers find work.",
+      "original_point_number": [
+        57
+      ]
+    },
+    {
+      "point_number": 43,
+      "point_content": "Being a part of a social media site can increase a person’s quality of life and reduce the risk of health problems.",
+      "original_point_number": [
+        58
+      ]
+    },
+    {
+      "point_number": 44,
+      "point_content": "Social media facilitates face-to-face interaction.",
+      "original_point_number": [
+        59
+      ]
+    },
+    {
+      "point_number": 45,
+      "point_content": "Social media increases voter participation and facilitates political change.",
+      "original_point_number": [
+        60,
+        61
+      ]
+    },
+    {
+      "point_number": 46,
+      "point_content": "Social media is good for the economy.",
+      "original_point_number": [
+        62
+      ]
+    },
+    {
+      "point_number": 47,
+      "point_content": "Social media sites empower individuals to make social change and do social good on a community level.",
+      "original_point_number": [
+        63
+      ]
+    },
+    {
+      "point_number": 48,
+      "point_content": "Social media helps senior citizens feel more connected to society.",
+      "original_point_number": [
+        64
+      ]
+    },
+    {
+      "point_number": 49,
+      "point_content": "Social media helps people who are socially isolated or shy connect with other people.",
+      "original_point_number": [
+        65
+      ]
+    },
+    {
+      "point_number": 50,
+      "point_content": "Social media can help disarm social stigmas.",
+      "original_point_number": [
+        67
+      ]
+    },
+    {
+      "point_number": 51,
+      "point_content": "“Crowdsourcing” and “crowdfunding” on social media allows people to collectively accomplish a goal.",
+      "original_point_number": [
+        68
+      ]
+    },
+    {
+      "point_number": 52,
+      "point_content": "Social media provides academic research to a wider audience, allowing many people access to previously unavailable educational resources.",
+      "original_point_number": [
+        69
+      ]
+    },
+    {
+      "point_number": 53,
+      "point_content": "Corporations and small businesses use social media to benefit themselves and consumers.",
+      "original_point_number": [
+        70
+      ]
+    },
+    {
+      "point_number": 54,
+      "point_content": "Social media offers teachers a platform for collaboration with other teachers and communication with students outside the classroom.",
+      "original_point_number": [
+        71
+      ]
+    },
+    {
+      "point_number": 55,
+      "point_content": "Social media offers a way for musicians and artists to build audiences even if they don’t have a corporate contract.",
+      "original_point_number": [
+        72
+      ]
+    },
+    {
+      "point_number": 56,
+      "point_content": "Colleges and universities use social media to recruit and retain students.",
+      "original_point_number": [
+        73
+      ]
+    },
+    {
+      "point_number": 57,
+      "point_content": "Social media allows for rapid communication during crisis events.",
+      "original_point_number": [
+        74
+      ]
+    },
+    {
+      "point_number": 58,
+      "point_content": "Social media lacks privacy and exposes users to government and corporate intrusions, and social media sites’ advertising practices may constitute an invasion of privacy.",
+      "original_point_number": [
+        76,
+        92
+      ]
+    },
+    {
+      "point_number": 59,
+      "point_content": "Students who are heavy social media users tend to have lower grades.",
+      "original_point_number": [
+        77
+      ]
+    },
+    {
+      "point_number": 60,
+      "point_content": "Social media can lead to stress and offline relationship problems.",
+      "original_point_number": [
+        78
+      ]
+    },
+    {
+      "point_number": 61,
+      "point_content": "Social media can entice people to waste time.",
+      "original_point_number": [
+        79
+      ]
+    },
+    {
+      "point_number": 62,
+      "point_content": "Using social media can harm job stability and employment prospects.",
+      "original_point_number": [
+        80
+      ]
+    },
+    {
+      "point_number": 63,
+      "point_content": "The use of social media is correlated with personality and brain disorders.",
+      "original_point_number": [
+        81
+      ]
+    },
+    {
+      "point_number": 64,
+      "point_content": "Social media causes people to spend less time interacting face-to-face.",
+      "original_point_number": [
+        82
+      ]
+    },
+    {
+      "point_number": 65,
+      "point_content": "Criminals use social media to commit and promote crimes, and social media enables “sexting,” which can lead to criminal charges and the unexpected proliferation of personal images.",
+      "original_point_number": [
+        83,
+        87
+      ]
+    },
+    {
+      "point_number": 66,
+      "point_content": "Social media can endanger the military, journalists, and activists.",
+      "original_point_number": [
+        84
+      ]
+    },
+    {
+      "point_number": 67,
+      "point_content": "Social media harms employees’ productivity.",
+      "original_point_number": [
+        85
+      ]
+    },
+    {
+      "point_number": 68,
+      "point_content": "People who use social media are prone to social isolation.",
+      "original_point_number": [
+        88
+      ]
+    },
+    {
+      "point_number": 69,
+      "point_content": "Children may endanger themselves by not understanding the public and viral nature of social media.",
+      "original_point_number": [
+        90
+      ]
+    },
+    {
+      "point_number": 70,
+      "point_content": "Social media enables cheating on school assignments.",
+      "original_point_number": [
+        91
+      ]
+    },
+    {
+      "point_number": 71,
+      "point_content": "Social media can facilitate inappropriate student-teacher relationships.",
+      "original_point_number": [
+        93
+      ]
+    },
+    {
+      "point_number": 72,
+      "point_content": "Unauthorized sharing on social media exposes artists to copyright infringement, loss of intellectual property, and loss of income.",
+      "original_point_number": [
+        94
+      ]
+    },
+    {
+      "point_number": 73,
+      "point_content": "Using social media can harm students’ chances for college admission.",
+      "original_point_number": [
+        95
+      ]
+    },
+    {
+      "point_number": 74,
+      "point_content": "Social media posts cannot be completely deleted and all information posted can have unintended consequences.",
+      "original_point_number": [
+        96
+      ]
+    },
+    {
+      "point_number": 75,
+      "point_content": "Social media users are vulnerable to security attacks such as hacking, identity theft, and viruses.",
+      "original_point_number": [
+        97
+      ]
+    }
+  ]
+}

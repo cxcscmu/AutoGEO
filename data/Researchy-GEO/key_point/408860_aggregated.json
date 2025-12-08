@@ -1,0 +1,266 @@
+{
+  "question": "why do people not take the vaccine",
+  "key_points": [
+    {
+      "point_number": 1,
+      "point_content": "A sizeable number of people remain reluctant to get COVID-19 vaccines, with hesitancy rates ranging from around 10-20% in the UK, about 12% in the US, 25% in Canada, to around 50% in Japan and 60% in France.",
+      "original_point_number": [
+        1,
+        7,
+        38,
+        67
+      ]
+    },
+    {
+      "point_number": 2,
+      "point_content": "Vaccine hesitant individuals are often undecided rather than ideologically opposed, lacking a political agenda or anti-scientific cause, and many are uncertain rather than hostile.",
+      "original_point_number": [
+        2,
+        53,
+        54,
+        58,
+        59
+      ]
+    },
+    {
+      "point_number": 3,
+      "point_content": "Fear of needles is a significant barrier to vaccination for about 10% of the population.",
+      "original_point_number": [
+        3
+      ]
+    },
+    {
+      "point_number": 4,
+      "point_content": "Psychological factors influencing vaccine hesitancy include the 5Cs model: Confidence, Complacency, Calculation, Constraints (convenience), and Collective responsibility, as well as cognitive biases like negativity bias, optimism bias, and confirmation bias.",
+      "original_point_number": [
+        4,
+        5
+      ]
+    },
+    {
+      "point_number": 5,
+      "point_content": "Social factors such as difficulty accessing vaccines, structural racism, and historical medical mistreatment contribute to vaccine hesitancy, especially in Black and minority communities.",
+      "original_point_number": [
+        6,
+        40,
+        43,
+        44,
+        48,
+        51,
+        64,
+        65
+      ]
+    },
+    {
+      "point_number": 6,
+      "point_content": "Political and socio-political identity influences vaccine acceptance, with conservatives, Republicans, white evangelical Christians, younger adults, and rural residents more likely to refuse vaccination.",
+      "original_point_number": [
+        7,
+        13,
+        60,
+        71
+      ]
+    },
+    {
+      "point_number": 7,
+      "point_content": "Many hesitant individuals are not against all vaccines but specifically hesitant about the COVID-19 vaccine, often due to concerns about its novelty, emergency authorization, and perceived risks.",
+      "original_point_number": [
+        8,
+        15,
+        53
+      ]
+    },
+    {
+      "point_number": 8,
+      "point_content": "Some people trust their immune system to protect them, have recovered from COVID-19 and consider vaccination unnecessary, or believe the pandemic does not pose a grave threat to them personally.",
+      "original_point_number": [
+        9,
+        10,
+        12,
+        14,
+        66,
+        76
+      ]
+    },
+    {
+      "point_number": 9,
+      "point_content": "Concerns about COVID-19 vaccines include worries about long-term side effects, unknown safety, distrust due to disingenuous safety claims, and fear of being test subjects in an experimental treatment.",
+      "original_point_number": [
+        11,
+        21,
+        23
+      ]
+    },
+    {
+      "point_number": 10,
+      "point_content": "Distrust in drug companies, politicians, medical establishments, and media arises from perceived deceitful labeling, manipulation, lack of liability, and history of pushing harmful drugs and suppressing information.",
+      "original_point_number": [
+        18,
+        22,
+        25,
+        26,
+        33
+      ]
+    },
+    {
+      "point_number": 11,
+      "point_content": "Some view the COVID-19 vaccine as the greatest medical experiment in history, with unethical manipulation and pressure to participate, violating medical ethics and increasing resistance.",
+      "original_point_number": [
+        28,
+        29,
+        30
+      ]
+    },
+    {
+      "point_number": 12,
+      "point_content": "People refusing vaccination face stigmatization and ostracism, which reinforces opposition, while many get vaccinated due to hype, propaganda, pressure, fear, or blind trust rather than informed decision.",
+      "original_point_number": [
+        31,
+        32
+      ]
+    },
+    {
+      "point_number": 13,
+      "point_content": "Adverse effects are often ignored and whistleblowers punished, denial of possible links between deaths and vaccinations is seen as anti-science, and there is a lack of informed consent with pressure from healthcare providers.",
+      "original_point_number": [
+        34,
+        35,
+        36
+      ]
+    },
+    {
+      "point_number": 14,
+      "point_content": "There is a perception of widespread lies, corruption, propaganda, censorship, and lack of integrity in the vaccination campaign, leading to distrust and confusion.",
+      "original_point_number": [
+        37,
+        62,
+        63
+      ]
+    },
+    {
+      "point_number": 15,
+      "point_content": "Historical medical mistreatment, such as forced sterilizations and coercive medical procedures on Black, Native American, and Brown communities, contributes to vaccine hesitancy due to fear and mistrust.",
+      "original_point_number": [
+        41,
+        42,
+        43,
+        51
+      ]
+    },
+    {
+      "point_number": 16,
+      "point_content": "Many people seek Complementary and Alternative Medicine (CAM) and prefer holistic, natural health approaches over synthetic solutions like vaccines, sometimes believing diet and wellness suffice to protect against COVID-19.",
+      "original_point_number": [
+        45,
+        47
+      ]
+    },
+    {
+      "point_number": 17,
+      "point_content": "Misinformation and false beliefs spread through social media, including that mRNA vaccines alter DNA, cause infertility, or contain microchips, contribute to vaccine hesitancy.",
+      "original_point_number": [
+        46,
+        50,
+        55
+      ]
+    },
+    {
+      "point_number": 18,
+      "point_content": "Some individuals with pre-existing health conditions distrust medicine due to racial trauma and personal health concerns, leading to vaccine hesitancy.",
+      "original_point_number": [
+        48
+      ]
+    },
+    {
+      "point_number": 19,
+      "point_content": "Pregnant women may avoid vaccination due to concerns about insufficient information on side effects and advice from doctors to wait.",
+      "original_point_number": [
+        49
+      ]
+    },
+    {
+      "point_number": 20,
+      "point_content": "Some people value individual liberty above all else and view vaccine promotion as an intrusion on personal choice.",
+      "original_point_number": [
+        52,
+        57
+      ]
+    },
+    {
+      "point_number": 21,
+      "point_content": "Distrust in government and science, lack of transparency, and conflicting media coverage undermine credibility and contribute to vaccine hesitancy.",
+      "original_point_number": [
+        39,
+        60,
+        70,
+        62
+      ]
+    },
+    {
+      "point_number": 22,
+      "point_content": "Strongly principled anti-vaccination beliefs are linked to community and identity, sometimes overriding evidence, but antivaxxers are a small subset of the larger vaccine hesitant group.",
+      "original_point_number": [
+        72,
+        58
+      ]
+    },
+    {
+      "point_number": 23,
+      "point_content": "Some people fear specific vaccines like AstraZeneca due to rare risks such as blood clots, and some prefer to wait for different vaccines instead of immediate vaccination.",
+      "original_point_number": [
+        73,
+        74,
+        75
+      ]
+    },
+    {
+      "point_number": 24,
+      "point_content": "Some people perceive minimal and short-lasting benefits of vaccines, requiring repeated shots, leading to refusal to become chronic patients.",
+      "original_point_number": [
+        19
+      ]
+    },
+    {
+      "point_number": 25,
+      "point_content": "Preference exists for natural immune system strengthening and established treatments over medical treatments like vaccines.",
+      "original_point_number": [
+        20
+      ]
+    },
+    {
+      "point_number": 26,
+      "point_content": "Opposition exists to sharing personal medical data without consent in the context of vaccination.",
+      "original_point_number": [
+        24
+      ]
+    },
+    {
+      "point_number": 27,
+      "point_content": "Distrust arises because Pfizer executives and other officials reportedly did not take the vaccine themselves.",
+      "original_point_number": [
+        25
+      ]
+    },
+    {
+      "point_number": 28,
+      "point_content": "Belief that benefits of vaccines are exaggerated and risks ignored leads to distrust and refusal.",
+      "original_point_number": [
+        26
+      ]
+    },
+    {
+      "point_number": 29,
+      "point_content": "Concerns about vaccines are suppressed and those raising them punished, leading to trust in dissenters over establishment.",
+      "original_point_number": [
+        27
+      ]
+    },
+    {
+      "point_number": 30,
+      "point_content": "The COVID-19 treatment is not a vaccine and does not provide immunity, only reduces chance of severe illness.",
+      "original_point_number": [
+        17
+      ]
+    }
+  ]
+}

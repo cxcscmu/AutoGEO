@@ -1,0 +1,67 @@
+{
+  "question": "what are the benefits and downsides of free agency in sports",
+  "key_points": {
+    "null": [],
+    "clueweb22-en0041-21-19189": [
+      {
+        "point_number": 1,
+        "point_content": "Restricted free agency allows the original team to retain a player by matching an offer sheet from another team, giving the team a right of first refusal.",
+        "spans": [
+          "A restricted free agent (RFA) can sign an offer sheet with any team, but the player’s original team can retain him by matching the terms of that offer. The original team is said to have the “right of first refusal.”"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Unrestricted free agents are free to sign with any team without restrictions.",
+        "spans": [
+          "In short, an unrestricted free agent (UFA) is free to sign with any team. Once they sign, they are a part of that new team."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Free Agency Moratorium is a negotiation period where teams can negotiate but not officially sign most free agents, allowing for deal discussions without immediate commitment.",
+        "spans": [
+          "The Free Agency Moratorium is a negotiation period from Aug. 2-6 in which teams may not sign most free agents or make trades. Starting at 6 p.m. ET on Aug. 2, teams may negotiate deals with free agents. However, those players cannot officially sign until 12:01 p.m. on Aug. 6."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Teams have options such as Team Options and Player Options that allow either the team or player to extend or end contracts, affecting free agency status.",
+        "spans": [
+          "A team option grants the original team the right to keep a player for another year.",
+          "A player option grants the player the power to decide whether to stay for another year or become an unrestricted free agent."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Early Termination Options allow players to end contracts early and become unrestricted free agents, providing players more control.",
+        "spans": [
+          "An early termination option gives the player the right to end a signed contract. The option cannot be exercised before the end of the fourth year of an existing contract, which means the contract must be for five seasons. If the player declines to exercise the option, he remains with the original team. If the option is exercised, he becomes an unrestricted free agent and is free to sign with any team."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Salary Cap Exceptions allow teams to exceed the salary cap to re-sign free agents or sign new players, influencing team strategies in free agency.",
+        "spans": [
+          "There are 11 types of Salary Cap exceptions that are available to NBA teams. These exceptions allow teams to exceed the salary cap and are as follows:"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Restricted free agency provides teams with a mechanism to retain players but limits player freedom to sign with other teams freely.",
+        "spans": [
+          "Restricted free agency exists in the following situations:",
+          "A restricted free agent (RFA) can sign an offer sheet with any team, but the player’s original team can retain him by matching the terms of that offer. The original team is said to have the “right of first refusal.”"
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Unrestricted free agency benefits players by allowing them to sign with any team, but some contracts may have options that affect this freedom.",
+        "spans": [
+          "In short, an unrestricted free agent (UFA) is free to sign with any team. Once they sign, they are a part of that new team.",
+          "However, some unrestricted free agents have options on their existing contracts that, if exercised, may impact their choices."
+        ]
+      }
+    ]
+  }
+}

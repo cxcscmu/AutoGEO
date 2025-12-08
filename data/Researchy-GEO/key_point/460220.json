@@ -1,0 +1,613 @@
+{
+  "question": "do violent video games make people more likely to be violent in real life?",
+  "key_points": {
+    "clueweb22-en0002-77-11009": [
+      {
+        "point_number": 1,
+        "point_content": "Violent video games don’t create violent children, teenagers, or adults.",
+        "spans": [
+          "violent video games don’t create violent children, teenagers, or adults"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Studies failed to find any effect of playing a violent video game on societal behaviors and found players more likely to engage in helping behavior.",
+        "spans": [
+          "the study “failed to find any effect of playing a violent video game” on societal behaviors",
+          "the participates were more likely to “engage in spontaneous, unrequested helping behavior”"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The relation of violent video games leading to youth aggression is extremely small, near zero.",
+        "spans": [
+          "the relation of violent video games leading to youth aggression is “extremely small, … near zero”"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "As video games have become more widespread, the incidence rate of criminal youth violence has declined sharply, showing a mismatch between fears and actual trends.",
+        "spans": [
+          "as video games have become more widespread over the past few decades, the incidence rate of criminal youth violence has declined sharply",
+          "a mismatch between public fears of violent video games and actual trends in youth violence"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Countries with high video game consumption like Japan and South Korea experience less crime and homicide than America.",
+        "spans": [
+          "Japan and South Korea consume more video games per capita than America, and yet both of those nations experience far less crime and homicide than America"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Violent video games are an easy political target but are not the cause of gun violence.",
+        "spans": [
+          "if violent video games aren’t the problem, which has been proven true based on various scientific studies’ results",
+          "it’s easier to go against video games because, again, they don't have that political backing"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Violent video games have been found to increase morality and moral sensitivity, leading to voluntary behavior that benefits others.",
+        "spans": [
+          "violent video-game play may actually lead to increased moral sensitivity",
+          "provoke players to engage in voluntary behavior that benefits others"
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Exposure to violence in video games does not make players want to kill people in real life and helps define the difference between right and wrong.",
+        "spans": [
+          "does killing these people in these games make you want to kill people in real life?",
+          "such exposure doesn’t create violent killing machines, but instead helps clearly define the difference between right and wrong"
+        ]
+      }
+    ],
+    "clueweb22-en0032-80-04768": [
+      {
+        "point_number": 1,
+        "point_content": "The American Psychological Association concluded while there was 'no single risk factor' to blame for aggression, violent video games did contribute.",
+        "spans": [
+          "The American Psychological Association concluded while there was \"no single risk factor\" to blame for aggression, violent video games did contribute."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The research demonstrates a consistent relation between violent video game use and increases in aggressive behaviour, aggressive cognitions and aggressive affect, and decreases in pro-social behaviour, empathy and sensitivity to aggression.",
+        "spans": [
+          "The research demonstrates a consistent relation between violent video game use and increases in aggressive behaviour, aggressive cognitions and aggressive affect, and decreases in pro-social behaviour, empathy and sensitivity to aggression,"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "It is the accumulation of risk factors that tends to lead to aggressive or violent behaviour. The research reviewed here demonstrates that violent video game use is one such risk factor.",
+        "spans": [
+          "It is the accumulation of risk factors that tends to lead to aggressive or violent behaviour. The research reviewed here demonstrates that violent video game use is one such risk factor."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "A large group of academics said they felt the methodology of the research was deeply flawed as a significant part of material included in the study had not been subjected to peer review.",
+        "spans": [
+          "a large group of academics said they felt the methodology of the research was deeply flawed as a significant part of material included in the study had not been subjected to peer review."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Dr Mark Coulson said there is no evidence linking violent video games with long-term consequences of crime and actual violent behaviour.",
+        "spans": [
+          "there is just no evidence linking violent video games with that,\" Dr Mark Coulson, associate professor of psychology at Middlesex University and one of the signatories of the letter told the BBC."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "The question about whether violent games inspire violent behaviour 'in real life' is a subject that strongly divides opinion.",
+        "spans": [
+          "The question about whether violent games inspire violent behaviour \"in real life\" is a subject that strongly divides opinion."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "While many people play violent video games, few become violent.",
+        "spans": [
+          "While many people play violent video games, few become violent."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Most people who played graphically violent games did not resort to violence - and most video games were not violent.",
+        "spans": [
+          "most people who played graphically violent games (such as Call of Duty, Hitman, Mortal Kombat) did not resort to violence - and most video games were not violent, said Dr Richard Wilson from trade body Tiga."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "The taskforce said more research was now needed to establish whether violent games did lead to violent criminal behaviour.",
+        "spans": [
+          "The taskforce said more research was now needed to establish whether violent games did lead to violent criminal behaviour."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "A group of 230 academics wrote that youth violence in the US and around the world was currently 'at a 40-year low' and this decline conflicts with claims that violent video games are important public health concerns.",
+        "spans": [
+          "the group of 230 academics from universities around the world wrote in its open letter to the APA youth violence in the US and around the world was currently \"at a 40-year low\".",
+          "\"This decline in societal violence is in conflict with claims that violent video games and interactive media are important public health concerns,\" they wrote."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "A study suggested frustration at being unable to play a game was more likely to bring out aggressive behaviour than the content of the game itself.",
+        "spans": [
+          "A study released by the Oxford Internet Institute last year suggested frustration at being unable to play a game was more likely to bring out aggressive behaviour than the content of the game itself."
+        ]
+      }
+    ],
+    "clueweb22-en0044-42-10317": [
+      {
+        "point_number": 1,
+        "point_content": "There is no hard evidence yet that violent video games lead to mass murders or grisly killings.",
+        "spans": [
+          "Fortunately, there is no hard evidence yet that such games lead to mass murders or grisly killings."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Most correlation studies show at most a small effect of violent video games on real-world aggression.",
+        "spans": [
+          "Indeed, most correlation studies show at most a small effect."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Most research studies suffer from admitted flaws in methodology and show at best some correlation between exposure to violent entertainment and minuscule real-world effects.",
+        "spans": [
+          "Most of the research studies suffer from admitted flaws in methodology, he wrote. “They show at best some correlation between exposure to violent entertainment and minuscule real-world effects, such as children feeling more aggressive or making louder noises in the few minutes after playing a violent game than after playing a nonviolent game.”"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The APA's official position is that the link between violent video game exposure and aggressive behavior is well established, but there is insufficient research on whether violent video games cause lethal violence.",
+        "spans": [
+          "The association’s official position, expressed in a resolution adopted in August 2015, is that the link between violent video game exposure and aggressive behavior is “one of the most studied and best established.” However, that aggressiveness included insults, threats, hitting, pushing, hair pulling, biting, and other forms of verbal and physical aggression. There was insufficient research on whether violent video games cause lethal violence."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The APA’s division for media psychology and technology found scant evidence of any causal connection between playing violent video games and actually committing violent activities.",
+        "spans": [
+          "In a policy statement on June 22, 2017, it found “scant evidence” of any causal connection between playing violent video games and actually committing violent activities” and “little evidence” that playing such games “produces violent criminal behavior.”"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "A recent analysis found that violent video games do increase aggressive behavior but these effects are almost always quite small.",
+        "spans": [
+          "The paper found that “all of the meta/analyses do in fact point to the conclusion that, in the vast majority of settings, violent video games do increase aggressive behavior but that these effects are almost always quite small.”"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Very few studies have looked at whether playing violent video games increases the chance of later delinquency, criminal behavior, or lethal violence, and there is no clear evidence to support that assumption.",
+        "spans": [
+          "Very few studies have looked at whether playing violent video games increases the chance of later delinquency, criminal behavior, or lethal violence. Such studies are difficult to conduct and require very large numbers of children. It makes sense that since playing violent video games tends to increase the level of aggressive behavior it would also result in more lethal violence or other criminal behaviors, but there is no clear evidence to support that assumption."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Video game exposure is only one of many risk factors for aggressive behavior and violence; other factors include racism, ethnic hatred, psychiatric disorders, adverse social environments, and easy access to guns.",
+        "spans": [
+          "That paper and many others stress that video game exposure is only one of many risk factors for aggressive behavior and violence. Various scholars point to such factors as racism and ethnic hatred, certain psychiatric disorders, adverse social environments, and easy access to guns and other lethal weapons, which may be the most critical factor of all."
+        ]
+      }
+    ],
+    "clueweb22-en0035-50-08652": [
+      {
+        "point_number": 1,
+        "point_content": "Violent video games involve a tremendous amount of violence and fight scenes and attract a younger audience, i.e., kids.",
+        "spans": [
+          "Action: Such types of games have a tremendous amount of violence and fight scenes.",
+          "Most of the time this audience belongs to a younger age group, i.e., kids."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "An experiment showed boys playing violent video games acted more aggressively and destructively in real life.",
+        "spans": [
+          "After almost a week, I began to notice minor changes in their behavior. The boys playing violent games tend to act more aggressively",
+          "At the end of the month, the boys playing violent video games where behaving destructively in real life too."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Constant exposure to violent video games might affect the psychological growth and wellbeing of the child.",
+        "spans": [
+          "From this experiment, I concluded that constant exposure to violent video games might affect the psychological growth and wellbeing of the child."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Violent video games have a more significant impact compared to violent television shows or movies.",
+        "spans": [
+          "Research says that violent video games have a more significant impact in comparison to violent television shows or movies."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "In violence-based video games, players adapt to violence to win and begin to enjoy violent acts, attaining pleasure and fun through such actions.",
+        "spans": [
+          "In violence-based video games, the player has to adapt to violence to win the competition or the game.",
+          "The player slowly begins to enjoy such violent acts like shooting or hitting someone. He attains pleasure and fun through such actions."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Violent video games make children believe violence is fun and can be adapted to get what they want, leading to aggressive and hostile behavior.",
+        "spans": [
+          "Violent video games make the children believe that violence is an excellent and fun thing that can be easily adapted to get what you want.",
+          "Children who tend to play such video games on a continuous basis tend to show aggressive and hostile behavior in times of frustration."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Experts and political leaders have speculated a connection between video games and gun violence, especially in schools.",
+        "spans": [
+          "Many experts and political leaders have speculated the connection between video games and gun violence, especially in schools."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "The New York Times reports that shooters in several massacres were video gamers acting out dark digital fantasies, suggesting exposure to computerized violence fueled their urges.",
+        "spans": [
+          "The newspaper New York Times reports , “The young men who opened fire at Columbine High School, at the movie theater in Aurora, Colo., and in other massacres had this in common: they were video gamers who seemed to be acting out some dark digital fantasy. It was as if all that exposure to computerized violence gave them the idea to go on a rampage — or at least fueled their urges.”"
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "American Psychological Association and American Academy of Pediatrics state violent video games should be banned or age-restricted as they increase aggression and decrease empathy among children.",
+        "spans": [
+          "American Psychological Association and the American Academy of Pediatrics state that violent video games should be banned especially for young minds or should have strict age restrictions.",
+          "They believe that violent games increase aggression and decrease empathy among children."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "World Health Organization is considering adding addiction to violent video games as a mental health condition in the International Classification of Diseases.",
+        "spans": [
+          "The World Health Organization has also been considering adding the addiction to violent video games under the list of mental health conditions or mental disorders in the International Classification of Diseases (ICD)."
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0041-82-03838": [
+      {
+        "point_number": 1,
+        "point_content": "The research so far is inconclusive about the link between violent video games and real life violence.",
+        "spans": [
+          "Young people, especially boys, are playing bloodier and more realistic video games than ever before, and scientists are looking for links between real life violence and violent video games.  However, the research so far is inconclusive."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Playing violent video games can stir hostile urges and mildly aggressive behavior in the short term.",
+        "spans": [
+          "Playing the games can and does stir hostile urges and mildly aggressive behavior in the short term."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Youngsters who develop a gaming habit can become slightly more aggressive over a period of a year or two.",
+        "spans": [
+          "Moreover, youngsters who develop a gaming habit can become slightly more aggressive — as measured by clashes with peers, for instance — at least over a period of a year or two."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "It is not clear whether violent video games increase the likelihood of committing violent crimes over longer periods.",
+        "spans": [
+          "Yet it is not at all clear whether, over longer periods, such a habit increases the likelihood that a person will commit a violent crime, like murder, rape, or assault, much less a Newtown-like massacre."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Violent video games alone don’t create mass murderers; other factors like mental health are important.",
+        "spans": [
+          "Violent games alone don’t create mass murderers, or there would be millions of killers on the street right now."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "A mentally stable person can separate reality from games; video games might trigger ideas in those with mental disorders but are not the norm.",
+        "spans": [
+          "I think that a mentally stable person can separate reality from games and such. If someone has a mental disorder and is likely to perform violent acts, video games, movies, television, or books could give them ideas or triggers, but that is not the norm."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Video games do make people less sensitive to real blood and gore but don’t influence people to do violent acts.",
+        "spans": [
+          "But video games do make people less sensitive to real blood and gore. They desensitize people but don’t influence people to do stupid stuff."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Countries with high video game consumption but low violence rates suggest no direct link between video games and real world violence.",
+        "spans": [
+          "Video games do not cause real world violence. If this were true, then countries like Japan — which consume just as many video games, if not more than the U.S., and have more violent media — would be riddled with gun violence."
+        ]
+      }
+    ],
+    "clueweb22-en0008-04-17886": [
+      {
+        "point_number": 1,
+        "point_content": "Much of the research on violent video game use relies on measures to assess aggression that don't correlate with real-world violence and some studies don't prove cause and effect.",
+        "spans": [
+          "Much of the research on violent video game use relies on measures to assess aggression that don't correlate with real-world violence. Some studies are observational and don't prove cause and effect."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Federal crime statistics suggest that serious violent crimes among youths have decreased since 1996, even as video game sales have soared.",
+        "spans": [
+          "Federal crime statistics suggest that serious violent crimes among youths have decreased since 1996, even as video game sales have soared."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The American Academy of Pediatrics (AAP) and American Academy of Child & Adolescent Psychiatry (AACAP) view that exposure to violent media can contribute to real-life violent behavior and harm children.",
+        "spans": [
+          "The view endorsed by organizations such as the American Academy of Pediatrics (AAP) and the American Academy of Child & Adolescent Psychiatry (AACAP) is that exposure to violent media (including video games) can contribute to real-life violent behavior and harm children in other ways."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "AAP believes video games are particularly harmful because they are interactive and encourage role-playing, potentially serving as virtual rehearsals for actual violence.",
+        "spans": [
+          "The AAP policy describes violent video games as one of many influences on behavior, noting that many children's television shows and movies also contain violent scenes. But the authors believe that video games are particularly harmful because they are interactive and encourage role-playing. As such, the authors fear that these games may serve as virtual rehearsals for actual violence."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "AAP and AACAP express concern that exposure to aggressive behavior or violence in video games may desensitize youths, cause nightmares, impair school performance, and lead to aggressive behavior and bullying.",
+        "spans": [
+          "Both the AAP and AACAP reason that children learn by observing, mimicking, and adopting behaviors — a basic principle of social learning theory. These organizations express concern that exposure to aggressive behavior or violence in video games and other media may, over time, desensitize youths by numbing them emotionally, cause nightmares and sleep problems, impair school performance, and lead to aggressive behavior and bullying."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Some meta-analyses have found an association between violent video games and increased aggressive thinking and behavior in youths.",
+        "spans": [
+          "Some meta-analyses of the literature — reviewing psychological research studies and large observational studies — have found an association between violent video games and increased aggressive thinking and behavior in youths."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Other researchers argue that many studies rely on aggression measures that don't correlate with real-world violence and are observational, not proving cause and effect.",
+        "spans": [
+          "In one paper, Dr. Christopher Ferguson, a psychology professor at Texas A&M International University, argued that many studies on the issue of media violence rely on measures to assess aggression that don't correlate with real-world violence — and even more important, many are observational approaches that don't prove cause and effect."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Data shows serious violent crimes among youths have decreased since 1996, even as video game sales have increased.",
+        "spans": [
+          "He also cited data from federal criminal justice agencies showing that serious violent crimes among youths have decreased since 1996, even as video game sales have soared."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Most young perpetrators of school shootings had pre-existing personality traits predisposing them to violence, complicating the link to violent video games.",
+        "spans": [
+          "Other researchers have challenged the association between violent video game use and school shootings, noting that most of the young perpetrators had personality traits, such as anger, psychosis, and aggression, that were apparent before the shootings and predisposed them to violence."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "A report found more than half of school attackers showed interest in violent media but cautioned no behavior could profile a likely shooter.",
+        "spans": [
+          "A comprehensive report of targeted school violence commissioned by the U.S. Secret Service and Department of Education concluded that more than half of attackers demonstrated interest in violent media, including books, movies, or video games. However, the report cautioned that no particular behavior, including interest in violence, could be used to produce a \"profile\" of a likely shooter."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Research suggests a subset of youths may become more aggressive after playing violent video games, but for most it is part of normal development and fun.",
+        "spans": [
+          "Although it is still in the preliminary stages, this research and several other studies suggest that a subset of youths may become more aggressive after playing violent video games. However, in the vast majority of cases, use of violent video games may be part of normal development, especially in boys — and a legitimate source of fun too."
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "Certain personality traits (high neuroticism, disagreeableness, low conscientiousness) may make some children more likely to act aggressively after playing violent video games.",
+        "spans": [
+          "After reviewing the research, they concluded that the combination of three personality traits might be most likely to make an individual act and think aggressively after playing a violent video game. The three traits they identified were high neuroticism (prone to anger and depression, highly emotional, and easily upset), disagreeableness (cold, indifferent to other people), and low levels of conscientiousness (prone to acting without thinking, failing to deliver on promises, breaking rules)."
+        ]
+      },
+      {
+        "point_number": 13,
+        "point_content": "Situations like having game consoles in bedrooms and playing with older siblings increase exposure to violent video games.",
+        "spans": [
+          "The researchers found that certain situations increased exposure to violent video games — such as locating game consoles and computers in children's bedrooms, and allowing older siblings to share games with younger ones."
+        ]
+      },
+      {
+        "point_number": 14,
+        "point_content": "Children who played video games often with older siblings were twice as likely to play mature-rated games.",
+        "spans": [
+          "In this study, children who played video games often with older siblings were twice as likely as other children to play mature-rated games (considered suitable for ages 17 and older)."
+        ]
+      },
+      {
+        "point_number": 15,
+        "point_content": "Many youths describe video games as fun and social, with violent content not being the main draw; boys play to compete and win, similar to rough-housing play.",
+        "spans": [
+          "Although adults tend to view video games as isolating and antisocial, other studies found that most young respondents described the games as fun, exciting, something to counter boredom, and something to do with friends. For many youths, violent content is not the main draw. Boys in particular are motivated to play video games in order to compete and win. Seen in this context, use of violent video games may be similar to the type of rough-housing play that boys engage in as part of normal development."
+        ]
+      },
+      {
+        "point_number": 16,
+        "point_content": "Parents can protect children by checking ESRB ratings, playing games with children, placing consoles in common areas, limiting playtime, and encouraging other activities.",
+        "spans": [
+          "Parents can protect their children from potential harm from video games by following a few commonsense strategies — particularly if they are concerned that their children might be vulnerable to the effects of violent content. These simple precautions may help: Check the ESRB rating to better understand what type of content a video game has. Play video games with children to better understand the content, and how children react. Place video consoles and computers in common areas of the home, rather than in children's bedrooms. Set limits on the amount of time youths can play these games. The AAP recommends two hours or less of total screen time per day, including television, computers, and video games. Encourage participation in sports or school activities in which youths can interact with peers in person rather than online."
+        ]
+      }
+    ],
+    "clueweb22-en0045-11-09140": [
+      {
+        "point_number": 1,
+        "point_content": "There are incidents linking violent video games to violent acts.",
+        "spans": [
+          "A 13-year old boy jumped from the building’s 24 th floor and committed suicide after playing Warcraft III for 36 hours straight.",
+          "A teenager went on a rampage and killed three men, two of them police officers, after months of playing Grand Theft Auto.",
+          "A 17-year-old male killed his mother and wounded his after they took Halo 3 away from him.",
+          "A 15-year old ran away from home after his parents took his Xbox console away. His dead body was found almost a month after.",
+          "Two kids murdered 13 and wounded 23 before turning the gun on themselves acting out their own version Doom."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Researchers are conflicted about the link between violent video games and real-life violence.",
+        "spans": [
+          "The truth is, researchers are in conflict…",
+          "Others say that there is plenty of evidence that shows a link between these acts of violence and the long-term anti-social behavior.",
+          "In a study conducted by the US government, the conclusion states that violence in video games is not linked with aggressive tendencies and that other factors are at play."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Exposure to violence in video games may increase aggressive behavior and desensitize children to violence.",
+        "spans": [
+          "They claim the exposure to violence in childhood, the same as when they are exposed to media and television violence, increases their likelihood to behave aggressively and do crimes in adulthood.",
+          "Repeated acts of violence desensitize the natural aversion to violence that that child would otherwise have.",
+          "If the game rewards violent acts, but not non-violent ones, the child begins to think violence is not only acceptable but desirable.",
+          "The longer a child is exposed to violence, the more ingrained these attitudes become."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Some researchers argue that violent video games stimulate aggressive behavior and long exposure leads to desensitization to violence.",
+        "spans": [
+          "Social Learning theory states that aggressive video games stimulate aggressive behavior and that long exposure can lead them to be desensitized to violent imagery and human suffering.",
+          "Dr. Craig Anderson, a psychologist from the Iowa State University of Science and Technology, claims that violent video games provides a chance for learning and practicing aggressive solutions to conflict situations .",
+          "They found out that aggressive personalities are the cause for “aggressive and delinquent behavior.”",
+          "Steven Kirsh, another researcher also had another study with a group of third and fourth graders and found that these type of games make children react with more hostility compared to children who do not play."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "There is a lack of quality studies and the video game industry is often blamed unfairly.",
+        "spans": [
+          "many experts argue there is generally a lack of quality studies which can be relied upon and that the video game industry has become an easy target for the media to blame for many modern day problems."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Some studies show benefits of playing video games, including stress and anger management.",
+        "spans": [
+          "there are many benefits one can get out of playing games including its capability to help players deal with stress and anger."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "A study showed gamers are just as disturbed by violent images as non-gamers, suggesting they can distinguish fantasy from reality.",
+        "spans": [
+          "In order to know the effects of violent images, a study conducted at Ryerson University and published in The Journal of Applied Cognitive Psychology, tested gamers and non-gamers of both genders for their ability to recall shocking images from a selection of benign pictures.",
+          "Theoretically, those “desensitized” to violence should be less likely to remember the unpleasant images, but the results showed they were just as disturbed as the non-gamers.",
+          "This suggested that those people of sound mind, able to distinguish fantasy from reality, did not equate video game violence to actual violence."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "There is no substantial evidence that increased video game sales correlate with increased violent crime.",
+        "spans": [
+          "After all who’s to say that without this technology there would have been a much steeper drop in violence?",
+          "There is no substantial evidence supporting the theory that the more the number of game sales increase, the violent crimes incidences also increase."
+        ]
+      }
+    ],
+    "clueweb22-en0009-70-09119": [
+      {
+        "point_number": 1,
+        "point_content": "The evidence on whether violent video games make people more violent is mixed and inconclusive.",
+        "spans": [
+          "on the whole, the evidence is decidedly mixed",
+          "On the whole, the evidence is decidedly mixed. Here's a look at what we know — and what we don't know — about the link between video games and violence."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Lab studies show violent games can increase aggression and reduce self-control, but these are proxies for real-world violence.",
+        "spans": [
+          "Lab experiments have shown violent games can increase aggression",
+          "Some studies have also indicated that playing violent games might reduce gamers' self-control.",
+          "One recent meta-analysis of 98 different studies found that most — but not all — showed a positive relationship between exposure to violent games and increased aggressiveness.",
+          "One recent Italian study, for example, found that people who played Grand Theft Auto V were more likely to cheat in a raffle and commit aggressive acts toward other gamers (specifically, blasting them with loud noises through headphones) afterward, compared to those who played a pinball or mini-golf game.",
+          "One is that they use aggression and self-control as proxies for real-world violence, because researchers can't actually allow violence to occur in a lab."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Some studies find a correlation between playing violent games and real-world violence, but correlation does not imply causation.",
+        "spans": [
+          "Studies find that players of violent games are more violent, but correlation is not causation",
+          "Some studies have found that people who spend more time playing violent games are more likely to engage in violent acts.",
+          "One 2012 study of residents of a juvenile delinquency facility in Pennsylvania, for instance, found that those who played violent games multiple times per week were more likely to have attacked someone or gotten into a fight.",
+          "Several other studies have come to similar conclusions."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Other studies find no link between violent games and real-world violence, and suggest violent people may be drawn to violent games.",
+        "spans": [
+          "still other studies have failed to turn up any positive link between violent gaming and real-world violence",
+          "A three-year study of youth in Texas found no association between those who played violent games and those who engaged in violent acts or expressed extreme aggression in interviews.",
+          "Instead, the strongest predictors of violence and aggression were exposure to family violence and antisocial personality traits.",
+          "it's possible that violent people are just more attracted to violent games in the first place",
+          "Several longitudinal studies — correlational studies that track people over time — have found exactly that, especially among kids or teens,"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Despite the rise in violent video games, youth violence and gun homicides have declined in the US.",
+        "spans": [
+          "There's been no surge in violence to accompany the rise of violent games",
+          "During the era in which video games soared in both popularity and violence, youth violence in the US decreased to only about 12 percent of what it was two decades ago",
+          "gun homicides have consistently declined",
+          "mass shootings are no more common than they were decades ago",
+          "On the whole, American teens are the best-behaved generation on record."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "There is no strong correlation between countries with high violent game play and countries with high rates of shootings.",
+        "spans": [
+          "There also isn't a strong correlation between the countries where people play violent games the most and the countries where shootings most often occur."
+        ]
+      }
+    ],
+    "clueweb22-en0023-61-12318": [
+      {
+        "point_number": 1,
+        "point_content": "There’s little scientific evidence to suggest that playing violent video games leads to mass homicide or violence in real life.",
+        "spans": [
+          "There’s little scientific evidence to suggest that playing violent video games leads to mass homicide or violence in real life."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The American Psychological Association concluded that violent video games is associated with increases in aggressive behavior and thoughts and decreases in prosocial behavior, empathy, and sensitivity to aggression.",
+        "spans": [
+          "In 2015, the American Psychological Association did a huge review of the literature on violent video games and behavior, and concluded that violent video games is associated with increases in aggressive behavior and thoughts and decreases in prosocial behavior, empathy, and sensitivity to aggression."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "There is a difference between violence and aggression; violence refers to physical harm, while aggression includes angry or hostile thoughts, feelings or behaviors that are not necessarily violent.",
+        "spans": [
+          "And it’s important to understand that there’s a difference between violence and aggression.",
+          "In general, violence usually refers to physical harm or physical acts that hurt someone-- like hitting, kicking, punching, and pushing. Aggression is a more broad term that refers to angry or hostile thoughts, feelings or behaviors. So everything that is violent is aggressive, but not everything that is aggressive is violent."
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "question": "how does global warming happens",
+  "key_points": [
+    {
+      "point_number": 1,
+      "point_content": "Global warming is the unusually rapid increase in Earth's average surface temperature primarily due to the enhanced greenhouse effect caused by increased greenhouse gases from human activities such as burning fossil fuels and deforestation.",
+      "original_point_number": [
+        1,
+        6,
+        7,
+        12,
+        13,
+        16,
+        20,
+        21,
+        24,
+        25,
+        31,
+        32,
+        35,
+        37
+      ]
+    },
+    {
+      "point_number": 2,
+      "point_content": "Greenhouse gases in the atmosphere, including carbon dioxide, methane, water vapor, nitrous oxide, and chlorofluorocarbons (CFCs), absorb heat radiation, trapping heat and warming the Earth by radiating some energy back towards the surface.",
+      "original_point_number": [
+        3,
+        4,
+        8,
+        14,
+        15,
+        26,
+        27,
+        29,
+        33,
+        34,
+        36
+      ]
+    },
+    {
+      "point_number": 3,
+      "point_content": "Human activities, primarily burning fossil fuels and land-use changes such as deforestation, have increased the concentration of greenhouse gases in the atmosphere since the Industrial Revolution, leading to more heat retention and an increase in surface temperatures.",
+      "original_point_number": [
+        2,
+        5,
+        9,
+        11,
+        16,
+        23,
+        31,
+        37
+      ]
+    },
+    {
+      "point_number": 4,
+      "point_content": "The natural greenhouse effect is beneficial for life on Earth, but the enhanced greenhouse effect caused by increased greenhouse gases leads to global warming.",
+      "original_point_number": [
+        24,
+        36
+      ]
+    },
+    {
+      "point_number": 5,
+      "point_content": "The energy from the Sun is absorbed by the Earth's surface and then radiated back into space as heat, but some of this energy is absorbed by greenhouse gases in the atmosphere, which then radiate some energy back towards the Earth's surface, warming it above the freezing point.",
+      "original_point_number": [
+        3,
+        4,
+        28,
+        29
+      ]
+    },
+    {
+      "point_number": 6,
+      "point_content": "Global temperatures will continue to rise for decades to come, largely due to greenhouse gases produced by human activities, and the magnitude of climate change depends primarily on the amount of heat-trapping gases emitted globally.",
+      "original_point_number": [
+        17,
+        18
+      ]
+    },
+    {
+      "point_number": 7,
+      "point_content": "Global sea level rise is due to added water from melting land ice and the expansion of seawater as it warms.",
+      "original_point_number": [
+        19
+      ]
+    },
+    {
+      "point_number": 8,
+      "point_content": "Atmospheric aerosols alter climate by scattering and absorbing solar and infrared radiation and may also change the microphysical and chemical properties of clouds.",
+      "original_point_number": [
+        10
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "question": "are there any fair lending concerns with mlo compensation",
+  "key_points": {
+    "null": [],
+    "clueweb22-en0005-33-16074": [
+      {
+        "point_number": 1,
+        "point_content": "Incentivizing noncompliant behavior can expose the financial institution to fair lending risk.",
+        "spans": [
+          "Incentivizing noncompliant behavior.",
+          "Do your financial incentives align with the behaviors you want your employees to portray? Do employees benefit from making decisions that could ultimately expose the FI to fair lending risk? Make sure your compensation and HR policies are designed to promote compliant behavior."
+        ]
+      }
+    ],
+    "clueweb22-en0022-07-07853": [
+      {
+        "point_number": 1,
+        "point_content": "The final rule implements requirements and restrictions imposed by the Dodd-Frank Act concerning loan originator compensation.",
+        "spans": [
+          "The final rule implements requirements and restrictions imposed by the Dodd-Frank Act concerning loan originator compensation"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The final rule revises or provides additional commentary on Regulation Z’s restrictions on loan originator compensation, including prohibitions on dual compensation and compensation based on a term of a transaction or a proxy for a term of a transaction.",
+        "spans": [
+          "The final rule revises or provides additional commentary on Regulation Z’s restrictions on loan originator compensation, including application of these restrictions to prohibitions on dual compensation and compensation based on a term of a transaction or a proxy for a term of a transaction"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The final rule establishes tests for when loan originators can be compensated through certain profits-based compensation arrangements.",
+        "spans": [
+          "The final rule also establishes tests for when loan originators can be compensated through certain profits-based compensation arrangements"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The final rule is designed primarily to protect consumers by reducing incentives for loan originators to steer consumers into loans with particular terms.",
+        "spans": [
+          "This final rule is designed primarily to protect consumers by reducing incentives for loan originators to steer consumers into loans with particular terms"
+        ]
+      }
+    ]
+  }
+}

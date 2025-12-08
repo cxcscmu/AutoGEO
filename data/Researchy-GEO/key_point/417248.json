@@ -1,0 +1,658 @@
+{
+  "question": "what was slavery like in america",
+  "key_points": {
+    "clueweb22-en0026-15-11984": [
+      {
+        "point_number": 1,
+        "point_content": "Enslaved Africans were kidnapped and forced into slavery in American colonies to work as laborers on crops such as tobacco and cotton.",
+        "spans": [
+          "Throughout the 17th and 18th centuries people were kidnapped from the continent of Africa, forced into slavery in the American colonies and exploited to work as indentured servants and labor in the production of crops such as tobacco and cotton."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Slavery in America began significantly in 1619 when 20 enslaved Africans were brought to Jamestown, Virginia.",
+        "spans": [
+          "many consider a significant starting point to slavery in America to be 1619, when the privateer The White Lion brought 20 enslaved African ashore in the British colony of Jamestown, Virginia."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Enslaved Africans were used as a cheaper, more plentiful labor source than indentured servants in the 17th century.",
+        "spans": [
+          "Throughout the 17th century, European settlers in North America turned to enslaved Africans as a cheaper, more plentiful labor source than indentured servants, who were mostly poor Europeans."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Enslaved Africans worked mainly on tobacco, rice and indigo plantations in the southern coast during the 17th and 18th centuries.",
+        "spans": [
+          "In the 17th and 18th centuries, enslaved Africans worked mainly on the tobacco, rice and indigo plantations of the southern coast, from the Chesapeake Bay colonies of Maryland and Virginia south to Georgia."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Slavery was vital to the South's economy, especially after the invention of the cotton gin which increased cotton production and reinforced dependence on enslaved labor.",
+        "spans": [
+          "His device was widely copied, and within a few years the South would transition from the large-scale production of tobacco to that of cotton, a switch that reinforced the region’s dependence on enslaved labor."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Enslaved people in the antebellum South lived mostly on plantations or small farms, were made dependent on their masters, prohibited from learning to read and write, and were subject to brutal punishments.",
+        "spans": [
+          "Enslaved people in the antebellum South constituted about one-third of the southern population.",
+          "Land owners sought to make their enslaved completely dependent on them through a system of restrictive codes. They were usually prohibited from learning to read and write, and their behavior and movement was restricted.",
+          "Many masters raped enslaved women, and rewarded obedient behavior with favors, while rebellious enslaved people were brutally punished."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Marriages between enslaved people had no legal basis and families were often divided by sale or removal.",
+        "spans": [
+          "Marriages between enslaved men and women had no legal basis, but many did marry and raise large families; most owners of enslaved workers encouraged this practice, but nonetheless did not usually hesitate to divide families by sale or removal."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Slave rebellions occurred but were mostly unsuccessful and led to harsher slave codes.",
+        "spans": [
+          "Rebellions among enslaved people did occur—notably ones led by Gabriel Prosser in Richmond in 1800 and by Denmark Vesey in Charleston in 1822—but few were successful.",
+          "The revolt that most terrified enslavers was that led by Nat Turner in Southampton County, Virginia, in August 1831.",
+          "fears of similar insurrections led many southern states to further strengthen their slave codes in order to limit the education, movement and assembly of enslaved people."
+        ]
+      }
+    ],
+    "clueweb22-en0040-72-03435": [
+      {
+        "point_number": 1,
+        "point_content": "Slavery in America began in the early 17th Century and continued to be practiced for the next 250 years by the colonies and states.",
+        "spans": [
+          "Slavery in America began in the early 17th Century and continued to be practiced for the next 250 years by the colonies and states."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Slaves, mostly from Africa, worked in the production of tobacco crops and later, cotton.",
+        "spans": [
+          "Slaves, mostly from Africa, worked in the production of tobacco crops and later, cotton."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "With the invention of the cotton gin in 1793 along with the growing demand for the product in Europe, the use of slaves in the South became a foundation of their economy.",
+        "spans": [
+          "With the invention of the cotton gin in 1793 along with the growing demand for the product in Europe, the use of slaves in the South became a foundation of their economy."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The abolitionist movement began in the north and the country began to divide over the issue between North and South.",
+        "spans": [
+          "In the late 18th century, the abolitionist movement began in the north and the country began to divide over the issue between North and South."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The Missouri Compromise banned slavery in all new western territories, which Southern states saw as a threat to the institution of slavery itself.",
+        "spans": [
+          "In 1820, the Missouri Compromise banned slavery in all new western territories, which Southern states saw as a threat to the institution of slavery itself."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "The Dred Scott Decision said that Negroes were not citizens and had no rights of citizenship; therefore, slaves that escaped to free states were not free but remained the property of their owners and must be returned to them.",
+        "spans": [
+          "In 1857, the Supreme Court decision known as the Dred Scott Decision said that Negroes (the term then used to describe the African race) were not citizens and had no rights of citizenship; therefore, slaves that escaped to free states where not free but remained the property of their owners and must be returned to them."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "The election of Abraham Lincoln, a member of the anti-slavery Republican Party, convinced many Southerners that slavery would never be permitted to expand and might ultimately be abolished, leading to secession and the Civil War.",
+        "spans": [
+          "The election of Abraham Lincoln, a member of the anti-slavery Republican Party, to the presidency in 1860 convinced many Southerners that slavery would never be permitted to expand into new territories acquired by the US and might ultimately be abolished. Eleven Southern states attempted to secede from the Union, precipitating the Civil War."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "During the Civil War, Abraham Lincoln issued the Emancipation Proclamation, freeing slaves in rebellious areas, but official freedom came only after the war and the Thirteenth Amendment.",
+        "spans": [
+          "During the war, Abraham Lincoln issued his famous Emancipation Proclamation, freeing slaves in all areas of the country that were at that time in rebellion.",
+          "but not until after the Union had won the war and the subsequent passage of the Thirteenth Amendment to the Constitution were the American slaves officially freed."
+        ]
+      }
+    ],
+    "clueweb22-en0004-54-07170": [
+      {
+        "point_number": 1,
+        "point_content": "Slaves were considered property because they were black, and killing or raping them was not treated as murder but as trespassing.",
+        "spans": [
+          "slaves were considered property, and they were property because they were black.",
+          "Killing slaves was rarely considered murder, and raping them \"was treated as a form of trespassing.\""
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Slave women were often used as sex slaves and had no option to refuse their owners.",
+        "spans": [
+          "The women had no option to say no to their owners, who often used them as sex slaves."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Slaves lived in abysmal conditions, vulnerable to elements and disease, with inadequate nutrition and care.",
+        "spans": [
+          "Slaves lived in abysmal conditions, and often died in them.",
+          "Their quarters left them vulnerable to the elements, and disease.",
+          "With inadequate nutrition and practically nonexistent care, slaves were left to fight off the illness with little more than power of will."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Slaves working in rice fields spent hours standing in water in the heat and often contracted malaria.",
+        "spans": [
+          "Those who worked in rice fields spent hours standing in water in the blazing heat, and often contracted malaria from mosquitoes."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Slaves had no sick days and were not considered workers, so they had to keep working despite illness.",
+        "spans": [
+          "But there was no time to rest. Sick days didn't exist, because slaves weren't workers."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Child mortality among slaves was 90%, and surviving children were often separated from their parents and sold.",
+        "spans": [
+          "The child mortality rate among slaves was 90 percent.",
+          "Children who survived were often ripped away from their parents and auctioned off."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Families of slaves were systematically torn apart, often without warning.",
+        "spans": [
+          "Families were systematically torn apart, often without warning."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Punishments for slaves included whippings, torture, maiming, and incarceration for trying to escape or not being subservient.",
+        "spans": [
+          "Whippings, torture, maiming, and incarcerations were common punishments for slaves who tried to escape, weren't deemed productive enough, or weren't subservient."
+        ]
+      }
+    ],
+    "clueweb22-en0030-05-02795": [
+      {
+        "point_number": 1,
+        "point_content": "Slavery in America began with the first African slaves brought by Dutch merchants in 1619 and lasted over two hundred years, becoming economically reliable.",
+        "spans": [
+          "America was introduced to the first African slaves by Dutch merchants in 1619, which spiraled into more than two hundred years of economic reliability on slaves."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Slavery in America included the forced servitude of Native Americans, especially in the Southwest and California, often under Spanish rule.",
+        "spans": [
+          "the forced servitude of Native Americans throughout the American Southwest and California also being present",
+          "the first use of slavery in the Americas came with the Spanish conquerors when they settled in Mexico, California, and what is today known as the American Southwest",
+          "many of the soldiers used native free labor to help build battlements, forts, and Catholic missions",
+          "missions throughout Mexico and the Southwestern United States would capture the Native Californians, baptize them as Catholics, and then force them to work in different missions around Spain’s extended empire."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Southern colonies had large plantations requiring massive labor, initially using more Native American slaves than African slaves due to cost and availability.",
+        "spans": [
+          "The Southern colonies of the United States were equally responsible, with their large plantations require massive amounts of labor",
+          "In many cases, the colonies in the Southeast had more Native American slaves than African slaves prior to the years of the American Revolution due to the fact they were cheaper and easy to get than African slaves"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Early African slaves in America were sometimes treated as indentured servants and baptized as Christians, which initially exempted them from slavery.",
+        "spans": [
+          "The ship carrying the first Africans to Jamestown, the first colony in America, in 1619 was made up of 20 Africans, and they were not immediately made slaves",
+          "the first 20, and the next thousand Africans who would follow, were baptized as Christians, the colonists considered them exempt from slavery",
+          "Many Africans, some even of mixed race with Spanish and Portuguese, lived as indentured servants, exactly the same as the Europeans bartering passage in exchange for years of labor, and were later freed and able to own land and slaves of their own"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Slavery laws evolved over time, with Massachusetts legalizing slavery in 1641 and Virginia binding black indentured servants for life by 1654.",
+        "spans": [
+          "Massachusetts became the first colony to legalize slavery, in 1641",
+          "it wasn’t until 1654 that a black indentured servant was legally bound to his “master” for life"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Virginia adopted the principle of partus sequitur ventrem in 1662, making children born to slave mothers slaves for life, regardless of the father's status.",
+        "spans": [
+          "Virginia adopted a law to address the subject of immigrant or natural-born Americans of non-white parentage",
+          "Known as the principle of partus sequitur ventrem, English law stated that any generations born into the colony were forced to take the social position of the mother, thereby claiming that any children born of slave mother was born a slave, whether a Christian or not, and subject to enslavement for life."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Slave codes in Virginia (1705) defined slaves as people imported from non-Christian countries, but Native Americans were still considered slaves due to non-Christian status.",
+        "spans": [
+          "In 1705, Virginia enacted their slave codes, a set of rules that further defined the position of slaves under the law in the colonies",
+          "In Virginia, slaves were people that were imported from non-Christian countries, however, the colonists still considered Native Americans slaves due to the fact that they were not Christian."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "French Louisiana had different slave laws allowing slaves to marry and protecting family unity, with more free people of color than other colonies.",
+        "spans": [
+          "Louisiana, which was not an English colony but a French one, was under the rule of the French Code Noir",
+          "Under French law, slaves were allowed to marry, were considered inseparable after a union was made, and children were not allowed to be separated from their mothers",
+          "there were far more free people of color throughout the Louisiana colony than in any other in the Americas"
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "The cotton gin invention in 1793 increased the demand for slaves as cotton production became more profitable and labor-intensive.",
+        "spans": [
+          "after Eli Whitney, a young school teacher from the North invented the cotton gin, a machine that separated the see from the cotton ball",
+          "the demand for more and more crop and the work of a cotton gin, increased the country’s dependency on slaves, so instead of cutting down on the slave trade, it more than doubled the need for slavery."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Slavery was protected in the U.S. Constitution with provisions like the three-fifths compromise and laws requiring the return of escaped slaves.",
+        "spans": [
+          "the Constitution of the United States  set to heal with the subject of slavery while the country was not uniform in its decision to legalize slavery, it did provide provisions to protect the slave trade and slaveholders",
+          "A state population was determined by the rate of 3/5 per slave",
+          "laws that would allow dates to require the return of escaped slaves to their proper homes."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Slavery in the North was less agricultural and more domestic, with slaves working as maids, butlers, cooks, and household roles.",
+        "spans": [
+          "While slavery in the North did exist, it was less agriculturally oriented and more domestic; many slaves in the Northern colonies were maids, butlers, cooks, and other household roles."
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "Slaves faced brutal punishments including whipping, hangings, mutilation, torture, beating, burning, and branding, with harsh conditions fueled by fear of rebellion.",
+        "spans": [
+          "Whipping, hangings, mutilation, torture, beating, burning, and branding were just a few of the punishments and cruelty shown to slaves by their slave holders",
+          "the harsh conditions were fueled by the fear of rebellion"
+        ]
+      },
+      {
+        "point_number": 13,
+        "point_content": "Several slave rebellions occurred, including Nat Turner's rebellion in 1831, which led to severe restrictions on slaves and free people of color.",
+        "spans": [
+          "The slave rebellions that plantation and slave owners feared were not a false fear",
+          "Nat Turner’s slave rebellion, also known as the Southampton Insurrection",
+          "the North Carolina militia retaliated by killing some 100 slaves",
+          "free people of color lost their vote, and other slave states began to severely restrict the movements of both slaves and free people of color"
+        ]
+      },
+      {
+        "point_number": 14,
+        "point_content": "Abolitionist movements grew in the North, with figures like Frederick Douglass and Harriet Tubman helping slaves escape via the Underground Railroad.",
+        "spans": [
+          "Led by free backs such as Frederick Douglass, a free black man, and white abolitionists like Harriet Beecher Stowe",
+          "their activism grew between the 1830s and 1860s",
+          "Figures such as Harriet Tubman, and the Underground Railroad, became a defining characteristic of Pre-Civil War America"
+        ]
+      },
+      {
+        "point_number": 15,
+        "point_content": "The Emancipation Proclamation in 1863 declared slaves in rebelling states free, leading to the end of slavery in 1865 with the 13th Amendment.",
+        "spans": [
+          "On January 1, 1863, Lincoln read an initial emancipation proclamation that named “slaves within any State, or designated part of a State…in rebellion…shall be then, thenceforward, and forever free.",
+          "the Emancipation Proclamation took the economic advantage out from under the Southern economy and the war ended in 1865",
+          "Though abolished in 1865, the 13th Amendment, which abolished slavery"
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0040-93-04978": [
+      {
+        "point_number": 1,
+        "point_content": "Slavery and forced labor began in colonial America almost as soon as the English arrived and established a permanent settlement at Jamestown in 1607.",
+        "spans": [
+          "Slavery and forced labor began in colonial America almost as soon as the English arrived and established a permanent settlement at Jamestown in 1607."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The first unfree Africans arrived in Virginia in 1619, brought by the ship White Lion and purchased by colonial officials.",
+        "spans": [
+          "While colonists continued to enslave Virginia Indians, the first unfree Africans arrived in Virginia in 1619.",
+          "in late August a 160-ton man-of-war, the White Lion, brought “20 and odd Negroes” to Point Comfort (present-day Hampton, Virginia).",
+          "Governor George Yeardley and merchant Abraham Piersey purchased them in exchange for victuals and supplies."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The legal status of the first Africans in Virginia was unclear, with some possibly serving indentured servitude and others later becoming free.",
+        "spans": [
+          "The legal status of these first Africans in Virginia is unclear—whether the English settlers in Virginia intended to enslave the Africans for life, or whether they served for a period of years before gaining their freedom (a system of indentured servitude) is unknown, though some of these early Africans did later become free."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "By the mid-17th century, laws increasingly limited the rights of Africans and African-Americans and solidified race-based slavery.",
+        "spans": [
+          "especially throughout the 1640s-1660s colonies increasingly established laws limiting the rights of Africans and African-Americans and solidifying the institution of slavery upon the basis of race and heredity."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The case of John Punch in 1641 is considered the first instance of legally codified, life-long, race-based slavery in Virginia.",
+        "spans": [
+          "In Virginia in 1641, officials sentenced “a negro named John Punch” to serve his master “for the time of his natural life,” after Punch attempted to run away with two European indentured servants."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "The 'triangle trade' involved importing enslaved Africans to North American colonies, exporting raw goods to Great Britain, and trading finished goods for more enslaved Africans.",
+        "spans": [
+          "The “ triangle trade ” largely defines the economics of slavery in the colonial era.",
+          "In this cyclical system, slave traders imported enslaved Africans to North American colonies.",
+          "Colonists in turn exported raw goods like lumber, tobacco, and sugar to Great Britain, where those materials were transformed into the finished, luxury goods like rum and textiles that merchants sold or traded along the African coast for enslaved Africans to be sent to North American colonies."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Slave traders violently captured Africans and transported them across the Atlantic in the 'Middle Passage', where many did not survive.",
+        "spans": [
+          "Slave traders violently captured Africans and loaded them onto slave ships, where for months these individuals endured the “Middle Passage”—the crossing of the Atlantic from Africa to the North American colonies or West Indies. Many Africans did not survive the journey."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "In 1662, Virginia law established that children born to an enslaved mother would also be enslaved, codifying hereditary slavery.",
+        "spans": [
+          "Virginia’s 1662 law establishing that children born to an enslaved mother would also be enslaved further codified race-based and hereditary enslavement in that colony."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "By the late 17th century, many colonies passed laws legalizing life-long servitude and restricting rights of enslaved people.",
+        "spans": [
+          "Maryland legalized slavery in 1663; New York and New Jersey followed in 1664.",
+          "In addition, that year Maryland, New York, New Jersey, North Carolina, South Carolina, and Virginia passed laws legalizing life-long servitude.",
+          "Colonies also adopted laws prohibiting non-whites from owning firearms, and established laws that negated a person’s conversion to Christianity from affecting their status as a slave."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Enslaved people were regarded and treated as property with little to no rights, often working from sun up to sundown and living in quarters on plantations.",
+        "spans": [
+          "Enslaved people were regarded and treated as property with little to no rights.",
+          "In many colonies, enslaved people could not testify in a court of law, own guns, gather in large groups, or go out at night.",
+          "Especially on southern farms, enslaved people were expected to work from sun up to sundown, though they may have been given Sundays off to tend to their own small gardens, repair allotted clothing, or tend to other needs that might supplement their meager allotments of clothing and food.",
+          "Slaves of small households often lived in the kitchen or a small outbuilding, while slaves on larger plantations often lived together in a quarter or a group of quarters with an overseer."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Slaves maintained cultural traditions through religion, storytelling, music, and dancing, and many converted to Christianity during the Great Awakening.",
+        "spans": [
+          "Religion, storytelling, music, and dancing were important parts of an enslaved person’s life, and could help share and preserve African cultural traditions across generations.",
+          "Increasingly in the 18 th century, slaves responded to the Great Awakening and began converting to Christianity, worshiping both alone and together with whites in Baptist and Methodist congregations."
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "Slavery experiences varied by region and time, with southern slaves often working in agriculture and northern slaves in skilled trades or domestic work.",
+        "spans": [
+          "In the south, many enslaved individuals found themselves working primarily in agricultural labor, such as in tobacco fields, while others (including women and children) worked as grooms, maids, cooks, or other domestic servants to wealthy plantation owners.",
+          "In the north, as well as in urban city centers in the south, enslaved individuals may have been skilled tradesmen, worked on the eastern seaboard’s many wharves and ports, or worked on the smaller farms of middling landowners."
+        ]
+      },
+      {
+        "point_number": 13,
+        "point_content": "Slave populations varied by region, with less than 5% in New England and up to 60% in South Carolina by the mid-18th century.",
+        "spans": [
+          "In the northern colonies, slave-owning households may have only owned two or three slaves, while the enslaved population accounted for less than 5% of the total population of New England (though in larger cities like Newport, Rhode Island, slaves accounted for closer to 20% of the population of the city).",
+          "In the mid-Atlantic colonies like Virginia, enslaved people made up closer to 50% of the population by the mid-18 th century.",
+          "This number increased to roughly 60% in colonies like South Carolina, where much of the enslaved population lived and worked on vast plantations together with 50, 100, or more slaves."
+        ]
+      },
+      {
+        "point_number": 14,
+        "point_content": "There were slave rebellions and resistance, including the Stono Rebellion in 1739 and suspected conspiracies in New York in 1741.",
+        "spans": [
+          "On September 9, 1739, a group of 20 enslaved men led by an enslaved African named Jemmy marched to a warehouse on the Stono River in South Carolina, where they stole arms and ammunition and killed the men they found there.",
+          "In New York in 1741, a series of suspicious fires fanned the flames of unrest between the colony’s white, Black, free, and unfree populations."
+        ]
+      },
+      {
+        "point_number": 15,
+        "point_content": "Enslaved people also resisted passively by breaking tools, pretending to be sick, stealing, or running away, often facing harsh punishments if caught.",
+        "spans": [
+          "Even without large-scale rebellion, some enslaved men, women, and children found ways to passively resist in their daily lives by breaking tools or pretending to be sick so that they could not work.",
+          "Others stole food, goods, or clothing from their owners.",
+          "Some attempted to run away.",
+          "A slave returning from a runaway attempt was met with harsh punishment."
+        ]
+      },
+      {
+        "point_number": 16,
+        "point_content": "By 1775, enslaved people accounted for 20% of the colonial population, with many seeking freedom during the American Revolution.",
+        "spans": [
+          "By 1775, enslaved people accounted for 20% of the population of the colonies, with over half living in the south.",
+          "On the eve of the Revolution, aided by the patriot rhetoric of life, liberty, and the pursuit of happiness, enslaved and free African Americans worked to further the growing abolition movement and petitioned governments for gradual manumission and cessation of slavery."
+        ]
+      }
+    ],
+    "clueweb22-en0006-40-14793": [
+      {
+        "point_number": 1,
+        "point_content": "Slavery was treated as a business investment where enslaved people were considered objects with monetary value based on their labor and upkeep costs.",
+        "spans": [
+          "European Americans treated enslaved men, women, and children as objects that could be bought and sold.",
+          "The crude logic of enslaving human beings cast people as tools who required input (food and clothing) in order to produce the output of their labor.",
+          "In the calculations of colonial-era businessmen, all of these components, including the body of the enslaved person, could be given a monetary value."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Enslaved people were part of estates and sold as property, with their value balanced against other estate expenses.",
+        "spans": [
+          "Toney became an element of Flynt’s mother’s estate to settle, alongside “all the household stuff” that Flynt could tally, which included “ Brass Silver Iron bedding Linnen .”",
+          "Flynt sold Toney to another enslaver and balanced the price of the man’s sale against the money he paid for his mother’s final expenses: “ the Grave and bel ringing and pall etc .”"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Enslaved people worked in plantations and were involved in trade and labor in the Caribbean, often hired as temporary laborers.",
+        "spans": [
+          "In 1777, a Barbados official wrote to members of the British Council for Plantation Affairs to ask for more “ India and Guinea Corn for the Negroes ,” who toiled in sugarcane plantations there.",
+          "Naval captains throughout the Caribbean also hired local people of color as temporary laborers to assist in the work of getting their ships in and out of ports, as they transported coffee, sugar, rum, and slaves among European colonies."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Enslaved people were treated as property in legal cases but also recognized as humans when accused of crimes, with executions affecting property value.",
+        "spans": [
+          "Occasionally, enslaved people used the American court system to sue for their own freedom, but more often they stood at the center of trials, treated as disputed property or accused of crimes.",
+          "In less than fifteen minutes, a jury convicted George, an enslaved man accused of raping a white woman, and sentenced him to death.",
+          "The court treated George as a human in convicting him of a violent crime and executing him.",
+          "But George’s execution also represented the destruction of property from the perspective of George’s enslaver.",
+          "Thus, the judge ordered the jury to not only determine George’s guilt or innocence but also to “ assess the value of the Negro, two thirds of which by law is to be paid by the County to the owner .”"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Enslaved people were part of daily life and social records, sometimes recorded alongside free people in personal documents.",
+        "spans": [
+          "Under the heading “ January 8th A.M. Family Weighed 1747/8 ,” a teenage John Holyoke recorded in his diary the weights of all members of his household.",
+          "Alongside his mother and siblings, Holyoke weighed his father, then president of Harvard College, and Juba, a slave."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "The labor of enslaved people was physically demanding, as shown by records of frequent shoe repairs due to extensive walking and work.",
+        "spans": [
+          "Shoemaker William Manning issued a bill to Bordman listing the costs associated with mending the shoes of “ her negro Cato ” between May 9, 1770 and July 4, 1771.",
+          "Every two months, if not more often, Manning mended Cato’s shoes.",
+          "During this time frame, he also provided four new pairs of shoes.",
+          "Soles that required constant repair testified to the miles walked and work done by an enslaved man in colonial Massachusetts, even if Cato left no written memoir of his own."
+        ]
+      }
+    ],
+    "clueweb22-en0022-19-01588": [
+      {
+        "point_number": 1,
+        "point_content": "Only a little more than 300,000 captives, or 4-6 percent, came to the United States. The majority of enslaved Africans went to Brazil, followed by the Caribbean.",
+        "spans": [
+          "Only a little more than 300,000 captives, or 4-6 percent, came to the United States.",
+          "The majority of enslaved Africans went to Brazil, followed by the Caribbean."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The institution of chattel slavery in the United States lasted 246 years, from 1619 to 1865.",
+        "spans": [
+          "if we use 1619 as the beginning and the 1865 13th Amendment as its end, then it lasted 246 years, not 400."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Roughly 25 percent of all Southerners owned slaves.",
+        "spans": [
+          "Roughly 25 percent of all Southerners owned slaves."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "African-Americans have been free in this country for less time than they were enslaved; they have been free for 152 years, which means most Americans are only two to three generations away from slavery.",
+        "spans": [
+          "African-Americans have been free in this country for less time than they were enslaved.",
+          "Blacks have been free for 152 years, which means that most Americans are only two to three generations away from slavery."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Enslaved people were treated as commodities, bought and sold like property, with their value assessed based on age, skill, and physical condition.",
+        "spans": [
+          "They were bought and sold just like we sell cars and cattle today.",
+          "Enslaved people were valued at every stage of their lives, from before birth until after death.",
+          "Slaveholders examined women for their fertility and projected the value of their \"future increase.\"",
+          "As the slaves grew up, enslavers assessed their value through a rating system that quantified their work.",
+          "An \"A1 Prime hand\" represented one term used for a \"first-rate\" slave who could do the most work in a given day.",
+          "Their values decreased on a quarter scale from three-fourths hands to one-fourth hands, to a rate of zero, which was typically reserved for elderly or differently abled bondpeople (another term for slaves)."
+        ]
+      }
+    ],
+    "clueweb22-en0017-59-15327": [
+      {
+        "point_number": 1,
+        "point_content": "Slavery in the U.S. was firmly established by the beginning of the 19th century with statutes and penal codes regulating slaves and free blacks.",
+        "spans": [
+          "By the beginning of the 19th century, slavery in the U.S. was firmly established with a series of statutes and penal codes enacted in various states to regulate the activity of slaves and all conduct involving slaves and free blacks."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The Missouri Compromise of 1820 regulated slavery in western territories, prohibiting slavery north of the Arkansas territory border except Missouri.",
+        "spans": [
+          "The Missouri Compromise—also referred to as the Compromise of 1820—was an agreement between the pro- and anti-slavery factions regulating slavery in the western territories. It prohibited slavery in new states north of the border of the Arkansas territory, excluding Missouri."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The Compromise of 1850 admitted California as a free state, abolished the slave trade in D.C. but allowed slavery, and passed the Fugitive Slave Act requiring citizens to aid in recovering fugitive slaves.",
+        "spans": [
+          "In January 1850, Henry Clay presented a bill that would become known as the Compromise of 1850.",
+          "It was agreed that California would be admitted as a free state, but the Fugitive Slave Act was passed to mollify pro-slavery states.",
+          "In addition, the slave trade would be abolished in the District of Columbia, although slavery would still be permitted in the nation’s capitol.",
+          "According to its tenets, citizens were required to aid in the recovery of fugitive slaves."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The Fugitive Slave Act of 1850 was devastating, leading many former slaves to flee to Canada and allowing slave catchers to capture fugitives and even free blacks in the North.",
+        "spans": [
+          "The new law was devastating.",
+          "Many former slaves who had been attempting to build lives in the North left their homes and fled to Canada, which added approximately 20,000 blacks to its population over the following decade.",
+          "Many were captured and returned to slavery, however, including Anthony Burns, a fugitive living in Boston.",
+          "Even free blacks, too, were captured and sent to the South, completely defenseless with no legal rights."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The Kansas-Nebraska Act of 1854 allowed territories to decide on slavery by popular vote, effectively repealing previous compromises and leading to violent conflict known as 'Bleeding Kansas'.",
+        "spans": [
+          "In 1854, the Kansas-Nebraska Act passed, dividing the region along the 40th parallel, with Kansas to the south and Nebraska to the north, and providing both territories the right to vote on whether to be slave or free.",
+          "For all practical purposes the act effectively repealed the Missouri Compromise and the Compromise of 1850, which had attempted to regulate the spread of slavery.",
+          "The enmity between the sides verged on civil war, and the period became known as \"Bleeding Kansas.\""
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "The Dred Scott decision in 1857 denied citizenship to free and enslaved blacks.",
+        "spans": [
+          "The Dred Scott decision was handed down in 1857, which denied citizenship to free and enslaved blacks."
+        ]
+      }
+    ],
+    "clueweb22-en0015-67-16905": [
+      {
+        "point_number": 1,
+        "point_content": "Slaves were introduced to the New World as a labor source for large farms growing labor-intensive cash crops like tobacco, sugar, and rice.",
+        "spans": [
+          "Early in the seventeenth century, a Dutch ship loaded with African slaves introduced a solution—and yet paradoxically a new problem—to the New World. Slaves proved to be economical on large farms where labor-intensive cash crops, such as tobacco, sugar and rice, could be grown."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Slavery became less profitable in the North and was dying out by the end of the American Revolution, but it remained tied to the Southern economy and society, especially after the invention of the cotton gin.",
+        "spans": [
+          "By the end of the American Revolution, slavery became largely unprofitable in the North and was slowly dying out.",
+          "However, in 1793 northerner Eli Whitney invented the cotton gin; this device made it possible for textile mills to use the type of cotton most easily grown in the lower South.",
+          "Although some southerners owned no slaves at all, by 1860 the South’s “peculiar institution” was inextricably tied to the region’s economy and society."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Slavery was defended by white southerners as a benevolent institution that cared for black people, while northern abolitionists strongly opposed it.",
+        "spans": [
+          "They argued that black people, like children, were incapable of caring for themselves and that slavery was a benevolent institution that kept them fed, clothed, and occupied, and exposed them to Christianity.",
+          "Most northerners did not doubt that black people were inferior to whites, but they did doubt the benevolence of slavery."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Treatment of slaves varied from mild to cruel; families were often separated and punishment by whipping was common.",
+        "spans": [
+          "In reality, treatment of slaves ranged from mild and paternalistic to cruel and sadistic.",
+          "Husbands, wives, and children were frequently sold away from one another and punishment by whipping was not unusual."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Slaves resisted slavery through various means including pretending illness, slowdowns, sabotage, arson, murder, and running away.",
+        "spans": [
+          "Instead as a form of resistance slaves would pretend illness, organize slowdowns, sabotage farm machinery, and sometimes commit arson or murder. Running away for short periods of time was common."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "The Civil War changed the future of slavery, with many slaves escaping to the North and the Union using emancipation as a war strategy.",
+        "spans": [
+          "Many slaves escaped to the North in the early years of the war, and several Union generals established contraband policies in the southern land that they conquered.",
+          "On September 22, 1862, following the strategic Union victory at Antietam, President Abraham Lincoln presented the Preliminary Emancipation Proclamation."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "The 13th Amendment, adopted in 1865, outlawed slavery in the United States.",
+        "spans": [
+          "On December 6, 1865, eight months after the end of the Civil War, the United States adopted the 13th Amendment to the Constitution, which outlawed the practice of slavery."
+        ]
+      }
+    ]
+  }
+}

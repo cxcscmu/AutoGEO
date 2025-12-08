@@ -1,0 +1,574 @@
+{
+  "question": "what current events affect international business",
+  "key_points": {
+    "clueweb22-en0034-29-07319": [
+      {
+        "point_number": 1,
+        "point_content": "The U.S. economy has recovered from the 2008 recession and has been growing steadily, albeit slowly, for the past 10 years.",
+        "spans": [
+          "The U.S. economy has recovered from the 2008 recession and has been growing steadily, albeit slowly, for the past 10 years."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Many businesses are turning to international enterprise to drive profits due to the relatively flat U.S. economy.",
+        "spans": [
+          "many businesses are turning to international enterprise to drive profits"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Emerging markets are growing quickly and are in earlier stages of economic growth compared to the U.S.",
+        "spans": [
+          "Emerging Markets are Growing Quickly",
+          "many other countries remain in the earlier stages",
+          "other nations are also putting up strong economic expansion numbers"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Emerging market growth is affected by stabilizing labor markets and fiscal consolidation in many EM governments.",
+        "spans": [
+          "one of the key factors affecting emerging market (EM) growth is the stabilizing labor market",
+          "Many EM governments are now on a path to fiscal consolidation"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Global business management professionals should consider financial stability, language, culture, and corruption levels before investing in emerging markets.",
+        "spans": [
+          "Global business management professionals should weigh factors such as perceived financial stability, spoken language, cultural cohesion, and known or suspected government corruption levels before investing in the market."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Industry leaders are relying more on data analytics powered by machine learning and artificial intelligence to spot global trends faster and adjust in real time.",
+        "spans": [
+          "Industry Leaders are Relying More on Data Analytics",
+          "technology developers have created data analytics programs that use advanced technologies such as machine learning and artificial intelligence",
+          "organizations that properly leverage data analytics are able to spot global trends faster",
+          "Data analytics can provide information in real time, letting organizations adjust on pace with the market itself."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Consumers have instant access to more product information through smartphones and the internet, increasing pressure on companies to maintain a positive online presence.",
+        "spans": [
+          "Consumers Have Instant Access to More Product Information",
+          "77 percent of Americans own a smartphone",
+          "consumers have instant access to information such as price, quality, and competitor information on any given product",
+          "This places more pressure on companies to remain active online and to promote a positive brand image and product presence in every social arena."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Rapid technological innovation is occurring globally, and the U.S. is not the leader in manufacturing or service industry innovation.",
+        "spans": [
+          "Rapid Innovation Continues",
+          "the U.S. is not a leader in either manufacturing or service industry innovation, according to the Organisation for Economic Co-operation and Development."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Businesses must understand market disruptors and how new technology can serve the enterprise amid rapid innovation.",
+        "spans": [
+          "it is more vital that organizations understand where the market disruptors are coming from, why they are producing such an impact, and how the technology may better serve the enterprise."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "The U.S. is shifting toward isolationism with tariffs and potential trade wars, affecting international business stability.",
+        "spans": [
+          "The U.S. is Shifting Toward Isolationism",
+          "The Trump administration, however, has thrown this reality into uncertainty.",
+          "The administration has already implemented several tariffs",
+          "Current talks of a trade war with China has also cast more doubt on international stability than was previously expected."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "The Trump administration's actions on international agreements, such as leaving the Iran nuclear deal, have affected companies like Boeing and Airbus and create uncertainty for future agreements.",
+        "spans": [
+          "the administration left the negotiated Iran nuclear deal",
+          "the bottom lines of companies like Boeing and Airbus were affected"
+        ]
+      }
+    ],
+    "clueweb22-en0033-93-11371": [
+      {
+        "point_number": 1,
+        "point_content": "The United States has engaged in trade wars using tariffs, particularly against China, affecting global trade.",
+        "spans": [
+          "under President Trump, the United States has decided to engage in a series of trade wars, using tariffs as its main weapon",
+          "Trump has put 10-25 % tariffs on hundreds of billions of dollars’ worth of Chinese goods",
+          "China has also put tariffs on hundreds of billions of dollars’ worth of American imports",
+          "this tit-for-tat trade war seems to have no end in sight"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "China has responded to U.S. tariffs with bans and currency devaluation, escalating trade tensions.",
+        "spans": [
+          "Now China has put a ban on buying U.S. agricultural products and has also devalued its currency as a further attempt to win the trade war with the United States"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Intellectual property theft and counterfeiting, mainly between China and the U.S., is a major issue affecting international business.",
+        "spans": [
+          "President Trump has accused the Chinese of participating in rampant intellectual property theft via cyberattacks and forced technology transfers",
+          "The Chinese have also been accused by many different parties of counterfeiting numerous brands and products",
+          "Intellectual property theft is a major global trade issue because it allows companies to unlawfully profit from breakthroughs made by other companies",
+          "President Trump claimed that one of the primary reasons why he levied such strong tariffs on China was to get back some of the money that American companies lost through intellectual property theft by Chinese corporations",
+          "multiple Chinese citizens working for Apple as engineers were recently arrested for attempting to steal trade secrets from Apple regarding the company’s upcoming autonomous vehicles"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Governments, such as Iran, are confiscating shipments in retaliation to sanctions, affecting international trade routes.",
+        "spans": [
+          "the nation of Iran has recently seized three oil tankers in the Persian Gulf",
+          "Iran is doing this as a retaliation for the strict sanctions that the United States government has placed on it"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The U.S. is seeking military support from allies to protect shipping lanes, but many allies are reluctant due to fear of conflict.",
+        "spans": [
+          "he has appealed to the United States’ Western allies to create a military force that can guard vessels passing through the Strait of Hormuz and other dangerous Middle Eastern waterways",
+          "Some of these allies, such as Germany, have said no"
+        ]
+      }
+    ],
+    "clueweb22-en0016-26-12684": [
+      {
+        "point_number": 1,
+        "point_content": "Indonesia's palm oil export ban is a significant move affecting international trade.",
+        "spans": [
+          "Palm oil export ban will hurt other countries, but necessary: Indonesia FM",
+          "Sri Mulyani Indrawati said that with demand exceeding supplies, the ban announced is \"among the harshest moves\" the government ..."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The US Federal Reserve is considering a 50-basis-point interest rate hike, impacting global financial markets.",
+        "spans": [
+          "Dollar stands tall as US Federal Reserve eyes 50-basis-point hike",
+          "Federal Reserve Chairman Jerome Powell said on Thursday a 50-basis-point hike was on the table at its next meeting in May"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The European Central Bank may start hiking euro zone rates as early as July, influencing European and global markets.",
+        "spans": [
+          "Euro drops after ECB's mixed comments; dollar hits fresh 25-month high",
+          "European Central Bank officials said on Thursday that the central bank might start hiking euro zone rates as early as July"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Oil prices are volatile due to supply concerns from Russia and Libya, and potential EU embargo on Russian oil.",
+        "spans": [
+          "Oil prices settle mixed amidst Russia supply, demand concerns",
+          "Ukraine war: France trying to convince EU to impose embargo on Russian oil",
+          "Oil extends losses on weaker growth concerns and Shanghai lockdown",
+          "Oil edges higher on concerns over Russia, Libya supply disruption",
+          "Oil prices rise as investors focus on lower supply from Russia, Libya"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The US dollar is strengthening against other currencies, especially the Japanese yen, due to differing monetary policies.",
+        "spans": [
+          "US dollar rockets to 20-year peak vs yen on Fed, BOJ policy difference",
+          "Yen hits record low at 127.44 against US dollar; lowest in 20 years",
+          "US Dollar steadies after hitting fresh 20-year high on yen"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Global growth outlook is being trimmed due to the Ukraine war and other economic concerns, affecting stock markets and commodity prices.",
+        "spans": [
+          "Wall Street, bond yields head higher as global growth hopes trimmed",
+          "Brent crude dips 3.4% to $109.22 as IMF cuts global growth outlook",
+          "Wall Street closes lower as bond yields jump on growth concerns"
+        ]
+      }
+    ],
+    "clueweb22-en0043-11-16837": [
+      {
+        "point_number": 1,
+        "point_content": "The UK’s post-Brexit negotiations cause great uncertainty in international business and 2020 will mark the year that laws and trade deals are renegotiated to decide the future of the UK’s position in the world.",
+        "spans": [
+          "The UK's Brexit negotiations has caused great uncertainty in international business",
+          "After three and a half years of Brexit negotiations, the UK has left the EU. But 2020 will mark the year that laws and trade deals are renegotiated to decide the future of the UK’s position in the world."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The escalating US-China trade disagreement and the US presidential election create uncertainty affecting international business decisions.",
+        "spans": [
+          "an escalating US-China trade disagreement",
+          "an attempted reelection for US president Donald Trump",
+          "The US is a lot less predictable than they have been in previous years, and the election is going to tell us a lot about how they’ll behave."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The effects and fallout of the Coronavirus pandemic impact international business in 2020.",
+        "spans": [
+          "not to mention the effects and fallout of the Coronavirus pandemic"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Globalization and interconnectivity through superfast broadband and 5G make the world more connected, affecting how international business operates.",
+        "spans": [
+          "As superfast broadband and 5G are rolled out, the world in 2020 is more connected and global than ever."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "China’s continued economic rise and Asia’s GDP overtaking the rest of the world combined is a major trend affecting international business.",
+        "spans": [
+          "From an economic perspective, 2020 promises to be a huge year for China in the international business arena.",
+          "As Asia’s GDP is set to overtake that of the rest of the world combined, China continues to grow and develop, bringing the majority of its citizens with it."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Corporate social responsibility and pressure on businesses to be aware of their environmental and social impact is a significant trend in international business.",
+        "spans": [
+          "There’s a lot of pressure on businesses to be aware of your impact on the environment",
+          "If your company is offshoring or outsourcing, there’s pressure on you to make sure you’re looking after everyone in your company, and not to point the finger at third parties."
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0025-92-03676": [
+      {
+        "point_number": 1,
+        "point_content": "Political and legal factors such as taxation, tariffs, employment law, competition regulation, import restrictions, and intellectual property law affect businesses and require them to modify their processes to comply with new legislation and regulations.",
+        "spans": [
+          "Political and legal factors",
+          "Taxation",
+          "Tariffs",
+          "Employment law",
+          "Competition regulation",
+          "Import restrictions",
+          "Intellectual property law",
+          "Companies affected by political decisions must modify their processes to comply with new legislation and regulations but doing so can keep them in business."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Global factors require executives to keep track of domestic and global issues, including social issues, cultural norms, consumer trends, and economic status in other countries to meet the needs of international customers.",
+        "spans": [
+          "Global factors",
+          "Executives have a duty to keep track of both domestic and global issues, especially if they conduct business internationally.",
+          "By learning about social issues that affect those in other countries and their cultural norms, consumer trends and economic status, company leaders can provide their teams with relevant training.",
+          "This enables them to develop products or offer services that meet the needs of international customers by providing solutions to challenges they face as consumers."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Economic factors such as the state of the economy and unemployment rates affect businesses' ability to thrive and may require changes in pricing and processes to maintain revenue.",
+        "spans": [
+          "Economic factors",
+          "The state of the economy plays an important role in every aspect of daily life from the well-being of personnel to the ability of a company to thrive.",
+          "When the economy trends downward and unemployment rises, businesses may have to work harder to keep their staff and change their processes to continue earning revenue.",
+          "If the company produces products for retail sale, for instance, they may consider lowering the price to increase sales and positively affect their revenue."
+        ]
+      }
+    ],
+    "clueweb22-en0042-46-04708": [
+      {
+        "point_number": 1,
+        "point_content": "Political elections, currency fluctuations, and data breaches can disrupt Canadian business internationally.",
+        "spans": [
+          "A political election halfway around the world, a fluctuation in a country’s currency or a data breach in Southern California have the potential to disrupt Canadian business"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Emerging markets like India, UAE, and Chile are growing rapidly and increasing demand for Canadian goods and services.",
+        "spans": [
+          "India, United Arab Emirates and Chile are just a few of the fastest-growing economies in the world. The middle-class is increasing, and there is increased demand for quality Canadian goods and services."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "UAE offers incentives to foreign companies through free trade zones with preferred tax and customs treatment.",
+        "spans": [
+          "The UAE is actively seeking investment, and offers incentives to foreign companies in the form of free trade zones, where international companies get preferred tax and customs treatment."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Canada has signed new trade agreements with the EU, Pacific countries, and the USMCA for trade stability and preferential treatment.",
+        "spans": [
+          "Canada, for its part, has signed onto new trade agreements with the European Union, as well as 10 countries that border on the Pacific Ocean, within the past 18 months.",
+          "The recent announcement of a new U.S.-Mexico-Canada Agreement (USMCA) means a continuity and stability with our largest trading partner."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The Comprehensive and Economic Trade Agreement (CETA) with the EU allows Canadian companies preferential treatment and easier movement of people and goods.",
+        "spans": [
+          "The Comprehensive and Economic Trade Agreement (CETA) with the EU allows Canadian companies selling or buying from the EU can get preferential treatment in 28 member countries.",
+          "Canadian firms will be considered on par with local companies when bidding on procurement projects at all levels of government in the European Union member countries.",
+          "You can also hire Europeans or have your people work in the EU for up to six months without establishing an office or a work permit, allowing for easy movement of people and goods across our borders."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "The Comprehensive and Progressive Trans-Pacific Partnership (CPTPP) free trade deal with 10 countries including Malaysia, Japan, and Singapore increases business in Asia and removes tariffs.",
+        "spans": [
+          "Earlier this year Canada signed onto the Comprehensive and Progressive Trans-Pacific Partnership (CPTPP), a free trade deal with 10 countries, including Malaysia, Japan and Singapore, which is a huge step toward increasing our business in Asia.",
+          "The removal of tariffs allows Canadian firms to buy inputs and services more cheaply from these countries, while Canadian firms selling internationally can price their goods and services more competitively in those partner countries."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Canadian firms must innovate to compete globally as consumers source goods internationally via the internet.",
+        "spans": [
+          "Canadian firms compete with international companies whether they choose to or not.",
+          "Consumers are global, sourcing goods and services easily on the internet, looking for the best price and goods that are customized to their needs, regardless of their country of origin.",
+          "Innovation may seem like a buzz word, but companies are recognizing the need to constantly evolve to respond to demands of customers to create, refine and adapt products and services that satisfy varying needs and remain competitive."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "China's e-commerce market is the largest globally, representing huge potential but also regulatory challenges.",
+        "spans": [
+          "China is home to the largest e-commerce market in the world, accounting for 40% of total global e-commerce spending.",
+          "As China becomes a growing global force, regulators there are considering how to better regulate things like intellectual property protections, to encourage more foreign investment there."
+        ]
+      }
+    ],
+    "clueweb22-en0023-84-09612": [
+      {
+        "point_number": 1,
+        "point_content": "Ukraine’s wheat exports have been mostly halted since Russia’s invasion, while drought has damaged crops in India and the United States. China’s upcoming harvest is another concern.",
+        "spans": [
+          "Ukraine’s wheat exports have been mostly halted since Russia’s invasion",
+          "drought has damaged crops in India and the United States",
+          "China’s upcoming harvest is another concern"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The Biden administration will lift a 25 percent tariff on the Ukrainian steel sector for one year to help the country’s economy.",
+        "spans": [
+          "The Biden administration will lift a 25 percent tariff on the Ukrainian steel sector for one year to help the country’s economy."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "New data from China is adding to worries over high inflation, rising interest rates and supply chain disruptions.",
+        "spans": [
+          "New data from China is adding to worries over high inflation, rising interest rates and supply chain disruptions."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Brazil and other countries have found a way to get Russian fertilizer despite expectations that the war would trap up to 15 percent of the world’s fertilizer exports in Russia.",
+        "spans": [
+          "Officials expected the war to trap up to 15 percent of the world’s fertilizer exports in Russia",
+          "Brazil and other countries have found a way to get it"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The forces unsettling the stock and bond markets — Fed rate increases, Russia’s war in Ukraine, global sanctions on Russia, China’s lockdowns — have been buoying the dollar.",
+        "spans": [
+          "Fed rate increases, Russia’s war in Ukraine, global sanctions on Russia, China’s lockdowns"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Europe’s quest to replace Russian gas faces climate concerns, investor reticence and political disputes complicating a shift to supplies from the United States, North Africa and the Mediterranean.",
+        "spans": [
+          "Europe’s Quest to Replace Russian Gas Faces Plenty of Hurdles",
+          "Climate concerns, investor reticence and political disputes complicate a shift to supplies from the United States, North Africa and the Mediterranean."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "China’s Covid policies have made European companies wary of investing due to lockdowns and supply chain issues.",
+        "spans": [
+          "China’s Covid Policies Have European Companies Wary of Investing",
+          "Lockdowns and supply chain issues have soured European businesses in China on the idea of further investment in the country"
+        ]
+      }
+    ],
+    "clueweb22-en0024-39-06557": [
+      {
+        "point_number": 1,
+        "point_content": "The 1973 oil crisis had an important impact on the pound sterling and caused economic crisis due to embargo on oil trade by Middle Eastern states.",
+        "spans": [
+          "In 1973, Middle Eastern states placed an embargo on oil trade, in response to the US involvement in Israel’s Yom Kippur War.",
+          "The 1973 crisis had an important impact on the pound sterling, which went through its own crisis in 1976."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "International sanctions during Apartheid led to rapid erosion of the South African rand's value.",
+        "spans": [
+          "International sanctions began to erode its value at a rapid pace, and by 1985, $1 could buy ZAR2."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The 1997 Asian financial crisis led to fears of a worldwide economic meltdown and collapse of the Thai baht.",
+        "spans": [
+          "Financial contagion in 1997 led to fears of an economic meltdown in Asia, which could have in turn led to a worldwide economic meltdown.",
+          "The crisis led to the collapse of the Thai baht."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The Gulf War in 1991 and subsequent UN sanctions had a significant impact on Iraq's economy and currency devaluation.",
+        "spans": [
+          "The Gulf War in 1991 had a significant impact on Iraq’s economy.",
+          "The UN placed sanctions on the country which had the intended effects on Iraq’s financial system.",
+          "Due both to sanctions and overprinting by the government, the new notes devalued rapidly."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The Iraq War in 2003 may have been influenced by Iraq trading oil in euros instead of dollars, affecting the US economy.",
+        "spans": [
+          "A popular theory is that George Bush pushed for the war because Iraq had started trading oil in euros instead of dollars."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "The 2011 Japan earthquake caused initial sharp fall and then surge in the Yen's value due to repatriation and insurance.",
+        "spans": [
+          "The heavy fallout from the worst earthquake to hit Japan in over a century led to interesting developments in the Japanese economy.",
+          "Initially, the value fell sharply. Then, with repatriation and insurance from overseas, it surged."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "The European debt crisis starting in 2008 led to bailouts, recession, and fluctuations in the euro and other European currencies.",
+        "spans": [
+          "The Eurozone’s biggest crisis came in 2008 and has continued in some states to the present day.",
+          "The euro and some of Europe’s other currencies suffered and consequently fluctuated in the wake of this crisis, and it continues to be a factor in the euro’s value to this day."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Greece’s ongoing debt crisis has influenced the value of the Swiss franc and property market due to its status as a safe haven currency.",
+        "spans": [
+          "Greece’s crisis continually drives people to invest in francs."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "The Russian financial crisis was precipitated by the collapse of the ruble due to plummeting oil prices and economic sanctions.",
+        "spans": [
+          "One of the most recent ongoing financial crises is the one currently happening in Russia.",
+          "Causes for the collapse in the ruble include plummeting oil prices and economic sanctions."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "The Brexit decision in 2016 caused a sharp drop in the GBP against multiple currencies and had potential global economic impacts.",
+        "spans": [
+          "On June 23 2016, the UK held a referendum to decide whether to they want to leave the EU.",
+          "The decision was “Leave” with 51% o f the votes.",
+          "Instally, the GBPEUR rate has dropped from 1.34 (it hovered around that figure for a week) to 1.24, and continued to drop to 1.17 on June of 2016.",
+          "More currencies reacted as per below:",
+          "The GBPUSD was at around 1.49, and it fell to 1.34 immediately, only to slightly recover then further decline to 1.28.",
+          "The GBPAUD was at around 1.96 and it fell to 1.82 on June 24, then recover to 1.87 and fell to 1.73.",
+          "The GBPCAD was at around 1.95, and it fell to 1.76, a much steeper decline than the AUD and the USD, it then recovered to 1.8 and fell to 1.67.",
+          "The Brexit has the potential of causing a real global recession, and a lot depends on the new trade agreements between the UK and the EU."
+        ]
+      }
+    ],
+    "clueweb22-en0045-76-06124": [
+      {
+        "point_number": 1,
+        "point_content": "The Ottawa Convoy Showed Exactly Who Canada Is",
+        "spans": [
+          "The Ottawa Convoy Showed Exactly Who Canada Is"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "New Climate Change Report Confirms: Everything’s Terrible, But Maybe Not ...",
+        "spans": [
+          "New Climate Change Report Confirms: Everything’s Terrible, But Maybe Not ..."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The Boat Is Unstuck From The Suez Canal. But, Spiritually, We Are...",
+        "spans": [
+          "The Boat Is Unstuck From The Suez Canal. But, Spiritually, We Are..."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Lebanon Prime Minster Resigns Amid Mass Protests Demanding Justice",
+        "spans": [
+          "Lebanon Prime Minster Resigns Amid Mass Protests Demanding Justic..."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "At Least 70 Dead After Massive Explosion In Beirut",
+        "spans": [
+          "At Least 70 Dead After Massive Explosion In Beirut"
+        ]
+      }
+    ],
+    "clueweb22-en0033-80-05779": [
+      {
+        "point_number": 1,
+        "point_content": "International trade treaties are made between countries all over the world, regardless of how close they are, because transportation has become more efficient.",
+        "spans": [
+          "International trade treaties are made between countries all over the world, regardless of how close they are, because transportation has become more efficient."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Institutional development, technology, and demographics are major trends and developments affecting the international marketplace.",
+        "spans": [
+          "there are three major trends and developments that can frame much of what we see going on in the international marketplace: institutional development, technology, and demographics."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Institutions enable consumers and producers to enforce contracts, are associated with less government corruption and allow consumers and producers to borrow from financial markets, which is important for economic growth.",
+        "spans": [
+          "Institutions are a very important driver of economic growth. These enable consumers and producers to enforce contracts, are associated with less government corruption and allow consumers and producers to borrow from financial markets."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "If people live in an unstable economy where they can't trust what's going to happen tomorrow, they will be less likely to open businesses, which affects employment, income, and consumption.",
+        "spans": [
+          "if people live in an unstable economy where they can't trust what's going to happen tomorrow, they will be less likely to open businesses. Less employment and income will be created and therefore less consumption."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Technology has improved transportation and communication, enabling companies to spread production worldwide and collaborate without person-to-person contact.",
+        "spans": [
+          "Technology has improved transportation, so something produced in China can be on the shelves for sale in New York City within a day or two.",
+          "Technology has also made collaboration possible. Teleconferencing, emails, and other forms of communication available to connect employers to employees and customers to producers no longer make person-to-person contact necessary to run a good business and get deals done."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Technology has made worldwide education possible, which helps grow the middle class and teaches foreign employees how to produce goods and services.",
+        "spans": [
+          "technology has made worldwide education possible - another important part of growing the middle class and teaching foreign employees how to produce goods and services."
+        ]
+      }
+    ]
+  }
+}

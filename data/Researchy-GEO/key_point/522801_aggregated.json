@@ -1,0 +1,407 @@
+{
+  "question": "what can we do to reduce air pollution",
+  "key_points": [
+    {
+      "point_number": 1,
+      "point_content": "Conserve energy at home, at work, and everywhere by turning off lights and appliances when not in use, setting air conditioners no lower than 77-78 degrees, and using energy-efficient appliances and products to reduce air pollution from fossil fuel combustion.",
+      "original_point_number": [
+        1,
+        15,
+        29,
+        42,
+        61,
+        67,
+        68,
+        71,
+        88
+      ]
+    },
+    {
+      "point_number": 2,
+      "point_content": "Use ENERGY STAR or Energy Star certified home or office equipment and buy energy-efficient appliances to improve energy efficiency and reduce air pollution.",
+      "original_point_number": [
+        2,
+        60,
+        68
+      ]
+    },
+    {
+      "point_number": 3,
+      "point_content": "Carpool, use public transportation, bike, walk, or use alternative transportation methods such as trains, buses, and transit systems whenever possible to reduce air pollution and the number of cars on the road.",
+      "original_point_number": [
+        3,
+        11,
+        24,
+        41,
+        65,
+        70,
+        81
+      ]
+    },
+    {
+      "point_number": 4,
+      "point_content": "Follow gasoline refueling instructions carefully, refuel your car in the evening when it is cooler, avoid excessive idling of your automobile, and reduce the number of car trips to reduce vapor emissions, spills, and air pollution, especially on high ozone or particle days.",
+      "original_point_number": [
+        4,
+        11,
+        13,
+        14,
+        17,
+        40,
+        57,
+        86
+      ]
+    },
+    {
+      "point_number": 5,
+      "point_content": "Purchase portable gasoline containers labeled “spill-proof” and use portable gas cans with automatic sealing and shut off features to reduce spills and pollution.",
+      "original_point_number": [
+        5,
+        62
+      ]
+    },
+    {
+      "point_number": 6,
+      "point_content": "Keep car, boat, and other engines properly tuned and ensure tires are properly inflated to reduce pollution.",
+      "original_point_number": [
+        6,
+        7,
+        89
+      ]
+    },
+    {
+      "point_number": 7,
+      "point_content": "Use environmentally safe paints, cleaning products, and products with fewer chemicals or organic alternatives, and buy products with the EPA’s “Safer Choice” label to reduce pollution and protect human health and the environment.",
+      "original_point_number": [
+        8,
+        59,
+        78
+      ]
+    },
+    {
+      "point_number": 8,
+      "point_content": "Mulch or compost leaves and yard waste instead of burning them to reduce pollution and keep waste out of landfills, reducing landfill gas emissions.",
+      "original_point_number": [
+        9,
+        63,
+        90
+      ]
+    },
+    {
+      "point_number": 9,
+      "point_content": "Consider using gas logs instead of wood and reduce or eliminate fireplace and wood stove use, maintain wood stoves or fireplaces properly, and avoid barbequing on the grill when air particle levels are elevated to reduce pollution.",
+      "original_point_number": [
+        10,
+        18,
+        43,
+        85
+      ]
+    },
+    {
+      "point_number": 10,
+      "point_content": "On days with high ozone levels, choose cleaner commute options like sharing rides or public transportation, combine errands and reduce trips, walk to errands when possible, avoid excessive idling, refuel in the evening, conserve electricity, set air conditioners no lower than 78 degrees, and defer lawn and gardening chores that use gasoline-powered equipment or wait until evening.",
+      "original_point_number": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ]
+    },
+    {
+      "point_number": 11,
+      "point_content": "On days with high particle levels, reduce the number of car trips, reduce or eliminate fireplace and wood stove use, avoid burning leaves, trash, and other materials, and avoid using gas-powered lawn and garden equipment.",
+      "original_point_number": [
+        17,
+        18,
+        19,
+        20
+      ]
+    },
+    {
+      "point_number": 12,
+      "point_content": "Walking a part of your commute to work each day, walking or cycling as much as possible, and walking, biking, or using public transportation are great ways to protect the environment from pollution.",
+      "original_point_number": [
+        21,
+        24,
+        27,
+        41
+      ]
+    },
+    {
+      "point_number": 13,
+      "point_content": "Ten straightforward ways to protect the environment from pollution include not smoking indoors or quitting altogether, keeping plants around the house, monitoring pollutants with an air filter, avoiding harsh chemicals, walking or using public transport, using a suction fan in the kitchen, avoiding paving over gardens, conserving energy, eating locally-sourced food, and running dishwashers and washers only when full.",
+      "original_point_number": [
+        22
+      ]
+    },
+    {
+      "point_number": 14,
+      "point_content": "Eat locally produced, organic, and seasonal food to reduce the distance food has to travel and reduce pollution from agriculture and livestock farming.",
+      "original_point_number": [
+        23,
+        46,
+        47
+      ]
+    },
+    {
+      "point_number": 15,
+      "point_content": "Fill your house with green plants such as Gerbera Daisy, Peace Lily, and English Ivy to help clean the air and remove carbon monoxide and other toxins from indoor air.",
+      "original_point_number": [
+        25,
+        28,
+        35
+      ]
+    },
+    {
+      "point_number": 16,
+      "point_content": "Don’t smoke inside and quit smoking altogether to reduce indoor air pollution and improve air quality.",
+      "original_point_number": [
+        26
+      ]
+    },
+    {
+      "point_number": 17,
+      "point_content": "Don’t pave too much of your garden; keep it as green as possible to help reduce pollution and improve air quality.",
+      "original_point_number": [
+        30
+      ]
+    },
+    {
+      "point_number": 18,
+      "point_content": "Only run dishwashers and washing machines when they are full to conserve energy and reduce pollution.",
+      "original_point_number": [
+        31
+      ]
+    },
+    {
+      "point_number": 19,
+      "point_content": "Reduce the amount of ground-level ozone by reducing gasoline vapors, car exhaust fumes, chemical agents, and factory or utility plant emissions.",
+      "original_point_number": [
+        32
+      ]
+    },
+    {
+      "point_number": 20,
+      "point_content": "Reduce your use of automobiles by driving less, driving more efficiently, avoiding idling and speeding, avoiding rush hours, choosing cleaner vehicles such as hybrid or fuel-efficient vehicles, and maintaining your car properly to decrease air pollution from gasoline burning and petroleum refineries.",
+      "original_point_number": [
+        33,
+        40,
+        53,
+        57,
+        66,
+        80
+      ]
+    },
+    {
+      "point_number": 21,
+      "point_content": "Consolidate errands and shopping trips, use commuter railways, or buy hybrid vehicles to reduce automobile emissions and lessen trips.",
+      "original_point_number": [
+        34,
+        84
+      ]
+    },
+    {
+      "point_number": 22,
+      "point_content": "Plant indoor plants and trees to remove air pollutants, carbon monoxide, and carbon dioxide from the atmosphere, cool down temperatures, and improve air quality.",
+      "original_point_number": [
+        35,
+        48,
+        56,
+        79
+      ]
+    },
+    {
+      "point_number": 23,
+      "point_content": "Use solar panels to reduce reliance on electrical utilities that produce VOCs, nitrogen oxides, and sulfur dioxides, and develop alternative energy sources to reduce air pollution.",
+      "original_point_number": [
+        36,
+        52
+      ]
+    },
+    {
+      "point_number": 24,
+      "point_content": "Avoid lead pollution by checking appliances for leaks, not burning trash, properly disposing of batteries, and avoiding lead-based paint products.",
+      "original_point_number": [
+        37
+      ]
+    },
+    {
+      "point_number": 25,
+      "point_content": "Control dust in your yard by keeping soil damp or covered to prevent dust that contributes to air pollution.",
+      "original_point_number": [
+        38
+      ]
+    },
+    {
+      "point_number": 26,
+      "point_content": "Reduce indoor air pollution by minimizing use of gas-powered heating and instead keep warm with clothing and blankets.",
+      "original_point_number": [
+        39
+      ]
+    },
+    {
+      "point_number": 27,
+      "point_content": "Recycle and buy recycled products, buy products made with recycled materials, opt for reusable products instead of disposables, and consume less and choose sustainable products to reduce pollution from manufacturing, exporting goods, and landfill waste.",
+      "original_point_number": [
+        44,
+        45,
+        64,
+        72
+      ]
+    },
+    {
+      "point_number": 28,
+      "point_content": "Eat local, organic produce and less meat to reduce air pollution from agriculture and livestock farming.",
+      "original_point_number": [
+        46
+      ]
+    },
+    {
+      "point_number": 29,
+      "point_content": "Raise awareness and support policies such as a carbon tax on CO2 emissions to improve air quality and reduce pollution and greenhouse gas emissions.",
+      "original_point_number": [
+        49,
+        55
+      ]
+    },
+    {
+      "point_number": 30,
+      "point_content": "Using less fossil fuel by riding a bike or walking instead of driving, taking a bus or carpooling, buying a car with greater fuel efficiency, turning off lights and appliances when not in use, using energy efficient light bulbs and appliances, and buying fewer manufactured things helps lessen pollution.",
+      "original_point_number": [
+        50,
+        51
+      ]
+    },
+    {
+      "point_number": 31,
+      "point_content": "Reducing air pollution from vehicles can be done by breaking down pollutants before release using catalytic converters, making vehicles more fuel efficient such as hybrid vehicles, and developing new technologies that do not use fossil fuels like fuel cells.",
+      "original_point_number": [
+        53
+      ]
+    },
+    {
+      "point_number": 32,
+      "point_content": "Pollutants are removed from the exhaust streams of power plants and industrial plants before they enter the atmosphere using filters, catalysts, and scrubbers.",
+      "original_point_number": [
+        54
+      ]
+    },
+    {
+      "point_number": 33,
+      "point_content": "Drive less to reduce vehicle emissions, which are a major source of air pollution, and switch to electric vehicles if driving is necessary.",
+      "original_point_number": [
+        80,
+        82
+      ]
+    },
+    {
+      "point_number": 34,
+      "point_content": "Look for “Low VOC” in products’ labels and make sure containers are tightly sealed to reduce evaporation and pollution.",
+      "original_point_number": [
+        58
+      ]
+    },
+    {
+      "point_number": 35,
+      "point_content": "Use electric lawn mowers or portable gas cans with automatic sealing and shut off features to reduce pollution from lawn care and avoid using gas-powered lawn and garden equipment.",
+      "original_point_number": [
+        20,
+        62,
+        83
+      ]
+    },
+    {
+      "point_number": 36,
+      "point_content": "Compost organic waste such as food scraps and grass clippings to keep waste out of landfills and reduce landfill gas emissions.",
+      "original_point_number": [
+        63
+      ]
+    },
+    {
+      "point_number": 37,
+      "point_content": "Commute smart by walking or riding to work or the shops instead of driving to reduce motor vehicle emissions.",
+      "original_point_number": [
+        65
+      ]
+    },
+    {
+      "point_number": 38,
+      "point_content": "Choose a fuel-efficient vehicle to reduce emissions from vehicles.",
+      "original_point_number": [
+        66
+      ]
+    },
+    {
+      "point_number": 39,
+      "point_content": "Buy energy-efficient appliances to reduce emissions.",
+      "original_point_number": [
+        68
+      ]
+    },
+    {
+      "point_number": 40,
+      "point_content": "Use environmentally friendly cleaning products and avoid pouring chemicals or fertilizers down the drain to prevent water pollution.",
+      "original_point_number": [
+        69
+      ]
+    },
+    {
+      "point_number": 41,
+      "point_content": "Using public transport reduces air pollution by emitting less gas and energy compared to individual vehicles.",
+      "original_point_number": [
+        70
+      ]
+    },
+    {
+      "point_number": 42,
+      "point_content": "Recycling and reusing products reduces pollution emissions and saves power.",
+      "original_point_number": [
+        72
+      ]
+    },
+    {
+      "point_number": 43,
+      "point_content": "Avoiding plastic bags and using paper bags reduces environmental harm and pollution.",
+      "original_point_number": [
+        73
+      ]
+    },
+    {
+      "point_number": 44,
+      "point_content": "Reducing forest fires and smoking helps decrease air pollution and improves air quality.",
+      "original_point_number": [
+        74
+      ]
+    },
+    {
+      "point_number": 45,
+      "point_content": "Using fans instead of air conditioners reduces energy consumption and heat emission, benefiting the environment.",
+      "original_point_number": [
+        75
+      ]
+    },
+    {
+      "point_number": 46,
+      "point_content": "Using filters for chimneys reduces harmful gas emissions that degrade air quality.",
+      "original_point_number": [
+        76
+      ]
+    },
+    {
+      "point_number": 47,
+      "point_content": "Avoiding the use of crackers reduces smog and air pollution during festivals and events.",
+      "original_point_number": [
+        77
+      ]
+    },
+    {
+      "point_number": 48,
+      "point_content": "Reduce use of hair sprays and spray deodorants to help reduce air pollution.",
+      "original_point_number": [
+        87
+      ]
+    }
+  ]
+}

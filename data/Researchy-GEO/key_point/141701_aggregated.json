@@ -1,0 +1,336 @@
+{
+  "question": "how local government works",
+  "key_points": [
+    {
+      "point_number": 1,
+      "point_content": "Local government is the public administration of towns, cities, counties and districts, including both county and municipal government structures, which must work together to administrate a particular geographic area.",
+      "original_point_number": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "point_number": 2,
+      "point_content": "Local government runs city utilities, libraries, fire departments, public swimming pools, parks, local law enforcement and many other areas of everyday lives.",
+      "original_point_number": [
+        4
+      ]
+    },
+    {
+      "point_number": 3,
+      "point_content": "All local governments derive their authority from the state in which they are located.",
+      "original_point_number": [
+        5
+      ]
+    },
+    {
+      "point_number": 4,
+      "point_content": "Citizens elect most of their local government officials, including mayors, county commissioners, city councils, sheriffs and many other local government positions at both the county and city levels.",
+      "original_point_number": [
+        6
+      ]
+    },
+    {
+      "point_number": 5,
+      "point_content": "County government is the public administration of a county, borough or parish and is usually the largest political subdivision within a state, headed by elected officials such as county commissioners or supervisors, with common officials including county judges, attorneys, clerks, treasurers, sheriffs, tax assessor-collectors, justices of the peace, constables, and auditors.",
+      "original_point_number": [
+        7,
+        9,
+        10
+      ]
+    },
+    {
+      "point_number": 6,
+      "point_content": "A county government's main function is to locally administer state laws; counties do not have their own laws but collect their own taxes.",
+      "original_point_number": [
+        8
+      ]
+    },
+    {
+      "point_number": 7,
+      "point_content": "Each county has a county seat, a town that serves as the capital of that county where county offices and courts are usually located.",
+      "original_point_number": [
+        11
+      ]
+    },
+    {
+      "point_number": 8,
+      "point_content": "Municipal government is the public administration of a township, village, borough, city or town, and municipalities vary greatly in size.",
+      "original_point_number": [
+        12
+      ]
+    },
+    {
+      "point_number": 9,
+      "point_content": "Many parts of England have two tiers of local government: county councils responsible for services across the whole county such as education, transport, planning, fire and public safety, social care, libraries, waste management, trading standards; and district, borough or city councils covering smaller areas responsible for services like rubbish collection, recycling, Council Tax collections, housing, and planning applications.",
+      "original_point_number": [
+        13,
+        15,
+        16
+      ]
+    },
+    {
+      "point_number": 10,
+      "point_content": "In some parts of the country, there is just one (unitary) tier of local government providing all local services, including those listed above, with some services like fire, police and public transport provided through joint authorities.",
+      "original_point_number": [
+        14,
+        17
+      ]
+    },
+    {
+      "point_number": 11,
+      "point_content": "Parish, community and town councils operate below district and borough councils, helping on local issues like allotments, public clocks, bus shelters, community centres, play areas, grants, and consultation on neighbourhood planning, and have the power to issue fixed penalty fines for litter, graffiti, fly posting, and dog offences.",
+      "original_point_number": [
+        18,
+        19
+      ]
+    },
+    {
+      "point_number": 12,
+      "point_content": "Local government is a devolved matter in the UK, with systems varying between the four nations: in England, Scotland, and Wales, councils are responsible for social care and provide some aspects of transport, housing, education, libraries and waste collection; in Northern Ireland, councils provide some neighbourhood services such as waste collection and street cleaning but are not responsible for education, libraries, or social care.",
+      "original_point_number": [
+        20,
+        21,
+        22
+      ]
+    },
+    {
+      "point_number": 13,
+      "point_content": "Councillors in England are elected on four-year terms to single or multi-member wards using the first past the post electoral system, with council seats elected altogether every four years, by thirds, or in halves; in Scotland, councillors are elected to multi-member wards via single transferable vote, a proportional system, with councils elected as a whole every four years; in Wales, councillors are elected to single and multi-member wards using first past the post, with councils elected every four years; in Northern Ireland, councillors are elected via single transferable vote to multi-member electoral areas, with all councillors elected every four years.",
+      "original_point_number": [
+        23,
+        24,
+        25,
+        26
+      ]
+    },
+    {
+      "point_number": 14,
+      "point_content": "Councils across the UK are funded by a combination of central government grants and local taxes, with the balance varying by nation: in England (2020/21) 55.7% from central government grants, 28.7% from council tax, 15.6% from business rates; in Scotland 68% from Scottish government grants, 14% business rates, 19% council tax; in Wales 65% from Welsh government grants, 22% council tax, 13% business rates; in Northern Ireland 70% from district rates, 8% from Northern Ireland executive grants, 22% from fees for services.",
+      "original_point_number": [
+        27,
+        28,
+        29,
+        30,
+        31
+      ]
+    },
+    {
+      "point_number": 15,
+      "point_content": "There are 333 local authorities in England with varying structures: two-tier areas with county and district councils, and single-tier areas with one authority carrying out all functions, made up of five types: county councils, district councils, unitary authorities, metropolitan districts, and London boroughs.",
+      "original_point_number": [
+        32,
+        53
+      ]
+    },
+    {
+      "point_number": 16,
+      "point_content": "Most local authorities in England are run by a leader and cabinet from councillors of the majority party or a coalition, or use a committee system with decision-making delegated to committees; fifteen English local authorities have transferred leadership powers to executive mayors, elected via supplementary vote system, changing to first-past-the-post in future; metro mayors are elected across multiple local council areas and exercise strategic economic and public service functions in partnership with other local leaders in combined authorities.",
+      "original_point_number": [
+        33,
+        34,
+        35
+      ]
+    },
+    {
+      "point_number": 17,
+      "point_content": "There are 32 local authorities in Scotland, all unitary, led by a council leader and cabinet as well as a provost, a ceremonial figurehead.",
+      "original_point_number": [
+        36
+      ]
+    },
+    {
+      "point_number": 18,
+      "point_content": "There are 22 local authorities in Wales, all unitary authorities led by a leader and cabinet elected by the council itself.",
+      "original_point_number": [
+        37
+      ]
+    },
+    {
+      "point_number": 19,
+      "point_content": "There are 11 local authorities in Northern Ireland, all unitary, typically using a committee system of governance led by a chairperson or mayor chosen by the council for a one-year term.",
+      "original_point_number": [
+        38
+      ]
+    },
+    {
+      "point_number": 20,
+      "point_content": "Local government in England consists of one or two levels called Local Authorities, with some minor functions delegated to parish councils; the guiding principle is to have a single tier of local government (unitary authority) where possible, otherwise two tiers with different responsibilities.",
+      "original_point_number": [
+        39,
+        40
+      ]
+    },
+    {
+      "point_number": 21,
+      "point_content": "In two-tier local government areas, the top tier manages strategic planning, transport, social services, education, fire and police services; the lower tier manages public housing, waste collection, and local planning.",
+      "original_point_number": [
+        41
+      ]
+    },
+    {
+      "point_number": 22,
+      "point_content": "London has a unique two-tier system with the Greater London Authority (GLA) and borough councils sharing administration of public services.",
+      "original_point_number": [
+        42
+      ]
+    },
+    {
+      "point_number": 23,
+      "point_content": "Metropolitan counties have no territorial administrative function; local administration is done by boroughs which are unitary authorities.",
+      "original_point_number": [
+        43
+      ]
+    },
+    {
+      "point_number": 24,
+      "point_content": "Non-metropolitan counties can be unitary authorities or have a two-tier system with county councils and district councils.",
+      "original_point_number": [
+        44
+      ]
+    },
+    {
+      "point_number": 25,
+      "point_content": "Scotland has a simpler system with just 32 unitary authorities.",
+      "original_point_number": [
+        45
+      ]
+    },
+    {
+      "point_number": 26,
+      "point_content": "Most towns or cities are part of a district managed by a District Council led by a leader or mayor, chosen for a one-year term.",
+      "original_point_number": [
+        46
+      ]
+    },
+    {
+      "point_number": 27,
+      "point_content": "Only 17 English cities have a directly elected mayor, a system started in London in 2000 and adopted by some cities after referendums; the historic office of Lord Mayor is largely ceremonial and distinct from the elected mayor role.",
+      "original_point_number": [
+        47,
+        48
+      ]
+    },
+    {
+      "point_number": 28,
+      "point_content": "Parish councils are small subdivisions with limited powers, often run by volunteers, with some increased freedom since 2011.",
+      "original_point_number": [
+        49
+      ]
+    },
+    {
+      "point_number": 29,
+      "point_content": "Some public services are managed by autonomous bodies not controlled by local authorities, such as hospitals, water supplies, and some state schools.",
+      "original_point_number": [
+        50
+      ]
+    },
+    {
+      "point_number": 30,
+      "point_content": "Local government structure varies with most areas having two tiers - county and district - with split responsibilities, while some areas operate under a single tier structure with councils responsible for all services.",
+      "original_point_number": [
+        51,
+        52
+      ]
+    },
+    {
+      "point_number": 31,
+      "point_content": "Unitary authorities provide all local government services in their areas, mainly in cities, urban areas and larger towns.",
+      "original_point_number": [
+        54
+      ]
+    },
+    {
+      "point_number": 32,
+      "point_content": "London boroughs provide nearly all services in their area, with Greater London Authority providing London-wide government including police, fire, planning and transport.",
+      "original_point_number": [
+        55
+      ]
+    },
+    {
+      "point_number": 33,
+      "point_content": "Metropolitan districts cover six large urban areas and are responsible for all services, with some services provided jointly across districts.",
+      "original_point_number": [
+        56
+      ]
+    },
+    {
+      "point_number": 34,
+      "point_content": "County councils in two-tier areas provide services such as education, social services and waste disposal.",
+      "original_point_number": [
+        57
+      ]
+    },
+    {
+      "point_number": 35,
+      "point_content": "District councils in two-tier areas provide local services such as rubbish collection, housing and planning applications.",
+      "original_point_number": [
+        58
+      ]
+    },
+    {
+      "point_number": 36,
+      "point_content": "Town and parish councils operate below district councils and unitary authorities, responsible for smaller local services like allotments, parks and community centres.",
+      "original_point_number": [
+        59
+      ]
+    },
+    {
+      "point_number": 37,
+      "point_content": "Combined authorities are formed by two or more local authorities to make collective decisions with devolved powers and funding, without replacing existing authorities.",
+      "original_point_number": [
+        60
+      ]
+    },
+    {
+      "point_number": 38,
+      "point_content": "Local authorities operate governance models set out by the Local Government Act 2000, including mayor and cabinet executive, leader and cabinet executive, committee system, or other approved arrangements.",
+      "original_point_number": [
+        61
+      ]
+    },
+    {
+      "point_number": 39,
+      "point_content": "Councillors are elected for four-year terms using the first past the post system, with elections held on the first Thursday in May.",
+      "original_point_number": [
+        62
+      ]
+    },
+    {
+      "point_number": 40,
+      "point_content": "There are three electoral cycles for local councils: whole council every four years, halves every two years, or thirds every year for three years with no election in the fourth year.",
+      "original_point_number": [
+        63
+      ]
+    },
+    {
+      "point_number": 41,
+      "point_content": "Electoral areas are called divisions in county councils and wards in other councils, represented by one to three councillors depending on the council type.",
+      "original_point_number": [
+        64
+      ]
+    },
+    {
+      "point_number": 42,
+      "point_content": "Local government is one of the three spheres of government together with the provincial and the national spheres, consisting of municipalities which deliver many daily services, categorized as metropolitan, district and local municipalities in South Africa, with 278 municipalities comprising 8 metropolitan, 44 district and 226 local municipalities; the Constitution defines functions of each sphere and requires coordination among them.",
+      "original_point_number": [
+        65,
+        66,
+        67,
+        68,
+        69,
+        70
+      ]
+    },
+    {
+      "point_number": 43,
+      "point_content": "Municipalities govern through local councils elected during local government elections, with work carried out by municipal administration; the public has the right and duty to participate in municipal decision making through ward committees, public meetings, submissions, and direct contact with councilors.",
+      "original_point_number": [
+        71,
+        72,
+        73
+      ]
+    }
+  ]
+}

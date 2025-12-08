@@ -1,0 +1,365 @@
+{
+  "question": "why teams fail",
+  "key_points": {
+    "null": [],
+    "clueweb22-en0026-11-01996": [
+      {
+        "point_number": 1,
+        "point_content": "Teams often underperform despite extra resources due to problems with coordination and motivation.",
+        "spans": [
+          "Research consistently shows that teams underperform, despite all the extra resources they have. That’s because problems with coordination and motivation typically chip away at the benefits of collaboration."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Team members often don’t agree on what the team is supposed to be doing, and getting agreement is the leader’s job.",
+        "spans": [
+          "Most of the time, his research shows, team members don’t even agree on what the team is supposed to be doing. Getting agreement is the leader’s job, and she must be willing to take great personal and professional risks to set the team’s direction."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Teams need to be bounded with clear membership; fuzzy boundaries cause dysfunction.",
+        "spans": [
+          "At the very least, it means that teams have to be bounded. It may seem silly to say this, but if you’re going to lead a team, you ought to first make sure that you know who’s on it.",
+          "Not surprisingly, we found that almost every senior team we studied thought that it had set unambiguous boundaries. Yet when we asked members to describe their team, fewer than 10% agreed about who was on it.",
+          "Often the CEO is responsible for the fuzziness of team boundaries. Fearful of seeming exclusionary—or, on the other end of the spectrum, determined to put people on the team for purely political reasons—the chief executive frequently creates a dysfunctional team."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Team size matters; bigger teams have exponentially more links to manage, which can cause problems.",
+        "spans": [
+          "Another fallacy is that bigger teams are better than small ones because they have more resources to draw upon.",
+          "A colleague and I once did some research showing that as a team gets bigger, the number of links that need to be managed among members goes up at an accelerating, almost exponential rate.",
+          "Big teams usually wind up just wasting everybody’s time."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Newness in teams is a liability; teams perform better when members have experience working together.",
+        "spans": [
+          "Absolutely. The research confirming that is incontrovertible.",
+          "The National Transportation Safety Board found that 73% of the incidents in its database occurred on a crew’s first day of flying together, before people had the chance to learn through experience how best to operate as a team—and 44% of those took place on a crew’s very first flight.",
+          "Also, a NASA study found that fatigued crews who had a history of working together made about half as many errors as crews composed of rested pilots who had not flown together before."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Every team needs a deviant who challenges the norm and stimulates creativity and learning.",
+        "spans": [
+          "Every team needs a deviant, someone who can help the team by challenging the tendency to want too much homogeneity, which can stifle creativity and learning.",
+          "Deviants are the ones who stand back and say, “Well, wait a minute, why are we even doing this at all? What if we looked at the thing backwards or turned it inside out?”",
+          "In our research, we’ve looked carefully at both teams that produced something original and those that were merely average, where nothing really sparkled. It turned out that the teams with deviants outperformed teams without them."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Leaders must set a clear, challenging direction for the team, which involves exercising authority and can be emotionally demanding.",
+        "spans": [
+          "There is no one right way to set a direction; the responsibility can fall to the team leader or to someone in the organization outside the team or even to the team itself in the case of partnerships or boards of directors.",
+          "But however it’s done, setting a direction is emotionally demanding because it always involves the exercise of authority, and that inevitably arouses angst and ambivalence—for both the person exercising it and the people on the receiving end.",
+          "Leaders who are emotionally mature are willing and able to move toward anxiety-inspiring situations as they establish a clear, challenging team direction."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Teams create their own realities and control their own destinies early, so leaders can only increase the likelihood of success, not guarantee it.",
+        "spans": [
+          "Teams create their own realities and control their own destinies to a greater extent, and far sooner in their existence, than most team leaders realize."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Organizations often have HR systems focused on individuals, which can hinder team performance.",
+        "spans": [
+          "That’s because HR departments tend to put in place systems that are really good at guiding, directing, and correcting individual behavior.",
+          "This single-minded focus on the individual employee is one of the main reasons that teams don’t do as well as they might in organizations with strong HR departments."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Virtual teams need the same basic conditions for effectiveness as traditional teams, including clear membership and purpose.",
+        "spans": [
+          "Virtual teams have really come into their own in the past decade, but I don’t believe they differ fundamentally from traditional teams.",
+          "I don’t think for a minute that we’re going to have effective online teams if we don’t know who’s on the team or what the main work of the team really is, and so far that’s still a problem with virtual teams."
+        ]
+      }
+    ],
+    "clueweb22-en0003-50-03930": [
+      {
+        "point_number": 1,
+        "point_content": "A lack of leadership causes teamwork to fail because teams need leaders to set expectations, keep focus, provide positive reinforcement, and hold people accountable.",
+        "spans": [
+          "A lack of leadership",
+          "Every team needs a leader to set expectations, and keep the group focused upon it’s goals.",
+          "A leader should be able to provide positive reinforcement to help keep everyone motivated, and team morale up.",
+          "a leader also needs to be able to hold people accountable"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The presence of disruptive personalities can negatively impact teamwork and cause it to fail.",
+        "spans": [
+          "The presence of disruptive personalities",
+          "Sometimes some employees are unhappy and disruptive, which can have a major negative impact upon the team of employees."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Lack of proper training leads to failure in teamwork because employees may not understand their responsibilities or company goals.",
+        "spans": [
+          "Lack of proper training",
+          "If you want your employees to work well as a team then you need to make sure that all of them have proper training."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Lack of defined goals causes teamwork to fail because employees are not focused without clear group and individual goals.",
+        "spans": [
+          "Lack of defined goals",
+          "If you want a group of employees to turn into a team then you need to give the group a goal, and also give each team member individual goals."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Lack of incentive reduces motivation to work together, causing teamwork to fail.",
+        "spans": [
+          "Lack of incentive",
+          "One great way to motivate a team of employees is to give them an incentive to work together toward a common goal."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Not considering teammates' strengths and weaknesses can cause teamwork to fail because tasks are not assigned appropriately.",
+        "spans": [
+          "Teammates strengths and weaknesses are not taken into account",
+          "By taking into account what each team member does well you can have them work on areas of a project that they are best suited for."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Fear of failure causes employees to avoid contributing new solutions, leading to teamwork failure.",
+        "spans": [
+          "Fear of failure",
+          "When employees are afraid that their mistakes will be held against them they are often afraid to help come up with new solutions."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Not enough team meetings where open and honest communication is encouraged causes teamwork to fail.",
+        "spans": [
+          "Not enough team meetings",
+          "One of the biggest reasons why teamwork fails is that there are not enough meetings where open and honest communication is encouraged."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Too much employee turnover disrupts team cohesion and causes teamwork to fail.",
+        "spans": [
+          "Too much employee turnover",
+          "If you want to create an environment of confusion runs rampant and production is low, then having a high rate of employee turnover is the way to do it."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Individuals not feeling included causes teamwork to fail because members do not feel welcome or appreciated.",
+        "spans": [
+          "Individuals don’t feel included",
+          "For a team to be successful each member needs to pull their own weight. For this to happen they need to feel welcome, and appreciated."
+        ]
+      }
+    ],
+    "clueweb22-en0020-93-07642": [
+      {
+        "point_number": 1,
+        "point_content": "Lack of Vision causes teams to fail because there is no clear and well-communicated purpose or vision to align the team for success.",
+        "spans": [
+          "1. Lack of Vision: An absence of a clear and well-communicated purpose or vision to work will never allow a team to align themselves for success. Everybody sways in different directions when they don’t really know why they are working together, which leads to everyone making different assumptions."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Unclear Roles lead to team failure as members do not know what they are supposed to do, causing wasted effort and misaligned tasks.",
+        "spans": [
+          "2. Unclear Roles: There is nothing worse than not knowing exactly what you are supposed to do. When roles are not clear, it leaves people struggling to decide what to do next. This leads to team members focusing on some very primary tasks that help them feel productive, only to find out later that they had been wasting their time."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Poor Decision-Making causes teams to fail either by overthinking and delaying decisions or by making hasty decisions without proper thought.",
+        "spans": [
+          "3. Poor Decision-Making: Most teams miss out on coming up with a good approach for decision making and fail in two areas. First is when they overthink decisions and waste a lot of time in the decision-making process. This leads to not coming to a decision at all. The second is when they don’t spend enough time thinking through the decisions they make and get into implementation and thrash mode, only to give usp later or making it through bruised and wounded."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Fixed Mindset in teams leads to failure as they assume they cannot improve or change, getting stuck and unable to solve issues.",
+        "spans": [
+          "4. Fixed Mindset: Many teams fail to grow or inspire due to their fixed mindset approach. Most of them fail because they have already assumed that they couldn’t improve, change, or re-frame their situation."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Lack of Resources is a major cause of team failure, leading to low morale and waning commitment.",
+        "spans": [
+          "5. Lack of Resources: Lack of enough or appropriate resources is sometimes one of the major killers of a team as a whole. Not having the right tools, authority, and equipment will lead to a dip in the team morale and their commitment will also ultimately start waning."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Poor Dynamics, including lack of mutual respect and distrust among team members, causes teams to fail.",
+        "spans": [
+          "6. Poor Dynamics: Mutual respect is a must for a team to achieve results and maintain cohesion. If team members distrust each other or overindulge in other’s work territories, they cannont achieve results."
+        ]
+      }
+    ],
+    "clueweb22-en0042-60-10293": [],
+    "clueweb22-en0021-94-03162": [
+      {
+        "point_number": 1,
+        "point_content": "Lack of teamwork is a primary reason why initiatives fail.",
+        "spans": [
+          "lack of teamwork is a primary reason why initiatives fail"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Five common dysfunctions seen on teams that cause failure: absence of trust, fear of conflict, lack of commitment, avoidance of accountability, inattention to results.",
+        "spans": [
+          "five common dysfunctions seen on teams"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "An absence of trust leads to concealment of weaknesses and mistakes, less willingness to ask for help or provide feedback, and managing appearances rather than collaboration.",
+        "spans": [
+          "An Absence of Trust",
+          "When team members don’t trust one another, they conceal their weaknesses and mistakes.  There is less willingness to ask for help or provide constructive feedback.  There is a failure to tap into the expertise of others and too much time is spent on managing appearances."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Fear of conflict prevents crucial conversations, creates lack of transparency, and allows personal attacks to thrive, ignoring critical topics.",
+        "spans": [
+          "Fear of Conflict",
+          "When there is a fear of conflict on teams, crucial conversations don’t happen.  Environments are created where there is a lack of transparency in how problems are managed and personal attacks thrive.  Controversial topics critical to team success are ignored."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Lack of commitment causes ambiguity about direction, delays, revisiting decisions, and lack of confidence and accomplishment.",
+        "spans": [
+          "Lack of Commitment",
+          "When teams fail to commit to a strategic direction or completion of a goal, there is ambiguity about team direction and priorities.  Windows of opportunity can close because of excessive analysis or unnecessary delays.  On a team that fails to commit, decisions are revisited again and again.  This breeds a lack of confidence and a lack of a sense of accomplishment."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Avoidance of accountability leads to resentment, missed deadlines, poor performance, and mediocrity.",
+        "spans": [
+          "Avoidance of Accountability",
+          "When there is no accountability on teams, there is resentment among members about different standards of performance.  Deadlines and key deliverables are missed.  Performance measures are not achieved.  There is an atmosphere of mediocrity."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Inattention to results causes loss of high performing members, focus on individual goals, and failure to grow as a team.",
+        "spans": [
+          "Inattention to Results",
+          "When a team is not results oriented, they will lose high performing, achievement oriented members.  Team members begin to focus on their own careers and goals.  The team fails to grow."
+        ]
+      }
+    ],
+    "clueweb22-en0021-20-15554": [
+      {
+        "point_number": 1,
+        "point_content": "Teams fail for any number of reasons, including poor planning, unclear goals, or a lack of training.",
+        "spans": [
+          "Teams fail for any number of reasons, including poor planning, unclear goals, or a lack of training."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Research by The Ken Blanchard Companies has identified the top 10 reasons for a team failing to reach its potential.",
+        "spans": [
+          "Research by The Ken Blanchard Companies has identified the top 10 reasons for a team failing to reach its potential."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The top 10 reasons for team failure include lack of a sufficient charter, unsure of what requires team effort, lack of mutual accountability, lack of resources, lack of effective and/or shared leadership, lack of planning, lack of management support, inability to deal with conflict, lack of focus on creativity and excellence, and lack of training.",
+        "spans": [
+          "Lack of a sufficient charter",
+          "Unsure of what requires team effort",
+          "Lack of mutual accountability",
+          "Lack of resources",
+          "Lack of effective and/or shared leadership",
+          "Lack of planning",
+          "Lack of management support",
+          "Inability to deal with conflict",
+          "Lack of focus on creativity and excellence",
+          "Lack of training"
+        ]
+      }
+    ],
+    "clueweb22-en0020-25-05002": [
+      {
+        "point_number": 1,
+        "point_content": "Teams fail due to various reasons which can be broadly divided into five categories: Environmental Influences, Goals, Roles, Processes, Relationships.",
+        "spans": [
+          "Team failure is due to various reasons.",
+          "These reasons can be further divided into broadly five categories: Environmental Influences Goals Roles Processes Relationships"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Environmental influences such as team members being at different locations, lack of adequate resources, and lack of recognition can cause team failure.",
+        "spans": [
+          "The team members may be placed at different location making it difficult for them to meet frequently.",
+          "The team is not given adequate resources in order to do its job.",
+          "A lack of recognition by the organization or its leaders about the existence of a team can also lead a team to its failure."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Lack of participation in setting goals, unclear goals, and poor communication of goals lead to team failure.",
+        "spans": [
+          "No participation from members in setting goals.",
+          "Team is not clear about the goals.",
+          "Goals are not effectively communicated."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Poorly defined roles, no clear leader, buck-passing of responsibility, power plays, and lack of recognition of interdependence among members cause team failure.",
+        "spans": [
+          "Responsibilities of the team members are poorly defined.",
+          "No clear leader identified.",
+          "There is buck-passing of responsibility, which shows lack of commitment.",
+          "Members indulge in power plays for authority and control.",
+          "Members refuse to recognize their interdependence and act as if they were independent."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Lack of processes, one-way communication, unproductive meetings, and actions taken without planning lead to team failure.",
+        "spans": [
+          "Lack of processes makes decisions always a crisis situation.",
+          "Communications are one way: top down and channeled through the leader.",
+          "Meetings are unproductive with the issues unresolved implies that poor planning has been done.",
+          "In case, actions are taken without planning, the team will fail."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Poor relationships, disguised conflicts, severe personality conflicts, and competitive relationships among members cause team failure.",
+        "spans": [
+          "Members are unwilling to be identified with the team.",
+          "There is disguised conflict between the team members as well as severe personality conflicts.",
+          "Relationships are competitive."
+        ]
+      }
+    ]
+  }
+}

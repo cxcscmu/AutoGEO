@@ -1,0 +1,420 @@
+{
+  "question": "why are energy prices high",
+  "key_points": {
+    "clueweb22-en0015-43-07560": [
+      {
+        "point_number": 1,
+        "point_content": "Energy prices are high due to supply and demand on the global wholesale market, which has driven up the amount providers pay for gas and electricity.",
+        "spans": [
+          "Households are facing a steep increase in their energy prices due to supply and demand on the global wholesale market.",
+          "This has driven up the amount providers pay for gas and electricity"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Wholesale energy prices have reached an all-time high, causing providers to pass on those costs to consumers.",
+        "spans": [
+          "Wholesale energy prices - what our providers pay for gas and electricity - have reached an all-time high.",
+          "Energy providers have begun to pass on those costs to consumers."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Several factors have increased global wholesale prices, including a cold winter in Europe, hot weather in Asia, and lower gas exports from Russia to north-west Europe.",
+        "spans": [
+          "A cold winter in Europe last year put pressure on supplies and, as a result, stored gas levels are much lower than normal.",
+          "Hot weather in Asia saw more gas used for air-conditioning, while gas exports from Russia to north-west Europe have also been lower."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The Utility Regulator cannot control wholesale energy costs, which make up around 50% of a consumer's electricity and gas bill, so prices rise as wholesale costs increase.",
+        "spans": [
+          "The Utility Regulator has no control over wholesale energy costs, said its chief executive John French.",
+          "Record wholesale energy costs is one of the key reasons for the price rises, Mr French told BBC News NI.",
+          "As this element makes up around 50% of a consumer's electricity and gas bill it will have a big impact on the final price you pay"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Energy providers' profits are capped, but this does not prevent prices from rising when wholesale costs increase.",
+        "spans": [
+          "The Utility Regulator has capped the amount of profit gas providers can make at about 2%.",
+          "Power NI's profit is capped at 2.2%.",
+          "So although a company's profit is capped that doesn't stop prices going up as the cost of commodities increases."
+        ]
+      }
+    ],
+    "clueweb22-en0009-54-00669": [
+      {
+        "point_number": 1,
+        "point_content": "The true origin of today’s energy crisis isn’t the 2020 COVID crash, but rather, the 2014 oil-price collapse.",
+        "spans": [
+          "The true origin of today’s energy crisis isn’t the 2020 COVID crash, but rather, the 2014 oil-price collapse."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The 2014 oil-price collapse was caused by increased supply from America’s shale industry and slowing global demand, with Saudi Arabia allowing prices to crash to reclaim market share.",
+        "spans": [
+          "Capital poured into America’s shale industry. Thus, the supply of fossil fuel on global markets rapidly increased.",
+          "At the same time, slowing global growth combined with advances in energy efficiency lowered global energy demand.",
+          "Saudi Arabia saw opportunity in a sustained energy glut.",
+          "Thus, by keeping the taps on and allowing global energy prices to crash, the House of Saud could reclaim the global market share that frackers had so rudely wrestled from it."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The 2014 price plunge led to a collapse in investors’ appetite for new oil and gas production and a shift to natural gas in power generation, which increased reliance on natural gas.",
+        "spans": [
+          "investors’ appetite for new oil and gas production collapsed.",
+          "the combination of advances in fracking technology and a glutted energy market made natural gas unprecedentedly abundant and cost-competitive with coal.",
+          "Utilities therefore started replacing coal-fired power plants with gas-fired ones, and the global electricity system became newly reliant on natural gas."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The COVID recession caused a maintenance backlog and supply chain issues, impairing energy production ramp-up, while demand rebounded quickly, causing supply-demand mismatch.",
+        "spans": [
+          "COVID recession took a toll on both energy demand and supply.",
+          "Public-health regulations and outbreaks forced many producers to postpone upkeep operations that had been scheduled last year.",
+          "This, combined with several unexpected outages and supply-chain dysfunctions, impaired the ramping up of production in 2021.",
+          "global appetite for energy rebounded much faster than supply chains did."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Adverse weather conditions increased energy demand and reduced renewable energy capacity, exacerbating the supply-demand mismatch and driving prices up.",
+        "spans": [
+          "Last January brought extremely cold weather to much of Asia, causing a surge in the continent’s consumption of energy.",
+          "droughts in multiple regions reliant on hydropower, combined with below-average wind speeds in Northern Europe, yielded an unexpected reduction in the world’s renewable-energy capacity."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "After years of poor returns, fossil-fuel firms prioritize profits over new investment, preventing production increases to meet demand and keeping prices high.",
+        "spans": [
+          "shareholders have forced fossil-fuel firms to prioritize windfall profits over new investment.",
+          "This prioritization of dividends over drilling hasn’t just prevented private energy producers from raising production to meet soaring demand; it’s also stopped state-owned oil companies from doing so."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "OPEC and Russia are letting prices rise to maximize revenue, confident that U.S. shale production will not quickly respond to high prices.",
+        "spans": [
+          "Saudi Arabia and Russia are now confident that “higher oil prices will not elicit a fast response from the U.S. shale industry.”",
+          "they feel that they have more to gain than lose from letting prices continue to rise while they sit on their spare capacity."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "The shift from coal to natural gas for power generation has increased competition for natural gas between electricity and home heating, raising winter energy prices.",
+        "spans": [
+          "the global advance of gas-fired power plants",
+          "As gas has displaced coal on power grids, competition between the electric and home heat sectors for fuel in the wintertime has increased.",
+          "power plants bid against households for limited supplies of natural gas, electricity prices reached new heights in the year’s closing months."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Climate policy has had some impact on energy prices by increasing demand for natural gas and limiting coal use, but it is not the main cause of the current crisis.",
+        "spans": [
+          "Last decade’s drop-off in oil and gas investment began just before the Paris Climate Agreement.",
+          "investment in oil and gas plunged after the 2014 price collapse, and stabilized in the years immediately following the 2015 Paris Agreement.",
+          "the Chinese government has pursued a national policy of limiting coal power in favor of gas.",
+          "the rising cost of the E.U.’s carbon permits rendered this economically nonviable.",
+          "green policy has elevated global demand for natural gas. But it has relatively little to do with the present constraints on supply."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Joe Biden cannot fix the energy price crisis alone because U.S. energy production is private, lacks spare capacity, and increasing production takes time.",
+        "spans": [
+          "American energy producers are not just sitting on tons of spare capacity.",
+          "U.S. firms don’t. Rather, they’d need to drill and complete new wells to comparably increase oil and gas volumes, a process that would take months.",
+          "the American energy industry sits in private hands. Joe Biden does not have the authority to order an increase in oil and gas drilling."
+        ]
+      }
+    ],
+    "clueweb22-en0043-62-13653": [
+      {
+        "point_number": 1,
+        "point_content": "Energy prices are spiking globally due to a combination of high demand and other factors.",
+        "spans": [
+          "Gasoline prices are on the rise, along with the cost of home-heating oil and natural gas.",
+          "the head of the International Energy Agency warned of a global energy crunch that could slow the economic recovery from the pandemic.",
+          "The root causes? Demand and high prices."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Demand for natural gas and other energy sources has surged, especially in Asia, as lockdowns ended and industry resumed.",
+        "spans": [
+          "the reason the market has gone crazy is really off-the-chart demand, particularly in Asia, particularly when it comes to natural gas.",
+          "The lockdowns are over. Industry is running, and they need that natural gas like there's no tomorrow."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Other reasons for price spikes include weather, lack of investment, and issues with renewable energy reliability.",
+        "spans": [
+          "But it's not just demand right, Ryan? There are other reasons for these price spikes?",
+          "Absolutely.",
+          "I mean, weather is one. So we had a very cold winter last year, and people are anticipating another cold winter, so you get hoarding.",
+          "Lack of investment. During the lockdowns, there was a lot of uncertainty about the future, so people didn't put money into oil and gas.",
+          "Plus, with responsible investment, ESG, putting money into oil and gas is just not particularly popular, so money didn't flow for that reason either.",
+          "Then, of course, you have the issue of renewables not always being reliable.",
+          "They said, quite frankly, this last year, when it comes to renewable energy, has been a little bit of a letdown.",
+          "The wind didn't blow like it was supposed to, or people thought in Europe this year, and the U.K., which is a clue about why we need resilient fuels and backups and natural gas as well."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "OPEC Plus countries believe they are providing enough oil to the market and are cautious about increasing production.",
+        "spans": [
+          "The response has been, we think we're doing enough right now.",
+          "Within OPEC Plus, which is a large group that, as you pointed out, crucially includes Russia, but also Saudi Arabia, really the first amongst equals in OPEC Plus, they think that they're providing enough oil to the market."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "High energy prices risk demand destruction, which could harm economic growth, a concern for oil-producing countries.",
+        "spans": [
+          "They're concerned about things like demand destruction.",
+          "In other words, when prices get really high, people stop buying fuel.",
+          "And that has economic consequences. It weighs on economic growth."
+        ]
+      }
+    ],
+    "clueweb22-en0015-19-00474": [
+      {
+        "point_number": 1,
+        "point_content": "President Biden said it's because OPEC and Russia aren’t increasing production sufficiently.",
+        "spans": [
+          "President Biden said it's because OPEC and Russia aren’t increasing production sufficiently."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "OPEC and Russia account for just over half of global production and can do the most to increase supply, which would lower prices.",
+        "spans": [
+          "Together, they account for just over half of global production, so experts agree that they can do the most to increase supply, which would result in lower prices at the pump."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "OPEC and Russia have been gradually, but not fully, restoring production since July, increasing by 400,000 barrels per day every month, less than what importers seek.",
+        "spans": [
+          "Since July, OPEC and Russia have agreed to raise production by 400,000 barrels per day every month, less than the U.S. and other oil importers like China, India, and Japan have been seeking."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The coronavirus pandemic caused demand for gasoline to rise steadily while supply has not recovered as quickly, contributing to higher prices.",
+        "spans": [
+          "At the root of the price increases for gasoline, as with so many other products, is the coronavirus pandemic.",
+          "Since the initial economic wallop from the virus in the spring of 2020, demand for gasoline has risen steadily as business activity has increased. Yet supply hasn’t been able to recover as quickly, thanks to delays in restoring drilling capacity, higher transportation costs, and sluggish production increases."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The U.S. is the world’s biggest oil producer but cannot quickly increase production due to political, environmental, and practical constraints.",
+        "spans": [
+          "Exacerbating the awkwardness is that the U.S. is itself a major oil producer. In fact, the U.S. is the world’s biggest, accounting for about 20% of the world’s output.",
+          "It’s theoretically possible for the U.S. to produce more oil, but it would be politically and practically difficult, experts said.",
+          "One obvious obstacle is the pressure Biden is facing from his allies in the environmental movement.",
+          "Another obstacle is that U.S. producers can’t ramp up production as quickly as OPEC can."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Increasing domestic production in the U.S. is a private sector decision and cannot be quickly influenced by the government.",
+        "spans": [
+          "Increasing domestic production isn’t a policy decision. It is a private sector response."
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0012-79-19034": [
+      {
+        "point_number": 1,
+        "point_content": "Wholesale prices soaring due to global supply and demand issues have caused energy suppliers' margins to be squeezed to breaking point, contributing to rising electricity prices.",
+        "spans": [
+          "With wholesale prices soaring, the energy industry is in turmoil and we will all end up bearing the financial brunt.",
+          "Global supply and demand issues have caused wholesale gas prices to spike, which has squeezed the tight margins of our energy suppliers to breaking point."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "About 40% of electricity is generated by burning gas, so rising gas prices directly increase electricity prices.",
+        "spans": [
+          "Since about 40% of electricity is generated by burning gas, both fuel costs are rising (including for the many ‘green’ suppliers that actually buy their electricity from the wholesale market)."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Electricity prices have risen significantly in recent years, with a standard electricity bill increasing 9% from Q2 2020 to Q2 2021.",
+        "spans": [
+          "Electricity prices have risen significantly in recent years. A standard electricity bill increased 9% from Q2 2020 to Q2 2021."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The supplier profit margin is approximately 1%, so most of the bill covers wholesale costs, network costs, operating costs, environmental and social obligation costs, and VAT.",
+        "spans": [
+          "The supplier profit margin is approximately 1%. The rest of the bill covers: Wholesale costs (32%) - the energy your supplier buys (often in advance). Network costs (23%) - network operators maintain the transmission of electricity to your home. Operating costs (17%) - customer service and IT. Environmental and social obligation costs (20%) - FiT, warm home discount, Energy Company Obligation etc. VAT (5%)."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The transition to renewable energy has led to costs such as investment in technology to manage variable supply, new transmission infrastructure, and legacy costs from previous renewable contracts and subsidies, which add to electricity prices.",
+        "spans": [
+          "The variable and intermittent nature of renewables requires investment in technology to counterbalance that variance in frequency. They also need to be situated in optimal locations, which can result in new transmission infrastructure stretching over longer distances.",
+          "Part of the cost of the UK’s renewable supply is legacy - the price agreed for previous generators when they were brought online (at much higher rates than the present). We also have to pay for subsidies like the Feed-in Tariff and Renewable Heat Incentive. Bundled together, these ‘green levies’ have built up year-on-year:"
+        ]
+      }
+    ],
+    "clueweb22-en0001-70-15775": [
+      {
+        "point_number": 1,
+        "point_content": "Gas, coal and electricity prices have in recent weeks risen to their highest levels in decades.",
+        "spans": [
+          "Gas, coal and electricity prices have in recent weeks risen to their highest levels in decades."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "These increases have been caused by a combination of factors, but it is inaccurate and misleading to lay the responsibility at the door of the clean energy transition.",
+        "spans": [
+          "These increases have been caused by a combination of factors, but it is inaccurate and misleading to lay the responsibility at the door of the clean energy transition."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The historic plunge in global energy consumption in the early months of the Covid-19 crisis last year drove the prices of many fuels to their lowest levels in decades. But since then, they have rebounded strongly, mainly as a result of an exceptionally rapid global economic recovery, a cold and long winter in the Northern Hemisphere, and a weaker-than-expected increase in supply.",
+        "spans": [
+          "The historic plunge in global energy consumption in the early months of the Covid-19 crisis last year drove the prices of many fuels to their lowest levels in decades. But since then, they have rebounded strongly, mainly as a result of an exceptionally rapid global economic recovery (this year is on track for the fastest post-recession growth in 80 years ), a cold and long winter in the Northern Hemisphere, and a weaker-than-expected increase in supply."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Natural gas prices have seen the biggest increase, with European and Asian benchmark prices hitting an all-time record last week – around ten times their level a year ago.",
+        "spans": [
+          "Natural gas prices have seen the biggest increase, with European and Asian benchmark prices hitting an all-time record last week – around ten times their level a year ago."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The strong increases in natural gas prices have prompted substantial switching to the use of coal rather than natural gas to generate electricity in key markets, including the United States, Europe and Asia.",
+        "spans": [
+          "The strong increases in natural gas prices have prompted substantial switching to the use of coal rather than natural gas to generate electricity in key markets, including the United States, Europe and Asia."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "The higher gas and coal prices, combined with rising European carbon prices, have resulted in higher electricity prices.",
+        "spans": [
+          "The higher gas and coal prices, combined with rising European carbon prices, have resulted in higher electricity prices."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "The current high coal and gas prices are not the result of a single “shock event” on the demand or supply side. Rather, they result from a combination of supply and demand factors that gradually tightened markets over the course of several months and even years.",
+        "spans": [
+          "The current high coal and gas prices are not the result of a single “shock event” on the demand or supply side. Rather, they result from a combination of supply and demand factors that gradually tightened markets over the course of several months and even years."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Investments in oil and natural gas have declined in recent years as a result of two commodity price collapses – in 2014-15 and in 2020. This has made supply more vulnerable to the sorts of exceptional circumstances that we see today.",
+        "spans": [
+          "Investments in oil and natural gas have declined in recent years as a result of two commodity price collapses – in 2014-15 and in 2020. This has made supply more vulnerable to the sorts of exceptional circumstances that we see today."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Governments have not been pursuing strong enough policies to scale up clean energy sources and technologies to fill the gap.",
+        "spans": [
+          "At the same time, governments have not been pursuing strong enough policies to scale up clean energy sources and technologies to fill the gap."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Both natural gas and coal demand recorded strong gains across key markets in the first half of 2021 as the global economy rebounded.",
+        "spans": [
+          "Against this backdrop, both coal and natural gas demand recorded strong gains across key markets in the first half of 2021 as the global economy rebounded."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "These rises were driven by a number of weather-related events, including a cold winter in the Northern Hemisphere, droughts that curtailed hydropower output in Brazil and elsewhere, and lower-than-average wind generation in Europe.",
+        "spans": [
+          "As well as the economic recovery, these rises were driven by a number of weather-related events, including a cold winter in the Northern Hemisphere, droughts that curtailed hydropower output in Brazil and elsewhere, and lower-than-average wind generation in Europe."
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "In terms of supply, both natural gas and coal have faced constraints due to maintenance work, unplanned outages, upstream supply issues, unforeseen repair works, and project delays.",
+        "spans": [
+          "In terms of supply, both natural gas and coal have faced constraints. The Covid-19 lockdowns pushed some maintenance work from 2020 into 2021, which weighed on supply at a time when demand was recovering. The impact was particularly tangible in the UK and Norwegian areas of the North Sea Continental Shelf. In addition, unplanned outages at LNG liquefaction plants, upstream supply issues, unforeseen repair works, and project delays all further tightened the global gas market."
+        ]
+      },
+      {
+        "point_number": 13,
+        "point_content": "Russia’s Gazprom reduced its exposure to short-term sales and has not replenished its own storage sites in Europe to the levels seen in previous years.",
+        "spans": [
+          "Russia’s Gazprom, while honouring its long-term supply contracts, reduced its exposure to short-term sales and has not replenished its own storage sites in Europe to the levels seen in previous years."
+        ]
+      },
+      {
+        "point_number": 14,
+        "point_content": "Gas supplies from the Groningen fields in the Netherlands, which are being closed in 2022, continue to be reduced as planned.",
+        "spans": [
+          "Gas supplies from the Groningen fields in the Netherlands, which are being closed in 2022, continue to be reduced as planned."
+        ]
+      },
+      {
+        "point_number": 15,
+        "point_content": "Coal demand in China was up more than 10% in the first half of 2021 from the same period a year earlier, but coal production increased just over 5%, pushing up prices.",
+        "spans": [
+          "We estimate coal demand in China was up more than 10% in the first half of 2021 from the same period a year earlier, but coal production increased just over 5%, pushing up prices."
+        ]
+      },
+      {
+        "point_number": 16,
+        "point_content": "Disruptions among major exporters – in particular Indonesia, Australia and South Africa – pushed up coal prices further.",
+        "spans": [
+          "Disruptions among major exporters – in particular Indonesia, the world’s largest thermal coal exporter, and to a lesser extent Australia and South Africa –pushed up prices further."
+        ]
+      },
+      {
+        "point_number": 17,
+        "point_content": "High prices for natural gas, the main competitor of coal in power markets, also supported coal prices.",
+        "spans": [
+          "High prices for natural gas, the main competitor of coal in power markets, also supported coal prices."
+        ]
+      },
+      {
+        "point_number": 18,
+        "point_content": "European underground gas storage levels at the end of September were 15% below their five-year average levels, increasing Europe’s reliance on gas imports through the heating season.",
+        "spans": [
+          "Due to strong demand growth and tighter-than-expected supply, European underground gas storage levels at the end of September were 15% below their five-year average levels. Low storage levels are expected to further increase Europe’s reliance on gas imports through the heating season."
+        ]
+      },
+      {
+        "point_number": 19,
+        "point_content": "In Brazil, the prolonged drought left the country’s huge water reservoir levels 25% below their five-year average by the beginning of October, which could lead to further demand for LNG imports.",
+        "spans": [
+          "In Brazil, the prolonged drought left the country’s huge water reservoir levels 25% below their five-year average by the beginning of October, which could lead to further demand for LNG imports in the coming months."
+        ]
+      },
+      {
+        "point_number": 20,
+        "point_content": "Low inventories ahead of the winter season in China and other key consuming regions are causing concerns for the coal market.",
+        "spans": [
+          "Prospects for the coal market, with low inventories ahead of the winter season not only in China but in all key consuming regions, are little better."
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "question": "how mushrooms can help save the world",
+  "key_points": {
+    "clueweb22-en0001-41-14780": [
+      {
+        "point_number": 1,
+        "point_content": "Mushrooms can clean up oil spills and absorb radiation from contaminated soil and water.",
+        "spans": [
+          "These could clean up oil spills all over the planet",
+          "many species are able to remove and absorb heavy metals, including radioactive isotopes, from soil"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Mushrooms can be used in mycorestoration to remediate polluted environments and improve soil and water quality.",
+        "spans": [
+          "mycorestoration, a nascent field encompassing his own and other researchers’ work in mycofiltration, mycoremediation, mycoforestry and mycopesticides",
+          "mycelial wastewater filtration systems",
+          "mushrooms on old logging roads to prevent silt and pollutants from clogging streams"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Mushrooms produce compounds that can serve as antibiotics, antivirals, immune boosters, and chemotherapies.",
+        "spans": [
+          "Mushrooms could provide new antibiotic, antiviral and immune-boosting compounds and even chemotherapies",
+          "Several of his proprietary strains of Agarikon (Fomitopsis officinalis) showed strong activity against H1N1 swine flu and H5N1 bird flu, as well as viruses in the smallpox family"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Mushrooms can be used as natural pesticides that are nontoxic to humans.",
+        "spans": [
+          "He used the proceeds to tear down his decaying house and build a new one",
+          "He wanted to use a natural pesticide that was nontoxic to humans",
+          "He sent away for a sample of Metarhizium anisopliae mold, known to kill termites and carpenter ants",
+          "He then took some of the white material and cultured it over many more generations, breeding a mutant strain of Metarhizium whose sporulation cycle was delayed for days or longer"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Mushrooms can speed reforestation and improve crop yields by symbiotic relationships with plants.",
+        "spans": [
+          "He improved crop yields on farms and sped up reforestation in woodlands by adding mycorrhizal fungi to soil",
+          "In one case he planted broccoli together with elm oyster mushrooms; in another, he dipped Douglas fir seedlings into a slurry of puffball mushroom spores"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Mushrooms can be grown rapidly in disaster zones for famine relief and can be used for biofuels and space travel.",
+        "spans": [
+          "Mushrooms could be grown rapidly in refugee camps and disaster zones, using just wood chips or saltwater-soaked straw",
+          "Growing mushrooms for biodiesel could require far less soil and other resources than commonly cultivated fuel crops",
+          "Because of their usefulness in soil creation, and the tolerance of many species for radiation, mushrooms could be grown by interstellar voyagers and used to terraform other worlds"
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0009-56-18597": [
+      {
+        "point_number": 1,
+        "point_content": "Growing more mushrooms may be the best thing we can do to save the environment.",
+        "spans": [
+          "growing more mushrooms may be the best thing we can do to save the environment"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Mycelium recycles carbon, nitrogen, and other essential elements by breaking down plant and animal debris to create rich new soil.",
+        "spans": [
+          "Microscopic cells called “mycelium”--the fruit of which are mushrooms--recycle carbon, nitrogen, and other essential elements as they break down plant and animal debris in the creation of rich new soil"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Mycelium can be used to decompose toxic wastes and pollutants (mycoremediation).",
+        "spans": [
+          "we can capitalize on mycelium’s digestive power and target it to decompose toxic wastes and pollutants (mycoremediation)"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Mycelium can catch and reduce silt from streambeds and pathogens from agricultural watersheds (mycofiltration).",
+        "spans": [
+          "catch and reduce silt from streambeds and pathogens from agricultural watersheds (mycofiltration)"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Mycelium can control insect populations (mycopesticides).",
+        "spans": [
+          "control insect populations (mycopesticides)"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Mycelium can enhance the health of forests and gardens (mycoforestry and myco-gardening).",
+        "spans": [
+          "generally enhance the health of our forests and gardens (mycoforestry and myco-gardening)"
+        ]
+      }
+    ]
+  }
+}

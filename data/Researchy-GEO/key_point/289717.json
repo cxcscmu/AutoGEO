@@ -1,0 +1,342 @@
+{
+  "question": "can global pollution be considered an economic failure?",
+  "key_points": {
+    "clueweb22-en0003-81-17951": [
+      {
+        "point_number": 1,
+        "point_content": "Pollution is a negative externality and an example of market failure where social costs exceed social benefits, leading to overproduction and environmental damage.",
+        "spans": [
+          "Pollution is an example of a negative externality.",
+          "Market failure is when the market does not allocate resources on its own efficiently in a way that balances social costs and benefits; externalities are one example of a market failure.",
+          "In the case of pollution, at the market output, social costs of production exceed social benefits to consumers, and the market produces too much of the product."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Economic production causes environmental damage, representing a tradeoff and a failure to account for all social costs in market transactions.",
+        "spans": [
+          "Economic production can cause environmental damage. This tradeoff arises for all countries, whether high-income or low-income, and whether their economies are market-oriented or command-oriented.",
+          "Social costs are costs that include both the private costs incurred by firms and also additional external costs incurred by third parties outside the production process."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Externalities occur when market exchanges impact third parties not involved in the transaction, leading to costs or benefits not reflected in market prices.",
+        "spans": [
+          "An externality, sometimes called a spillover, occurs when an exchange between a buyer and seller has an impact on a third party who is not part of the exchange. Externalities can be positive or negative."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Because markets do not consider all social costs due to externalities like pollution, this results in market failure and inefficient resource allocation.",
+        "spans": [
+          "Because externalities represent a case where markets no longer consider all social costs but only some of them, economists commonly refer to externalities as an example of market failure."
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0002-73-13352": [
+      {
+        "point_number": 1,
+        "point_content": "Pollution is an example of market failure caused by negative externalities where the private cost of production does not reflect the social cost, leading to overproduction and inefficient resource allocation.",
+        "spans": [
+          "In the real world, pollution is served as an example of market failure.",
+          "Without a “market” for pollution, that firm could pollute the lake without cost.",
+          "The optimum amount of output is wrongly produced due to the difference between the private supplier’s comparison of benefits and marginal costs and society’s comparison of marginal benefits and costs.",
+          "In this situation, the resources of chemical firm were overallocated, leading to market failure"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Market failure occurs when economic resources are not allocated effectively due to imperfect market demand and supply curves, leading to inefficient outcomes.",
+        "spans": [
+          "market failure occurs when economic resources are not allocated effectively caused by the market demand and supply curves working imperfectly.",
+          "‘In the absence of any distortions, competitive equilibrium is efficient. By using the term market failure to cover all the circumstances in which market equilibrium is inefficient’"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Negative externalities, such as pollution, impose costs on third parties without compensation, causing market failure.",
+        "spans": [
+          "In economy, externalities are divided into two parts, positive externalities and negative externalities.",
+          "The latter one is incurred by inflicting the cost on the third party without payment to it.",
+          "According to the diagram, in this case pollution, negative externalities occurs."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Government intervention through specific taxes or legislation can correct market failure caused by pollution by internalizing the social cost and reducing output to the socially optimal level.",
+        "spans": [
+          "Solutions to market failure have two basic forms, including specific taxes and legislation.",
+          "the government should design policy such as specific tax charges to motivate the firm be aware of the charging fees due to pollution.",
+          "a tax equal to T per unit will increase the cost of the chemical firm, which will shift the SS curve to StSt curve.",
+          "the government can also pass legislation to solve market failure.",
+          "if the chemical factory will be fined by the government if they dispose wastewater into the lake, they will spontaneously construct more wastewater treatment equipment for discharges.",
+          "Hence, the firm’s cost increases from S curve to St curve.",
+          "The output has been brought back to the optimum social output Qo, so the negative externality was eliminated now."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "High levels of environmental pollution represent significant market failure due to the use of free common resources, and government must balance environmental protection with economic development.",
+        "spans": [
+          "Nowadays, a high level of environment pollution contributes to the significant market failure since the use of free common resources, such as air or water.",
+          "our government must strike a balance between protecting the environment and developing the economy.",
+          "We must take responsibility to protect the environment. However, the cost of protection has to be taken into consideration when developing economy."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Market-based incentives, such as trading pollution rights, can motivate polluters to reduce pollution efficiently without government intervention.",
+        "spans": [
+          "In the United States, the market has been extended to a new level for some heavy industries, which allows us to attach a reasonable price tag on each common property.",
+          "Because of trading of pollution rights in our new market, we don’t need the government intervention any more when we reduce the pollution, the efficiency of the market based incentives for polluters to reduce pollution to an optimal extent can never been underestimated.",
+          "The manufacturers might be motivated to develop new cost-efficient ways or do research on new technologies to help protect the environment.",
+          "Hence, negative externalities could be eliminated and the cost of reducing pollution may stay at relatively low level in the long run."
+        ]
+      }
+    ],
+    "clueweb22-en0044-26-01156": [
+      {
+        "point_number": 1,
+        "point_content": "The economy exerts phenomenal pressure on Earth and there is no free natural capital left, affecting biodiversity, freshwater, atmosphere, coral reefs, oceans, forests and ice sheets which regulate Earth's stability and the economy.",
+        "spans": [
+          "the economy exerts phenomenal pressure on Earth",
+          "There is no free natural capital left",
+          "All remaining biodiversity, freshwater, atmosphere, coral reefs, oceans, forests and ice sheets play a direct role in regulating the stability of Earth and thereby the economy"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The economic system was developed when the global environmental impact was not considered, allowing free pollution without consequences, which is no longer sustainable.",
+        "spans": [
+          "our economic system was developed, from Adam Smith to Keynes, when we were still a \"small world on a big planet\"",
+          "We could emit greenhouse gases for free, empty oceans for free, pollute polar regions for free, without risking invoices being sent back from Earth"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The economy remains locked in the tragedy of the commons, with economic growth causing unaccounted environmental costs and rising risks of catastrophe, unable to internalize real Earth costs.",
+        "spans": [
+          "the economy remains frustratingly locked in the tragedy of the commons",
+          "Economic growth comes with unaccounted environmental costs and with it, rising risks of catastrophe",
+          "The economy remains unable to internalize real Earth costs"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Valuing nature is the number one economic threat to humanity, requiring not only monetization but also ethics, inclusiveness and justice beyond economics.",
+        "spans": [
+          "Today, the number one economic threat to humanity is our inability to value nature",
+          "valuing nature also means that we have to accept leaving the realm of economics. We enter the realm of ethics, inclusiveness and justice"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Conventional economic theory and market-based discount rates fail in a non-linear world where environmental tipping points cause unpredictable and potentially catastrophic costs.",
+        "spans": [
+          "When costs for society go from predictable to non-predictable, from manageable to potentially infinitely dangerous, then we can no longer use market based discount rates to assess where it is most cost-effective to place our investments",
+          "In essence this means that in a non-linear world - where Earth sends invoices - the conventional economic theory falls apart"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "The current economic model is linear, focusing on throughput and efficiency, which is incompatible with a sustainable future requiring circular economic principles.",
+        "spans": [
+          "Our economic system builds on linear principles focused on throughput, optimization and cost-benefit efficiency",
+          "There is no such thing as a Fourth Industrial Revolution with 9 billion thriving co-citizens in the world, if it is accomplished on linear economic principles",
+          "We need a transition to circular economic principles and practice"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Economic growth does not trickle down to the poor and is achieved through unsustainable subsidies from the planet, with costs borne by the poorest communities.",
+        "spans": [
+          "economic growth - as shown by Piketty and others, does not trickle down to the poor",
+          "economic wealth in the world so far is accomplished through unsustainable subsidies from the planet, while the cost for these subsidies are largely taken up by others, in general to poorest communities"
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Cost-benefit analyses fail to account for long-term and existential global risks, such as irreversible melting of the Greenland ice sheet and sea level rise.",
+        "spans": [
+          "Cost-benefit analyses no longer work for natural capital",
+          "We may, already when transgressing 2C, trigger the irreversible melting of the Greenland ice sheet",
+          "Still, the economy is unable to place any value whatsoever to long-term infinite and existential global risk"
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Global risks are too high and the benefits of sustainable development are not recognized, leading to failure in creating the right market incentives and continued unsustainable behavior.",
+        "spans": [
+          "Global risks are too high, and the benefits of transitioning to global sustainable development are not recognised",
+          "We are failing to create the right incentives on the market",
+          "Unsustainable behaviour still gives the highest returns"
+        ]
+      }
+    ],
+    "clueweb22-en0021-44-09371": [
+      {
+        "point_number": 1,
+        "point_content": "Air pollution has a $2.9 trillion economic cost, equating to 3.3 percent of the world's GDP.",
+        "spans": [
+          "it is estimated that air pollution has a $2.9 trillion economic cost, equating to 3.3 percent of the world's GDP"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Air pollution leads to health issues that reduce work ability and labor force participation, impacting the economy.",
+        "spans": [
+          "It can have an impact on the economy in many forms such as higher rates of asthma, diabetes or chronic respiratory diseases leading to reduced ability to work and lower participation rates in the labor force"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Disability from chronic diseases caused by air pollution cost the world's economy $200 billion in 2018, with sick leave and preterm births costing $100 billion and $90 billion respectively.",
+        "spans": [
+          "disability from chronic diseases cost the world's economy $200 billion in 2018, with sick leave and preterm births costing $100 billion and $90 billion respectively"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The total annual cost of air pollution in China is estimated to be $900 billion each year, with costs in the U.S. running to $600 billion annually, and in India $150 billion per year on average.",
+        "spans": [
+          "The total annual cost of air pollution in China is estimated to be $900 billion each year with costs in the U.S. running to $600 billion annually",
+          "the issue costs the country $150 billion per year on average"
+        ]
+      }
+    ],
+    "clueweb22-en0019-27-07313": [
+      {
+        "point_number": 1,
+        "point_content": "Pollution is a negative externality that causes social costs beyond private costs of production.",
+        "spans": [
+          "Pollution is a negative externality.",
+          "The social costs include the private costs of production incurred by the company and the external costs of pollution that are passed on to society."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Externalities represent a market failure because markets do not consider all social costs.",
+        "spans": [
+          "Because externalities represent a case where markets no longer consider all social costs, but only some of them, economists commonly refer to externalities as an example of market failure."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "When pollution externalities exist, the market produces too much of the product because social costs exceed social benefits.",
+        "spans": [
+          "In the case of pollution, at the market output, social costs of production exceed social benefits to consumers, and the market produces too much of the product."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "If firms were required to pay the social costs of pollution, they would produce less pollution and less product, and charge a higher price.",
+        "spans": [
+          "If firms were required to pay the social costs of pollution, they would create less pollution but produce less of the product and charge a higher price."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "An externality occurs when an exchange affects a third party who is not part of the exchange, and can be negative or positive.",
+        "spans": [
+          "An externality occurs when an exchange between a buyer and seller has an impact on a third party who is not part of the exchange.",
+          "Externalities can be negative or positive."
+        ]
+      }
+    ],
+    "clueweb22-en0035-27-03973": [
+      {
+        "point_number": 1,
+        "point_content": "Pollution is a significant negative externality and can result from a number of activities.",
+        "spans": [
+          "Pollution is a significant negative externality and can result from a number of activities."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The environment is regarded as a scarce resource and care for the environment is increasingly seen as an important economic objective.",
+        "spans": [
+          "The environment is regarded as a scarce resource and care for the environment is increasingly seen as an important economic objective."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The key debate is the extent to which markets fail to conserve the environment as a scarce resource.",
+        "spans": [
+          "The key debate is the extent to which markets fail to conserve the environment as a scarce resource."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The economic theory of pollution suggests that producers and consumers do not take carbon and other chemical emissions into account when they calculate their marginal private cost and benefit.",
+        "spans": [
+          "The economic theory of pollution suggests that producers and consumers do not take carbon and other chemical emissions into account when they calculate their marginal private cost and benefit."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "This makes it extremely difficult for markets to resolve the pollution problem.",
+        "spans": [
+          "This makes it extremely difficult for markets to resolve the pollution problem."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "With carbon pollution, property rights over the atmosphere cannot be established, and specific polluters cannot be identified and sued directly.",
+        "spans": [
+          "with carbon pollution, property rights over the atmosphere cannot be established, and specific polluters cannot be identified and sued directly."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "This means that there is no ‘built-in’ incentive to be a non-polluter.",
+        "spans": [
+          "This means that there is no ‘built-in’ incentive to be a non-polluter."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Selling permits to pollute, and taxing polluters work by manipulating market forces to encourage consumers and producers to take externalities into account when planning their consumption and production.",
+        "spans": [
+          "Selling permits to pollute, and taxing polluters work by manipulating market forces to encourage consumers and producers to take externalities into account when planning their consumption and production."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Polluters are forced to consider pollution as a private cost.",
+        "spans": [
+          "In other words, polluters are forced to consider pollution as a private cost."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "In many cases, it may efficient for government to impose specific taxes on polluting activities.",
+        "spans": [
+          "In many cases, it may efficient for government to impose specific taxes on polluting activities."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "The effect of the tax is to internalise the externality, and help achieve the socially efficient level of pollution.",
+        "spans": [
+          "The effect of the tax is to internalise the externality, and help achieve the socially efficient level of pollution."
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "A major criticism of legislation and prohibition is that it is difficult and costly to police.",
+        "spans": [
+          "A major criticism of legislation and prohibition is that it is difficult and costly to police."
+        ]
+      },
+      {
+        "point_number": 13,
+        "point_content": "There is also an assumption that government knows the best way to control behaviour, but, like markets, government may also suffer from information failure.",
+        "spans": [
+          "There is also an assumption that government knows the best way to control behaviour, but, like markets, government may also suffer from information failure."
+        ]
+      }
+    ]
+  }
+}

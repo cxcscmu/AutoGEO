@@ -1,0 +1,377 @@
+{
+  "question": "why are opioids a problem",
+  "key_points": {
+    "clueweb22-en0046-21-06981": [
+      {
+        "point_number": 1,
+        "point_content": "Opioids can be dangerous because at higher doses they can slow breathing and heart rate, which can lead to death.",
+        "spans": [
+          "At lower doses, opioids may make you feel sleepy, but higher doses can slow your breathing and heart rate, which can lead to death."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The pleasurable feelings caused by opioids can lead to addiction.",
+        "spans": [
+          "And the feelings of pleasure that result from taking an opioid can make you want to continue experiencing those feelings, which may lead to addiction."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Opioids are dangerous when used incorrectly, despite being safe when used as directed by a doctor.",
+        "spans": [
+          "There are risks, though, when the medications are used incorrectly."
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0012-00-07450": [
+      {
+        "point_number": 1,
+        "point_content": "Opioid abuse can lead to addiction and death.",
+        "spans": [
+          "When opioid abuse becomes serious and frequent, it can lead to addiction and death."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Opioids are widely available and this availability contributes to addiction.",
+        "spans": [
+          "Opioids have become widely available, either via prescription or the black market, and this increasing availability is contributing to an escalation in the number of people who become addicted."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "High-potency opioids are very addictive and dangerous, leading to record overdose levels.",
+        "spans": [
+          "Users are finding it easy to access opioids that are very potent and therefore quite dangerous.",
+          "High-potency opioids are some of the most, if not the most, addictive drugs in the world.",
+          "They are flooding the market and people are overdosing on them at record levels."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "COVID-19 pandemic increased opioid overdose deaths due to elimination of addiction treatment and social distancing.",
+        "spans": [
+          "In 2020, the spread of COVID-19 in the United States also complicated efforts to curb opioid abuse.",
+          "According to the American Medical Association, opioid overdose deaths have increased in more than 40 states.",
+          "a primary cause may be the elimination of addiction treatment programs and increased social distancing demands — which could drive people to use drugs as a coping mechanism."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Opioids bind to brain receptors causing pain relief and triggering reward systems, making them highly addictive.",
+        "spans": [
+          "Opiates and opioids bind to receptors in the brain, causing the receptors to release signals that block pain.",
+          "Since one of these receptors, the mu-opioid receptor, triggers reward systems in the brain, opioids are highly addictive."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "The opioid crisis is an epidemic of abuse, overdoses, and deaths in the US, worsened by high-potency synthetic opioids like fentanyl.",
+        "spans": [
+          "In short, the opioid crisis is an epidemic of abuse, overdoses, and deaths in the United States.",
+          "Synthetic opioids have brought abuse levels to a fever pitch, signaling an epidemic of epic proportions"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Fentanyl is 80 to 100 times more powerful than morphine and figures prominently in the epidemic.",
+        "spans": [
+          "Fentanyl, which figures prominently in today’s epidemic, is 80 to 100 times more powerful than morphine."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Aggressive marketing of opioids as non-addictive in the 1990s contributed to the epidemic.",
+        "spans": [
+          "Purdue Pharma began aggressively marketing Oxycontin in 1995 as a safer and less addictive pain killer which later went into litigation for misleading advertisement.",
+          "Many observers point to pharmaceutical companies’ aggressive marketing of opioids to the medical community in the 1990s."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Increased opioid prescriptions from 1992 to 2012 contributed to addiction and transition to heroin use.",
+        "spans": [
+          "Between 1992 and 2012, the number of opioid prescriptions increased from 112 million to 282 million.",
+          "Starting in 1992, doctors began prescribing opioids at an increasing rate. By 2012, there were more than two and a half times the number of opioid prescriptions than there were in 1992.",
+          "When prescriptions ran out, users began turning to heroin, which can be laced with deadly fentanyl."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Tolerance develops requiring increased dosage, leading to addiction.",
+        "spans": [
+          "Researchers have long known that users develop a tolerance.",
+          "Users need to increase their dosage to experience pleasure.",
+          "Addiction begins with abuse.",
+          "As a user continues to abuse opioids, they develop a tolerance, meaning they have to keep increasing the dosage to achieve the same high."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Opioid abuse causes physical, behavioral, and psychological effects and withdrawal symptoms.",
+        "spans": [
+          "Opioids have short-term and long-term effects.",
+          "Physical Signs",
+          "Behavioral Signs",
+          "Psychological Signs",
+          "Signs of Opioid Withdrawal"
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "Opioid overdose deaths are very high and increasing, with over 130 deaths daily in the US.",
+        "spans": [
+          "The Department of Health and Human Services reported that over 130 people in the US died from opioid overdoses every day in 2016 and 2017.",
+          "According to Dr. Sanjay Gupta, every 19 minutes someone dies of a drug overdose in America.",
+          "All told, the CDC reports that over 130 people die of an opioid overdose daily."
+        ]
+      }
+    ],
+    "clueweb22-en0024-54-14667": [
+      {
+        "point_number": 1,
+        "point_content": "Opioids can cause side effects such as drowsiness, mental fog, nausea, and constipation. They may also cause slowed breathing, which can lead to overdose deaths.",
+        "spans": [
+          "Opioids can cause side effects such as drowsiness, mental fog, nausea, and constipation.",
+          "They may also cause slowed breathing, which can lead to overdose deaths."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Other risks of using prescription opioids include dependence and addiction.",
+        "spans": [
+          "Other risks of using prescription opioids include dependence and addiction."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Dependence means feeling withdrawal symptoms when not taking the drug. Addiction is a chronic brain disease that causes a person to compulsively seek out drugs, even though they cause harm.",
+        "spans": [
+          "Dependence means feeling withdrawal symptoms when not taking the drug.",
+          "Addiction is a chronic brain disease that causes a person to compulsively seek out drugs, even though they cause harm."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The risks of dependence and addiction are higher if you misuse the medicines.",
+        "spans": [
+          "The risks of dependence and addiction are higher if you misuse the medicines."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Misuse can include taking too much medicine, taking someone else's medicine, taking it in a different way than you are supposed to, or taking the medicine to get high.",
+        "spans": [
+          "Misuse can include taking too much medicine, taking someone else's medicine, taking it in a different way than you are supposed to, or taking the medicine to get high."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Opioid misuse, addiction, and overdoses are serious public health problems in the United States.",
+        "spans": [
+          "Opioid misuse, addiction, and overdoses are serious public health problems in the United States."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "More women are misusing opioids during pregnancy, which can lead to babies being addicted and going through withdrawal, known as neonatal abstinence syndrome (NAS).",
+        "spans": [
+          "Another problem is that more women are misusing opioids during pregnancy.",
+          "This can lead to babies being addicted and going through withdrawal, known as neonatal abstinence syndrome (NAS)."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Opioid misuse may sometimes also lead to heroin use, because some people switch from prescription opioids to heroin.",
+        "spans": [
+          "Opioid misuse may sometimes also lead to heroin use, because some people switch from prescription opioids to heroin."
+        ]
+      }
+    ],
+    "clueweb22-en0037-55-19007": [
+      {
+        "point_number": 1,
+        "point_content": "Opioids hijack the brain's dopamine circuit, making the person hyper-focused on getting the drug at the expense of other rewards, leading to addiction.",
+        "spans": [
+          "All drugs … eventually hijack the dopamine circuit in the brain.",
+          "The person becomes hyper-focused on getting the drug at the expense of other rewards in the environment."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Opioid addiction is characterized by dependence, where a person needs the drug to be functional and receives less pleasure from it.",
+        "spans": [
+          "Dependence on the substance is a defining characteristic of addiction and one that is especially evident in opioid addiction.",
+          "When dependent, a person receives less pleasure from the drug and simply needs it to be functional—to “get up and do the day,” as Nusslock said."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The opioid crisis has been driven largely by increased prescribing of opioids by healthcare providers, not primarily by economic distress.",
+        "spans": [
+          "Most of the evidence points to the opioid crisis being driven by the supply side.",
+          "If you look across the U.S., areas with the greatest increases in prescribing also saw the greatest increases in opioid-related mortality."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The opioid crisis is complicated by the presence of fentanyl, a more dangerous synthetic opioid, which has increased overdose deaths.",
+        "spans": [
+          "the growing availability of a more dangerous synthetic opioid called fentanyl",
+          "In addition to the spike in fatal opioid overdoses during the pandemic, Mason and Feinglass found an increasing presence of fentanyl in opioid overdoses.",
+          "Fentanyl, a lab-produced compound, is lethal in tiny quantities and replacing heroin, Feinglass adds."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Stress and social adversity increase the risk of opioid addiction by affecting the brain's reward system.",
+        "spans": [
+          "stress triggers our brain’s reward circuits.",
+          "Nusslock and Miller show that adversity early in life increases inflammation that alters the brain’s reward system and leaves it less sensitive to reward."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "The opioid crisis has led to a high number of deaths, with 136 Americans dying every day from an opioid overdose.",
+        "spans": [
+          "136 Americans die every day from an opioid overdose.",
+          "In all, more than 840,000 Americans have died of opioid-related causes since 1999."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "The opioid crisis is a complex public health issue that requires a multi-systems approach including better prescribing practices, treatment access, and addressing social determinants.",
+        "spans": [
+          "I think approaching something like addiction, whether it's opioids, alcohol, or other substances, really requires a multi-systems perspective.",
+          "Reducing prescriptions should be paired with policies that provide better access to treatment for populations already addicted to opioids."
+        ]
+      }
+    ],
+    "clueweb22-en0021-27-10212": [
+      {
+        "point_number": 1,
+        "point_content": "Opioid abuse is dangerous due to the high risk of overdose which can lead to respiratory depression and cardiac arrest.",
+        "spans": [
+          "The overdose risk is just some of the reasons why opioid abuse is so dangerous.",
+          "With overdose, there is respiratory depression that can lead to cardiac arrest as breathing can halt entirely. This is the main reason why opioid abuse is so dangerous in the short term."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Long term opioid abuse is dangerous because of its addictive properties leading to dependence and changes in brain chemistry reducing natural feel-good chemicals.",
+        "spans": [
+          "The main reason why opioid abuse is so dangerous in the long term is due to the addictive properties that the substance has.",
+          "The more the drug is abused, the more their brain chemistry tries to adjust, eventually leading to reduced amounts of natural feel-good chemicals, and in some cases, production may stop entirely."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Long term opioid abuse can cause severe negative health effects including brain damage, dependence, severe cravings, constipation, abdominal pain, vomiting, nausea, liver damage and possible failure.",
+        "spans": [
+          "As a person becomes addicted to the substance, they will begin to experience other negative effects including the following: Possible brain damage due to respiratory depression Dependence Severe Cravings Constipation Abdominal bloating and pain Vomiting and nausea Liver damage and possible failure"
+        ]
+      }
+    ],
+    "clueweb22-en0001-82-09798": [
+      {
+        "point_number": 1,
+        "point_content": "Opioids can be highly addictive and cause psychological dependence due to the feelings of pleasure they produce.",
+        "spans": [
+          "they can be highly addictive",
+          "The feelings of pleasure that result from taking an opioid can also make people want to continue experiencing those feelings, which can contribute to psychological dependence on the drugs"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Higher doses of opioids can slow breathing and heart rate, potentially leading to death.",
+        "spans": [
+          "higher doses of the drugs can slow your breathing and heart rate, which can lead to death"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Mixing opioids with alcohol or other sedatives can have serious consequences.",
+        "spans": [
+          "Mixing any opioid painkillers with alcohol, or with other sedatives such as benzodiazepines, can also have serious consequences"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Opioids are heavily prescribed in the US partly because they are easy to prescribe and insurance often only covers pills, not alternative treatments like physical therapy.",
+        "spans": [
+          "opioids are easy to prescribe, and for many poor people their insurance won't pay for anything but a pill",
+          "So doctors get very ready to pull out the prescription pad"
+        ]
+      }
+    ],
+    "clueweb22-en0027-96-16039": [],
+    "clueweb22-en0023-27-07768": [
+      {
+        "point_number": 1,
+        "point_content": "Opioid use — even short term — can lead to addiction and, too often, overdose.",
+        "spans": [
+          "Opioid use — even short term — can lead to addiction and, too often, overdose."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "These drugs are responsible for the majority of overdose deaths in the U.S. today.",
+        "spans": [
+          "these drugs are responsible for the majority of overdose deaths in the U.S. today."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Opioids are highly addictive because they activate powerful reward centers in your brain.",
+        "spans": [
+          "Opioids are highly addictive, in large part because they activate powerful reward centers in your brain."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Opioids trigger the release of endorphins, creating a temporary but powerful sense of well-being, leading to craving when the dose wears off.",
+        "spans": [
+          "Opioids trigger the release of endorphins, your brain's feel-good neurotransmitters. Endorphins muffle your perception of pain and boost feelings of pleasure, creating a temporary but powerful sense of well-being. When an opioid dose wears off, you may find yourself wanting those good feelings back, as soon as possible."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Repeated opioid use leads to tolerance, causing users to increase doses to keep feeling good, which contributes to addiction.",
+        "spans": [
+          "When you take opioids repeatedly over time, your body slows its production of endorphins. The same dose of opioids stops triggering such a strong flood of good feelings. This is called tolerance. One reason opioid addiction is so common is that people who develop tolerance may feel driven to increase their doses so they can keep feeling good."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Some opioid users turn to illegally obtained opioids or heroin, which can be laced with contaminants or more powerful opioids like fentanyl, leading to many deaths.",
+        "spans": [
+          "Some opioid users who believe they need an increased supply turn, at this point, to illegally obtained opioids or heroin. Some illegally obtained drugs, such as fentanyl (Actiq, Duragesic, Fentora), are laced with contaminants, or much more powerful opioids. Because of the potency of fentanyl, this particular combination has been associated with a significant number of deaths in those using heroin."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Taking opioids in ways different from prescribed or taking more than prescribed increases risk of addiction and overdose.",
+        "spans": [
+          "Opioids are most addictive when you take them using methods different from what was prescribed, such as crushing a pill so that it can be snorted or injected.",
+          "Taking more than your prescribed dose of opioid medication, or more often than prescribed, also increases your risk of addiction."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Taking opioid medications for more than a few days increases risk of long-term use and addiction.",
+        "spans": [
+          "Researchers have found that taking opioid medications for more than a few days increases your risk of long-term use, which increases your risk of addiction."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Additional factors like genetic, psychological, and environmental factors contribute to addiction risk.",
+        "spans": [
+          "A number of additional factors — genetic, psychological and environmental — play a role in addiction, which can happen quickly or after many years of opioid use."
+        ]
+      }
+    ]
+  }
+}

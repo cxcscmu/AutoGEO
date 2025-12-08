@@ -1,0 +1,69 @@
+{
+  "question": "are high intelligence and anxiety correlated",
+  "key_points": {
+    "null": [],
+    "clueweb22-en0041-45-00025": [
+      {
+        "point_number": 1,
+        "point_content": "There’s a very striking relationship between anxiety disorders and a high IQ.",
+        "spans": [
+          "there’s a very striking relationship between anxiety disorders and a high IQ"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "There’s a relationship between anxiety disorders and high intelligence, an evidence that has its origin in the cerebral white matter.",
+        "spans": [
+          "There’s a relationship between anxiety disorders and high intelligence, an evidence that has its origin in the cerebral white matter"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "They have confirmed that there’s an almost direct link between these brilliant, analytical minds and excessive worry and social anxiety.",
+        "spans": [
+          "They have confirmed that there’s an almost direct link between these brilliant, analytical minds and excessive worry and social anxiety"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "There are many psychiatrists and neuropsychologists around the world who have often come across the same problem. They have many high IQ patients who have chronic and generalized anxiety.",
+        "spans": [
+          "They have many high IQ patients who have chronic and generalized anxiety"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The connection between anxiety disorders and a high IQ and intelligence could be explained by a small cerebral anomaly in the brain’s white matter.",
+        "spans": [
+          "The connection between anxiety disorders and a high IQ and intelligence could be explained by a small cerebral anomaly in the brain’s white matter"
+        ]
+      }
+    ],
+    "clueweb22-en0039-82-05424": [
+      {
+        "point_number": 1,
+        "point_content": "Highly intelligent people are more likely to suffer from a range of serious disorders including mood and anxiety disorders.",
+        "spans": [
+          "The survey of Mensa’s highly intelligent members found that they were more likely to suffer from a range of serious disorders.",
+          "The biggest differences between the Mensa group and the general population were seen for mood disorders and anxiety disorders."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "More than a quarter of highly intelligent people reported mood disorders and 20 percent reported anxiety disorders, both far higher than national averages.",
+        "spans": [
+          "More than a quarter (26.7 percent) of the sample reported that they had been formally diagnosed with a mood disorder, while 20 percent reported an anxiety disorder—far higher than the national averages of around 10 percent for each."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The hyper brain/hyper body theory proposes that high intelligence is associated with psychological and physiological overexcitabilities, which may cause anxiety.",
+        "spans": [
+          "To explain their findings, Karpinski and her colleagues propose the hyper brain/hyper body theory.",
+          "According to the hyper brain/hyper body theory, these two types of OEs are more common in highly intelligent people and interact with each other in a “vicious cycle” to cause both psychological and physiological dysfunction.",
+          "That may trigger the body’s stress response, which may make the person even more anxious."
+        ]
+      }
+    ]
+  }
+}

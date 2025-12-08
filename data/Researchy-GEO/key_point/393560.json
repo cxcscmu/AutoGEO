@@ -1,0 +1,285 @@
+{
+  "question": "what makes a good neighborhood",
+  "key_points": {
+    "clueweb22-en0027-56-10913": [
+      {
+        "point_number": 1,
+        "point_content": "A good neighborhood matches your current lifestyle and demographics.",
+        "spans": [
+          "Is the neighborhood in sync with your current lifestyle? Both renters and homebuyers tend to gravitate to areas with similar demographics."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Pride in ownership among residents contributes to a good neighborhood.",
+        "spans": [
+          "Pride in ownership is obvious when the residents maintain their homes and care about their neighborhood."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Low crime rate is important for a good neighborhood.",
+        "spans": [
+          "Low crime rates give a neighborhood a sense of ease and calm."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Great schools make a neighborhood desirable, especially for families with children.",
+        "spans": [
+          "For homeowners and renters with children, great schools top the list of what makes a great neighborhood."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Access to outdoor activities enhances a neighborhood's appeal.",
+        "spans": [
+          "Being close to the outdoor adventures you love can sweeten the appeal of your neighborhood."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Neighborhoods with history and tree-lined streets are desirable and stable.",
+        "spans": [
+          "There’s something about an area with history that makes it very desirable. Tree-lined streets give neighborhoods a charming, older, and established feel."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Access to medical care is key for many people in a good neighborhood.",
+        "spans": [
+          "Being close enough to get to a hospital or doctor’s office quickly is key for many people, especially for seniors, retirees, and families with young children."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Family-friendly neighborhoods with many children are attractive for buyers with children.",
+        "spans": [
+          "Neighborhoods where plenty of families live are a real draw for buyers with children."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Close proximity to public transportation is a plus for a neighborhood.",
+        "spans": [
+          "Easy access to public transportation is a fantastic plus for a neighborhood and an amenity for almost any lifestyle."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Nearby shopping and restaurants add to a neighborhood's desirability.",
+        "spans": [
+          "If you want to join the hustle and bustle (and don’t want to cook dinner every night), having great restaurants, shopping, and markets in close proximity is a must!"
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Nightlife and entertainment options nearby can make a neighborhood lively and attractive.",
+        "spans": [
+          "Is there a nearby town center or downtown with movies, theaters, bars, and nightlife?"
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "Walkability to amenities makes a neighborhood more enjoyable.",
+        "spans": [
+          "Being able to leave the car keys at home and hit the pavement to walk to markets, shopping, restaurants, parks, and all the other amenities your neighborhood has to offer can alleviate a lot of road rage"
+        ]
+      }
+    ],
+    "clueweb22-en0020-21-11351": [
+      {
+        "point_number": 1,
+        "point_content": "A good neighborhood is in sync with your current lifestyle and caters to your specific needs.",
+        "spans": [
+          "A truly great neighborhood is one that is in sync with your current lifestyle, one that caters to your specific needs at this point in your life."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "A good neighborhood has lots of trees providing shade and serenity.",
+        "spans": [
+          "It has lots of trees",
+          "A green landscape with lots of trees can add a lot of value and character to a neighborhood.",
+          "Large trees and lush landscaping can offer some nice shade for your home during the summer time, plus it offers a quiet serenity all the time."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "You can move around in it without a car, with access to walking paths, bike trails, or streets with amenities.",
+        "spans": [
+          "You can move around in it without a car",
+          "Whether it is a natural hiking trail, a side street for bicycles or a nice street full of boutiques, the ability to move around in a neighborhood is a great quality.",
+          "Being able to leave the car keys at home and hit the pavement to walk to markets, parks, and all the other amenities your neighborhood has to offer can be a huge plus."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Essentials like grocery stores, pharmacies, retail services, bank branches, and restaurants are nearby.",
+        "spans": [
+          "You can find essentials nearby",
+          "In addition to grocery stores and pharmacies, homeowners should have easy access to retail services, bank branches, and restaurants."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The neighborhood is safe, allowing children to walk to parks and people to walk alone at night.",
+        "spans": [
+          "It is safe",
+          "a community where you can let your kids walk to the nearest park and a woman can walk alone at night is definitely a safe haven."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "It offers easy access to medical care such as hospitals, clinics, or emergency rooms nearby.",
+        "spans": [
+          "It offers easy access to medical care",
+          "Being close enough to get to a hospital or an emergency room quickly is key for a safe neighborhood.",
+          "there must be some sort of a clinic or an emergency room nearby."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "It offers a variety of housing types that range in size to cater to different needs.",
+        "spans": [
+          "It offers a variety of housing types",
+          "A great neighborhood should offer a variety of housing types that range in size, from small studio apartments to big houses."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "It provides a full range of public services including parks, police and fire stations, and public transportation.",
+        "spans": [
+          "It provides a full range of public services",
+          "There should be a police station, fire station, park, easy access to public transportation and all public services in a good neighborhood."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "It looks appealing and feels inviting with interesting architecture, clean streets, good lighting, and greenery.",
+        "spans": [
+          "It looks appealing",
+          "A great neighborhood is one that features interesting architecture and design, and is comfortable and appealing.",
+          "It should have intriguing storefronts, clean streets with good lighting, and flowers and trees that look inviting."
+        ]
+      }
+    ],
+    "clueweb22-en0040-80-10236": [
+      {
+        "point_number": 1,
+        "point_content": "Good places promote sociability and become the heart and soul of the neighborhood.",
+        "spans": [
+          "Good places promote sociability These are the spots where you run into people you know, where you take friends and family when you want to show them the neighborhood. These places become the heart and soul of the neighborhood because they offer people many different reasons to go there."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Good places have lots of things to do, offering a variety of activities to keep people engaged.",
+        "spans": [
+          "Good places have lots of things to do The places people love most are the ones where they can pursue a variety of activities. Without opportunities to do something more than sit and look around, the experience you have in that place is \"thin\" -- there is nothing to keep you there for any length of time."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Good places are comfortable and attractive, making people want to visit often.",
+        "spans": [
+          "Good places are comfortable and attractive They beckon you to come visit. Flowers, comfortable benches with a nice view, and attractive lighting all make you feel this is a place you want to come to often."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Good places are accessible, easy to identify and enter, and simple to use.",
+        "spans": [
+          "Good places are accessible These places are clearly identifiable from a distance, easy to enter when you get closer, and it is simple to understand how you use them."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Good places capitalize on the Power of 10, meaning they offer many fun or useful things to do.",
+        "spans": [
+          "Good places capitalize on the Power of 10 Think of the 10 most important places in your neighborhood. It could be the main shopping street, a park, playground, an interesting shop, a library, post office etc. Zoom in and think about one of these places and try to write down ten fun or useful things you can do there."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Good places are inspired by the people who live there, using bottom-up strategies guided by the community's wisdom.",
+        "spans": [
+          "Good places are inspired by the people who live there The big question is, of course, how do you begin to create the good places that every neighborhood craves? What process can you use to build spots where people want to hang out? Long experience has shown us that bottom-up rather than top-down strategies to create or revitalize public spaces work best. This approach is based on the simple idea that the people who live in a neighborhood are the world's experts on that particular place. Any project to improve things should be guided by the community's wisdom, not the dictates of professional disciplines."
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0040-58-04449": [
+      {
+        "point_number": 1,
+        "point_content": "Good neighbors almost always seem to be friendly, which means being approachable and available.",
+        "spans": [
+          "Good neighbors almost always seem to be:",
+          "Friendly",
+          "This doesn’t necessarily mean being affectionate or cordial; more importantly, it means being approachable and available."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Being respectful is essential to be a good neighbor, which involves being mindful of people’s feelings, wishes, rights, or traditions.",
+        "spans": [
+          "To be a good neighbor, you have to respect people.",
+          "How do you show respect? Well, it is in the dictionary: to be respectful, you need to mainly be mindful of people’s feelings, wishes, rights, or traditions."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Good neighbors are quiet in the sense of being mindful of making loud noises at the wrong times and avoiding obnoxious behavior.",
+        "spans": [
+          "3. Quiet",
+          "No, not miserable and silent.  (Miserable and silent neighbors are scary!)  Rather you should be mindful of making loud noises at the wrong times and of doing obnoxious things."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Maintaining cleanliness and curb appeal of your property benefits everyone in the neighborhood.",
+        "spans": [
+          "4. Clean",
+          "By “clean” we mean more along the lines of maintaining the curb appeal of your property, which benefits everyone."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Helpful neighbors are ready to give help when you need it, such as lending a hand or collecting packages.",
+        "spans": [
+          "5. Helpful",
+          "A helpful neighbor doesn’t have to keep asking if you need help, but a helpful neighbor is ready to give help when you need it."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Mature neighbors control their emotions, are humble, modest, considerate, and try to minimize problems.",
+        "spans": [
+          "6. Mature",
+          "A mature person controls his/her own emotions at all ages.  He or she is humble, modest, and considerate of other people’s feelings.",
+          "Mature people will try to minimize problems instead of exacerbating them."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Trustworthy neighbors are dependable and keep their word, which is crucial for trust.",
+        "spans": [
+          "7. Trustworthy",
+          "You are trustworthy when your neighbors are confident that they can depend on you to do something.",
+          "if you can’t keep your word the next day, following through on what you set out to do, you will lose your neighbors’ trust fast."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Discreet neighbors are curious but do not pry into private affairs or gossip.",
+        "spans": [
+          "8. Discreet",
+          "Being curious about your neighborhood and your surroundings is natural, and if you know what is going on, you can help your neighbors feel safer.",
+          "But don’t be too curious.",
+          "Be discreet, and never divulge topics that need to stay private.",
+          "In other words, don’t gossip."
+        ]
+      }
+    ]
+  }
+}

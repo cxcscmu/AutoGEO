@@ -1,0 +1,219 @@
+{
+  "question": "why is car hire so expensive",
+  "key_points": {
+    "null": [],
+    "clueweb22-en0012-52-05534": [
+      {
+        "point_number": 1,
+        "point_content": "Car rental prices in 2021 are higher due to a combination of factors including reduced fleet sizes and increased demand.",
+        "spans": [
+          "Car rental prices in 2021 are higher than you’ve been used to over the past few years.",
+          "Many companies had to reduce fleet sizes to minimise losses over the course of the pandemic",
+          "With all of us being stuck inside for 18 months and unable to travel, there is a huge amount of pent up demand."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Reduced fleet sizes are caused by companies minimizing losses during the pandemic and inability to purchase new vehicles due to global shortages.",
+        "spans": [
+          "Many companies had to reduce fleet sizes to minimise losses over the course of the pandemic",
+          "this year they might not have the cash to purchase more vehicles, so they’re stuck with much less stock than normal years.",
+          "companies that do have enough reserves to replenish fleets cannot obtain the vehicles due to a global shortage of new vehicles. This can be traced to factory closures, raw material shortages and microchip shortages."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Increased demand is driven by pent up travel demand after lockdowns and changes in travel restrictions such as the UK’s traffic light system.",
+        "spans": [
+          "With all of us being stuck inside for 18 months and unable to travel, there is a huge amount of pent up demand.",
+          "If you add to this the UK’s traffic light system, there will be surges of demand as countries get added or removed from the Green List."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Car rental companies need to recoup losses from the pandemic period, which contributes to higher prices.",
+        "spans": [
+          "Car rental companies have missed 18 months of trading while likely still having the burden of vehicle storage costs, wages, office bills amongst other fixed costs.",
+          "Without recouping at least some losses from 2020, they might not be trading at all in 2022."
+        ]
+      }
+    ],
+    "clueweb22-en0020-13-19403": [
+      {
+        "point_number": 1,
+        "point_content": "Car hire companies have sold fleet to survive COVID and have not replaced cars, leading to shortages.",
+        "spans": [
+          "Companies have sold fleet to survive and not replaced cars."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "There is a worldwide production shortage of new cars affecting car hire availability and prices.",
+        "spans": [
+          "it is worldwide, companies reduced stocks and now there is a production shortage of new cars."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Increased demand from locals and Spanish tourists preferring to hire cars rather than use public transport is contributing to shortages.",
+        "spans": [
+          "According to the press it is mainly due to more locals and Spanish taking holidays in the Canaries. They prefer to have a car rather than use public transport."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Car hire prices are high due to supply and demand imbalance caused by reduced fleet and increased demand.",
+        "spans": [
+          "Price is supply and demand I’m afraid."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Chip shortage is impacting new car production, leading to fewer cars available for hire and increased prices globally.",
+        "spans": [
+          "Hire firms selling off fleets to survive covid + chip shortage to build new cars = less cars + increased prices all over the world."
+        ]
+      }
+    ],
+    "clueweb22-en0018-99-09291": [
+      {
+        "point_number": 1,
+        "point_content": "Rental car prices have surged due to increased demand as more Americans get vaccinated and travel resumes.",
+        "spans": [
+          "As millions more Americans get vaccinated against the coronavirus every week — and millions take to the skies — demand for travel is skyrocketing."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Rental car companies have a shortage of vehicles because they sold many cars during the early pandemic days.",
+        "spans": [
+          "That growing interest is running smack into a dearth of vehicles after rental car companies shed hundreds of thousands of their cars during the earlier days of the pandemic."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "A global shortage of semiconductor chips is delaying new car production, limiting rental car fleet replenishment.",
+        "spans": [
+          "She added that vehicle supply is a challenge because of a global shortage of semiconductor chips that is holding up auto production."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Moving vehicles to meet regional demand spikes is costly and time-consuming for rental companies.",
+        "spans": [
+          "Woronka said moving vehicles around is expensive and time-consuming for the rental car companies, and the chip shortage is making it difficult to rebuild fleets economically."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The supply-demand imbalance is causing rental car prices to be extremely high, sometimes exceeding plane ticket costs.",
+        "spans": [
+          "Essentially this is really just kind of an extreme example of supply and demand",
+          "I think that folks are saying, 'It’s great that I got this $50 airfare, but the rental car is going to cost me 10 times as much,” he said."
+        ]
+      }
+    ],
+    "clueweb22-en0005-25-00328": [
+      {
+        "point_number": 1,
+        "point_content": "Australian car rental prices have soared due to a severe shortage of rental cars caused by the COVID-19 pandemic.",
+        "spans": [
+          "Australian car rental prices: Cost soars due to car shortage caused by COVID-19",
+          "Tasmania and much of the rest of the country is suffering an acute hire-car shortage thanks to a direct, if perverse, product of the pandemic."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The car rental industry sold off much of its fleet during the pandemic due to the sudden disappearance of tourists.",
+        "spans": [
+          "Burdened by the sudden disappearance of international and domestic tourists after the pandemic was declared last year, a panicked Australian car rental industry sold off much of its fleet to willing local buyers"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Rental companies cannot buy enough new vehicles to replace their fleets because global car-maker supply lines have been disrupted during the pandemic.",
+        "spans": [
+          "Then, as domestic tourism began to rebound, the same rental car companies couldn't buy enough new replacement vehicles because global car-maker supply lines have also been badly disrupted during the pandemic."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Thrifty reduced its fleet by about 40% when demand dropped to almost zero during the pandemic.",
+        "spans": [
+          "When demand came to a screeching halt last year with rentals reaching \"almost zero\", Thrifty, ranked in the top three for market share, reduced its fleet by about 40 per cent"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The shortage of rental cars has led to very high rental prices, with some vehicles costing over $2800 for a week-long rental.",
+        "spans": [
+          "Until fleet sizes are restored, visitors to popular tourism markets such as Tasmania next month can expect to pay as much as $2823.99 for a week-long rental of a Mitsubishi Pajero four-wheel drive through one major provider."
+        ]
+      }
+    ],
+    "clueweb22-en0008-90-13322": [
+      {
+        "point_number": 1,
+        "point_content": "High demand for rental cars due to increased travel and road trips after pandemic restrictions are lifted.",
+        "spans": [
+          "We've seen a tremendous surge in car rental bookings and increased demand for getaways within driving distance on the app",
+          "In May, the Centers for Disease Control and Prevention announced that vaccinated Americans can \"resume activities that you did prior to the pandemic.\" For many, this means hitting the road and traveling to fun destinations by car."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Rental car companies have reduced their fleets by selling many vehicles during the pandemic, leading to a shortage now.",
+        "spans": [
+          "Over the course of the pandemic, as travel (and vehicle demand) dipped, many car companies chose to sell their unused vehicle inventory to try to offset the loss of business.",
+          "The Seattle Times reported that major car rental companies sold more than 770,000 vehicles last year, meaning one of every three rental cars that were in service are now no longer available."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The semiconductor chip shortage is delaying the replenishment of rental car fleets, contributing to higher prices.",
+        "spans": [
+          "To make matters worse, the current semiconductor chip shortage means it's taking longer for agencies to find new cars to replenish their fleets. That shortage means higher rental prices this summer."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Rental car prices have increased significantly due to high demand and limited supply.",
+        "spans": [
+          "According to Damodaran, the average national car rental price in early May was $395, up from $371 just two weeks prior.",
+          "If you need a rental car in Maui over Memorial Day weekend, the absolute cheapest car available right now on Expedia is $373 per day, a four-fold increase over pre-Carpocalypse rates."
+        ]
+      }
+    ],
+    "clueweb22-en0040-30-16019": [
+      {
+        "point_number": 1,
+        "point_content": "Rental car prices are soaring due to a mix of soaring demand and inadequate supply.",
+        "spans": [
+          "Over the past several months, the cost of rentals in the US has shot up on a mix of soaring demand and inadequate supply to match it."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Rental companies shed a large number of cars from their fleets last year due to the pandemic, leading to short supply now.",
+        "spans": [
+          "Last year, amid the plunge in travel, rental companies shed a large number of cars from their fleets as they tried to survive. Now they find themselves in short supply just as Americans are ready to start moving again."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Companies trying to replenish their auto fleets face issues due to a shortage of semiconductor chips hampering the auto industry.",
+        "spans": [
+          "Companies trying to replenish their auto fleets are also running into issues due to a shortage of semiconductor chips hampering the auto industry."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Car rental prices respond immediately to supply and demand due to dynamic pricing and fixed stock.",
+        "spans": [
+          "Car rental, like the airline and hotel industries, relies on dynamic pricing to determine how much a customer ultimately pays to book a vehicle.",
+          "Because rental companies have a fairly fixed amount of stock available, the more Americans try to get cars, the higher prices will go."
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "question": "how companies become platform leaders",
+  "key_points": {
+    "clueweb22-en0036-17-14135": [
+      {
+        "point_number": 1,
+        "point_content": "Companies of any size can grow to become platform leaders under the right circumstances.",
+        "spans": [
+          "Under the right circumstances, companies of any size can grow to become platform leaders."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Particular business and technology decisions can help platform-leader wannabes achieve their goals.",
+        "spans": [
+          "And particular business and technology decisions can help platform-leader wannabes achieve their goals."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Platform markets require distinctive competitive strategies because products are parts of systems combining core components with complements from various companies.",
+        "spans": [
+          "These markets require distinctive competitive strategies because the products are parts of systems that combine core components made by one company with complements usually made by a variety of companies."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Platform leaders work with companies supplying complementary products and services to form an ecosystem of innovation, increasing the value of innovations as more users adopt the platform and its complements.",
+        "spans": [
+          "If a platform leader emerges and works with the companies supplying complementary products and services, they can together form an “ecosystem” of innovation that can greatly increase the value of their innovations as more users adopt the platform and its complements."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Many companies fail to become platform leaders because their strategies do not adequately address both technology and business aspects of platform leadership.",
+        "spans": [
+          "Many companies do not succeed in becoming platform leaders because their strategies fail to tackle adequately both the technology and business aspects of platform leadership."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Technological challenges include designing the right architecture, interfaces/connectors, and selectively disclosing intellectual property to facilitate third-party complements.",
+        "spans": [
+          "The technological challenges involve designing the right architecture, designing the right interfaces/connectors and disclosing intellectual property selectively, in order to facilitate third-parties’ provision of complements."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Business challenges include making key complements or incentivizing third-party companies to create complementary innovations to build market momentum and defeat competing platforms.",
+        "spans": [
+          "The business challenges include either making key complements or introducing incentives for third-party companies to create the complementary innovations necessary to build market momentum and defeat competing platforms."
+        ]
+      }
+    ],
+    "null": []
+  }
+}

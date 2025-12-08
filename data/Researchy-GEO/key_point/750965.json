@@ -1,0 +1,115 @@
+{
+  "question": "what are the strengths and weaknesses of the campbell soup company’s marketing information system?",
+  "key_points": {
+    "null": [],
+    "clueweb22-en0024-25-20279": [
+      {
+        "point_number": 1,
+        "point_content": "Campbell Soup has promising breakthrough innovation which is a strength relevant to its marketing information system.",
+        "spans": [
+          "Promising breakthrough innovation"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Campbell Soup maintains steady sales figures over the years, indicating effective marketing and information systems.",
+        "spans": [
+          "Steady sales figures over the years"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Campbell Soup has low production costs due to large size of the company which allows competitive pricing while maintaining quality, a strength in marketing strategy.",
+        "spans": [
+          "Low production costs due to large size of the company ensure   that prices 20- 25% higher than generic brands while maintaining a high level   of quality"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Campbell Soup's products are sold in 120 countries around the globe, showing a wide market reach supported by its marketing information system.",
+        "spans": [
+          "Campbell’s products are sold in 120 countries around the   globe"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Gross margins were impacted by cost inflation, a weakness that could affect marketing and pricing strategies.",
+        "spans": [
+          "Gross margins were impacted by cost inflation"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Rise in raw material costs as well as volatile gas prices are weaknesses affecting the company's cost structure and marketing information system.",
+        "spans": [
+          "Rise in raw material costsas well as volatile gas prices"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "The soup market is extremely competitive, posing a challenge to Campbell Soup's marketing information system.",
+        "spans": [
+          "Extremely competitive soup market"
+        ]
+      }
+    ],
+    "clueweb22-en0012-78-19549": [
+      {
+        "point_number": 1,
+        "point_content": "Campbell Soup company has invested a lot of money in customer research and they have been fairly successful in identifying the preferences of the customer.",
+        "spans": [
+          "Campbell Soup company has invested a lot of money in customer research and they have been fairly successful in identifying the preferences of the customer."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Campbell Soup Company has realised that the customer today is not interested neither has the time to invest in elaborate cooking procedures, focusing on simple meals.",
+        "spans": [
+          "Campbell Soup Company has realised that the customer today is not interested neither has the time to invest in elaborate cooking procedures.This made them focus on verticals that can help them churn out simple meals."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Campbell positions soups like cream of chicken or beef broth as an ingredient for advanced recipes, not just as a beverage.",
+        "spans": [
+          "Unlike other soups which are mostly positioned as a beverage, Campbell also positions soups like cream of chicken or beef broth as an ingredient for advanced recipes."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Campbell has specific categories of healthy soups like low fat, fat-free, low sodium, heart healthy, oil-free etc.",
+        "spans": [
+          "Campbell also has specific categories of soups which are healthy like low fat, fat-free, low sodium, heart healthy, oil-free etc"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Change of leadership style from autocratic to participative increased employee satisfaction and productivity.",
+        "spans": [
+          "This resulted in a change of leadership style from an autocratic to a participative one. This has helped to increase employee satisfaction as well as productivity in the business."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Campbell soups faced retailer promotion issues as key retailers refused to co-promote their brand, causing a dip in sales.",
+        "spans": [
+          "Campbell soups faced a critical challenge with respect to retailer promotion as a few of the key retailers in the region refused to co-promote their brand. The failure to set up a joint business plan is creating a dip in the sales of soups."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Excessive focus on beverages, especially soups, makes the company vulnerable to dips in soup sales.",
+        "spans": [
+          "Though Campbell has other business interests like ready to eat meals, bakes etc their key focal area is the beverages business out of which soups form a major proportion. The dip in the sale of soups is likely to adversely impact their overall business model."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "No new product launches in the soup category due to slashed research budgets and trimmed advertising budgets affecting brand visibility.",
+        "spans": [
+          "The decline in the soup segment sales has resulted in the company slashing research budgets with the result that there have been no new product launches in this category for a while. The advertising budgets have also been trimmed which in turn is affecting the visibility of the brand."
+        ]
+      }
+    ]
+  }
+}

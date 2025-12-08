@@ -1,0 +1,126 @@
+{
+  "question": "when should a dependency be raised as a program risk?",
+  "key_points": {
+    "null": [],
+    "clueweb22-en0036-39-19619": [
+      {
+        "point_number": 1,
+        "point_content": "A dependency should be added to the program risks when it must be accepted.",
+        "spans": [
+          "When it must be accepted"
+        ]
+      }
+    ],
+    "clueweb22-en0020-38-15684": [
+      {
+        "point_number": 1,
+        "point_content": "Dependencies that are out of the project and fall into the Company category have the greatest possibility of presenting a risk to your work.",
+        "spans": [
+          "It’s the dependencies that are out of the project and fall into the Company category that have the greatest possibility of presenting a risk to your work."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Consider the risks each dependency presents to the project and add them to your risk log with an owner and management plan.",
+        "spans": [
+          "Now that you know what your dependencies are and the areas that they affect, you need to consider the risks they present to the project.",
+          "Look at each dependency and work out what their risks would be.",
+          "Go through the risks assessment process like you would normally do. Add the risks to your risk management software. Allocate them an owner and choose what you are going to do to manage the risks."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Dependency-driven risks related to other teams should be closely monitored by the project manager even if someone else is named as the risk owner.",
+        "spans": [
+          "Personally, if the risks are things that relate to what another team is doing, I would want to keep an eye on them myself as the project manager, even if someone else was named as the risk owner. These kinds of dependency-driven risks are very important to manage."
+        ]
+      }
+    ],
+    "clueweb22-en0008-90-02694": [
+      {
+        "point_number": 1,
+        "point_content": "During team breakouts, teams identify risks and dependencies and draft their initial team PI objectives, including uncommitted objectives due to unknowns or risks.",
+        "spans": [
+          "During this process, teams identify risks and dependencies and draft their initial team PI objectives.",
+          "The PI objectives typically include ‘uncommitted objectives,’ which are goals built into the plan (e.g., stories that have been defined and included for these objectives), but are not committed to by the team because of too many unknowns or risks."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Program risks identified during planning are discussed and addressed openly, then categorized as Resolved, Owned, Accepted, or Mitigated.",
+        "spans": [
+          "Program risks – During planning, teams have identified program risks and impediments that could impact their ability to meet their objectives.",
+          "One by one, the risks are discussed and addressed with honesty and transparency, and then categorized into one of the following categories: Resolved, Owned, Accepted, Mitigated."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Risks that cannot be resolved during PI planning are owned by someone on the train for ongoing management.",
+        "spans": [
+          "Owned – Someone on the train takes ownership of the risk since it cannot be resolved during PI planning."
+        ]
+      }
+    ],
+    "clueweb22-en0029-11-02601": [
+      {
+        "point_number": 1,
+        "point_content": "A Product Owner can use strategies during Program Increment Planning to minimize dependencies.",
+        "spans": [
+          "What are two strategies a Product Owner can use during Program Increment Planning to minimize dependencies?"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Strategies to minimize dependencies include moving teams to another Agile Release Train, splitting stories to eliminate dependencies, and reprioritizing epics.",
+        "spans": [
+          "Move teams to another Agile Release Train;",
+          "Split Stories to eliminate dependencies; Reprioritize Epics"
+        ]
+      }
+    ],
+    "clueweb22-en0038-60-05958": [
+      {
+        "point_number": 1,
+        "point_content": "A dependency should be raised as a program risk when it is identified on the program dependency board during PI Planning and execution.",
+        "spans": [
+          "The Agile Release Train (ART) teams and stakeholders used it to align, anticipate risks, and adapt the plan accordingly."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Too many dependencies (too much red yarn on the program dependency board) indicate a problem with the Value Stream network configuration and should be addressed as a risk.",
+        "spans": [
+          "If we see too much red yarn on our boards, it isn’t something to be proud of.",
+          "Too many dependencies mean our Value Stream network isn’t configured well."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Deeper learning and retrospective discussions about dependencies should be done soon after PI Planning to address risks early.",
+        "spans": [
+          "Resist the temptation. Let the dust settle, but find the time that makes sense to have a deeper retrospective that is based on the patterns you see on the program board.",
+          "Start the process early in the PI, so hopefully, you’ll be in a position to reconfigure the network going into the next PI as needed."
+        ]
+      }
+    ],
+    "clueweb22-en0008-45-07547": [
+      {
+        "point_number": 1,
+        "point_content": "A dependency should be raised as a program risk when it is critical to the successful completion of the project and may disrupt the project if not managed properly.",
+        "spans": [
+          "Managing inter-dependencies is critical to ensuring projects, regardless of their size, run smoothly.",
+          "Next, we need to provide the dependency with a priority. This will usually be determined based on how critical the dependency is to the successful completion of the project.",
+          "This allows for situations where we know we have a really critical dependency but we haven’t yet reorganized and rescheduled it to allow it to be completed in a timely manner so it doesn’t disrupt the project."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "It is the responsibility of the project or program manager to record, monitor, and manage dependencies to prevent them from becoming risks.",
+        "spans": [
+          "As project and program managers it is your responsibility to record, monitor, and manage these dependencies.",
+          "Finally, just as in every other sheet, it is important for the dependency to have an owner, who will negotiate with other teams and report status."
+        ]
+      }
+    ]
+  }
+}

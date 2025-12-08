@@ -1,0 +1,273 @@
+{
+  "question": "why do some exposed people not get covid",
+  "key_points": [
+    {
+      "point_number": 1,
+      "point_content": "Some people are not infected at all despite intensive contact with Covid patients, possibly due to unique genes, natural built-in immunity, or mechanisms preventing virus attachment or replication, indicating possible genetic or immune resistance.",
+      "original_point_number": [
+        1,
+        7,
+        8,
+        63,
+        79,
+        84,
+        90,
+        93,
+        94
+      ]
+    },
+    {
+      "point_number": 2,
+      "point_content": "A group of people exposed to SARS-CoV-2 had neither positive tests nor antibodies within months, but some showed increased levels of certain T cells that can rapidly control infection, suggesting abortive infections and pre-existing cross-reactive T cell immunity from other coronaviruses.",
+      "original_point_number": [
+        2,
+        3,
+        5,
+        21,
+        22,
+        23,
+        24,
+        26,
+        35,
+        36,
+        37,
+        64,
+        80,
+        81
+      ]
+    },
+    {
+      "point_number": 3,
+      "point_content": "The immune protein IFI 27 found in some blood samples indicates previous contact with SARS-CoV-2 but rapid termination of infection, supporting the concept of abortive infections.",
+      "original_point_number": [
+        6
+      ]
+    },
+    {
+      "point_number": 4,
+      "point_content": "T cells recognize and kill the body's own cells infected by viruses, providing rapid defense and potentially clearing infection before it establishes.",
+      "original_point_number": [
+        4,
+        81
+      ]
+    },
+    {
+      "point_number": 5,
+      "point_content": "Researchers are recruiting and studying people exposed to SARS-CoV-2 who did not get sick and show no immune signs of encountering the virus to understand resistance mechanisms, including genetic variants and immune responses.",
+      "original_point_number": [
+        9,
+        13,
+        17,
+        18,
+        19,
+        25,
+        91,
+        92
+      ]
+    },
+    {
+      "point_number": 6,
+      "point_content": "Identifying genes associated with resistance could lead to understanding protective proteins and developing new treatments that interrupt infection earlier and more completely than vaccines.",
+      "original_point_number": [
+        12,
+        14,
+        25,
+        59,
+        84,
+        89,
+        95
+      ]
+    },
+    {
+      "point_number": 7,
+      "point_content": "There are precedents where some people exposed to viruses like malaria, HIV, and norovirus do not get infected due to molecular resistance, and a natural resistance gene discovered in Kenyan sex workers exposed to HIV-1 led to antiviral development blocking virus entry.",
+      "original_point_number": [
+        15,
+        16
+      ]
+    },
+    {
+      "point_number": 8,
+      "point_content": "Some family members of very ill COVID-19 patients remain totally well and uninfected despite exposure, indicating possible resistance, which may be influenced by biological factors, behavior, and luck.",
+      "original_point_number": [
+        10,
+        69
+      ]
+    },
+    {
+      "point_number": 9,
+      "point_content": "Scientists can detect if a person's immune system has encountered the virus by studying antibodies and T-cells, but some people may have abortive infections where T-cells clear the virus before antibodies develop, leading to negative PCR and antibody tests.",
+      "original_point_number": [
+        11,
+        21,
+        22,
+        35,
+        37
+      ]
+    },
+    {
+      "point_number": 10,
+      "point_content": "Some people might have been infected but never knew it due to varying test effectiveness and symptom severity, and some may have previously had the virus unknowingly and been asymptomatic, developing stronger immunity.",
+      "original_point_number": [
+        27,
+        70
+      ]
+    },
+    {
+      "point_number": 11,
+      "point_content": "Environmental factors such as ventilation, room size, air circulation, household size, multigenerational families, and where a person sits affect the likelihood of getting infected, supporting the idea of 'dumb luck' and uneven transmission.",
+      "original_point_number": [
+        28,
+        40,
+        46,
+        61,
+        77
+      ]
+    },
+    {
+      "point_number": 12,
+      "point_content": "Infectiousness varies based on how many droplet particles a person produces, how long they contain the virus, and the amount of virus present, which varies over time and among individuals, contributing to uneven transmission and superspreading events.",
+      "original_point_number": [
+        41,
+        42,
+        43,
+        44,
+        67,
+        68,
+        74,
+        75,
+        76
+      ]
+    },
+    {
+      "point_number": 13,
+      "point_content": "Behavior and precautions like isolation, hand washing, cleaning, mask wearing, and proper hygiene can prevent infection and transmission within families and communities.",
+      "original_point_number": [
+        45,
+        62,
+        87
+      ]
+    },
+    {
+      "point_number": 14,
+      "point_content": "A person's immune system strength, health status, age, gender, genetics, and prior exposure to other viruses or vaccines may provide some protection against infection or symptoms, influencing asymptomatic cases and disease severity.",
+      "original_point_number": [
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        65,
+        85,
+        86,
+        88
+      ]
+    },
+    {
+      "point_number": 15,
+      "point_content": "The gene HLA-DRB1*04:01 is found more often in people who are asymptomatic, suggesting genetic resistance to severe Covid, with geographic correlations and potential for genetic testing to prioritize vaccinations.",
+      "original_point_number": [
+        54,
+        55,
+        56,
+        57,
+        58
+      ]
+    },
+    {
+      "point_number": 16,
+      "point_content": "Some people are naturally Covid-resistant and remain immune even as the virus mutates, possibly due to genetic factors or pre-existing immunity.",
+      "original_point_number": [
+        79,
+        84
+      ]
+    },
+    {
+      "point_number": 17,
+      "point_content": "People who keep catching Covid may have waning immunity, be more prone to viruses, or be less careful with precautions, not necessarily due to a failing immune system.",
+      "original_point_number": [
+        32,
+        66
+      ]
+    },
+    {
+      "point_number": 18,
+      "point_content": "COVID-19 transmission within households is variable; once one person is infected, there is about a 12% chance another household member will become infected, with 88% of close contacts not becoming infected despite exposure.",
+      "original_point_number": [
+        72,
+        73
+      ]
+    },
+    {
+      "point_number": 19,
+      "point_content": "Risk for infection is higher between spouses (43%) possibly due to intimacy or longer exposure, and biological differences may lead infected people to shed more virus and be more infectious for longer periods.",
+      "original_point_number": [
+        78,
+        76
+      ]
+    },
+    {
+      "point_number": 20,
+      "point_content": "Exposure to other viruses or vaccines can boost general immune response, including T cells and macrophages, which may protect against Covid; flu vaccination may reduce the likelihood of catching Covid-19 due to a strong T cell response.",
+      "original_point_number": [
+        51,
+        82,
+        83
+      ]
+    },
+    {
+      "point_number": 21,
+      "point_content": "Women generally have a more robust immune response to infections than men, which may explain why men are more likely to become infected with Covid-19.",
+      "original_point_number": [
+        88
+      ]
+    },
+    {
+      "point_number": 22,
+      "point_content": "Not testing positive or showing symptoms does not mean someone is immune; immunity requires prior exposure to the virus.",
+      "original_point_number": [
+        89
+      ]
+    },
+    {
+      "point_number": 23,
+      "point_content": "Discordant couples, where one partner is infected and the other is not despite close contact, are of particular interest for studying resistance mechanisms.",
+      "original_point_number": [
+        92
+      ]
+    },
+    {
+      "point_number": 24,
+      "point_content": "Researchers are hoping to study why some people get infected with COVID-19 after being exposed, while others do not, focusing on household contacts to understand infection and immune response variability.",
+      "original_point_number": [
+        17,
+        18,
+        19,
+        20
+      ]
+    },
+    {
+      "point_number": 25,
+      "point_content": "COVID-19 appears to follow a 20-80 rule where 80% of transmission is caused by 20% of those infected, indicating uneven transmission dynamics.",
+      "original_point_number": [
+        67,
+        68,
+        75
+      ]
+    },
+    {
+      "point_number": 26,
+      "point_content": "Vaccine response varies among individuals, and vaccination combined with social distancing is the best way to prevent disease.",
+      "original_point_number": [
+        71
+      ]
+    }
+  ]
+}

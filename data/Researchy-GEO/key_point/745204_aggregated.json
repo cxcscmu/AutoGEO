@@ -1,0 +1,90 @@
+{
+  "question": "what risks and safeguards are associated with wireless communication?",
+  "key_points": [
+    {
+      "point_number": 1,
+      "point_content": "Changing default passwords, renaming wireless networks, making networks invisible, encrypting network traffic (preferably with WPA2 or WPA3), restricting access via MAC filtering, using guest accounts, installing firewalls, maintaining antivirus software, cautious file sharing, updating access point software, checking provider security options, and using VPNs are important safeguards in wireless communication.",
+      "original_point_number": [
+        1,
+        11,
+        21,
+        24
+      ]
+    },
+    {
+      "point_number": 2,
+      "point_content": "Wardriving or war flying involves searching for unsecured wireless networks from a moving vehicle using devices like smartphones or PDAs, posing a security risk.",
+      "original_point_number": [
+        2,
+        15
+      ]
+    },
+    {
+      "point_number": 3,
+      "point_content": "Using public wireless hotspots can be insecure unless the hotspot is hosted through one's own device; risks include connecting to imposter hotspots and data interception.",
+      "original_point_number": [
+        3,
+        25,
+        26
+      ]
+    },
+    {
+      "point_number": 4,
+      "point_content": "Safeguards when accessing unprotected public wireless communications include turning off file sharing, avoiding logging into unfamiliar websites, verifying the network, using a VPN, using HTTPS, keeping the firewall enabled, and using antivirus.",
+      "original_point_number": [
+        4,
+        10,
+        27,
+        30
+      ]
+    },
+    {
+      "point_number": 5,
+      "point_content": "Both laptops and smartphones are at risk when using wireless connections; encryption reduces the risk of data loss if the device is stolen, and adjusting smartphone settings to prevent automatic connection to nearby Wi-Fi networks can enhance security.",
+      "original_point_number": [
+        5,
+        20,
+        29
+      ]
+    },
+    {
+      "point_number": 6,
+      "point_content": "Risks associated with wireless communication include piggybacking (unauthorized use of unsecured wireless connections), wardriving, evil twin attacks (adversaries impersonating public network access points with stronger signals), wireless sniffing (exposure of sensitive information on unencrypted public access points), unauthorized computer access (especially with unsecured file sharing), shoulder surfing (stealing information by looking over one's shoulder), and theft of mobile devices.",
+      "original_point_number": [
+        6,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ]
+    },
+    {
+      "point_number": 7,
+      "point_content": "Security risks include data interception, cracking, transmission jamming, and vulnerabilities in Wi-Fi and Bluetooth connections that can lead to data or identity theft.",
+      "original_point_number": [
+        7,
+        22
+      ]
+    },
+    {
+      "point_number": 8,
+      "point_content": "Wireless networks are less secure than wired ones and can be compromised by intruders hooking up to the network or through backdoors; disadvantages include difficulty in setup, risk of outsiders accessing the network without robust security, slower speed, and less stability.",
+      "original_point_number": [
+        8,
+        9
+      ]
+    },
+    {
+      "point_number": 9,
+      "point_content": "Encryption is the best way to keep personal data safe by scrambling data so only intended recipients can read it; the strongest commonly available encryption for Wi-Fi is WPA2, which should be used if available.",
+      "original_point_number": [
+        23,
+        24
+      ]
+    }
+  ]
+}

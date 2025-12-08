@@ -1,0 +1,498 @@
+{
+  "question": "how men and women communicate differently",
+  "key_points": {
+    "clueweb22-en0014-39-05328": [
+      {
+        "point_number": 1,
+        "point_content": "Men talk more than women do, yet the gender stereotype is that women are the ones who just talk a ton. However, it’s men who dominate conversations with women, rather than women dominating conversations with men.",
+        "spans": [
+          "men talk more than women do",
+          "men who dominate conversations with women"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Men get flooded more easily in difficult conversations and typically spout off defensive reactions when overwhelmed, while women tend to be more interactive speakers wanting immediate feedback.",
+        "spans": [
+          "men who get flooded more easily in difficult conversations",
+          "women tend to be more interactive speakers, so they want immediate feedback"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Women often connect best through conversations about their emotions and feelings, while men connect best through actions or sharing ideas, suggestions, and facts, often avoiding discussing emotions and feelings.",
+        "spans": [
+          "Women often connect best through conversations about their emotions and feelings",
+          "men, however, connect best through actions or the sharing of ideas, suggestions, and facts—and they often avoid discussing emotions and feelings"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Women often prefer talking face-to-face, while men prefer talking shoulder-to-shoulder, especially in a group. Women use varied tones and volume, while men prefer a more relaxed tone and body language.",
+        "spans": [
+          "Women often prefer talking while sitting, or standing, face-to-face",
+          "men prefer talking shoulder-to-shoulder, especially in a group",
+          "Women are more inclined to gesture and speak with varied tones and volume",
+          "men prefer a more relaxed tone of voice and body language"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Men are generally more concise in conversation, preferring to get to the point and move on, while women have more desire to talk about the details of a situation.",
+        "spans": [
+          "men are more concise than women",
+          "there’s definitely more of a desire to talk about the details of a situation"
+        ]
+      }
+    ],
+    "clueweb22-en0008-75-04185": [
+      {
+        "point_number": 1,
+        "point_content": "Men and women communicate differently, with differences in priorities, internal processing and behavior patterns.",
+        "spans": [
+          "The fact is men and women communicate differently.",
+          "Although men and women speak the same language, we have differences in priorities, internal processing and behavior patterns."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Men talk to negotiate and maintain their status and independence, while women talk to create intimacy and build rapport.",
+        "spans": [
+          "Men talk to negotiate and maintain their status and independence.",
+          "Women talk to create intimacy and build rapport."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Women tend to participate more in exercises and games during training sessions; men tend to shy away.",
+        "spans": [
+          "Women tend to participate more in exercises and games during training sessions. Men tend to shy away."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Women enjoy sharing and relating and the quality of relationships whereas men place a high priority on tasks, getting results and solving problems.",
+        "spans": [
+          "Women enjoy sharing and relating and the quality of relationships whereas men place a high priority on tasks, getting results and solving problems."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Men tend to avoid seeking help and direction; women are more likely to accept help, but ask for it indirectly.",
+        "spans": [
+          "Men tend to avoid seeking help and direction. Women are more likely to accept help, but ask for it indirectly"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Women use more words to express themselves and communicate more what's on their minds through stream-of-consciousness delivery; men tease and use more sarcasm, apologize less often, confront issues less frequently and disclose less personal information than women.",
+        "spans": [
+          "Women use more words to express themselves and communicate more what's on their minds through stream-of-consciousness delivery.",
+          "Men tease and use more sarcasm, especially regarding sensitive issues, apologize less often, confront issues less frequently and disclose less personal information than women"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Men and women give off different body language signals; men don't share as many facial expressions or reactions as women and have less eye contact; women have more face-to-face contact and are more in tune to body language and tone.",
+        "spans": [
+          "Men and women give off different body language signals.",
+          "Men don't share as many facial expressions or reactions as women.",
+          "Men frown or squint more when listening and don't provide as much eye contact, while women have more face-to-face contact.",
+          "Women are more in tune to the body language and tone of the other party."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Men tend to seek power at all costs, while women will assume it when granted.",
+        "spans": [
+          "Both men and women like power. Men tend to seek it at all costs, while women will assume it when granted."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Women are more empathetic to the problems of their co-workers; men jump in and offer advice.",
+        "spans": [
+          "Women are more empathetic to the problems of their co-workers. Men jump in and offer advice"
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Women focus more on personal issues when criticizing others.",
+        "spans": [
+          "Women (more than men) focus on personal issues when criticizing others"
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Women tend to seek advice, input and consensus from others; men often like to make decisions independently and make decisions quicker than women.",
+        "spans": [
+          "Women tend to seek advice, input and consensus from others. Men often like to make decisions independently.",
+          "Men make decisions quicker than women. Women seek advice, input and consensus from others, while men tend to make decisions in a singular fashion"
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "Men tend to promote themselves more and \"brag\" about their accomplishments.",
+        "spans": [
+          "Men tend to promote themselves more and \"brag\" about their accomplishments"
+        ]
+      },
+      {
+        "point_number": 13,
+        "point_content": "Interruptions are generally tolerated more by women than men during a conversation.",
+        "spans": [
+          "Interruptions are generally tolerated more by women then men during a conversation"
+        ]
+      },
+      {
+        "point_number": 14,
+        "point_content": "Women are much more likely to bring up personal issues during a discussion.",
+        "spans": [
+          "Women are much more likely to bring up personal issues during a discussion."
+        ]
+      },
+      {
+        "point_number": 15,
+        "point_content": "Men are more straightforward in their deliberations while women tend to soften the blow by focusing on what the person did right.",
+        "spans": [
+          "Men are more straightforward in their deliberations while women tend to soften the blow by focusing on what the person did right."
+        ]
+      },
+      {
+        "point_number": 16,
+        "point_content": "Men and women differ in how they internalize success and failure in projects; women internalize failure and externalize success, men do the opposite.",
+        "spans": [
+          "If a man and woman are working on a very hard project and they fail the woman would internalize it and think to herself , \" It was my fault\".",
+          "On the other hand, the man would externalize it and blame everyone else.",
+          "If both of them were successful, the woman would externalize it and say, \"We all did it\".",
+          "The man would internalize it and think to himself, \"I'm great\""
+        ]
+      },
+      {
+        "point_number": 17,
+        "point_content": "Men are more focused on the outer world with small talk about business, sports, weather, and news; women focus on the inner world of personal issues and sharing their inner worlds.",
+        "spans": [
+          "Men are more focused on the outer world; their small talk often revolves around topics related to business, sports, weather, and news.",
+          "Women like to focus on the inner world of personal issues, of what's going on inside of others, and to share their inner worlds."
+        ]
+      }
+    ],
+    "clueweb22-en0017-60-10237": [
+      {
+        "point_number": 1,
+        "point_content": "Women are more accurate at reading nonverbal communication and use more non-verbally immediate behaviors than men, such as smiling more and maintaining more eye contact.",
+        "spans": [
+          "women are more accurate at reading this sort of nonverbal communication than men are",
+          "They also use more non-verbally immediate behaviors than men",
+          "For example, they tend to smile more and maintain more eye contact when they are talking"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Women’s nonverbal behaviors are associated with low power communication, while men commonly use high power nonverbal behaviors.",
+        "spans": [
+          "the same repertoire of nonverbal behaviors that are associated with women’s communication are also considered to be typical of low power communicators",
+          "men commonly use high power nonverbal behaviors",
+          "women’s nonverbal behaviors regularly communicate a lack of social power"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Women use more nonverbal behaviors to establish psychological closeness with best friends than men do, and recognize these behaviors more.",
+        "spans": [
+          "women used a whole range of non-verbal behaviors calculated to establish psychological closeness with their best friends, and they did it more frequently than their male counterparts",
+          "They were also more likely to recognize these sorts of behaviors than men were"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "When women are in high power positions, such as college instructors, they do not differ from men in their use of nonverbal behaviors to establish relational closeness.",
+        "spans": [
+          "When women were in the relatively powerful position of college instructor, students saw no difference in men and women’s nonverbal behaviors",
+          "Women did not use the sort of gestures, posture, and facial expressions that would establish relational closeness with their students any more than male instructors did"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Differences in nonverbal communication between men and women vary by culture; American women show more differences than Kenyan or Brazilian women.",
+        "spans": [
+          "American women noticed these behaviors by their friends more than American men did",
+          "there was only a slight difference between Kenyan men and women, and no difference at all between the perceptions of men and women in Brazil",
+          "Brazilian men and women used and perceived similar numbers of nonverbal cues"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Men are more consistent across situations in their communication, while women adjust their communication depending on the role they are playing.",
+        "spans": [
+          "women are simply flexible; they adjust their communication depending on the role they are playing in a specific relationship",
+          "Men are more consistent across situations"
+        ]
+      }
+    ],
+    "clueweb22-en0035-05-06907": [
+      {
+        "point_number": 1,
+        "point_content": "Women communicate to be heard, supported, and understood, not necessarily to get solutions.",
+        "spans": [
+          "Women are emotional and evocative by nature.",
+          "When we are telling out partner about our day, or about a situation that has happened, we are simply asking them to listen to us.",
+          "We need to be heard, supported, and understood.",
+          "The mere act of being able to get something off our chest, and talk it out, is often all we need to feel better, and that we have processed through a situation."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Men communicate with a problem-solving and analytical approach, often assuming communication is a request for fixing a problem.",
+        "spans": [
+          "Men are typically more analytical and pragmatic.",
+          "By this I mean, they assume if we are telling them something, we are asking them to fix it.",
+          "When their partner starts to tell them about a person or situation that is frustrating them, their mind immediately starts to come up with questions, possibilities and solutions to a problem that may not actually exist.",
+          "They are problem and solution oriented, and it does not automatically occur to them that all that may be required of them is listen and be a sounding board for their partner."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Understanding each other's communication needs and goals can improve interactions and support in relationships.",
+        "spans": [
+          "The awareness of the others needs and goals can completely change interactions and our understanding of one another.",
+          "When couples learn to ask for what they need, or ask their partner what they need from them in an interaction, you can literally see the body language relax.",
+          "With this newfound understanding of how each of you communicates and operates, as well as what your ultimate communication goals are, you will have more productive, and more pleasant interactions."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Explicitly stating communication needs helps partners respond appropriately and relax.",
+        "spans": [
+          "I practice this myself, and will preface conversations with, “I just need you to listen to me. I just need you to hear me out. I don’t need you to fix anything, and I don’t need anything else from you.”",
+          "This makes intentions clear to the other person, and makes them relaxed and more able to give you what you need, because your needs and expectations are transparent.",
+          "If what they are hoping for is some practical advice, and they feel like all they get is someone who sits and listens, but offers little feedback or solutions in return, they merely ask for what they need."
+        ]
+      }
+    ],
+    "clueweb22-en0028-72-01563": [
+      {
+        "point_number": 1,
+        "point_content": "Men believe communication should have a clear purpose, used to solve problems efficiently, while women use communication to share feelings and increase intimacy.",
+        "spans": [
+          "He believes communication should have a clear purpose. Behind every conversation is a problem that needs solving or a point that needs to be made.",
+          "She uses communication to discover how she is feeling and what it is she wants to say. She sees conversation as an act of sharing and an opportunity to increase intimacy with her partner."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Men prioritize productivity and efficiency in conversation, sharing only essential details and seeking solutions, whereas women use communication to explore thoughts and seek understanding, not necessarily solutions.",
+        "spans": [
+          "He prioritizes productivity and efficiency in his daily life, and conversation is no exception. When he tells a story he has already sorted through the muck in his own head, and shares only those details that he deems essential to the point of the story.",
+          "She uses communication to explore and organize her thoughts — to discover the point of the story. She may not know what information is necessary or excessive until the words come spilling out. But a woman isn't necessarily searching for a solution when she initiates a conversation. She's looking for someone to listen and understand what she's feeling."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Men listen actively with the intent to find solutions, while women see listening as a way to feel heard and understood, which can be healing in itself.",
+        "spans": [
+          "He is conditioned to listen actively. When a woman initiates conversation he assumes she is seeking his advice or assistance.",
+          "She sees conversation as a productive end in and of itself. If she feels sufficiently heard or understood she may not need to take further action to resolve a problem or \"make things better.\""
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "When women are feeling down, they use words to process emotions and seek support, while men want to solve the problem quickly and may take the mood personally.",
+        "spans": [
+          "He will want to tackle her problems head on, like a fireman. He feels impatient to put the fire out as quickly as possible. For him, the quickest way to put the fire out is by giving solutions.",
+          "She, by using words as tools to explore and express her difficult emotions when she is upset, is able to process her negative emotions and let them go."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "When men are feeling down, they withdraw to reduce stress and may avoid communication, while women try to nurture and communicate, sometimes misinterpreting the silence.",
+        "spans": [
+          "He will often withdraw into his \"cave\" (becoming quiet and withdrawn) when he's upset or stressed.",
+          "She might interpret her spouse's silence as a sign that she is failing him or that she's losing him."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Communication breaks down when men feel told what to do and women feel their feelings are minimized; men respond better to being asked for opinions rather than directives.",
+        "spans": [
+          "He feels like he's being told what to do. The most important thing to a man is doing a good job. When his competence is questioned he'll not only feel hurt, but he'll throw up a wall of resistance, and communication begins to breakdown.",
+          "She hears from her spouse that her problems aren't as real and pressing as they seem in that very moment. Her spouse may mistakenly think he's being helpful in providing \"reality checks\" like: \"You're making a mountain out of a mole hill\" or \"You're getting overly emotional about it.\""
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0004-50-08195": [
+      {
+        "point_number": 1,
+        "point_content": "Men and women have different communication styles in the workplace, which can lead to misunderstandings.",
+        "spans": [
+          "Generally speaking, men and women have different communication styles.",
+          "In professional settings, men and women use different communication strategies to achieve their goals.",
+          "According to Dr. Beth Banks Cohn and Roz Usheroff, these strategies can sometimes lead to misunderstandings between the genders."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Men often engage in playful antagonizing like trash talk, which women may perceive as hostile.",
+        "spans": [
+          "Men often engage in trash talk, such as teasing.",
+          "However, for women, this behavior can appear hostile and overconfident."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Men often avoid asking questions to not diminish perceived power, which women see as childish or arrogant.",
+        "spans": [
+          "Men often avoid asking questions, fearing that doing so diminishes their perceived power.",
+          "Women often see this as “childish and even arrogant.”"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Men avoid giving or soliciting feedback, which women may view as uncaring.",
+        "spans": [
+          "Many men avoid giving or soliciting feedback.",
+          "Women may view this as a sign of men being uncaring."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Women value equality and try to make others feel worthy, which men may see as weakness.",
+        "spans": [
+          "Women typically place a high value on equality.",
+          "Men may view this as a sign of weakness."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Women try to ensure everyone has the same understanding before decisions, which men may see as indecisiveness.",
+        "spans": [
+          "Women frequently try to make sure everyone has the same understanding of a situation before making a decision.",
+          "Men may view these behaviors as indicators of indecisiveness."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "In romantic relationships, women apologize more often, men compliment less, and men focus on fact-based conversations while women prefer extended emotional conversations.",
+        "spans": [
+          "Women tend to apologize more often, which can signal weakness to men.",
+          "Men tend to compliment others less often than women.",
+          "Men focus on fact-based conversations that can end abruptly, while women tend toward extended conversations about complex, often emotional topics."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "In marriage, men prioritize quick decisions and solutions, women prefer more discussion and information gathering.",
+        "spans": [
+          "Men tend to prioritize quick decisions and solutions.",
+          "women prefer to spend more time collecting and discussing information."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Women excel in verbal communication and have better long-term memory and more vivid emotional memories.",
+        "spans": [
+          "women excel in most types of verbal communication and they can also make better use of long-term memory.",
+          "Women also store more vivid emotional memories, in general."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Women have a larger anterior cortex and corpus callosum, leading to more processing and less linear thinking than men.",
+        "spans": [
+          "The Anterior Cortex is Larger in Women than Men",
+          "Women’s Brains Feature a Larger Corpus Callosum"
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Testosterone affects men and women differently, influencing men's social behavior after setbacks or successes.",
+        "spans": [
+          "Men lose testosterone when they experience a setback, but they gain it when they experience success.",
+          "This might explain why men often seek solitude after a challenging day."
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "Men and women communication differences should be used to foster understanding, not prejudice, as both styles have value.",
+        "spans": [
+          "Though men and women communicate differently, it is important to keep in mind that one way is not better than the other, according to the American Psychological Association.",
+          "Knowledge of these differences should be used to foster understanding rather than fuel prejudices."
+        ]
+      }
+    ],
+    "clueweb22-en0013-79-14003": [
+      {
+        "point_number": 1,
+        "point_content": "Men tend to be direct and to-the-point in communication, while women often excel at picking up non-verbal signs and take longer to get to the point.",
+        "spans": [
+          "men tend to be direct and to-the-point",
+          "women often excel at picking up non-verbal signs and take longer in comparison to get to the point"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Women might benefit more from conversational language classes, while men might benefit from a more structured curriculum due to differences in processing information.",
+        "spans": [
+          "Women might benefit more from taking conversational Spanish classes rather than step-by-step lessons",
+          "Learning Spanish for men could consist of a more structured curriculum",
+          "men generally learn better by processing a word in parts",
+          "Women, on the other hand, are good at processing abstract information"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Since childhood, boys and girls learn socially ingrained communication rituals, with girls avoiding sounding overly sure and boys overstating their status.",
+        "spans": [
+          "Since childhood, boys and girls tend to learn rituals that are socially ingrained",
+          "girls typically learn to avoid sounding overly sure of themselves for fear of polarizing themselves from peers",
+          "boys tend to overstate their status to build themselves up in front of those around them"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Females are generally better than males at learning languages and tend to use more language learning strategies.",
+        "spans": [
+          "research shows that females are generally better than males at doing so",
+          "gals tend to use more language learning strategies than guys"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Neurological differences exist between male and female brains affecting language processing and emotional experience.",
+        "spans": [
+          "Men overall have larger brains than women",
+          "the hippocampus in females, which is the part of the brain that processes languages, learning and memorization, it far exceeds that of men",
+          "the amygdala or the part of the brain that allows you to experience emotions. It is more prominent in men than women and works differently too"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Society's expectations and individual education levels influence male and female speech and communication styles.",
+        "spans": [
+          "society’s expectations for men and women typically are not the same",
+          "individual’s level of education affects the male and female speech",
+          "women speak with a less confident tone than men because they have minimal power in society",
+          "many women are less assertive when speaking than men because of their inferiority in western society"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "In workplace communication, men perceive women as asking too many questions, while women ask questions to show concern, build consensus, and reach agreement.",
+        "spans": [
+          "72% of the surveyed males thought women asked too many questions",
+          "questions from female bosses felt controlling",
+          "women’s reasons for the inquiries included to show concern, build concensus, and get to an agreed-upon outcome"
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Men and women use different non-verbal communication styles, such as men using pats and back slaps, and women more likely to touch another person's arm.",
+        "spans": [
+          "men tend to use pats, back slaps, and shoulder touches to interact",
+          "for women it is more likely to be reaching out to touch another person’s arm"
+        ]
+      }
+    ]
+  }
+}

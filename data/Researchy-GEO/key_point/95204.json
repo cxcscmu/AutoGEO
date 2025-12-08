@@ -1,0 +1,447 @@
+{
+  "question": "how do fugitives survive on the run",
+  "key_points": {
+    "clueweb22-en0027-77-08997": [
+      {
+        "point_number": 1,
+        "point_content": "Fugitives avoid digital traces by ditching phones and other devices to prevent being tracked.",
+        "spans": [
+          "ditch his phone and his iPad"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Fugitives change their appearance and clothing to avoid recognition.",
+        "spans": [
+          "left his parents' house wearing his dad's clothes (\"they'd have recognized me in a tracksuit\")"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Fugitives live in undisclosed locations and rely on friends for shelter.",
+        "spans": [
+          "Living in an undisclosed location with a friend"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Fugitives avoid direct contact with family to prevent being tracked through them.",
+        "spans": [
+          "The most important thing is to not have direct contact with family"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Fugitives avoid using bank accounts and carry physical cash to avoid leaving financial trails.",
+        "spans": [
+          "Being disciplined for Josh meant never delving into a bank account",
+          "When he left Madrid, he took all the physical money he could"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Fugitives face financial difficulties and risk being ripped off when paying in cash for apartments or cars.",
+        "spans": [
+          "It's expensive running all the time—people rip you off constantly",
+          "When you're paying for an apartment or buying a car in cash, it doesn't take a mind reader to work out something's going on"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Fugitives try to avoid contact with people from their old life to maintain a low profile.",
+        "spans": [
+          "that's when things get even more risky, as you have to contact people from your old life, or work with new people"
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Fugitives use false passports and are prepared to flee quickly when warned of police actions.",
+        "spans": [
+          "I always had a false passport ready for an emergency",
+          "I got a phone call one night saying that they'd arrested someone who was on his way to meet me. I had warning, so I ran"
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Fugitives develop heightened awareness of surveillance and police presence in public spaces.",
+        "spans": [
+          "He drives me through busy London streets, pointing out exactly where security cameras are, which traffic cameras aren't in use, and which of the hundreds of vehicles passing by are undercover police cars"
+        ]
+      }
+    ],
+    "clueweb22-en0022-07-05902": [
+      {
+        "point_number": 1,
+        "point_content": "Fugitives can assume another person's identity by obtaining replacement Social Security cards and state IDs using forged documents.",
+        "spans": [
+          "I found out what information is needed to get a \"replacement\" Social Security card, and went about getting one for a stranger in Florida who was of the same age and race",
+          "Getting a state ID there was a matter of Photoshopping the right additional documents (bills, etc)"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Fugitives avoid passports and international travel to reduce risk and hassle, instead opting to stay within the country or cross borders unofficially.",
+        "spans": [
+          "I didn't get a passport -- not because security was too rigorous, but because it would have taken too long.",
+          "\"Fuck this hassle. I'll just sneak across the border.\""
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Fugitives use burner phones, darknet email addresses, and online marketplaces to earn money and communicate while on the run.",
+        "spans": [
+          "I bought Visa gift cards and several burner phones. I created a darknet email address.",
+          "For money, I turned to Amazon's Mechanical Turk, an online marketplace for coders."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Crossing the border into Mexico is relatively easy and often unchecked, making it a possible refuge for fugitives.",
+        "spans": [
+          "I jumped on a Greyhound and headed south, then walked across the international bridge and over the Rio Grande. They didn't even check my ID.",
+          "Turns out when you're not a political football, cross-border tourism is sort of encouraged."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Returning to the U.S. from Mexico is much harder and may require risky unofficial border crossings with guides.",
+        "spans": [
+          "With my fake ID, it's entirely possible I could have walked right up to the official border crossing.",
+          "Border patrol agents were parked overlooking the bridge, so we waited five hours for a train to roll by and block their view."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Fugitives often live hand-to-mouth, relying on odd jobs, staying in immigrant areas, and using cash to avoid detection.",
+        "spans": [
+          "Right now, I'm in the U.S., with no signs I'm about to be apprehended. I still live hand-to-mouth, picking up odd jobs here and there.",
+          "Finding a place to stay was as easy as having 400 bucks in hand and wandering near a kitchen at a local restaurant."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "The system's indifference and lack of active pursuit can aid fugitives in remaining free for extended periods.",
+        "spans": [
+          "If any of this tale makes me sound like a criminal genius, I have to admit that part of my success so far was nothing but the system's indifference.",
+          "Maybe they didn't care, or maybe they realized that in most cases, they can simply sit tight and wait for the fugitive to pop up again."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Disappearing completely often means losing everything important, including family and former life.",
+        "spans": [
+          "The man I was died a little more than a year ago. Even if I were to use my own name again, it doesn't feel right.",
+          "Oh yeah, about that. I tried calling my wife once I was back in the country. She'd changed her number. She didn't reply to my emails. I see online that she filed for divorce and sold the house."
+        ]
+      }
+    ],
+    "clueweb22-en0024-85-13787": [
+      {
+        "point_number": 1,
+        "point_content": "Fugitives need to find a secure place and a source of money that is not traceable.",
+        "spans": [
+          "Your first priority is finding a secure place and a source of money",
+          "You don’t want anything traceable, so you’ll either have to establish a new identity or get paid off the books, maybe as a day laborer."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Fugitives use disinformation and false data to evade detection.",
+        "spans": [
+          "The idea is to combat the information you’re leaving behind",
+          "I’d start by creating false data on your location, data and banking."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Fugitives can use technology like prepaid cellphones and credit cards, and set up apartments, cars, and bank accounts under anonymous corporations to live virtually.",
+        "spans": [
+          "If they’re smart, fugitives can really take advantage of technology",
+          "They can buy prepaid cellphones and credit cards",
+          "Their apartments, cars and bank accounts can be set up under anonymous corporations",
+          "They can live almost entirely virtually. That wasn’t possible in the past."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Fugitives must avoid detection by changing appearance and being careful with technology and social media.",
+        "spans": [
+          "the only way to avoid detection might be changing appearance",
+          "If fugitives ever slip up using technology or social media, they’ll get caught right away."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Living as a fugitive requires giving up your entire past, similar to being in witness protection.",
+        "spans": [
+          "It’s like being in the witness protection program",
+          "To be successful, you have to give up your entire past."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Fugitives often get caught by returning home, contacting friends or family, or through suspicious behavior.",
+        "spans": [
+          "escapees often return home or place phone calls to friends and family members, whom the police might be tracking",
+          "Other times it is an escapee’s suspicious behavior that tips off bystanders."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Fugitives may struggle with modern life skills like driving, using cellphones, and credit cards, which can lead to mistakes.",
+        "spans": [
+          "They don’t know how to drive cars, use cellphones, use credit cards",
+          "They need to re-educate themselves. That can trip up escapees too."
+        ]
+      }
+    ],
+    "clueweb22-en0038-71-11548": [
+      {
+        "point_number": 1,
+        "point_content": "Fugitives often rely on help from friends, known as 'couch surfing', to survive on the run.",
+        "spans": [
+          "Walker suspects that Rollins is getting help from friends.",
+          "In the trade, that's known as \"couch surfing,\" says Marc Bourne, co-founder of the Know It All Intelligence Group, a private-eye firm in Bensalem. The suspect may bunk in a friend's basement or on a couch."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Fugitives avoid traceable transportation and use cash to avoid leaving a trail.",
+        "spans": [
+          "it doesn't take much money to jump on a bus or train, and if he pays with cash, there would be no trace of it.",
+          "If you have a car, you won't want to drive it (unless you switch the license plate).",
+          "Stay away from taxis and Uber, because they record where you were dropped off.",
+          "Same thing with credit cards, ATM machines, and even your checks. It's cash and carry for fugitives."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Fugitives avoid using cellphones or use prepaid phones that they discard to avoid location tracking.",
+        "spans": [
+          "You may love your cellphone, but it's a beacon to your location.",
+          "Get a prepaid phone that you will use and toss, just like the terrorists.",
+          "Don't call friends and family, even with a prepay, because your call can be traced to a location."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Fugitives avoid public places with many security cameras and change their appearance to avoid recognition.",
+        "spans": [
+          "Avoid public places with a lot of closed-circuit security cameras.",
+          "Change your appearance in a dramatic way.",
+          "If your hair is long, cut it short.",
+          "If it's short, use a long wig.",
+          "Change the color of your hair.",
+          "Bourne says hats, sunglasses, and hoodies are all effective in covering your face."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Preparation is essential for fugitives to vanish, which can take months or longer.",
+        "spans": [
+          "Preparation is essential and can take months or longer, says Bourne."
+        ]
+      }
+    ],
+    "clueweb22-en0032-35-17326": [
+      {
+        "point_number": 1,
+        "point_content": "Fugitives are found and arrested through coordinated efforts of U.S. Marshals and local law enforcement task forces.",
+        "spans": [
+          "the U.S. Marshals Two Rivers Violent Fugitive Task Force hunted down and caught the suspects hundreds of miles apart",
+          "The two arrests were some of the more than 6,000 murder suspects apprehended on the run by the U.S. Marshals Service in 2021"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "U.S. Marshals Service works with state and local partners to find and arrest fugitives.",
+        "spans": [
+          "The U.S. Marshals Service' primary responsibility is to work with state and local partners to find criminal suspects and arrest them",
+          "There are 56 fugitive task forces around the country, compromised of U.S. Marshals, state and local law enforcement"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Fugitives are apprehended on the run by U.S. Marshals through ongoing operations.",
+        "spans": [
+          "The U.S. Marshals Services prides itself on finding fugitives on the run",
+          "In total, officers apprehended 84,000 fugitives, an average of 337 fugitives per day, on days when the agency is conducting operations"
+        ]
+      }
+    ],
+    "clueweb22-en0006-16-01303": [
+      {
+        "point_number": 1,
+        "point_content": "Most fugitives are criminals by trade, and will remain criminals while they are on the run. They'll sell drugs, perform robberies and thefts, engage in prostitution or pimping, or they will commit frauds to earn a living.",
+        "spans": [
+          "Most fugitives are criminals by trade, and will remain criminals while they are on the run. They'll sell drugs, perform robberies and thefts, engage in prostitution or pimping, or they will commit frauds to earn a living."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Some fugitives attempt to obtain and hold legitimate jobs, but it is far easier before 9/11 and recent immigration crackdowns.",
+        "spans": [
+          "Some will attempt to obtain and hold legitimate jobs. In the United States this was far easier prior to 9/11 and recent immigration crackdowns."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Fugitives may live off money they have taken with them or saved.",
+        "spans": [
+          "Living off of money that they ta"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Fugitives may have to learn to make money in the cash economy, such as affiliate marketing with anonymous bank accounts or working among migrant workers.",
+        "spans": [
+          "He or she will have to learn the art of cobbling. Devise ways to make money in the cash economy. And if he or she can barely leave the bedroom or basement, working online is probably best. Affiliate marketing plus anonymous bank accounts to get paid might be a viable route. When technology is out, one might consider hiding among migrant workers."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Fugitives need to keep a low profile, live modestly, and avoid drawing attention to themselves to survive on the run.",
+        "spans": [
+          "Keeping a low profile — The police usually have their hands full, and so they don't notice people who aren't trying to be noticed. Wear clothes that allow you to blend into your surroundings and that are appropriate. Avoid large amounts of jewelry. Buy and drive a nondescript vehicle. Keep your music at a reasonable level. Avoid loud public confrontations.",
+          "Live in a decent neighborhood — If you want to avoid the cops, don't hang out where they do. Find a nice house or apartment in a low cr"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Fugitives often have to cut ties with their past and avoid contact with family and friends to avoid capture.",
+        "spans": [
+          "Forget about everyone you know including relatives. As a police officer, I start with your home, then your parent's home, your girlfriend's home, and all your friend's homes. Each person I visit will give me new ideas as to where you would go.",
+          "The fugitive remains in contact with family members, friends, or acquaintances - Either the relationship between the fugitive and those people sour; or the other party becomes careless in their speech or their actions and they allow details of the fugitive’s location to be discovered."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Fugitives may hide in plain sight by adapting a modest lifestyle in a medium-sized city to blend in.",
+        "spans": [
+          "The best place to hide something is in plain sight. People tend to overthink everything, including plot lines. If I were a fugitive, I believe that I would adapt a modest lifestyle in a relatively medium sized city. The coppers will either look for the person in a large city where someone may try to blend in with everyone or in a reall"
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Fugitives may join groups such as migrating agricultural workers to live simply and avoid detection.",
+        "spans": [
+          "The farmers out there are used to paying people under the table, so I would join a group of migrating agricultural workers. It would be a simple life, but it would be far better than going to prison."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Fugitives often continue to commit crimes to survive, including the crimes that got them into trouble initially or new crimes.",
+        "spans": [
+          "By definition, most fugitives are criminals. That means that they have a history and a willingness to break the law if or when they need to. That also means that if they go on the run, they could easily continue the crimes that got them into trouble in the first place. Or they could commit new crimes if they need money to survive."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Fugitives may use false or bought identity documents to obtain work or live under a new identity.",
+        "spans": [
+          "You buy identity documents from someone on the street - There are many undocumented workers from around the world living in the United States. They get the identification that they use from somebody and so can you."
+        ]
+      }
+    ],
+    "clueweb22-en0019-50-11351": [
+      {
+        "point_number": 1,
+        "point_content": "The average fugitive on the Most Wanted List remains free for about 1.67 years.",
+        "spans": [
+          "average fugitive on the Most Wanted List remains free for about 1.67 years"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Only 25% of all wanted criminals had not been caught within 1 year of being put on the list.",
+        "spans": [
+          "Only 25% of all wanted criminals had not been caught within 1 year of being put on the list"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Under 10% of fugitives remained free for 5 years.",
+        "spans": [
+          "Under 10% of fugitives remained free for 5 years"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Bin Laden was technically at-large for over 10 years, but he also had the luxury of heavily guarded caves and compounds.",
+        "spans": [
+          "Bin Laden was technically at-large for over 10 years, but he also had the luxury of heavily guarded caves and compounds"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Tips on how to stay hidden from the police include: never contact family directly, use a middle man, use cash only ($20s and under), go where there’s no one else (woods, islands, sewer systems), don’t make trouble, and never stop looking over your shoulder.",
+        "spans": [
+          "Never contact family directly. Always use a middle man.",
+          "Use cash only, $20s and under.",
+          "Go where there’s no one else. Woods, islands, sewer systems, etc.",
+          "Don’t make trouble.",
+          "Never stop looking over your shoulder."
+        ]
+      }
+    ],
+    "clueweb22-en0001-30-05534": [
+      {
+        "point_number": 1,
+        "point_content": "Italian mafias have an international organization that helps fugitives resurface in foreign places and live a different life.",
+        "spans": [
+          "They certainly have an organization that a lot of criminals don't have.",
+          "the mafia certainly has the kind of international organization where, if someone has to go on the run, he can resurface in some foreign village or someplace and live a different life."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Fugitives use common sense tactics like changing their appearance and avoiding old acquaintances, and use intimidation if found out.",
+        "spans": [
+          "One is common sense. You change the way you look and you stay away from the people you usually hung out with.",
+          "Two is if you're found out, you engage in intimidation. You use fear."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Psychological fortitude and the ability to sever ties with past life and family is crucial for survival on the run.",
+        "spans": [
+          "I think it's basically a psychological fortitude that certain people have. They can put the past behind them. They can walk away from ties to family. They can walk away form ties to the mob and just be isolated."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Fugitives must manage their ego and avoid contacting old neighborhoods to prevent capture.",
+        "spans": [
+          "When you're on the run, not only do you have to cut ties, but you've got to someone find a way to calm [that ego] down or find different ways to satisfy your egomaniacal ways.",
+          "So they call their old neighborhoods [saying], \"I need help.\" And the US Marshals are all over them."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Mafia structure provides a new identity and role that helps fugitives live cautiously and prudently away from the mob.",
+        "spans": [
+          "It is a mob and you have a role in the mob. It's your identity as a mobster by being part of the group.",
+          "Once you separate yourself from that group, once you don't have that identity, you have a new definition of self.",
+          "So you live a bit more cautiously, more prudently."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Access to funds and planning ahead with hidden money helps fugitives survive longer in hiding.",
+        "spans": [
+          "People who have access to funds can go further and live longer in hiding.",
+          "[Whitey was] brilliant in anticipating that someday he might have to take off. So he hid money in safety deposit boxes."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Mafia fugitives can get help from the organization if they remain in good standing, unlike most non-mafia criminals who are on their own.",
+        "spans": [
+          "if you can find a back channel and you're still in good standing, they can help to take care of you, get you what you need.",
+          "But not a lot of non-mafia [have that]. They tend to be on their own and it's risky and bad to make a call back to the old neighborhood and say, \"Hey, I need some support.\""
+        ]
+      }
+    ],
+    "null": []
+  }
+}

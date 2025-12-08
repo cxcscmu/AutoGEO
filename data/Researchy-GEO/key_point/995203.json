@@ -1,0 +1,872 @@
+{
+  "question": "what makes a successful manager",
+  "key_points": {
+    "clueweb22-en0019-66-13786": [
+      {
+        "point_number": 1,
+        "point_content": "A good manager is a person who can get his men to do the work better than he can.",
+        "spans": [
+          "A good manager is not a person who can do the work better than his men; he is a person who can get his men to do the work better than he can."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "A good manager keeps a fine balance between employees’ needs and requirements, business goals, and their well-being and aspirations.",
+        "spans": [
+          "one of the qualities of a good manager is to keep a fine balance between employees’ needs and requirements, business goals, and their well-being and aspirations."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Good managers avoid micromanagement because employees want a certain degree of freedom and confidence in their skills.",
+        "spans": [
+          "no employee likes to be micromanaged and a good manager must bear this in mind.",
+          "Employees want a certain degree of freedom. They want managers to feel confident in their skills and abilities to perform a given job."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Good managers do not spoon-feed solutions but help employees develop problem-solving skills.",
+        "spans": [
+          "Another essential quality of good managers is that they don’t serve everything to their employees on plates.",
+          "This negative habit of spoon-feeding solutions prevents employees from doing all the hard work of seeking the best solution themselves."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Good managers define clear and attainable goals for their employees and prioritize work effectively.",
+        "spans": [
+          "Good managers always set attainable goals for employees and reward them for achieving them.",
+          "Poor planning and the inability to define goals do not do your team any good."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Good managers do not lead with an egoistic mindset and avoid arrogance to maintain good relationships with their team.",
+        "spans": [
+          "Arrogant managers think that since they are in charge of their teams, it’s because they are more skilled and competent than others.",
+          "As a result, managers lose touch with their team members, which further widens the gap between both sides."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Good managers avoid displaying blatant favoritism to maintain fairness and morale in the workplace.",
+        "spans": [
+          "Managers displaying signs of favoritism at work can disrupt the workplace.",
+          "Poor managers are quite good at showing who they favor over others, irrespective of an individual’s abilities or lack of them."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Good managers align organizational purpose with team goals to help employees understand the value of their work.",
+        "spans": [
+          "Good managers don’t just tell their employees to do tasks; they also tell them why they need to do what they are assigned to do.",
+          "Good managers help them understand the value of their work and how it’s vital to achieve organizational goals."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Good managers demonstrate empathy with their team, which helps build trust and effective communication.",
+        "spans": [
+          "Empathetic managers understand the emotions of their team members.",
+          "As a result, their employees trust them more and managers can build rapport, which fuels team success."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Good managers delegate tasks effectively by assigning work to the right people and allowing them to develop new skills.",
+        "spans": [
+          "Good managers delegate tasks effectively.",
+          "Good managers don’t delegate tasks randomly; they identify potential within their teams and assign work to the right people using the right methods and tools."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Good managers set clear goals and expectations using specific and direct instructions to avoid ambiguity.",
+        "spans": [
+          "Good managers are quite direct and specific about their expectations from employees.",
+          "Many good managers use the SMART goal method to define expectations."
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "Good managers make communication a priority to ensure smooth flow of information and successful project delivery.",
+        "spans": [
+          "Good managers are the first ones to recognize this, and therefore, invest their time and energy in ensuring a smooth flow of communication throughout the project.",
+          "Effective communication is the key to not only maintaining amicable relationships in the workplace but also delivering work successfully."
+        ]
+      },
+      {
+        "point_number": 13,
+        "point_content": "Good managers bring out the best in their people by recognizing good performance and giving credit fairly.",
+        "spans": [
+          "Best managers always recognize good performance and give credit where it’s due.",
+          "Good managers respect their employees and show them that they are valuable assets to the organization."
+        ]
+      },
+      {
+        "point_number": 14,
+        "point_content": "Good managers leverage the latest technology to simplify team management and improve productivity.",
+        "spans": [
+          "Smart managers know that technology, like project management software or online collaboration tool, is there to simplify the way they handle their teams, and their teams manage their work.",
+          "They know that technology has a solution for everything  – right from efficient task management and simplified collaboration to effortless reporting and time tracking."
+        ]
+      },
+      {
+        "point_number": 15,
+        "point_content": "Good managers set up the team for success by focusing on individual performances and aligning efforts with team goals.",
+        "spans": [
+          "Good managers don’t just inspire their teams to collaborate and work efficiently, they don’t settle until the team reaches the pinnacle of success.",
+          "By bringing together all the aspects of successful team building like communication, collaboration, clarity and trust, they make sure that the team knows the purpose of their efforts."
+        ]
+      },
+      {
+        "point_number": 16,
+        "point_content": "Good managers inspire at every level, boosting morale and building a positive work culture.",
+        "spans": [
+          "Most importantly, a good manager never fails to inspire others.",
+          "Good managers know that their role is not limited to only making a productive environment. Rather they have a role to play in building a positive work culture so that  individuals thrive, and continue to strive for betterment at every level."
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0025-09-19090": [
+      {
+        "point_number": 1,
+        "point_content": "Good managers have developed a specific set of skills that help them lead their teams to success.",
+        "spans": [
+          "Good managers have developed a specific set of skills that help them lead their teams to success."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Communication skills are important for a successful manager to convey points clearly and listen to feedback.",
+        "spans": [
+          "1. Communication skills",
+          "It’s important to be able to convey your points clearly and concisely so each team member knows exactly what is expected of them. It’s just as important to be able to listen to constructive feedback and concerns, and to mediate misunderstandings. Good managers choose their words carefully to avoid confusion or misunderstanding."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "A healthy work ethic that values hard work and performing at your best is a key quality of good managers.",
+        "spans": [
+          "2. Work ethic",
+          "One thing all good managers have in common is a healthy work ethic that places value on working hard and performing at your best. Working to your full potential sets a good example for employees to follow and encourages them to adopt positive work habits. Managers who demonstrate a strong work ethic inspire their team to perform at their full potential."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Good managers are goal-oriented and can set achievable goals and create strategies to meet those goals.",
+        "spans": [
+          "3. Goal-oriented",
+          "Good managers can set achievable goals and create strategies to meet those goals. Setting SMART goals is one approach that uses objectives that are specific, measurable, actionable, relevant and time-based, so they can easily translate into effective strategies.",
+          "Dividing goals into smaller steps can make long-term projects easier to accomplish and help your team remain motivated throughout a project."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Managers should have in-depth industry knowledge and continue to hone their skills.",
+        "spans": [
+          "4. Industry knowledge",
+          "Managers should be able to demonstrate an in-depth understanding of their company and its place in the industry. Managers who remain active in networking channels and continue to hone their skills through education and workshops set a good example for employees to stay active and knowledgeable throughout their careers."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Good managers are positive and inspirational, encouraging teamwork and making each member feel valued.",
+        "spans": [
+          "5. Positive and inspirational",
+          "Good managers strive to be strong leaders who encourage teamwork. To empower your team to succeed, make sure each member feels valued. Ask for input and engage your team in the entire process for each project.",
+          "Strong leaders also provide positive feedback that helps employees understand what they did well while also identifying opportunities for improvement."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Good managers are encouraging and supportive, helping team members advance in their careers and recognizing their strengths.",
+        "spans": [
+          "6. Encouraging and supportive",
+          "Good managers help team members advance in their careers by giving them credit when they perform well and highlighting their achievements in staff meetings and performance reviews.",
+          "As a manager, you can help your team identify their strengths and apply their talents to projects. Talk with individual team members regularly about their professional goals."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Strong conflict resolution skills are essential for good managers to mediate disagreements and keep morale high.",
+        "spans": [
+          "7. Conflict resolution methods",
+          "It’s important for a good manager to have strong conflict resolution skills since every team often has multiple personalities. Understanding how to mediate disagreements and resolve conflict in a way that makes everyone feel valued is essential to keeping projects on track and morale at a peak."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Being a role model by exhibiting qualities like honesty, transparency, and responsibility is important for managers.",
+        "spans": [
+          "8. Role model",
+          "Being a role model for your team can help them develop the valuable skills needed to excel at their jobs. To be an effective role model, make sure you exhibit qualities you expect from your team, such as honesty, transparency and the willingness to take on additional responsibility.",
+          "Accepting responsibility can show your team you can learn from mistakes. When you notice members displaying a positive quality, make sure you praise them. When you display the qualities you expect from your team, they will be more likely to develop them."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Good managers display honesty and transparency to build trust and open communication with employees.",
+        "spans": [
+          "9. Honest and transparent",
+          "Good managers display a sense of honesty and integrity that allows employees to trust their judgment. It’s essential for a team to have open transparency and it starts with a manager who is honest and trustworthy. Employees will feel more comfortable discussing concerns with a manager who will listen and give honest feedback."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Empathy and sincerity in understanding team members' challenges and promoting work-life balance are key for successful managers.",
+        "spans": [
+          "10. Empathetic and sincere",
+          "The best managers are committed to producing results but also understand the unique challenges and needs of their team members. This kind of understanding takes place inside and outside of the office. Making sure that employees feel recognized for their work is just as important as allowing flexible schedules to accommodate family obligations. A manager that not only recognizes; but also, promotes a healthy work-life balance for their team will inspire greater loyalty and ultimately higher productivity."
+        ]
+      }
+    ],
+    "clueweb22-en0030-82-19218": [
+      {
+        "point_number": 1,
+        "point_content": "Successful managers have developed the soft skills that allow them to operate more successfully.",
+        "spans": [
+          "Successful managers have developed the soft skills that allow them to operate more successfully."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The skills all successful managers need to develop are goal achievement, motivation, planning, delegation, conflict management, communication, and self-control.",
+        "spans": [
+          "The skills all successful managers need to develop are: Goal achievement skills. Motivation skills. Planning skills. Delegation skills. Conflict management skills Communication skills. Self-control: (self-discipline, self-motivation, self-confidence)"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Successful managers clearly define the goal and they commit to its achievement.",
+        "spans": [
+          "Successful managers clearly define the goal and they commit to its achievement."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "A successful manager understands the twin track pleasure-pain theory of motivation and can use both positive and negative motivation, mostly positive motivators but occasionally negative motivation.",
+        "spans": [
+          "A successful manager understands the twin track pleasure-pain theory of motivation and can use both types. He will use mostly positive motivators, but on occasions will use negative motivation."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Good managers are planners who have everything planned out and organised, making themselves ready before the event.",
+        "spans": [
+          "Good managers are planners. They have everything planned out and organised. Everyone on the team is fully aware of the plan, all the materials are available, funding if organised, and the performance is successful because it is well planned."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Delegation enables development of team skills, utilization of full productive capability, balancing load, and planning for succession and promotions, and must be done properly with clear communication, measurable progress, appropriate skills, resources, and deadlines.",
+        "spans": [
+          "Delegation is the act of entrusting a task to another. This is good because it enables you to: Develop their skills. Utilise the full productive capability of the team. Balance the load across the individuals that comprise the team. Plan for succession and promotions. Delegation must be done properly. The task must be specifically communicated, so that no misunderstandings are possible. The progress on the task must be measured. The task must be within the person's skills range. The task must be well resourced. The task must be given a reasonable deadline for completion."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Conflict management involves tackling conflict early, keeping language factual, naming wrong and right behaviour, negotiating solutions, and securing commitment.",
+        "spans": [
+          "Conflict is inevitable because not everyone agrees with your views. If there is a conflict, then follow these rules. Don't ignore it. Tackle the conflict situation early. Don't get emotional. Keep your language factual, not opinionated. Name the \"wrong behaviour\". Name the \"right behaviour\" Ask the person to change from the \"wrong\" to the \"right\" behaviour. If they refuse, ask them for an alternative solution to your proposal, and negotiate a mutually agreeable \"right behaviour\" solution. Ask for their commitment to the new \"right behaviour\". Thank them and leave on a positive note."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Successful communication means the accurate transfer of information, using clear, convincing, positive language, being specific, using numbers, focusing on what you want, being polite, and optimistic.",
+        "spans": [
+          "Successful communication means the ACCURATE transfer of information from one mind to another: Communicate without error, omission or deformation. Communication relies on your proper use of language, so you need to practice making your communication clear, convincing and positive. Follow these rules for communication: Be as specific as you can be. Avoid generalities or ambiguous statements. An ambiguous statement is any statement that can be understood in more than one way, for example \"Send that to me ASAP\". Use numbers to quantify your communications. Use numbers to specify exact times, exact quantities, exact amounts, exact rates. Don't waste time talking about what you don't want. Talk about what you DO want. Always be polite. Never be rude to anyone. Develop a tendency towards optimism rather than pessimism or fear."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Self-discipline is essential for successful management, involving mastering your mind, language, habits, fear, physical body, and motivation.",
+        "spans": [
+          "You cannot successfully manage others unless you can manage yourself. That means you must master yourself, before you can master anything else. Master your own mind. Think optimistically not pessimistically. Master your own language. Think before you speak. Don't just blurt anything out. Never swear. Swearing reveals a lack of respect for your listeners and makes the person swearing sound brutish. Master your bad habits. Identify your worst bad habit and replace it with its opposing good self-discipline. Master your fear. Identify any irrational fear, such as public speaking or spiders, and break it by wilfully forcing yourself to do the thing you fear. Master your physical body. Take control of your physical condition and improve your health and energy levels. Eat better, exercise more. Master your motivation. Make yourself do the tasks you don't want to do. Self-discipline is the master key to your success."
+        ]
+      }
+    ],
+    "clueweb22-en0009-14-16490": [
+      {
+        "point_number": 1,
+        "point_content": "The key to effective management is to delegate the work – you should assign responsibilities and tasks to your employees.",
+        "spans": [
+          "The key to effective management is to delegate the work – you should assign responsibilities and tasks to your employees."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Set achievable goals for employees to give them purpose and direction and ensure alignment with organizational goals.",
+        "spans": [
+          "set goals that his subordinate will strive for",
+          "these goals give the employees a new purpose and direction",
+          "ensure that all employees are marching towards the larger organizational goals"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Communication is essential for managers to keep employees informed and efficient.",
+        "spans": [
+          "a good manager always makes an effort to keep his subordinates in the loop",
+          "Employees must remain updated as to what has to be done how in order to do their job efficiently and on time."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Make time for your subordinates when they need to talk to you, even if it means putting your work aside temporarily.",
+        "spans": [
+          "When an employee needs to talk to you, you must make sure that you make time to see him and step aside for a discussion.",
+          "It is okay to put your work on the back-burner for a moment and focus on this person in need of your assistance."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Recognize and appreciate employees' achievements to increase job satisfaction and happiness.",
+        "spans": [
+          "The day you begin appreciating your team for their efforts, you subordinates will be a happier lot.",
+          "if you want your employees to have job satisfaction it is vital to give them a pat on their backs."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Be a good leader by showing good qualities and inspiring others, behaving as you want your subordinates to behave.",
+        "spans": [
+          "To be a good leader, you must show your good qualities to the world and inspire others.",
+          "You will have to be the change you wish to see in others. So start behaving as you would want your subordinates to behave at work."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Come up with lasting solutions by addressing the root cause of problems rather than quick fixes.",
+        "spans": [
+          "A good manager believes in dealing with the root cause of the problem, rather than just superficially fixing it."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Stop playing the blame game and hold the power to inspire employees to exceed expectations.",
+        "spans": [
+          "you can’t go on blaming everyone in the team for one person’s failure to perform or your own failure to lead.",
+          "You must hold the power to inspire employees so that they exceed all expectations."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Build on people’s strengths by focusing on their core areas of strength to encourage them and get the best return on investment.",
+        "spans": [
+          "You should distinguish yourself by paying special attention to core areas that represent the strength of your subordinates. This will encourage them and this is how you will receive your biggest return on investment."
+        ]
+      }
+    ],
+    "clueweb22-en0023-11-16595": [
+      {
+        "point_number": 1,
+        "point_content": "Your management style will depend on your specific goals, your organization and the people involved.",
+        "spans": [
+          "Your management style will depend on your specific goals, your organization and the people involved."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Effective managers use different management styles to support their needs and goals at any given time.",
+        "spans": [
+          "Effective managers use different management styles to support their needs and goals at any given time."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "When deciding which management style to use, they might consider factors like volume of work, industry, personality, team goals, and attitudes of people they’re managing.",
+        "spans": [
+          "When deciding which management style to use, they might consider some of the following factors:\nThe volume of work to complete and how quickly it must be done\nTheir industry and company culture\nTheir personality and management qualities\nTheir team and company goals\nThe attitudes and personalities of the people they’re managing"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "A successful manager may use a blend of management styles such as authoritative, consultative, democratic, laissez-faire, persuasive, transformational, and collaborative depending on the situation.",
+        "spans": [
+          "While you may use a blend of management styles, there are a few common ones for organizing and leading a team:"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Successful managers maintain flexibility, mindfulness and the desire to master multiple management styles.",
+        "spans": [
+          "Successful managers typically maintain flexibility, mindfulness and the desire to master multiple management styles."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Improving your management style involves assessing your personal and team needs, comparing them with your skills and personality, closing skills gaps, setting milestones, tracking progress, and seeking feedback and training.",
+        "spans": [
+          "The next step to improving your management style includes assessing your personal and team needs and comparing them with your current skills, experience and personality. Do you have the tools to meet those demands? If not, consider ways to close your skills gap, identify milestones to reach your goal and track your progress regularly.\nYou can also ask for constructive feedback from your direct reports, peers or more senior leadership as well as suggest additional management training."
+        ]
+      }
+    ],
+    "clueweb22-en0012-65-01276": [
+      {
+        "point_number": 1,
+        "point_content": "Great managers are those who are 100 percent invested in the culture that makes the company different than any other firm in the industry.",
+        "spans": [
+          "We talk to our prospective new hires about our culture, and how it directs everything that we do.",
+          "I need to make sure they are 100 percent invested in the culture that makes us different than any other firm in our industry."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "A manager with a positive attitude and passion helps keep morale high and motivates employees to be productive.",
+        "spans": [
+          "If a manager exudes a positive attitude and a passion for his/her work, that will help keep morale high.",
+          "A manager that can motivate people while keeping them on task is a great asset."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The best managers practice ruthless prioritization to keep their team focused on the most impactful projects.",
+        "spans": [
+          "The best managers solve that problem through ruthless prioritization.",
+          "They identify the three most impactful projects from a list of ten and focus their team on those three."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The best leaders have two unique qualities: warmth and competence, which allow them to lead with both head and heart.",
+        "spans": [
+          "Research out of Harvard Business School found that the best leaders have two unique qualities: warmth and competence.",
+          "Managers need both of these qualities to lead with their head and their heart."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Strong managers show empathy by caring about their team and encouraging them to execute priorities even when things go wrong.",
+        "spans": [
+          "It's critical that a manager cares about her team -- and that the team knows this -- to keep everyone positive and working together."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Accountability in managers means taking responsibility for goals and working toward solutions, which influences the whole team to be accountable.",
+        "spans": [
+          "A manager with strong accountability qualities will take action and responsibility for their goals and objectives.",
+          "Most of all, this quality will rub off on the rest of the team and they too will be accountable for their role and results."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Honesty is the most important trait in a great manager, including being straightforward and having integrity.",
+        "spans": [
+          "Honesty trumps them all.",
+          "I want straight shooters who have integrity."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Patience is a critical quality in managers, involving deep understanding and awareness with team members, clients, and vendors.",
+        "spans": [
+          "I look for managers who can exercise a deep understanding and awareness of patience with team members, clients, vendors and sometimes even with themselves!"
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Trustworthy character and integrity are fundamental for a good manager; without them, a manager can be harmful to the organization.",
+        "spans": [
+          "If you don't trust their character then nothing else really matters.",
+          "Managers that can't be trusted are dangerous and, more often than not, end up being a cancer to the organization that is painful and costly to remove."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Great managers are flexible and adapt their management style to each employee rather than using a one-size-fits-all approach.",
+        "spans": [
+          "Great managers need to know how to think quickly on their feet, and they must also alter their management techniques for each employee, rather than expecting all employees to respond in the same manner to one broad management style."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Effective decision making is a key quality of great managers, who can process information and execute decisions with little supervision.",
+        "spans": [
+          "When I look for a great manager, I look for someone who can take in a lot of information and make a decision.",
+          "Who can then execute on it without much hand-holding."
+        ]
+      }
+    ],
+    "clueweb22-en0007-25-09137": [
+      {
+        "point_number": 1,
+        "point_content": "A successful manager provides clear direction by defining specific objectives and outcomes, communicating these clearly to staff, delegating responsibility and defining roles explicitly, establishing and communicating checks and controls, and following up to ensure staff are on track to achieve outcomes.",
+        "spans": [
+          "A good manager provides clear direction",
+          "defines specific objectives and outcomes",
+          "communicates these clearly to staff",
+          "delegates responsibility and defines roles explicitly",
+          "establishes and communicates checks and controls",
+          "follows up to ensure staff are on track to achieve outcomes"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "A successful manager engages in clear communication by expressing ideas effectively, allowing for frequent and open two-way communication, summarizing information to clarify understanding, listening to and acting on staff suggestions, and providing constructive feedback to staff.",
+        "spans": [
+          "A good manager engages in clear communication",
+          "expresses ideas effectively",
+          "allows for frequent and open two-way communication",
+          "summarizes information to clarify understanding",
+          "listens to and acts on staff suggestions",
+          "provides constructive feedback to staff"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "A successful manager effectively develops staff by utilizing staff members' skills and potential through effective delegation, developing staff through appropriate learning activities, empowering staff by sharing control of resources and responsibilities, managing staff performance continuously, providing support and help to maximize performance, and recognizing staff for their efforts.",
+        "spans": [
+          "A good manager effectively develops staff",
+          "utilizes staff members' skills and potential through effective \ndelegation",
+          "develops staff through appropriate learning activities",
+          "empowers staff by sharing control of resources and responsibilities",
+          "manages staff performance continuously",
+          "provides support and help to maximize performance",
+          "recognizes staff for their efforts"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "A successful manager exercises good judgment by defining and clarifying the issue, gathering relevant facts, choosing the most appropriate course of action based on valid information, committing to the course of action, communicating and explaining decision to staff, and following up on implementation.",
+        "spans": [
+          "A good manager exercises good judgment",
+          "defines and clarifies the issue",
+          "gathers relevant facts",
+          "chooses the most appropriate course of action based on valid information",
+          "commits to the course of action",
+          "communicates and explains decision to staff",
+          "follows up on implementation"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "A successful manager plans and organizes to get results by defining objectives, developing set of actions to meet objectives, determining, obtaining and assigning resources, directing and motivating staff to achieve outcomes, and evaluating and reviewing progress.",
+        "spans": [
+          "A good manager plans and organizes to get results",
+          "defines objectives",
+          "develops set of actions to meet objectives",
+          "determines, obtains and assigns resources",
+          "directs and motivates staff to achieve outcomes",
+          "evaluates and reviews progress"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "A successful manager solves problems effectively by defining the problem, gathering and analyzing relevant information, identifying cause and effect relationships, generating possible solutions, and planning, communicating and executing the best solution.",
+        "spans": [
+          "A good manager solves problems effectively",
+          "defines the problem",
+          "gathers and analyzes relevant information",
+          "identifies cause and effect relationships",
+          "generates possible solutions",
+          "plans, communicates and executes the best solution"
+        ]
+      }
+    ],
+    "clueweb22-en0034-90-19463": [
+      {
+        "point_number": 1,
+        "point_content": "Great managers discover what is unique about each person and then capitalize on it.",
+        "spans": [
+          "there is one quality that sets truly great managers apart from the rest: They discover what is unique about each person and then capitalize on it."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Great managers know and value the unique abilities and even the eccentricities of their employees, and they learn how best to integrate them into a coordinated plan of attack.",
+        "spans": [
+          "Great managers know and value the unique abilities and even the eccentricities of their employees, and they learn how best to integrate them into a coordinated plan of attack."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The job of a manager is to turn one person’s particular talent into performance by identifying and deploying the differences among people, challenging each employee to excel in his or her own way.",
+        "spans": [
+          "The job of a manager, meanwhile, is to turn one person’s particular talent into performance. Managers will succeed only when they can identify and deploy the differences among people, challenging each employee to excel in his or her own way."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Great managers tailor roles and responsibilities to capitalize on each employee's unique strengths and preferences.",
+        "spans": [
+          "A critical part of her job, therefore, is to put people into roles and shifts that will allow them to shine—and to avoid putting clashing personalities together.",
+          "Michelle decided that since Jeffrey was so good at resets and revisions—and didn’t enjoy interacting with customers—this should be his full-time job, in every single aisle.",
+          "Michelle shuffled the roles within the store once again. She split Jeffrey’s reset and revision job in two and gave the “revision” part of it to Genoa so that the whole store could now benefit from her ability to arrange merchandise attractively."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Capitalizing on what is unique about each person saves time, makes each person more accountable, builds a stronger sense of team, and introduces healthy disruption.",
+        "spans": [
+          "First, identifying and capitalizing on each person’s uniqueness saves time.",
+          "Second, capitalizing on uniqueness makes each person more accountable.",
+          "Third, capitalizing on what is unique about each person builds a stronger sense of team, because it creates interdependency.",
+          "Finally, when you capitalize on what is unique about each person, you introduce a healthy degree of disruption into your world."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Great managers focus on strengths rather than weaknesses to reinforce self-assurance and optimism in employees.",
+        "spans": [
+          "Great managers seem to understand this instinctively. They know that their job is not to arm each employee with a dispassionately accurate understanding of the limits of her strengths and the liabilities of her weaknesses but to reinforce her self-assurance.",
+          "That’s why great managers focus on strengths."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Great managers trigger good performance by understanding and using the right motivators and recognition tailored to each employee.",
+        "spans": [
+          "The most powerful trigger by far is recognition, not money.",
+          "Great managers refine and extend this insight. They realize that each employee plays to a slightly different audience. To excel as a manager, you must be able to match the employee to the audience he values most."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Great managers tailor their coaching to the learning styles of their employees: analyzing, doing, and watching.",
+        "spans": [
+          "Although there are many learning styles, a careful review of adult learning theory reveals that three styles predominate.",
+          "First, there’s analyzing.",
+          "The best way to teach an analyzer is to give her ample time in the classroom.",
+          "The opposite is true for the second dominant learning style, doing.",
+          "Jeffrey, from Michelle Miller’s store, is a doer.",
+          "Finally, there’s watching.",
+          "If you’re trying to teach a watcher, by far the most effective technique is to get her out of the classroom."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Great managers do not try to change a person’s style but instead identify how each employee is different and incorporate those idiosyncrasies into the overall plan.",
+        "spans": [
+          "Great managers don’t try to change a person’s style.",
+          "They know that their employees will differ in how they think, how they build relationships, how altruistic they are, how patient they can be, how much of an expert they need to be, how prepared they need to feel, what drives them, what challenges them, and what their goals are.",
+          "A manager’s most precious resource is time, and great managers know that the most effective way to invest their time is to identify exactly how each employee is different and then to figure out how best to incorporate those enduring idiosyncrasies into the overall plan."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Great managing is about release, not transformation; it’s about tweaking the environment so each employee’s unique contribution, needs, and style can be given free rein.",
+        "spans": [
+          "Great managing is about release, not transformation.",
+          "It’s about constantly tweaking your environment so that the unique contribution, the unique needs, and the unique style of each employee can be given free rein."
+        ]
+      }
+    ],
+    "clueweb22-en0037-26-05910": [
+      {
+        "point_number": 1,
+        "point_content": "Good managers are essential to any successful organisation and achieve a hard working, productive and effective workforce.",
+        "spans": [
+          "Good managers are essential to any successful organisation.",
+          "An exceptionally good manager achieves a hard working, productive and effective workforce that punches above its weight in its performance."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Good managers attract exceptional staff, make the organisation a preferred employer, increase market share, add to profits and reduce costs.",
+        "spans": [
+          "Good managers attract exceptional staff; they make the organisation a preferred employer; they help to increase market share; add to profits and surpluses, and reduce costs."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Good managers inspire staff who are engaged, committed and willing to go the extra mile.",
+        "spans": [
+          "Their staff are engaged, committed and ‘go the extra mile’."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "A key to successful management is the relationship between the manager and staff, based on trust, commitment and engagement.",
+        "spans": [
+          "A key to successful management is the relationship between the manager and his or her staff.",
+          "Good relationships are based on trust, commitment and engagement, and a good manager’s essential role is to build these relationships for the benefit of the organisation, so that the tasks that are set are completed with enthusiasm, effectively, on time and with the energy to do more."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Good managers have specific attributes in managing people, activities, and themselves.",
+        "spans": [
+          "What are the attributes of a good manager?",
+          "A good manager is good at managing people, they ...",
+          "A good manager is good at managing activities, they ...",
+          "A good manager is good at managing and developing themselves, they ..."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Good managers coach and counsel staff, seek feedback, resolve conflicts, delegate, develop and motivate staff, take the lead, raise morale, and set clear objectives.",
+        "spans": [
+          "coach their staff and counsel those who need it",
+          "have staff who are commitment to them",
+          "seek response and feedback to all communications with staff",
+          "know how to resolve conflicts as they arise and handle negative behaviour effectively",
+          "delegate wherever possible",
+          "actively like to develop, empower and motivate staff and manage under performers",
+          "take the lead",
+          "raise staff morale and are concerned for staff wellbeing",
+          "are conscious of the psychological contract",
+          "enjoy managing the boss",
+          "set clear and unambiguous objectives and discuss them with staff before setting them",
+          "performance manage staff and provide feedback on performance",
+          "engage in selection interviewing",
+          "manage teams",
+          "value everyone’s contribution"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Good managers manage change, seek improvement, control staff, manage crises, influence culture, focus on customers, conduct meetings efficiently, plan and organize, manage strategically and projects, manage risk and stress.",
+        "spans": [
+          "manage change effectively",
+          "seek continuous improvement",
+          "control and co-ordinate staff effectively",
+          "engage in and enjoy crisis management",
+          "influence the culture of teams",
+          "focus on customers/clients and know how to improve business performance",
+          "conduct meetings efficiently",
+          "are good at planning and organising themselves",
+          "are good at both strategic and project management",
+          "are good at risk management and can manage stress in staff"
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Good managers develop themselves by achieving results, communicating well, thinking clearly, being decisive, negotiating, problem solving, writing reports, managing time, and self-development.",
+        "spans": [
+          "achieve good results",
+          "are assertive and communicate well",
+          "are clear thinkers and effective speakers who are good at influencing others",
+          "are decisive, good at negotiation and problem solving",
+          "write good reports",
+          "excel at time management",
+          "spend time in self‐development"
+        ]
+      }
+    ],
+    "clueweb22-en0006-63-09617": [
+      {
+        "point_number": 1,
+        "point_content": "A successful manager earns respect rather than demanding it and avoids a bossy nature.",
+        "spans": [
+          "respect is something which is always earned, never demanded",
+          "Adopting a “Hitler approach” will not only make you unpopular among your team members but also an unwanted member within the organization",
+          "No one will tolerate your Bossy nature for a long time"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "A manager should motivate and support team members to bring out their best and help them develop skills.",
+        "spans": [
+          "One of the most important roles of a manager is to take his team along and motivate team members to deliver their level best",
+          "Your role is to extract the best out of employees and also help them hone their skills and abilities",
+          "Make your team members feel that you are there with them always",
+          "Extend your support whenever required"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "A good manager remains positive and absorbs stress without passing it on to the team, encouraging a positive work environment.",
+        "spans": [
+          "A good manager is one who smiles even at the times of stress",
+          "A manager ought to be like a protective cushion who absorbs all the stress and tension and never passes on to his team members",
+          "Encourage your team members to smile quite often as it not only reduces stress among team members but also leads to a positive ambience at the workplace"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "A successful manager acts as a role model and source of inspiration for the team.",
+        "spans": [
+          "Remember,you have to be a role model for your team members",
+          "A manager is successful only when he is a strong source of inspiration for his team members"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "A manager should carry himself well and dress sensibly to set a good example for the team.",
+        "spans": [
+          "A manager needs to carry himself well",
+          "Whatever you wear daily to work, your team members would automatically start following your style",
+          "Make sure you dress sensibly",
+          "Avoid wearing casuals and loud colours to work",
+          "Wear clothes which make you feel confident and look good"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Honesty and commitment towards the organization are essential for a manager to gain loyalty from team members.",
+        "spans": [
+          "As a manager, one needs to be honest and fully committed towards the organization to expect loyalty from team members in return",
+          "Do not treat your organization as a mere source of earning money"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "A manager should discourage negative behaviors like backstabbing and rumors among team members.",
+        "spans": [
+          "Discourage your team members to backstab each other and spread unnecessary rumours about fellow workers"
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "A manager should be polite, appreciate good performance, and publicly acknowledge hard work to motivate employees.",
+        "spans": [
+          "Never be rude to any of your team members",
+          "Do not treat your employees as slaves",
+          "Appreciate employees who perform exceptionally well",
+          "A pat on their back will go a long way in motivating them to perform even better the next time",
+          "Put their names on notice boards to acknowledge their hard work"
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Punctuality is a key trait for a successful manager and should be encouraged among team members.",
+        "spans": [
+          "Reach office on time",
+          "Being punctual is a great personality trait which makes you successful in a short span of time",
+          "Ask your team members to reach office on time to avoid unnecessary late sittings"
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "A manager should leave ego and personal grudges behind and avoid criticism and mockery at the workplace.",
+        "spans": [
+          "Leave your ego behind the moment you enter office",
+          "There is no place for ego and personal problems at workplace",
+          "Do not hold personal grudges against anyone in your team",
+          "Avoid criticizing and making fun of others"
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Flexibility and realism in approach are important managerial traits, including understanding personal needs like leave for special occasions.",
+        "spans": [
+          "As a manager, you need to be flexible in your approach",
+          "Be realistic",
+          "Don’t be surprised if your team member asks for a half day or a full day leave on his/her birthday",
+          "Do not stop him unless and until there is something really urgent at work"
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "Respecting all team members equally regardless of designation is crucial for a manager.",
+        "spans": [
+          "Respect your team members",
+          "Every employee in the organization ought to be treated as one irrespective of his/her designation or level in the hierarchy"
+        ]
+      },
+      {
+        "point_number": 13,
+        "point_content": "A manager should be a patient listener, provide sympathetic ear, give correct feedback, and monitor performance timely.",
+        "spans": [
+          "Be a patient listener",
+          "Lend a sympathetic ear to your team members in case of queries",
+          "Give them correct feedbacks and timely monitor their performance"
+        ]
+      }
+    ]
+  }
+}

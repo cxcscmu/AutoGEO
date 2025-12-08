@@ -1,0 +1,29 @@
+{
+  "question": "should motorcycles be outlawed on public streets?",
+  "key_points": [
+    {
+      "point_number": 1,
+      "point_content": "Motorcycles provide a cheap, fuel-efficient, and reliable mode of transport for people who cannot afford cars, take less space on the road, and use less fuel than most cars, making them efficient especially in developing countries.",
+      "original_point_number": [
+        1,
+        2,
+        5
+      ]
+    },
+    {
+      "point_number": 2,
+      "point_content": "Motorcycles are fun and loved by many as an expression of freedom and control, despite being noisy and not particularly safe.",
+      "original_point_number": [
+        2,
+        4
+      ]
+    },
+    {
+      "point_number": 3,
+      "point_content": "A lot of the risk to motorcyclists comes from car drivers who do not see or notice them.",
+      "original_point_number": [
+        3
+      ]
+    }
+  ]
+}

@@ -1,0 +1,267 @@
+{
+  "question": "why is the cost of gas rising",
+  "key_points": {
+    "clueweb22-en0004-18-03182": [
+      {
+        "point_number": 1,
+        "point_content": "Bills rose for millions of families in April because of an increase in the energy price cap, which is the maximum price that suppliers in England, Wales and Scotland can charge households.",
+        "spans": [
+          "Bills rose for millions of families in April because of an increase in the energy price cap, which is the maximum price that suppliers in England, Wales and Scotland can charge households."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Energy companies have seen the wholesale prices they pay affected by the war in Ukraine and continuing pressure on gas supplies.",
+        "spans": [
+          "Energy companies have seen the wholesale prices they pay affected by the war in Ukraine and continuing pressure on gas supplies."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The boss of energy regulator Ofgem, Jonathan Brearly, said bills are likely to increase again in October when the price cap is next reviewed, as a result of volatility in the wholesale markets.",
+        "spans": [
+          "The boss of energy regulator Ofgem, Jonathan Brearly, said bills are likely to increase again in October when the price cap is next reviewed, as a result of volatility in the wholesale markets."
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0032-29-00646": [
+      {
+        "point_number": 1,
+        "point_content": "A global shortage of gas has increased prices around the world, with demand rising as economies emerge from the Covid-19 pandemic.",
+        "spans": [
+          "A global shortage of gas has increased prices around the world, with demand rising as economies emerge from the Covid-19 pandemic."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The last winter was a long and cold one across Europe and Asia, increasing demand for heating and leaving gas stocks depleted.",
+        "spans": [
+          "The last winter was a long and cold one across Europe and Asia, increasing demand for heating and leaving gas stocks depleted."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "It was followed by a calm summer with less wind than normal, meaning countries have been less able to rely on renewable energy.",
+        "spans": [
+          "It was followed by a calm summer with less wind than normal, meaning countries have been less able to rely on renewable energy."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The rise in costs has also been attributed to refineries in the US being shut down as a result of Category 4 Hurricane Ida.",
+        "spans": [
+          "The rise in costs has also been attributed to refineries in the US being shut down as a result of Category 4 Hurricane Ida."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "High demand for liquefied natural gas from Asia and a reduction in supplies from Russia have also been blamed for the price rise.",
+        "spans": [
+          "High demand for liquefied natural gas from Asia and a reduction in supplies from Russia have also been blamed for the price rise."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "The UK is more vulnerable to rising gas prices than many other countries as it is more reliant on natural gas to heat homes.",
+        "spans": [
+          "The UK is more vulnerable to rising gas prices than many other countries as it is more reliant on natural gas to heat homes."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "The UK also has less storage capacity after the government allowed a plant which stored three-quarters of the country’s natural gas to be shut down.",
+        "spans": [
+          "The UK also has less storage capacity after the government allowed a plant which stored three-quarters of the country’s natural gas to be shut down."
+        ]
+      }
+    ],
+    "clueweb22-en0026-93-10815": [
+      {
+        "point_number": 1,
+        "point_content": "Experts blame higher gas prices on lower global production and supply disruptions in the U.S.",
+        "spans": [
+          "analysts blame other factors, including lower global production and supply disruptions in the U.S."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Supply-chain issues, including Hurricane Ida and a cyberattack on a fuel pipeline, have disrupted gasoline production and transport.",
+        "spans": [
+          "Storms and hackers have shuttered production and transport of gasoline this summer, with Hurricane Ida temporarily closing most oil production in the Gulf of Mexico and several big refineries.",
+          "The hurricane comes after a cyberattack in May took out a major fuel pipeline to the East Coast for nearly a week."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Shortages including production, refining capacity, and tanker drivers contribute to supply-chain problems affecting gas prices.",
+        "spans": [
+          "current gasoline prices are partly a result of production and refining capacity that was knocked offline by Hurricane Ida and partly a result of other shortages — even a shortage of tanker drivers.",
+          "In short, I think we are having supply-chain problems"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Higher demand as Americans are driving more than a year ago contributes to higher gas prices.",
+        "spans": [
+          "Another factor is that Americans are driving more than we were one year ago.",
+          "Apple's mobility index shows Americans are driving at rates nearly 50% above their pre-pandemic level"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Lower U.S. oil production and OPEC production limits are propping up gasoline prices.",
+        "spans": [
+          "gasoline prices are being propped up by U.S. independent producers and OPEC members limiting their oil production"
+        ]
+      }
+    ],
+    "clueweb22-en0034-72-03965": [
+      {
+        "point_number": 1,
+        "point_content": "Gas prices in America are averaging $3.27 per gallon of regular — over $1 more than a year ago, and the highest they've been since 2014.",
+        "spans": [
+          "Gas prices in America are averaging $3.27 per gallon of regular — over $1 more than a year ago, and the highest they've been since 2014."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Prices at the pump are rising particularly steeply lately, with some states seeing an increase of $.10 or more over one week.",
+        "spans": [
+          "Prices at the pump are rising particularly steeply lately. A gallon of regular costs an extra $.10 or more over what it did one week ago in nine states (Kentucky, Indiana, Florida, Michigan, Alabama, Tennessee, South Carolina, Illinois and Delaware) and Washington, D.C., according to AAA."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Demand for gasoline remains fairly low and has fallen for the last two weeks, which normally would cause prices to fall or not climb.",
+        "spans": [
+          "That should mean that demand for gasoline remains fairly low.",
+          "Indeed, demand at gas stations has fallen for the last two weeks, \"in line with expectations for autumn,\" a blog post from the GasBuddy app reported on Monday.",
+          "And when demand is low and on the decline, prices are generally supposed to fall as well — or at least not climb."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "52% of the retail price of gasoline is based on how much wholesale crude oil costs, and crude prices are high mainly because OPEC+ have decided to keep output limited.",
+        "spans": [
+          "According to the U.S. Energy Information Administration, 52% of the retail price of gasoline is based on how much wholesale crude oil costs.",
+          "Crude prices are high for a variety of reasons, though industry experts say it's mainly because OPEC+ — the Organization of Petroleum Exporting Countries, consisting of Saudi Arabia and 12 other oil-production nations, plus their allies — have decided to keep output limited."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "OPEC+ scaled back oil production dramatically in 2020 and still is below pre-pandemic levels, contributing to high crude prices.",
+        "spans": [
+          "The White House has been pressuring OPEC+ to increase oil production, which was scaled back dramatically in 2020 and still is below pre-pandemic levels."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "After OPEC+ decided not to raise production beyond an already agreed-upon level, oil prices hit a seven-year high, leading to retail gas prices hitting a seven-year high as well.",
+        "spans": [
+          "Last week, after OPEC+ decided it would not raise production beyond an already agreed-upon level, oil prices hit a seven-year high.",
+          "So it does not come as a surprise that retail gas prices in the U.S. followed by hitting a seven-year high as well."
+        ]
+      }
+    ],
+    "clueweb22-en0033-82-03328": [
+      {
+        "point_number": 1,
+        "point_content": "Global prices for fossil fuels, especially gas, are increasing at an unprecedented rate, which will feed into all customer energy bills in the UK.",
+        "spans": [
+          "global prices for fossil fuels, especially gas, are increasing at an unprecedented rate"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The increase in wholesale costs will feed through to the price cap and could add around £150 per household to the next level of the price cap.",
+        "spans": [
+          "the increase in wholesale costs will feed through to this price cap and, although final analysis is not complete and other costs will also determine the overall level, it could add around £150 per household to the next level of the price cap"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Since the last update in February, the wholesale electricity and gas prices have increased by over 50%.",
+        "spans": [
+          "Since we last updated the level of the cap in February, the wholesale electricity and gas prices it tracks have increased by over 50%"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Rising gas prices increase the cost of heating homes and also push up electricity prices.",
+        "spans": [
+          "Rising gas prices increases the cost of heating homes and also pushes up electricity prices"
+        ]
+      }
+    ],
+    "clueweb22-en0003-56-01062": [
+      {
+        "point_number": 1,
+        "point_content": "There is a global shortage of gas that has increased prices around the world.",
+        "spans": [
+          "There is a global shortage of gas that has increased prices around the world."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Last winter was long and cold in Europe and Asia, increasing demand for heating and leaving gas storage sites unusually empty for this time of year.",
+        "spans": [
+          "Last winter was long and cold in Europe and Asia, increasing demand for heating and leaving gas storage sites unusually empty for this time of year."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Demand has risen as economies emerge from the pandemic, and gas use for power generation is stronger than usual, especially in Europe, because of low wind speeds.",
+        "spans": [
+          "Demand has risen as economies emerge from the pandemic, and gas use for power generation is stronger than usual, especially in Europe, because of low wind speeds."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Russia is sending less gas to Europe than expected, and gas production in parts of the world, including in the British sections of the North Sea, has fallen, in part because of disruption caused by the pandemic.",
+        "spans": [
+          "Russia is sending less gas to Europe than expected, and gas production in parts of the world, including in the British sections of the North Sea, has fallen, in part because of disruption caused by the pandemic."
+        ]
+      }
+    ],
+    "clueweb22-en0040-58-03954": [
+      {
+        "point_number": 1,
+        "point_content": "The high price of crude oil is the main driver of rising gas costs.",
+        "spans": [
+          "The high price of crude oil is the main driver of rising gas costs."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Demand has rebounded faster than supply as COVID restrictions end, causing prices to increase.",
+        "spans": [
+          "Prices have increased dramatically partly because demand has rebounded faster than supply as COVID restrictions end."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "OPEC has been slow to reach agreement on production increases, contributing to supply uncertainty.",
+        "spans": [
+          "OPEC has been slow to reach agreement on production increases.",
+          "On July 5, the organization and its ally countries known collectively as OPEC+ left the market in a state of uncertainty when they postponed production talks with no established resumption date."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "U.S. policies, including suspension of oil and gas leases and cancellation of the Keystone XL Pipeline, have slowed supply recovery.",
+        "spans": [
+          "His administration has suspended oil and gas leases in Alaska’s Arctic National Wildlife Refuge (ANWAR) pending review to “determine whether the leases should be reaffirmed, voiced, or subject to additional mitigation measure.”",
+          "And Biden’s cancellation of the Keystone XL Pipeline means natural gas from Canada has to compete for rail space with oil and gas, which is increasing both the demand and cost for transporting it by rail."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Policies like carbon taxes raise the price of gas by design.",
+        "spans": [
+          "Policies like carbon taxes raise the price of gas by design, so we should be wary of Democrats who bemoan the impact of higher prices on American consumers and especially the poor on one hand and make policy decisions to raise those prices on the other."
+        ]
+      }
+    ]
+  }
+}

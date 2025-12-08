@@ -1,0 +1,132 @@
+{
+  "question": "does working from home work? evidence from a chinese experiment",
+  "key_points": {
+    "clueweb22-en0019-74-07984": [
+      {
+        "point_number": 1,
+        "point_content": "Home working led to a 13% performance increase, of which about 9% was from working more minutes per shift and 4% from more calls per minute.",
+        "spans": [
+          "Home working led to a 13% performance increase, of which about 9% was from working more minutes per shift (fewer breaks and sick-days) and 4% from more calls per minute (attributed to a quieter working environment)."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Home workers reported improved work satisfaction and experienced less turnover, but their promotion rate conditional on performance fell.",
+        "spans": [
+          "Home workers also reported improved work satisfaction and experienced less turnover, but their promotion rate conditional on performance fell."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "CTrip rolled-out the option to WFH to the whole firm and allowed employees to re-select between home or office, leading to gains from WFH almost doubling to 22%.",
+        "spans": [
+          "Due to the success of the experiment, CTrip rolled-out the option to WFH to the whole firm and allowed the experimental employees to re-select between the home or office. Interestingly, over half of them switched, which led to the gains from WFH almost doubling to 22%."
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0019-11-01328": [
+      {
+        "point_number": 1,
+        "point_content": "Call center employees who volunteered to WFH were randomly assigned either to work from home or in the office for nine months. Home working led to a 13% performance increase, of which 9% was from working more minutes per shift (fewer breaks and sick days) and 4% from more calls per minute (attributed to a quieter and more convenient working environment).",
+        "spans": [
+          "Call center employees who volunteered to WFH were randomly assigned either to work from home or in the office for nine months.",
+          "Home working led to a 13% performance increase, of which 9% was from working more minutes per shift (fewer breaks and sick days) and 4% from more calls per minute (attributed to a quieter and more convenient working environment)."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Home workers also reported improved work satisfaction, and their attrition rate halved, but their promotion rate conditional on performance fell.",
+        "spans": [
+          "Home workers also reported improved work satisfaction, and their attrition rate halved, but their promotion rate conditional on performance fell."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Due to the success of the experiment, Ctrip rolled out the option to WFH to the whole firm and allowed the experimental employees to reselect between the home and office. Over half of them switched, which led to the gains from WFH almost doubling to 22%.",
+        "spans": [
+          "Due to the success of the experiment, Ctrip rolled out the option to WFH to the whole firm and allowed the experimental employees to reselect between the home and office.",
+          "Interestingly, over half of them switched, which led to the gains from WFH almost doubling to 22%."
+        ]
+      }
+    ],
+    "clueweb22-en0038-09-15483": [
+      {
+        "point_number": 1,
+        "point_content": "Home workers increased the minutes they worked on each shift by 9.2 percent due to reduced breaks and sick days.",
+        "spans": [
+          "Home workers increased the minutes they worked on each shift by 9.2 percent.",
+          "Thanks to reduced breaks and sick days, home workers increased the minutes they worked on each shift by 9.2 percent."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The home worker group increased its productivity by 13 percent over nine months with no measurable difference in call quality.",
+        "spans": [
+          "They find that the home worker group increased its productivity by 13 percent over the trial's nine month lifetime, with no measurable difference in the quality of calls."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Home workers' calls handled per minute increased by 3.3 percent, attributed to a quieter home environment.",
+        "spans": [
+          "Their calls handled per minute also increased by 3.3 percent.",
+          "When asked, the home workers attributed that improved performance to the quieter home environment."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Work satisfaction was higher and attrition was half for home workers compared to office workers.",
+        "spans": [
+          "Work satisfaction also was higher for home workers, and attrition was half that of the control group working in the call centers."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Working from home reduced office costs by $1,250 per employee per year and saved $400 per employee per year in training and lost productivity due to reduced attrition.",
+        "spans": [
+          "working from home reduced its office costs by $1,250 per employee per year, and that reducing attrition saved about $400 per employee per year in training costs and lost productivity."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "The only negative result was that promotion rates for home workers were almost 50 percent lower, possibly due to less visibility to managers.",
+        "spans": [
+          "The only negative result from the experiment was that rates of promotion for home workers were almost 50 percent lower, possibly because they were not visible to office-based managers."
+        ]
+      }
+    ],
+    "clueweb22-en0005-79-00380": [
+      {
+        "point_number": 1,
+        "point_content": "A WFH experiment at CTrip, a 16,000-employee Chinese travel agency, showed a 13% performance increase for home workers.",
+        "spans": [
+          "We report the results of a WFH experiment at CTrip, a 16,000- employee, NASDAQ-listed Chinese travel agency.",
+          "Home working led to a 13% performance increase"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The performance increase was due to working more minutes per shift and more calls per minute.",
+        "spans": [
+          "of which about 9% was from working more minutes per shift (fewer breaks and sick-days) and 4% from more calls per minute"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Home workers reported improved work satisfaction and experienced less turnover, but had a lower promotion rate conditional on performance.",
+        "spans": [
+          "Home workers also reported improved work satisfaction and experienced less turnover, but their promotion rate conditional on performance fell."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "After the experiment, CTrip allowed all employees to work from home and let experimental employees choose their work location, leading to gains from WFH almost doubling to 22%.",
+        "spans": [
+          "Due to the success of the experiment, CTrip rolled-out the option to WFH to the whole firm and allowed the experimental employees to re-select between the home or office.",
+          "which led to the gains from WFH almost doubling to 22%"
+        ]
+      }
+    ]
+  }
+}

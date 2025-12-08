@@ -1,0 +1,159 @@
+{
+  "question": "how have embedded computers and the iot impacted your daily life?",
+  "key_points": [
+    {
+      "point_number": 1,
+      "point_content": "Embedded systems are electronic devices with hardware and software used to perform user applications and tasks, integral to many gadgets in daily life such as digital watches, smart TVs, radios, video games, CD players, kitchen appliances, and workspace devices, and are an integral part of all aspects of modern life including consumer electronics, household appliances, medical equipment, automobiles, industrial applications, aerospace, and communications.",
+      "original_point_number": [
+        32,
+        34
+      ]
+    },
+    {
+      "point_number": 2,
+      "point_content": "Embedded systems enable technology benefits while minimizing cost and power consumption, significantly impacting daily life and becoming more important with the rise of IoT, smart homes, and vehicles.",
+      "original_point_number": [
+        35
+      ]
+    },
+    {
+      "point_number": 3,
+      "point_content": "Embedded computers enable devices to perform specific tasks automatically and efficiently, and embedded computers and the IoT have brought ease in performing daily tasks by using remote controls and sensors.",
+      "original_point_number": [
+        11,
+        19
+      ]
+    },
+    {
+      "point_number": 4,
+      "point_content": "The IoT allows devices to communicate with each other over the internet, enhancing their functionality and enabling communication between devices over the internet.",
+      "original_point_number": [
+        13,
+        20
+      ]
+    },
+    {
+      "point_number": 5,
+      "point_content": "Embedded systems are used in home security and alarm systems to keep you, your family, and your possessions safe, and smart door locking systems and security cameras with embedded computers and IoT can notify owners or authorities remotely in case of intrusion, enhancing security.",
+      "original_point_number": [
+        1,
+        9,
+        16,
+        23
+      ]
+    },
+    {
+      "point_number": 6,
+      "point_content": "Embedded systems control the temperature of your home via thermostat, activating or deactivating your home's furnace or air conditioning system automatically, helping you sleep well.",
+      "original_point_number": [
+        2,
+        10
+      ]
+    },
+    {
+      "point_number": 7,
+      "point_content": "Embedded systems in laundry machines initiate the soak, wash, rinse, and spin cycles based on user settings and sensor data, and smart washing machines use embedded computers and IoT to wash clothes efficiently, save energy, money, resources, and time by remote control and notifications.",
+      "original_point_number": [
+        3,
+        14,
+        21
+      ]
+    },
+    {
+      "point_number": 8,
+      "point_content": "Vehicles contain embedded systems that monitor fuel levels, manage lighting, deploy airbags, provide GPS navigation, and embedded controllers manage many activities such as car operations including adaptive cruise control and collision warning.",
+      "original_point_number": [
+        4,
+        33
+      ]
+    },
+    {
+      "point_number": 9,
+      "point_content": "Traffic lights are controlled by embedded systems that may use sensors to detect vehicles and adjust timing to optimize traffic flow.",
+      "original_point_number": [
+        5
+      ]
+    },
+    {
+      "point_number": 10,
+      "point_content": "Embedded systems optimize elevator movement based on button presses to move people efficiently between floors.",
+      "original_point_number": [
+        6
+      ]
+    },
+    {
+      "point_number": 11,
+      "point_content": "Calculators and printers contain embedded systems that perform their specific functions based on user input or file contents.",
+      "original_point_number": [
+        7
+      ]
+    },
+    {
+      "point_number": 12,
+      "point_content": "Digital cameras use embedded systems to capture, store, and represent image data, and can include features like face detection and image correction algorithms.",
+      "original_point_number": [
+        8
+      ]
+    },
+    {
+      "point_number": 13,
+      "point_content": "Smart technology allows seamless transfer of data and messages, increasing productivity and saving time.",
+      "original_point_number": [
+        12
+      ]
+    },
+    {
+      "point_number": 14,
+      "point_content": "GPS navigation systems with embedded computers and IoT allow easy booking and tracking of cabs and buses via mobile apps, and GPS technology is used by delivery drivers to avoid traffic delays and meet delivery timelines.",
+      "original_point_number": [
+        15,
+        22,
+        29
+      ]
+    },
+    {
+      "point_number": 15,
+      "point_content": "IoT based smart-bands or watches with embedded computers monitor health metrics like blood pressure and heart rate in real time and can notify emergency contacts automatically.",
+      "original_point_number": [
+        17,
+        24
+      ]
+    },
+    {
+      "point_number": 16,
+      "point_content": "Embedded computers are present in everyday devices such as smart refrigerators that use sensors to detect when you are running low on milk and send reminders via wireless networks, and household devices such as coffeemakers that can be programmed to operate automatically.",
+      "original_point_number": [
+        25,
+        31
+      ]
+    },
+    {
+      "point_number": 17,
+      "point_content": "Mobile health (mHealth) technology allows doctors to monitor patients remotely and send reminders for medication and health checks via smartphones.",
+      "original_point_number": [
+        26
+      ]
+    },
+    {
+      "point_number": 18,
+      "point_content": "Technology such as captioning software helps people with disabilities, like deaf individuals, to communicate and compete in a hearing world.",
+      "original_point_number": [
+        27
+      ]
+    },
+    {
+      "point_number": 19,
+      "point_content": "Virtual reality technology is used in flight simulators to train astronauts in a safe environment.",
+      "original_point_number": [
+        28
+      ]
+    },
+    {
+      "point_number": 20,
+      "point_content": "Handheld computers/scanners are used by delivery companies to track packages efficiently.",
+      "original_point_number": [
+        30
+      ]
+    }
+  ]
+}

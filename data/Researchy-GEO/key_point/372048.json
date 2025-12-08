@@ -1,0 +1,294 @@
+{
+  "question": "what business and social problems does data center power consumption cause?",
+  "key_points": {
+    "clueweb22-en0000-05-14128": [
+      {
+        "point_number": 1,
+        "point_content": "Data center power consumption economically affects businesses and environmentally affects society.",
+        "spans": [
+          "Data center power consumption economically affects businesses and environmentally affects society."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Operating costs for data centers is very expensive, exceeding 7 billion dollars in the U.S. alone in 2010.",
+        "spans": [
+          "the total operating costs, concerning electricity, of all data centers within the U.S. alone exceeded 7 billion dollars in 2010"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Data centers consumed 61 billion kilowatt-hours in 2006, contributing to environmental concerns.",
+        "spans": [
+          "data centers consumed 61 billion kilowatt-hours in 2006"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Data centers have an impact on the cost of business and negatively impact the environment via carbon footprint.",
+        "spans": [
+          "data centers have an impact on the cost of business and negatively impact the environment via carbon footprint."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Large technology companies are making efforts to reduce the environmental footprint of their products, recognizing environmental friendliness as beneficial for business and public relations.",
+        "spans": [
+          "Several companies including Cisco, Dell, Google, HP, IBM, and Intel have announced efforts to reduce the environmental footprint of their product offerings",
+          "Large technology companies are starting to understand that being environmentally friendly is good for the wallet and good public relations."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "A large fraction of data center electricity consumption is due to cooling and power delivery infrastructure.",
+        "spans": [
+          "In most data centers the cooling and power delivery infrastructure (air conditioners, power delivery units, etc.) accounts for a large fraction of the total electricity consumption"
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0025-46-11199": [
+      {
+        "point_number": 1,
+        "point_content": "Data center power consumption causes high corporate operating costs as a social problem and requires more power-hungry machines for business operations like video on demand, maintaining websites, and analyzing large data pools.",
+        "spans": [
+          "The business of data center cause is such as video on demand, maintaining web sites, analyzing large pools of transactions or social media data that require more and more power-hungry machines businesses.",
+          "Besides that, the social problem that the data center power consumption cause is high corporate operating costs."
+        ]
+      }
+    ],
+    "clueweb22-en0001-50-03648": [
+      {
+        "point_number": 1,
+        "point_content": "Power consumption by data centers has negative environmental implications due to the sources of electricity generation.",
+        "spans": [
+          "Power consumption by data centers has negative environmental implications.",
+          "The power that is consumed by these data centers is produce from water, coal or nuclear resources."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Electricity generated from coal produces large amounts of carbon dioxide, which is harmful to health and the environment.",
+        "spans": [
+          "When electricity is generated from coal, it generates huge amount of carbon dioxide which we all know is injurious to health and environment."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Nuclear power generation produces highly toxic and radioactive leftover material, which is challenging to dispose of.",
+        "spans": [
+          "In case of nuclear power, the nuclear left over after power generation is highly toxic and radioactive.",
+          "Dumping this radioactive material is highly challenging."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Businesses incur high financial costs for electricity to power and cool data servers.",
+        "spans": [
+          "Businesses have to pay huge amounts of money to acquire electricity for their data servers.",
+          "These servers also need to be kept cool that again requires electricity and the expenditure of financial resources."
+        ]
+      }
+    ],
+    "clueweb22-en0032-47-08717": [
+      {
+        "point_number": 1,
+        "point_content": "Data center power consumption causes higher operating costs for businesses.",
+        "spans": [
+          "Higher operating cost"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Data center power consumption has a negative effect on the environment.",
+        "spans": [
+          "Negative effect towards environment"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Data center power consumption increases the carbon footprint, contributing to global warming.",
+        "spans": [
+          "Increasing carbon footprint mark leading to global warming"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Overheating caused by data center power consumption can cause servers to fail.",
+        "spans": [
+          "Overheat causing servers to fail"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Data center power consumption leads to more power consumption overall, increasing costs and environmental impact.",
+        "spans": [
+          "More power consumption"
+        ]
+      }
+    ],
+    "clueweb22-en0036-48-11616": [
+      {
+        "point_number": 1,
+        "point_content": "Data center power consumption causes business problems related to excessive electricity use and social problems related to environmental impact and global warming.",
+        "spans": [
+          "Excessive power consumption uses vast amount of electricity that must be generated through hydroelectric plants or coal-fired power plants.",
+          "Coal-fired power plants generate huge amounts of carbon dioxide into the atmosphere which some scientists and politicians claim is a major cause of global warming.",
+          "Social implications of increased power consumption point to global warming."
+        ]
+      }
+    ],
+    "clueweb22-en0015-32-12917": [
+      {
+        "point_number": 1,
+        "point_content": "Data centers consume a massive amount of electricity, equivalent to roughly 34 giant coal-powered plants in the U.S. alone, and this consumption is rapidly increasing.",
+        "spans": [
+          "U.S. data centers use more than 90 billion kilowatt-hours of electricity a year, requiring roughly 34 giant (500-megawatt) coal-powered plants.",
+          "Global data centers used roughly 416 terawatts (4.16 x 10 14 watts) (or about 3% of the total electricity) last year, nearly 40% more than the entire United Kingdom.",
+          "And this consumption will double every four years."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The rapid increase in data center power consumption poses a significant problem that is growing quickly.",
+        "spans": [
+          "This is a big problem, and it's getting bigger."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The U.S. government is trying to reduce data center costs by moving to the cloud, which shifts the energy burden rather than reducing it.",
+        "spans": [
+          "In 2016, the Data Center Optimization Initiative (DCOI) told federal agencies to reduce the costs of physical data centers by 25% or more by the end of fiscal year 2018.",
+          "It’s like trying to save the planet by turning off your lights, then going to your neighbor’s apartment and turning on theirs so you can read."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The explosion of AI and IoT devices will massively increase data center infrastructure and electricity consumption.",
+        "spans": [
+          "Streaming video has already changed the game, but the explosion of artificial intelligence and internet-connected devices will change the entire landscape.",
+          "AI is hungry for processing power.",
+          "IoT is projected to exceed 20 billion devices by 2020.",
+          "Given there are currently 10 billion internet-connected devices, doubling that to 20 billion will require massive increases to our data center infrastructure, which will massively increase our electricity consumption."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "It is not feasible to build enough power plants to supply electricity to the rapidly growing number of data centers.",
+        "spans": [
+          "How on earth can we possibly build all the power plants required to supply electricity to twice as many data centers in the next four years?",
+          "The simple answer is that we can’t."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Data center power consumption causes business problems such as high operational costs and social problems such as increased fossil fuel use and environmental impact.",
+        "spans": [
+          "over 80% of the world’s energy still comes from fossil fuels, rising energy costs are a foregone conclusion, and our underinvestment in renewables will likely not change anytime soon."
+        ]
+      }
+    ],
+    "clueweb22-en0013-73-10797": [
+      {
+        "point_number": 1,
+        "point_content": "Excessive power consumption uses vast amount of electricity that must be generated through hydroelectric plants or coal-fired power plants.",
+        "spans": [
+          "Excessive power consumption uses vast amount of electricity that must be generated through hydroelectric plants or coal-fired power plants."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Coal-fired power plants generate huge amounts of carbon dioxide into the atmosphere which some scientists and politicians claim is a major cause of global warming.",
+        "spans": [
+          "Coal-fired power plants generate huge amounts of carbon dioxide into the atmosphere which some scientists and politicians claim is a major cause of global warming."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Social implications of increased power consumption point to global warming.",
+        "spans": [
+          "Social implications of increased power consumption point to global warming."
+        ]
+      }
+    ],
+    "clueweb22-en0038-92-01677": [
+      {
+        "point_number": 1,
+        "point_content": "Data centres are putting a potentially unsustainable strain on the nation's electricity grid.",
+        "spans": [
+          "Data centres are putting a potentially unsustainable strain on the nation's electricity grid"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The nation could face rolling blackouts if the situation isn't rectified due to data centre energy demand.",
+        "spans": [
+          "the nation could face rolling blackouts if the situation isn't rectified",
+          "The prospect of extended blackouts from data centre energy demand has prompted EirGrid to raise an alarm"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Data centres are the single largest homogenous demand driver on the grid, impacting electricity supply security.",
+        "spans": [
+          "The CRU considers that data centres are \"the single largest homogenous demand driver\" on the grid",
+          "wants data centre operators to provide answers to enable further grid integration in order to maintain the security of electricity supply"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Data centres and their demand load are having a major impact on the Irish electricity system currently and into the foreseeable future.",
+        "spans": [
+          "EirGrid has told the CRU that data centres and the demand load they require are \"having a major impact on the Irish electricity system currently and into the foreseeable future.\""
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Data centres are expected to account for 15% of total energy demand by 2026, up from less than 2% in 2015, increasing strain on infrastructure.",
+        "spans": [
+          "EirGrid said it expects data centres to account for 15% of total energy demand by 2026 – up from less than 2% in 2015"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "A data centre with a load of 60 MW would be comparable to the load usage of a large town/small city such as Kilkenny.",
+        "spans": [
+          "According to the Irish Times, a data centre with a load of 60 MW would be comparable to the load usage of a large town/small city such as Kilkenny."
+        ]
+      }
+    ],
+    "clueweb22-en0020-31-17387": [
+      {
+        "point_number": 1,
+        "point_content": "Data centers consume a huge amount of power, comparable to a medium-size town, which impacts the environment negatively.",
+        "spans": [
+          "a single data center can take more power than a medium-size town"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Cooling data centers requires energy and burns fossil fuels, adding to carbon emissions.",
+        "spans": [
+          "Cooling down these copious amounts of computers uses energy and burns fossil fuels, which in turn also adds more carbon emission"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Data centers contribute significantly to the carbon footprint of technology, wasting a large portion of energy.",
+        "spans": [
+          "Seventeen percent of the total carbon footprint caused by technology is due to data centers",
+          "These servers waste 90 percent of the energy they use because they run on full capacity all day long"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Data centers create economic benefits and jobs in communities, positively impacting local economies.",
+        "spans": [
+          "Google data centers generated $1.3 billion in economic activity across the US, and have generated over 11,000 jobs",
+          "Those 11,000 jobs cause a ripple effect – people with greater financial flexibility can support the local economy, which has led to the creation of an additional 4,700 jobs"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "question": "how effective is parliamentary scrutiny",
+  "key_points": {
+    "clueweb22-en0018-18-05763": [
+      {
+        "point_number": 1,
+        "point_content": "A core function of Parliament is the holding of government to account through effective scrutiny, including of policy-making and implementation, and the use of public money.",
+        "spans": [
+          "A core function of Parliament is the holding of government to account through effective scrutiny, including of policy-making and implementation, and the use of public money."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "At Westminster, scrutiny mechanisms include parliamentary questions and select committees.",
+        "spans": [
+          "At Westminster, scrutiny mechanisms include parliamentary questions and select committees."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "How well do such scrutiny mechanisms work, and how might they be improved?",
+        "spans": [
+          "How well do such scrutiny mechanisms work, and how might they be improved?"
+        ]
+      }
+    ],
+    "clueweb22-en0014-90-03403": [
+      {
+        "point_number": 1,
+        "point_content": "Parliamentary scrutiny is the close examination and investigation of government policies, actions and spending that is carried out by the House of Commons and the House of Lords and their committees.",
+        "spans": [
+          "Parliamentary scrutiny is the close examination and investigation of government policies, actions and spending that is carried out by the House of Commons and the House of Lords and their committees."
+        ]
+      }
+    ],
+    "clueweb22-en0044-80-03963": [
+      {
+        "point_number": 1,
+        "point_content": "Parliamentary scrutiny causes government to reconsider and change policy.",
+        "spans": [
+          "There are countless occasions when the atmosphere generated as MPs scrutinise government causes government to reconsider and to change policy."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Proper, considered, penetrating, constructive scrutiny is important for better decisions and more effective action.",
+        "spans": [
+          "Proper, considered, penetrating, constructive scrutiny does really matter."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Scrutiny should foster an atmosphere which encourages candour and transparency from the government, enabling fast learning and better decisions.",
+        "spans": [
+          "We should try to foster an atmosphere which encourages candour and transparency from the government; that is what best enables fast learning, leading to better decisions and more effective action."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "A wise select committee aims to improve attitude, behaviour and performance in ministers, not to discourage them.",
+        "spans": [
+          "The strength of cross-party select committees is that they are set up for more considered and constructive scrutiny which aims to improve attitude, behaviour and performance in ministers, not to discourage them."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Parliamentary democracy is historically effective because it reflects our natural affinity for face-to-face human interaction.",
+        "spans": [
+          "Parliamentary democracy is historically effective because it reflects our natural affinity for face-to-face human interaction."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "The government should welcome parliamentary scrutiny as it shows confidence in accepting high level public scrutiny and enhances public confidence in government continuity.",
+        "spans": [
+          "The government should welcome this, giving the opportunity to show its own confidence in its willingness to accept high level public scrutiny from Parliament. In particular, it will enhance public confidence in the continuity of the government even while the Prime Minister is incapacitated."
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0045-06-18886": [
+      {
+        "point_number": 1,
+        "point_content": "Parliament uses various methods such as legislation scrutiny, ministerial statements, questions, debates, and select committees to scrutinise the Government.",
+        "spans": [
+          "There are a number of ways in which Parliament is able to scrutinise the Government or Executive.",
+          "Using legislation",
+          "Using Ministerial Statements",
+          "Using questions",
+          "Using Debates",
+          "Using Select Committees"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Legislation scrutiny is controlled by Government whips, limiting effective opposition and amendments.",
+        "spans": [
+          "The whole of the discussion in the Commons is controlled by the whips and the Government whips will look to make sure that the Government prevails.  Defeats are very rare even on amendments and Mrs Thatcher’s Governments only failed to carry one Bill in eleven years.",
+          "After the Second Reading a programme motion is passed by the Government to limit the time for discussion on the Bill and Public Bill Committees never get to discuss all the clauses, even though Bills have been getting longer and longer on average.",
+          "The Whips decide which MPs go on a Public Bill Committee and will look to keep off MPs who may not agree to aspects of the Bill and even keep off those with real expertise on the subject in case they argue against the Government. Almost all amendments come from the Government because civil servants have suggested last minute improvements."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Ministerial statements hold Ministers accountable but resignations depend on media pressure and backbenchers' dissatisfaction.",
+        "spans": [
+          "A principle of the Constitution is that Ministers are Accountable to Parliament.",
+          "Sometimes Ministers have resigned because of major mistakes that their Department has made.",
+          "In most cases, Ministers resign because media pressure is intense and Government backbenchers are unhappy with their handling of the situation.",
+          "If the intensity is not high enough Ministers do not always resign."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Questions, especially Prime Minister’s Questions, allow MPs to investigate issues but often become political contests.",
+        "spans": [
+          "The main place this is used is Prime Minister’s Questions, known as PMQs.",
+          "Prime Ministers do not know what questions will be asked.",
+          "Prime Minister’s Questions, which only became significant after the Commons was televised, has become a gladiatorial contest.",
+          "Departmental questions are more effective but civil servants are expert in drafting answers that only give the bare minimum of an answer."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Debates often become party political arguments rather than real investigations.",
+        "spans": [
+          "Government and Opposition debates are normally on topics that divide the parties. They become a set piece for party arguments rather than carrying out any real investigation of the topic."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Select Committees are considered the most effective form of scrutiny, able to investigate issues and call for evidence.",
+        "spans": [
+          "Select Committees have generally been seen as the most effective form of scrutiny in the Commons and have produced reports that are authoritative",
+          "A Committee matches each Government Department and can investigate any issue within the remit of that Department.",
+          "The MPs can call for evidence and interview anyone, for example, interest groups, private sector firms and the bodies that represent particular industries, Government agencies, Government ministers, civil servants, academics and so on.",
+          "Although they do not have the power of a court of law to force people to attend their hearings it is now pretty much accepted that people do attend and it would be very difficult for a Government minister not to come."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Limitations of Select Committees include limited power to compel attendance or information, limited scope, and government not required to act on recommendations.",
+        "spans": [
+          "Select Committees do not have the power of a court of law to require people to attend or require information to be made available.",
+          "They can only cover a limited number of topics in any one session compared with the range of things that Government is doing.",
+          "The Government has to reply to a Select Committee report but does not have to act on its recommendations. Few reports are debated in Parliament."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "There is a general imbalance of power favoring the Government due to party loyalty, control, and resource disparities.",
+        "spans": [
+          "There is a general imbalance between Parliament and Government and aspects of the British system that limit Parliamentary power:-",
+          "Party loyalty and control is strong.",
+          "A Government with a majority can rely on its MPs to almost always support it.",
+          "Government ministers run large departments with full-time civil servants while backbench MPs have only one or two researchers to investigate issues."
+        ]
+      }
+    ],
+    "clueweb22-en0024-13-13796": [
+      {
+        "point_number": 1,
+        "point_content": "The Institute’s work focuses on the role of scrutiny in making government more effective, and on how Parliament can increase the impact of its engagement with government.",
+        "spans": [
+          "The Institute’s work focuses on the role of scrutiny in making government more effective, and on how Parliament can increase the impact of its engagement with government."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The project analysed the work of three committees in the 2010–15 Parliament and aimed to help committees think about their approach to impact: what they want to achieve, how they go about it, and how to assess the impact they have had.",
+        "spans": [
+          "Based on over 40 interviews and five workshops with MPs, staff, witnesses and other committee stakeholders, this project analysed the work of three committees in the 2010–15 Parliament – the Defence and Home Affairs Committees and the Parliamentary Commission on Banking Standards – as well as the committee system more broadly.",
+          "The key objective of the project was to help committees think about their approach to impact: what they want to achieve, how they go about it, and how to assess the impact they have had."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The Institute has conducted over 30 workshops for select committees based on the findings of this research during the 2015 and 2017 Parliaments.",
+        "spans": [
+          "During the 2015 and 2017 Parliaments, the Institute has conducted over 30 workshops for select committees based on the findings of this research."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The Institute has been analysing the role of Parliament in Brexit and how parliamentary scrutiny can be most effective, publishing four reports on the topic.",
+        "spans": [
+          "The Institute has been analysing the role of Parliament in Brexit and how parliamentary scrutiny can be most effective.",
+          "We have published four reports: Scrutinising Brexit, Legislating Brexit, Who's Afraid of the ECJ? and Inquiring about Brexit."
+        ]
+      }
+    ]
+  }
+}

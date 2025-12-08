@@ -1,0 +1,72 @@
+{
+  "question": "compare and contrast prokaryotic and eukaryotic cells and the impact viruses have on them.",
+  "key_points": [
+    {
+      "point_number": 1,
+      "point_content": "Prokaryotic cells lack a membrane-bound nucleus and organelles, have circular DNA free in the cytoplasm, are smaller (0.1-5 μm), have a cell wall containing murein (peptidoglycan), and can have plasmids, capsules, and flagella; eukaryotic cells have a nucleus and membrane-bound organelles, multiple linear DNA molecules associated with proteins, are larger (10-100 μm), and lack a cell wall like prokaryotes.",
+      "original_point_number": [
+        5,
+        6,
+        7,
+        8,
+        15,
+        16,
+        17,
+        18,
+        20,
+        21,
+        22
+      ]
+    },
+    {
+      "point_number": 2,
+      "point_content": "Both prokaryotic and eukaryotic cells carry out all necessary functions of life, carry DNA and rDNA, have vesicles and vacuoles, and can be single-celled organisms.",
+      "original_point_number": [
+        9
+      ]
+    },
+    {
+      "point_number": 3,
+      "point_content": "Prokaryotic cells have many ways to obtain and use energy including photosynthesis, respiration, nitrogen fixation, denitrification, sulfate reduction, and methanogenesis, and can reproduce exponentially fast by binary fission roughly every 24 hours.",
+      "original_point_number": [
+        10,
+        11
+      ]
+    },
+    {
+      "point_number": 4,
+      "point_content": "Eukaryotic cells have organelles such as mitochondria, chloroplasts, endoplasmic reticulum, Golgi apparatus, ribosomes, vacuoles, lysosomes, peroxisomes, and nucleus; nearly every eukaryotic cell has mitochondria, and some have cilia and a cytoskeleton.",
+      "original_point_number": [
+        8,
+        12,
+        16
+      ]
+    },
+    {
+      "point_number": 5,
+      "point_content": "Prokaryotic ribosomes are smaller (70S) compared to eukaryotic ribosomes (80S).",
+      "original_point_number": [
+        19
+      ]
+    },
+    {
+      "point_number": 6,
+      "point_content": "The bacterial cell wall composition affects their classification (Gram positive or Gram negative) and their response to antibiotics.",
+      "original_point_number": [
+        23
+      ]
+    },
+    {
+      "point_number": 7,
+      "point_content": "Viruses impact prokaryotic cells (bacteria) and eukaryotic cells differently, but specific details on the impact of viruses on these cells are not provided.",
+      "original_point_number": [
+        1,
+        2,
+        3,
+        4,
+        13,
+        14
+      ]
+    }
+  ]
+}

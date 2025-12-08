@@ -1,0 +1,913 @@
+{
+  "question": "should college be less expensive",
+  "key_points": {
+    "clueweb22-en0015-19-12235": [
+      {
+        "point_number": 1,
+        "point_content": "Lowering college tuition makes education more affordable and fair for everyone.",
+        "spans": [
+          "The only way to really make college education fair for everyone is to make it affordable (or free) for everyone."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "More affordable college leads to a more educated population and higher political participation.",
+        "spans": [
+          "If more people could afford college, more people would probably attend. This leads to a more educated population. It has been shown that a more educated public results in higher political participation."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Lower college tuition reduces student debt burden.",
+        "spans": [
+          "On average, students in America graduate with debt that is more than $31,000."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "College degrees provide opportunities to earn more money over a lifetime.",
+        "spans": [
+          "For the most part, having your college degree provides you with the opportunity to earn more money over your lifetime."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "High college costs may force students to choose majors based on salary potential rather than passion.",
+        "spans": [
+          "When college costs are high, the experience is considered an investment. Therefore, students often weigh the pros and cons of different majors and may end up choosing a major out of the salary potential."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Arguments against lowering tuition include financing challenges and political polarization.",
+        "spans": [
+          "The question is, “Where would the money come from?” Some people say that increasing taxes is the solution, but who will bear the burden? Also, other ideas would be to cut military spending, for example. This creates a highly polarized political argument."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Lower tuition might reduce opportunities for students to learn money management skills.",
+        "spans": [
+          "College can teach how to create budgets and understand money skills that can be used later in life. So, if college tuition was lessened, how would younger generations hone this skill?"
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Concerns exist that free college might reduce the value and quality of education.",
+        "spans": [
+          "If everyone can attend college, does education lose its value?",
+          "Another concern is that if the demand for college was higher, then would the quality suffer?"
+        ]
+      }
+    ],
+    "clueweb22-en0020-00-19724": [
+      {
+        "point_number": 1,
+        "point_content": "Reducing tuition is one of the ways to ensure that the dream of a college education is a reality.",
+        "spans": [
+          "Reducing tuition is one of the ways to ensure that the dream of a college education is a reality."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "College tuition has outpaced inflation for years, and the current $1 trillion in student debt has led to pressure to reduce college costs.",
+        "spans": [
+          "college tuition has outpaced inflation for years",
+          "the current (jaw-dropping) $1 trillion in student debt coupled with intense pressure from a variety of sources to reduce college costs"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "A number of institutions are starting by lowering tuition, reversing a trend that has seemed inexorable.",
+        "spans": [
+          "A number of institutions are starting by lowering tuition, reversing a trend that has seemed inexorable."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Institutions like Regent University are lowering tuition to increase access and respond to economic realities.",
+        "spans": [
+          "Institutions like Regent University are lowering tuition to increase access, respond to the economic realities of the day, and combat a trend that must be reversed for higher education to meet its goals in America."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Tuition alone does not cover the cost of an excellent college education; public schools rely on state funding and private gifts, private colleges rely on endowments and alumni gifts.",
+        "spans": [
+          "One thing is certain: tuition alone does not cover the cost of an excellent college education.",
+          "Most public schools rely on state funding and private gifts to subsidize the cost of a student's education.",
+          "Private colleges instead rely on endowments and alumni gifts to help cover the cost of education."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "The single factor that has driven tuition costs higher over the last two decades is increases in the number of staff and campus amenities.",
+        "spans": [
+          "Most experts agree that the single factor that has driven tuition costs higher over the last two decades is increases in the number of staff, often fueled by co-curricular programs and dazzling campus amenities."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Higher tuition costs are driving students away, as seen in the UK where university applicants have fallen due to tuition increases.",
+        "spans": [
+          "Higher tuition costs are surely driving students away, as reflected in a recent report that the total number of applicants to all British universities has fallen by 7.7 percent, largely due to tuition increases there."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Reducing tuition is a noble goal and is one of the primary ways to ensure that the dream of a college education be a reality for more Americans.",
+        "spans": [
+          "Reducing tuition is a noble goal and is one of the primary ways to ensure that the dream of a college education be a reality for more Americans in the days ahead."
+        ]
+      }
+    ],
+    "clueweb22-en0014-02-11730": [
+      {
+        "point_number": 1,
+        "point_content": "College has become a business leading to students graduating with over $100K debt.",
+        "spans": [
+          "college is a business",
+          "graduate with a $100K-plus debt waiting for them beyond the gates of graduation"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "College tuition prices keep rising because colleges know students will pay regardless.",
+        "spans": [
+          "Colleges continue to raise their tuition prices simply because they can",
+          "students, the consumers, will be forced to follow through with the purchase"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Full-ride scholarships are very rare and low-income students face disadvantages in obtaining them.",
+        "spans": [
+          "Having the ability to get a full-ride scholarship is just as rare as winning the lottery",
+          "students of low-income backgrounds are already at a disadvantage from the moment they are born"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "College perpetuates the cycle of poverty for low socio-economic students.",
+        "spans": [
+          "College essentially perpetuates the cycle of poverty we see in the status quo"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "College should be cheaper to reduce financial burden and increase education access.",
+        "spans": [
+          "college should be cheaper",
+          "individuals receive a degree without being burdened by an endless amount of debt",
+          "A cheaper college education means a more educated nation and an overall more efficient and productive society"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "College education is necessary for many jobs but does not guarantee employment.",
+        "spans": [
+          "A college education will make or break you",
+          "In order to get a job that can allow you to survive, you must have a college education",
+          "Even at that, you aren’t guaranteed a job after graduation"
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0006-54-07214": [
+      {
+        "point_number": 1,
+        "point_content": "The soaring cost of college is a significant problem for most families, with a 1,225 percent increase since 1978.",
+        "spans": [
+          "THE soaring cost of college — a 1,225 percent increase since 1978"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Middle-class families are most affected by tuition hikes and are largely ineligible for most government scholarship programs.",
+        "spans": [
+          "The issue transcends traditional political battle lines because it is middle-class families who are most affected by tuition hikes. They are largely ineligible for most government scholarship programs."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Students graduate with an average of $33,000 in loan obligations, and parents often borrow even more, with high interest rates.",
+        "spans": [
+          "On average, students are graduating with $33,000 in loan obligations, and parents often borrow even more. The interest rates these borrowers pay can be as high as four times the rate for an auto loan."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Tuition deferment is proposed as a solution to make college more accessible and affordable for middle- and lower-income students.",
+        "spans": [
+          "There is a solution that can make college more accessible and affordable for middle- and lower-income students: tuition deferment."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Colleges should allow students to defer up to 75 percent of the cost of attending school and pay it back over 20 years based on income.",
+        "spans": [
+          "Colleges should offer an alternative to traditional loan programs by allowing students to defer up to 75 percent of the cost of attending school — tuition, room, board and fees — and pay it back over 20 years.",
+          "Repayment would be based on a sliding percentage of what the student defers and then later earns."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "College-based tuition deferment could have lower interest rates than government or private loans, potentially as low as car loans or home mortgages.",
+        "spans": [
+          "College-based tuition deferment would be more attractive to students than government (or private) loans because the interest rates could be much lower.",
+          "The resulting interest rate passed along to student participants could be as low as car loans (around 3 percent) or home mortgages (around 3.5 percent)."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Colleges have an incentive to offer tuition deferment plans to retain middle-class families and show confidence in their programs.",
+        "spans": [
+          "So why would colleges take on the risk of students’ defaulting and the cost of implementing a tuition deferment plan? Because it is in their self-interest to do so.",
+          "To hang on to their middle-class customers, schools need to convince families that the investment of hundreds of thousands of dollars is worth it.",
+          "One way for them to do that is to invest in their students through tuition deferment. It would demonstrate that the college has confidence in its programs and in its ability to educate and prepare graduates for the real world."
+        ]
+      }
+    ],
+    "clueweb22-en0001-77-12649": [
+      {
+        "point_number": 1,
+        "point_content": "The constant rise in college tuition reduces the number of people attending college and obtaining higher education.",
+        "spans": [
+          "The constant rise in college tuition is very concerning to many people who are going to college or someone who wishes to go to college soon, like me.",
+          "It is essential that people realize that every time the price of college rises, fewer people attend college and obtain a higher education."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Increased government funding could help more people get a college degree and reduce debt, benefiting the economy.",
+        "spans": [
+          "There should be organizations through the government set to help pay for the expenses of college.",
+          "Increased government funding would give more people the opportunity to get a college degree and not worry as much about debt, which could ultimately help the economy flourish and affect taxes."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "High cost is a major reason students drop out or cannot attend college, which is concerning for families and the country.",
+        "spans": [
+          "Every year, more and more students drop out of college for many different reasons, and a major reason is because of the cost.",
+          "This issue is very concerning to me and families throughout the United States because we are all afraid that many students will not be able to attend college."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "If college tuition was less expensive, fewer people would rely on free college funded by taxes, potentially lowering taxes.",
+        "spans": [
+          "If college tuition was not so expensive, then there would be fewer people going to free college and public funds would be able to keep up.",
+          "Also, if college tuition was less, then everyone could save more money because taxes could possibly be lowered."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Making college tuition cheaper could increase taxes and decrease jobs due to increased government funding needs and cost-cutting measures in colleges.",
+        "spans": [
+          "If college was cheaper that could mean that the government would have to put more money into the higher education fund.",
+          "Government money for education comes from taxes, so logically if colleges were cheaper that would mean that there would be a larger education fund for college students  and taxes could increase dramatically.",
+          "For colleges to keep their costs low, they would have “to cut back on full-time faculty and increase the use of adjunct or part-time professors” (Roos).",
+          "Many people could lose their jobs and students would “worry about sacrificing the quality of the education” (Roos) with the loss of full-time professors."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Affordable college would reduce student debt, allowing graduates to participate more in the economy.",
+        "spans": [
+          "The fear of debt is a major concern among Americans and a lot of that debt comes from student loans.",
+          "By raising taxes, college could be affordable to more people, which would result in less debt for students and parents.",
+          "Affordable college would allow students to graduate, begin their career, stay on their feet financially, and participate in the growth of the economy."
+        ]
+      }
+    ],
+    "clueweb22-en0006-92-06437": [
+      {
+        "point_number": 1,
+        "point_content": "The cost of college has increased by an exponential amount since the days such were established, contributing to student debt.",
+        "spans": [
+          "the cost of college has increased by an exponential amount since the days such were established"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The monetary value of college includes various necessities such as room and board, books, meals, and tuition, all contributing to the overall cost.",
+        "spans": [
+          "the monetary value of any college in general is built upon various necessities to which these college shall offer (i.e. room and board, books, meal, etc.)"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Tuition fees are used to fund resources including hiring and rehiring the best staff available to provide quality education.",
+        "spans": [
+          "Schools install tuitions within their teaching programs in order to fund for a variety of resources. The teachers for one are the fundamental part of this payment process since most universities attempt to hire and rehire the best staff available to them"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Most students need financial aid to afford college, indicating that college is too expensive for most Americans to afford.",
+        "spans": [
+          "Most students need financial aid to afford college. College is too extravagant for most students to afford."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "A majority of Americans (75%) say college is too expensive to afford.",
+        "spans": [
+          "A majority of Americans -75%- says college is too expensive to afford"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "College tuition prices should be lowered because they are already way too high, and financial problems linked to high tuition contribute to college dropout rates and lower attendance rates.",
+        "spans": [
+          "college tuition prices should be lowered because they are already way too high, college dropout rates are linked to financial problems, and the attendance rates are also suffering due to finances."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "The average public in-state college tuition has risen from around $3,200 in 1997-1998 to $10,700 in recent years, making college less affordable.",
+        "spans": [
+          "An average public in-state college tuition in 1997-1998 was around 3,200 dollars a year. This school year the average public in-state tuition has risen to 10,700."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "The average cost of attending a private university was reported as $32,405 in the 2015-2016 school year, which is very expensive and should be lowered.",
+        "spans": [
+          "The average cost of attending a private university, as of the 2015-2016 school year, was reported as $32,405"
+        ]
+      }
+    ],
+    "clueweb22-en0046-72-12151": [
+      {
+        "point_number": 1,
+        "point_content": "Many colleges offered tuition discounts in response to COVID-19 but are now poised to raise tuition due to inflation.",
+        "spans": [
+          "Many colleges offered tuition discounts in response to COVID-19.",
+          "for the upcoming 2022-2023 year, colleges are reversing course.",
+          "college officials say inflation is forcing them to raise rates."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Tuition discounts during COVID-19 were temporary and did not solve the root causes of college affordability issues.",
+        "spans": [
+          "The temporary tuition relief provided in the early stages of COVID-19 will soon reverse course, underlining the failure of tuition discounts to address the national struggle to pay for college and the root causes of the college affordability crisis."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Lowering tuition costs can increase student access and improve diversity in higher education.",
+        "spans": [
+          "Lowering Tuition Costs to Zero Increases Student Access",
+          "free-college plans promise to improve diversity in higher education."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Student debt forgiveness is a major concern and may be more desired than tuition reduction by some policymakers.",
+        "spans": [
+          "Debt Forgiveness Affirms College's Value to Low-Income Students",
+          "large-scale student debt forgiveness may actually top the wishlist of progressive education policymakers."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Colleges use a discount model for tuition, which can be confusing and intimidating for first-generation college students.",
+        "spans": [
+          "Discount Tuition Model Fails to Serve First-Generation College Students",
+          "intimidating sticker prices can deter prospective applicants."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Discounts and financial aid can obscure the real issue of high college costs and have allowed tuition rates to increase.",
+        "spans": [
+          "Discounts Disguise Unreasonably High Costs of College Education",
+          "Offering discounts obscures the real issue of college affordability.",
+          "the very availability of discount pricing, financial aid, and student loans have allowed college tuition rates to balloon."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Blanket tuition discounts may be less effective than targeted aid to needy students.",
+        "spans": [
+          "Blanket Discounts Are Less Impactful, Less Practical Than Targeted Aid",
+          "colleges should target relief to needy students."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Free college plans have political support but face challenges in Congress and have been scaled back.",
+        "spans": [
+          "The Feasibility of Free College in 2022",
+          "free college has had a hard time in Congress.",
+          "free college plan was first reduced to a free community college plan, then dropped from the Build Back Better Plan altogether."
+        ]
+      }
+    ],
+    "clueweb22-en0034-80-01661": [
+      {
+        "point_number": 1,
+        "point_content": "College affordability is often among the top concerns. When the cost of attending college, university, or trade school is too high, a lot of students simply choose not to pursue a higher education.",
+        "spans": [
+          "College affordability is often among the top concerns. When the cost of attending college, university, or trade school is too high, a lot of students simply choose not to pursue a higher education."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "High costs also leave some college graduates with levels of debt that hamper their abilities to attain at least a middle-class lifestyle.",
+        "spans": [
+          "But high costs also leave some college graduates with levels of debt that hamper their abilities to attain at least a middle-class lifestyle."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "In 2019, the total amount of student loan debt in America was estimated to be over $1.6 trillion.",
+        "spans": [
+          "In 2019, the total amount of student loan debt in America was estimated to be over $1.6 trillion"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Proponents of free college believe that it would benefit the entire nation, not just the individual students who take advantage of it.",
+        "spans": [
+          "Proponents of free college believe that it would benefit the entire nation, not just the individual students who take advantage of it."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "More people would be able to take the good-paying jobs that often go unfilled if college were free.",
+        "spans": [
+          "more people would be able to take the good-paying jobs that often go unfilled."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Graduating with high amounts of student loan debt has been shown to reduce a person's chances of owning a home, getting married, having children, and accumulating wealth.",
+        "spans": [
+          "Graduating with high amounts of student loan debt has been shown to reduce a person's chances of owning a home, getting married, having children, and accumulating wealth."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Free college isn't really free; someone has to pay for it, usually taxpayers.",
+        "spans": [
+          "Technically, free college isn't really free. Someone does have to pay for it. In the case of public college, that means taxpayers."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Several states have already implemented free community college programs or similar ideas.",
+        "spans": [
+          "several states have already implemented free community college programs or similar ideas."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Opponents of free college believe it would be too expensive and could lead to higher taxes and hurt the economy.",
+        "spans": [
+          "Opponents of free college tend to believe that such an idea would simply be too expensive for the federal and state governments to maintain long-term. As a result, Americans may have to start paying much higher taxes. And that, they say, could hurt the economy since people might have less to spend or invest."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Many opponents of free college are especially against making community colleges tuition-free due to low graduation rates and potential negative consequences for non-traditional students.",
+        "spans": [
+          "Many opponents of free college are especially against the idea of making community colleges tuition-free. They point to national statistics indicating that public community colleges are often dead ends for students."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "An income-based repayment system is a possible alternative to free college that ties loan repayment to income and provides affordability and accountability.",
+        "spans": [
+          "An income-based repayment system represents a compromise. Certainly, taxpayers would still have to help fund it since not all loans would be repaid. But the tax requirements would likely be much lower compared to what a tuition-free system would require. And such a system would also put some of the onus back on students. It would remove important obstacles to higher education without removing accountability or a sense of ownership."
+        ]
+      }
+    ],
+    "clueweb22-en0002-19-02506": [
+      {
+        "point_number": 1,
+        "point_content": "The costs of going to college have risen dramatically in recent decades, so much that many are opting not to go to college while those who do are often saddled with student loan debt that follows them through life, sometimes even into retirement.",
+        "spans": [
+          "The costs of going to college have risen dramatically in recent decades, so much that many are opting not to go to college while those who do are often saddled with student loan debt that follows them through life, sometimes even into retirement."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "College education has become much more necessary than in the past to fill today’s roles, and a better educated workforce would be a boon to American economic growth and increase tax revenues.",
+        "spans": [
+          "Our Economy Now Requires a Better Educated Workforce",
+          "College education has become much more necessary than in the past to fill today’s roles. A better educated workforce would be a boon to American economic growth and at the same time increase tax revenues."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The average student today graduates from college $37,172 in student loan debt, which limits their economic contributions; free college would allow them to contribute more to the economy.",
+        "spans": [
+          "The average student today graduates from college $37,172 in student loan debt.",
+          "If people did not have such massive student loan debt, they could buy houses, buy consumer items and contribute more to the economy."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Free college would allow students to focus more on their studies rather than worrying about tuition money, potentially increasing graduation rates.",
+        "spans": [
+          "Students would be able to focus more on their studies rather than worrying about how to scrape together enough funds for each upcoming school term if college were free.",
+          "More students might graduate on time, ready to take on important jobs in their communities."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "There is a widening gap between the wealthy and low-income families, and the high cost of college limits access for low-income students, increasing inequality.",
+        "spans": [
+          "There is a widening gap between the haves and the have-nots in this country.",
+          "The extreme increase in college costs means that fewer and fewer low-income students can attend college, and the wage gap grows larger."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Free college is a natural extension of free elementary and high school education, which evolved over time to become widely accessible.",
+        "spans": [
+          "Free College is a Natural Extension of Free Elementary School and High School",
+          "Free education in this country has been a process of evolution. Free college is the next step."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Other countries have successfully implemented free college programs, viewing education as an investment in the future rather than a giveaway.",
+        "spans": [
+          "Other Countries Have Successfully Implemented Free College Programs",
+          "Education is viewed as an investment in the future of the country rather than a give-away program."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Arguments against free college include that it is not truly free since taxpayers pay, it may result in waiting lists, reduce quality, and degrees may be devalued.",
+        "spans": [
+          "College Is Never Really Free",
+          "Free College May Result in Waiting Lists",
+          "Budget Issues Could Reduce Quality",
+          "College Degrees Would Be Devalued if More People Had Them"
+        ]
+      }
+    ],
+    "clueweb22-en0024-01-11330": [
+      {
+        "point_number": 1,
+        "point_content": "Many students have a “dream school/college” that they want to go to but cannot because they cannot pay for the cost.",
+        "spans": [
+          "Many students have a “dream school/college” that they want to go to but cannot because they cannot pay for the cost."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Young people pile up in debt due to college costs, which forces them to change their planned major for financial reasons.",
+        "spans": [
+          "But this dream becomes a nightmare when young people pile up in debt.",
+          "So many people end up changing their planned major for something they will be able to benefit by moneywise."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Many students receive financial aid, but it doesn’t always cover everything, leading to large student loans.",
+        "spans": [
+          "Many students receive financial aid, but that doesn’t always cover everything.",
+          "Students are taking out thousands of dollars that they don’t have in loans, only to have to pay them off for the rest of their lives."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Eliminating student debt would allow students to focus on their studies instead of working full time to pay off debt.",
+        "spans": [
+          "By eliminating student debt, so many lives would be changed.",
+          "Students would not be struggling to work full time in order to pay off their debt.",
+          "Instead, they could just focus on their studies instead of how they are going to afford their studies."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Lowering tuition would reduce stress for students, especially those moving far from home.",
+        "spans": [
+          "Tuition can also be lowered to reduce nerves and/or stress from those who are just graduated and starting college.",
+          "Not in any way do I think that college should be free, but it should at least be lowered for students to go after their dreams and get the education that everyone deserves."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Lower tuition would allow students to choose colleges based on their interests rather than affordability.",
+        "spans": [
+          "Another reason for lowering the cost would be that students would be open to more college choices without worrying about paying for it.",
+          "If tuition were lower, students would only have to worry about school necessities.",
+          "They would have the option to choose a college based on their major that they have interests in, not a college that they can afford and possibly has their second or third choice for a major."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Lowering tuition would likely increase college attendance and graduation rates.",
+        "spans": [
+          "A second reason lowering tuition is a good idea is that more people would attend college.",
+          "People usually skip college due to high cost, but if tuition cost less, more people would probably be more open to the idea of going to college.",
+          "Because of more college applicants, the rate of college graduates would increase."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Lowering or eliminating tuition might devalue a college diploma and reduce the perceived value of graduating.",
+        "spans": [
+          "College Raptor’s website states that if tuition were lessened or even taken away, it would devalue a college diploma.",
+          "Graduating and getting that diploma might not seem as important if it wasn’t as expensive."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Lowering tuition does not necessarily degrade the quality or reputation of a college.",
+        "spans": [
+          "Even though lowering tuition would consist of possibly devaluing a college diploma, it doesn’t mean the degrading of a college.",
+          "For example if Harvard were to make its college tuition-free, that doesn’t make it less of a school than Yale."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Lowering college tuition is a risky issue but might be necessary for more Americans to be educated and to solve student issues.",
+        "spans": [
+          "To sum this all up, although lowering college tuition is a risky issue for colleges, it might be a risk that the United States should take for more Americans to be educated.",
+          "It would solve many issues students deal with when deciding to attend college."
+        ]
+      }
+    ],
+    "clueweb22-en0000-70-09018": [
+      {
+        "point_number": 1,
+        "point_content": "The cost of attending college has increased substantially since your parents were in school.",
+        "spans": [
+          "The cost of attending college has increased substantially since your parents were in school."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Most college graduates leave school with significant amounts of student loan debt.",
+        "spans": [
+          "most college graduates leave school with significant amounts of student loan debt."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "A bachelor’s degree can still pay off in the long run.",
+        "spans": [
+          "a bachelor’s degree can still pay off in the long run."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The average total cost of attending a public school for in-state students is $27,330 per year, while the total cost of attendance at private universities averages $55,800 per year.",
+        "spans": [
+          "The College Board reported that the average total cost of attending a public school for in-state students is $27,330 per year, while the total cost of attendance at private universities averages $55,800 per year."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "If you graduate within four years, that means your degree would cost between $109,320 and $223,200, depending on which type of school you attend.",
+        "spans": [
+          "If you graduate within four years, that means your degree would cost between $109,320 and $223,200, depending on which type of school you attend."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "College graduates earn more than non-graduates on average.",
+        "spans": [
+          "College Graduates Earn More Than Non-Graduates"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "The median salary for workers with bachelor’s degrees is $64,896, and their unemployment rate is just 2.2% on average, compared to $38,792 and 3.7% for high school graduates.",
+        "spans": [
+          "The median salary for workers with high school diplomas is $38,792, and they have an average unemployment rate of 3.7% as of 2019, according to an analysis of Bureau of Labor Statistics data by Northeastern University. By contrast, the median salary for workers with bachelor’s degrees is $64,896, and their unemployment rate is just 2.2% on average."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "70% of all jobs will require some college education by 2027.",
+        "spans": [
+          "Georgetown University predicts that 70% of all jobs will require some college education by 2027."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "College graduates are more likely to have employer-provided health insurance coverage than high school graduates.",
+        "spans": [
+          "College graduates are far more likely than high school graduates to have employer-provided coverage, offsetting their healthcare costs."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "62% of 2019 college graduates left school with student loan debt, with an average balance of $28,950.",
+        "spans": [
+          "According to The Institute for College Access and Success, 62% of 2019 college graduates left school with student loan debt, with an average balance of $28,950."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "High-paying jobs aren’t guaranteed after college graduation.",
+        "spans": [
+          "High-Paying Jobs Aren’t Guaranteed"
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "Just 58% of students who enrolled in college in 2012 earned a degree within six years.",
+        "spans": [
+          "The National Student Clearinghouse Research Center found that just 58% of students who enrolled in college in 2012 earned a degree within six years."
+        ]
+      },
+      {
+        "point_number": 13,
+        "point_content": "Attending community college is substantially cheaper than attending a four-year college or university.",
+        "spans": [
+          "Attending community college is substantially cheaper than attending a four-year college or university."
+        ]
+      },
+      {
+        "point_number": 14,
+        "point_content": "The average cost of tuition at an in-district community college is just $3,770.",
+        "spans": [
+          "According to The College Board, the average cost of tuition at an in-district community college is just $3,770."
+        ]
+      },
+      {
+        "point_number": 15,
+        "point_content": "Trade schools provide hands-on training for skilled careers and cost much less than four-year schools.",
+        "spans": [
+          "Trade schools, vocational schools or technical colleges provide hands-on training for different skilled careers. The programs tend to be much shorter than college programs, with students graduating in six months to two years.",
+          "The cost of attending a trade school is much less than attending four-year schools."
+        ]
+      }
+    ],
+    "clueweb22-en0001-14-17767": [
+      {
+        "point_number": 1,
+        "point_content": "Lower tuition prices would not help students as much as you may think because students already pay pretty low, pretty steady tuition rates.",
+        "spans": [
+          "Lowering tuition won’t help students because students already pay pretty low, pretty steady tuition rates."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The overall net cost students pay has remained pretty flat and reasonable due to increased aid packages and discounts despite rising sticker prices.",
+        "spans": [
+          "While it is true that sticker prices are going up, so are aid packages and discounts, keeping the overall net cost – the amount students actually pay – pretty flat and reasonable for the deal of a lifetime."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "If colleges cut their ticket prices, they’re certain to cut their aid offerings in kind, leaving little or no net change in what students pay.",
+        "spans": [
+          "But the increased discounting at college that has kept real costs flat also means that if colleges cut their ticket prices, they’re certain to cut their aid offerings in kind, leaving little or no net change in what students pay."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Lowering tuition prices does not necessarily attract more students or increase enrollment.",
+        "spans": [
+          "But lower prices didn’t necessarily attract more students.",
+          "Of the 24 schools Lapovsky studied, half saw a net decline in freshmen enrollment the year of the reduction.",
+          "A year later, more than half, 13 of the 24, still had a net decline in freshmen enrollment post-reset."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Lower tuition prices and lower enrollments were a financial loser for most colleges studied, with many reporting losing tuition revenue after price rollbacks.",
+        "spans": [
+          "And lower prices and lower enrollments were a financial loser.",
+          "A year after discounting, a whooping 19 of 23 colleges for which Lapovsky had data, reported losing tuition revenue since their price rollbacks."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Most colleges that reset their tuition prices increased those prices a year later, often by more than their initial cut percentages.",
+        "spans": [
+          "an overwhelming 20 of the 24 schools that reset their tuition prices increased those prices a year later.",
+          "Ten schools boosted advertised prices 10% or more the year following their resets and six raised tuition more than their initial cut percentages."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "A price reset itself, with no changes in recruitment and marketing strategies, is not likely to be successful.",
+        "spans": [
+          "“A price reset itself, with no changes in recruitment and marketing strategies,” Lapovsky wrote, “is not likely to be successful.”"
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Education customers are brand shoppers, not value shoppers, and lower prices may signal lower quality and hurt brand viability.",
+        "spans": [
+          "The reason it does not work is that education customers are brand shoppers. They are not value shoppers.",
+          "Brand awareness is so deeply etched in education choices that students, like many consumers, naturally assume that a cheaper product in price is a cheaper product in quality, especially when it’s a brand they do not know.",
+          "Which means that by resetting or lowering their tuition, colleges may be sending signals of quality corruption to their potential students – hurting their short-term and long-term brand viability."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Lowering prices makes colleges appear less prestigious, less rigorous and less competitive.",
+        "spans": [
+          "College leaders know that lowering prices isn’t making them more competitive, it’s making them appear less prestigious, less rigorous and, therefore, less competitive."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Some students pay the full advertised tuition rate, and lowering tuition would reduce revenue from these full-price students who help offset costs for others.",
+        "spans": [
+          "Another reason tuition reductions hurt schools is that some students actually pay the advertised rate.",
+          "And while the supply of each may be dwindling, schools rely on those they can find to off-set the costs for other students and programs."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Discounting through scholarships and institutional price discretion is the primary way schools recruit and retain diverse students.",
+        "spans": [
+          "Yet another reason schools would be foolish to cut tuition is that discounting through scholarship awards or institutional price discretion is the primary way schools recruit and retain diverse students – racially, financially and otherwise."
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "Lowering tuition prices is not a real savings and offers no proven advantage; it is a marketing ploy with real financial and other costs.",
+        "spans": [
+          "When it all washes out, the reason colleges should not reset or lower their tuition prices is that it’s not a real savings.",
+          "If colleges cut their sticker prices and cut their offsetting aid, it’s a marketing ploy, not a real difference.",
+          "And there’s certainly no proven advantage to the ploy of appearing cheaper.",
+          "Even that appearance comes with some real costs, financial and otherwise."
+        ]
+      }
+    ],
+    "clueweb22-en0025-92-01855": [
+      {
+        "point_number": 1,
+        "point_content": "College tuition has increased in price more than any other good or service besides hospital care over the past two decades.",
+        "spans": [
+          "Over the past two decades, published college tuition has increased in price more than any other good or service besides hospital care."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The net price of public four-year colleges has more than doubled since the turn of the century.",
+        "spans": [
+          "the net price of public four-year colleges has still more than doubled since the turn of the century."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The proximate causes of tuition inflation include administrative bloat, overbuilding of campus amenities, a model dependent on high-wage labor, and the easy availability of subsidized student loans.",
+        "spans": [
+          "The proximate causes of tuition inflation are familiar: administrative bloat, overbuilding of campus amenities, a model dependent on high-wage labor, and the easy availability of subsidized student loans."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Students overestimate the return to a degree, which inflates their willingness to pay for college and consequently inflates college tuition.",
+        "spans": [
+          "Many students treat a college degree as a “golden ticket” to the middle class, Akers argues.",
+          "The general impression that every degree is valuable—a “golden ticket” or so to speak—pushes up students’ willingness to pay for college, and consequently inflates college tuition."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The true price of a college education is usually hidden, making comparison-shopping across institutions impossible and reducing competitive pressure to lower prices.",
+        "spans": [
+          "the true price of a college education is usually hidden.",
+          "prospective students usually don’t know how much aid they will get until after they are accepted to college.",
+          "This makes comparison-shopping across a wide swath of institutions impossible."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Most students have limited options for higher education, often attending colleges in their home state, which reduces competitive pressure to lower prices.",
+        "spans": [
+          "most students have limited options for higher education.",
+          "Most students attend a college in their home state, thanks to a combination of steep discounts for state residents, familiarity with local schools, and a desire to save money by living at home.",
+          "With few competitors, colleges face less competitive pressure to provide price discounts or improve the quality of education."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Alternative educational providers face barriers to entry due to accreditation systems that favor traditional schools and restrict access to federal financial aid.",
+        "spans": [
+          "most of these alternative providers will find it difficult to access federal financial aid, which means that the playing field is not level between traditional schools and new ones.",
+          "All colleges must be accredited to access federal aid, but the accreditation system is typically hostile to new players.",
+          "Accreditors often judge schools based on factors such as curriculum and faculty rather than whether they achieve better student outcomes for a lower price."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Proposals to reduce college costs include increasing transparency of financial aid and net prices, and opening the market to competition by changing accreditation and funding based on student outcomes.",
+        "spans": [
+          "Akers has several proposals to address them, which fall into two main groups.",
+          "The first prong of her strategy is transparency.",
+          "Better data on financial aid and net prices should be made available and accessible, along with data on typical earnings after graduation.",
+          "The second prong involves opening the higher-education marketplace to competition by removing accreditors from their role as gatekeepers of federal financial aid, and instead allocating funds based on student outcomes."
+        ]
+      }
+    ]
+  }
+}

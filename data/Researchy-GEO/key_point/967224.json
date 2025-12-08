@@ -1,0 +1,174 @@
+{
+  "question": "why is there an energy shortage",
+  "key_points": {
+    "clueweb22-en0017-56-08612": [
+      {
+        "point_number": 1,
+        "point_content": "There is a worrying shortage of energy from Europe to Asia, caused by supply restraints from the world’s top producers.",
+        "spans": [
+          "There is a worrying shortage of energy from Europe to Asia, caused by supply restraints from the world’s top producers"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The shortage is due to multiple factors including customer demand, technical problems, and a lack of investment.",
+        "spans": [
+          "While there is no single reason for the shortage — things like customer demand, technical problems and a lack of investment are all playing a part"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The price of natural gas and coal has surged to multi-year highs as the post-pandemic rebound collides with supply constraints.",
+        "spans": [
+          "The price of natural gas and coal, used to power factories and heat homes, has surged to multi-year highs as the post-pandemic rebound collides with supply constraints"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The energy crisis is threatening to shutter factories and boost power bills globally.",
+        "spans": [
+          "that’s poised to shutter factories and boost power bills"
+        ]
+      }
+    ],
+    "clueweb22-en0019-88-01116": [
+      {
+        "point_number": 1,
+        "point_content": "The UK’s wholesale energy markets have reached record highs in recent weeks due to a global surge in demand for gas following a cold winter that left gas storage facilities depleted, plus a rebound in post-lockdown energy demand across Asia.",
+        "spans": [
+          "The UK’s wholesale energy markets have reached record highs in recent weeks.",
+          "The trouble stems from a global surge in demand for gas following a cold winter that left gas storage facilities depleted, plus a rebound in post-lockdown energy demand across Asia."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "A race to refill gas stores before the return of colder temperatures has caused market prices to surge.",
+        "spans": [
+          "A race to refill gas stores before the return of colder temperatures has now caused market prices to surge."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Half of the UK’s electricity is generated in gas-fired power plants, and there has been higher than normal demand for gas power due to nuclear reactor outages and shutdown of a power cable from France.",
+        "spans": [
+          "The global gas grab is a major concern because half of the UK’s electricity is generated in gas-fired power plants.",
+          "There has also been a higher than normal demand for gas power in recent months following a series of nuclear reactor outages and the recent shutdown of a major power cable that brings in electricity from France."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The UK has had one of its least windy summers since 1961, meaning wind power has been low, worsening the energy supply situation.",
+        "spans": [
+          "The UK has also had one of its least windy summers since 1961, meaning wind power has been low."
+        ]
+      }
+    ],
+    "clueweb22-en0028-37-06248": [
+      {
+        "point_number": 1,
+        "point_content": "The UK’s energy crisis deepened last week after gas market prices surpassed the record highs set in October to reach a new all-time high of £4.50 per therm, about nine times higher than this time last year.",
+        "spans": [
+          "The UK’s energy crisis deepened last week after gas market prices surpassed the record highs set in October to reach a new all-time high of £4.50 per therm, about nine times higher than this time last year."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The latest gas price spike was ignited by concerns over Russia’s gas exports to western Europe, but further hikes are still possible this winter if supplies are disrupted or a cold snap boosts demand for gas heating.",
+        "spans": [
+          "The latest gas price spike was ignited by concerns over Russia’s gas exports to western Europe, but further hikes are still possible this winter if supplies are disrupted or a cold snap boosts demand for gas heating."
+        ]
+      }
+    ],
+    "clueweb22-en0015-57-06230": [
+      {
+        "point_number": 1,
+        "point_content": "Natural gas prices have soared to record highs in Europe because of tight supplies ahead of winter.",
+        "spans": [
+          "Natural gas prices have soared to record highs in Europe because of tight supplies ahead of winter."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "A prolonged cold winter over 2020-2021 that drained natural gas storage raised concerns about supplies.",
+        "spans": [
+          "A prolonged cold winter over 2020-2021 that drained natural gas storage raised concerns about supplies."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Though storage would usually be refilled during summer months when demand is slow, it has not happened at its normal pace in 2021.",
+        "spans": [
+          "Though storage would usually be refilled during summer months when demand is slow, it has not happened at its normal pace in 2021."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Lower solar and wind output is another factor in the price hike, increasing demand for natural gas.",
+        "spans": [
+          "Lowar solar and wind output is another factor in the price hike. With the UK and Europe phasing out coal plants in recent years, less windy weather in recent weeks has lowered their contribution to the grid, meaning that demand for natural gas has increased."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Russia has been sending less gas to Europe, with exports this year dropping to around one-fifth of pre-pandemic levels despite a rebound in demand and low stockpiles in the continent.",
+        "spans": [
+          "Russia has been sending less gas to Europe, with exports this year dropping to around one-fifth of pre-pandemic levels despite a rebound in demand and low stockpiles in the continent."
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0007-80-10200": [
+      {
+        "point_number": 1,
+        "point_content": "The shortage is being caused by tight gas supplies ahead of winter.",
+        "spans": [
+          "The shortage is being caused by tight gas supplies ahead of winter."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Natural gas prices have skyrocketed in recent weeks in Europe because of low supplies.",
+        "spans": [
+          "Natrual gas prices have skyrocketed in recent weeks in Europe because of low supplies."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "A problem with the supply chain and lower solar and wind output are to blame for the gas shortage.",
+        "spans": [
+          "A problem with the supply chain and lower solar and wind output are to blame."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Britain imports some 60 per cent of its natural gas supply, and in August, that rose by more than 70 per cent, pushing some retailers out of business.",
+        "spans": [
+          "On top of that Britain imports some 60 per cent of its natural gas supply, the Department for Business, Energy and Industrial Strategy reported in 2020.",
+          "In August, that rose by more than 70 per cent, according to i news, and pushed some retailers out of business."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The prolonged 2020-2021 winter drained natural gas stocks, which weren't replenished during the summer months when demand is low.",
+        "spans": [
+          "Some are pointing to the prolonged 2020-2021 winter that drained natural gas stocks, which weren't replenished during the summer months, when demand is low."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Low solar and wind output caused by less windy weather and the phasing out of coal-powered plants has dented supply to the grid and forced natural gas prices to accelerate uncontrollably.",
+        "spans": [
+          "Others say low solar and wind output caused by a run in less windy weather and the phasing out of coal-powered plants in recent years has dented supply to the grid and forced natural gas prices to accelerate uncontrollably."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Russia is sending less gas to Europe as exports this year dropped to around one-fifth of pre-pandemic levels, possibly to fill its own tanks or to pressure EU governments into approving the Nord Stream 2 gas pipeline.",
+        "spans": [
+          "Another theory is that Russia is sending less gas to Europe as exports this year dropped to around one-fifth of pre-pandemic levels, according to i news.",
+          "Some believe Moscow is curbing its foreign supply to fill its own tanks while others say Russia is trying to pressure EU governments into approving its controversial Nord Stream 2 gas pipeline."
+        ]
+      }
+    ]
+  }
+}

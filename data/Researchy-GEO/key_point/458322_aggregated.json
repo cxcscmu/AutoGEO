@@ -1,0 +1,81 @@
+{
+  "question": "how money laundering works",
+  "key_points": [
+    {
+      "point_number": 1,
+      "point_content": "Money laundering is the process criminals use to disguise the origins of money obtained through illegal activities, making it appear as if it comes from legal sources.",
+      "original_point_number": [
+        1,
+        10,
+        11,
+        19,
+        23
+      ]
+    },
+    {
+      "point_number": 2,
+      "point_content": "Money laundering typically occurs in three stages: placement (initial entry of illegal money into the financial system), layering (complex transactions to obscure the money trail), and integration (reintroduction of laundered money into the economy as legitimate funds).",
+      "original_point_number": [
+        2,
+        12,
+        18,
+        20,
+        24,
+        28
+      ]
+    },
+    {
+      "point_number": 3,
+      "point_content": "Placement involves inserting illegal money into legitimate financial institutions, often through cash deposits or funneling money through businesses with many cash transactions, such as restaurants, sometimes by falsely reporting higher cash sales.",
+      "original_point_number": [
+        3,
+        6,
+        7,
+        13,
+        25
+      ]
+    },
+    {
+      "point_number": 4,
+      "point_content": "Layering involves transferring money through multiple transactions and accounts, including bank-to-bank transfers, wire transfers between different accounts and countries, currency exchanges, purchasing high-value items, investing in other businesses, using shell companies, casinos, offshore tax havens, and other methods to make tracing the illegal origin difficult.",
+      "original_point_number": [
+        4,
+        8,
+        14,
+        15,
+        26,
+        38
+      ]
+    },
+    {
+      "point_number": 5,
+      "point_content": "Integration is the stage where laundered money is used legally without concealment, such as purchasing luxury goods, creating new business entities, or re-entering the mainstream economy appearing as legal transactions, allowing criminals to use the money without getting caught.",
+      "original_point_number": [
+        5,
+        9,
+        16,
+        17,
+        27
+      ]
+    },
+    {
+      "point_number": 6,
+      "point_content": "Money laundering techniques include bank methods, smurfing (breaking down illicit funds into small amounts and depositing into multiple accounts), money muling (multiple participants transferring illicit funds through their accounts), bulk cash smuggling (physically moving proceeds across borders), blending funds (investing illicit funds into businesses with high cash flows), trade-based money laundering (using trade transactions to integrate illicit funds), shell companies, round tripping, bank capture, casinos, black salaries, tax havens, and transaction laundering.",
+      "original_point_number": [
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41
+      ]
+    }
+  ]
+}

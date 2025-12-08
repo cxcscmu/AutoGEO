@@ -1,0 +1,464 @@
+{
+  "question": "why is climate change a threat",
+  "key_points": {
+    "clueweb22-en0004-47-16708": [
+      {
+        "point_number": 1,
+        "point_content": "Climate change causes polluted air with small particles that induce stroke and heart attacks by penetrating the lungs and heart and traveling into the bloodstream.",
+        "spans": [
+          "burning fossil fuels can also have direct consequences for human health. That’s because the polluted air contains small particles that can induce stroke and heart attacks by penetrating the lungs and heart and even traveling into the bloodstream."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Air pollution from climate change causes between 3.6 million and nine million premature deaths a year.",
+        "spans": [
+          "Estimates suggest that air pollution causes anywhere between 3.6 million and nine million premature deaths a year."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Climate change increases pollen levels, worsening allergies and respiratory diseases, which can be life-threatening.",
+        "spans": [
+          "Carbon dioxide increases the acidity of the air, which then pulls more pollen out from plants.",
+          "For people who already have respiratory disease, boy is that a problem,"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Climate change worsens wildfires, and wildfire smoke contains toxic particles that penetrate lungs and organs.",
+        "spans": [
+          "Climate change is also causing wildfires to get worse, and wildfire smoke is especially toxic.",
+          "the smoke contains particles of everything that the fire has consumed along its path—from rubber tires to harmful chemicals. These particles are tiny and can penetrate even deeper into a person’s lungs and organs."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Heat waves caused by climate change lead to heart attacks, strokes, kidney damage, and pregnancy complications.",
+        "spans": [
+          "Heat waves are deadly,",
+          "the human toll was even higher in some countries with less access to air conditioning or other factors that render people more vulnerable to heat.",
+          "Heat can break down muscles.",
+          "If you’re exposed to extreme heat for too long and are unable to adequately release that heat, the stress can cause a cascade of problems throughout the body.",
+          "The heart has to work harder to pump blood to the rest of the organs, while sweat leeches the body of necessary minerals such as sodium and potassium. The combination can result in heart attacks and strokes.",
+          "Dehydration from heat exposure can also cause serious damage to the kidneys, which rely on water to function properly.",
+          "Studies have also drawn links between higher temperatures and preterm birth and other pregnancy complications."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Climate change reduces food availability and nutrition, leading to malnutrition and related diseases.",
+        "spans": [
+          "Climate change both reduces the amount of food that’s available and makes it less nutritious.",
+          "crop yields have already begun to decline as a result of rising temperatures, changing precipitation patterns, and extreme weather events.",
+          "increased carbon dioxide in the atmosphere can leech plants of zinc, iron, and protein—nutrients that humans need to survive.",
+          "Malnutrition is linked to a variety of illnesses, including heart disease, cancer, and diabetes."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Rising ocean temperatures cause fish to migrate, reducing fish stocks and nutrition for coastal communities.",
+        "spans": [
+          "Rising ocean temperatures have led many fish species to migrate toward Earth’s poles in search of cooler waters.",
+          "the resulting decline of fish stocks in subtropic regions has big implications for nutrition, because many of those coastal communities depend on fish for a substantial amount of the protein in their diets."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Climate change expands the range of disease-carrying mosquitoes and ticks, increasing infectious diseases.",
+        "spans": [
+          "As the planet gets hotter, the geographic region where ticks and mosquitoes like to live is getting wider.",
+          "mosquitoes and ticks bring more opportunities for these diseases to infect greater swaths of the world.",
+          "climate change has altered these conditions in ways that increase the risk of mosquitos transmitting dengue."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Climate change increases risk of waterborne diseases through dirty floodwaters and drought conditions.",
+        "spans": [
+          "climate change is increasing the risk of diseases that can be transmitted through water, such as cholera, typhoid fever, and parasites.",
+          "drought can have indirect impacts when people, say, can’t wash their hands or are forced to drink from dodgier sources of freshwater."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Climate change causes mental health issues such as psychological distress, PTSD, and suicide due to disasters and loss.",
+        "spans": [
+          "A common result of any climate-linked disaster is the toll on mental health.",
+          "People lose their homes, their jobs, and sometimes their loved ones, and that takes an immediate toll.",
+          "Extreme weather events such as wildfires and hurricanes cause so much stress and anxiety that they can lead to post-traumatic stress disorder and even suicide in the long run."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Climate change disproportionately harms vulnerable populations, increasing health risks for minorities and poor communities.",
+        "spans": [
+          "climate change causes disproportionate harm to the world’s most vulnerable people.",
+          "racial and ethnic minority communities are particularly at risk.",
+          "Black people are 40 percent more likely to live in areas with the highest projected increases in related deaths.",
+          "Another 34 percent are more likely to live in areas with a rise in childhood asthma."
+        ]
+      }
+    ],
+    "clueweb22-en0031-09-02373": [
+      {
+        "point_number": 1,
+        "point_content": "Climate change alters sand temperatures, which then affects the sex of hatchlings.",
+        "spans": [
+          "Climate change has an impact on turtle nesting sites. It alters sand temperatures, which then affects the sex of hatchlings."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Sea levels are rising and oceans are becoming warmer, threatening crops, wildlife and freshwater supplies.",
+        "spans": [
+          "Sea levels are rising and oceans are becoming warmer. Longer, more intense droughts threaten crops, wildlife and freshwater supplies."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Climate change poses a fundamental threat to places, species and people’s livelihoods.",
+        "spans": [
+          "Climate change poses a fundamental threat to the places, species and people’s livelihoods WWF works to protect."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "More frequent and intense drought, storms, heat waves, rising sea levels, melting glaciers and warming oceans can directly harm animals, destroy habitats, and harm people’s livelihoods and communities.",
+        "spans": [
+          "Humans and wild animals face new challenges for survival because of climate change. More frequent and intense drought, storms, heat waves, rising sea levels, melting glaciers and warming oceans can directly harm animals, destroy the places they live, and wreak havoc on people’s livelihoods and communities."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Dangerous weather events are becoming more frequent or severe due to climate change, affecting cities and towns with heat waves, wildfires, coastal storms and flooding.",
+        "spans": [
+          "As climate change worsens, dangerous weather events are becoming more frequent or severe. People in cities and towns around the United States are facing the consequences, from heat waves and wildfires to coastal storms and flooding."
+        ]
+      }
+    ],
+    "clueweb22-en0012-80-05452": [
+      {
+        "point_number": 1,
+        "point_content": "In the worst-case scenarios in scientists’ climate models, human-caused climate change is a threat to the continued existence of our species.",
+        "spans": [
+          "In the worst-case scenarios in scientists’ climate models, human-caused climate change is a threat to the continued existence of our species."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Global temperatures may increase by 4 degrees Celsius or more by the year 2100, which is quite cataclysmic and connected to mass extinction events.",
+        "spans": [
+          "If humans do nothing to slow climate change, then global temperatures may increase by 4 degrees Celsius or more by the year 2100",
+          "it is quite cataclysmic.",
+          "such temperature spikes in our planet’s history are connected to mass extinction events that killed off a large percentage of species that existed at the time"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "There is a genuine possibility that within the coming century, we will hit temperatures that are deeply incompatible with the continued existence of human life.",
+        "spans": [
+          "There is a genuine possibility that within the coming century, we will hit temperatures that are deeply incompatible with the continued existence of human life"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Climate change remains an existential threat to a host of human cultures, traditions, and languages, even if it does not cause human extinction.",
+        "spans": [
+          "Even if humanity does reduce greenhouse gas emissions enough to stave off the worst effects of climate change—and learn to adapt to some warming that is already inevitable—Setiya says that climate change remains an existential threat to a host of human cultures, traditions, and languages."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The Inuit peoples' cold-weather culture is under threat as the amount of ice in polar regions continues to decline.",
+        "spans": [
+          "One example he gives is the Inuit peoples who are indigenous to Arctic regions, and whose cold-weather culture is under threat as the amount of ice in polar regions continues to decline."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Residents of low-lying islands face an immediate, existential threat to their cultures as rising sea levels could submerge their homelands.",
+        "spans": [
+          "Residents of low-lying islands face an immediate, existential threat to their cultures as rising sea levels could submerge their homelands."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Ways of life that have been stable for hundreds of years or longer will start collapsing due to climate change.",
+        "spans": [
+          "Ways of life that have been stable for hundreds of years or longer will start collapsing."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Climate change will forever alter the way we feel about human existence by changing our relationship with the planet we live and depend on.",
+        "spans": [
+          "Whether or not human-caused climate change becomes a literal extinction threat, it has already changed our relationship with the planet we live and depend on, which Setiya says will forever alter the way we feel about human existence."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Climate change could worsen worrying trends such as anti-democracy uprisings and migrant crises as people flee areas increasingly hit by natural disasters exacerbated by climate change.",
+        "spans": [
+          "Climate change could worsen worrying trends such as anti-democracy uprisings and migrant crises as people flee areas that are increasingly hit by natural disasters that will be exacerbated by climate change"
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Natural disasters exacerbated by climate change include rising sea levels, more frequent powerful hurricanes, and droughts that threaten freshwater supplies.",
+        "spans": [
+          "rising sea levels, more frequent powerful hurricanes, and droughts that threaten freshwater supplies"
+        ]
+      }
+    ],
+    "clueweb22-en0016-14-13696": [
+      {
+        "point_number": 1,
+        "point_content": "Climate change impacts human health in countless ways, including rising temperatures causing heatwaves that can overpower the human body and cause dehydration, heatstroke, and major organ damage.",
+        "spans": [
+          "Rising temperatures: As temperatures climb around the globe, we expect to see more heatwaves – and ever-more intense ones at that. Extreme heat can “ overpower the human body ” and cause dehydration, heatstroke, and major organ damage."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Climate change worsens air quality by increasing wildfires, whose smoke carries fine particles that can penetrate deep into lungs and cause health issues.",
+        "spans": [
+          "Air quality: Pollution from burning fossil fuels is bad enough for the air we breathe, but many impacts of climate change also impact air quality. For instance, climate change has been linked to more wildfires. Wildfire smoke carries fine particles that “ can penetrate deep into your lungs .” Exposure has been linked to burning eyes, heart and lung diseases, and even death."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Climate change expands the geographic range of insects that carry vector-borne diseases, spreading illnesses like Lyme disease and Zika virus to new regions.",
+        "spans": [
+          "Vector-borne diseases: Vector-borne diseases are illnesses spread by insects or arachnids like mosquitoes, fleas, mites, and ticks. As our climate becomes warmer, some insects will see their geographic ranges grow – bringing the Lyme disease and West Nile or Zika viruses they carry along with them to new regions."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Climate change is linked to extreme weather events such as hurricanes and floods, which can cause fatalities, injuries, and spread waterborne illnesses.",
+        "spans": [
+          "Extreme weather: While we go into more detail on this later, climate change has been linked to many types of extreme weather, including hurricanes and floods. Not only can these extreme weather events have immediate fatal consequences, but they can lead to major injuries and the spread of waterborne illnesses such as wound infections, dermatitis, conjunctivitis, and ear, nose and throat infections ."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Climate change intensifies the water cycle, increasing evaporation and powering stronger storms like hurricanes, leading to more extreme weather.",
+        "spans": [
+          "Climate change affects weather, in large part, by intensifying the water cycle. In short, water evaporates into the atmosphere from both land and sea and returns to Earth’s surface in the form of rain and snow. As the world warms, the rate of evaporation from our oceans seems to be increasing, powering ever-stronger storms.",
+          "Consider Hurricane Harvey, which moved across abnormally warm waters in the Caribbean and Gulf of Mexico before dropping unprecedented rain on Houston, Texas. Hurricanes and typhoons work like “giant engines that use warm, moist air as fuel.”"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Climate change increases the risk of severe droughts despite more intense rain, because violent downpours run off quickly and do not soak into the soil.",
+        "spans": [
+          "We also know that climate change increases the risk of severe drought. But how does that work? Contrary to what you might expect, more intense rain doesn’t necessarily mean wetter or healthier soils. Quite the opposite. Rain that falls as a violent downpour doesn’t gently soak into the soil, and instead quickly runs off into rivers and is carried back to the sea, leaving the land to get drier and drier between periods of precipitation."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Climate change threatens water security by causing droughts and reducing water supplies, as seen in Cape Town's water crisis and Lake Mead's declining levels.",
+        "spans": [
+          "Climate change poses a huge threat to something humans need above all else – water.",
+          "While many factors have led to Cape Town’s water crisis, climate change has undoubtedly made a bad situation much worse. We know that increasing global temperatures can lead to droughts, and Cape Town has been experiencing record drought for years – getting only about half of its average annual rainfall since 2015 .",
+          "We already know that the largest reservoir in the US – Lake Mead – contained less than half the amount of water in 2015 as it did in 2000."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Climate change harms agriculture and food production by causing droughts, floods, and extreme weather that damage crops and soil quality.",
+        "spans": [
+          "Farmers around the world depend on a stable climate to grow their crops and put food on our plates. But as climate change leads to more droughts, floods, and extreme weather, we see harvests wither or wash away.",
+          "Climate change also makes soil less suitable for farming, as nutrients key to plant growth are stripped out by these same droughts and floods."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Elevated CO2 levels can reduce the nutritional quality of food by causing plants to produce more carbohydrates but fewer minerals, vitamins, and proteins.",
+        "spans": [
+          "Recent research has revealed that elevated levels of carbon dioxide (CO 2) in our atmosphere can actually have a “ junk food effect ” on typically nutritious foods. As increasing CO 2 speeds up photosynthesis, plants are producing more and more carbohydrates to keep up with their sped-up growth – at the expense of the minerals, vitamins, and proteins that take longer to build (and which we need)."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Climate change negatively impacts the economy by reducing GDP and increasing costs related to extreme weather disasters.",
+        "spans": [
+          "In 2017, a team of scientists and economists mapped out the potential economic damages different counties in the US can expect as the climate continues to change. The researchers found “that if warming continues at recent rates, it could shave 3 to 6 percentage points off of the country's gross domestic product by century's end — the warmer it gets, the bigger the hit to the economy.”",
+          "Extreme weather linked to climate change also has huge economic repercussions. In fact, 2017 was the United States’ costliest disaster year on record. Between 2007 and 2017, the federal government spent an estimated $350 billion responding to extreme weather and fires."
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0008-74-13425": [],
+    "clueweb22-en0035-20-04892": [
+      {
+        "point_number": 1,
+        "point_content": "Climate change is a threat because of the rapid rate and magnitude of climate change occurring now.",
+        "spans": [
+          "it is the rapid rate and the magnitude of climate change occurring now that is of great concern worldwide"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Human activity has increased greenhouse gases in the atmosphere leading to more heat retention and an increase in surface temperatures.",
+        "spans": [
+          "Human activity has increased greenhouse gases in the atmosphere since the Industrial Revolution, leading to more heat retention and an increase in surface temperatures"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Long-term effects of climate change include a decrease in sea ice, increase in permafrost thawing, increase in heat waves and heavy precipitation, and decreased water resources in semi-arid regions.",
+        "spans": [
+          "Scientists have predicted that long-term effects of climate change will include a decrease in sea ice and an increase in permafrost thawing, an increase in heat waves and heavy precipitation, and decreased water resources in semi-arid regions"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Increasing global surface temperatures increase the possibility of more droughts and increased intensity of storms.",
+        "spans": [
+          "With increasing global surface temperatures the possibility of more droughts and increased intensity of storms will likely occur"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "More heat in the atmosphere and warmer ocean surface temperatures can lead to increased wind speeds in tropical storms.",
+        "spans": [
+          "More heat in the atmosphere and warmer ocean surface temperatures can lead to increased wind speeds in tropical storms"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Rising sea levels expose higher locations to flooding and storm surges.",
+        "spans": [
+          "Rising sea levels expose higher locations"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Temperatures are rising worldwide due to greenhouse gases trapping more heat in the atmosphere.",
+        "spans": [
+          "Temperatures are rising world-wide due to greenhouse gases trapping more heat in the atmosphere"
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Droughts are becoming longer and more extreme around the world.",
+        "spans": [
+          "Droughts are becoming longer and more extreme around the world"
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Tropical storms are becoming more severe due to warmer ocean water temperatures.",
+        "spans": [
+          "Tropical storms becoming more severe due to warmer ocean water temperatures"
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Glaciers are melting at a faster rate due to rising temperatures.",
+        "spans": [
+          "Overall, glaciers are melting at a faster rate"
+        ]
+      }
+    ],
+    "clueweb22-en0026-11-01816": [
+      {
+        "point_number": 1,
+        "point_content": "Climate change causes extreme weather and water shortages, leading to crop failures and scarcity of water.",
+        "spans": [
+          "Extreme weather and water shortages increase the risk of political instability and terrorism.",
+          "As seas rise and weather becomes more extreme, crops are failing in some areas. Water is growing scarce."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "These hardships increase the risk of political instability and terrorism, making climate change a 'threat multiplier'.",
+        "spans": [
+          "Security experts say these hardships can increase the risk of political instability and terrorism. That’s why the Department of Defense calls climate change a “threat multiplier.”"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "In Syria, drought caused migration to urban areas, leading to civil unrest and contributing to civil war.",
+        "spans": [
+          "In Syria, the prolonged drought that preceded the uprising drove farmers and herders from their fields and their pastures towards the urban areas. And with this crowding in the urban areas came civil unrest.",
+          "She says that civil unrest helped contribute to Syria’s long and bloody civil war."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Terrorists exploit scarcity of food and water to hold people hostage, increasing security threats.",
+        "spans": [
+          "And in other areas where food and water are scarce, terrorists can exploit people’s desperation …",
+          "… holding them hostage, if you will, to the reduced sources of water and food that are still available."
+        ]
+      }
+    ],
+    "clueweb22-en0042-69-18872": [
+      {
+        "point_number": 1,
+        "point_content": "Climate change is a “crisis multiplier” that has profound implications for international peace and stability.",
+        "spans": [
+          "Climate change is a “crisis multiplier” that has profound implications for international peace and stability"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Climate change is the biggest threat to security that modern humans have ever faced, threatening food production, access to fresh water, habitable ambient temperature and ocean food chains.",
+        "spans": [
+          "climate change “the biggest threat to security that modern humans have ever faced”",
+          "If we continue on our current path, we will face the collapse of everything that gives us our security,” he said: food production, access to fresh water, habitable ambient temperature and ocean food chains"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Climate change exacerbates the risks of conflict by drying up rivers, reducing harvests, destroying critical infrastructure and displacing communities.",
+        "spans": [
+          "where climate change dries up rivers, reduces harvests, destroys critical infrastructure and displaces communities, it exacerbates the risks of conflict"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The impact of climate change is greatest where fragility and conflict have weakened coping mechanisms, and where people depend on natural capital for their livelihoods.",
+        "spans": [
+          "The impact is greatest where fragility and conflict have weakened coping mechanisms, he said, where people depend on natural capital for their livelihoods"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Climate change causes forced movement of people, increasing potential for conflict and insecurity.",
+        "spans": [
+          "The forced movement of larger numbers of people around the world will clearly increase the potential for conflict and insecurity"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Climate change leads to resource scarcity, poverty, and competition, which can foster conflict and insecurity.",
+        "spans": [
+          "reduced harvests have pushed people into poverty, leaving them susceptible to recruitment by armed groups",
+          "changes in grazing patterns have fostered conflict between pastoralists and farmers",
+          "water scarcity exacerbated by climate change could see gross domestic product (GDP) in the Sahel fall by 6 per cent and hunger increase 20 per cent by 2050",
+          "Climate change has increased competition for diminished land and water resources, ramping up tensions between livestock owners and others"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Climate change causes major disruptions in access to health services, loss of livelihoods, displacement, migration, and increases risk of gender-based violence.",
+        "spans": [
+          "climate-related emergencies cause major disruptions in access to health, life-saving sexual and reproductive health services, and result in loss of livelihoods and drive displacement and migration",
+          "They also increase the risk of gender-based violence and harmful practices and force young people to flee in search of a decent life"
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Climate change is the defining issue of our time, causing wildfires, cyclones, floods and droughts that damage the environment and weaken political, economic and social systems.",
+        "spans": [
+          "the climate emergency as “the defining issue of our time”",
+          "wildfires, cyclones, floods and droughts are now the new normal",
+          "These shocks not only damage the environment on which we depend, they also weaken our political, economic and social systems"
+        ]
+      }
+    ]
+  }
+}

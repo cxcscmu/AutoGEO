@@ -1,0 +1,57 @@
+{
+  "question": "how does the consumer’s perspective of quality differ from the producer’s?",
+  "key_points": {
+    "clueweb22-en0038-56-10820": [
+      {
+        "point_number": 1,
+        "point_content": "Quality in an economics perspective refers to the grade of a product based on another product that is of the same type. The quality of a product typically affects the ability of the product to satisfy consumer needs.",
+        "spans": [
+          "Quality in an economics perspective refers to the grade of a product based on another product that is of the same type.",
+          "The quality of a product typically affects the ability of the product to satisfy consumer needs."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The consumer is an individual or firm that purchases a product with the aim of utilizing it. Producers refer to firms and individuals who engage in producing products.",
+        "spans": [
+          "The consumer is an individual or firm that purchases a product with the aim of utilizing it.",
+          "Producers refer to firms and individuals who engage in..."
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0014-89-11773": [
+      {
+        "point_number": 1,
+        "point_content": "Consumers view quality as fitness for use and quality of design, expecting the product to perform its advertised functions and have appealing design elements.",
+        "spans": [
+          "When Josie refers to her Health Watch as having good quality, she is communicating two perspectives of quality, which are fitness for use and quality of design.",
+          "In regards to fitness for use, she wants her watch to do what it is supposed to do.",
+          "What this means is that Josie expects for the watch to tell time and run the applications that it was advertised to have supported.",
+          "In addition, she expects quality of design in that there are specific quality elements that have been instilled in the product.",
+          "Josie also wants her watch to look cool while performing all of its functions."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Consumers expect quality elements in services similar to products, with additional features enhancing perceived quality.",
+        "spans": [
+          "Josie also expects these quality elements to exist in any services she purchases, such as haircuts, lawn care and babysitting.",
+          "Josie usually patronizes an upscale salon to get her hair cut and styled.",
+          "Both of her service experiences provided fitness for use in that she ended up with a haircut.",
+          "When it came to a quality of design perspective, though, Josie felt that her upscale salon provided her additional quality elements that surpassed her Cut & Go experience.",
+          "These were things such as free neck massage, free coffee, extra hot oil treatment and a more modern cut for her look."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Consumers generally consider a product or service quality if it meets their expectations and is worth the price paid.",
+        "spans": [
+          "In summary, consumers generally will pay for the type of product or service that they can afford.",
+          "If the consumer is happy with their purchase and feels that they are getting what they paid for, the product or service is deemed quality in nature."
+        ]
+      }
+    ],
+    "clueweb22-en0011-24-03171": []
+  }
+}

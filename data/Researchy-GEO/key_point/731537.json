@@ -1,0 +1,214 @@
+{
+  "question": "how did louis pasteur change the world",
+  "key_points": {
+    "null": [],
+    "clueweb22-en0007-01-16152": [
+      {
+        "point_number": 1,
+        "point_content": "Louis Pasteur saved a nine-year-old boy’s life after he was bitten by a rabid dog by injecting him with a weakened form of the rabies virus each day for 13 days.",
+        "spans": [
+          "Almost a century after Jenner developed his technique, in 1885, the French biologist, Louis Pasteur, saved a nine-year-old boy’s life after he was bitten by a rabid dog, by injecting him with a weakened form of the rabies virus each day for 13 days."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Pasteur's treatment was heralded a success and he coined his therapy a 'rabies vaccine', expanding the meaning of vaccine beyond its origin.",
+        "spans": [
+          "The boy never developed rabies and the treatment was heralded a success. Pasteur coined his therapy a “rabies vaccine”, expanding the meaning of vaccine beyond its origin."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Louis Pasteur's global influence led to the expansion of the term vaccine to include treatments containing live, weakened or killed viruses to produce immunity against infectious diseases.",
+        "spans": [
+          "The global influence of Louis Pasteur led to the expansion of the term vaccine to include a long list of treatments containing live, weakened or killed viruses, typically given in the form of an injection, to produce immunity against an infectious disease."
+        ]
+      }
+    ],
+    "clueweb22-en0006-01-08780": [
+      {
+        "point_number": 1,
+        "point_content": "Louis Pasteur was a French chemist and microbiologist renowned for his discoveries of the principles of vaccination, microbial fermentation, and pasteurization.",
+        "spans": [
+          "Louis Pasteur ForMemRS (/ˈ l uː i p æ ˈ s t ɜːr/, French: [lwi pastœʁ]; 27 December 1822 – 28 September 1895) was a French chemist and microbiologist renowned for his discoveries of the principles of vaccination, microbial fermentation, and pasteurization."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "His research in chemistry led to remarkable breakthroughs in the understanding of the causes and preventions of diseases, which laid down the foundations of hygiene, public health and much of modern medicine.",
+        "spans": [
+          "His research in chemistry led to remarkable breakthroughs in the understanding of the causes and preventions of diseases, which laid down the foundations of hygiene, public health and much of modern medicine."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "His works are credited to saving millions of lives through the developments of vaccines for rabies and anthrax.",
+        "spans": [
+          "His works are credited to saving millions of lives through the developments of vaccines for rabies and anthrax."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "He is regarded as one of the founders of modern bacteriology and has been honoured as the \"father of bacteriology\" and as the \"father of microbiology\".",
+        "spans": [
+          "He is regarded as one of the founders of modern bacteriology and has been honoured as the \"father of bacteriology\" [8] and as the \"father of microbiology\"[9] [10]"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Pasteur was responsible for disproving the doctrine of spontaneous generation through experiments with sterilized and sealed flasks.",
+        "spans": [
+          "Pasteur was responsible for disproving the doctrine of spontaneous generation. Under the auspices of the French Academy of Sciences, his experiment demonstrated that in sterilized and sealed flasks, nothing ever developed; and, conversely, in sterilized but open flasks, microorganisms could grow."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "He is regarded as one of the fathers of germ theory of diseases and showed that diseases could be prevented by killing or stopping germs.",
+        "spans": [
+          "Pasteur is also regarded as one of the fathers of germ theory of diseases, which was a minor medical concept at the time. His many experiments showed that diseases could be prevented by killing or stopping germs, thereby directly supporting the germ theory and its application in clinical medicine."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "He invented the technique of pasteurization, treating milk and wine to stop bacterial contamination by heating to a temperature between 60 and 100 °C.",
+        "spans": [
+          "He is best known to the general public for his invention of the technique of treating milk and wine to stop bacterial contamination, a process now called pasteurization.",
+          "Pasteur's research also showed that the growth of micro-organisms was responsible for spoiling beverages, such as beer, wine and milk. With this established, he invented a process in which liquids such as milk were heated to a temperature between 60 and 100 °C."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Pasteur developed vaccines for chicken cholera, anthrax, and rabies, which laid the foundations for modern immunology and vaccination.",
+        "spans": [
+          "Pasteur's first work on vaccine development was on chicken cholera.",
+          "In the 1870s, he applied this immunization method to anthrax, which affected cattle, and aroused interest in combating other diseases.",
+          "Pasteur produced the first vaccine for rabies by growing the virus in rabbits, and then weakening it by drying the affected nerve tissue."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "His rabies vaccine was first used successfully on a human patient, Joseph Meister, in 1885, which made him a hero and laid the foundations for the manufacture of many other vaccines.",
+        "spans": [
+          "This vaccine was used on 9-year-old Joseph Meister, on 6 July 1885, after the boy was badly mauled by a rabid dog.",
+          "The treatment's success laid the foundations for the manufacture of many other vaccines."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Pasteur's work encouraged antiseptic methods in surgery and improved hygiene practices in medicine.",
+        "spans": [
+          "Beverage contamination led Pasteur to the idea that micro-organisms infecting animals and humans cause disease. He proposed preventing the entry of micro-organisms into the human body, leading Joseph Lister to develop antiseptic methods in surgery.",
+          "Because of his study in germs, Pasteur encouraged doctors to sanitize their hands and equipment before surgery."
+        ]
+      }
+    ],
+    "clueweb22-en0031-59-04241": [
+      {
+        "point_number": 1,
+        "point_content": "Louis Pasteur developed the process of pasteurization to kill microbes and preserve products.",
+        "spans": [
+          "Pasteurization",
+          "Using his work with fermentation, Pasteur was able to devise a process, now known as pasteurization, to kill microbes and preserve certain products."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Pasteur disproved the theory of spontaneous generation, showing that life does not arise spontaneously.",
+        "spans": [
+          "Spontaneous generation",
+          "Pasteur disproved spontaneous generation by boiling beef broth in a special flask that deters contamination."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Pasteur's work led to the germ theory of disease, showing that diseases are caused by microorganisms.",
+        "spans": [
+          "Germ theory",
+          "Pasteur’s work with microorganisms in fermentation and pasteurization led to a much better understanding of germ theory —that certain diseases result from invasion of the body by microorganisms."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Pasteur developed vaccines for several diseases including rabies, chicken cholera, and anthrax.",
+        "spans": [
+          "Vaccines",
+          "He developed vaccines for chicken cholera and anthrax.",
+          "Arguably his most important work with vaccines was his development of a rabies vaccine"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Pasteur identified the cause of a disease in silkworms and developed methods to prevent it, aiding the silk industry.",
+        "spans": [
+          "Infectious disease",
+          "Pasteur successfully identified the organisms that had caused a mysterious disease in silkworms and endangered the French silk industry."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Pasteur discovered molecular asymmetry, foundational to stereochemistry and understanding DNA and medication absorption.",
+        "spans": [
+          "Molecular asymmetry",
+          "He noted that the molecules occurred in two mirror-image arrangements that could not be superimposed. This molecular asymmetry, or chirality, is the foundation of a branch of science known as stereochemistry."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Pasteur was the first to recognize that virulence could be increased or decreased, important for studying infectious diseases.",
+        "spans": [
+          "Virulence",
+          "Pasteur was the first scientist to recognize that virulence could be increased as well as decreased."
+        ]
+      }
+    ],
+    "clueweb22-en0043-43-17618": [
+      {
+        "point_number": 1,
+        "point_content": "Louis Pasteur is traditionally considered as the progenitor of modern immunology because of his studies in the late nineteenth century that popularized the germ theory of disease, and that introduced the hope that all infectious diseases could be prevented by prophylactic vaccination, as well as also treated by therapeutic vaccination, if applied soon enough after infection.",
+        "spans": [
+          "Louis Pasteur is traditionally considered as the progenitor of modern immunology because of his studies in the late nineteenth century that popularized the germ theory of disease, and that introduced the hope that all infectious diseases could be prevented by prophylactic vaccination, as well as also treated by therapeutic vaccination, if applied soon enough after infection."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Pasteur introduced the concept that vaccination could be applied to any microbial disease, and he reported methods as to how the virulence of microbes could attenuated so that live microbes could be used to make prophylactic vaccines that could be made in the laboratory and manufactured in unlimited quantities for use worldwide.",
+        "spans": [
+          "Pasteur introduced the concept that vaccination could be applied to any microbial disease, and he reported methods as to how the virulence of microbes could attenuated so that live microbes could be used to make prophylactic vaccines that could be made in the laboratory and manufactured in unlimited quantities for use worldwide."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Pasteur also introduced the concept of therapeutic vaccines with his studies of rabies, showing that post-infection prophylaxis could be used to treat individuals exposed to a virulent organism, averting clinical disease and death if applied soon enough after infection.",
+        "spans": [
+          "Pasteur also introduced the concept of therapeutic vaccines with his studies of rabies. Thus, he showed that what we now call post-infection prophylaxis could be used to treat individuals who were exposed to a virulent organism, and if applied soon enough after infection, clinical disease and death could be averted."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Pasteur is credited with the introduction of pasteurization, a process of heating to a sub-boiling point for a brief time, followed by rapid cooling, to kill most microbes.",
+        "spans": [
+          "He is credited with the introduction of “pasteurization,” a process of heating to a sub-boiling point for a brief time, followed by rapid cooling, to kill most microbes."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Pasteur developed vaccines for chicken cholera, anthrax, and rabies, demonstrating the possibility of attenuating microbes to create vaccines.",
+        "spans": [
+          "Pasteur again presented to the members of the Academy a treatise entitled “ Of Infectious Diseases, Especially the Disease of Chicken Cholera ” (Pasteur, 1880 ).",
+          "Pasteur did not announce the discovery of his own “live attenuated” anthrax vaccine until February 28, 1881 (Pasteur et al., 1881b ).",
+          "Rabies provided the perfect disease, in that it was not an endemic or epidemic disease, like smallpox for example (Smith, 2011 ).",
+          "Later, after he had “successfully” created a rabies vaccine, he insisted in private correspondence that he had undertaken the study of rabies “ only with the thought of forcing the attention of physicians on these new doctrines ”-that is to say, the still controversial germ theory of disease, and the technique of vaccination through atmosphere-attenuated cultures (Geison, 1995 )."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Pasteur's work laid the foundation for the modern understanding of immunity and vaccination, despite some of his incorrect theories about how immunity occurs.",
+        "spans": [
+          "Even so, he focused attention on immunity, preparing the ground for others who followed.",
+          "Pasteur’s reports created an explosion of demand by farmers from all over the world for the anthrax vaccine so that they could vaccinate their livestock.",
+          "Pasteur’s quotation of Virgil’s “Audentes fortuna juvat (luck comes to the bold)” is particularly apt in this regard."
+        ]
+      }
+    ]
+  }
+}

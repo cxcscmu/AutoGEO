@@ -1,0 +1,143 @@
+{
+  "question": "what would amazon's medium- and long-term forecast inform the operations management department?",
+  "key_points": {
+    "clueweb22-en0028-18-01771": [
+      {
+        "point_number": 1,
+        "point_content": "Amazon Forecast helps optimize inventory and reduce waste with accurate forecasts at a granular level.",
+        "spans": [
+          "Optimize inventory and reduce waste with accurate forecasts at a granular level."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Amazon Forecast helps improve capital utilization and make long-term decisions with more confidence.",
+        "spans": [
+          "Improve capital utilization and make long-term decisions with more confidence."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Amazon Forecast increases customer satisfaction with optimal staffing to meet varying demand levels.",
+        "spans": [
+          "Increase customer satisfaction with optimal staffing to meet varying demand levels."
+        ]
+      }
+    ],
+    "clueweb22-en0007-41-07358": [
+      {
+        "point_number": 1,
+        "point_content": "Amazon is strongly forecasting their demands at various levels.",
+        "spans": [
+          "Amazon is strongly forecasting their demands at various levels."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Amazon is strongly focusing on the operations planning & sales.",
+        "spans": [
+          "Amazon is strongly focusing on the operations planning & sales."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "ERP systems helps to coordinate these two departments.",
+        "spans": [
+          "ERP systems helps to coordinate these two departments."
+        ]
+      }
+    ],
+    "clueweb22-en0013-91-17431": [
+      {
+        "point_number": 1,
+        "point_content": "Amazon's medium- and long-term forecast involves spending heavily on growth, including opening new fulfillment centers and cutting prices, which results in low or no profit margins in the short term.",
+        "spans": [
+          "It’s opening 17 new fulfillment centers — airport hangar-size storage and shipping facilities — this year and aggressively cutting prices.",
+          "Its profit margin for the quarter was just 2.4 percent, and it said it might be zero for the fourth quarter."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Amazon's long-term strategy includes accepting short-term losses for long-term gains, focusing on customer growth and market share rather than immediate profits.",
+        "spans": [
+          "Amazon seems to be taking customer focus to new levels, willing to run its ever-bigger global business while earning little or nothing in return.",
+          "Selling at low prices may undercut profits, but they create “a virtuous cycle that leads over the long term to a much larger dollar amount of free cash flow, and thereby to a much more valuable Amazon.com,” Mr. Bezos said."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Amazon evaluates the economics of products like the Kindle over their lifetime value, expecting profits from content sales rather than device sales alone.",
+        "spans": [
+          "When “we think about the economics of the Kindle business, we think about the totality,” Mr. Szkutak said.",
+          "“We think of the lifetime value of those devices. So we’re not just thinking about the economics of the device and the accessories. We’re thinking about the content.”"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Amazon's operations management should plan with a 5 to 7 year horizon, planting seeds and letting them grow, as the company competes on a longer time horizon than most.",
+        "spans": [
+          "“At Amazon we like things to work in five to seven years. We’re willing to plant seeds, let them grow—and we’re very stubborn.”"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Amazon's long-term growth strategy aims to achieve economies of scale and weaken competitors, which informs operational decisions like pricing and expansion.",
+        "spans": [
+          "For Amazon, long-term growth confers two major benefits: the kind of economies of scale enjoyed by Wal-Mart and eliminating or weakening competitors."
+        ]
+      }
+    ],
+    "clueweb22-en0024-62-11729": [
+      {
+        "point_number": 1,
+        "point_content": "Amazon's medium- and long-term forecast informs the operations management department through an exhaustive planning process known as OP1, where every activity is reviewed in terms of its contribution to value for customers.",
+        "spans": [
+          "Budgeting at Amazon is a subset of an exhaustive planning process known as OP1 in which every activity is reviewed in terms of its contribution to value for customers."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The planning process involves meeting, debating, writing, and reviewing next year’s operating plans and ideas for scaling and innovating during July, August, and September.",
+        "spans": [
+          "For in the months of July, August, and September, while also doing all the preholiday work before the retail peak season hits, you are spending your time meeting, debating, writing, and reviewing your next year’s operating plans and ideas for scaling and innovating.”"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The operations management department uses real-time customer-related metrics to evaluate activities, focusing on customer impact rather than unit funding.",
+        "spans": [
+          "At Amazon, the reviews principally revolve around real-time customer-related metrics of individual activities, not about which unit gets how much money."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "No significant new activity can be undertaken without exhaustive management review including a six-page planning document, a PR/FAQ document, and customer metrics for real-time measurement of customer benefits.",
+        "spans": [
+          "no significant new activity can be undertaken at Amazon unless and until there is an exhaustive management review of a six-page planning document supported by a PR/FAQ document and the customer metrics by which customer benefits of the activity will be measured in real time."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The budget process at Amazon is simpler and follows from the planning decisions about individual activities, focusing on which activities to fund based on customer impact.",
+        "spans": [
+          "The budgeting process is simpler: it’s merely the consequence of planning decisions in respect of individual activities. Most of the hard choices have already been taken in the planning process. The question of which unit gets how much funding is not as important as, which activities are to be funded?"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Weekly reviews of activities based on real-time customer metrics allow timely updates and adjustments to the budget, enabling rapid decision-making in response to changes.",
+        "spans": [
+          "At Amazon, there are weekly reviews of activities based on real-time customer metrics, and the phenomenon of units protecting their resources is much less prominent."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "The budget process is focused on controlling outcomes and customer impact rather than just controlling spending, ensuring radical transparency and reliable information for management.",
+        "spans": [
+          "At Amazon, the availability of real-time customer-related metrics for individual activities, not just costs, means that the management has reliable information and actual control of outcomes."
+        ]
+      }
+    ],
+    "null": []
+  }
+}

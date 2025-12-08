@@ -1,0 +1,81 @@
+{
+  "question": "should a database of people paroled or released for crimes be made public?",
+  "key_points": [
+    {
+      "point_number": 1,
+      "point_content": "Any person charged with a crime will have their charges displayed publicly and indefinitely, regardless of conviction; criminal records include all charges ever charged, even if dismissed or resolved of guilt; there is no statute of limitations governing disclosure of criminal records; all charges are subject to public interest.",
+      "original_point_number": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "point_number": 2,
+      "point_content": "Expungement of criminal records is difficult and costly, with no guarantee of approval; felony records, related to the most serious criminal activities, are very difficult to seal or expunge in any state and likely remain on file indefinitely.",
+      "original_point_number": [
+        3,
+        22
+      ]
+    },
+    {
+      "point_number": 3,
+      "point_content": "Some propose limiting public disclosure to certain serious offenses and implementing statute of limitations for lesser charges.",
+      "original_point_number": [
+        5
+      ]
+    },
+    {
+      "point_number": 4,
+      "point_content": "Public disclosure of criminal records can lead to discrimination against people rather than promoting them; for example, Jamie's case shows how public criminal records can harm employment opportunities even if charges were dismissed.",
+      "original_point_number": [
+        6,
+        7
+      ]
+    },
+    {
+      "point_number": 5,
+      "point_content": "Privacy is a fundamental right but not absolute; it comes in degrees and can be given away to some extent for security; there are technical solutions that prevent misuse without infringing privacy, so privacy and safety are not necessarily in conflict; irresponsible or excessive monitoring and collection of too much personal data can decrease safety and security.",
+      "original_point_number": [
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "point_number": 6,
+      "point_content": "The private sector holds detailed databases of personal data, which governments and intelligence agencies can access, raising concerns about privacy and data protection.",
+      "original_point_number": [
+        11
+      ]
+    },
+    {
+      "point_number": 7,
+      "point_content": "The argument 'if we have nothing to hide, we should not be worried about giving up privacy' is a misconception; privacy protects dignity, not secrets, and situations can change making privacy important.",
+      "original_point_number": [
+        12
+      ]
+    },
+    {
+      "point_number": 8,
+      "point_content": "Many people believe that safety from criminals is more important than privacy, especially in democratic countries where law-abiding citizens have nothing to fear; some argue that giving up privacy for safety is a trade-off that can lead to loss of both liberty and security; there is concern that mass surveillance and loss of privacy do not necessarily make the world safer; some feel privacy is already lost in the digital age with pervasive surveillance; there is a debate about balancing privacy and security, with some advocating for safety measures that do not invade privacy or limit personal freedom.",
+      "original_point_number": [
+        13,
+        14,
+        15,
+        16,
+        17
+      ]
+    },
+    {
+      "point_number": 9,
+      "point_content": "Parole records are controlled by state law and legal precedent, with federal law including HIPAA blocking access to some information; some parts of parole records are publicly accessible and others are not or are difficult to obtain; parole board findings, votes, and recommendations are public but some parolee records and discussions about individual cases may not be available; an individual parolee’s status may be public but week-to-week notes of meetings with a parole officer are likely not public record.",
+      "original_point_number": [
+        18,
+        19,
+        20,
+        21
+      ]
+    }
+  ]
+}

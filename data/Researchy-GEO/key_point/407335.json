@@ -1,0 +1,50 @@
+{
+  "question": "what is the effect of increased automation on the 'service desk' practice?",
+  "key_points": {
+    "clueweb22-en0009-08-19656": [
+      {
+        "point_number": 1,
+        "point_content": "Increased automation leads to reduced phone contact and less low-level work for service desks.",
+        "spans": [
+          "With increased automation The impact on service desks is reduced phone contact, less low-level work"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Increased automation allows service desks to focus more on excellent customer experience when personal contact is needed.",
+        "spans": [
+          "and a greater ability to focus on excellent customer experience when personal contact is needed."
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0030-86-07381": [
+      {
+        "point_number": 1,
+        "point_content": "Increased automation reduces phone contact and low-level work at the service desk, allowing greater focus on customer experience when personal contact is needed.",
+        "spans": [
+          "With increased automation... The impact on service desks is reduced phone contact, less low-level work, and a greater ability to focus on excellent CX when personal contact is needed"
+        ]
+      }
+    ],
+    "clueweb22-en0015-44-08102": [
+      {
+        "point_number": 1,
+        "point_content": "Increased automation in the 'service desk' practice leads to a greater ability to focus on customer experience when personal contact is needed.",
+        "spans": [
+          "Greater ability to focus on customer experience when personal contact is needed"
+        ]
+      }
+    ],
+    "clueweb22-en0019-19-12410": [],
+    "clueweb22-en0003-89-19904": [
+      {
+        "point_number": 1,
+        "point_content": "Increased automation in the 'service desk' practice leads to a greater ability to focus on customer experience when personal contact is needed.",
+        "spans": [
+          "Greater ability to focus on customer experience when personal contact is needed"
+        ]
+      }
+    ]
+  }
+}

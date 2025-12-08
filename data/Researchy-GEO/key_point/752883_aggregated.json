@@ -1,0 +1,199 @@
+{
+  "question": "why are people against getting vaccinated",
+  "key_points": [
+    {
+      "point_number": 1,
+      "point_content": "Lack of access to vaccines, including transportation issues, work schedule conflicts, and misinformation about vaccine availability and cost, as well as practical barriers like convenience, affect vaccine uptake.",
+      "original_point_number": [
+        1,
+        19,
+        50
+      ]
+    },
+    {
+      "point_number": 2,
+      "point_content": "Some people do not see Covid-19 as a serious threat, believing they are healthy, young, or have natural immunity, which reduces their motivation to get vaccinated.",
+      "original_point_number": [
+        2,
+        27,
+        28,
+        30,
+        32,
+        63
+      ]
+    },
+    {
+      "point_number": 3,
+      "point_content": "Concerns about vaccine side effects, both real and perceived, including worries about long-term effects, infertility, and misinformation, deter some people from getting vaccinated.",
+      "original_point_number": [
+        3,
+        29,
+        45
+      ]
+    },
+    {
+      "point_number": 4,
+      "point_content": "Lack of trust in the vaccines themselves, including concerns about the speed of development, emergency use authorization, and the vaccine being an experimental treatment, contributes to hesitancy.",
+      "original_point_number": [
+        4,
+        22,
+        23,
+        33,
+        34,
+        35,
+        37,
+        40,
+        41
+      ]
+    },
+    {
+      "point_number": 5,
+      "point_content": "Lack of trust in institutions such as government agencies, healthcare system, pharmaceutical companies, politicians, and media, including distrust due to manipulation, history of harm, and censorship, contributes to vaccine hesitancy.",
+      "original_point_number": [
+        5,
+        36,
+        38,
+        39,
+        43,
+        44
+      ]
+    },
+    {
+      "point_number": 6,
+      "point_content": "Belief in conspiracy theories about Covid-19 vaccines or vaccines in general, including false claims like vaccines causing autism or containing microchips, leads some people to refuse vaccination.",
+      "original_point_number": [
+        6,
+        10,
+        45
+      ]
+    },
+    {
+      "point_number": 7,
+      "point_content": "Opposition to vaccines has historical roots dating back to the early 1800s, with reasons including sanitary, religious, political objections, mistrust of pharmaceutical companies, and beliefs that diseases were disappearing or vaccines are unnecessary.",
+      "original_point_number": [
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "point_number": 8,
+      "point_content": "Some opposition to vaccines comes from mistrust of science or government, skepticism of chemicals in vaccines, preference for natural or homeopathic treatments, and fear of needles.",
+      "original_point_number": [
+        12,
+        16
+      ]
+    },
+    {
+      "point_number": 9,
+      "point_content": "Vaccine hesitancy varies by region and demographics, with 10-20% in the UK, around 50% in Japan, 60% in France, and higher hesitancy among white evangelical Christians, uninsured under 65, Republicans, younger adults, and rural residents.",
+      "original_point_number": [
+        13,
+        51,
+        52,
+        53,
+        54
+      ]
+    },
+    {
+      "point_number": 10,
+      "point_content": "The vaccine hesitant are often undecided individuals without a political agenda or anti-scientific commitment, influenced by many complicating factors that need sensitive addressing.",
+      "original_point_number": [
+        14,
+        15,
+        48,
+        58
+      ]
+    },
+    {
+      "point_number": 11,
+      "point_content": "Psychological and social factors influencing vaccine hesitancy include the 5Cs model (Confidence, Complacency, Calculation, Constraints, Collective responsibility), cognitive biases (negativity, optimism, confirmation), social factors like structural racism, and convenience.",
+      "original_point_number": [
+        17,
+        18,
+        19
+      ]
+    },
+    {
+      "point_number": 12,
+      "point_content": "Health authorities need to provide easy-to-understand information addressing concerns about side effects, vaccine testing, and FDA approval, and use targeted approaches with community influencers and open dialogue to address hesitancy.",
+      "original_point_number": [
+        20,
+        21,
+        22,
+        23
+      ]
+    },
+    {
+      "point_number": 13,
+      "point_content": "Financial and practical incentives such as paid time off and financial rewards can motivate some unvaccinated people to get vaccinated.",
+      "original_point_number": [
+        24,
+        25
+      ]
+    },
+    {
+      "point_number": 14,
+      "point_content": "A significant portion of unvaccinated people feel pressured by government, media, society, and friends and family, which may affect their vaccination decisions.",
+      "original_point_number": [
+        26
+      ]
+    },
+    {
+      "point_number": 15,
+      "point_content": "Distrust and hesitancy are influenced by historical and cultural factors, including medical mistreatment of Black people (e.g., Tuskegee Study), modern health disparities, and disproportionate COVID-19 impact on communities of color.",
+      "original_point_number": [
+        59,
+        60,
+        61
+      ]
+    },
+    {
+      "point_number": 16,
+      "point_content": "Community-based motivation and trust-building efforts have increased vaccination rates among Black and Hispanic populations.",
+      "original_point_number": [
+        62
+      ]
+    },
+    {
+      "point_number": 17,
+      "point_content": "Some people refuse vaccination due to valuing individual liberty and viewing vaccine promotion as an intrusion on personal choice, and they may be harassed or stigmatized for their decision.",
+      "original_point_number": [
+        42,
+        47
+      ]
+    },
+    {
+      "point_number": 18,
+      "point_content": "Misinformation and confusion about vaccine information, including what to believe and what emergency use authorization means, contribute to hesitancy.",
+      "original_point_number": [
+        49,
+        56,
+        57
+      ]
+    },
+    {
+      "point_number": 19,
+      "point_content": "Some people distrust public health authorities, viewing them as phony or manipulative, and see vaccines as risky pharmaceutical experiments.",
+      "original_point_number": [
+        31,
+        33,
+        34
+      ]
+    },
+    {
+      "point_number": 20,
+      "point_content": "Some people who refuse vaccination have already recovered from COVID-19 and consider the vaccine unnecessary.",
+      "original_point_number": [
+        28
+      ]
+    },
+    {
+      "point_number": 21,
+      "point_content": "Some people believe flu vaccines are ineffective or harmful due to misconceptions about strain coverage, annual need, or causing illness, which is false.",
+      "original_point_number": [
+        11
+      ]
+    }
+  ]
+}

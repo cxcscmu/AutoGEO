@@ -1,0 +1,206 @@
+{
+  "question": "what causes violent crime",
+  "key_points": {
+    "null": [],
+    "clueweb22-en0042-62-11804": [
+      {
+        "point_number": 1,
+        "point_content": "The rise in violent crime parallels the rise in families abandoned by fathers.",
+        "spans": [
+          "Over the past thirty years, the rise in violent crime parallels the rise in families abandoned by fathers."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "High-crime neighborhoods have high concentrations of families abandoned by fathers.",
+        "spans": [
+          "High-crime neighborhoods are characterized by high concentrations of families abandoned by fathers."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "A 10 percent increase in children living in single-parent homes leads to a 17 percent increase in juvenile crime.",
+        "spans": [
+          "State-by-state analysis by Heritage scholars indicates that a 10 percent increase in the percentage of children living in single-parent homes leads typically to a 17 percent increase in juvenile crime."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The mother's strong affectionate attachment to her child is the child's best buffer against a life of crime.",
+        "spans": [
+          "The mother's strong affectionate attachment to her child is the child's best buffer against a life of crime."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The father's authority and involvement in raising his children are also a great buffer against a life of crime.",
+        "spans": [
+          "The father's authority and involvement in raising his children are also a great buffer against a life of crime."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "The root cause of violent crime is the breakdown of stable marriage, family, and community relationships.",
+        "spans": [
+          "The root cause of violent crime thus is found in failed intimate relationships of love in marriage and in the family. The breakdown of stable communities into crime-infested neighborhoods flows directly from this failure."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Poverty and unemployment are not the primary causes of crime; crime rates do not correlate directly with economic conditions.",
+        "spans": [
+          "The central proposition in official Washington's thinking about crime is that poverty is the primary cause of crime. In its simplest form, this contention is absurd; if it were true, there would have been more crime in the past, when more people were poorer. And in poorer nations, the crime rates would be higher than in the United States. More significantly, history defies the assumption that deteriorating economic circumstances breed crime (and improving conditions reduce it). Instead, America's crime rate gradually rose during the long period of real economic  growth: 1905 to 1933. As the Great Depression set in and incomes dropped, the crime rate also dropped. It rose again between 1965 and 1974 when incomes rose steadily. Most recently, during the recession of 1982, there was a slight dip in crime, not an increase."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Race is not a major explanatory cause of crime; family structure and commitment are more significant factors.",
+        "spans": [
+          "There is a widespread belief that race is a major explanatory cause of crime. This belief is anchored in the large disparity in crime rates between whites and blacks. However, a closer look at the data shows that the real variable is not race but family structure and all that it implies in commitment and love between adults."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "The absence of a father is the single most important cause of poverty and crime.",
+        "spans": [
+          "According to the professional literature, the absence of the father is the single most important cause of poverty. The same is true for crime."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Children from broken families tend to have weaker connections with their neighborhoods and are prone to exploit community members, contributing to social disintegration and violent crime.",
+        "spans": [
+          "The empirical evidence shows that too many young men and women from broken families tend to have a much weaker sense of connection with their neighborhood and are prone to exploit its members to satisfy their unmet needs or desires. This contributes to a loss of a sense of community and to the disintegration of neighborhoods into social chaos and violent crime."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Parental conflict and domestic violence increase the risk of delinquency in children.",
+        "spans": [
+          "The empirical evidence shows that, for a growing child, the happiest and most tranquil family situation is the intact primary marriage. But even within intact two-parent families, serious parental conflict has bad effects."
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "Lack of parental supervision and discipline contributes to delinquency and criminal behavior.",
+        "spans": [
+          "The absence of parental supervision and discipline often is due simply to a lack of parenting skill, particularly if the parents were not supervised properly by their own parents."
+        ]
+      },
+      {
+        "point_number": 13,
+        "point_content": "Parental rejection and abuse or neglect are strongly linked to future delinquency and violent crime.",
+        "spans": [
+          "Parental rejection of the child has powerful opposite effects. Ronald Simons, professor of sociology at Iowa State University, summarizes the research findings: \"Rejected children tend to distrust and attribute malevolent motives to others, with the result being a defensive, if not aggressive, approach to peer interactions....\"",
+          "The professional literature is replete with findings of a connection between future delinquency and criminal behavior and the abuse and neglect visited upon children by their parents."
+        ]
+      },
+      {
+        "point_number": 14,
+        "point_content": "Criminal behavior often runs in families, with delinquency transmitted from one generation to the next.",
+        "spans": [
+          "Patterns of crime are transmitted from generation to generation.",
+          "The Gluecks determined that delinquents were more likely than nondelinquents to have delinquent fathers and mothers."
+        ]
+      },
+      {
+        "point_number": 15,
+        "point_content": "Future criminals are often rejected by peers early in school and form delinquent peer groups, reinforcing criminal behavior.",
+        "spans": [
+          "Because of their family experiences, these children already are aggressive and hostile. Normal, emotionally attached children avoid them -- in effect isolating and rejecting them. As a result, they seek compatible company elsewhere, in a group where they feel they belong.",
+          "The group thus reinforces its own aggressive-hostile ways and gradually rejects the conventional ways of normally attached children."
+        ]
+      }
+    ],
+    "clueweb22-en0031-17-14255": [
+      {
+        "point_number": 1,
+        "point_content": "Violent crime covers a variety of offences – ranging from common assault to murder.",
+        "spans": [
+          "Violent crime covers a variety of offences – ranging from common assault to murder."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Violent crime encompasses the use of weapons such as firearms, knives and corrosive substances like acid.",
+        "spans": [
+          "It also encompasses the use of weapons such as firearms, knives and corrosive substances like acid."
+        ]
+      }
+    ],
+    "clueweb22-en0001-70-03605": [
+      {
+        "point_number": 1,
+        "point_content": "Economists tend to explain crime rates in terms of probabilities of conviction and arrest, and the severity of punishment.",
+        "spans": [
+          "Economists tend to explain crime rates in terms of probabilities of conviction and arrest, and the severity of punishment."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Sociological theories consider a variety of environmental factors that influence crime rates, including routine activity theory, social disorganization, and structural strain.",
+        "spans": [
+          "Sociological theories consider a variety of environmental factors that influence crime rates. These include:\nRoutine activity theory suggests the presence of guardians as an important factor in reducing crime.\nSocial disorganization: when social control in the community breaks down, perhaps due to low economic status or increased cultural heterogeneity, crime starts to climb.\nStructural strain: a perceived lack of possibility for social success can entice individuals to criminality."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The probability of arrest is a major inhibitor for both violent and property crimes, but the severity of punishment does not significantly influence crime rates.",
+        "spans": [
+          "According to Lander, the probability of arrest is a major inhibitor for both types, but the severity of punishment does not significantly influence crime rates."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The threat of long prison sentences and capital punishment does not help to reduce crime rates.",
+        "spans": [
+          "he concludes based on his research that the threat of long prison sentences and capital punishment does not help to reduce crime rates."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "For property crime, the level of poverty has a strong influence on the likelihood of criminal behavior, and people from larger households are less likely to commit property crimes.",
+        "spans": [
+          "Further analysis revealed that for property crime, the level of poverty has a strong influence on the likelihood of criminal behavior (as predicted by the theory of social disorganisation theory). People from larger households are less likely to commit property crimes, supporting the routine activity theory and the argument that guardians help to keep property crime down."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Living in a heterogeneous community with a mix of ethnicities seems to influence both violent and property crime rates.",
+        "spans": [
+          "The study suggests that living in a heterogeneous community with a mix of ethnicities seems to influence both violent and property crime rates."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Prison-run vocational programmes to integrate offenders back into society seem to reduce rates of violent crime effectively.",
+        "spans": [
+          "Meanwhile, prison-run vocational programmes to integrate offenders back into society seem to reduce rates of violent crime effectively."
+        ]
+      }
+    ],
+    "clueweb22-en0010-94-14510": [
+      {
+        "point_number": 1,
+        "point_content": "In a violent crime, a victim is harmed by or threatened with violence.",
+        "spans": [
+          "In a violent crime, a victim is harmed by or threatened with violence."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Violent crimes include rape and sexual assault, robbery, assault and murder.",
+        "spans": [
+          "Violent crimes include rape and sexual assault, robbery, assault and murder."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "NIJ supports research that strives to understand and reduce the occurrence and impact of violent crimes.",
+        "spans": [
+          "NIJ supports research that strives to understand and reduce the occurrence and impact of violent crimes."
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "question": "does selling your home affect social security",
+  "key_points": {
+    "clueweb22-en0008-67-15002": [
+      {
+        "point_number": 1,
+        "point_content": "Selling your house will not cause you to lose your Social Security benefits coverage, but the income from the sale may affect your eligibility for Medicaid and SSI.",
+        "spans": [
+          "You will not lose your coverage. However, your income may increase enough to make you no longer eligible for Medicaid and SSI."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "If you lose Medicaid and SSI due to increased income from selling your home, you would have to pay for benefits through regular Medicare and lose Extra Help supports.",
+        "spans": [
+          "Should this happen, you would have to pay for these benefits through regular Medicare and would also lose your Extra Help supports."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "If your income and assets later decline, you could become eligible again for Medicaid and SSI benefits.",
+        "spans": [
+          "If your income and assets (as defined in terms of Medicaid eligibility) later declined, you could once again be eligible for your current benefits."
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0037-35-13717": [
+      {
+        "point_number": 1,
+        "point_content": "Selling your home while receiving SSI benefits requires following specific procedures to maintain eligibility.",
+        "spans": [
+          "Selling Your Home While Receiving SSI Benefits?",
+          "Knowing how to manage additional income, such as the proceeds of selling a home, is crucial to maintaining SSI benefits."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "After selling your home, you have three months to buy a new home to retain SSI benefits if your bank balance is under the limit.",
+        "spans": [
+          "After the sale, you have three months to buy a new home.",
+          "If, in that three month period, you buy a new house and have less than $2,000 in the bank, you will retain your SSI benefits."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "If you do not buy a new home within three months and your bank balance exceeds $2,000/$3,000, your SSI benefits will be discontinued.",
+        "spans": [
+          "If, in that three month period, you fail to buy a new house, the money you made off the sale (anything that bumps your bank account over $2,000/$3,000) will negate your SSI eligibility for each month that your assets exceed the amount permitted."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "To reinstate SSI benefits, you must spend down excess funds within 12 months and provide records of purchases made with the proceeds.",
+        "spans": [
+          "In order to reinstate your SSI benefits, it will be necessary for you to “spend down,” the funds in excess of $2000/$3000",
+          "You typically have 12 months in which to “Spend Down” funds and apply for reinstatement.",
+          "Social Security will require a record of what was purchased with the proceeds of your home."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Transferring money to a family member is not allowed to spend down funds for SSI reinstatement.",
+        "spans": [
+          "Transferring money to a family member is not allowed."
+        ]
+      }
+    ],
+    "clueweb22-en0002-64-11304": [
+      {
+        "point_number": 1,
+        "point_content": "The capital gain from selling a property will be included in the calculation that determines whether and how much of your Social Security checks will be taxed.",
+        "spans": [
+          "The capital gain will be included in the calculation that determines whether and how much of your Social Security checks will be taxed"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The sale of a property can cause up to 85% of your Social Security benefit to be taxable in the year of the sale.",
+        "spans": [
+          "That will likely cause up to 85% of your Social Security benefit in 2014 to be taxable."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Medicare premiums are likely to rise based on higher modified adjusted gross income from the property sale, but the increase is not immediate and depends on income from two years earlier.",
+        "spans": [
+          "Your Medicare premiums are also likely to rise based on your higher modified adjusted gross income",
+          "The income used to determine Medicare premiums is the modified adjusted gross income from two years earlier, so your premiums shouldn’t increase until 2016."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "If income returns to normal after the year of the sale, Medicare premiums should revert to normal two years later.",
+        "spans": [
+          "If your income reverts to normal in 2015, your premiums should also revert to normal in 2017"
+        ]
+      }
+    ],
+    "clueweb22-en0008-85-11760": [
+      {
+        "point_number": 1,
+        "point_content": "Selling a house would have no effect on Social Security disability benefits (SSDI).",
+        "spans": [
+          "Buying or selling a house would have no effect on Social Security disability benefits (SSDI)."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Proceeds from the sale of your home could potentially make you ineligible for Supplemental Security Income (SSI) payments at least temporarily.",
+        "spans": [
+          "if you receive Supplemental Security Income (SSI ), then proceeds from the sale of your home could potentially make you ineligible for SSI payments at least temporarily."
+        ]
+      }
+    ]
+  }
+}

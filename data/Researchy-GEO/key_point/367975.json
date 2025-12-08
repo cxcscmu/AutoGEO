@@ -1,0 +1,115 @@
+{
+  "question": "why is animal testing ineffective",
+  "key_points": {
+    "clueweb22-en0035-81-19112": [
+      {
+        "point_number": 1,
+        "point_content": "Animals are not good models for human medicine because humans and animals are genetically, metabolically, and anatomically different.",
+        "spans": [
+          "Animals are not good models for human medicine.",
+          "Humans and animals are genetically, metabolically, and anatomically different."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Genetic engineering techniques on animals have been described as unpredictable and inefficient.",
+        "spans": [
+          "genetic engineering techniques have been described as both unpredictable and inefficient."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Past scientific discoveries prove no form of animal tests can ever truly reflect what will occur during a human trial.",
+        "spans": [
+          "no form of animal tests can ever truly reflect what will occur during a human trial."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The thalidomide disaster shows animal testing failed to predict harmful effects in humans.",
+        "spans": [
+          "thalidomide was widely used as a sedative and for the treatment of morning sickness",
+          "within a few years of the widespread use of thalidomide in Europe, Australia, and Japan, approximately 10,000 children were born with phocomelia"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The Opren incident shows a drug that passed animal testing was highly toxic in humans, causing deaths.",
+        "spans": [
+          "Opren safely passed animal testing, and was introduced to the public in 1980 as an arthritis drug.",
+          "After just two years, it was found to be highly toxic in humans. There were 3,500 reports of harmful effects, including 61 deaths in Britain."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Animal testing is ineffective because it cannot be proven to yield results that aren’t easily falsifiable.",
+        "spans": [
+          "transgenic testing on animals is not only unethical, but it is also ineffective because it cannot be proven to yield results that aren’t easily falsifiable."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Nine out of ten drugs proven successful in animal tests fail in human trials.",
+        "spans": [
+          "nine out of ten drugs proven successful in animal tests fail in human trials."
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0016-31-04067": [
+      {
+        "point_number": 1,
+        "point_content": "Animal testing is often ineffective because animals do not get many of the human diseases that people do.",
+        "spans": [
+          "The harmful use of animals in experiments is not only cruel but also often ineffective.",
+          "Animals do not get many of the human diseases that people do, such as major types of heart disease, many types of cancer, HIV, Parkinson’s disease, or schizophrenia."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The success in animal testing is not proportional to human safety, indicating ineffectiveness.",
+        "spans": [
+          "The success in animal testing is not proportional to human safety."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Animals are poor test subjects and cannot be trusted in determining long-term effects, contributing to ineffectiveness.",
+        "spans": [
+          "Cannot be trusted in determining long-term effects.",
+          "Animals are poor test subjects."
+        ]
+      }
+    ],
+    "clueweb22-en0023-47-10298": [
+      {
+        "point_number": 1,
+        "point_content": "Animal testing is often unsuccessful in assessing the effectiveness of pharmaceuticals for humans.",
+        "spans": [
+          "The use of animal testing to develop pharmaceuticals also poses a threat to the health and safety of humans; this threat is a consequence of the fact that animal experimentation, when used to assess the effectiveness of pharmaceuticals, is often unsuccessful."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Approximately 90 percent of pharmaceuticals tested on animals fail to advance to human clinical trials, and of the few that pass animal testing, an estimated 92 percent fail clinical trials.",
+        "spans": [
+          "In fact, according to the Humane Society International, approximately 90 percent of pharmaceuticals tested on animals fail to advance to human clinical trials, and of the few that pass animal testing, an estimated 92 percent fail clinical trials."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The vast majority of pharmaceuticals developed using animal testing ultimately prove to be ineffective methods of treatment.",
+        "spans": [
+          "This fact indicates that the vast majority of pharmaceuticals developed using animal testing ultimately prove to be ineffective methods of treatment."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The inconsistency between the results of animal testing and those of human clinical trials strongly suggest that animal testing procedures are an unreliable method of research.",
+        "spans": [
+          "The inconsistency between the results of animal testing and those of human clinical trials strongly suggest that animal testing procedures are an unreliable method of research."
+        ]
+      }
+    ]
+  }
+}

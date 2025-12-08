@@ -1,0 +1,85 @@
+{
+  "question": "when should a dependency be raised as a program risk?",
+  "key_points": [
+    {
+      "point_number": 1,
+      "point_content": "A dependency should be added to the program risks when it must be accepted, is identified on the program dependency board during PI Planning and execution, or is critical to the successful completion of the project and may disrupt the project if not managed properly.",
+      "original_point_number": [
+        1,
+        10,
+        13
+      ]
+    },
+    {
+      "point_number": 2,
+      "point_content": "Dependencies that are out of the project and fall into the Company category have the greatest possibility of presenting a risk to your work.",
+      "original_point_number": [
+        2
+      ]
+    },
+    {
+      "point_number": 3,
+      "point_content": "Consider the risks each dependency presents to the project and add them to your risk log with an owner and management plan.",
+      "original_point_number": [
+        3
+      ]
+    },
+    {
+      "point_number": 4,
+      "point_content": "Dependency-driven risks related to other teams should be closely monitored by the project manager even if someone else is named as the risk owner.",
+      "original_point_number": [
+        4
+      ]
+    },
+    {
+      "point_number": 5,
+      "point_content": "During team breakouts, teams identify risks and dependencies and draft their initial team PI objectives, including uncommitted objectives due to unknowns or risks.",
+      "original_point_number": [
+        5
+      ]
+    },
+    {
+      "point_number": 6,
+      "point_content": "Program risks identified during planning are discussed and addressed openly, then categorized as Resolved, Owned, Accepted, or Mitigated.",
+      "original_point_number": [
+        6
+      ]
+    },
+    {
+      "point_number": 7,
+      "point_content": "Risks that cannot be resolved during PI planning are owned by someone on the train for ongoing management.",
+      "original_point_number": [
+        7
+      ]
+    },
+    {
+      "point_number": 8,
+      "point_content": "A Product Owner can use strategies during Program Increment Planning to minimize dependencies, including moving teams to another Agile Release Train, splitting stories to eliminate dependencies, and reprioritizing epics.",
+      "original_point_number": [
+        8,
+        9
+      ]
+    },
+    {
+      "point_number": 9,
+      "point_content": "Too many dependencies (too much red yarn on the program dependency board) indicate a problem with the Value Stream network configuration and should be addressed as a risk.",
+      "original_point_number": [
+        11
+      ]
+    },
+    {
+      "point_number": 10,
+      "point_content": "Deeper learning and retrospective discussions about dependencies should be done soon after PI Planning to address risks early.",
+      "original_point_number": [
+        12
+      ]
+    },
+    {
+      "point_number": 11,
+      "point_content": "It is the responsibility of the project or program manager to record, monitor, and manage dependencies to prevent them from becoming risks.",
+      "original_point_number": [
+        14
+      ]
+    }
+  ]
+}

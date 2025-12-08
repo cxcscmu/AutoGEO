@@ -1,0 +1,229 @@
+{
+  "question": "how could you apply analytical frameworks to illustrate possible project outcomes?",
+  "key_points": [
+    {
+      "point_number": 1,
+      "point_content": "Analytical frameworks are models designed to structure and guide an analyst's thinking in a systematic, logical manner, often presented visually to facilitate sense making and understanding.",
+      "original_point_number": [
+        5,
+        6
+      ]
+    },
+    {
+      "point_number": 2,
+      "point_content": "Analytical frameworks underpin and guide data collection, collation, storage, and analysis by identifying key analytical outputs and products at each step, structuring data for analysis to achieve tangible outcomes such as answering key questions about priority needs and gaps.",
+      "original_point_number": [
+        7,
+        10,
+        11
+      ]
+    },
+    {
+      "point_number": 3,
+      "point_content": "A framework helps multiple stakeholders analyze data using the same categorization, reducing duplication of information and supporting common analysis to identify deficiencies, gaps, priority needs, and priority areas for intervention.",
+      "original_point_number": [
+        9,
+        13
+      ]
+    },
+    {
+      "point_number": 4,
+      "point_content": "Defining a theoretical framework forces analysts to be selective about variables, focusing analysis on research questions systematically and transparently, thereby reducing biases.",
+      "original_point_number": [
+        8
+      ]
+    },
+    {
+      "point_number": 5,
+      "point_content": "An analytical framework serves as a communication tool and driver for collaboration between humanitarian actors and is used as a reference throughout the process.",
+      "original_point_number": [
+        14
+      ]
+    },
+    {
+      "point_number": 6,
+      "point_content": "An analytical framework is used to identify what information will be useful for analysis and what can be discarded.",
+      "original_point_number": [
+        15
+      ]
+    },
+    {
+      "point_number": 7,
+      "point_content": "Analytic frameworks provide a picture of the topic under review, elucidating how the intervention may contribute to health outcomes in the target population considering potential mediators and modifiers of effect, linking and defining clinical concepts, evidence, and populations as they relate to outcomes, sometimes referred to as causal pathways.",
+      "original_point_number": [
+        26,
+        27
+      ]
+    },
+    {
+      "point_number": 8,
+      "point_content": "Analytic frameworks help clarify implicit assumptions, identify logical flaws as key questions are developed, provide a starting point for discussions with key informants, and specify populations, interventions, outcomes, and sometimes comparators, timing, and settings, identifying potential modifiers and mediators of effectiveness.",
+      "original_point_number": [
+        28,
+        29
+      ]
+    },
+    {
+      "point_number": 9,
+      "point_content": "Analytic frameworks help define key questions, direct specific literature searches, help users understand decisional context in complex chains of logic between intermediate and clinical outcomes, and assist in identifying specific researchable key questions in complex clinical or policy issues.",
+      "original_point_number": [
+        30,
+        35
+      ]
+    },
+    {
+      "point_number": 10,
+      "point_content": "Components of analytic frameworks include population of interest, intervention, linkages demonstrating key questions, intermediate outcomes, and ultimate health outcomes including harms.",
+      "original_point_number": [
+        31
+      ]
+    },
+    {
+      "point_number": 11,
+      "point_content": "Analytic frameworks should clearly identify the population, intervention, and outcomes, represent all key questions clearly, may include contextual information about modifiers and mediators, and are drafted to clarify complex questions requiring iterative revisions through the topic refinement process.",
+      "original_point_number": [
+        32,
+        33
+      ]
+    },
+    {
+      "point_number": 12,
+      "point_content": "Using the framework throughout the review process helps revisit inclusion/exclusion criteria, keep a handle on scope, reconsider key questions, guide interviews with key informants, and structure the report and results.",
+      "original_point_number": [
+        34
+      ]
+    },
+    {
+      "point_number": 13,
+      "point_content": "Project management methodology offers a clear project roadmap listing all steps required to deliver a project successfully, providing structure and direction but flexible enough to adapt to evolving conditions, and can be chosen and tailored to fit specific business needs for successful project outcomes.",
+      "original_point_number": [
+        36,
+        37,
+        38
+      ]
+    },
+    {
+      "point_number": 14,
+      "point_content": "Waterfall methodology is a sequential and linear approach with defined phases, suitable for projects with clear requirements and scope.",
+      "original_point_number": [
+        39
+      ]
+    },
+    {
+      "point_number": 15,
+      "point_content": "Critical Chain Project Management (CCPM) identifies the critical chain and uses buffers to ensure timely project completion despite resource constraints.",
+      "original_point_number": [
+        40
+      ]
+    },
+    {
+      "point_number": 16,
+      "point_content": "Agile methodology is iterative and people-centric, focusing on responding to change and delivering value through smaller segments.",
+      "original_point_number": [
+        41
+      ]
+    },
+    {
+      "point_number": 17,
+      "point_content": "Kanban framework visually manages project activities using boards to prioritize tasks and improve flow and collaboration.",
+      "original_point_number": [
+        42
+      ]
+    },
+    {
+      "point_number": 18,
+      "point_content": "Scrum framework enables small teams to work incrementally in sprints, with defined roles and regular reviews to improve performance.",
+      "original_point_number": [
+        43
+      ]
+    },
+    {
+      "point_number": 19,
+      "point_content": "Lean methodology focuses on eliminating waste, improving processes, and delivering value through five key principles.",
+      "original_point_number": [
+        44
+      ]
+    },
+    {
+      "point_number": 20,
+      "point_content": "PRINCE2 methodology is a detailed, process-based approach suitable for large enterprise projects, emphasizing clear roles and controlled stages.",
+      "original_point_number": [
+        45
+      ]
+    },
+    {
+      "point_number": 21,
+      "point_content": "Project managers use analytical techniques and technology to monitor and control risks, estimate schedules and costs more accurately, break down complex data, predict project behavior and outcomes in real-time, and make fact-based decisions to keep projects on schedule and budget.",
+      "original_point_number": [
+        16,
+        17,
+        18,
+        19
+      ]
+    },
+    {
+      "point_number": 22,
+      "point_content": "A data-driven analytics approach helps teams analyze data to understand patterns and trends, aiding executives in strategic decisions to improve project success, including watching for early signs of slippage in budgets, costs, and timelines and taking proactive action.",
+      "original_point_number": [
+        20,
+        21
+      ]
+    },
+    {
+      "point_number": 23,
+      "point_content": "Managers can use tools like burn-down charts to predict whether the project will be completed on time.",
+      "original_point_number": [
+        22
+      ]
+    },
+    {
+      "point_number": 24,
+      "point_content": "Deep analytics improve resource utilization and forecast revenue and costs by combining unrelated data streams for insights.",
+      "original_point_number": [
+        23
+      ]
+    },
+    {
+      "point_number": 25,
+      "point_content": "Analytics help plan, monitor, and review quality throughout the project, which is a key measure of project success.",
+      "original_point_number": [
+        24
+      ]
+    },
+    {
+      "point_number": 26,
+      "point_content": "Real-time project analytics provides information that helps align projects with strategic objectives and organizational vision.",
+      "original_point_number": [
+        25
+      ]
+    },
+    {
+      "point_number": 27,
+      "point_content": "Flow charting is a simple way to get people on board with where a company is at and where it would like to be.",
+      "original_point_number": [
+        1
+      ]
+    },
+    {
+      "point_number": 28,
+      "point_content": "Metrics and Data Collection focuses on facts to steer change management in a constructive direction and shorten decision-making time.",
+      "original_point_number": [
+        2
+      ]
+    },
+    {
+      "point_number": 29,
+      "point_content": "Force Field Analysis highlights the drivers for change and change inhibitors, especially resistance from members of the organization.",
+      "original_point_number": [
+        3
+      ]
+    },
+    {
+      "point_number": 30,
+      "point_content": "Culture mapping helps understand organizational values, concepts, norms and practices to ensure management practices are appropriate.",
+      "original_point_number": [
+        4
+      ]
+    }
+  ]
+}

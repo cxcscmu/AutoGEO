@@ -1,0 +1,169 @@
+{
+  "question": "should cghildren be encouraged to be competitive",
+  "key_points": {
+    "null": [],
+    "clueweb22-en0020-26-07379": [
+      {
+        "point_number": 1,
+        "point_content": "A little healthy competition can be good for kids and help them develop important skills they'll use well into adulthood.",
+        "spans": [
+          "a little healthy competition can be good for kids",
+          "competitive activities help them develop important skills they'll use well into adulthood"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Competition helps kids learn that success comes from hard work and persistence, not just being the best or brightest.",
+        "spans": [
+          "Competition helps kids learn that it is not always the best or the brightest who are successful, but rather those that work hard and stick with it"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Children who engage in competition earn critical social skills, learn the value of hard work, and develop self-esteem and self-efficacy.",
+        "spans": [
+          "children who engage in competition \"earn critical social skills through interacting with other children, while also learning the value of hard work and developing self-esteem and self-efficacy"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Competition provides a healthy setting for children to learn teamwork and problem-solving skills.",
+        "spans": [
+          "It's a healthy setting for your child to learn how to be a team player",
+          "Many cooperative games teach children to problem solve as a team and help them learn the lifelong skills of working for the common good of the group"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Healthy competition is indicated by children wanting to participate again, handling wins and losses gracefully, learning new skills, and enjoying improved self-esteem.",
+        "spans": [
+          "If your children are involved in healthy competition, they may: ask to participate in the activity again, be able to win and lose gracefully, learn new skills and want to better themselves, enjoy improved self esteem"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Unhealthy competition may cause children to resist participation, avoid activities, express unwillingness, or show signs of anxiety and depression.",
+        "spans": [
+          "If your children are involved in unhealthy competition, they may: resist participation in the activity, fake an illness to avoid the activity, say outright they doesn't want to participate, show signs of depression, anxiety, difficulty sleeping, or loss of appetite"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Parents can encourage healthy competition by defining accomplishment as setting and achieving goals, supporting children through challenges, and reinforcing that effort and learning from losing is important.",
+        "spans": [
+          "it helps to define accomplishment not just as winning the activity, but as setting a goal for something they put their minds to and accomplish",
+          "support your kids through their challenges and regularly reinforce the message that it's okay to lose as long as they are putting forth and effort and learning from the experience"
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Modeling good behavior in competition is a powerful tool for teaching children how to handle competition.",
+        "spans": [
+          "Modeling good behavior (read: no blaming the refs afterward) is also a powerful tool"
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Children should learn that their most important competitor is themselves, focusing on personal improvement rather than comparison to others.",
+        "spans": [
+          "children learn their most important competitor is their self",
+          "We set times for him to complete certain distances, so his perspective changed from competing against the other kids to competing against his own performance"
+        ]
+      }
+    ],
+    "clueweb22-en0028-78-06685": [
+      {
+        "point_number": 1,
+        "point_content": "Competition among siblings affects their development and may be the most important reason why children raised in the same way are so different.",
+        "spans": [
+          "competition among siblings does affect the development of other children in the family, and may be the most important reason why children raised in the same way are so different"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Parents often label children to encourage self-esteem, which increases competitiveness and causes children to assume they are not good at what another sibling excels in.",
+        "spans": [
+          "Parents often reinforce those differences because they want to encourage self-esteem in each child and also fear that the second or third child may not be as skilled as the first child.",
+          "That process often results in parents labeling their children.",
+          "Those labels may increase the competitiveness within the family because each child believes he/she should be best in the family at something.",
+          "Labeling also causes children to assume they are not good at whatever another sibling is best at."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Labeling children as social ones directs them to be the best partiers, which parents may regret by their teenage years.",
+        "spans": [
+          "labeling your children as the social ones has the impact of directing them to be the best partiers, and you will surely regret that label by their teenage years"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Children are attracted to being different than their siblings to receive special attention from parents, which can cause serious sibling problems if differences are in important areas like achievement or honesty.",
+        "spans": [
+          "Children are attracted to being different than their siblings so they can receive their own special attention from their parents.",
+          "important differences, such as achievement and underachievement or honesty and dishonesty, will cause parents to find they have serious sibling problems on their hands"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Children labeled best in a domain feel ownership and are threatened by siblings who are as good or better, sometimes begging parents to exclude siblings from activities.",
+        "spans": [
+          "When children are labeled best in a domain, they often do their best to prevent another sibling from encroaching on their domain.",
+          "Sometimes they even beg their parent not to let their siblings participate in their activities."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Certain sibling combinations predispose children toward underachievement due to increased competitiveness, such as close-aged same-gender siblings, siblings of a gifted child, and families with a much younger child.",
+        "spans": [
+          "There are specific sibling combinations that predispose children toward underachievement.",
+          "The combinations that seem unusually difficult include: very close-aged, same-gender siblings, siblings of an extremely gifted child, and a family of children with one who is considerably younger."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Close-aged, same-gender siblings treated similarly feel more competitive pressure, causing stress and frustration, and compete for the same parent's attention.",
+        "spans": [
+          "Where two close-aged, same-gender siblings are treated similarly, both children are likely to feel more competitive pressure.",
+          "Both siblings are also likely to compete for a close relationship with the same-gender or most powerful parent."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Younger siblings of a very talented oldest child may feel pressure and choose different directions for achievement or underachieve for attention.",
+        "spans": [
+          "When the first child exhibits unusual talent, she is likely to be the recipient of special parent and school attention.",
+          "Younger siblings believe that in order to earn equal recognition they must achieve a similar level of success.",
+          "If the family can encourage their activities and help them to understand their competitive feelings, the child may develop both competence and confidence.",
+          "If the oldest sibling’s accomplishments are significant, it’s often difficult to convince younger children of their own talent.",
+          "In such cases they may resort to underachievement for attention seeking."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "The youngest child labeled as the 'baby of the family' may become underachievers if overindulged or overempowered by older siblings.",
+        "spans": [
+          "The sibling combination in which the youngest is labeled the \"baby of the family\" may also initiate underachievement.",
+          "However, if youngest children are either over-indulged or overempowered by older siblings, particularly when they are much younger than the others, they may likely be underachievers."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Parents should avoid labeling children, prioritize education for all children, and consider both parents intelligent to reduce sibling competitiveness and encourage a whole smart family.",
+        "spans": [
+          "Avoid labeling.",
+          "Prioritize education as first.",
+          "Consider both parents intelligent."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Doing the best you can do is more important than being best in the family; effort and attitude count more than competition.",
+        "spans": [
+          "Doing the best you can do is more important than being best in the family.",
+          "Effort and attitude count."
+        ]
+      }
+    ]
+  }
+}

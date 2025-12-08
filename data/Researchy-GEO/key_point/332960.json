@@ -1,0 +1,252 @@
+{
+  "question": "how does crime affect individuals",
+  "key_points": {
+    "clueweb22-en0012-37-14479": [
+      {
+        "point_number": 1,
+        "point_content": "Crime can cause strong emotional reactions such as anger, upset, or fear.",
+        "spans": [
+          "You feel angry, upset or experience other strong emotions",
+          "A lot of people feel angry, upset or afraid after experiencing crime"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Crime can cause physical symptoms like lack of sleep or feeling ill.",
+        "spans": [
+          "You show physical symptoms",
+          "Others might have physical symptoms, such as lack of sleep or feeling ill."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Victims may blame themselves or feel embarrassed to seek help, but it is not their fault.",
+        "spans": [
+          "You blame yourself thinking you should have done things differently",
+          "Many victims blame themselves or feel too embarrassed to come forward and get help – it’s important to remember it’s not your fault."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Crime can lead to long-term mental health problems such as depression, anxiety, or PTSD.",
+        "spans": [
+          "You develop long-term problems such as depression or anxiety-related illness",
+          "Occasionally, people do develop long-term problems, such as depression or anxiety-related illnesses, and a few people have a severe, long-lasting reaction after a crime, known as post-traumatic stress disorder (PTSD)."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The impact of crime varies depending on the type of crime, relationship to the offender, support received, and past experiences.",
+        "spans": [
+          "How you react to a crime will also depend on:",
+          "1. The type of crime",
+          "2. Whether you know the person who committed the crime",
+          "3. The support you get (or don’t get) from your family, friends, the police and other people around you",
+          "4. Things that have happened to you in the past"
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0010-58-00465": [
+      {
+        "point_number": 1,
+        "point_content": "The immediate effect of crime is usually felt by the individual upon whom the crime was committed.",
+        "spans": [
+          "the immediate effect of crime is usually felt by the individual upon whom the crime was committed"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Members who remain in crime-filled areas may feel unsafe in general, particularly if they witness crime.",
+        "spans": [
+          "Members who remain in crime-filled areas may feel unsafe in general, particularly if they witness crime"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Honest citizens residing in high-crime areas may struggle to find help and may face lowered housing values due to the reputation of the community.",
+        "spans": [
+          "Honest citizens residing in high-crime areas may struggle to find help and may face lowered housing values due to the reputation of the community"
+        ]
+      }
+    ],
+    "clueweb22-en0027-11-20042": [
+      {
+        "point_number": 1,
+        "point_content": "Crime causes common emotional and physical effects such as shock, fear, anger, numbness, and trouble believing the event happened.",
+        "spans": [
+          "You may feel shocked, fearful or angry.",
+          "A common reaction is feeling numb and having trouble believing that this has happened to you."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Victims of crime may experience a range of temporary emotions and physical symptoms including headaches, nausea, sleep problems, jumpiness, and repeated thoughts of the event.",
+        "spans": [
+          "You might experience:\nheadaches\nnausea\nsleep problems or fatigue\njumpiness\nrepeated thoughts of the event."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Victims may have feelings that come and go such as guilt, fear, anger, sadness, confusion, and helplessness.",
+        "spans": [
+          "Or you might have feelings that come and go, like:\nguilt\nfear\nanger\nsadness\nconfusion\nhelplessness."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Crime can affect day-to-day life by causing trouble with concentration or memory, reduced performance at work or school, withdrawing from others, and feeling like losing control.",
+        "spans": [
+          "Your day-to-day life might be affected by:\ntrouble with your concentration or memory\nreduced performance at work or school\nwithdrawing from others\nfeeling like you’ve lost control."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Some people may experience more difficult recovery including depression, anxiety, and ongoing physical effects, and should seek professional help.",
+        "spans": [
+          "But sometimes the recovery process is more difficult. Some people experience depression or anxiety, and related ongoing physical effects. It is important to seek professional help if you think that this may be happening.  Doing this early can help you recover more quickly."
+        ]
+      }
+    ],
+    "clueweb22-en0015-25-15851": [
+      {
+        "point_number": 1,
+        "point_content": "Victims of crime often have emotional reactions such as shock, terror, and feelings of unreality.",
+        "spans": [
+          "Few crime victims are anticipating a violent assault as the crime occurs, so most are shocked, surprised, and terrified when it happens.",
+          "Crime victims often have feelings of unreality when an assault occurs and think, “This can’t be happening to me.”"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Emotional reactions to crime vary by type of crime, seriousness, victim's personal circumstances, and demographics.",
+        "spans": [
+          "In the vast majority (93%) of cases, victims themselves have an emotional reaction to victimisation, while in 25% of cases another adult in the household and, in 8% of cases, a child (aged under 16) have.",
+          "The likelihood of having an emotional reaction is fairly similar for each group of offence types - vandalism (66% of instances), personal offences (60%) and household thefts (56%).",
+          "Incidents perceived as more serious (81% of cases where the seriousness of the incident is rated as seven or above), compared to less serious incidents (53% of cases where the seriousness of the incident is rated as three or below).",
+          "Victims who are separated, divorced or widowed (78%), compared to respondents who are single, married or living as married (57%).",
+          "Respondents with a total annual household income of less than 10,000 (72%), compared to those with an income of more than 10,000 (61%).",
+          "Respondents in socio-economic group 'E' (i.e. unemployed) (75%), compared to those in the other socio-economic groups (59%).",
+          "Women (66%), compared to men (54%)"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Short-term trauma from crime includes physiological anxiety and cognitive symptoms such as feeling terrified, helpless, or guilty.",
+        "spans": [
+          "Many victims of violent crime describe experiencing extremely high levels of physiological anxiety, including rapid heart rate, hyperventilation, and stomach distress.",
+          "Crime victims often experience cognitive symptoms of anxiety, including feeling terrified, helpless, guilty, or out of control."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Mid-term impact includes preoccupation with the crime, concerns about safety, and negative changes in belief systems.",
+        "spans": [
+          "They are preoccupied with the crime; they think about it a great deal, talk about it, or have flashbacks and bad dreams about it.",
+          "They are often concerned about their safety from attack and about the safety of their family members.",
+          "They are concerned that other people will not believe them or will think that they were to blame for what happened.",
+          "Many victims also experience negative changes in their belief systems and no longer think that the world is a safe place where they can trust other people."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Long term effects of crime can include major depression, suicidal thoughts, substance abuse, relationship problems, anxiety disorders, and increased risk of further victimization.",
+        "spans": [
+          "Most people do not suffer any sort of long term harm after being a victim of crime. However if in some cases victim trauma is not addresses the effects can escalate and include:",
+          "Major depression.",
+          "Thoughts of suicide and suicide attempts.",
+          "Use and abuse of alcohol and other drugs.",
+          "Ongoing problems with relationships.",
+          "Anxiety disorders.",
+          "A changing view of the world as a safe place.",
+          "Increased risk of further victimization"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Some victims develop Posttraumatic Stress Disorder (PTSD) with symptoms like nightmares, flashbacks, and depression, especially those who experienced violent crime or physical injury.",
+        "spans": [
+          "Some victims of crime go on to develop Posttraumatic Stress Disorder. The symptoms vary from individual to individual but often include nightmares and flashbacks, sleeping problems, depression, and other physical and mental problems.",
+          "Rates of PTSD are much higher among those who have been victims of violent crime than those who have been victims of other types of traumatic events.",
+          "Victims of crimes that resulted in physical injuries, and who believed they might have been killed or seriously injured during the crime, were much more likely to suffer from PTSD than victims whose crimes did not involve life threat or physical injury (45.2 percent compared to 19 percent)."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Crime causes practical problems such as inconvenience, loss or damage to property, and worry or loss of sleep.",
+        "spans": [
+          "43% of victims said that apart from emotional upset, the crime also caused practical problems",
+          "The most commonly mentioned problems are time or inconvenience involved in repairing or replacing items (mentioned in 37% of cases where the incident was said to have caused problems).",
+          "inconvenience because of loss or damage to a vehicle or other items (12% in each case)",
+          "worry or loss of sleep (10%)."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Crime has financial and economic effects including medical costs, lost wages, property damage, and other expenses.",
+        "spans": [
+          "Crime can have a considerable economic impact on victims and the effects include Medication and prescription drugs",
+          "Physical therapy",
+          "Job retraining",
+          "Mental health counselling and therapy",
+          "Loss of wages due to incapacitation, rehabilitation, or taking time off from work to repair damage from property crimes, participate in criminal or juvenile justice proceedings, or seek medical or mental health treatment",
+          "Crime scene cleanup",
+          "Loss of or damage to personal property",
+          "Costs of replacing locks and changing security devices",
+          "Child and elder care",
+          "Fees incurred in changing banking or credit card accounts",
+          "Higher insurance premiums",
+          "Relocation expenses",
+          "For families of homicide victims, funeral and burial expenses and loss of income"
+        ]
+      }
+    ],
+    "clueweb22-en0011-87-13035": [
+      {
+        "point_number": 1,
+        "point_content": "Being a victim of a crime can be a traumatic and difficult experience with a tremendously harsh impact depending on the person, type of crime, and its circumstances.",
+        "spans": [
+          "Being a victim of a crime can be a traumatic and difficult experience.",
+          "The impact of the crime can be tremendously harsh, depending on the person, type of crime, and its circumstances."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Victims can suffer from anxiety, difficulty concentrating, guilt, depression, isolation, trouble sleeping, among other reactions.",
+        "spans": [
+          "Whoever becomes a victim of crime, can suffer from anxiety, difficulty concentrating, guilt, depression, isolation, trouble while sleeping, among and other reactions."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The psychological, physical and social consequences after victimisation can be life disturbing for most people.",
+        "spans": [
+          "The psychological, physical and social consequences that occur after victimisation can be life disturbing for most people."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Physical consequences include injuries and body responses to stress such as loss of energy, muscle pain, headaches, menstruation disorders, cold sensations, digestive problems, and high blood pressure.",
+        "spans": [
+          "The physical effects include not only those resulting directly from the aggression suffered by the victim (fractures, bruises, etc.), but also the body and the organism’s response to the stress it was subjected to.",
+          "These consequences include for example: » loss of energy; » muscle pain; » headaches and/or migraines; » menstruation disorders; » cold sensations, shivering and/or hot flashes; » digestive problems; » high blood pressure."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Psychological consequences include distrust of others, sadness, and loss of self confidence.",
+        "spans": [
+          "The psychological consequences of victimisation include: » distrust of others; » sadness; » loss of self confidence."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Social consequences can include feeling of isolation, tense relationships, fear of being alone, and feelings of insecurity, sometimes forcing deep structural changes in daily life.",
+        "spans": [
+          "At times, victimisation forces deep structural changes in one's daily life (moving house, changing job, etc.).",
+          "Your life project can be totally or partially disrupted and that may imply: » feeling of isolation; » tense relationships with your  family and husband/wife; » fear of being alone; » feelings of insecurity."
+        ]
+      }
+    ]
+  }
+}

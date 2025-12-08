@@ -1,0 +1,894 @@
+{
+  "question": "how does global warming affect the environment",
+  "key_points": {
+    "clueweb22-en0003-40-07017": [
+      {
+        "point_number": 1,
+        "point_content": "Global climate change has already had observable effects on the environment such as glaciers shrinking, ice on rivers and lakes breaking up earlier, plant and animal ranges shifting, and trees flowering sooner.",
+        "spans": [
+          "Global climate change has already had observable effects on the environment. Glaciers have shrunk, ice on rivers and lakes is breaking up earlier, plant and animal ranges have shifted and trees are flowering sooner."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Effects predicted by scientists such as loss of sea ice, accelerated sea level rise, and longer, more intense heat waves are now occurring.",
+        "spans": [
+          "Effects that scientists had predicted in the past would result from global climate change are now occurring: loss of sea ice, accelerated sea level rise and longer, more intense heat waves."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The net damage costs of climate change are likely to be significant and to increase over time.",
+        "spans": [
+          "Taken as a whole, the range of published evidence indicates that the net damage costs of climate change are likely to be significant and to increase over time."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Global temperatures will continue to rise for decades to come due to greenhouse gases produced by human activities.",
+        "spans": [
+          "Scientists have high confidence that global temperatures will continue to rise for decades to come, largely due to greenhouse gases produced by human activities."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The extent of climate change effects on individual regions will vary over time and with the ability of different societal and environmental systems to mitigate or adapt to change.",
+        "spans": [
+          "According to the IPCC, the extent of climate change effects on individual regions will vary over time and with the ability of different societal and environmental systems to mitigate or adapt to change."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Increases in global mean temperature will produce beneficial impacts in some regions and harmful ones in others, with net annual costs increasing over time.",
+        "spans": [
+          "The IPCC predicts that increases in global mean temperature of less than 1.8 to 5.4 degrees Fahrenheit (1 to 3 degrees Celsius) above 1990 levels will produce beneficial impacts in some regions and harmful ones in others. Net annual costs will increase over time as global temperatures increase."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Global climate is projected to continue to change over this century and beyond, depending on heat-trapping gases emitted and climate sensitivity.",
+        "spans": [
+          "Global climate is projected to continue to change over this century and beyond. The magnitude of climate change beyond the next few decades depends primarily on the amount of heat-trapping gases emitted globally, and how sensitive the Earth’s climate is to those emissions."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "The length of the frost-free season and growing season has been increasing and is projected to continue to lengthen, affecting ecosystems and agriculture.",
+        "spans": [
+          "The length of the frost-free season (and the corresponding growing season) has been increasing nationally since the 1980s, with the largest increases occurring in the western United States, affecting ecosystems and agriculture.",
+          "Across the United States, the growing season is projected to continue to lengthen."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Average U.S. precipitation has increased since 1900 with regional variations, and heavy precipitation events are projected to continue increasing.",
+        "spans": [
+          "Average U.S. precipitation has increased since 1900, but some areas have had increases greater than the national average, and some areas have had decreases.",
+          "Projections of future climate over the U.S. suggest that the recent trend towards increased heavy precipitation events will continue."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Droughts and heat waves are projected to become more intense, with summer temperatures rising and soil moisture reducing in many regions.",
+        "spans": [
+          "Droughts in the Southwest and heat waves (periods of abnormally hot weather lasting days to weeks) everywhere are projected to become more intense, and cold waves less intense everywhere.",
+          "Summer temperatures are projected to continue rising, and a reduction of soil moisture, which exacerbates heat waves, is projected for much of the western and central U.S. in summer."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Hurricanes are becoming stronger and more intense, with increased intensity, frequency, and duration since the early 1980s.",
+        "spans": [
+          "The intensity, frequency and duration of North Atlantic hurricanes, as well as the frequency of the strongest (Category 4 and 5) hurricanes, have all increased since the early 1980s.",
+          "Hurricane-associated storm intensity and rainfall rates are projected to increase as the climate continues to warm."
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "Global sea level has risen and is projected to rise another 1 to 8 feet by 2100 due to melting land ice and seawater expansion.",
+        "spans": [
+          "Global sea level has risen by about 8 inches since reliable record keeping began in 1880.",
+          "It is projected to rise another 1 to 8 feet by 2100. This is the result of added water from melting land ice and the expansion of seawater as it warms."
+        ]
+      },
+      {
+        "point_number": 13,
+        "point_content": "The Arctic Ocean is expected to become essentially ice free in summer before mid-century.",
+        "spans": [
+          "The Arctic Ocean is expected to become essentially ice free in summer before mid-century."
+        ]
+      }
+    ],
+    "clueweb22-en0017-91-05176": [
+      {
+        "point_number": 1,
+        "point_content": "The planet is warming, from North Pole to South Pole, with global average surface temperature increased by more than 1.6 degrees Fahrenheit (0.9 degrees Celsius).",
+        "spans": [
+          "The planet is warming, from North Pole to South Pole. Since 1906, the global average surface temperature has increased by more than 1.6 degrees Fahrenheit (0.9 degrees Celsius)"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The effects of global warming include melting glaciers and sea ice, shifting precipitation patterns, and animals moving to new habitats.",
+        "spans": [
+          "The heat is melting glaciers and sea ice, shifting precipitation patterns, and setting animals on the move."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Climate change includes rising average temperatures, extreme weather events, shifting wildlife populations and habitats, rising seas, and other impacts due to greenhouse gases.",
+        "spans": [
+          "Climate change encompasses not only rising average temperatures but also extreme weather events, shifting wildlife populations and habitats, rising seas, and a range of other impacts. All of these changes are emerging as humans continue to add heat-trapping greenhouse gases to the atmosphere."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Ice is melting worldwide, especially at the Earth’s poles, including mountain glaciers, ice sheets, and Arctic sea ice.",
+        "spans": [
+          "Ice is melting worldwide, especially at the Earth’s poles. This includes mountain glaciers, ice sheets covering West Antarctica and Greenland, and Arctic sea ice."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Melting ice contributes to sea-level rise, which is currently rising 0.13 inches (3.2 millimeters) a year and accelerating.",
+        "spans": [
+          "Much of this melting ice contributes to sea-level rise. Global sea levels are rising 0.13 inches (3.2 millimeters) a year. The rise is occurring at a faster rate in recent years and is predicted to accelerate in the coming decades."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Rising temperatures affect wildlife and habitats, causing population collapses and species migration to cooler areas.",
+        "spans": [
+          "Rising temperatures are affecting wildlife and their habitats. Vanishing ice has challenged species such as the Adélie penguin in Antarctica, where some populations on the western peninsula have collapsed by 90 percent or more.",
+          "As temperatures change, many species are on the move. Some butterflies, foxes, and alpine plants have migrated farther north or to higher, cooler areas."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Precipitation has increased globally on average, but some regions face more severe drought, increasing risks of wildfires, lost crops, and water shortages.",
+        "spans": [
+          "Precipitation (rain and snowfall) has increased across the globe, on average. Yet some regions are experiencing more severe drought, increasing the risk of wildfires, lost crops, and drinking water shortages."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Some species like mosquitoes, ticks, jellyfish, and crop pests are thriving, causing ecological damage such as forest devastation by bark beetles.",
+        "spans": [
+          "Some species—including mosquitoes, ticks, jellyfish, and crop pests—are thriving. Booming populations of bark beetles that feed on spruce and pine trees, for example, have devastated millions of forested acres in the U.S."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Future effects of warming include sea level rise of 10 to 32 inches or more, stronger storms, more floods and droughts, less freshwater, spread of diseases, and ecosystem changes.",
+        "spans": [
+          "Sea levels are expected to rise between 10 and 32 inches (26 and 82 centimeters) or higher by the end of the century.",
+          "Hurricanes and other storms are likely to become stronger. Floods and droughts will become more common.",
+          "Less freshwater will be available, since glaciers store about three-quarters of the world's freshwater.",
+          "Some diseases will spread, such as mosquito-borne malaria (and the 2016 resurgence of the Zika virus ).",
+          "Ecosystems will continue to change: Some species will move farther north or become more successful; others, such as polar bears, won’t be able to adapt and could become extinct."
+        ]
+      }
+    ],
+    "clueweb22-en0025-16-14380": [
+      {
+        "point_number": 1,
+        "point_content": "Global warming has brought about adverse effects to the environment and these effects have in turn generated much concern because they have the potential to alter biological systems.",
+        "spans": [
+          "Global warming has brought about adverse effects to the environment and these effects have in turn generated much concern because they have the potential to alter biological systems."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Global warming is an unavoidable situation as a result of increased levels of green house gasses such as Chlorofluorocarbon (CFC), Carbon dioxide (CO2), Nitrous oxide (NO2) and Methane (CH4) in the atmosphere.",
+        "spans": [
+          "Global warming is an unavoidable situation as a result of increased levels of green house gasses such as Chlorofluorocarbon (CFC), Carbon dioxide (CO2), Nitrous oxide (NO2) and Methane (CH4) in the atmosphere."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "These gases trap the heat radiation produced by the sun and this leads to increase in temperature in the troposphere which is the atmospheric layer responsible for life support on our planet.",
+        "spans": [
+          "These gases trap the heat radiation produced by the sun and this leads to increase in temperature in the troposphere which is the atmospheric layer responsible for life support on our planet."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The increase in global temperature alters the entire life support system by changing both plant and animal characteristics and behavior and how they interact with each other.",
+        "spans": [
+          "This increase in global temperature alters the entire life support system by changing both plant and animal characteristics and behavior and how they interact with each other."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Global warming is expected to cause change in the life of living things, including mutations and evolution of entire species, such as the influenza A virus evolving and threatening human health.",
+        "spans": [
+          "Global warming is expected to cause change in the life of living things. These changes in organisms will come as mutations and evolution of entire species.",
+          "Global warming will likely influence the life of all living species, including the evolution of influenza A viruses, which in turn threatens humans and other hosts with possible outbreaks of pandemics/epidemics of influenza."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Global warming affects plant life by increasing pests' longevity, herbivory, and pesticide resistance, and by reducing plants' natural defense, leading to more damage to plants.",
+        "spans": [
+          "The global rise in temperature has seen a myriad of development which affects the different natural and climatic processes.",
+          "This situation leads to adverse conditions developing in insects’ pests that affect agriculture and horticulture.",
+          "The pests begin to exhibit heightened sense of longevity, herbivory and pesticide resistance.",
+          "The plants suffer attacks from the growing numbers of pests and this is made worse by the destruction of phytochemical which is the plants natural defense against attacks by increase in green house gasses which increase the temperature in the plants environment."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Global warming causes plants to produce higher levels of carbohydrates while reducing nitrogen, leading to increased herbivory by pests and insects.",
+        "spans": [
+          "Due to the global warming plants try to adapt by producing higher levels of carbohydrates while reducing the nitrogen being produced this in-turn leads to increased herbivory in the pests and other insects striving to obtain enough nitrogen as their bodies require it to survive."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Global warming has led to increased insect herbivory and adverse effects on plant life historically, as seen during the Cenzoic era in the Eocene and Paleocene epochs.",
+        "spans": [
+          "There is evidence of detrimental damage caused by global warming as was experienced during the Cenzoic era in the Eocene and Paleocene epochs fifty five million years ago.",
+          "Increase in global temperatures led to increased insect herbivory and this affected plant life adversely."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Global warming increases heat-related disorders and deaths among humans, especially workers exposed to high temperatures and humidity, as shown in Taiwan case studies.",
+        "spans": [
+          "The effect of global warming and climate change on the health of the human population has led to international consultations and is still a growing concern.",
+          "The increase in global temperatures has seen an increase in heat related disorders and reduced productivity among workers.",
+          "In the period between 2006 -2007 Taiwn recorded a total of 22 deaths connected to work under excessive heat conditions.",
+          "In 2007, after 3 consecutive days of increased heat conditions as a result of temperature increase from 34- 38 degrees resulted in the death of 3 80 year old farm workers in an area south of Taiwan as they worked out doors.",
+          "In 2009 a 40 year old who begun work at noon died as a result of heatstroke. The individual was wearing full protective clothing under temperatures exceeding 33 degrees."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Workers in hot areas are at high risk of heat-related conditions and death due to prolonged exposure to extreme heat and heavy physical workloads.",
+        "spans": [
+          "Most workers in hot areas such as Taiwan are considered to be among the high risk population.",
+          "This is because they work under extreme heat and humid conditions which last for more than 4 consecutive months.",
+          "These laborers develop long term heat related conditions which reduce their life span significantly and are at risk of heatstroke in case they are over exposed to this extreme climatic condition.",
+          "Heavy physical workloads shouldered by laborers and exposure to heat producing environments such as boiler rooms in hot climatic conditions increase the risk of the worker to experience heat related conditions and also increases the chances of death."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Global warming will reduce crop growth period and nourishment of seeds due to increased temperatures, leading to stunted growth and food insecurity.",
+        "spans": [
+          "Global warming caused by an increase in green house gases especially carbon dioxide (CO2) will have a positive outcome when it comes to crop growth but increase in temperatures due to the increasing temperatures will reduce the crop growth period due to premature lowering, fruit bearing and reduced nourishment of the seed caused by increased respiration, in-turn causing stunted growth in the seeds.",
+          "This will ultimately lead to food insecurity due to failing agriculture."
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "Climate change is expected to adversely affect food system stability, accessibility, utilization, and availability, impacting human health, livelihoods, and market flows.",
+        "spans": [
+          "Climate change is expected to adversely affect all the four areas of food security these are: Food system stability, food accessibility, food utilization and finally food availability.",
+          "This will consequently have an impact on human health, distribution channels, livelihood assets and food production as well as altering market flows and purchasing power."
+        ]
+      },
+      {
+        "point_number": 13,
+        "point_content": "Populations at risk of food shortages will be affected earlier due to failing agriculture, resilient pests, crop failure, livestock deaths, and lack of quality seeds and equipment.",
+        "spans": [
+          "Populations that are already at risk of food shortages are expected to be affected by this situation earlier than the rest of the world’s population.",
+          "These populations rely mostly on agricultural based incomes which are already failing due to more resilient types of pests and disease patterns, crop failure, livestock deaths and lack of quality seeds and agricultural equipment."
+        ]
+      },
+      {
+        "point_number": 14,
+        "point_content": "Low income urban populations will suffer food shortages due to weak purchasing power caused by poor wages, lack of insurance, and loss of assets.",
+        "spans": [
+          "Low income societies mostly around urban areas living in slums are expected to suffer the full effects of food shortages due to their weak purchasing power.",
+          "This is attributed to poor wages, lack of proper insurance covers and loss of assets."
+        ]
+      },
+      {
+        "point_number": 15,
+        "point_content": "Climate change will lead to migrations, altering food markets and causing cross border conflicts and civil unrest due to poor food provisions.",
+        "spans": [
+          "Climate change will consequently lead to migrations which will in-turn alter the food markets.",
+          "This will also lead to cross border conflicts and civil unrest due to poor food provisions."
+        ]
+      }
+    ],
+    "clueweb22-en0014-89-14762": [
+      {
+        "point_number": 1,
+        "point_content": "Global warming and climate change have the potential to alter biological systems, influencing ecosystem functioning and biodiversity.",
+        "spans": [
+          "Global warming and climate change have the potential to alter biological systems. More specifically, changes to near-surface air temperatures will likely influence ecosystem functioning and thus the biodiversity of plants, animals, and other forms of life."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Sudden climatic changes due to global warming may challenge the natural adaptive capacity of many species.",
+        "spans": [
+          "As global warming alters these patterns on timescales considerably shorter than those that arose in the past from natural climate variability, relatively sudden climatic changes may challenge the natural adaptive capacity of many species."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "A large fraction of plant and animal species are likely to be at an increased risk of extinction with rising global average surface temperatures.",
+        "spans": [
+          "A large fraction of plant and animal species are likely to be at an increased risk of extinction if global average surface temperatures rise another 1.5 to 2.5 °C (2.7 to 4.5 °F) by the year 2100."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Surface warming leads to changes in seasonal processes and threatens species dependent on specific habitats like sea ice.",
+        "spans": [
+          "Surface warming in temperate regions is likely to lead changes in various seasonal processes—for instance, earlier leaf production by trees, earlier greening of vegetation, altered timing of egg laying and hatching, and shifts in the seasonal migration patterns of birds, fishes, and other migratory animals.",
+          "In high-latitude ecosystems, changes in the seasonal patterns of sea ice threaten predators such as polar bears and walruses; both species rely on broken sea ice for their hunting activities."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Rising temperatures and changes in precipitation patterns are likely to alter patterns of disturbance by fires and pests on land.",
+        "spans": [
+          "On land, rising temperatures and changes in precipitation patterns and drought frequencies are likely to alter patterns of disturbance by fires and pests."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Rising surface temperatures will bring about an increased extinction risk for many species.",
+        "spans": [
+          "Numerous ecologists, conservation biologists, and other scientists studying climate warn that rising surface temperatures will bring about an increased extinction risk."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Rising sea levels will destroy many coastal wetlands, salt marshes, and mangrove swamps, leading to loss of habitats for specialist species.",
+        "spans": [
+          "Other likely impacts on the environment include the destruction of many coastal wetlands, salt marshes, and mangrove swamps as a result of rising sea levels and the loss of certain rare and fragile habitats that are often home to specialist species that are unable to thrive in other environments."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Coral reefs are threatened by rising ocean temperatures, coral bleaching, ocean acidification, and physical damage.",
+        "spans": [
+          "Rising ocean temperatures increase the tendency for coral bleaching (a condition where zooxanthellae, or yellow-green algae, living in symbiosis with coral either lose their pigments or abandon the coral polyps altogether), and they also raise the likelihood of greater physical damage by progressively more destructive tropical cyclones.",
+          "In many areas coral is also under stress from increased ocean acidification (see above ), marine pollution, runoff from agricultural fertilizer, and physical damage by boat anchors and dredging."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Warmer temperatures affect the spread of infectious diseases by expanding the geographic ranges of carriers such as insects and rodents.",
+        "spans": [
+          "Warmer temperatures are also likely to affect the spread of infectious diseases, since the geographic ranges of carriers, such as insects and rodents, are often limited by climatic conditions."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Global warming affects water resources by altering surface runoff, water availability, and water quality, impacting agriculture and livestock.",
+        "spans": [
+          "Water resources are likely to be affected substantially by global warming.",
+          "At current rates of warming, a 10–40 percent increase in average surface runoff and water availability has been projected in higher latitudes and in certain wet regions in the tropics by the middle of the 21st century, while decreases of similar magnitude are expected in other parts of the tropics and in the dry regions in the subtropics.",
+          "Such regions as the African Sahel, western North America, southern Africa, the Middle East, and western Australia continue to be particularly vulnerable.",
+          "In these regions drought is projected to increase in both magnitude and extent, which would bring about adverse effects on agriculture and livestock raising.",
+          "It is also likely that warming temperatures, through their impact on biological activity in lakes and rivers, may have an adverse impact on water quality, further diminishing access to safe water sources for drinking or farming."
+        ]
+      }
+    ],
+    "clueweb22-en0012-83-13260": [
+      {
+        "point_number": 1,
+        "point_content": "Hot days, hot nights, and heat waves have become more frequent globally in the last 50 years.",
+        "spans": [
+          "The IPCC reports that hot days, hot nights, and heat waves all have become more frequent globally in the last 50 years."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Precipitation has increased globally over the last century, but drought extent has more than doubled worldwide since the 1970s.",
+        "spans": [
+          "On average, precipitation has increased globally over the last century, including over the United States.",
+          "Despite this, the global extent of drought has more than doubled worldwide since the 1970s, according to an NCAR study."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The strongest U.S. tornadoes have not become more frequent, but the most intense hurricanes have increased in fraction worldwide.",
+        "spans": [
+          "The strongest U.S. tornadoes have not become more frequent in the last 50 years.",
+          "Based on data since the 1970s, the most intense hurricanes (those ranked Category 4 or higher on the Saffir-Simpson scale) make up an increasing fraction of tropical cyclones worldwide."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Polar and mountainous regions are especially vulnerable; Arctic ice is retreating and glaciers are melting at an accelerating rate.",
+        "spans": [
+          "During recent summers, the ice that covers the Arctic Ocean has been retreating further than ever measured.",
+          "Many glaciers on the coasts of Greenland and West Antarctica are melting at an accelerating clip."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Permafrost is thawing in parts of Canada, Alaska, and Siberia, causing environmental and infrastructural damage.",
+        "spans": [
+          "Permafrost (permanently frozen soil) is thawing in parts of Canada, Alaska, and Siberia. The impacts include building and road damage, sinkholes, and “drunken forests” in and near such cities as Fairbanks, Alaska, and Irkutsk, Russia."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Forests are moving north into Arctic tundra, and forest fires have increased due to heat and drought, affecting carbon dioxide levels.",
+        "spans": [
+          "Huge swaths of forest in Canada, Alaska, and Russia have been ravaged over the last decade by forest fires, fed by record summer heat and drought.",
+          "As the climate warms, forests are also moving north into land that was once Arctic tundra."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Many animal species are shifting toward higher elevations or latitudes; coral reefs are damaged by warming and ocean acidification.",
+        "spans": [
+          "Some animal species are already shifting toward higher elevations or higher latitudes, as warming intersects with other natural and human-produced environmental change.",
+          "Warmer ocean temperatures, most evident during El Niño events, have weakened or killed off coral species during \"bleaching\" incidents.",
+          "Another threat to coral reefs arises from changes in the chemistry of ocean water that make the water less alkaline as it absorbs carbon dioxide from the atmosphere."
+        ]
+      }
+    ],
+    "clueweb22-en0025-61-17267": [
+      {
+        "point_number": 1,
+        "point_content": "Global warming causes an increase in sea levels leading to coastal flooding.",
+        "spans": [
+          "The effects of global warming include an increase in sea levels (leading to coastal flooding)"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Global warming causes changes in precipitation leading to more floods and droughts.",
+        "spans": [
+          "changes in precipitation (leading to more floods and droughts)"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Global warming increases the intensity of storms.",
+        "spans": [
+          "increased intensity of storms"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Global warming causes the spread of disease vectors.",
+        "spans": [
+          "the spread of disease vectors"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Global warming leads to melting glaciers and ice caps causing water shortages and droughts.",
+        "spans": [
+          "Melting glaciers and snow melts will cause severe water shortages and droughts"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Global warming contributes to the extension of drier climatic zones such as deserts, affecting ecosystems and animal life and leading to extinction of species.",
+        "spans": [
+          "Global warming has contributed to the extension of drier climatic zones such as deserts in the subtropics",
+          "Mostly ecosystems and animal life will be affected by higher carbon dioxide levels and global temperatures leading to climate change, which will result in the extinction of many species and reduced ecological diversity."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Global warming leads to destruction of marine and coral life underwater due to higher carbon dioxide content in water.",
+        "spans": [
+          "Global warming can lead to the destruction of marine and coral life underwater",
+          "Higher content of carbon dioxide in the water inflicts damage to valuable natural resources."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Global warming causes inundation from sea level rise threatening human settlements and infrastructure.",
+        "spans": [
+          "Global warming can also lead to Inundation from sea level rise, which can further threaten infrastructure and establishments of human settlements."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Global warming causes health issues such as malnutrition, diseases, and heat stress due to crop failures, desertification, and temperature rise.",
+        "spans": [
+          "There are various indirect effects such as malnutrition inflicted by crop failures",
+          "Scanty rainfall leading to desertification can also cause several diseases due to global warming.",
+          "Higher rates of heat stress and heat stroke due to warmer temperatures"
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Global warming causes flooding in low-altitude regions due to rise in sea level.",
+        "spans": [
+          "Flooding in low-altitude regions: Rise in sea level and high flooding tendencies can damage human habitation and cause mass destruction."
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0018-60-17273": [
+      {
+        "point_number": 1,
+        "point_content": "Climate change makes many existing diseases and conditions worse, and it helps pests and pathogens spread into new regions.",
+        "spans": [
+          "climate change makes many existing diseases and conditions worse, and it helps pests and pathogens spread into new regions"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Extreme heat and poor air quality increase complications from underlying heart and respiratory conditions like asthma, renal failure, and pre-term birth.",
+        "spans": [
+          "Extreme heat and poor air quality increase complications from underlying heart and respiratory conditions like asthma, renal failure, and pre-term birth"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "There will be more heat-related illness and deaths in both urban and rural areas as temperatures rise.",
+        "spans": [
+          "as temperatures rise, there will be more heat-related illness and deaths in both urban and rural areas"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "More frequent and/or intense extreme weather and climate events threaten lives and health, and disrupt health and social services.",
+        "spans": [
+          "Americans will be exposed to more frequent and/or intense extreme weather and climate events that not only threaten their lives and health, but also significantly disrupt health and social services"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The risk of very large fires has increased and will increase further, causing severe air pollution and directly threatening lives.",
+        "spans": [
+          "The risk of very large fires has increased and will increase further across California and other parts of the West, directly threatening people’s lives and causing severe air pollution across large areas"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "The frequency and intensity of heavy downpours has increased and is likely to increase further, raising the risk of flash flooding.",
+        "spans": [
+          "The frequency and intensity of heavy downpours has increased and is likely to increase further, raising the risk of flash flooding"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Ticks and mosquitos that transmit illnesses like Lyme disease and West Nile virus are likely to increase and spread to new areas.",
+        "spans": [
+          "Ticks and mosquitos that transmit illnesses like Lyme disease and West Nile virus are likely to increase and spread to new areas in the United States"
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "More frequent heavy rain events will likely increase exposure to water-borne illnesses and outbreaks of aquatic pathogens.",
+        "spans": [
+          "More frequent heavy rain events will likely increase Americans’ exposure to water-borne illnesses, including those linked to sewage contamination of drinking water. Recreational waters are likely to experience more outbreaks of aquatic pathogens, including Vibrio bacteria and harmful algal blooms"
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Climate change threatens food safety by lowering nutritional quality of staples, increasing toxins in seafood, and increasing food-borne pathogens.",
+        "spans": [
+          "Human-caused climate change also threatens food safety in multiple ways including lowering the nutritional quality of staples like wheat and rice, causing greater accumulation of mercury and other toxins in seafood, and increasing the chance for food-borne pathogens to enter to food supply"
+        ]
+      }
+    ],
+    "clueweb22-en0038-02-07562": [
+      {
+        "point_number": 1,
+        "point_content": "Global warming causes rising global temperatures, sea level rise, changes in weather patterns like drought and flooding, and melting glaciers and sea ice.",
+        "spans": [
+          "Global temperatures rose about 1.98°F (1.1°C) from 1901 to 2020",
+          "It also includes sea level rise, changes in weather patterns like drought and flooding, and much more.",
+          "Glaciers are shrinking: average thickness of 30 well-studied glaciers has decreased more than 60 feet since 1980.",
+          "The area covered by sea ice in the Arctic at the end of summer has shrunk by about 40% since 1979."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Climate change impacts water resources by increasing flooding and drought, and reducing snowpack reliability.",
+        "spans": [
+          "Flooding is an increasing issue as our climate is changing.",
+          "there are both stronger and more frequent abnormally heavy precipitation events across most of the United States.",
+          "Conversely, drought is also becoming more common, particularly in the Western United States.",
+          "As temperatures warm, there is less snow overall and snow begins to melt earlier in the year, meaning snowpack may not be a reliable source of water for the entire warm and dry seasons."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Global warming affects food production by causing increased temperatures, drought, water stress, diseases, and weather extremes that challenge farmers and harm livestock and farm workers.",
+        "spans": [
+          "Increased temperatures, drought and water stress, diseases, and weather extremes create challenges for the farmers and ranchers who put food on our tables.",
+          "Human farm workers can suffer from heat-related health issues, like exhaustion, heatstroke, and heart attacks.",
+          "Rising temperatures and heat stress can also harm livestock."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Climate change impacts human health through heat, stronger hurricanes, wildfires, flooding, and expanding ranges of disease-carrying insects.",
+        "spans": [
+          "Heat is one of the most deadly weather phenomena.",
+          "As ocean temperatures rise, hurricanes are getting stronger and wetter, which can cause direct and indirect deaths.",
+          "Dry conditions lead to more wildfires, which bring many health risks.",
+          "Higher incidences of flooding can lead to the spread of waterborne diseases, injuries, and chemical hazards.",
+          "As geographic ranges of mosquitoes and ticks expand, they can carry diseases to new locations."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Global warming significantly impacts ecosystems, causing Arctic warming, melting ice, changes in plant blooming and species ranges, ocean acidification, sea level rise, and coral reef damage.",
+        "spans": [
+          "The Arctic is one of the ecosystems most vulnerable to the effects of climate change, as it is warming at least twice the rate of the global average and melting land ice sheets and glaciers contribute dramatically to sea level rise around the globe.",
+          "Some plants are blooming earlier and some species may expand their geographic range.",
+          "The ocean absorbs about 30% of the carbon dioxide that is released into the atmosphere from the burning of fossil fuels.",
+          "As a result, the water is becoming more acidic, affecting marine life.",
+          "Sea levels are rising due to thermal expansion, in addition to melting ice sheets and glaciers, putting coastal areas at greater risk of erosion and storm surge.",
+          "warming waters can lead to coral bleaching, stronger hurricanes can destroy reefs, and sea level rise can cause corals to be smothered by sediment."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Sea level rise threatens coastal infrastructure and communities, increasing risks of erosion, flooding, and requiring adaptation or retreat.",
+        "spans": [
+          "Sea levels are rising due to thermal expansion, in addition to melting ice sheets and glaciers, putting coastal areas at greater risk of erosion and storm surge.",
+          "Nearly 40% of the United States population lives in coastal counties, meaning millions of people will be impacted by sea level rise.",
+          "Coastal infrastructure, such as roads, bridges, water supplies, and much more, is at risk.",
+          "Sea level rise can also lead to coastal erosion and high-tide flooding.",
+          "Some communities are projected to possibly end up at or below sea level by 2100 and will face decisions around managed retreat and climate adaptation."
+        ]
+      }
+    ],
+    "clueweb22-en0010-71-16085": [
+      {
+        "point_number": 1,
+        "point_content": "Global warming, caused by greenhouse gas pollution, is causing immediate and direct changes to the planet.",
+        "spans": [
+          "Global warming, caused by greenhouse gas pollution, is causing immediate and direct changes to the planet."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The Earth's temperature had already warmed by 1°C compared to pre-industrial levels, causing big changes for the world’s climate.",
+        "spans": [
+          "The Earth's temperature had already warmed by 1°C compared to pre-industrial levels. This temperature rise may appear small, but small rises in temperature translate into big changes for the world’s climate."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Hotter days and record-breaking heatwaves are occurring due to global warming.",
+        "spans": [
+          "Hotter days: 2015 was the hottest year on record, the previous record was broken in 2014, and 2016 is expected to set a new record for the third year in a row. In the past few years records have being broken for longest heatwaves"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Rising sea levels caused by melting glaciers and ice caps and expansion of warmer ocean water threaten low-lying islands and coastal cities.",
+        "spans": [
+          "Rising sea levels: Increased ocean temperatures are melting glaciers and ice caps all over the world. Melted ice increases the volume of water in our oceans. Warmer temperatures also result in the expansion of the water's mass, which causes sea levels to rise, threatening low-lying islands and coastal cities."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "More frequent and intense extreme weather events like bushfires, cyclones, droughts and floods are becoming more frequent and intense as a result of global warming.",
+        "spans": [
+          "More frequent and intense extreme weather events: Extreme weather events like bushfires, cyclones, droughts and floods are becoming more frequent and more intense as a result of global warming."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Oceans are warming and acidifying, bleaching coral reefs and threatening marine food chains.",
+        "spans": [
+          "Oceans are warming and acidifying: The oceans have absorbed most of extra heat and carbon dioxide (CO 2) so far – more than the air – making the seas both warmer and more acidic. Warming waters are bleaching coral reefs and driving stronger storms. Rising ocean acidity threatens shellfish, including the tiny crustaceans without which marine food chains would collapse."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Global warming stresses ecosystems through temperature rises, water shortages, increased fire threats, drought, weed and pest invasions, intense storm damage and salt invasion.",
+        "spans": [
+          "Global warming stresses ecosystems through temperature rises, water shortages, increased fire threats, drought, weed and pest invasions, intense storm damage and salt invasion, just to name a few."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "One in six species is at risk of extinction because of climate change, with species needing to move or adapt to survive.",
+        "spans": [
+          "One in six species is at risk of extinction because of climate change. To survive, plants, animals and birds confronted with climate change have two options: move or adapt."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Changes to rainfall patterns, severe drought, heat waves, flooding and extreme weather make farming more difficult, reducing food availability and increasing prices.",
+        "spans": [
+          "Changes to rainfall patterns, increasingly severe drought, more frequent heat waves, flooding and extreme weather make it more difficult for farmers to graze livestock and grow produce, reducing food availability and making it more expensive to buy."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Reduced rainfall and increasingly severe droughts may lead to water shortages.",
+        "spans": [
+          "Reduced rainfall and increasingly severe droughts may lead to water shortages."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Rising sea levels and more frequent and intense storm surges will cause more erosion of Australia's coastline, damaging properties.",
+        "spans": [
+          "Rising sea levels and more frequent and intense storm surges will see more erosion of Australia's coastline, wearing away and inundating community and residential properties."
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "Increasingly severe and frequent heat waves may lead to death and illness, especially among the elderly, and higher temperatures could produce more mosquito-borne disease.",
+        "spans": [
+          "Increasingly severe and frequent heat waves may lead to death and illness, especially among the elderly. Higher temperatures and humidity could also produce more mosquito-borne disease."
+        ]
+      },
+      {
+        "point_number": 13,
+        "point_content": "Increasingly severe extreme weather events will cause increased damage to homes and more costly insurance premiums.",
+        "spans": [
+          "Increasingly severe extreme weather events like bushfires, storms, floods, cyclones and coastal erosion, will see increased damage to homes, as well as more costly insurance premiums."
+        ]
+      },
+      {
+        "point_number": 14,
+        "point_content": "Rising temperatures and acidity within oceans contribute to extreme coral bleaching events, threatening the Great Barrier Reef.",
+        "spans": [
+          "Rising temperatures and acidity within our oceans is contributing to extreme coral bleaching events, like the 2016 event that destroyed more than one-third of the Great Barrier Reef."
+        ]
+      }
+    ],
+    "clueweb22-en0031-09-02373": [
+      {
+        "point_number": 1,
+        "point_content": "Climate change alters sand temperatures, which then affects the sex of hatchlings.",
+        "spans": [
+          "Climate change has an impact on turtle nesting sites. It alters sand temperatures, which then affects the sex of hatchlings."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Sea levels are rising and oceans are becoming warmer, threatening crops, wildlife and freshwater supplies.",
+        "spans": [
+          "Sea levels are rising and oceans are becoming warmer. Longer, more intense droughts threaten crops, wildlife and freshwater supplies."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "More frequent and intense drought, storms, heat waves, rising sea levels, melting glaciers and warming oceans can directly harm animals, destroy habitats, and affect people's livelihoods.",
+        "spans": [
+          "More frequent and intense drought, storms, heat waves, rising sea levels, melting glaciers and warming oceans can directly harm animals, destroy the places they live, and wreak havoc on people’s livelihoods and communities."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Dangerous weather events are becoming more frequent or severe due to climate change, affecting cities and towns with heat waves, wildfires, coastal storms and flooding.",
+        "spans": [
+          "As climate change worsens, dangerous weather events are becoming more frequent or severe. People in cities and towns around the United States are facing the consequences, from heat waves and wildfires to coastal storms and flooding."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Increasing temperatures, shifting precipitation patterns, ocean acidification, sea level rise and increasing intensity and frequency of extreme weather events are significant consequences of carbon emissions.",
+        "spans": [
+          "But we must also prepare for the significant and unavoidable consequences of carbon emissions such as increasing temperatures, shifting precipitaton patterns, ocean acidification, sea level rise and the increasing intensity and frequency of extreme weather events."
+        ]
+      }
+    ],
+    "clueweb22-en0033-23-20086": [
+      {
+        "point_number": 1,
+        "point_content": "Rising global temperatures cause extreme natural disasters and expanding sea levels.",
+        "spans": [
+          "The impacts of increased greenhouse gas admission are evident through the rising global temperatures, causing extreme natural disasters and expanding sea levels."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Global warming results from the greenhouse gas effect where heat is trapped in the atmosphere by gases like CO2, causing the earth's surface to warm.",
+        "spans": [
+          "This process is known as the ‘Greenhouse gas effect’, in which heat from the earth is trapped in the atmosphere by gases, such as CO2, causing the surface of the earth to warm."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Global warming causes melting of ice caps and loss of ice in Antarctica, leading to starvation of many animals and decrease in polar bear populations.",
+        "spans": [
+          "Due to Global Warming, Antarctica is losing the majority of its ice resulting in starvation of many animals. Polar bear populations are seeing a decrease in their population due to global warming."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Global warming causes temperatures to rise, melting ice caps, and causing droughts and floods.",
+        "spans": [
+          "Global warming is melting ice caps, causing temperatures to rise, and causing droughts and floods."
+        ]
+      }
+    ],
+    "clueweb22-en0022-93-09637": [
+      {
+        "point_number": 1,
+        "point_content": "Global warming is contributed to by increased greenhouse gas emissions from transportation of goods.",
+        "spans": [
+          "Increased emissions: The farther a product travels, the more fuel is consumed, and a greater level of greenhouse gas emissions is produced. These emissions contribute to pollution, climate change, and ocean acidification around the world"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Global warming and climate change are significantly contributed to by greenhouse gas emissions from energy sources like oil, natural gas, and timber.",
+        "spans": [
+          "The main byproduct of these energy sources comes in the form of greenhouse gas emissions, which significantly contribute to global warming and climate change."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Global warming and related environmental changes lead to decreased biodiversity worldwide.",
+        "spans": [
+          "Increased greenhouse gas emissions, ocean acidification, deforestation (and other forms of habitat loss or destruction), climate change, and the introduction of invasive species all work to reduce biodiversity around the globe."
+        ]
+      }
+    ],
+    "clueweb22-en0008-43-20319": [
+      {
+        "point_number": 1,
+        "point_content": "Global warming causes the cryosphere to melt, leading to sea level rise and warmer oceans.",
+        "spans": [
+          "The cryosphere – the frozen water on Earth – is melting. A warmer atmosphere causes the planet's snowpack, glaciers and sea and freshwater ice to melt rapidly. Melting glaciers and polar ice sheets contribute to unprecedented sea level rise. Melting sea ice exposes darker ocean waters, which absorb more sunlight than ice – heating the ocean more and speeding up a relentless cycle of melting and heating."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Oceans absorb 90 percent of the extra heat, causing them to expand, become more acidic, and harm marine life.",
+        "spans": [
+          "The oceans are getting hotter, expanding and becoming more acidic. They are getting hotter because they absorb 90 percent of the extra heat in the climate. This shift causes the oceans to expand, contributing to higher sea levels, and strips corals of their vivid colors. Meanwhile, nearly a third of carbon dioxide emissions end up in the oceans, triggering a chemistry change that makes the water more acidic, dissolving the shells of sea creatures. The ocean is almost 40 percent more acidic than it used to be."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Global warming leads to more extreme weather events such as heatwaves, hurricanes, droughts, and wildfires.",
+        "spans": [
+          "Weather is getting more extreme. Heatwaves are more frequent worldwide. The increased evaporation of water is like fuel for storms, exacerbating extreme weather events, such as hurricanes. Rising sea levels make storm surges capable of much greater damage. In more naturally arid areas, droughts and wildfires are intensifying."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Climate change threatens agriculture by altering growing conditions and increasing pests and extreme events.",
+        "spans": [
+          "Climate change is a major threat to agriculture. Where, how and when we grow food is vitally connected to our climate's normal patterns. Worldwide, farmers are struggling to keep up with shifting weather patterns and increasingly unpredictable water supplies. Farms are more likely to face attacks from weeds, diseases and pests, which affect yield. Extreme events also threaten crop yields, such as through flooding or reduced water supply."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Warmer air increases smog and heatwaves, harming human health and contaminating water.",
+        "spans": [
+          "A warmer atmosphere increases the formation of ground-level ozone – also known as smog – in polluted regions. Smog irritates lungs and triggers asthma attacks. Smoke from wildfires further degrades the air. Extreme summer heat means more deaths during heatwaves. Warmer freshwater makes it easier for disease-causing agents (such as bacteria) to grow and contaminate drinking water."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Climate change damages infrastructure and disrupts transportation due to extreme weather.",
+        "spans": [
+          "Hot weather, flooding and other extreme weather events damage infrastructure, put heavy burdens on electrical supplies and disrupt how we travel and commute."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Global warming causes loss of sea ice, threatening ice-dependent animals like polar bears.",
+        "spans": [
+          "The ice Arctic animals need is vanishing. As sea ice disappears, ice-dependent mammals such as walruses and polar bears struggle to survive. In 2008, the polar bear became the first animal to make the Endangered Species Act list of threatened species because of global warming."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Coral reefs bleach and marine calcifying organisms suffer due to warmer and more acidic oceans.",
+        "spans": [
+          "Coral reefs are highly sensitive to small changes in ocean temperatures. The heat stresses the algae that nourish the corals and provide their vibrant colors. The algae then leave, and the corals eventually starve – an event known as bleaching. As coral reefs are home to many other species, such as fish, their collapse would disrupt the entire ecosystem. Also, a more acidic ocean affects the normal calcium balance, meaning creatures with calcified shells, such as shellfish and coral, may not have enough calcium to grow."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Warmer weather and drought weaken forests and increase infestations by tree-killing insects.",
+        "spans": [
+          "Milder winters and longer summers allow tree-killing insects to thrive. Meanwhile, trees weakened by prolonged drought have lower defense mechanisms. This cycle of warmer weather, weak trees and thriving insects is likely the culprit behind the massive die-off of 70,000 square miles of Rocky Mountain conifers."
+        ]
+      }
+    ]
+  }
+}

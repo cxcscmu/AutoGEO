@@ -1,0 +1,165 @@
+{
+  "question": "are vaccines 100% effective?",
+  "key_points": [
+    {
+      "point_number": 1,
+      "point_content": "COVID-19 vaccines by Pfizer/BioNTech and Moderna are about 95% effective at preventing symptomatic illness, with Pfizer showing 91% and Moderna 93% efficacy in trials; Johnson & Johnson reported 66% efficacy against moderate to severe COVID-19 and 85% against severe or critical disease.",
+      "original_point_number": [
+        1,
+        17,
+        18,
+        19
+      ]
+    },
+    {
+      "point_number": 2,
+      "point_content": "Pfizer/BioNTech, Moderna, and Johnson & Johnson clinical trials found vaccines were essentially 100% effective in preventing severe disease six to seven weeks after first/single dose, with zero vaccinated people hospitalized or dying after full effect.",
+      "original_point_number": [
+        3,
+        4
+      ]
+    },
+    {
+      "point_number": 3,
+      "point_content": "No vaccine is 100% effective on an entire population due to variation in immune responses; this applies to COVID-19 vaccines and others like measles (99% effective), polio (up to 100% with multiple doses), and MMR (up to 97% with two doses).",
+      "original_point_number": [
+        5,
+        6,
+        41,
+        42,
+        44
+      ]
+    },
+    {
+      "point_number": 4,
+      "point_content": "Vaccine effectiveness varies widely depending on factors like virus mutation, duration of protection, age, and conditions such as obesity, and is measured by comparing disease cases in vaccinated versus placebo groups.",
+      "original_point_number": [
+        7,
+        45,
+        47
+      ]
+    },
+    {
+      "point_number": 5,
+      "point_content": "The U.S. FDA requires COVID-19 vaccines to have at least 50% effectiveness for approval or emergency use authorization.",
+      "original_point_number": [
+        8
+      ]
+    },
+    {
+      "point_number": 6,
+      "point_content": "Vaccination protects individuals and helps prevent virus circulation even if the vaccine is not 100% effective, reducing risk of illness, severity, hospitalization, and death.",
+      "original_point_number": [
+        9,
+        26,
+        48
+      ]
+    },
+    {
+      "point_number": 7,
+      "point_content": "Flu vaccination reduces risk of flu illness by 40%-60% when well-matched to circulating viruses, works better against influenza B and A(H1N1) than A(H3N2), and prevents millions of illnesses and doctor visits annually but is not 100% effective.",
+      "original_point_number": [
+        10,
+        11,
+        13
+      ]
+    },
+    {
+      "point_number": 8,
+      "point_content": "When flu vaccines are not well matched to circulating viruses, they may provide little or no protection; however, flu vaccination can reduce severity of illness even if infection occurs.",
+      "original_point_number": [
+        12,
+        14
+      ]
+    },
+    {
+      "point_number": 9,
+      "point_content": "Flu vaccines do not protect against infection and illness caused by other viruses that cause flu-like symptoms.",
+      "original_point_number": [
+        15
+      ]
+    },
+    {
+      "point_number": 10,
+      "point_content": "All authorized and approved COVID-19 vaccines are effective at preventing severe disease, though less effective at preventing infection or mild disease against variants like omicron; booster shots increase and prolong protection, providing some temporary protection against infection and milder illness.",
+      "original_point_number": [
+        16,
+        20,
+        21
+      ]
+    },
+    {
+      "point_number": 11,
+      "point_content": "During the omicron wave, adults with two doses of Pfizer/BioNTech or Moderna vaccines had a 79% lower risk of dying or needing a ventilator if hospitalized, and those with a booster had a 94% lower risk.",
+      "original_point_number": [
+        22
+      ]
+    },
+    {
+      "point_number": 12,
+      "point_content": "No vaccines are 100% effective; breakthrough COVID-19 cases are expected, but vaccines often protect against serious disease and reduce severity of symptoms in vaccinated individuals who get infected.",
+      "original_point_number": [
+        23,
+        24,
+        25,
+        27,
+        28,
+        37
+      ]
+    },
+    {
+      "point_number": 13,
+      "point_content": "Most recommended childhood immunizations are 90%-100% effective, but some children may not become fully immunized; even then, symptoms tend to be milder than without immunization.",
+      "original_point_number": [
+        29,
+        30,
+        31
+      ]
+    },
+    {
+      "point_number": 14,
+      "point_content": "It is rare for any vaccine to completely protect against infection or eliminate transmission; vaccines' protection tends to reduce over time, which is true for every vaccine including COVID-19 vaccines.",
+      "original_point_number": [
+        32,
+        34
+      ]
+    },
+    {
+      "point_number": 15,
+      "point_content": "Some of the best vaccines create protective immune responses in around 95% of recipients but not 100%; no vaccine provides 100% sterile protection and they do not necessarily need to in order to be effective.",
+      "original_point_number": [
+        35,
+        36
+      ]
+    },
+    {
+      "point_number": 16,
+      "point_content": "Pfizer's COVID-19 vaccine was 100% efficacious in preventing infections in adolescents aged 12 to 15 years, measured from seven days to over four months after the second dose.",
+      "original_point_number": [
+        38,
+        39
+      ]
+    },
+    {
+      "point_number": 17,
+      "point_content": "Vaccines do not need to have high effectiveness to save thousands of lives and prevent millions of disease cases.",
+      "original_point_number": [
+        40
+      ]
+    },
+    {
+      "point_number": 18,
+      "point_content": "Effectiveness and efficacy differ: efficacy is measured under ideal lab conditions, while effectiveness is how a vaccine performs in the real world.",
+      "original_point_number": [
+        43
+      ]
+    },
+    {
+      "point_number": 19,
+      "point_content": "No medicine or vaccine is 100% effective, similar to surgeries, diets, or exercise regimens.",
+      "original_point_number": [
+        33
+      ]
+    }
+  ]
+}

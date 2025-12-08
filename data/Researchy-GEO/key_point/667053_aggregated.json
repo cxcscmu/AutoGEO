@@ -1,0 +1,60 @@
+{
+  "question": "what might happen if the business strategy was not the driver?",
+  "key_points": [
+    {
+      "point_number": 1,
+      "point_content": "Organisation strategy plays a pivotal role for any business; every business needs to have a strong organizational strategy to grow and survive long term.",
+      "original_point_number": [
+        3,
+        4
+      ]
+    },
+    {
+      "point_number": 2,
+      "point_content": "Strategy helps to define factors such as how the IS strategy manages the hardware, software, data, etc., within the organization.",
+      "original_point_number": [
+        2
+      ]
+    },
+    {
+      "point_number": 3,
+      "point_content": "The business strategy provides the backbone for the entire organization’s operations and goals/objectives.",
+      "original_point_number": [
+        11
+      ]
+    },
+    {
+      "point_number": 4,
+      "point_content": "If the business strategy is not the driver, various negative outcomes may occur: businesses might spend vast amounts of time and money developing strategies that lead to no results; products or services might not be in demand; customers might not be happy; the business might be the wrong size for the market; pricing might be incorrect; the market might lose interest; the strategy might be based on other motivations like environmental or social responsibility but may not truly drive the organization; the strategy might not reflect the true driver of the organization, leading to misalignment and potential failure; organizational and IS strategies may not align properly, risking failure of the business strategy; and if the primary business strategy is flawed or not the driver, it sets the business up for disaster.",
+      "original_point_number": [
+        5,
+        6,
+        7,
+        8,
+        10,
+        12
+      ]
+    },
+    {
+      "point_number": 5,
+      "point_content": "Without the business strategy driving the IS strategy, IT is unlikely to do what is needed to support the business strategy, leading to failure in achieving business goals.",
+      "original_point_number": [
+        9
+      ]
+    },
+    {
+      "point_number": 6,
+      "point_content": "If the business strategy is to follow a cost-leadership strategy but IS continually has to replace hardware raising expenditures, it contradicts the business strategy and is not conducive to offering the lowest-cost product.",
+      "original_point_number": [
+        13
+      ]
+    },
+    {
+      "point_number": 7,
+      "point_content": "A failure in IT strategy can negatively impact the business strategy and overall customer experience, exemplified by an IT error causing a poor customer experience and becoming a PR issue.",
+      "original_point_number": [
+        14
+      ]
+    }
+  ]
+}

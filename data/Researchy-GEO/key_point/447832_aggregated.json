@@ -1,0 +1,353 @@
+{
+  "question": "is capital punishment ethical",
+  "key_points": [
+    {
+      "point_number": 1,
+      "point_content": "Capital punishment is an ethical issue involving the state's moral authority to execute an individual after a fair trial, raising questions about the morality of depriving a human being of life and the state's role in justice.",
+      "original_point_number": [
+        1,
+        21,
+        22
+      ]
+    },
+    {
+      "point_number": 2,
+      "point_content": "There is no conclusive evidence that capital punishment deters criminals or makes society safer, though supporters argue it prevents repeat offenses by guaranteeing no parole or escape, while opponents dispute its deterrent effect.",
+      "original_point_number": [
+        2,
+        9,
+        10,
+        71,
+        86
+      ]
+    },
+    {
+      "point_number": 3,
+      "point_content": "There is a risk of innocent people being executed due to flaws in the judicial system, and the justice system is fallible; opponents cite this risk, while supporters argue the risk of released murderers killing again is higher.",
+      "original_point_number": [
+        3,
+        15,
+        74
+      ]
+    },
+    {
+      "point_number": 4,
+      "point_content": "Capital punishment violates the fundamental human right to life, sets a bad precedent for society, and is considered by many religions as a sin where the state has no moral right to take life, though historically some religious authorities affirmed the civil magistrate's right in capital justice.",
+      "original_point_number": [
+        4,
+        5,
+        6,
+        39,
+        40,
+        41,
+        84
+      ]
+    },
+    {
+      "point_number": 5,
+      "point_content": "Contemporary culture and media often portray capital punishment negatively, influencing public sentiment against it, with concerns about the fallibility of the justice system and moral objections.",
+      "original_point_number": [
+        7,
+        8,
+        40,
+        64
+      ]
+    },
+    {
+      "point_number": 6,
+      "point_content": "Moral and religious rationales for capital punishment include the life-for-life mandate in Genesis 9, New Testament affirmations of civil authority administering justice, Mosaic Law distinctions between premeditated murder and manslaughter, and the view that murderers forfeit their right to live by violating victims.",
+      "original_point_number": [
+        11,
+        12,
+        13,
+        14,
+        39
+      ]
+    },
+    {
+      "point_number": 7,
+      "point_content": "Opponents argue capital punishment does not respect the spirit of God, magnifies tragedy by killing again, harms the community by legitimizing violence, risks executing innocents, and harms those who carry out executions.",
+      "original_point_number": [
+        40,
+        41
+      ]
+    },
+    {
+      "point_number": 8,
+      "point_content": "Capital punishment is not personal vengeance but a uniform standard of justice necessary for social order, based on an abiding moral standard rather than public opinion or justice system fallibility.",
+      "original_point_number": [
+        19,
+        20
+      ]
+    },
+    {
+      "point_number": 9,
+      "point_content": "Premeditated murder is uniquely severe with no possible restitution; capital punishment is seen as a necessary restoration of morality and social justice, and a society unwilling to impose it deserts its responsibility to uphold human life.",
+      "original_point_number": [
+        17,
+        18
+      ]
+    },
+    {
+      "point_number": 10,
+      "point_content": "Compassion should be directed toward victims of crime, not at the expense of justice by excusing violent criminals.",
+      "original_point_number": [
+        16
+      ]
+    },
+    {
+      "point_number": 11,
+      "point_content": "Capital punishment involves execution of a convicted criminal through a death sentence, classified differently by countries based on their virtue ethics and moral values, with some societies abolishing it due to ethical perspectives.",
+      "original_point_number": [
+        23,
+        24,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32
+      ]
+    },
+    {
+      "point_number": 12,
+      "point_content": "Virtue ethics emphasizes moral character over consequences, suggesting capital punishment is unconstructive to moral values, violates beliefs of a moral community, and that alternative justice methods should be found.",
+      "original_point_number": [
+        26,
+        29,
+        30,
+        31,
+        32
+      ]
+    },
+    {
+      "point_number": 13,
+      "point_content": "Issues of racism and dehumanization are significant in capital punishment, with concerns about human rights violations and racial bias, especially in the United States.",
+      "original_point_number": [
+        33,
+        34,
+        73,
+        75,
+        78,
+        79
+      ]
+    },
+    {
+      "point_number": 14,
+      "point_content": "Ethical behavior is an individual action related to community, and community values are critical in analyzing whether capital punishment violates constitutional amendments, requiring punishment to respect human dignity and not be excessive.",
+      "original_point_number": [
+        36,
+        37
+      ]
+    },
+    {
+      "point_number": 15,
+      "point_content": "An accepted practice in society may still be immoral, and the response to such a practice, including capital punishment, is an ethical choice.",
+      "original_point_number": [
+        38
+      ]
+    },
+    {
+      "point_number": 16,
+      "point_content": "Jewish law did not proscribe capital punishment but required strict procedural protections to ensure reliability and possibility of acquittal.",
+      "original_point_number": [
+        43
+      ]
+    },
+    {
+      "point_number": 17,
+      "point_content": "The Supreme Court holds that capital punishment is not absolutely prohibited by the Constitution but must be applied with guided discretion, fairness, consideration of mitigating evidence, and individual circumstances to avoid arbitrary and excessive punishment.",
+      "original_point_number": [
+        44,
+        45
+      ]
+    },
+    {
+      "point_number": 18,
+      "point_content": "The prosecution has a constitutional obligation to provide the defense with exculpatory and impeachment evidence to ensure a fair trial in capital cases.",
+      "original_point_number": [
+        46
+      ]
+    },
+    {
+      "point_number": 19,
+      "point_content": "Certain classes of persons, such as juveniles and mentally retarded individuals, are deemed ineligible for the death penalty due to their characteristics and moral considerations.",
+      "original_point_number": [
+        47
+      ]
+    },
+    {
+      "point_number": 20,
+      "point_content": "Capital defense counsel qualifications and resources vary widely among states, affecting the quality of representation and fairness of trials.",
+      "original_point_number": [
+        48
+      ]
+    },
+    {
+      "point_number": 21,
+      "point_content": "The Anti-Terrorism and Effective Death Penalty Act (AEDPA) emphasizes post-conviction review, which may be a poor allocation of resources compared to front-end trial resources.",
+      "original_point_number": [
+        49
+      ]
+    },
+    {
+      "point_number": 22,
+      "point_content": "Lawyers in capital cases have ethical obligations to their clients, their conscience, and the court, creating tension between zealous advocacy to save a life and loyalty to the court and jurisprudential principles.",
+      "original_point_number": [
+        50,
+        51
+      ]
+    },
+    {
+      "point_number": 23,
+      "point_content": "Capital punishment is costly and expensive, which is used as an argument both for abolition and for reform to make the system more efficient.",
+      "original_point_number": [
+        52
+      ]
+    },
+    {
+      "point_number": 24,
+      "point_content": "For capital punishment to be ethical and just, the system must provide trials and verdicts in which the community can have confidence, requiring adequate resources and qualified counsel.",
+      "original_point_number": [
+        53
+      ]
+    },
+    {
+      "point_number": 25,
+      "point_content": "Ethical choices about capital punishment ultimately rest with legislatures and community values, balancing duties to client, conscience, and the legal system.",
+      "original_point_number": [
+        54
+      ]
+    },
+    {
+      "point_number": 26,
+      "point_content": "Capital punishment is punishment by death for capital crimes or capital offences and has been practiced historically by most societies; it is currently active in 36 countries, while many others have abolished it.",
+      "original_point_number": [
+        55,
+        56
+      ]
+    },
+    {
+      "point_number": 27,
+      "point_content": "Capital punishment is prohibited for individuals under 18 years old under international law, but some countries still carry out such executions.",
+      "original_point_number": [
+        57
+      ]
+    },
+    {
+      "point_number": 28,
+      "point_content": "Capital punishment is controversial and positions vary; the EU and Council of Europe prohibit it, and the UN has called for a global moratorium, while populous countries like China, India, the US, and Indonesia still apply it and often vote against UN moratorium resolutions.",
+      "original_point_number": [
+        58,
+        59
+      ]
+    },
+    {
+      "point_number": 29,
+      "point_content": "The death penalty has a long history dating back to ancient codes and has been carried out by various brutal methods; in Britain and the US, reforms over centuries have reduced its application and changed methods of execution.",
+      "original_point_number": [
+        60,
+        61,
+        62,
+        63,
+        64
+      ]
+    },
+    {
+      "point_number": 30,
+      "point_content": "India retains capital punishment for serious offences; the Supreme Court allows it in rare cases, emphasizing it be imposed only in extraordinary circumstances with special reasons recorded; the President has power to grant pardons; execution methods include hanging or firing squad.",
+      "original_point_number": [
+        65,
+        66,
+        67,
+        68,
+        69
+      ]
+    },
+    {
+      "point_number": 31,
+      "point_content": "Arguments against capital punishment include it being brutal, not a deterrent, risk of wrongful execution, and not helping victims' families; arguments for retention include deterrence, elimination of dangerous criminals, and prevention of repeated murders.",
+      "original_point_number": [
+        70,
+        71
+      ]
+    },
+    {
+      "point_number": 32,
+      "point_content": "The death penalty debate involves considerations of human rights, fair trial, victimological perspectives, innocence, arbitrariness in sentencing, racial bias, and waste.",
+      "original_point_number": [
+        72,
+        73
+      ]
+    },
+    {
+      "point_number": 33,
+      "point_content": "One person has been exonerated from death row for every nine executions, indicating wrongful convictions and systemic issues.",
+      "original_point_number": [
+        74
+      ]
+    },
+    {
+      "point_number": 34,
+      "point_content": "The death penalty is applied based on location, socioeconomic status, and race rather than the heinousness of the crime; only a small percentage of counties bring the vast majority of death penalty cases, often for political gain rather than deterrence; death row inmates are usually impoverished, rely on overworked public defenders, and often have significant disabilities; there is explicit racial bias in sentencing and executions.",
+      "original_point_number": [
+        75,
+        76,
+        77,
+        78
+      ]
+    },
+    {
+      "point_number": 35,
+      "point_content": "The death penalty system is unethical due to its imperfection, errors, and racial bias, and should be shut down.",
+      "original_point_number": [
+        79
+      ]
+    },
+    {
+      "point_number": 36,
+      "point_content": "An individual’s opinion on capital punishment is a personal moral decision.",
+      "original_point_number": [
+        80
+      ]
+    },
+    {
+      "point_number": 37,
+      "point_content": "Physicians must not participate in legally authorized executions as they are dedicated to preserving life; participation includes actions causing or assisting death or establishing competence or treatment conflicting with personal beliefs, with possible transfer of care to another physician.",
+      "original_point_number": [
+        81,
+        82,
+        83
+      ]
+    },
+    {
+      "point_number": 38,
+      "point_content": "Religious communities worldwide are divided on the death penalty, with varying perspectives on its permissibility and moral justification.",
+      "original_point_number": [
+        39,
+        84
+      ]
+    },
+    {
+      "point_number": 39,
+      "point_content": "Retribution theory holds that punishment is intrinsically valuable and deserved by wrongdoers, with severity matching the crime, which can support or oppose the death penalty depending on views about death and proportionality.",
+      "original_point_number": [
+        85
+      ]
+    },
+    {
+      "point_number": 40,
+      "point_content": "Deterrence theory justifies punishment to prevent future crimes and protect the innocent, but moral justification of the death penalty under deterrence depends on empirical evidence and moral limits on punishment severity.",
+      "original_point_number": [
+        86
+      ]
+    },
+    {
+      "point_number": 41,
+      "point_content": "Reform theory views punishment as a means to communicate wrongdoing and inspire repentance and reform, challenging the ethical justification of the death penalty since it precludes the possibility of reform.",
+      "original_point_number": [
+        87
+      ]
+    }
+  ]
+}

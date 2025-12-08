@@ -1,0 +1,99 @@
+{
+  "question": "why is soccer not popular in the us",
+  "key_points": {
+    "clueweb22-en0023-58-16520": [
+      {
+        "point_number": 1,
+        "point_content": "The main reason why soccer is not popular in the USA is because of the American culture.",
+        "spans": [
+          "the main reason why soccer is not popular in the USA is because of  the American culture"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Americans are not the best at soccer, unlike other sports where the US dominates.",
+        "spans": [
+          "Americans are not #1",
+          "American Culture always wants to be the best at everything, and because they can’t be the best at soccer, that’s probably a good reason to dislike the sport."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "American culture has an obsession with excessively big things, which soccer does not align with.",
+        "spans": [
+          "Obsession with excessively big things",
+          "The american culture clearly has a preference for excessively big things.",
+          "In soccer, well, we don’t see that amount of goals scored during a game.",
+          "Small sized players don’t fit in the american social beliefs and makes soccer unappealing for some people."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Soccer is not ideal for marketing and business in the US due to fewer advertising breaks.",
+        "spans": [
+          "Not Ideal for marketing and business",
+          "In the other hand, soccer only has halftime. This makes the sport not suitable for advertisement, which means big TV networks won’t prioritize broadcasting it."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Soccer players' excessive faking of injuries (flopping) is socially rejected in the US.",
+        "spans": [
+          "Excessive faking of injuries",
+          "In soccer happens a lot what americans call flopping.",
+          "In a culture that likes aggressive and physical sports it could be hard to accept a sport where they see players flopping so much."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Americans dislike ties in sports, which are common in soccer games.",
+        "spans": [
+          "American’s can’t stand a tie",
+          "Any sports fan in the world, won’t watch an entire 2 hour game to end up with a tie."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Historical events, such as the rise of rugby and American football, prevented soccer from becoming popular in the US.",
+        "spans": [
+          "1863 and England expansion",
+          "But, one place where football (soccer) failed to grow was in the United States, where another sport was becoming more common: Rugby."
+        ]
+      }
+    ],
+    "clueweb22-en0043-91-06665": [
+      {
+        "point_number": 1,
+        "point_content": "The MLS is seen as a retirement league for aging European stars, which diminishes respect for the sport in the US.",
+        "spans": [
+          "Higuain’s move to the MLS, at 32, is reflective of a trend stretching back to the 1970’s when world-class players like Pele, Johan Cryuff, Franz Beckenbauer, and George Best went to the now-defunct North American Soccer League to collect their pensions and have a kick-about in the sunshine.",
+          "Seeing top-level players treat the MLS in this way contributes to why soccer is not popular in the US. How are fans supposed to respect the sport when they don’t get to see the best players in the world until they’re either shopworn, or appearing in low intensity, meaningless, pre-season tournaments?"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Soccer competes with many established mainstream sports in the US, making it hard to gain popularity.",
+        "spans": [
+          "Another reason soccer struggles for popularity is there is already an overabundance of mainstream sports in the US. Not only do they have their own version of football which in reality is closer to rugby (NFL), they have basketball (NBA), ice hockey (NHL), baseball (MLB), even NASCAR pulls in huge crowds all over the southern states."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The style of play in soccer, including theatrics and perceived lack of physicality, is a turn-off for American fans.",
+        "spans": [
+          "Where does your average American sports fan find the time to fit soccer in; a generally slower game filled with pampered, oversensitive players?",
+          "However, all too often this elegance is overshadowed by needless theatrics; tactical fouling, time-wasting, play-acting to get opposing players sent off. This side of the game serves as a mild annoyance to European fans, is widely accepted by South American fans, and is simply a turn-off for fans in the US."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Soccer lacks historical and cultural connection in the US compared to Europe, affecting its popularity.",
+        "spans": [
+          "The final and perhaps most instinctive reason soccer struggles for popularity in the US is the lack of historical connection between the fans and the sport.",
+          "These are cultural touchstones tinged with tragedy that simply aren’t part of the American sporting psyche."
+        ]
+      }
+    ],
+    "null": []
+  }
+}

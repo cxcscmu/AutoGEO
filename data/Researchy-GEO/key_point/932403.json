@@ -1,0 +1,43 @@
+{
+  "question": "is it ethical for doctors to strike? if so, under what conditions?",
+  "key_points": {
+    "null": [],
+    "clueweb22-en0006-00-10514": [
+      {
+        "point_number": 1,
+        "point_content": "Doctors can take strike action but only if it affects non-emergency care.",
+        "spans": [
+          "Doctors can take strike action but only if it affects non-emergency care."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Doctors still attend work – so they are ready for urgent and emergency cases during strikes.",
+        "spans": [
+          "Doctors still attend work – so they are ready for urgent and emergency cases."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The General Medical Council claims that ‘Good doctors make the care of their patients their first concern.’",
+        "spans": [
+          "The General Medical Council, in its key guidance document for practising doctors … claims that ‘Good doctors make the care of their patients their first concern.’"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The Journal of Medical Ethics calls for greater discussion of ethical issues such as doctors striking, particularly among younger members of the profession.",
+        "spans": [
+          "we carefully reflect and argue whether it was right for doctors to pursue strike action, and call for greater discussion of ethical issues such as the recent strikes, particularly among younger members of the profession."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Ethical questions to consider include fair remuneration, pay equality, reward for antisocial hours, and pay adjustments in financially constrained environments.",
+        "spans": [
+          "Possible questions include, for example: what is a fair level of remuneration for public sector healthcare workers, including doctors? Should all doctors be paid equally? Should antisocial hours be rewarded financially? In a financially constrained environment, should doctors’ pay go down in order to protect funding for health care provision?"
+        ]
+      }
+    ]
+  }
+}

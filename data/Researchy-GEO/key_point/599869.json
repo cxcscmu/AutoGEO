@@ -1,0 +1,44 @@
+{
+  "question": "how do reward systems serve as barriers to integration?",
+  "key_points": {
+    "null": [],
+    "clueweb22-en0038-40-12974": [
+      {
+        "point_number": 1,
+        "point_content": "Promotion and tenure criteria often require faculty to meet teaching, research, and service expectations, all of which tend to be evaluated according to disciplinarily defined criteria and by senior members of their discipline, creating a barrier to integration.",
+        "spans": [
+          "reappointment, promotion, and tenure criteria often require faculty to meet teaching, research, and service expectations, all of which tend to be evaluated according to disciplinarily defined criteria and by senior members of their discipline."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Faculty who develop integrative courses generally do not receive extra recognition from their departments and invest significantly more time and energy than traditional courses, which can be a professional cost.",
+        "spans": [
+          "faculty told the committee that they developed integrative courses in spite of, not because of, departmental and disciplinary priorities. And despite investing significantly more time and energy than would have been required to teach a traditional, nonintegrative course, they generally did not (and did not expect to) receive extra recognition from their departments."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Faculty may be unable to count integrated course development and implementation toward their career advancement, and if integrated courses require significantly more time and labor, faculty may not afford the professional cost of such efforts.",
+        "spans": [
+          "at many institutions faculty may be unable to count integrated course development and implementation toward their career advancement, and if integrated courses require significantly more time and labor than simply reproducing a standard, disciplinary course, faculty may not be able to afford the professional cost of such efforts."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Younger researchers are more interdisciplinarily inclined but are more aware of potential costs associated with interdisciplinary work, including risks to employability and tenure based on disciplinarily defined criteria.",
+        "spans": [
+          "Rhoten and Parker (2004) have observed that younger researchers are more interdisciplinarily inclined than senior researchers, yet are also more aware of potential costs associated with interdisciplinary work, which include risks to employability within the academic job market or in achieving tenure based on disciplinarily defined criteria of quality."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Researchers evaluating interdisciplinary work tend to rely on proxy criteria that reflect tacit disciplinary priorities, which may penalize interdisciplinary work in practice.",
+        "spans": [
+          "Mansilla and Gardner have shown that researchers evaluating interdisciplinary work tend to rely on proxy criteria (patents, citation counts, journal impact factors, etc.) that reflect tacit disciplinary priorities.",
+          "Mansilla and Gardner observed that researchers doing interdisciplinary work “were often critical of these ‘proxy’ criteria because they saw them as ultimately representing a disciplinary assessment of their interdisciplinary work.”"
+        ]
+      }
+    ]
+  }
+}

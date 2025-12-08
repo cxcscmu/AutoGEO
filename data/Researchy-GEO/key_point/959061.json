@@ -1,0 +1,734 @@
+{
+  "question": "why are some people anti vax",
+  "key_points": {
+    "clueweb22-en0021-12-04714": [
+      {
+        "point_number": 1,
+        "point_content": "Anti-vaxxers are often concerned about the potential side effects of the numerous vaccinations that babies receive.",
+        "spans": [
+          "Anti-vaxxers are often concerned about the potential side effects of the numerous vaccinations that babies receive."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Distrust of the pharmaceutical industry is a common component of the anti-vaxxer movement.",
+        "spans": [
+          "Distrust of the pharmaceutical industry, as well as a preference for a more “natural” lifestyle, are also common components of the movement."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Anti-vaxxers prefer a more “natural” lifestyle and homeopathy over vaccinations.",
+        "spans": [
+          "Distrust of the pharmaceutical industry, as well as a preference for a more “natural” lifestyle, are also common components of the movement.",
+          "The distrust for \"Big Pharma\" often goes hand-in-hand with anti-vaxxer's preference for homeopathy."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Some anti-vaxxers believe vaccines cause autism, based on a debunked study.",
+        "spans": [
+          "The idea that vaccines lead to autism has persisted in the anti-vaxx crowd for a long time.",
+          "that's thanks mostly to a now debunked 1998 study by Dr. Andrew Wakefield"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Some anti-vaxxers worry about vaccine overload on a child's immune system.",
+        "spans": [
+          "Some anti-vaxxers worry about the effects of giving their children too many vaccines at a young age."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Some parents believe vaccines are unnatural and therefore dangerous.",
+        "spans": [
+          "Some parents get caught up on the idea that vaccines are inherently unnatural, and therefore dangerous."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Overall, anti-vaxxers desire to keep their children healthy and believe avoiding vaccines helps preserve their health.",
+        "spans": [
+          "Overall, anti-vaxxers are acting out of a desire to keep their children healthy, and they believe avoiding vaccines is one way to preserve their kid's health."
+        ]
+      }
+    ],
+    "clueweb22-en0033-80-15347": [
+      {
+        "point_number": 1,
+        "point_content": "The number of people vaccinated against measles has been falling, influenced by a loose group of fringe campaigners against immunisation - 'anti-vaxxers'.",
+        "spans": [
+          "The number of people vaccinated against measles has been falling.",
+          "The influence of a loose group of fringe campaigners against immunisation - \"anti-vaxxers\", as they're known - has been spreading."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Parents don't see the point in vaccinating against diseases they have never seen, leading to refusal to immunise children.",
+        "spans": [
+          "Dr Hes says parents don't see the point in taking action against a disease they've never known anyone to suffer from.",
+          "\"They don't see that so they don't know, so they say, 'What's the big deal? It's a rash, you know, it won't be my kid.'"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The 1998 Wakefield paper falsely linking MMR vaccine to autism caused public alarm and led to many parents refusing vaccination.",
+        "spans": [
+          "There was a paper published in February 1998 in The Lancet and basically what it said was that there was a group of parents who brought 12 children to a hospital in North London here in England.",
+          "When this story broke, very quickly parents started to shun the MMR vaccination.",
+          "This man, Wakefield, went on television and it was reported at saturation levels, his recommendation that the MMR should be suspended in favour of vaccinating your children with single shots."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The Wakefield study was found to be fraudulent and was retracted, but the anti-vax story persists.",
+        "spans": [
+          "He was eventually found guilty of serious professional misconduct, and struck off the medical register.",
+          "The Lancet withdrew the paper.",
+          "No scientist has been able to replicate the study's findings.",
+          "No study has since found any link between the MMR vaccine and autism."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Some people in the anti-vax movement believe Wakefield was silenced and view him as a hero.",
+        "spans": [
+          "Andrew Wakefield's study was one of the things that had really scared me.",
+          "People who are in the anti-vaccine movement largely believe that he was silenced and that he was actually a hero who was speaking up about something important."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Distrust in government and pharmaceutical companies contributes to anti-vax beliefs.",
+        "spans": [
+          "I thought that the government wasn't to be trusted and I very much believed in the idea that there was this big organisation called Big Pharma and I thought that people would be willing to make my child sick to make a dollar."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Anti-vax individuals often feel they are protecting their children from harmful modern medicine, not considering the risk to others.",
+        "spans": [
+          "All that I could think about was that I was doing what I needed to do to protect my children from this beast of modern medicine.",
+          "I didn't think about the possibility that I was putting anyone else in danger, but I now know that I was."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "People who oppose vaccination feel they are not being listened to, which entrenches their opposition.",
+        "spans": [
+          "The reason that [people] get more entrenched [in their opposition to vaccination] is they feel like they're not being listened to."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Health professionals are not trained to manage challenging conversations about vaccination, which affects communication.",
+        "spans": [
+          "I do think we need to do a much better job at supporting health workers and health professionals to have difficult conversations.",
+          "They're absolutely not trained to manage a conversation which is challenging what they do."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "There is too much focus on the public understanding science and not enough on scientists understanding the public.",
+        "spans": [
+          "Additionally there's all this focus on the public understanding the science. I think we're not focusing enough on scientists understanding the public."
+        ]
+      }
+    ],
+    "clueweb22-en0003-23-09348": [
+      {
+        "point_number": 1,
+        "point_content": "Some people feel that a vaccine is a huge intervention in their body and believe everyone should make this decision for themselves.",
+        "spans": [
+          "I feel that a vaccine is a huge intervention in my body. Everyone should make this decision for themselves."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Some people do not trust the COVID-19 vaccines despite having accepted other vaccines in the past.",
+        "spans": [
+          "Richard and Susanne wouldn't say they were against vaccines in principle. They got the standard vaccines when they were kids. But they say they don't trust the vaccines for COVID-19."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Some people believe that the vaccine does not make one immortal and that one can still get infected despite vaccination.",
+        "spans": [
+          "They think the vaccine makes them immortal. But they could still get infected, despite the vaccine,"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Some people perform a risk-benefit analysis and believe that the risk of COVID-19 infection is low or comparable to a normal flu.",
+        "spans": [
+          "That may well be, but it's no more than a risk-benefit analysis. You can get infected with anything, anytime,",
+          "I have a lot of colleagues and friends who've had COVID-19 and their symptoms were either weak or it was just like a normal flu."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Some people are not convinced by the severity of COVID-19 cases reported in the media, especially when the deceased were elderly.",
+        "spans": [
+          "You hear these stories about severe cases and deaths in the media. That people have died either directly or indirectly because of COVID-19. But if you then ask how old they were, you find out they were already 87 or something. That just doesn't convince me to get a vaccine."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Some people believe they can calculate their risk based on their lifestyle and exposure.",
+        "spans": [
+          "But it also has a lot to do with how you live, say Richard and Susanne: We don't live in the city, we don't go to any clubs, and we don't hug everyone we meet. I think we can calculate our risk."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Some people's willingness to get vaccinated is decreasing and they weigh pros and cons, lacking trust in vaccines or feeling protected by others being vaccinated.",
+        "spans": [
+          "Many were inclined to weigh the pros and cons, just like Richard and Susanne. They lacked trust in the vaccines; or they felt they needn't bother with so many other people vaccinated.",
+          "If you're worried about COVID-19, get vaccinated. But the chances of my getting infected are a lot lower, now that so many other people are vaccinated,"
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Some people feel the media exaggerates the risks of COVID-19 and presents distorted images.",
+        "spans": [
+          "Richard and Susanne also feel the media has exaggerated the risks of COVID-19.",
+          "It's always the same experts and always the same opinions,"
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Conflicting statements and changing recommendations about vaccines contribute to people's mistrust.",
+        "spans": [
+          "Take all that wrangling about AstraZeneca — there were conflicting statements. Or mix-and-match vaccinations .",
+          "And vaccines for kids. In America, they tried it on a few hundred kids, and based on that the FDA decided it was okay to vaccinate all kids and young people,"
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Some people feel they have thought more about the issues than those who have accepted vaccination without question.",
+        "spans": [
+          "We've definitely spent more time thinking about the issues than someone who's naively taken the jab,"
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Some people are concerned about potential job consequences if vaccination is made mandatory by employers.",
+        "spans": [
+          "Not everyone wants it, but it is conceivable that our employers might demand it. And if you refuse, they may see that as grounds to make you redundant or not extent your contract."
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "Some people want the freedom to decide for themselves whether to get vaccinated or not and want others to accept their decision.",
+        "spans": [
+          "We just feel that everyone should be able to decide for themselves whether they want a vaccine or not. This is our decision, our risk, and everyone else should just accept it."
+        ]
+      },
+      {
+        "point_number": 13,
+        "point_content": "Confusing information in the media and one-sided reports make some people anxious and insecure about vaccination.",
+        "spans": [
+          "My biggest takeaways from our conversation is that Susanne and Richard are annoyed about confusing information in the media and one-sided reports, and tas a result feel anxious and insecure about the situation."
+        ]
+      }
+    ],
+    "clueweb22-en0028-97-12475": [
+      {
+        "point_number": 1,
+        "point_content": "Opposition to vaccines has existed since the early 1800s and is based on sanitary, religious, and political objections.",
+        "spans": [
+          "Refusing vaccines started back in the early 1800s when the smallpox vaccine started being used in large numbers.",
+          "The criticism was based on sanitary, religious, and political objections."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Common reasons for vaccine opposition include religious beliefs, belief that diseases disappeared due to sanitation, belief vaccines don't protect, perceived risks outweigh benefits, belief diseases are eradicated, and mistrust of pharmaceutical companies.",
+        "spans": [
+          "Some cite religious beliefs as the reason behind their refusal to get vaccinated, though most mainstream religions do not condemn vaccines.",
+          "There was a belief that diseases were disappearing due to better sanitation and hygiene, not vaccines.",
+          "It was also believed that a vaccine wouldn’t protect you.",
+          "People also think the risks outweigh the benefits.",
+          "There is the common belief that since these diseases have been eliminated, there’s no need for vaccinations.",
+          "And many think that pharmaceutical companies can’t be trusted."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The belief that vaccines cause autism is widespread but medically unfounded.",
+        "spans": [
+          "The belief that vaccines can cause autism has become widespread in the past few years.",
+          "Multiple studies have shown that the MMR vaccine does not cause autism.",
+          "The Centers for Disease Control and Prevention (CDC) also states that vaccines are very safe in all but a few cases.",
+          "The CDC also clarified that vaccine ingredients do not cause autism."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Mistrust of science and government contributes to vaccine opposition.",
+        "spans": [
+          "Some opposition to vaccines comes directly from a mistrust of science, or mistrust of the government.",
+          "Some people believe that pharmaceutical companies and scientists want to sell a product regardless of harmful consequences.",
+          "Others are skeptical of science that they don’t understand, or the chemicals they don’t know that go into vaccines."
+        ]
+      }
+    ],
+    "clueweb22-en0029-76-15204": [
+      {
+        "point_number": 1,
+        "point_content": "Anti-vaxxers believe there’s a connection between vaccination and autism, as well as other brain disorders, and are concerned about long term side effects, despite there being no scientific evidence supporting that theory.",
+        "spans": [
+          "Anti-vaxxers believe there’s a connection between vaccination and autism, as well as other brain disorders, and are concerned about long term side effects, despite there being no scientific evidence supporting that theory."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "“Anti-vaxxers” are parents around the nation who believe that vaccinations are a “human rights violation.”",
+        "spans": [
+          "“Anti-vaxxers” are parents around the nation who believe that vaccinations are a “human rights violation.”"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "They do not immediately save a life or treat an existing illness. They are an optional, experimental product based on an unproven theory.",
+        "spans": [
+          "They do not immediately save a life or treat an existing illness,” Guggie blogged. “They are an optional, experimental product based on an unproven theory."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "This libertarian skepticism courses through the anti-vaccination movement, fueling a range of conspiracy theories.",
+        "spans": [
+          "This libertarian skepticism courses through the anti-vaccination movement, fueling a range of conspiracy theories, even though science soundly supports vaccines and doctors, who work to keep people healthy, unambiguously encourage them."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The families of these unvaccinated children are more likely to be wealthier on average, with annual incomes more than four times the poverty level. On average, they are non-Hispanic white, educated, and married couples covered by private health insurance.",
+        "spans": [
+          "The families of these unvaccinated children are more likely to be wealthier on average, with annual incomes more than four times the poverty level. On average, they are non-Hispanic white, educated, and married couples covered by private health insurance."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "The internet is replete with anecdotes and misinformation that leads parents to think that vaccines have caused harm.",
+        "spans": [
+          "The internet is replete with anecdotes and misinformation that leads parents to think that vaccines have caused harm,"
+        ]
+      }
+    ],
+    "clueweb22-en0005-90-15863": [
+      {
+        "point_number": 1,
+        "point_content": "Concerns about vaccine development, testing, and distribution, along with inconsistent government messages, have decreased intentions to take the vaccine.",
+        "spans": [
+          "mistrust in the vaccine itself—from its development and testing to its distribution—along with inconsistent messages from the government, has decreased intentions to take the vaccine"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Historical medical mistreatment and neglect of Black Americans contribute to vaccine hesitancy in marginalized ethnic minority populations.",
+        "spans": [
+          "Historical examples of Black Americans being mistreated, neglected, and even abused by the medical establishment loom large in the minds of many",
+          "the lingering legacy of the 1932 U.S. Public Health Service Syphilis Study at Tuskegee, in which hundreds of Black men—some with syphilis and some without—were intentionally misled about the study’s purpose and did not receive treatment for their syphilis even after penicillin became widely used to cure the disease"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Minority and ethnic communities are more wary of Covid vaccines because they have been underrepresented in clinical trials and have lower trust toward the medical profession.",
+        "spans": [
+          "Minority and ethnic communities may also be more wary of Covid vaccines because they know they have been underrepresented in the vaccines’ clinical trials",
+          "Overall, trust toward the medical profession is understandably lower in the minority populations as compared to whites"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Healthcare workers show vaccine hesitancy due to lack of trust in authorities and difficult situations faced during the pandemic.",
+        "spans": [
+          "Underlying the hesitancy is a lack of trust in authorities — the federal government, politicians, and employers, who put many health-care workers in difficult situations over the last year"
+        ]
+      }
+    ],
+    "clueweb22-en0017-40-12642": [
+      {
+        "point_number": 1,
+        "point_content": "Some people object to wearing masks because they believe masks are ineffective and violate their civil liberties.",
+        "spans": [
+          "a small but loud and forceful group of people who object to wearing masks",
+          "those people generally believe they are ineffective and are violating their civil liberties"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Some anti-maskers and anti-vaxxers are extremists who represent a violent and nefarious influence.",
+        "spans": [
+          "a certain segment of the anti-maskers and anti-vaxxers comprise extremists who represent a violent and nefarious influence"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Anti-vaxxers and anti-maskers have engaged in violent and threatening behavior, including harassment and threats against health care workers and others enforcing mask or vaccine policies.",
+        "spans": [
+          "Some of those people are increasingly behaving in violent and dangerous ways",
+          "health care workers have repeatedly faced threats for promoting vaccines",
+          "a man was arrested for allegedly sending threatening messages to Dr. Fauci",
+          "three men recently ambushed the principal of a school in Arizona",
+          "a woman stated that anyone who believes in vaccines or mask mandates in schools is a \"demonic entity\" and bears \"the mark of the beast.\""
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Some anti-vaxxers believe in misinformation such as vaccines causing deaths, supported by groups like America's Frontline Doctors.",
+        "spans": [
+          "The group brought with them \"sworn affidavits\" that supposedly proved that 45,000 people had died within days of being vaccinated against COVID-19",
+          "That belief is based on a lawsuit filed by a group called America's Frontline Doctors (AFLD)"
+        ]
+      }
+    ],
+    "clueweb22-en0026-57-11048": [
+      {
+        "point_number": 1,
+        "point_content": "Anti-vaxxer refers to people who disagree with the use of vaccines for a variety of reasons, including viewing vaccines as an infringement on their human rights.",
+        "spans": [
+          "“Anti-vaxxer” refers to people who disagree with the use of vaccines for a variety of reasons. For example, some view vaccines as an infringement on their human rights."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Anti-vaxxers believe that vaccines are unsafe and infringe on their human rights, and they typically deny the existence or validity of the science supporting vaccines.",
+        "spans": [
+          "Anti-vaxxers are people who believe that vaccines are unsafe and infringe on their human rights. They typically deny the existence or validity of the science supporting their use in the general population."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The anti-vaxxer movement has historical roots in human rights concerns and misinformation, including a discredited study linking MMR vaccine to autism.",
+        "spans": [
+          "The anti-vaxxer movement began in the 18th century in the U.S., with religious leaders describing them as the “devil’s work.” The campaign grew in the 19th and 20th centuries as a matter of human rights.",
+          "In 1998, Andrew Wakefield, a former medical doctor, suggested a possible link between the MMR vaccination and autism in children. The Lancet, a respected scientific journal, initially published his research.",
+          "However, The Lancet withdrew his article in 2004 after an investigation found major flaws in his study.",
+          "A British Medical Journal investigation later found Mr. Wakefield guilty of deliberate fraud, as a ruling deemed that he and his research team had picked and chose data that suited their case, while falsifying facts in their studies.",
+          "The United Kingdom’s General Medical Council revoked Mr. Wakefield’s medical license, declaring that he abused a position of trust and acted unethically to provoke a dishonest and callous controversy."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Misinformation on social media contributes to anti-vaxxer beliefs, with millions following anti-vaccine groups online.",
+        "spans": [
+          "Anti-vaxxers still represent a minority of people. However, there are many active communities on the internet and social media platforms.",
+          "According to a recent report in The Lancet Digital Health, around 31 million people follow anti-vaccine groups on Facebook. It also estimates that social media outlets could be making about $1 billion from advertising every year.",
+          "Facebook and other social media platforms regularly receive criticism for the extent of misinformation spreading within these communities."
+        ]
+      }
+    ],
+    "clueweb22-en0020-39-02543": [
+      {
+        "point_number": 1,
+        "point_content": "Anti-vaxxers possess a deep sense of anti-establishment angst and a need to feel superior, buying into rugged individualism and rejecting shared purpose or common goals.",
+        "spans": [
+          "They possess a deep sense of anti-establishment angst, along with a need to feel superior to everyone else.",
+          "They’ve bought so much stock in rugged individualism, they can’t tell the difference between communism and cooperation anymore.",
+          "Anything that even hints at a shared purpose or common goal gives them mental hives."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Anti-vaxxer propaganda appeals to the desire to be the underdog and fight the system, making them feel special.",
+        "spans": [
+          "Anti-vaxxer propaganda appeals to that hidden desire some of us have to be the underdog and fight the system.",
+          "That’s the narrative that makes them feel special."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Some people frame vaccination as a personal choice and freedom, not considering the collective impact of their decision.",
+        "spans": [
+          "People have a choice, the freedom to make that choice, along with the freedom to live with the consequences.",
+          "Stop trying to convince everyone that your choice is the correct one. (both sides).",
+          "I don’t care if you get the shot or not. I only care if you want it and can’t find a place to get it."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Refusing masks and vaccines can be seen as violating core tenets of caring for others, as per some cultural or philosophical views.",
+        "spans": [
+          "It’s scary how you can take random quotes from cultural icons and use them to fit your own beliefs.",
+          "These two gems would suggest that refusing masks and vaccines violates the core tenets of Buddhism."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Some anti-vaxxers believe everything is fine and vaccines are effective and widely available, so they choose not to vaccinate and take their chances.",
+        "spans": [
+          "Do some actual reading of statistics and discover that, in fact, everything is perfectly fine.",
+          "Vaccines are effective and widely available, for free.",
+          "It’s over.",
+          "You’re either vaccinated — congratulations, you’re protected — or you’ve chosen to go without and take your chances."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Anti-vaxxers often dismiss the severity of Covid and the importance of vaccines, masks, and social distancing, which were meant to slow the virus and prevent a nightmare scenario.",
+        "spans": [
+          "Even before vaccines, most of these anti-vaxxers were shrugging off masks and social-distancing.",
+          "The entire point of the last year — vaccines, masks, distancing — was to slow down this virus and keep it from becoming a true nightmare like the bubonic plague."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Anti-vaxxers may be motivated by attention, validation, or third parties with ulterior agendas promoting misinformation for their own benefit.",
+        "spans": [
+          "Antivaxxers have attention to gain, and validation.",
+          "Also, we know that a lot of anti-vax propaganda comes from third parties who do have an ulterior agenda, like promoting their own vaccine — or an alternative treatment for Covid.",
+          "It’s called weaponized health communication, and it’s a thing.",
+          "So it does benefit some to spread misinformation, and to hire other people to do it for them."
+        ]
+      }
+    ],
+    "clueweb22-en0023-78-17321": [
+      {
+        "point_number": 1,
+        "point_content": "Some people refuse vaccines because they believe the vaccine is experimental and risky, may cause sickness or long-term effects, is unnecessary, or ineffective.",
+        "spans": [
+          "Their reasons are, variously, that the vaccine is experimental and thus risky to take, is making people sick or may have long-term health effects, is unnecessary because they won’t get seriously ill from COVID, or is ineffective because some people who got the jab are catching COVID anyway."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Vaccine refuseniks trust fringe medical dissidents and conspiracy theories over mainstream experts.",
+        "spans": [
+          "Vaccine refuseniks typically source their claims to fringe dissidents within the medical field (including the so-called “disinformation dozen\" ), who provide anti-vaccine talking points that can sound sophisticated and scientific.",
+          "anti-vaxxers are inclined to accuse mainstream public-health experts of being corrupted in some way by government or corporate agents with a nefarious agenda."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Motivated reasoning causes people to reject vaccines to avoid cognitive dissonance and reinforce pre-existing beliefs.",
+        "spans": [
+          "When people refuse to change their minds, even in the face of overwhelming evidence, they usually are exhibiting what psychologists call “ motivated reasoning ,” typically on an unconscious level.",
+          "They begin with a preconceived view (most COVID refuseniks were suspicious of the vaccines even before any data was available), and are motivated to adopt forms of reasoning that reinforce their existing view and thereby pre-empt cognitive dissonance."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Vaccine refusal correlates with lower education, conspiracy beliefs, alienation, and political identity.",
+        "spans": [
+          "Vaccine refusal tends to correlate with lower educational levels, a disinclination toward analytical reasoning, cognitive and personality styles given to motivated reasoning, and a belief in conspiracy theories.",
+          "Vaccine refusal also correlates with a feeling of alienation from the wider culture—what sociologists call “anomie.”",
+          "Even before vaccines became available, polls consistently showed supporters of Donald Trump, and conservatives more generally, to be less likely to wear masks or limit their social activities."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Resisting vaccines can provide a sense of agency, control, and dignity for some marginalized groups.",
+        "spans": [
+          "In the United States, the most vaccine-skeptical demographics include the rural working class and evangelicals without a college degree.",
+          "Resisting the vaccine can give them a sense of agency, control, and even dignity, as it’s one of the few things they can do to assert their autonomy in a way that the wider society will actively observe."
+        ]
+      }
+    ],
+    "clueweb22-en0005-12-01353": [
+      {
+        "point_number": 1,
+        "point_content": "Some people are anti-vax because they believe, without evidence, that COVID-19 vaccines could cause infertility in women.",
+        "spans": [
+          "They speculated, without providing evidence, that the vaccines could cause infertility in women.",
+          "Social media quickly spread exaggerated claims that COVID-19 jabs cause female infertility."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The anti-vaxxer movement amplifies skeptical views about COVID-19 vaccines, government-mandated lockdowns, and the pandemic.",
+        "spans": [
+          "In recent months, Yeadon (pronounced Yee-don) has emerged as an unlikely hero of the so-called anti-vaxxers, whose adherents question the safety of many vaccines, including for the coronavirus.",
+          "The anti-vaxxer movement has amplified Yeadon’s skeptical views about COVID-19 vaccines and tests, government-mandated lockdowns and the arc of the pandemic."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The credibility of anti-vax claims is sometimes boosted by the involvement of former respected scientists like Michael Yeadon.",
+        "spans": [
+          "What gave the debunked claim credibility was that one of the petition’s co-authors, Michael Yeadon, wasn’t just any scientist.",
+          "What gives Yeadon particular credibility is the fact that he worked at Pfizer, says Imran Ahmed, chief executive of the Center for Countering Digital Hate, an organization that combats online misinformation."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Reports of side effects from vaccines, such as blood clots from AstraZeneca’s vaccine, fuel vaccine hesitancy.",
+        "spans": [
+          "Recent reports of blood clots and abnormal bleeding in a small number of recipients of AstraZeneca’s COVID-19 vaccine have cast doubt on that shot’s safety, leading several European countries to suspend its use.",
+          "The developments are likely to fuel vaccine hesitancy further, although there is no evidence of a causative link between the AstraZeneca product and the affected patients’ conditions."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Some anti-vax individuals believe the pandemic is over or not serious, reducing perceived need for vaccination.",
+        "spans": [
+          "Yeadon claimed that the pandemic “fundamentally… is over.”",
+          "He declared that deaths caused by COVID-19, which then totaled about 45,000 in Britain, will soon “fizzle out” and Britons “should immediately be allowed to resume normal life.”",
+          "While Britain was still in its first lockdown last spring, he declared: “there is nothing especially virulent or frightening about covid 19 … it’ll all fade away … Just a common & garden virus, to which the world overreacted.”"
+        ]
+      }
+    ],
+    "clueweb22-en0043-20-18508": [
+      {
+        "point_number": 1,
+        "point_content": "Some people believe the coronavirus vaccine is a 'poison' set to be 'unleashed' on the world.",
+        "spans": [
+          "coronavirus vaccine is a \"poison\" set to be \"unleashed\" on the world"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The Facebook group opposes vaccinations, wearing masks and testing in hospitals.",
+        "spans": [
+          "which opposes vaccinations, wearing masks and testing in hospitals"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Members shared posts declaring the Pfizer-BionTech coronavirus vaccine was a new frozen virus, similar to smallpox, to be unleashed on the world and compared the vaccine to poison.",
+        "spans": [
+          "posts declaring the Pfizer-BionTech coronavirus vaccine was a new frozen virus, similar to smallpox, to be “unleashed” on the world",
+          "Members also reportedly compared the vaccine to “poison”"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Some NHS workers would rather quit than help with a vaccination programme.",
+        "spans": [
+          "One member who works in a GP’s surgery, reportedly said she would rather quit than help with a vaccination programme."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Some people believe the vaccine is part of a conspiracy to reduce the population and create a new world order.",
+        "spans": [
+          "NHS staff gone — all sick and old will be gone. NHS gone. Population under reconstruction. Welcome to the new world order."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Dr Julie Coffey and others believe coronavirus vaccines are being rushed through at high speed and safety checks are out the window.",
+        "spans": [
+          "Julie Coffey, A Sheffield GP, is said to be one of the leaders of the NHS Workers group.",
+          "She has said that coronavirus vaccines are being rushed through at high speed and safety checks are out the window."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Piers Corbyn believes Covid-19 is a hoax and that the vaccine is experimental with no liability on sickness or death, and is part of a new world order conspiracy to control people and make money.",
+        "spans": [
+          "The 73-year-old believes Covid-19 is a “hoax”",
+          "This vaccine is experimental and the vaccine producers have no liability on sickness or death.",
+          "The whole thing is one of the main motives of the new world order",
+          "The only purpose [of the vaccine] is to control people and make billions of pounds for Bill Gates."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Kate Shemirani claims the vaccine will hijack the protein machinery in your cells and has likened coronavirus restrictions to Nazi atrocities.",
+        "spans": [
+          "the vaccine will “hijack the protein machinery in your cells”",
+          "Ms Shemirani, 54, from east Sussex, has likened coronavirus restrictions to Nazi atrocities."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Dr Mohammad Adil suggested that vaccines have caused autism and infertility and dismissed the pandemic as a hoax.",
+        "spans": [
+          "Dr Adil, 61, suggested that vaccines have caused autism and infertility.",
+          "Mohammad Adil, a locum consultant surgeon who worked for the NHS for more than 30 years, has been suspended by the General Medical Council for 12 months after uploading YouTube videos which dismiss the pandemic as a hoax."
+        ]
+      }
+    ],
+    "clueweb22-en0044-10-10042": [
+      {
+        "point_number": 1,
+        "point_content": "Some people are anti-vax because they have heard misinformation about risks to women's future fertility spread via social media and WhatsApp forwards.",
+        "spans": [
+          "Kaur has heard on the grapevine, mainly via Whatsapp forwards and social media, that there are risks to women regarding their future fertility.",
+          "The community has been specifically targeted through social media, texts and WhatsApp",
+          "It seems that the Indian/South Asian population have been really falling prey to [misinformation] through things like WhatsApp forwards. And a lot of it seems to be directed at fertility"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "There is a legacy of medical racism and poor treatment of Black and Asian communities that causes distrust in vaccines and medical offers.",
+        "spans": [
+          "But we also cannot ignore the long history of medical racism that has built a climate of distrust in these communities.",
+          "One reason for not taking the vaccine is because of how BAME people have been treated in the past.",
+          "It is this legacy of poor treatment, as well as modern healthcare discrimination, that makes BAME people hesitant around new medical offers"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Concerns about vaccine safety, especially regarding fertility and pregnancy, contribute to vaccine hesitancy among some people.",
+        "spans": [
+          "The government and NHS say there are no such known risks or danger to fertility, or to pregnancies.",
+          "Professor Jonathan Van Tam, deputy chief medical officer, told Channel 4 News that the coronavirus vaccine having an impact on fertility was an “unfounded rumour”",
+          "The Royal College of Midwives and the Royal College of Obstetricians and Gynaecologists (RCOG) issued a joint statement to confirm there is “no evidence to suggest that Covid -19 vaccines will affect fertility”",
+          "Deana Uppal, 31, from London also says she doesn’t feel enough testing has been done to feel safe taking the jab. “I need reassurance from the government that the vaccine is safe and can in no way affect future fertility,” she says."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Distrust in government and authorities, influenced by other areas of coronavirus policy, also contributes to vaccine hesitancy.",
+        "spans": [
+          "Talsania did emphasise that she finds it harder to trust the government because of other areas of coronavirus policy.",
+          "It’s hard to trust the government completely. They haven’t shut down borders, they created Eat Out To Help Out, it’s a shambles"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Cultural and religious concerns, such as whether the vaccine is vegetarian or halal, also affect vaccine acceptance in some communities.",
+        "spans": [
+          "Some say they are concerned that the jab is not vegetarian or halal, and some would rather it went to someone in more need"
+        ]
+      }
+    ],
+    "clueweb22-en0019-70-11278": [
+      {
+        "point_number": 1,
+        "point_content": "Some people are anti-vax because they believe the rollout of COVID-19 vaccines was too fast to be validly safe.",
+        "spans": [
+          "some replies were from anti-vaxxers who honestly believe that the rollout of COVID-19 vaccines was too fast to be validly safe"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "There are false claims among anti-vaxxers such as vaccines causing birth defects, autism, sterilization, or changing who we are.",
+        "spans": [
+          "One was from a reader who claimed that vaccinations for women would cause birth-defects and autism in future pregnancies.",
+          "Another claimed that vaccines cause sterilization, and another claimed we would no longer be who and what we are after the vaccine enters the bloodstream."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The anti-vax movement was significantly influenced by Andrew Wakefield's flawed and retracted 1998 paper suggesting vaccines could lead to autism.",
+        "spans": [
+          "Wakefield, a surgeon at The Royal Free Hospital in London, published his findings on the subject of vaccinations.",
+          "On February 28, 1998, his infamous paper, titled “Ileal-lymphoid-nodular hyperplasia, non-specific colitis, and pervasive developmental disorder in children” appeared in the highly respectable British medical journal The Lancet. It suggested that vaccinations could lead to autism.",
+          "That paper was later exposed as critically flawed and was retracted. Wakefield’s name was removed from the British medical register and he was stripped of his license to practice. But by then, the damage was already done."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The timing of vaccination and the emergence of autism symptoms coincides, leading to mistaken beliefs about causation.",
+        "spans": [
+          "It so happens that vaccinations are given to infants when they are between 1 and 4 years old. By fluke, that is the age range at which autism symptoms first appear.",
+          "That is one of the unfortunate errors behind the coincidental overlapping of timeframes—the emergence of autism with an MMR vaccine that protects children against measles, mumps, and rubella."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Confusion and misinformation online contribute to vaccine hesitancy, with about 30% of Americans saying they would not get a COVID-19 vaccine or only if required.",
+        "spans": [
+          "According to recent polls, 1 in 3 Americans say they definitely will not accept a COVID-19 vaccine or will only if required to.",
+          "Since November 1, 2020, a consistent 30% of responses were negative. But why? Why would someone choose to decline a vaccine that could save his or her life when more than 80 million Americans have had a COVID-19 vaccine, none of them hospitalized for COVID-19? Everyone has a different reason, but the root of the reason is likely confusion coming from online waves of disinformation."
+        ]
+      }
+    ]
+  }
+}

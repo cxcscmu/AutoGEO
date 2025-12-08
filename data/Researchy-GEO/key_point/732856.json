@@ -1,0 +1,444 @@
+{
+  "question": "how does inflation affect the housing market",
+  "key_points": {
+    "null": [],
+    "clueweb22-en0009-22-08135": [
+      {
+        "point_number": 1,
+        "point_content": "There is a correlation between inflation and house prices.",
+        "spans": [
+          "There is a correlation between inflation and house prices."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Increasing the money supply causes inflation and house prices to increase.",
+        "spans": [
+          "Now, suppose the central bank decides to print more money and the money supply expands to $20. Now each house would be priced at $4. In this simplistic example, increasing the money supply causing inflation and house prices to increase."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Low interest rates make buying homes more affordable, increasing demand and thus house prices if supply remains constant.",
+        "spans": [
+          "One of the other major factors causing house prices to increase is interest rates. When interest rates are low, buying homes can be more affordable and increase the demand for homes. If the supply of homes remains constant and the demand increases, then the prices of homes will increase."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "In large cities with limited land availability, the effect of inflation on house prices is more pronounced.",
+        "spans": [
+          "In large cities where land availability is often limited, you can see a more pronounced effect of inflation."
+        ]
+      }
+    ],
+    "clueweb22-en0040-05-10114": [
+      {
+        "point_number": 1,
+        "point_content": "Pandemic-related market disruptions, like increased demand and rising building costs as well as other long-term supply constraints in the housing market have contributed to record increases in prices.",
+        "spans": [
+          "Pandemic-related market disruptions, like increased demand and rising building costs as well as other long-term supply constraints in the housing market have contributed to record increases in prices."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The Case-Shiller U.S. National Home Price index has risen by 18.6 percent over the last 12 months, the strongest year-long growth in the history of the series.",
+        "spans": [
+          "Over the last 12 months, the Case-Shiller U.S. National Home Price index has risen by 18.6 percent, the strongest year-long growth in the history of the series."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Asking rental prices initially fell during the pandemic but have since recovered and now exceed their pre-pandemic trend.",
+        "spans": [
+          "Meanwhile, asking rental prices, as measured by the Zillow Observed Rental Index (ZORI), initially fell during the pandemic but have since recovered and now exceed their pre-pandemic trend"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Increases in owned home and rental costs have not yet contributed much to overall inflation but are likely to soon show up more clearly in the monthly CPI, potentially adding several more basis points to monthly inflation.",
+        "spans": [
+          "Because of the way shelter costs enter into the CPI, these increases in owned home and rental costs have not yet contributed much to overall inflation.",
+          "Our analysis, however, suggests that these higher shelter prices are likely to soon show up more clearly in the monthly CPI, potentially adding several more basis points (hundredths of a percentage point) to monthly inflation than they do now."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Demand growth and supply constraints act in tandem to boost home prices, including local zoning restrictions, limited affordable housing, increased cost of home construction, and pandemic-related demand factors like increased at-home work and migration away from city centers.",
+        "spans": [
+          "As with most economic variables, demand growth and supply constraints can act in tandem to boost home prices.",
+          "The pandemic has prompted more recent supply issues as well, driving the prices of key commodities to record highs and increasing the cost of home construction.",
+          "In addition to supply factors, there are also potential pandemic-related demand factors stemming from increased at-home work and heightened mobility.",
+          "At the start of the pandemic, there were elevated levels of migration away from city centers and into suburbs and other less population-dense areas."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Mortgage rates have declined to all-time lows, making borrowing more affordable and contributing to stronger demand for new homes.",
+        "spans": [
+          "Moreover, mortgage rates —which have declined to all-time lows over the past year—are making borrowing more affordable (for those with relatively good credit histories), thereby contributing to stronger demand for new homes."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "The inventory of homes for sale has declined significantly since early 2020, widening the wedge between supply and demand.",
+        "spans": [
+          "According to Redfin, the seasonally-adjusted inventory of homes has declined by over 50 percent since February 2020.",
+          "For example, the Census Bureau estimates that the inventory of for-sale homes has declined by 37 percent since 2019Q4."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Shelter makes up nearly a third of the CPI basket and 40 percent of the core CPI basket, so increases in rent and home prices can have noticeable effects on overall inflation.",
+        "spans": [
+          "Shelter makes up nearly a third of the basket for CPI inflation, and 40 percent of the basket for core CPI that excludes the volatile food and energy components.",
+          "As a result, even small increases in rent and home prices can, in principle, have noticeable effects on overall inflation."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "The CPI measures the price of goods and services consumed, not the value of investment assets like housing as an investment.",
+        "spans": [
+          "Understanding how housing affects inflation means understanding what our inflation data tries to measure. The CPI is a cost-of-living index: its purpose is to measure the price of different goods and services that households consume. It is not meant to measure the value of investment assets that families hold, such as stocks."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Since 1983, the BLS uses the 'rental equivalent' approach to measure owner-occupied housing in CPI, capturing the implicit value of housing services consumed, not the asset value.",
+        "spans": [
+          "In 1983 BLS altered its methodology to the “rental equivalent” approach.",
+          "Under this framework, owners’ equivalent rent (OER) of primary residence is meant to capture just the implicit value of services that homeowners “consume” from their own homes—not the asset value of the house as an investment."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "The relationship between housing prices and CPI: Shelter has weakened since the 1980s due to methodology changes, with housing price increases having a smaller and lagged effect on CPI inflation.",
+        "spans": [
+          "Ever since the early 1980s, the house price-CPI relationship has declined due to these changes in the methodology.",
+          "Between 1985 and 1999, each 1 percentage point acceleration in year-on-year growth in Case-Shiller was associated with a 15 basis point rise in CPI: Shelter 22 months later.",
+          "Since 2000, that effect has changed to 11 basis points, 16 months later."
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "Recent growth of CPI: Rent and CPI: OER have accelerated from pandemic lows, with a risk of further acceleration in housing components of CPI in the months ahead due to recent home price appreciation and below-trend rental and housing prices.",
+        "spans": [
+          "So far, growth of both CPI: Rent and CPI: OER have accelerated from their pandemic lows.",
+          "There is a risk of some further acceleration in the housing components of CPI in the months ahead, both because of recent home price appreciation and also, as Figure 9 shows, the fact that the level of rental and housing prices in CPI is below its pre-pandemic trend; a renormalization would require a temporary acceleration above the pre-pandemic pace of growth."
+        ]
+      },
+      {
+        "point_number": 13,
+        "point_content": "If CPI: Rent and CPI: OER returned to trend by July 2022, it would imply roughly 13 basis points added to core CPI inflation every month, about 2 basis points more than before the pandemic.",
+        "spans": [
+          "If, illustratively, CPI: Rent and CPI: OER returned to trend by July 2022, that would imply roughly 13 basis points added to core CPI inflation every month, around 2 basis points more than they typically contributed before the pandemic and 1 basis point more than they contributed in June 2021."
+        ]
+      }
+    ],
+    "clueweb22-en0007-13-12381": [
+      {
+        "point_number": 1,
+        "point_content": "Inflation rising can push up house prices and affect the housing market.",
+        "spans": [
+          "Inflation is rising, and that could have a knock-on effect on the housing market"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Rising inflation impacts interest rates, which in turn affects the housing market.",
+        "spans": [
+          "what’s the impact of rising inflation on interest rates?",
+          "If climbing inflation does turn out to be a short-term blip, it’s likely the Bank of England will keep interest rates low",
+          "if the inflation rise turns out to be more pernicious, it’s likely that interest rates will rise too. This will push up the cost of borrowing, which is likely to suppress the housing market."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Higher interest rates make mortgage payments higher, affecting affordability for aspiring homeowners.",
+        "spans": [
+          "For aspiring homeowners, rising interest could be both a blessing and a curse. It would make property prices look more affordable, but monthly mortgage payments would be higher."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Inflation erodes the value of money, reducing mortgage debt in real terms.",
+        "spans": [
+          "inflation erodes the value of money, meaning mortgage debt reduces in real terms in line with inflation."
+        ]
+      }
+    ],
+    "clueweb22-en0005-86-10790": [
+      {
+        "point_number": 1,
+        "point_content": "Inflation causes home prices to increase significantly, making homeownership more difficult for many.",
+        "spans": [
+          "prices of new homes in Canada increased by 0.7% from the previous month",
+          "house prices jumped 12.2% during the month of August",
+          "home prices have soared about 25% and around 200% in the last 16 years"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "High inflation leads to potential interest rate hikes which increase mortgage rates and monthly payments for borrowers with variable-rate mortgages.",
+        "spans": [
+          "the bank is willing to tolerate higher inflation, but once the economy recovers, it will respond to more lasting price pressures by reducing monetary accommodation",
+          "consumers can expect one quarter-point rate hike over the next year",
+          "the Bank is expecting to deliver five quarter-point rate hikes in total",
+          "These hikes will cause the prime rate to increase, which will lead to higher monthly payments for many borrowers with variable-rate mortgages"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Rising inflation and interest rates reduce demand for housing and may cool the housing market over time.",
+        "spans": [
+          "Economists are predicting that demand for housing will decrease across the country this coming year",
+          "the market will cool off eventually, it will also see a dramatic increase in rates as the economy rebounds and recovers"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Inflation increases rent and property costs while wages lag, worsening affordability and pushing Canadians to take on more debt.",
+        "spans": [
+          "As rent and property costs soar, wages have been lagging, making homeownership more difficult for many",
+          "Canadians are taking on more debt than ever before"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Locking into a fixed-rate mortgage during inflationary periods can protect homeowners from rising mortgage payments.",
+        "spans": [
+          "one step you can take to protect yourself is to lock into a fixed-rate mortgage",
+          "borrowers with fixed-rate mortgages would not be immediately impacted by rising rates as they wouldn’t see any changes until their mortgage comes up for renewal"
+        ]
+      }
+    ],
+    "clueweb22-en0000-99-06370": [
+      {
+        "point_number": 1,
+        "point_content": "Fast-rising housing costs have helped cause the largest increase in inflation since 2008.",
+        "spans": [
+          "Fast-rising housing costs have helped cause the largest increase in inflation since 2008."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The rise in housing prices accounted for roughly a fifth of the overall increase in inflation in June.",
+        "spans": [
+          "Altogether, the rise in housing prices accounted for roughly a fifth of the overall increase in inflation in June"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The cost of shelter rose by 0.5% between May and June, and shelter costs were up 2.6% compared with last year.",
+        "spans": [
+          "The cost of shelter rose by 0.5% between May and June, according to the latest edition of the monthly consumer price index released Tuesday by the Bureau of Labor Statistics. Compared with last year, however, shelter costs were up 2.6%."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The government inflation measure shows housing costs for renters and homeowners rose 0.2% and 0.3% respectively between May and June, but other reports suggest home prices are up more than 13%.",
+        "spans": [
+          "Between May and June, the cost of a hotel room increased nearly 8%. Comparatively, housing costs for renters and homeowners rose 0.2% and 0.3% respectively, per the government’s inflation measure.",
+          "The latest edition of the consumer price index indicated housing prices have risen 2.6% over the past year, while other reports suggest home prices are up more than 13%."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The CPI calculates housing costs differently, viewing housing units as capital goods, not consumption items, and collects rental data every six months.",
+        "spans": [
+          "“Like most other economic series, the CPI views housing units as capital (or investment) goods and not as consumption items,” the Bureau of Labor Statistics says.",
+          "Rental data to establish how prices are changing are collected every six months."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Housing inflation affects low-income renters severely, with many spending more than a third of their income on shelter-related expenses.",
+        "spans": [
+          "As the cost of shelter increases it can have a “cascading effect on extremely low-income renters,” said Andrew Aurand, vice president for research at the National Low Income Housing Coalition.",
+          "Some 9.2 million ‘extremely low-income’ renters are spending more than a third of their income on shelter-related expenses"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Home prices rise due to both increased costs of construction and perceived value as a capital investment, causing a mismatch in economic views and consumer experience.",
+        "spans": [
+          "Home prices can rise both because the actual structure itself may be worth more — thanks to the rising cost of labor and lumber — but also because people see value in it as a capital investment.",
+          "As a result, there can be a mismatch in the way economists or government statistician view rising home prices, and what that means to a consumer."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Housing inflation is experienced differently because fixed mortgage holders see little change in costs year over year, and renters see changes mainly when moving or signing new leases.",
+        "spans": [
+          "For the typical homeowner, their housing costs likely haven’t changed too much over the past year.",
+          "For renters and buyers, you encounter the changing cost when something about your living arrangement changed: When you move to a new home, sign a new lease or refinance your mortgage."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "The government uses imputed rent to estimate housing costs for homeowners in inflation measures, which can lag behind actual price changes.",
+        "spans": [
+          "The government’s Consumer Price Index calculates the “imputed rent” — essentially the amount a homeowner is paying for their housing rather than paying a landlord.",
+          "A new analysis from Fannie Mae showed that there is typically a lag between when home prices are actually rising, and when that price growth is reflected in inflation reports like the consumer price index."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "The COVID-19 pandemic caused shifts in housing demand, with wealthier Americans moving to suburbs and rental rates declining in pricier neighborhoods but increasing in affordable areas.",
+        "spans": [
+          "Wealthier Americans, many of whom suddenly found themselves able to work remotely, chose to move away from major cities into larger and cheaper homes in the suburbs, often saving money in the process.",
+          "As a result, rental rates declined in pricier neighborhoods.",
+          "But in more affordable areas, rents actually increased."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Home prices are rising fast due to a shortage of homes caused by low home-building activity after the Great Recession and increased demand from millennials and pandemic-related shifts.",
+        "spans": [
+          "The reason home prices are rising so fast is fairly simple. After the Great Recession, home-building activity all but drew to a standstill as the construction industry worked to recover.",
+          "That left the housing market with a serious shortage of homes, just as millennials have begun getting married and having kids — traditional hallmarks of home-buying interest.",
+          "With the pandemic, the shift to remote working and low interest rates have only exacerbated things."
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "The primary solution to housing inflation is building more homes, but challenges like high lumber costs, lack of skilled workers, and zoning regulations persist.",
+        "spans": [
+          "The primary solution to address runaway inflation in housing will be to build more homes — something that’s easier said than done.",
+          "Some of the challenges that we face on the supply side of the residential construction industry are going to persist well into 2022.",
+          "Those challenges run the gamut from the high cost of lumber to the lack of skilled workers to complete construction projects.",
+          "Another factor: Zoning regulations across the country prevent the construction of more dense housing in many cities, effectively driving up home prices and rents in the process."
+        ]
+      },
+      {
+        "point_number": 13,
+        "point_content": "Building more expensive homes rather than entry-level properties drives up prices for low-income renters, and the market does not adequately serve extremely low-income renters.",
+        "spans": [
+          "Because of the high costs, it’s easier for builders to construct more expensive homes, even though the demand and competition is strongest for entry-level properties.",
+          "There’s this argument that if you just build more supply to meet the demand, it will eventually help extremely low and very low-income renters,” Aurand said. “But the market is not going to adequately serve mostly extremely low-income renters."
+        ]
+      }
+    ],
+    "clueweb22-en0016-40-07786": [
+      {
+        "point_number": 1,
+        "point_content": "Real estate may provide an inflation hedge as both rents and property values are highly correlated with rising consumer prices.",
+        "spans": [
+          "Real estate may provide an inflation hedge",
+          "Real estate may provide a particularly attractive option for investors seeking to hedge against inflation, as both rents and property values are highly correlated with rising consumer prices."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Most long-term leases have built-in rent escalators tied to inflation, protecting income generation of in-place leases.",
+        "spans": [
+          "Most long-term leases have built-in rent escalators that are tied to inflation, which protects the income generation of in-place leases."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "New leases allow investors to capitalize on rising market rents.",
+        "spans": [
+          "New leases allow investors to capitalize on rising market rents."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The sharp increase in building costs will constrain new supply, supporting real estate values.",
+        "spans": [
+          "The sharp increase in lumber and other building costs will constrain new supply to some degree, which will further support real estate values."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The net impact of rising long-term interest rates on real estate values depends on the speed and cause of the increase; if due to economic growth expectations, the impact should be positive.",
+        "spans": [
+          "While rising long-term interest rates may impact real estate values, the net impact largely depends on the speed at which long-term rates increase and the driver of those increases.",
+          "If increases are due to increased economic growth expectations, the overall impact of rising rates and a reflationary environment should be positive for real estate."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Residential real estate leases in the U.S. are mainly short term, allowing quick adjustment to new price levels, making housing a low-risk segment with lower sensitivity to inflation risk.",
+        "spans": [
+          "Residential real estate leases are mainly short term, allowing for quick adjustment to new price levels.",
+          "U.S. housing has historically been a low-risk segment, and its lower expected sensitivity to inflation risk is no exception."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Industrial sector properties often have below-market rents but are well-positioned to benefit from inflation driven by economic growth due to expanding warehouse space needs.",
+        "spans": [
+          "While the industrial sector has intermediate- to long-term leases, many properties have below-market rents due to strong rent growth across the sector, even in a low inflationary environment.",
+          "The sector is well-positioned to benefit from inflation driven by economic growth due to the expanding need for warehouse space."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Office properties with intermediate- to long-term leases face greater inflation risk, but medical office and life science segments are more defensive due to stronger fundamentals.",
+        "spans": [
+          "Office properties also typically have intermediate- to long-term leases, placing the sector at greater risk.",
+          "The medical office and life science segments face similar inflation risks with longer leases, but have a stronger fundamental operating environment than traditional office, making them more defensive."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Retail sectors carry greater inflation risk due to intermediate-term leases and reliance on retailer operations, but grocery-anchored segments benefit from inflation.",
+        "spans": [
+          "The retail sectors carry greater inflation risk.",
+          "The leases are intermediate-term and they rely on retailer operations, which have been challenging recently.",
+          "The grocery-anchored segment offers a unique reprieve.",
+          "Greater inflation would improve the grocery-anchor’s finances while the small-shop rents can adjust relatively quickly."
+        ]
+      }
+    ],
+    "clueweb22-en0002-50-11777": [
+      {
+        "point_number": 1,
+        "point_content": "Property values increase during inflation due to higher construction costs and reduced supply of new properties.",
+        "spans": [
+          "Property values will increase",
+          "Since the prices of construction materials will be high, developers will spend more when building new properties.",
+          "This will lead to an inevitable increase in the price of new real estate properties.",
+          "Moreover, existing properties will also rise in value due to the reduced supply of new constructions."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The cost of borrowing rises during inflation as lenders increase interest rates to cover currency devaluation, affecting buyers and developers.",
+        "spans": [
+          "The cost of borrowing will be higher",
+          "The fact that inflation devalues the currency forces most lenders to raise interest rates.",
+          "This higher cost of borrowing affects both buyers and real estate developers."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Rental rates increase during inflation as more people choose to rent due to high mortgage costs, increasing demand for rental properties.",
+        "spans": [
+          "Rental rates will soar",
+          "Due to the high cost that comes with mortgages, most people will opt to rent rather than buy.",
+          "The high demand for rental properties and the influx of tenants will prompt landlords to raise their rental rates."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Real estate appreciation offsets inflation by protecting investment value from currency devaluation.",
+        "spans": [
+          "Appreciation offsets inflation",
+          "Real estate appreciation is a highly effective hedge against rising prices.",
+          "the appreciation rate of US real estate has been consistently higher than inflation for over a decade now."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Rental properties generate high returns during inflation due to increased rental income and low vacancy rates.",
+        "spans": [
+          "Rental properties generate high returns",
+          "Rental properties are without a doubt the most profitable assets during inflation.",
+          "The high rental income coupled with the low vacancy rates will help generate a very high return on investment for landlords."
+        ]
+      }
+    ]
+  }
+}

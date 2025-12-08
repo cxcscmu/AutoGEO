@@ -1,0 +1,85 @@
+{
+  "question": "how impactful were late shipments on customer questions?",
+  "key_points": [
+    {
+      "point_number": 1,
+      "point_content": "Late shipments have been increasing and are correlated with a falling rate of shipments on time month on month, which correlates with an increase in customer questions and concerns.",
+      "original_point_number": [
+        1,
+        2,
+        4,
+        5
+      ]
+    },
+    {
+      "point_number": 2,
+      "point_content": "Late shipments are rated as moderately to extremely impactful on the increase in customer questions, with ratings ranging from 3 out of 4 to extremely impactful.",
+      "original_point_number": [
+        3,
+        10,
+        12
+      ]
+    },
+    {
+      "point_number": 3,
+      "point_content": "Late deliveries significantly reduce customer likelihood to shop again, decrease customer retention rate, increase customer acquisition cost due to negative word of mouth and online reviews, and cause customers to stop shopping with a retailer, indicating increased customer dissatisfaction and likely more customer questions and complaints.",
+      "original_point_number": [
+        6,
+        7,
+        8
+      ]
+    },
+    {
+      "point_number": 4,
+      "point_content": "Customer questions for one shipping vendor have increased since the beginning of the promotional campaign and continue even two months after the campaign ended.",
+      "original_point_number": [
+        9
+      ]
+    },
+    {
+      "point_number": 5,
+      "point_content": "The percentage of products shipped on time decreased by 10%, 7%, and 5% over three months, while customer questions increased by 8%, 10%, and 12%, showing a negative correlation between on-time shipments and customer questions.",
+      "original_point_number": [
+        11,
+        13
+      ]
+    },
+    {
+      "point_number": 6,
+      "point_content": "Bad news travels far faster and dissatisfied customers are likely to leave for competitors, with 68% going elsewhere after poor service, but 95% of unhappy customers would stay if their problems were resolved quickly.",
+      "original_point_number": [
+        14,
+        15
+      ]
+    },
+    {
+      "point_number": 7,
+      "point_content": "Late orders cause considerable customer unhappiness and are particularly frustrating when using third-party shipping.",
+      "original_point_number": [
+        16
+      ]
+    },
+    {
+      "point_number": 8,
+      "point_content": "How a customer is informed about their late order is key to keeping customer loyalty; keeping the customer informed with communication and explanations about delays helps manage expectations and reduces negative impact.",
+      "original_point_number": [
+        17,
+        18
+      ]
+    },
+    {
+      "point_number": 9,
+      "point_content": "Taking responsibility for the late order and being honest helps maintain customer trust.",
+      "original_point_number": [
+        19
+      ]
+    },
+    {
+      "point_number": 10,
+      "point_content": "Making it up to customers with refunds, discounts, and sincere apologies helps rebuild trust after a late shipment.",
+      "original_point_number": [
+        20
+      ]
+    }
+  ]
+}

@@ -1,0 +1,254 @@
+{
+  "question": "should the death penalty be legal?",
+  "key_points": [
+    {
+      "point_number": 1,
+      "point_content": "A majority of Americans support the death penalty, believe it is morally justified in certain cases, and consider it constitutional despite imperfections.",
+      "original_point_number": [
+        1,
+        73
+      ]
+    },
+    {
+      "point_number": 2,
+      "point_content": "The death penalty has been declining in use in the U.S. with fewer executions and sentences since the 1990s, with over 1,480 executions since 1977 primarily by lethal injection.",
+      "original_point_number": [
+        2,
+        27
+      ]
+    },
+    {
+      "point_number": 3,
+      "point_content": "The death penalty is legally authorized, constitutional, upheld by the Supreme Court, and used by various U.S. administrations and 29 states.",
+      "original_point_number": [
+        3,
+        38,
+        65,
+        66,
+        74
+      ]
+    },
+    {
+      "point_number": 4,
+      "point_content": "The death penalty serves penological objectives such as general deterrence, specific deterrence, and retribution, aiming to deter heinous crimes, prevent repeat offenses, and provide proportionate punishment.",
+      "original_point_number": [
+        4,
+        8,
+        23,
+        29,
+        30,
+        33,
+        34,
+        35,
+        36,
+        39,
+        40,
+        67,
+        68,
+        69,
+        70,
+        96
+      ]
+    },
+    {
+      "point_number": 5,
+      "point_content": "The death penalty is seen as necessary for justice in cases of the worst crimes and murderers, providing closure to victims' families, protecting the public, and honoring human dignity by holding defendants morally responsible.",
+      "original_point_number": [
+        5,
+        6,
+        7,
+        9,
+        30,
+        33,
+        47,
+        97,
+        98,
+        99
+      ]
+    },
+    {
+      "point_number": 6,
+      "point_content": "The death penalty should be applied only after conviction with multiple supporting evidence, especially for serious crimes like serial killing, treason, rape, or when the individual is a menace to society.",
+      "original_point_number": [
+        17,
+        18,
+        20,
+        21,
+        22,
+        25,
+        26
+      ]
+    },
+    {
+      "point_number": 7,
+      "point_content": "The death penalty is politically fraught, inconsistently applied, expensive, and a waste of taxpayer funds, failing to make communities safer or deliver justice effectively.",
+      "original_point_number": [
+        11,
+        12,
+        41,
+        49,
+        50,
+        56,
+        62,
+        113,
+        114
+      ]
+    },
+    {
+      "point_number": 8,
+      "point_content": "Opponents argue the death penalty is immoral, discriminatory, ineffective, a misuse of resources, cruel and unusual punishment, and a relic of barbaric practices.",
+      "original_point_number": [
+        10,
+        15,
+        31,
+        48,
+        49,
+        50,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        59,
+        61,
+        63,
+        64,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        101
+      ]
+    },
+    {
+      "point_number": 9,
+      "point_content": "The death penalty causes severe mental and physical suffering to the convicted person and their family, and methods of execution can be cruel and painful, potentially violating the 8th amendment.",
+      "original_point_number": [
+        13,
+        46,
+        61,
+        86,
+        87,
+        88,
+        89,
+        105
+      ]
+    },
+    {
+      "point_number": 10,
+      "point_content": "The death penalty has no proven deterrent effect; studies and police chiefs rank it as ineffective, and states with death penalty laws do not have lower crime or murder rates.",
+      "original_point_number": [
+        14,
+        31,
+        39,
+        50,
+        55,
+        58,
+        59,
+        84,
+        107,
+        108,
+        109,
+        110,
+        100
+      ]
+    },
+    {
+      "point_number": 11,
+      "point_content": "The death penalty is irreversible and irreparable in the event of human error, with innocent people too often sentenced to death and exonerations occurring for at least one in every ten executed.",
+      "original_point_number": [
+        16,
+        51,
+        60,
+        75,
+        78,
+        80,
+        90
+      ]
+    },
+    {
+      "point_number": 12,
+      "point_content": "The criminal justice system has built-in checks and balances designed to provide fair process for each defendant, though it is not perfect and must be improved to reduce wrongful executions.",
+      "original_point_number": [
+        37,
+        45,
+        71,
+        72
+      ]
+    },
+    {
+      "point_number": 13,
+      "point_content": "The death penalty is not inherently racist or unfair to the poor as public defender systems have improved and many law firms take on capital cases pro-bono, but racial bias and disparities in application exist.",
+      "original_point_number": [
+        43,
+        44,
+        49,
+        54,
+        59,
+        90,
+        93
+      ]
+    },
+    {
+      "point_number": 14,
+      "point_content": "Life sentences are a more severe and less expensive punishment than the death penalty, which costs more due to longer trials, appeals, and additional security measures.",
+      "original_point_number": [
+        32,
+        41,
+        62,
+        94,
+        104
+      ]
+    },
+    {
+      "point_number": 15,
+      "point_content": "Many murder victims' families oppose the death penalty, viewing it as immoral and not advancing justice, while others see it as necessary for justice and closure.",
+      "original_point_number": [
+        6,
+        30,
+        57,
+        33
+      ]
+    },
+    {
+      "point_number": 16,
+      "point_content": "The death penalty can promote happiness and wellbeing among non-offenders by reinforcing the belief that good things happen to good people and bad things happen to bad people.",
+      "original_point_number": [
+        42
+      ]
+    },
+    {
+      "point_number": 17,
+      "point_content": "The death penalty should be continued to increase crime prevention, reduce tax dollars spent on prisons, and because some crimes are so horrific that other punishments are insufficient.",
+      "original_point_number": [
+        106,
+        111,
+        112,
+        113,
+        115
+      ]
+    },
+    {
+      "point_number": 18,
+      "point_content": "Death-row prisoners in the U.S. typically spend more than a decade awaiting execution, and when asked, most people prefer life sentences over the death penalty.",
+      "original_point_number": [
+        102,
+        103
+      ]
+    }
+  ]
+}

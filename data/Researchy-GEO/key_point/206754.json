@@ -1,0 +1,437 @@
+{
+  "question": "factors that affect psychopathology",
+  "key_points": {
+    "clueweb22-en0004-06-02402": [
+      {
+        "point_number": 1,
+        "point_content": "Many psychiatric disorders tend to run in families, suggesting potential genetic roots.",
+        "spans": [
+          "Scientists have long recognized that many psychiatric disorders tend to run in families, suggesting potential genetic roots."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Symptoms can overlap among autism, ADHD, bipolar disorder, major depression and schizophrenia, suggesting shared biological similarities.",
+        "spans": [
+          "Symptoms can overlap and so distinguishing among these 5 major psychiatric syndromes can be difficult. Their shared symptoms suggest they may also share similarities at the biological level."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Recent studies have found limited evidence of shared genetic risk factors among some of these disorders.",
+        "spans": [
+          "In fact, recent studies have turned up limited evidence of shared genetic risk factors, such as for schizophrenia and bipolar disorder, autism and schizophrenia, and depression and bipolar disorder."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "An international research consortium analyzed genome-wide association studies (GWAS) data from the 5 major disorders to find genetic variations associated with them.",
+        "spans": [
+          "To take a broader look, an international research consortium conducted an analysis that incorporated data from genome-wide association studies (GWAS) of the 5 major disorders."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The analysis revealed genetic variations significantly associated with all 5 disorders, including variations in genes regulating calcium flow into neurons.",
+        "spans": [
+          "The analysis revealed variations significantly associated with all 5 disorders. These included variations in 2 genes that code for the cellular machinery that helps regulate the flow of calcium into neurons."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Variation in the gene CACNA1C affects brain circuitry involved in emotion, thinking, attention and memory, and is linked to bipolar disorder, schizophrenia and major depression.",
+        "spans": [
+          "Variation in one of these, called CACNA1C, had previously been linked to bipolar disorder, schizophrenia and major depression. CACNA1C is known to affect brain circuitry involved in emotion, thinking, attention and memory — functions that can be disrupted in mental illnesses."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Variation in another calcium channel gene, CACNB2, was also linked to the 5 disorders.",
+        "spans": [
+          "Variation in another calcium channel gene, called CACNB2, was also linked to the 5 disorders."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Illness-linked genetic variation was found in certain regions of chromosomes 3 and 10 for all 5 disorders, with the region on chromosome 3 having the strongest links.",
+        "spans": [
+          "In addition, the researchers discovered illness-linked variation for all 5 disorders in certain regions of chromosomes 3 and 10.",
+          "The suspect region along chromosome 3 had the strongest links to the disorders."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Each genetic association accounts for only a small amount of risk for mental illness and cannot yet be used to predict or diagnose specific conditions.",
+        "spans": [
+          "Although statistically significant, each of these genetic associations individually can account for only a small amount of risk for mental illness,” says study co-author Dr. Jordan Smoller of Massachusetts General Hospital.",
+          "Because of this, the variations couldn’t yet be used to predict or diagnose specific conditions."
+        ]
+      }
+    ],
+    "clueweb22-en0013-85-13299": [
+      {
+        "point_number": 1,
+        "point_content": "Psychiatric diagnosis relies on a doctor's human judgment and evaluation of a patient's behavior or appearance to a greater degree than diagnosis in other fields of medicine.",
+        "spans": [
+          "Psychiatric diagnosis relies on a doctor's human judgment and evaluation of a patient's behavior or appearance to a greater degree than diagnosis in other fields of medicine."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Mental disorders almost always involve more than one gene and vary across family and ethnic groups.",
+        "spans": [
+          "Mental disorders almost always involve more than one gene. Studies have shown that one mental disorder can be caused by different genes on different chromosomes in different populations."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Genetic factors in mental disorders interact with a person's family and cultural environment affecting susceptibility to disorders.",
+        "spans": [
+          "Genetic factors in mental disorders interact with a person's family and cultural environment. A person who has a gene associated with susceptibility to alcohol abuse, for example, may not develop the disorder if he or she grows up in a family that teaches effective ways to cope with stress and responsible attitudes toward drinking."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Genes influence mental disorders by governing organic causes, abnormalities in development, and susceptibility to various disorders.",
+        "spans": [
+          "As of 2002, genes appear to influence the development of mental disorders in three major ways: they may govern the organic causes of such disorders such as Alzheimer's disease and schizophrenia; they may be responsible for abnormalities in a person's development before or after birth; and they may influence a person's susceptibility to anxiety, depression, personality disorders , and substance abuse disorders."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Heritability of disorders like schizophrenia and autism is high, indicating strong genetic factors.",
+        "spans": [
+          "As of 2002, however, the application of computer models to schizophrenia indicates that the heritability of the disorder may be as high as 80%. Another instance is autism , which was also blamed at one time on faulty parenting but is now known to be 90+% heritable."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Mental disorders with organic causes such as Alzheimer's disease and schizophrenia are polygenic, involving multiple genes.",
+        "spans": [
+          "The two most important examples of mental disorders caused by organic changes or abnormalities in the brain are late-onset Alzheimer's disease and schizophrenia. Both disorders are polygenic , which means that their expression is determined by more than one gene."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Genetic epidemiology uses twin, adoption, and family studies to assess genetic and environmental factors in mental disorders.",
+        "spans": [
+          "Twin studies are based on the assumption that twins reared in the same family share a common environment.",
+          "Adoption studies are used less frequently than twin studies, but are crucial in researching such conditions as schizophrenia and alcoholism.",
+          "Family studies are important tools for evaluating environmental effects on children with genetic disorders— and also for evaluating the impact of the disorder on the family environment."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Family environment impacts mental disorders through shared genetic material, shared environment, and nonshared environment, with nonshared interactions often more impactful.",
+        "spans": [
+          "Family factors fall into three categories: shared genetic material; shared environment; and nonshared environment.",
+          "In general, much of the impact of a family's environment on a child with a mental disorder is due to nonshared rather than shared interactions."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Psychological/behavioral vulnerability in adults to disorders like depression, manic depression, PTSD, and anxiety disorders is influenced by genetic factors and environmental interactions.",
+        "spans": [
+          "Inherited vulnerability to these disturbances is the subject of intensive study at the present time.",
+          "Genetic factors have been shown to influence the likelihood of a person's developing mood disorders or post-traumatic syndromes in adult life.",
+          "Genetic factors are thought to account for about 40% of a person's risk of depression, with environmental factors and personal temperament accounting for the remaining 60%.",
+          "Twin studies have shown that the twin of a patient diagnosed with manic depression has a 70%–80% chance of developing the disorder.",
+          "Vulnerability to trauma is affected by such inherited factors as temperament as well as by family or cultural influences; shy or introverted persons are at greater risk for developing post-traumatic stress disorder (PTSD) than their extroverted or outgoing peers.",
+          "Anxiety disorders tend to run in families."
+        ]
+      }
+    ],
+    "clueweb22-en0014-21-13672": [
+      {
+        "point_number": 1,
+        "point_content": "Behavioral and psychological factors such as physical activity, smoking, cognitive and social engagement, personality, and psychosocial stress play a critical role in health across the lifespan.",
+        "spans": [
+          "Behavioral and psychological factors — for example, physical activity, smoking and other health behaviors, cognitive and social engagement, personality, and psychosocial stress — play a critical role in health across the lifespan."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Social factors like social relationships and socioeconomic circumstances significantly impact health and well-being, with loneliness and social isolation being risk factors for functional decline and mortality.",
+        "spans": [
+          "Social factors, such as social relationships and socioeconomic circumstances, have a similarly important impact on health and well-being.",
+          "subjective feelings of loneliness are known to be a risk factor for serious functional declines and even death",
+          "social isolation is a major risk factor for morbidity and premature mortality"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Personality traits such as conscientiousness and neuroticism are linked to aging-related health outcomes including longevity and Alzheimer's disease development.",
+        "spans": [
+          "the relationship between personality — relatively stable individual differences in dispositions to think, feel, and act in particular ways — and aging-related outcomes has been well documented: Conscientiousness is related both to longevity and to the development of AD, and neuroticism is linked to health in both positive and negative ways."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Behavioral and social factors interact with genetic, molecular, and cellular mechanisms to influence health at older ages.",
+        "spans": [
+          "behavioral and social factors interact with genetic, molecular, and cellular mechanisms to influence health at older ages."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Exposure to adverse social, interpersonal, and physical environments during development can have long-lasting psychological and physical effects impacting adult health and longevity.",
+        "spans": [
+          "Exposure to adverse social, interpersonal, and physical environments can exert profound and long-lasting psychological and physical effects on a developing organism, with long-term impacts on adult physical and cognitive health and longevity."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Disadvantage and persistent stress throughout life can biologically and psychologically embed risk for disease and distress, affecting aging outcomes.",
+        "spans": [
+          "Subgroups of the population experience disadvantage throughout their lives or for extended periods in life that generate persistent stress, and their patterns of stress reactivity appear to hasten the progression of disease.",
+          "it is important to elucidate the processes by which these adverse social exposures become biologically and psychologically embedded and contribute risk for disease and distress."
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0000-41-12741": [
+      {
+        "point_number": 1,
+        "point_content": "Psychopathology in DD/ID is influenced by precipitating, predisposing, maintaining, and protective psychosocial and environmental factors.",
+        "spans": [
+          "It is important to assess predisposing, precipitating, maintaining, and protective psychosocial and environmental factors (i.e., change in residential setting or carer, illness in the family, a supportive sibling), not merely individual or organic factors"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Risk and protective factors contribute to the causation of mental health problems in people with intellectual disability.",
+        "spans": [
+          "Improving the collection of standardised clinical data will allow a teasing out of the risk and protective factors in the causation of mental health problems in people with intellectual disability"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Specific vulnerabilities to mental illness in people with autism spectrum disorders are related to neurobiological and sensory responses to environmental factors such as noise and light.",
+        "spans": [
+          "a more detailed understanding of the specifi c vulnerabilities, for example, people with autism spectrum disorders who develop mental illness studying specifi c neurobiological and sensory responses to environmental factors such as noise and light"
+        ]
+      }
+    ],
+    "clueweb22-en0031-09-14653": [
+      {
+        "point_number": 1,
+        "point_content": "Psychological factors refer to thoughts, feelings and other cognitive characteristics that affect the attitude, behavior and functions of the human mind.",
+        "spans": [
+          "Psychological factors refer to thoughts, feelings and other cognitive characteristics that affect the attitude, behavior and functions of the human mind."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "These factors can influence how a person thinks and later affect his decisions and relations in his daily life.",
+        "spans": [
+          "These factors can influence how a person thinks and later affect his decisions and relations in his daily life."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The three known psychological factors are personality traits, psychodynamic processes and learned cognition.",
+        "spans": [
+          "The three known psychological factors are personality traits, psychodynamic processes and learned cognition."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Human beings learn cognition through their day to day interaction.",
+        "spans": [
+          "Human beings learn cognition through their day to day interaction."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "This in turn leads to psychodynamic processes that affect or influence their personality traits.",
+        "spans": [
+          "This in turn leads to psychodynamic processes that affect or influence their personality traits."
+        ]
+      }
+    ],
+    "clueweb22-en0042-58-03544": [
+      {
+        "point_number": 1,
+        "point_content": "Factors that can increase the risk of mental illness include biological factors, chronic medical conditions, family history, feelings of isolation, lack of social support, substance or alcohol use, and traumatic or stressful experiences.",
+        "spans": [
+          "There is not a single cause for psychopathology. There a number of factors that can increase the risk of mental illness, including:",
+          "Biological factors, including genes and brain chemistry",
+          "Chronic medical conditions",
+          "Family members with mental illness",
+          "Feelings of isolation",
+          "Lack of social support",
+          "Substance or alcohol use",
+          "Traumatic or stressful experiences"
+        ]
+      }
+    ],
+    "clueweb22-en0012-78-01751": [
+      {
+        "point_number": 1,
+        "point_content": "Health and behavioral, psychological, and social variables are related to health and disease.",
+        "spans": [
+          "More recent research highlights the relationships between health and behavioral, psychological, and social variables."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Stress is linked to cardiovascular disease and other health problems, involving interactions among the central nervous system, endocrine system, and immune system.",
+        "spans": [
+          "Acceptance of the fact that stress is linked to cardiovascular disease or to other health problems has become commonplace.",
+          "research also reveals many reciprocal links among the central nervous system, which recognizes and records experiences; the endocrine system, which produces hormones that govern many body functions; and the immune system, which organizes responses to infections and other challenges."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Specific behaviors such as tobacco use, alcohol consumption, inadequate physical activity, some sexual practices, and diet are associated with increased risk of diseases.",
+        "spans": [
+          "Similarly, it has long been recognized that specific behaviors are associated with increased risk of specific diseases and related conditions.",
+          "For example, tobacco use, alcohol consumption, inadequate physical activity, some sexual practices, and high-fat or low-fiber diets have all been recognized as unhealthful."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Socioeconomic status, social networks, employment status, and personal beliefs influence health.",
+        "spans": [
+          "Less widely recognized, however, is the association between socioeconomic status and health, or the influence of social networks, current or anticipated employment status, and personal beliefs."
+        ]
+      }
+    ],
+    "clueweb22-en0027-72-02061": [
+      {
+        "point_number": 1,
+        "point_content": "Mental illnesses are caused by a combination of biological, psychological, and environmental factors.",
+        "spans": [
+          "many of these conditions are caused by a combination of biological, psychological, and environmental factors"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Biological factors involved in mental illness include abnormal brain circuits, genetics, infections, brain injury, prenatal damage, substance abuse, poor nutrition, and exposure to toxins.",
+        "spans": [
+          "Some mental illnesses have been linked to abnormal functioning of nerve cell circuits or pathways that connect particular brain regions.",
+          "Genetics (heredity): Mental illnesses sometimes run in families, suggesting that people who have a family member with a mental illness may be somewhat more likely to develop one themselves.",
+          "Certain infections have been linked to brain damage and the development of mental illness or the worsening of its symptoms.",
+          "Defects in or injury to certain areas of the brain have also been linked to some mental illnesses.",
+          "Some evidence suggests that a disruption of early fetal brain development or trauma that occurs at the time of birth -- for example, loss of oxygen to the brain -- may be a factor in the development of certain conditions, such as autism spectrum disorder.",
+          "Long-term substance abuse, in particular, has been linked to anxiety, depression, and paranoia.",
+          "Poor nutrition and exposure to toxins, such as lead, may play a role in the development of mental illnesses."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Psychological factors contributing to mental illness include severe childhood trauma, early loss, neglect, and poor social relating ability.",
+        "spans": [
+          "Severe psychological trauma suffered as a child, such as emotional, physical, or sexual abuse",
+          "An important early loss, such as the loss of a parent",
+          "Neglect",
+          "Poor ability to relate to others"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Environmental stressors that can trigger mental illness include death or divorce, dysfunctional family life, negative feelings, life changes, social or cultural expectations, and substance abuse.",
+        "spans": [
+          "Death or divorce",
+          "A dysfunctional family life",
+          "Feelings of inadequacy, low self-esteem, anxiety, anger, or loneliness",
+          "Changing jobs or schools",
+          "Social or cultural expectations (For example, a society that associates beauty with thinness can be a factor in the development of eating disorders .)",
+          "Substance abuse by the person or the person's parents"
+        ]
+      }
+    ],
+    "clueweb22-en0006-21-07814": [
+      {
+        "point_number": 1,
+        "point_content": "Age of an Individual influence behavior",
+        "spans": [
+          "Age of an Individual influence behavior",
+          "Among the personal factors influencing behavior the most important is a person’s age. Generally speaking as an employee grows older his level of enthusiasm for work may decline. This happens either because the employee feels saturated or because he lacks physical fitness. It is for this reason that for certain jobs as those of sales representatives youngsters are always preferred.",
+          "Another point worth mentioning here is that the older members of the organization may not be prepared to adapt themselves to the changing environment. They are generally conservatives who prefer to work in the conventional manner. The rate of absenteeism is likely to be higher in the case of older employees. The number of people opting for voluntary retirement is also higher among elders."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Sex of an Individual Influence Behavior",
+        "spans": [
+          "Sex of an Individual Influence Behavior",
+          "Men in the workplace generally show greater interest in union activities. Women employees, on the other hand, may be reluctant to even join trade unions. Employers, generally feel that women employees are more sincere and will show greater commitment towards the job. Many organization prefer women employee for this reason.",
+          "But due to domestic obligations and unavoidable circumstances, women employees may avail leave frequently which cannot be denied. Say for example, a pregnant employee may avail maternity leave which cannot be neglected as per law. So, sexual differences here influence individual behavior."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Education of an Individual Influence Behavior",
+        "spans": [
+          "Education of an Individual Influence Behavior",
+          "The level of education of an individual does influence behavior. The general belief is that education disciplines a person. An educated employee knows how to get things done in the workplace without incurring anyone’s displeasure. He does not lose temper but quietly achieves his goals.",
+          "The influence of level of education on a person’s behavior may also be explained from another angle. A highly qualified person when offered with lower level job, may not show enthusiasm in his job. Such a person deserves a better placement. On the other hand, if a person with lower qualification is placed in a higher level job he cannot perform well in his duties. Thus, Selection and placement of the right person for the right job is very much important."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Marital Status of an Individual Influence Behavior",
+        "spans": [
+          "Marital Status of an Individual Influence Behavior",
+          "The need for a secured job and stable income is greater in case of married employees. A married employee has greater domestic commitments and therefore adapts himself to the needs of the organization. He cannot resign his job in case he derives less or no job satisfaction or finds the work environment not conducive.",
+          "On the other hand, an unmarried employee without much domestic commitments may find a better job if the present job does not give him satisfaction. So, marital status of an employee influence behavior."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Potentials of an Individual influence Behavior",
+        "spans": [
+          "Potentials of an Individual influence Behavior",
+          "Needless to say, the potentials of an individual influence his behavior. A person with the ability to perform any task effortlessly is able to be emphatic. He is in a position to demand better status in the organization. It is only people with greater potentials who contribute significantly to the progress of any organization. It is, therefore, quite natural that such people are given higher remuneration and greater decision-making authority.",
+          "A sales officer, for example, who always attains or exceeds his targets has to be given greater incentives failing which he may leave the organization and join some other organization that recognizes his potentials."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Personality of an Individual influence behavior",
+        "spans": [
+          "Personality of an Individual influence behavior",
+          "The personality of a person, as misunderstood by many, is not just determined by his physical appearance alone. The physical characteristics of a person, no doubt, are important but these get noticed only if accompanied by certain intellectual qualities as stated below: Communication ability Inquisitiveness Perseverance Reasoning power Leadership capacity and so on.",
+          "An individual, who possesses the attributes mentioned above, can certainly command respect wherever he is. Such a person is always able to achieve what he wants to achieve."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Perception of an Individual Influence Behavior",
+        "spans": [
+          "Perception of an Individual Influence Behavior",
+          "Perception is the process of knowing or understanding. A given situation is perceived differently by different people. If the perception of a person is correct he/his organization stands to benefit. If it turns out to be incorrect he/his organization loses.",
+          "Every organization requires people who are in a position to perceive things right. A person without the capacity to make correct perceptions has to listen to those who possess such a capacity. So perception of individuals greatly influence their behavior."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Attitudes of Individuals Influence Behavior",
+        "spans": [
+          "Attitudes of Individuals Influence Behavior",
+          "In the context of the workplace, attitude is the feeling of an employee about his job, his superiors and fellow-employees. Attitude may be positive or negative. An employee with a positive attitude likes his job, carries out the tasks assigned by his superior and maintains friendly relationships with the fellow-employees.",
+          "Employees with a negative attitude, on the other hand, are insincere in their work. They quarrel frequently with their superiors and fellow-workmen."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Values of an Individual Influence Behavior",
+        "spans": [
+          "Values of an Individual Influence Behavior",
+          "The ‘values’ of a person indicate to him as to what is good and what is bad. Different people have different values. For example, some people are spendthrifts while others consciously save. Some contribute to charity while others do not.",
+          "In the workplace the values of an individual do influence his behavior. For example, if an employee’s value system tells him that he should not strike work to express his grievances to the employer, he will not take part in strikes. Likewise, an employee, who wants to be sincere in his work, will not be whiling away his time."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Learning Influence Behavior",
+        "spans": [
+          "Learning Influence Behavior",
+          "Learning is the process of bringing about changes in an individual’s behavior. Employee absenteeism, for example, may be a problem faced in many organizations. As employees are eligible for certain types of leave, e.g., casual leave, sick leave, earned leave etc., they may be willing to avail the same. But this affects employee attendance.",
+          "To secure better employee attendance certain measures may be adopted. For example, casual leave and sick leave can be made encashable. Such a measure would encourage good attendance."
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "question": "why do people read negative internet comments",
+  "key_points": {
+    "null": [],
+    "clueweb22-zh_chs0005-64-15620": [],
+    "clueweb22-zh_chs0001-85-02231": [],
+    "clueweb22-en0002-95-12003": [
+      {
+        "point_number": 1,
+        "point_content": "Trolls tend to have an inability to build healthy relationships offline and may feel that they are not respected enough by their families or partner.",
+        "spans": [
+          "Research has shown that trolls tend to have an inability to build healthy relationships offline",
+          "they may feel that they are not respected enough by their families or partner"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Trolls lose a sense of responsibility and self-awareness due to anonymity, leading to unregulated behavior online.",
+        "spans": [
+          "Often, they lose a sense of responsibility and self-awareness – a process known as deindividuation – and their anonymity means that they have no need to regulate their behaviour online."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Trolling is posting unfavourable content purely as an end in itself, motivated by entertainment value and personality traits such as sadism and psychopathy.",
+        "spans": [
+          "'trolling' is actually considered a more specific form of behaviour",
+          "It's basically people who engage in inappropriate behaviour by posting unfavourable content purely as it is an end in its own right",
+          "The reasons for this have been found to be due to a number of factors, including seeking entertainment value and certain personality traits such as sadism and psychopathy."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Trolls are motivated by status, attention, hurting or upsetting people, and gaining online support, which gives them a sense of self-worth lacking in their offline lives.",
+        "spans": [
+          "They are motivated by status. Attracting attention, hurting or upsetting people, even getting online support from other trolls give them a sense of self-worth and importance that is likely to be lacking in their day to day, offline lives."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Posting hurtful messages to celebrities is amplified by visibility, which adds to the thrill and enjoyment for trolls.",
+        "spans": [
+          "As for sending hurtful messages to celebrities and those in the public eye, it's the visibility that bolsters the behaviour",
+          "It's part of the thrill and enjoyment that even those trolls who choose not to be anonymous find even more 'acceptable', as they can easily see inflammatory and malicious comments made by others."
+        ]
+      }
+    ],
+    "clueweb22-en0025-67-14882": [
+      {
+        "point_number": 1,
+        "point_content": "People read negative internet comments out of boredom or curiosity, to imbibe the wisdom of the crowd.",
+        "spans": [
+          "Out of boredom or curiosity, at times we all like to imbibe the wisdom of the crowd."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Negative comments influence readers' perceptions and can increase polarized opinions and risk perceptions.",
+        "spans": [
+          "Uncivil user comments, especially on less familiar topics, influence how readers interpret the preceding information.",
+          "The uncivil tone of the comments increased the readers’ risk perceptions."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Exposure to online negativity makes our own thinking negative and can increase hostile cognitions.",
+        "spans": [
+          "It also turns out that exposure to online negativity makes our own thinking negative – reading uncivil comments can immediately increase readers’ own hostile cognitions."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "People are influenced by comments especially when they lack knowledge on a subject, seeking and trusting others' opinions.",
+        "spans": [
+          "when we lack knowledge on a subject, we seek and trust other people’s opinions, regardless of their accuracy."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Reading other people’s comments can influence what kind of comments we publish ourselves, creating a snowball effect.",
+        "spans": [
+          "Reading other people’s comments can even influence what kind of comments we publish ourselves.",
+          "abusive comments tend to produce more abusive comments, and eventually lead to avalanches of online aggression.",
+          "positive comments can inspire people to leave more positive comments."
+        ]
+      }
+    ],
+    "clueweb22-en0000-35-14815": [
+      {
+        "point_number": 1,
+        "point_content": "People read negative internet comments out of curiosity and entertainment, similar to watching an accident happen.",
+        "spans": [
+          "It might be a bit like watching an accident happen: they're powerless to stop it, but won't look away.",
+          "The motives are simple really: curiosity and entertainment."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Comments help people understand where they fall in the range of perspectives about a particular view and can provide social comfort.",
+        "spans": [
+          "Comments help us understand where we fall in the range of perspectives about a particular view.",
+          "Sharing the same perspective as some of the commenters (whether it's at the original poster or a rebuttal) can help us feel less isolated, particularly if our view is held by the minority.",
+          "Or we can disagree with the poster and find comfort in knowing that we belong to some sort of social collective--that our responses are in line with the larger social order."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "People can feel superior by watching others make spectacles of themselves in comment sections, even if this feeling is short-lived.",
+        "spans": [
+          "There is also an entertainment factor to watching people make spectacles of themselves as they doggedly support erroneous facts.",
+          "It gives us a chance to feel superior.",
+          "So our sense of superiority is short-lived, but it gives a chance to say \"I would never do that,\" even as we shut the tab in our browser."
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,199 @@
+{
+  "question": "how cloud models work in the information age",
+  "key_points": {
+    "null": [],
+    "clueweb22-en0028-97-02845": [
+      {
+        "point_number": 1,
+        "point_content": "Cloud computing models include Infrastructure as a Service (IaaS), Platform as a Service (PaaS), and Software as a Service (SaaS), each providing different levels of service and control to users.",
+        "spans": [
+          "In general, three types of cloud computing models are defined [15–17]. These are Infrastructure as a Service (IaaS), Platform as a Service (PaaS), and Software as a Service (SaaS)."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "IaaS provides virtual computing resources such as servers, storage, and networking, allowing customers to create any desired computing environment by installing software of their choice.",
+        "spans": [
+          "the IaaS cloud computing model offers virtual computing resources (servers, storage and networking) as a service.",
+          "The advantage of this model is the flexibility it offers in allowing customers to create any desired computing environment by installing software of their choice."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "PaaS provides a platform for consumers to deploy applications without managing the underlying infrastructure, offering middleware tools and technologies to build platforms from infrastructure.",
+        "spans": [
+          "The PaaS model is the basis for the computing platform based upon hardware resources.",
+          "The cloud platform tier and the cloud operating system tier make up the cloud platform as a service (PaaS) including both preintegrated platforms offered only as a service and the middleware tools and technologies that enable platforms to be constructed from any combination of infrastructure"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "SaaS provides software applications as a service on demand, where clients use the software without managing the underlying hardware or platform layers.",
+        "spans": [
+          "The SaaS model is the software layer, which contains the business model.",
+          "In SaaS systems the thin clients rent and access the software functionality from providers on the Internet."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Cloud deployment models include private, public, hybrid, and community clouds, each with different control levels and risk profiles.",
+        "spans": [
+          "The most common types of cloud computing deployment models, according to the National Institute of Standards of Technology, are private, hybrid, community, and public.",
+          "The cloud deployment model describes the range of cloud deployment scenarios available to private, public, hybrid, and community enterprises"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Cloud computing enables delivery of applications via the Internet, reducing costs of owning and operating data centers and leveraging work of other software developers.",
+        "spans": [
+          "The cloud computing model affords the opportunity to deliver applications via the Internet, preclude the costs of owning and operating data centers, and leverage the work of other software developers."
+        ]
+      }
+    ],
+    "clueweb22-en0042-39-11736": [
+      {
+        "point_number": 1,
+        "point_content": "Cloud computing is the system of computer resources, infrastructure, computing power, and data storage that are available on-demand without user involvement.",
+        "spans": [
+          "The definition of cloud computing is the system of computer resources, infrastructure, computing power, and data storage that are available on-demand without user involvement."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Cloud providers fully manage the technical aspects of the service, making data accessible to multiple users via an online service.",
+        "spans": [
+          "The technical aspects of the service are fully managed by the provider. The data is made accessible to multiple users via an online service."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Users access cloud services by logging into a personal account from any device with internet access.",
+        "spans": [
+          "To access the information, a user needs to log in to a personal account."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Cloud computing offers pay-as-you-go pricing, scalability, global accessibility, simplicity, and secure infrastructure.",
+        "spans": [
+          "Paying for used services. One of the defining qualities of cloud storage is that you only pay for occupied space, computing power, used traffic, and other resources when you were using them.",
+          "Scalability. When the business is at initial development stages, business owners can acquire limited storage space, and upgrade the subscription once the company has expanded.",
+          "Global accessibility. Cloud services can be used anytime and anywhere.",
+          "Simplicity. Cloud providers take responsibility for setting up and maintaining the infrastructure.",
+          "Secure infrastructure. Cloud providers offer safe infrastructure, hundreds of customization instruments, versatile security and access settings."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Cloud computing deployment types include public cloud, private cloud, and hybrid cloud, each with different control and security levels.",
+        "spans": [
+          "Cloud computing offers three distinct types of deployment based on the availability of the data centers and the way these deployments relate to enterprise business needs.",
+          "What is a public cloud?",
+          "What is a private cloud?",
+          "What is a hybrid cloud?"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Cloud service models include Software as a Service (SaaS), Infrastructure as a Service (IaaS), Platform as a Service (PaaS), and Functions as a Service (FaaS), each providing different levels of service and control.",
+        "spans": [
+          "Cloud computing is a general term used to identify online delivery of data storage, processing, analytics, and other services, online without being dependent on local hardware.",
+          "Software as a Service",
+          "Infrastructure as a service",
+          "Platform as a Service",
+          "Functions as a service"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "SaaS provides users access to software applications hosted on the cloud on a subscription basis, accessible anytime and anywhere.",
+        "spans": [
+          "Software as a Service, also known as SaaS, is essentially a web platform that provides users access to cloud computing on a subscription basis.",
+          "SaaS services provide companies with data storage and management features."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "IaaS provides businesses with ready-to-use IT infrastructure such as virtual servers, storage, and development tools without needing to build their own infrastructure.",
+        "spans": [
+          "IaaS provides businesses with ready-to-use IT infrastructure: development environment, private networks, secure data storage, instruments for software development and testing, functionality monitoring, etc."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "PaaS offers access to development tools, APIs, and deployment environments to build, test, and run applications on the cloud.",
+        "spans": [
+          "Platform as a Service is software that provides access to development tools, APIs, and deployment instruments. Users receive access to virtual development environments and Cloud storage, where they can build, test, and run applications."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "FaaS allows developers to deploy individual functions or features of an application independently, facilitating easier and faster development and maintenance.",
+        "spans": [
+          "In FaaS, developers can break down the functionality of their software into individual features and edit them one by one. This additional abstraction level facilitates app development and maintenance."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Cloud computing works by connecting users to remote data centers via online servers, allowing file upload, storage, and access from any device with proper credentials.",
+        "spans": [
+          "For cloud computing to work, there should be at least one remote data center that a user can connect to via an online server. The user uploads files manually or automatically to the service.",
+          "The service assigns this data to the user’s profile, and it can be accessed from any device as long as the login credentials were entered correctly."
+        ]
+      }
+    ],
+    "clueweb22-en0021-95-18499": [
+      {
+        "point_number": 1,
+        "point_content": "Cloud computing is when computing services are stored and accessed over the internet instead of through physical hard drives.",
+        "spans": [
+          "Simply put, cloud computing is when computing services are stored and accessed over the internet instead of through physical hard drives."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Cloud computing refers to any kind of hosted service delivered over the internet, including servers, databases, software, networks, analytics and other computing functions.",
+        "spans": [
+          "Cloud computing refers to any kind of hosted service delivered over the internet. These services often include servers, databases, software, networks, analytics and other computing functions that can be operated through the cloud."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Files and programs stored in the cloud can be accessed anywhere by users on the service, eliminating the need to always be near physical hardware.",
+        "spans": [
+          "Files and programs stored in the cloud can be accessed anywhere by users on the service, eliminating the need to always be near physical hardware."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Cloud computing services are broken down into three major categories: software-as-a-service (SaaS), platform-as-a-service (PaaS) and infrastructure-as-a-service (IaaS).",
+        "spans": [
+          "Cloud computing services are broken down into three major categories: software-as-a-service (SaaS), platform-as-a-service (PaaS) and infrastructure-as-a-service (IaaS)."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The cloud is basically a decentralized place to share information through satellite networks, hosted by companies responsible for maintaining data centers providing security, storage capacity and computing power.",
+        "spans": [
+          "The cloud is basically a decentralized place to share information through satellite networks.",
+          "Every cloud application has a host, and the hosting company is responsible for maintaining the massive data centers that provide the security, storage capacity and computing power needed to maintain all of the information users send to the cloud."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Cloud computing generally follows three delivery models: public, private, and hybrid clouds, each with different access and infrastructure management.",
+        "spans": [
+          "Generally, cloud computing follows three delivery models:",
+          "Public",
+          "This is the most common and all of the players mentioned above (Amazon, Microsoft, Apple & Google) run public clouds accessible anywhere with login credentials and the right web app.",
+          "Private",
+          "This model offers the same kind of flexibility as the public cloud, but with the infrastructure needs (hosting, data storage, IT staff, etc.) provided by the companies or users of the service.",
+          "Additionally, the restricted access and hands-on management of hosting gives the private model an extra layer of security.",
+          "Hybrid",
+          "Hybrid cloud computing is a combination of the public and private models.",
+          "The two cloud types are linked over the internet and can share resources when needed (e.g., if the private cloud reaches storage capacity or becomes corrupted, the public cloud can step in and save the day)."
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,329 @@
+{
+  "question": "is intelligence genetic or environmental",
+  "key_points": {
+    "clueweb22-en0006-87-16773": [
+      {
+        "point_number": 1,
+        "point_content": "Intelligence is a complex trait that is influenced by both genetic and environmental factors.",
+        "spans": [
+          "intelligence is a complex trait that is influenced by both genetic and environmental factors"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Genetic factors underlie about 50 percent of the difference in intelligence among individuals.",
+        "spans": [
+          "genetic factors underlie about 50 percent of the difference in intelligence among individuals"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "It is likely that a large number of genes are involved, each of which makes only a small contribution to a person’s intelligence.",
+        "spans": [
+          "It is likely that a large number of genes are involved, each of which makes only a small contribution to a person’s intelligence"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Intelligence is also strongly influenced by the environment, including home environment, parenting, education, learning resources, and nutrition.",
+        "spans": [
+          "Intelligence is also strongly influenced by the environment. Factors related to a child’s home environment and parenting, education and availability of learning resources, and nutrition, among others, all contribute to intelligence"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Both environmental and genetic factors play a part in determining intelligence, and it can be challenging to separate their effects.",
+        "spans": [
+          "It is clear that both environmental and genetic factors play a part in determining intelligence"
+        ]
+      }
+    ],
+    "clueweb22-en0007-38-06334": [
+      {
+        "point_number": 1,
+        "point_content": "Both genetics and the environment play a role in determining intelligence.",
+        "spans": [
+          "Today, psychologists recognize that both genetics and the environment play a role in determining intelligence."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Twin studies suggest genetics may play a larger role than environmental factors in determining individual IQ.",
+        "spans": [
+          "Twin studies suggest that the variance in IQ is linked to genetics. This research suggests that genetics may play a larger role than environmental factors in determining individual IQ."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Intelligence is influenced by complex interactions between many genes and environmental factors.",
+        "spans": [
+          "One important thing to note about the genetics of intelligence is that it is not controlled by a single \"intelligence gene.\" Instead, it is the result of complex interactions between many genes.",
+          "Next, it is important to note that genetics and the environment interact to determine exactly how inherited genes are expressed."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "A child with genes for brightness may not score well on IQ if raised in a deprived environment.",
+        "spans": [
+          "A child may be born with genes for brightness, but if that child grows up in a deprived environment where he is malnourished and lacks access to educational opportunities, he may not score well on measures of IQ."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "IQ scores of identical twins are more similar than those of fraternal twins, indicating genetic influence.",
+        "spans": [
+          "Studies show that IQ scores of identical twins may be more similar than those of fraternal twins."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Siblings raised together have more similar IQs than adopted children raised together, showing environmental influence.",
+        "spans": [
+          "Siblings who were raised together in the same environment have more similar IQs than those of adopted children who were brought up in the same household."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Identical twins raised separately have less similar IQs than those raised together, showing environmental impact.",
+        "spans": [
+          "Identical twins who were raised separately have less similar IQs than those of identical twins who grew up in the same household."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "School attendance and breastfeeding duration have positive impacts on IQ scores.",
+        "spans": [
+          "School attendance has an impact on IQ scores .",
+          "Children who breastfed for 12 months or longer had a higher IQ (about 3.7 points) at age 30."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "First-born children tend to have higher IQs than later-born siblings due to more parental attention and expectations.",
+        "spans": [
+          "For example, studies have found that first-born children tend to have higher IQs than later-born siblings.",
+          "Many experts believe that this is because first-born children receive more attention from parents. Research also suggests that parents expect older children to perform better on a variety of tasks, whereas later-born siblings face lesser task-focused expectations."
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0033-12-14153": [
+      {
+        "point_number": 1,
+        "point_content": "Intelligence is influenced by many different genetic and environmental factors.",
+        "spans": [
+          "intelligence is a complex trait, so it is “influenced by many different genetic and environmental factors.”"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Identical twins with 100% shared DNA have very similar IQ levels even when raised apart, indicating genetics has a strong influence on intelligence but environment is also important.",
+        "spans": [
+          "Identical twins have 100 percent shared DNA, so their intelligence levels are very similar. A study shows that even when raised in separate households, the identical twins still have extremely similar IQ levels, which means we can gather that genetics holds more weight on the intelligence scale than where one was raised, but environment is still a key factor."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Heritability of intelligence is around 50% and rises to 75% by late adolescence, but environmental factors like schooling also play a large part in intelligence.",
+        "spans": [
+          "Molecular biologist Robert Plomin says that heritability of intelligence is around 50 percent and rises to 75 percent by late adolescence because “family influences on cognition are deemed to diminish throughout development” (Plomin).",
+          "environmental aspects, such as how many years of schooling someone has, plays a large part in their intelligence level, as well as genetics does."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Environmental factors such as how a child is raised, attention from parents, schooling, and wealth play a huge role in intelligence.",
+        "spans": [
+          "environmental situations play a huge role in someone’s intelligence, such as factors like they way the child was raised, attention from parents, schooling, wealth, and many other factors."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Intelligence is a combination of both genetic inheritance and environmental factors.",
+        "spans": [
+          "it’s not necessarily one or the other, but a combination of both factors that makes up our intelligence level and our intelligence capabilities."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Emotional intelligence (EQ) may be more influenced by environmental factors and can be learned better than 'book smart' intelligence, but it also has a genetic component.",
+        "spans": [
+          "The article expresses that the EQ level you are born with is firm, but not rigid. It is influenced by early childhood experiences and genetics, the article claims.",
+          "I would guess that emotional intelligence can be learned better than intelligence can be learned, but it does not come naturally to everyone."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "People with average or below average IQ can improve their intelligence through dedication and hard work, though it may be more difficult than for those born with higher intelligence.",
+        "spans": [
+          "Anyone can, if they dedicate their time and work hard enough, can achieve what they set out to achieve, it may just come more difficult to them than someone who was born with a higher level of intelligence."
+        ]
+      }
+    ],
+    "clueweb22-en0022-61-06104": [
+      {
+        "point_number": 1,
+        "point_content": "Genetic predisposition accounts for 54 to 65 percent of differences in children’s test scores.",
+        "spans": [
+          "genetic predisposition accounted for 54 to 65 percent of differences in children’s tests scores"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "External factors such as school attended and home environment account for only 12 to 21 percent of score differences.",
+        "spans": [
+          "external factors, such as what school the child attended and what type of home environment they had accounted for only 12 to 21 percent of the score differences"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "A 2012 study found that having a loving and nurturing mother significantly contributed to a child’s eventual intelligence.",
+        "spans": [
+          "a 2012 study from Washington University in St. Louis found that having a loving and nurturing mother significantly contributed to a child’s eventual intelligence"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Children whose mothers nurtured them early in life had a larger hippocampus, linked to learning and memory.",
+        "spans": [
+          "children whose mothers nurtured them early in life had a larger hippocampus, an area of the brain linked to learning and memory"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Playing a musical instrument early in life could be a strong predictor of academic success and better cognitive test performance.",
+        "spans": [
+          "playing a musical instrument early in life could be a strong predictor of academic success",
+          "musicians' brains were more active than the non-musicians' brains, and they performed better on cognitive tests"
+        ]
+      }
+    ],
+    "clueweb22-en0024-45-01102": [
+      {
+        "point_number": 1,
+        "point_content": "Intelligence is influenced by both genetic and environmental factors, with debate about the extent of each influence.",
+        "spans": [
+          "Whether nature or nurture influences intelligence remains a matter of debate between geneticists and environmentalists, and sits at about 50/50."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Heritability of intelligence is estimated to be as high as 80% in adulthood, indicating a strong genetic component.",
+        "spans": [
+          "It has been reported that heritability for intelligence increases during development, resulting in heritability as high as 80% in adulthood"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Environmental factors such as socio-economic status significantly affect intelligence test scores.",
+        "spans": [
+          "Environmental conditions such as socio-economic status have been shown to play a significant role in intelligence.",
+          "A study by Wahlsten [9] showed that children transferred from a home with low socio-economic status to a home with high socio-economic status improved their test scores as much as 16 points."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Twin and adoptee studies show higher correlation of intelligence in monozygotic twins compared to dizygotic twins, supporting genetic influence.",
+        "spans": [
+          "Large sample size studies in monozygotic (MZ) and dizygotic (DZ) twins raised together show an average correlation of .86 for MZ twins, while the correlation for DZ twins is only .60."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Shared environment accounts for about one third of the variance in intelligence among individuals.",
+        "spans": [
+          "there was a .19 correlation for adoptive parents and their adopted children and a .32 correlation for the adopted siblings who had no genetic relatedness, suggesting the shared environment could be responsible for a third of the total variance of g between individuals"
+        ]
+      }
+    ],
+    "clueweb22-en0002-05-08272": [
+      {
+        "point_number": 1,
+        "point_content": "Heritability can be used to determine the role that genetics and environment play in determining an individual’s intellectual aptitude.",
+        "spans": [
+          "Heritability, “the proportion of observed variation in a particular trait that can be attributed to inherited genetic factors in contrast to environmental ones” (Merriam-Webster’s collegiate dictionary, 1999), can be used to determine the role that genetics and environment play in determining an individual’s intellectual aptitude."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Environmental and genetic factors both play a significant role in intelligence, and intelligence is often expressed as IQ.",
+        "spans": [
+          "Environmental and genetic factors may go hand in hand as one’s intelligence may not be dependent not on one of them, but both.",
+          "Intelligence is the ability to acquire and apply knowledge and skills, and is often expressed as IQ (intellectual quotient)."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Socioeconomic status alters the genetic and shared environmental influences on IQ in children.",
+        "spans": [
+          "Turkheimer et al. (2003) was a study conducted to test the genotype-environment interaction in the intelligence of young children.",
+          "it was concluded that genetic and shared environmental influences on IQ were altered by the socioeconomic status of the children (Harden, 273).",
+          "For underprivileged children, shared environmental influences were responsible for nearly 60% of the variance, while genetic factors were responsible for minor variance.",
+          "For privileged children, the results were the opposite, with genetic factors being responsible for a majority of the variance."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "In adolescents, genetic influences on cognitive aptitude are higher in families with higher income, while shared environment influences are higher in families with lower income.",
+        "spans": [
+          "Genetic influences were responsible for close to 55% of the variance in adolescents’ cognitive aptitude while shared environmental influences were responsible for about 35% of the variance amid families of higher income (Holden 280).",
+          "Amid families of lower income, the proportions were quite the opposite, with genetics influences being responsible for around 39% of the variance and shared environment being responsible for nearly 45% of the variance."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Socioeconomic status may reflect both genetic differences between parents and differences in the environment provided for children, complicating interpretation of genotype-environment interaction.",
+        "spans": [
+          "The difficulty lies in the idea that socioeconomic status most likely reflects genetic difference between parents as well as differences in the the condition of the environment provided for the children."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Genetic factors can directly impact mental ability through mechanisms such as neural information processing speed, brain size, and brain structure.",
+        "spans": [
+          "Some of the genetic effects on mental ability appear to be mediated by the speed of neural information processing (Luciano et al., 2004), and others by brain size (Posthuma et al., 2002) or brain structure (Toga and Thompson, 2005)."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Mental deficiency can be caused by serious mutations in specific genes, but normal IQ variation is believed to be influenced by genetic variants with smaller effects.",
+        "spans": [
+          "Mental deficiency is a symptom of several uncommon genetic diseases that are the outcome of significant single-gene defects.",
+          "IQ variation in the normal range in believed to be contributed to genetic variants with smaller effects (Meisenburg, 140)."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "New mutations may contribute to lower intelligence in the normal population, as suggested by the association of advanced paternal age with lower IQ in children.",
+        "spans": [
+          "The hypothesis that new mutations are also an important cause of low intelligence in the “normal” population is hard to test directly, but it does make a testable prediction: IQ declines with advanced paternal age",
+          "A recent study exhibited that a paternal age over 45 corresponds with lower IQ in the child."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Certain gene polymorphisms have been associated with variability in IQ scores.",
+        "spans": [
+          "At least seven candidate genes have corresponded with general intelligence so far.",
+          "A group led by David Comings of the City of Hope Medical Center in California reported the association of general intelligence with a polymorphism in the CHRM2 (cholinergic receptor, muscarinic type 2) gene (Comings et al., 2003)."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Monozygotic twins raised apart have very similar IQ scores, suggesting a strong genetic influence on intelligence.",
+        "spans": [
+          "Using heritability, it was found that the IQ scores of the monozygotic twins raised apart were very similar.",
+          "It was also found that the variation of IQ between monozygotic twins was not only low between those raised apart, but also between those raised together."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Genetic factors account for about 70 percent of the variation in IQ, and genetic factors control the effects of environmental factors on intelligence.",
+        "spans": [
+          "First, the authors state that the genetic factors strongly influence the behavior and general intelligence of individuals and accounts for about 70 percent of the variation in IQ.",
+          "Finally, the authors state that genetic factors control the effects of environmental factors."
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "question": "how smart, connected products are transforming competition",
+  "key_points": {
+    "null": [],
+    "clueweb22-en0037-17-13329": [
+      {
+        "point_number": 1,
+        "point_content": "Smart, connected products have unleashed a new era of competition.",
+        "spans": [
+          "These \"smart, connected products\"—made possible by vast improvements in processing power and device miniaturization and by the network benefits of ubiquitous wireless connectivity—have unleashed a new era of competition."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Products have evolved from solely mechanical and electrical parts to complex systems combining hardware, sensors, data storage, microprocessors, software, and connectivity.",
+        "spans": [
+          "Once composed solely of mechanical and electrical parts, products have become complex systems that combine hardware, sensors, data storage, microprocessors, software, and connectivity in myriad ways."
+        ]
+      }
+    ],
+    "clueweb22-en0018-19-03525": [
+      {
+        "point_number": 1,
+        "point_content": "The evolution of products into intelligent, connected devices is revolutionizing business.",
+        "spans": [
+          "The evolution of products into intelligent, connected devices is revolutionizing business."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Smart, connected products are changing the structure of industries and forcing firms to rethink their strategies.",
+        "spans": [
+          "how this shift is changing the structure of industries and forcing firms to rethink their strategies."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Smart, connected products impact operations and organizational structure inside firms.",
+        "spans": [
+          "the effects inside firms, examining the impact that smart, connected products have on operations and organizational structure."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Smart, connected products offer new capabilities and vast quantities of data that redefine core company functions.",
+        "spans": [
+          "The new capabilities and vast quantities of data that smart, connected products offer are redefining the activities of the core functions of companies--sometimes radically."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Software and cloud-based operating systems become integral to products, changing product development, manufacturing, and IT security.",
+        "spans": [
+          "As software and cloud-based operating systems become integral to products, new product-development principles emerge, manufacturing components and processes change, and IT security becomes the job of every function."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Smart, connected products require different skills and expertise, creating new imperatives for HR.",
+        "spans": [
+          "Companies need different skills and expertise, which creates new imperatives for HR."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Marketing shifts focus to maximizing product value over time using product condition and use tracking.",
+        "spans": [
+          "In the marketing function, the ability to track a product's condition and use shifts the focus to maximizing the product's value to the customer over time."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Customer relationships become continuous and open-ended, service becomes more efficient and proactive, and new business models are enabled.",
+        "spans": [
+          "Customer relationships become continuous and open-ended, service becomes more efficient and proactive, and new business models are enabled."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Rich data on location and environment enhance logistics.",
+        "spans": [
+          "The rich data on location and environment that products provide take logistics to a whole new level."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Smart, connected products alter interactions between functions, requiring intense coordination across design, operations, sales, service, and IT.",
+        "spans": [
+          "Smart, connected products also alter interactions between functions, in ways that hold major implications for organizational structure. Intense, ongoing coordination becomes necessary across multiple functions, including design, operations, sales, service, and IT."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Functional roles overlap and blur, and new functions like unified data organizations, dev-ops, and customer success management emerge.",
+        "spans": [
+          "Functional roles overlap and blur. Entirely new functions--unified data organizations, dev-ops, and customer success management--begin to emerge."
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "This transformation is the most substantial change in manufacturing since the Second Industrial Revolution and is spreading to other industries.",
+        "spans": [
+          "What is under way is the most substantial change in the manufacturing firm since the Second Industrial Revolution, and the effects are spreading to other industries, like services, as well."
+        ]
+      }
+    ]
+  }
+}

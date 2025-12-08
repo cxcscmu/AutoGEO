@@ -1,0 +1,554 @@
+{
+  "question": "are men and women psychologically different?",
+  "key_points": {
+    "clueweb22-en0017-95-16469": [
+      {
+        "point_number": 1,
+        "point_content": "Women tend to be warmer and more sensitive on average, while men tend to be more assertive.",
+        "spans": [
+          "Women, for instance, tend to be warmer and more sensitive (on average) while men tend to be more assertive"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Women were significantly better at identifying disgust in facial expressions than men.",
+        "spans": [
+          "women were significantly better at identifying disgust"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Men experienced more loneliness in midlife, while women experienced more loneliness in old age.",
+        "spans": [
+          "men experienced more loneliness in midlife and women experienced more loneliness in old age"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Men spent more time engaging in leisure activities than women, but women reported higher satisfaction from leisure activities.",
+        "spans": [
+          "men, on average, engaged in approximately 113 minutes of daily leisure activities while women totaled approximately 101 minutes",
+          "women reported significantly higher levels of satisfaction"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Men communicate more abstractly than women, who tend to speak about specifics.",
+        "spans": [
+          "men were significantly more likely to speak in the abstract than were women",
+          "One gender difference that has been pointed to anecdotally is the tendency of women to speak about specifics and men to speak about the bigger picture"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Female early adolescents exhibited higher levels of conscientiousness than males and showed a greater increase in conscientiousness from age 9 to 13.",
+        "spans": [
+          "Female early adolescents exhibited higher levels of conscientiousness than males",
+          "Females also showed a greater increase in conscientiousness from age 9 to 13 than males"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Boys showed more decline in neuroticism over time than girls during early adolescence.",
+        "spans": [
+          "it was boys who showed more decline in the trait over time than girls"
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Male extraverts tend to experience romantic happiness and occupational commitment more than female extraverts.",
+        "spans": [
+          "female extraverts showed less of a tendency to experience romantic happiness and were less likely to have a high degree of occupational commitment, compared to male extraverts"
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "There are stable and predictable personality differences between genders, allowing gender to be guessed about 85% of the time based on personality profile alone.",
+        "spans": [
+          "Most psychologists agree that there are stable and predictable personality differences between the genders",
+          "One study found that knowing the personality profile of an individual, without knowing his or her gender, made it possible to correctly guess his or her gender about 85% of the time"
+        ]
+      }
+    ],
+    "clueweb22-en0033-01-03968": [
+      {
+        "point_number": 1,
+        "point_content": "Men and women are basically alike in terms of personality, cognitive ability and leadership.",
+        "spans": [
+          "men and women are basically alike in terms of personality, cognitive ability and leadership"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Males and females from childhood to adulthood are more alike than different on most psychological variables.",
+        "spans": [
+          "males and females from childhood to adulthood are more alike than different on most psychological variables"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Gender differences had either no or a very small effect on most of the psychological variables examined.",
+        "spans": [
+          "gender differences had either no or a very small effect on most of the psychological variables examined"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Only a few main differences appeared: men could throw farther, were more physically aggressive, masturbated more, and held more positive attitudes about sex in uncommitted relationships.",
+        "spans": [
+          "Compared with women, men could throw farther, were more physically aggressive, masturbated more, and held more positive attitudes about sex in uncommitted relationships"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Gender differences seem to depend on the context in which they were measured and are influenced by gender roles and social context.",
+        "spans": [
+          "gender differences seem to depend on the context in which they were measured",
+          "gender roles and social context strongly determined a person's actions"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Gender differences fluctuate with age, growing smaller or larger at different times in the life span, indicating that any differences are not stable.",
+        "spans": [
+          "gender differences fluctuate with age, growing smaller or larger at different times in the life span"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Media depictions of men and women as fundamentally different perpetuate misconceptions despite lack of evidence.",
+        "spans": [
+          "Media depictions of men and women as fundamentally \"different\" appear to perpetuate misconceptions - despite the lack of evidence"
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Exaggerated claims of gender difference can negatively affect children, such as the belief that boys are better than girls in math, though boys and girls perform equally well in math until high school.",
+        "spans": [
+          "children also suffer the consequences of exaggerated claims of gender difference -- for example, the widespread belief that boys are better than girls in math",
+          "boys and girls perform equally well in math until high school"
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Claims of gender difference can hurt women's opportunities in the workplace, dissuade couples from resolving conflicts, and harm children's self-esteem.",
+        "spans": [
+          "The claims [of gender difference] can hurt women's opportunities in the workplace, dissuade couples from trying to resolve conflict and communication problems and cause unnecessary obstacles that hurt children and adolescents' self-esteem"
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Even when cognitive differences are found between males and females, differences are not deficiencies and are influenced by biological and environmental factors.",
+        "spans": [
+          "differences are not deficiencies",
+          "the continuous interplay of biological and environmental influences can change the size and direction of the effects some time in the future"
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0006-47-19808": [
+      {
+        "point_number": 1,
+        "point_content": "Men and women do not categorically vary in the 'Big Five' personality traits of psychology — openness, conscientiousness, extraversion, agreeableness and neuroticism.",
+        "spans": [
+          "The “Big Five” personality traits of psychology — openness, conscientiousness, extraversion, agreeableness and neuroticism — do not categorically vary between men and women."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Women were not found to be significantly more intimate in their relationships, and science inclination did not overwhelmingly favor men.",
+        "spans": [
+          "Contrary to stereotypes, women were not found to be significantly more intimate in their relationships, and science inclination did not overwhelmingly favor men."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Masculinity and femininity are not all-or-nothing traits but exist on a continuum.",
+        "spans": [
+          "And masculinity and femininity, the study found, “are not all-or-nothing traits…they are truly a continuum.”"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Men and women consistently overlapped in attitudes and traits like empathy, fear of success and mate selection, indicating that sex differences are not categorical, but more a matter of degree.",
+        "spans": [
+          "Men and women consistently overlapped in attitudes and traits like empathy, fear of success and mate selection, indicating that sex differences are not categorical, but more a matter of degree."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "For 122 different characteristics, a statistical analysis of 13,301 individuals did not reveal any distinct differences between men and women.",
+        "spans": [
+          "For 122 different characteristics, from empathy to sexuality to science inclination to extroversion, a statistical analysis of 13,301 individuals did not reveal any distinct differences between men and women."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "While there are average differences between the sexes, they aren’t consistent enough to accurately characterize the entire group.",
+        "spans": [
+          "While there are average differences between the sexes, they aren’t consistent enough to accurately characterize the entire group."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "The possession of traits associated with gender is not as simple as ‘this or that’.",
+        "spans": [
+          "“The possession of traits associated with gender is not as simple as ‘this or that'” the authors write."
+        ]
+      }
+    ],
+    "clueweb22-en0034-40-02366": [
+      {
+        "point_number": 1,
+        "point_content": "There are large differences in personalities between men and women according to a new study.",
+        "spans": [
+          "there are large differences in their personalities, a new study suggests"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "About 18 percent of women share similar personalities with men, and 18 percent of men share similar personalities with women, but the majority have distinct personality traits.",
+        "spans": [
+          "about 18 percent of women share similar personalities with men, and 18 percent of men share similar personalities with women. But the majority of women have personality traits that are quite distinct from those of men, and vice versa"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Men tend to be more dominant and emotionally stable, while women tend to be more sensitive, warm, and apprehensive.",
+        "spans": [
+          "Men tend to be more dominant (forceful and aggressive) and emotionally stable, while women tend to be more sensitive, warm (attentive to others) and apprehensive"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The study suggests men and women are almost a different species psychologically.",
+        "spans": [
+          "Psychologically, men and women are almost a different species"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The study analyzed data from over 10,000 people aged 15 to 92 in the US using a personality test measuring 15 personality facets.",
+        "spans": [
+          "Irwing and colleagues analyzed information from more than 10,000 people in the United States between the ages of 15 and 92 who took a personality test. The tests were designed to measure 15 personality facets"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "The researchers computed a 'global difference' in personality between men and women by summing all differences across personality facets.",
+        "spans": [
+          "The researchers then combined the scores on these personality facets to compute what they call the \"global difference\" in personality between men and women. The \"global difference,\" is essentially a sum of all the differences"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Some experts criticize the study's methods and argue men and women are not so dissimilar after all.",
+        "spans": [
+          "the paper, published today (Jan. 4) in the journal PLoS ONE, has drawn criticism from others in the field who argue the methods the researchers used for computing their results are flawed, and that men and women are not so dissimilar after all"
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Self-assessment of personality traits may be biased by gender stereotypes.",
+        "spans": [
+          "the men and women in the study assessed their own personality traits. People may be inclined to rate themselves in a way that conforms with gender stereotypes"
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "The 'global difference' value used in the study is criticized as uninterpretable and biased to maximize differences.",
+        "spans": [
+          "using the 15 personality facets to compute a \"global difference\" gives you a value that doesn't have any actual meaning",
+          "the way the researchers crunched their numbers biases their results, because their method maximizes the differences between males and females"
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "The 'global difference' value increases with the number of personality factors considered, which may exaggerate differences.",
+        "spans": [
+          "the \"global difference\" value will actually get bigger the more personality factors the researchers consider (so analyzing 15 factors will show a greater difference than analyzing five factors)"
+        ]
+      }
+    ],
+    "clueweb22-en0005-07-03646": [
+      {
+        "point_number": 1,
+        "point_content": "There are inherent differences in how men’s and women’s brains are wired and how they work.",
+        "spans": [
+          "there’s been a sea change as new technologies have generated a growing pile of evidence that there are inherent differences in how men’s and women’s brains are wired and how they work."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Women excel in several measures of verbal ability, reading comprehension, writing ability, fine-motor coordination, perceptual speed, and retrieving information from long-term memory.",
+        "spans": [
+          "Women excel in several measures of verbal ability — pretty much all of them, except for verbal analogies. Women’s reading comprehension and writing ability consistently exceed that of men, on average. They out­perform men in tests of fine-motor coordination and perceptual speed. They’re more adept at retrieving information from long-term memory."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Men have superior visuospatial skills, better at visualizing rotated shapes, determining angles, tracking moving objects, and aiming projectiles.",
+        "spans": [
+          "Men, on average, can more easily juggle items in working memory. They have superior visuospatial skills: They’re better at visualizing what happens when a complicated two- or three-dimensional shape is rotated in space, at correctly determining angles from the horizontal, at tracking moving objects and at aiming projectiles."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Many cognitive differences appear early in life, with infant girls responding more to faces and boys reacting earlier to visual discrepancies.",
+        "spans": [
+          "Many of these cognitive differences appear quite early in life. “You see sex differences in spatial-visualization ability in 2- and 3-month-old infants,” Halpern says. Infant girls respond more readily to faces and begin talking earlier. Boys react earlier in infancy to experimentally induced perceptual discrepancies in their visual environment."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Women’s brains show more coordinated activity between hemispheres, men’s brains show more tightly coordinated activity within local brain regions.",
+        "spans": [
+          "The two hemispheres of a woman’s brain talk to each other more than a man’s do. In a 2014 study, University of Pennsylvania researchers imaged the brains of 428 male and 521 female youths — an uncharacteristically huge sample — and found that the females’ brains consistently showed more strongly coordinated activity between hemispheres, while the males’ brain activity was more tightly coordinated within local brain regions."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Brain regions that differ in size between men and women tend to contain high concentrations of receptors for sex hormones, influenced by testosterone and estrogens.",
+        "spans": [
+          "In general, brain regions that differ in size between men and women (such as the amygdala and the hippocampus) tend to contain especially high concentrations of receptors for sex hormones.",
+          "One big reason is that, for much of their lifetimes, women and men have different fuel additives running through their tanks: the sex-steroid hormones."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Sex chromosomes contribute to brain differences, with females having XX and males XY, affecting brain physiology and cognition.",
+        "spans": [
+          "Another key variable in the composition of men versus women stems from the sex chromosomes, which form one of the 23 pairs of human chromosomes in each cell. Generally, females have two X chromosomes in their pair, while males have one X and one Y chromosome.",
+          "Sex-based differences in brain structure and physiology reflect the alchemy of these hormone/receptor interactions, their effects within the cells, and the intermediating influence of genetic variables — particularly the possession of an XX versus an XY genotype, says Cahill."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Sex-specific behaviors are regulated by neural or genetic modules influenced by genetic and hormonal signals, masculinized or feminized by early testosterone exposure.",
+        "spans": [
+          "All this points to a picture of at least parts of the brain as consisting of modules. Each module consists of a neural or genetic pathway in charge of one piece of a complicated behavior, and responds to genetic and hormonal signals. These modules — or at least some of them — are masculinized or feminized, respectively, by the early testosterone rush or its absence."
+        ]
+      }
+    ],
+    "clueweb22-en0039-46-05398": [
+      {
+        "point_number": 1,
+        "point_content": "The communication center inside a woman's brain is much larger than the communication center inside a man's brain. Women are generally better able to process words and to use language than men.",
+        "spans": [
+          "The communication center inside a woman's brain is much larger than the communication center inside a man's brain.",
+          "Women are generally better able to process words and to use language than men"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Men in general are more independent than women and prefer to solve problems alone, while women become distressed if they don't share their problems with friends.",
+        "spans": [
+          "Men in general are more independent than women.",
+          "They even prefer to solve their problems alone without talking about them.",
+          "Women on the other hand become distressed if they didn't share their problems with their friends"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The area inside the brain responsible for sexual desire is much bigger inside the man's brain, leading men to think about sex more often and care more about looks than women.",
+        "spans": [
+          "The area inside the brain responsible for sexual desire is much bigger inside the man's brain",
+          "Men think about sex more often than women",
+          "Men care about looks much more than women care about looks"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Women are biologically wired to avoid conflict, while men are much more aggressive in general.",
+        "spans": [
+          "Women are biologically wired to avoid conflict unless some other psychological factor comes into play and affects their original nature",
+          "Men on the other hand are much more aggressive in general"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Men in general can take decisions without being emotionally affected much, while women take into consideration emotional factors.",
+        "spans": [
+          "Men in general can take decisions without being emotionally affected that much",
+          "women in general take into consideration other factors that are related to emotions"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "The psychological differences discussed are the factory settings or initial programming of men and women, which can be overridden by external influences and life experiences.",
+        "spans": [
+          "The differences i discussed above are the factory settings or the initial programming that both men and women are created with",
+          "Because of the external influences that latter affect the development of their personalities some men and women override their initial programming and act against their nature"
+        ]
+      }
+    ],
+    "clueweb22-en0023-93-13173": [
+      {
+        "point_number": 1,
+        "point_content": "Meta-analytic studies have shown that 75-80 percent of all of the variables studied showed little or no differences between men and women.",
+        "spans": [
+          "Meta-analytic studies have shown that 75-80 percent of all of the variables studied showed little or no differences between men and women."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "On approximately 20 percent of the variables studied, differences do appear to exist between men and women, although the exact nature of those differences is still up for debate.",
+        "spans": [
+          "But on approximately 20 percent of the variables studied, differences do appear to exist between men and women, although the exact nature of those differences is still up for debate."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Men tend to think more globally, while women tend to focus more on details and subtleties.",
+        "spans": [
+          "Men tend to think more globally, while women tend to focus more on details and subtleties."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Men tend to take risks and experiment when they create or build, while women tend to guard the most valuable knowledge they find and pass it on.",
+        "spans": [
+          "Men tend to take risks and experiment when they create or build, while women tend to guard the most valuable knowledge they find and pass it on."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Men tend to be more independent in their thinking whereas women are more willing to cooperate.",
+        "spans": [
+          "Men tend to be more independent in their thinking whereas women are more willing to cooperate."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Women tend to make lower self-appraisals than men.",
+        "spans": [
+          "Women tend to make lower self-appraisals than men."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Men tend to find more satisfaction in career and prosperity, while women tend to value their families more.",
+        "spans": [
+          "Men tend to find more satisfaction in career and prosperity, while women tend to value their families more."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Men tend to prioritize their personal goals, while women tend to prioritize relationships.",
+        "spans": [
+          "Men tend to prioritize their personal goals, while women tend to prioritize relationships."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Men tend to get sick more than women, but women tend to be more concerned with their health than men.",
+        "spans": [
+          "Men tend to get sick more than women, but women tend to be more concerned with their health than men."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Women tend to handle monotony and endure hardship and pain better than men.",
+        "spans": [
+          "Women tend to handle monotony and endure hardship and pain better than men."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Fair, unbiased, scientific study of the true differences between men and women is in its infancy and it will be some time before scientists reach a consensus about whether significant differences really exist and to what extent cultural vs. genetic factors account for the differences.",
+        "spans": [
+          "One caveat: Fair, unbiased, scientific study of the true differences between men and women is in its infancy. It will be some time before scientists reach a consensus about whether significant differences between men and women really exist and to what extent cultural vs. genetic factors account for the differences."
+        ]
+      }
+    ],
+    "clueweb22-en0028-54-13729": [
+      {
+        "point_number": 1,
+        "point_content": "Men give too much attention to how women look, while women possibly do not give so much time and attention about how men look.",
+        "spans": [
+          "Men give too much attention to how women look.",
+          "Women possibly do not give so much time and attention about how men look."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Men generally don’t listen carefully to what women say, while women pay way too much attention to what is said by men and also to what is not said.",
+        "spans": [
+          "generally men don’t listen carefully to what women say.",
+          "women pay way too much attention to what is said by men. Not only that, women are also smart in paying attention to what is not said."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Women can control their smiles professionally for photographs, while men either smile or don’t smile depending on individual programming.",
+        "spans": [
+          "Most women can control their smiles very professionally.",
+          "Whereas men either smile or don’t smile. It depends on the individual’s programming."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Women laugh only when it is appropriate and look decent, while men can laugh at anything, anytime and anywhere.",
+        "spans": [
+          "If there is something really funny women will laugh only when it is appropriate and it looks decent.",
+          "Men can laugh at anything, anytime and anywhere as long as it tickles their funny bone"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Women prioritize keeping the kitchen clean, men prioritize cleaning their cars.",
+        "spans": [
+          "Women like to keep their kitchen clean.",
+          "men are psychologically programmed clean their cars."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Men approach problem solving scientifically and systematically, women find easy and practical solutions faster without overlooking aspects.",
+        "spans": [
+          "Men tend to very scientifically approach the issue.",
+          "women normally come out with an easy and more practical approach."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Men’s behavior is influenced by facts and logic, women’s behavior is influenced by intuition and emotions.",
+        "spans": [
+          "Men’s behavior has two important components and these are facts and logic, while women’s behavior is influenced by their intuition and emotions."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Men are more eager to write autobiographies for fame, fewer women choose to write autobiographies for social identity.",
+        "spans": [
+          "men are more eager to write the autobiographies for fame",
+          "there are fewer number of women who have chosen to create social identity by writing autobiographies."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Women relax by interacting with friends or family, men relax by seeking solitude or passive activities.",
+        "spans": [
+          "women would typically want to interact with friends or family.",
+          "men prefer to shut themselves away from the world for some time. The seek solitude and be left alone or they would like to slip into a passive activity such as watch TV or listen to music."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Women love surprises and romantic gestures in love, men respond well to a simple ‘I love you’.",
+        "spans": [
+          "women love surprises. Women love and care about love letters, candle light dinners, poems, romantic stories, chocolates, greetings cards and flowers.",
+          "a simple ‘I love you’ will work wonders for most men."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "There are no real psychological differences between behavior of men and women; differences perceived are due to cultural background and personal experiences.",
+        "spans": [
+          "there are no real psychological differences between behavior of men and women.",
+          "because of different cultural background and personal experiences there could be difference perceived by individuals."
+        ]
+      }
+    ]
+  }
+}

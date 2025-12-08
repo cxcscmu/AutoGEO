@@ -1,0 +1,576 @@
+{
+  "question": "how can students protect the environment",
+  "key_points": {
+    "clueweb22-en0030-25-06960": [
+      {
+        "point_number": 1,
+        "point_content": "Students can help save the environment through simple and practical ways included in their daily routine.",
+        "spans": [
+          "Through simple and practical ways, you can help Earth. Just include them in your daily routine"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Simply disposing of your trash properly is a big help in saving the environment from pollution.",
+        "spans": [
+          "Simply disposing of your trash properly is already a big help on how to save the environment from pollution."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Changing your daily lifestyle is already a great help to save the environment.",
+        "spans": [
+          "Simply changing your daily lifestyle is already a great help!"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Using your own water tumbler instead of plastic bottles and straws helps save the environment.",
+        "spans": [
+          "Do you still use plastic bottles and straws? Or have you switched to owning your own water tumbler?"
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0030-65-00580": [
+      {
+        "point_number": 1,
+        "point_content": "Children can help protect the environment by precycling, which means reducing waste before it becomes waste by buying in bulk, only buying what you need, favoring less packaging, using things longer and using them up, sharing resources.",
+        "spans": [
+          "Precycle. Try to reduce waste before it becomes waste by buying in bulk, only buying what you need, favoring less packaging, using things longer and using them up, sharing resources, etc."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Teach kids to recycle with purpose by reading packaging to determine recyclability and making recycling a habit.",
+        "spans": [
+          "Recycle with purpose! Not all plastics are created equal, and recycling takes some degree of effort. Teach kids how to read the packaging to determine recyclability."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Teach kids to conserve resources such as water and food by putting food back in the refrigerator and closing the door.",
+        "spans": [
+          "Conserve. Teach kids how to conserve existing resources—water and food, for example. Remind them to put food back in the refrigerator and close the door."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Use paper on both sides and make use of scrap paper to reduce waste.",
+        "spans": [
+          "Use paper on both sides and make use of scrap paper."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Encourage kids to take shorter showers to conserve water.",
+        "spans": [
+          "Take shorter showers."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Use non-toxic cleaners and involve kids in making natural homemade cleaners to protect the environment.",
+        "spans": [
+          "Use non-toxic cleaners in your house and explain that these are better for the environment. You can even involve them in making natural homemade cleaners."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Use foams and aerosols based on compressed air rather than other propellants.",
+        "spans": [
+          "Use foams and aerosols based on compressed air rather than other propellants."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Encourage kids to turn off electronics and other devices when not in use to save energy.",
+        "spans": [
+          "Encourage kids to learn to turn things off when not in use, especially personal computers and electronics, which consume a lot of energy!"
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Teach kids the importance of car maintenance and gas usage to reduce environmental impact.",
+        "spans": [
+          "Teach kids the importance of car maintenance and gas usage."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Carpool at least once a week to reduce pollution and save energy.",
+        "spans": [
+          "Carpool at least once a week."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Ride bikes or walk whenever possible to save gas and get exercise.",
+        "spans": [
+          "Ride bikes or walk whenever possible."
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "Reduce the use of petroleum-based products like plastics.",
+        "spans": [
+          "Reduce the use of petroleum-based products like plastics."
+        ]
+      },
+      {
+        "point_number": 13,
+        "point_content": "Pick up and properly dispose of trash and recyclables, even if they are not yours.",
+        "spans": [
+          "Pick up and properly dispose of trash and recyclables, even if they are not yours."
+        ]
+      },
+      {
+        "point_number": 14,
+        "point_content": "Inspire awareness of environmental issues among children.",
+        "spans": [
+          "Inspire awareness of environmental issues."
+        ]
+      },
+      {
+        "point_number": 15,
+        "point_content": "Conserve hot water and reduce the water heater setting during summer months.",
+        "spans": [
+          "Conserve hot water and reduce the water heater setting by a few degrees during summer months."
+        ]
+      },
+      {
+        "point_number": 16,
+        "point_content": "Show children how to care for the home and ask them to report leaks and ways to improve energy retention.",
+        "spans": [
+          "Show your children how you care for your home, ask them to inform you of leaky faucets and pipes if they see any."
+        ]
+      },
+      {
+        "point_number": 17,
+        "point_content": "Use only biodegradable products such as plastic bags, dishes, and soaps.",
+        "spans": [
+          "Use only biodegradable products —plastic bags, dishes, soaps, etc."
+        ]
+      },
+      {
+        "point_number": 18,
+        "point_content": "Volunteer for tree planting programs or creek cleanups to help the environment.",
+        "spans": [
+          "Volunteer for tree planting programs or creek cleanups."
+        ]
+      },
+      {
+        "point_number": 19,
+        "point_content": "Properly dispose of hazardous household waste and recycle used batteries.",
+        "spans": [
+          "Properly dispose of hazardous household waste."
+        ]
+      },
+      {
+        "point_number": 20,
+        "point_content": "Use energy-saving light bulbs to reduce electricity consumption.",
+        "spans": [
+          "Use energy-saving light bulbs."
+        ]
+      },
+      {
+        "point_number": 21,
+        "point_content": "Practice doing more with less by enjoying what you have, repairing instead of replacing, and reusing items.",
+        "spans": [
+          "Practice doing more with less."
+        ]
+      },
+      {
+        "point_number": 22,
+        "point_content": "Talk to kids about pesticides and garden chemicals and involve them in pest control by hand.",
+        "spans": [
+          "Talk to kids about pesticides and other garden chemicals."
+        ]
+      },
+      {
+        "point_number": 23,
+        "point_content": "Start a compost and involve kids to reduce waste going to landfills.",
+        "spans": [
+          "Start a compost."
+        ]
+      },
+      {
+        "point_number": 24,
+        "point_content": "Plant a tree together and teach kids about the benefits of trees.",
+        "spans": [
+          "Plant a tree together."
+        ]
+      },
+      {
+        "point_number": 25,
+        "point_content": "Explain the importance of house insulation and teach kids to use the thermostat wisely to save energy.",
+        "spans": [
+          "Explain the importance of house insulation.",
+          "Teach them how to use the thermostat."
+        ]
+      },
+      {
+        "point_number": 26,
+        "point_content": "Use more energy-effective appliances and explain their significance to children.",
+        "spans": [
+          "Use more energy-effective appliances."
+        ]
+      }
+    ],
+    "clueweb22-en0025-77-02864": [
+      {
+        "point_number": 1,
+        "point_content": "Students can use reusable bags to reduce plastic pollution.",
+        "spans": [
+          "Use Reusable Bags",
+          "Plastic grocery-type bags that get thrown out end up in lakes and landfills or in other parts of the environment."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Students should recycle and separate biodegradable and non-biodegradable wastes.",
+        "spans": [
+          "Recycle.",
+          "Always separate biodegradable and non-biodegradable wastes."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Students can save electricity by using energy-efficient bulbs and turning off appliances when not in use.",
+        "spans": [
+          "Save Electricity!",
+          "Use energy-efficient light bulbs instead of regular bulbs.",
+          "Make sure you turn off lights, the TV, and other appliances when you are not using them."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Students should save water by turning off faucets when not in use and limiting water usage.",
+        "spans": [
+          "Save Water.",
+          "Turn off the faucet as you are brushing your teeth.",
+          "Limit your water usage as you wash dishes."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Students can reduce pollution by walking or cycling instead of driving for short journeys.",
+        "spans": [
+          "Walk or cycle.",
+          "Driving is one of the biggest causes of pollution."
+        ]
+      }
+    ],
+    "clueweb22-en0025-08-00577": [
+      {
+        "point_number": 1,
+        "point_content": "Students can take notes electronically to save paper and money.",
+        "spans": [
+          "Take Notes Electronically",
+          "you’ll save money (and stop wasting paper) on purchasing notebooks and flashcards if you begin to electronically take down what you need to remember in class."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Students can decrease meat consumption to positively influence environmental change.",
+        "spans": [
+          "Decrease Meat Consumption",
+          "Eating less meat – even omitting it from a meal one day a week – can positively influence change."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Students can adopt reusable bag practices to reduce waste.",
+        "spans": [
+          "Adopt Reusable Bag Practices",
+          "Take reusable bags to the store with you to grocery shop instead of opting for paper or plastic."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Students can nix bottled water by reusing or purchasing refillable water bottles.",
+        "spans": [
+          "Nix Bottled Water",
+          "Reuse old water bottles or purchase water bottles that you can refill instead of tossing out a new bottle every time you need to quench your thirst."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Students should recycle to protect air and water quality.",
+        "spans": [
+          "Recycle",
+          "When you can, recycle. Whether it’s paper products, plastics or upcycling old items, it’s important to think about which trash can be saved from a landfill. This is a great way to protect our air and water quality."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Students can power down electronics and lights when not in use to save energy.",
+        "spans": [
+          "Power Down",
+          "When you’re not using appliances or you’re not in a room, turn off lights and other electronics."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Students should buy less or borrow to avoid overbuying and save resources.",
+        "spans": [
+          "Buy Less or Borrow",
+          "Only buy what you actually need."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Students can walk or bike more to reduce fossil fuel use and save gas money.",
+        "spans": [
+          "Walk or Bike More",
+          "trying to cut down on driving can help the environment and save you a lot of gas money as well."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Students can use energy efficient light bulbs like CFLs or LEDs to save energy.",
+        "spans": [
+          "Use Energy Efficient Light Bulbs",
+          "Try to switch your bulbs to energy-efficient compact fluorescent (CFLs) or LED bulbs."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Students can save energy by adjusting thermostat settings slightly.",
+        "spans": [
+          "Save Energy",
+          "Set your thermostats a few degrees lower or your air conditioner a few degrees higher."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Students should eat sustainable seafood to avoid harming ocean ecosystems.",
+        "spans": [
+          "Eat Sustainable Seafood",
+          "Choose sustainably caught fish as the other methods of capture can have disastrous impacts on ocean ecosystems."
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "Students should avoid purchasing aerosol sprays and choose pump sprays with responsible brand seals.",
+        "spans": [
+          "Don’t Purchase Aerosol Sprays",
+          "Try to look for items with environmentally responsible brand seals."
+        ]
+      },
+      {
+        "point_number": 13,
+        "point_content": "Students should think about water usage and turn off water when not needed to save gallons per year.",
+        "spans": [
+          "Think About Your Water Usage",
+          "Turn off the water while brushing your teeth, washing your face or shaving."
+        ]
+      },
+      {
+        "point_number": 14,
+        "point_content": "Students should support better brands that are responsible in their production.",
+        "spans": [
+          "Support Better Brands",
+          "Look for and use beauty and cleaning products brands that are responsible in their production, looking for responsible brand seals."
+        ]
+      },
+      {
+        "point_number": 15,
+        "point_content": "Students can opt out of junk mail to save resources.",
+        "spans": [
+          "Opt Out of Junk Mail",
+          "By opting out of mail, you can save resources and save yourself the hassle!"
+        ]
+      }
+    ],
+    "clueweb22-en0008-00-20296": [
+      {
+        "point_number": 1,
+        "point_content": "Students can educate themselves about environmental issues to better understand and promote environmental awareness.",
+        "spans": [
+          "Before you can begin promoting environmental awareness in your community, you must first make sure that you have a thorough understanding of environmental issues. Stay up to date on environmental news, read books and other resources, and learn about the issues affecting your own community."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Students can share their knowledge and engage their community, family, and friends in conversations about environmental issues.",
+        "spans": [
+          "After you’ve chosen an issue and educated yourself, engage your community, family, and friends in a conversation about the issue’s urgency and importance."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Students can start beneficial projects in their home or community to make a difference in protecting the environment.",
+        "spans": [
+          "Once you’re well versed in environmental issues, you can use that knowledge to start beneficial projects in your home and/or in your community."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Students can reduce greenhouse gas emissions by using alternative transportation methods like taking the bus, carpooling, walking, or biking.",
+        "spans": [
+          "Instead of driving to work or school, take the bus, carpool, walk, or ride your bike to cut down on greenhouse gas emissions."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Students can support clean and renewable energy by investing in technologies like solar or wind power.",
+        "spans": [
+          "Consider investing in appropriate technology like clean power (solar or wind), if not for your home then maybe for a community center."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Students can buy reusable products and avoid disposable goods to reduce waste.",
+        "spans": [
+          "Buy reusable products such as glass bottles, reusable bags and reusable cups. Avoid buying disposable goods such as paper towels, plastic bottles, and plastic bags."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Students can start composting and recycling to help cut down waste production.",
+        "spans": [
+          "Start composting and recycling, which will help cut down our waste production."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Students can support local businesses and farmers, buy organic and pesticide-free food, or start a community garden.",
+        "spans": [
+          "Support local businesses and farmers, and buy organic and pesticide-free food when you can. Or, start your own community garden."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Students can collaborate with others in their community to spread environmental awareness and start local projects.",
+        "spans": [
+          "Get your coworkers, neighbors, friends, family, or even your local government involved. It’s much easier and more effective to spread environmental awareness and start a local project if you collaborate with others in your community."
+        ]
+      }
+    ],
+    "clueweb22-en0038-97-12775": [
+      {
+        "point_number": 1,
+        "point_content": "Students can protect the environment at home by reducing, reusing, and recycling, and by using a water filter to avoid plastic bottles.",
+        "spans": [
+          "reduce, reuse and recycle",
+          "buy a filter for your tap water"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Students can use eco-friendly transportation methods such as walking, cycling, taking the bus, or using electric scooters to reduce pollution.",
+        "spans": [
+          "we encourage you to walk or cycle to where you have to get",
+          "you can get a bus and share this way the mean of transportation with other people",
+          "electric scooter"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "At school, students can bring lunch in reusable containers, use water from home with a water filter, use pencils and recycled paper notebooks, and save energy by powering down devices.",
+        "spans": [
+          "cook your lunch at home and take it with you in a reusable container",
+          "Don’t buy a bottle of water from school. Take one from home and take with you some of that home filtered water",
+          "Try using pencils instead of pens",
+          "buy notebooks made out of recycled paper",
+          "Power down your laptop when you’re taking a break"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Students can have fun while protecting the environment by volunteering for clean-up activities and avoiding plastic straws.",
+        "spans": [
+          "try volunteering to associations that clean the oceans or the forests",
+          "Avoid plastic straws as much as you can"
+        ]
+      }
+    ],
+    "clueweb22-en0025-70-01570": [
+      {
+        "point_number": 1,
+        "point_content": "Students alongside scientists are working hard to protect our home planet from air contamination and its hazardous effects.",
+        "spans": [
+          "students alongside scientists are working hard to protect our home planet from air contamination and its hazardous effects"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Today’s students are also more concerned about the harmful effects of the contaminated environment and seek to help in their own way.",
+        "spans": [
+          "Today’s students are also more concerned about the harmful effects of the contaminated environment and seek to help in their own way"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Students are asked to work on projects and proceedings on environmental protection methods.",
+        "spans": [
+          "They are also asked to work on projects and proceedings on environmental protection methods"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Many university students worldwide have developed useful environmental projects to address air pollution.",
+        "spans": [
+          "many university students worldwide have developed useful environmental projects"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Pollution vacuum cleaner sucks up contaminants from the air and releases clean air after filtration.",
+        "spans": [
+          "The idea of a pollution vacuum cleaner is to suck up the contaminants from the air",
+          "it takes all the pollutants along with the air and releases clean air after filtration"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Students have developed a device powered by solar energy that purifies air and extracts hydrogen gas from pollutants for fuel use.",
+        "spans": [
+          "students have developed a device to purify the air from organic adulteration",
+          "This device is powered by solar energy",
+          "The extracted hydrogen can be stored and used later as fuel in hydrogen-powered vehicles"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "A high school student made a device that predicts air pollution levels using neural networks with up to 92% accuracy.",
+        "spans": [
+          "A high school student from New-York made a device as project work that predicts air pollution levels using neural networks",
+          "The AI-equipped tool can predict contamination with up to 92% accuracy"
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "The anti-smog gun sprays vapor into the air to absorb toxins and clear pollutants in smog-afflicted areas.",
+        "spans": [
+          "The anti-smog gun is an effective method of clearing the air pollutants in smog-afflicted areas",
+          "the gun sprays vapor into the air, absorbing the toxins"
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Air-Ink device converts air carbon from car exhaust fumes into ink, which can be collected and purified for use.",
+        "spans": [
+          "Air-Ink is a creative and interesting device that can convert air carbon to ink",
+          "People can connect the KAALINK device to their car exhaust pipe to get the ink from the fuel fumes"
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Working on air pollution control projects helps students learn about environmental hazards and develop solutions.",
+        "spans": [
+          "working on air pollution control projects is one of the best ways in which they can learn about environmental hazards during their educational course",
+          "Such insights inspire them to search for a solution and develop various solutions to counter the threats"
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Getting involved in innovative air pollution projects helps understand the importance of environment and responsibility to keep earth safe.",
+        "spans": [
+          "Getting involved in innovative air pollution projects will help us to understand the importance of the atmosphere and environment and our responsibility towards keeping the earth safe for the future generation"
+        ]
+      }
+    ]
+  }
+}

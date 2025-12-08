@@ -1,0 +1,528 @@
+{
+  "question": "is the criminal justice system fair",
+  "key_points": {
+    "null": [],
+    "clueweb22-en0013-56-02392": [
+      {
+        "point_number": 1,
+        "point_content": "The criminal justice system is overburdened and not fit for all societal problems like mental illness, homelessness, and troubled youth.",
+        "spans": [
+          "it can't be used to cope with the mentally ill, the homeless and problem teenagers. That's not what it is designed for; it can never be fit for that purpose."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "There is a political panic about crime that leads to more criminal laws and a claim that the system has no problems, which is misleading.",
+        "spans": [
+          "Politicians have created a panic about crime so the public now fear there won't be enough space in prison for all the people who are guilty of offences. They have trapped themselves in a debate where they tell the public there is nothing wrong with the system, then enact more criminal laws to change it."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The increasing punitive approach has led to unmanageable prison populations and risks undermining constructive regimes.",
+        "spans": [
+          "We have been warning for a long time that the increasingly punitive approach to criminal justice would push the prison population to unmanageable levels and put at risk constructive regimes."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "There is a need to rebuild public confidence in community sentencing and focus on rehabilitation and work-type environments to reduce reoffending.",
+        "spans": [
+          "The central challenge is to rebuild public confidence in community sentencing, with sentences that are more visible, and sentencing that more accurately reflects the evidence on what reduces reoffending.",
+          "There has been far too little emphasis about getting people into a work-type environment in prison, helping them make the transition into work in the outside world."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The criminal justice system is burdened by tough rhetoric and legislative activity leading to high incarceration rates and high repeat crime rates.",
+        "spans": [
+          "The criminal justice system has been overburdened by relentless tough rhetoric and unprecedented legislative hyperactivity.",
+          "one of the Western world's highest rates of repeat crime."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Prisons are not managed well enough to rehabilitate prisoners or prepare them for life after release.",
+        "spans": [
+          "the Government has so managed our prisons that they cannot do what they are required to do.",
+          "we can't rehabilitate them, get them off drugs, teach them how to read and write, how to accept responsibility for his crimes and the victims of them, or get them to a state of readiness for life back in society."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "The system is not fit for purpose due to over-reliance on prison rather than effective community service programs.",
+        "spans": [
+          "It isn't fit for purpose because of the concentration on ineffective responses such as prison.",
+          "there are some really good schemes helping people to change their behaviour and help the community."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Overcrowded jails cannot effectively cut crime; solutions lie in social support and addressing root causes like mental health, addiction, and poverty.",
+        "spans": [
+          "It makes no sense to expect overcrowded jails to cut crime when the solutions lie outside, in better parental supervision, constructive alternatives for the young, mental health care, treatment for those addicted to drugs and drink, and a reduction in homelessness, poverty and unemployment."
+        ]
+      }
+    ],
+    "clueweb22-en0008-84-12249": [
+      {
+        "point_number": 1,
+        "point_content": "Our Civil Justice System is Not Fair for All because victims of civil matters have no right to a free lawyer and cannot afford an attorney without money.",
+        "spans": [
+          "Our Civil Justice System is Not Fair for All",
+          "if you commit a serious crime in this country, you can get the help of a free lawyer, BUT if you are the victim of exploitation, fraud, domestic abuse or other civil matters you have no such right.  If you don’t have piles of money you simply cannot afford an attorney."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Our Criminal Justice System is Not Fair for All because public defenders are under staffed and overworked, leading to inadequate legal representation.",
+        "spans": [
+          "Our Criminal Justice System is Not Fair for All",
+          "Public Defenders are dramatically under staffed and handle hundreds of cases meaning people can sit in jail for months before they see a lawyer for a few minutes.  A major study across the country found that in some cases a public defender was able to spend only 7 minutes per case."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Our Immigration System is not fair for all because immigration courts are part of the executive branch, creating challenges and injustices such as wrongful detention.",
+        "spans": [
+          "Our Immigration System is not fair for all",
+          "Immigration courts are not part of the judicial branch but the executive branch.  This creates enormous challenges.",
+          "innocent Americans wrongfully sitting in detention centers."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Justice should be Fair for Everyone and the current justice system has complex and real challenges of unfairness.",
+        "spans": [
+          "Justice should be Fair for Everyone",
+          "The challenges of unfairness in our justice system are complex and real."
+        ]
+      }
+    ],
+    "clueweb22-en0023-90-04088": [
+      {
+        "point_number": 1,
+        "point_content": "Black, Asian and minority ethnic people are over-represented in the criminal justice system in England and Wales.",
+        "spans": [
+          "Black, Asian and minority ethnic people are over-represented in the criminal justice system in England and Wales."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Black people are over-represented across different parts of the justice system, including being 12% of prisoners while only 3% of the population.",
+        "spans": [
+          "About 3% of the population of England and Wales self-identify as having black ethnicity, according to the 2011 census. But more than 3% of people arrested, prosecuted, convicted of a crime and in prison are black.",
+          "12% of prisoners in England and Wales have black ethnicity."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The Ministry of Justice states these numbers should not be taken as evidence of bias or direct effects of ethnicity, as over-representation could be due to behavior differences.",
+        "spans": [
+          "The Ministry of Justice explains that they “should not be taken as evidence of bias or as direct effects of ethnicity”.",
+          "If, for example, one ethnic group only committed serious crimes and another committed only minor offences, we’d expect the first to be more likely to be in prison."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Research found a small but significant bias against black and minority ethnic people in sentencing to prison under similar criminal circumstances.",
+        "spans": [
+          "The study found there was a small but significant bias against black and minority ethnic people.",
+          "“Black and minority ethnic offenders (particularly male offenders) were more likely to be sentenced to prison than White offenders (particularly White female offenders), under similar criminal circumstances.”"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Black people are four and a half times more likely to be stopped and searched by the police than white people.",
+        "spans": [
+          "We know, for instance, that black people are four and a half times more likely to be stopped and searched by the police than white people, compared to their shares of the population."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Black people are more likely to be charged than cautioned for the same offence compared to white people, e.g., for cocaine possession 78% of black people are charged vs 44% of white people.",
+        "spans": [
+          "Research has found that for cocaine possession, 78% of black people are charged rather than cautioned, compared to 44% of white people."
+        ]
+      }
+    ],
+    "clueweb22-en0026-28-18116": [
+      {
+        "point_number": 1,
+        "point_content": "Sentences for serious offences like murder and attempted murder vary greatly, leading to public scrutiny of the judiciary.",
+        "spans": [
+          "There have been repeat cases in the media involving the most serious offences, murder, attempted murder etc and the sentences for these have varied so greatly that there has been great public scrutiny of the judiciary."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "There is inconsistency in sentencing where two people committing the same crime can receive very different sentences.",
+        "spans": [
+          "Person A and B do the same crime but get very different sentences under similar circumstances."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The justice system can seem like 'pot luck' and may be influenced by factors such as race.",
+        "spans": [
+          "It is really just pot luck, sometimes you get lucky, other times you get the book thrown at you. Or you could just be black."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The 'half time' rule for good behavior is criticized as unfair, especially in serious cases.",
+        "spans": [
+          "I don't like the whole \"half time\" for good behavior."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Waiting long times for court cases is seen as no justice for victims or the accused.",
+        "spans": [
+          "Waiting very long times for court cases to take place is no justice for either victim or the accused."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "No two cases are identical, so fairness in sentencing is subjective and difficult to achieve.",
+        "spans": [
+          "No. It is not, can not, and will not be fair. No two cases are identical and opinions will always differ on what is fair in respect of the circumstances."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Different offenders may require different sentences based on their history and rehabilitation needs.",
+        "spans": [
+          "If someone who has a history of sadistic and violent behaviour commits murder, then of course they are likely to need more time to rehabilitate than a \"normal person\" who commits the same murder, and therefore assuming rehabilitation is a key aspect of a countries prison system, a longer sentence seems perfectly logical."
+        ]
+      }
+    ],
+    "clueweb22-en0038-07-02436": [
+      {
+        "point_number": 1,
+        "point_content": "The criminal justice system is fashioned to support the ideals of legal justice, which is the result of forging the rights of individuals with the government’s corresponding duty to ensure and protect those rights – referred to as due process.",
+        "spans": [
+          "The criminal justice system is comprised of multiple interrelated pillars, consisting of academia, law enforcement, forensic services, the judiciary, and corrections. These pillars are fashioned to support the ideals of legal justice. Legal justice is the result of forging the rights of individuals with the government’s corresponding duty to ensure and protect those rights – referred to as due process."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Professionals in the criminal justice system must submit themselves to ethical principles and evidence persistent integrity in their character to protect constitutional entitlements.",
+        "spans": [
+          "These constitutional entitlements cannot be given and protected without the abiding commitments of those professionals working in the criminal justice system. Consequently, such professionals must submit themselves to the ethical principles of the criminal justice system and evidence persistent integrity in their character."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The criminal justice system faces challenges in balancing rehabilitation, reducing victimization and offending behaviors, and providing justice simultaneously.",
+        "spans": [
+          "Consequently a major challenge in the criminal justice system is to rehabilitate, reduce victimization and offending behaviors, and provide justice simultaneously."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "There is diversity among criminal justice practitioners and communities, which complicates coordination and implementation of criminal justice initiatives.",
+        "spans": [
+          "A diverse group of criminal justice practitioners are employed in these systems, including law enforcement officers, corrections officers, probation and parole officers, judges, attorneys, paralegals, mental health professionals, and paraprofessionals. Each of these professional groups, as well as individuals within these groups, hold different perspectives on offending behavior, punishment, and rehabilitation.",
+          "Coordinating these various systems and criminal justice practitioners, and establishing partnerships among them is also a complex task. To add to this complexity, there is much diversity among criminal justice populations and within communities. Consequently, including offenders and former offenders, and communities in criminal justice initiatives is also a huge undertaking."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The criminal justice system is complex and operates on many levels with varying interventions and policies, which affects fairness and outcomes.",
+        "spans": [
+          "Undeniably, the criminal justice system is comprised of complex organizations. These organizations operate on many levels including local, state, federal, and tribal levels. These organizations share many common features although differences are found due to legislative and regional differences. Among these differences are the types of interventions provided to offenders and former offenders."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Studies show intoxicated witnesses are often considered less credible and intoxicated victims are often seen as more responsible for their victimization, which may compromise fair trial access.",
+        "spans": [
+          "To summarize, studies of juror decision making demonstrate that intoxicated witnesses are often considered less credible and reliable, whilst intoxicated victims are often seen as more responsible for their own victimisation. This suggests that an intoxicated victim’s access to a fair trial might be comprised at multiple stages during the process of Criminal Justice."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Miscarriages of justice occur when the criminal justice system acts unjustly due to bias, corruption, ignorance, error, or indifference, and are only recognized after successful appeals.",
+        "spans": [
+          "However, the criminal justice system is not always fair and impartial. Sometimes those working in the criminal justice system act in a manner that is, ultimately, unjust. Consequently, a criminal defendant can become a victim of bias, corruption, ignorance, error, and even indifference. When this occurs, it is referred to as a miscarriage of justice.",
+          "One of the defining features of the study of miscarriages of justice is that whatever allegations of wrongful criminal conviction there may be, a miscarriage of justice cannot be said to have occurred unless, and until, the appeal courts quash a criminal conviction."
+        ]
+      }
+    ],
+    "clueweb22-en0003-15-04514": [
+      {
+        "point_number": 1,
+        "point_content": "There is a growing consensus to make reforms to the juvenile and criminal justice systems to ensure that criminal laws are enforced more fairly and efficiently.",
+        "spans": [
+          "Across the political spectrum, there is a growing consensus to make reforms to the juvenile and criminal justice systems to ensure that criminal laws are enforced more fairly and efficiently."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Unwarranted disparities and unduly harsh sentences undermine trust in the rule of law and offend the basic principles of fairness and justice.",
+        "spans": [
+          "Unwarranted disparities and unduly harsh sentences undermine trust in the rule of law and offend the basic principles of fairness and justice."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The Administration has taken actions to enhance fairness and efficiency at all phases of the criminal justice system.",
+        "spans": [
+          "This Administration has taken a series of actions to enhance fairness and efficiency at all phases of the criminal justice system"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The Department of Justice has instituted reforms to make the federal criminal justice system more fair and efficient, focusing on serious cases and dangerous offenders.",
+        "spans": [
+          "The Department of Justice has instituted a series of reforms to make the federal criminal justice system more fair, more efficient and to place a greater focus on the most serious cases and dangerous offenders."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The President established a clemency initiative to encourage individuals sentenced under outdated laws to petition for commutation, granting 89 commutations.",
+        "spans": [
+          "In April 2014, the President established a clemency initiative to encourage individuals sentenced under outdated laws and policies to petition for commutation.",
+          "The President has now granted 89 commutations to individuals serving time in federal prison."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "The Fair Sentencing Act eased disparity in penalties for powder cocaine and crack cocaine in the federal system.",
+        "spans": [
+          "In 2010, the President signed the Fair Sentencing Act, bipartisan legislation that eased the disparity in the amounts of powder cocaine and crack cocaine required to trigger certain penalties in the federal system, including rigid mandatory minimum sentences."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "The Department of Justice reversed the policy requiring prosecutors to always charge crimes with the severest possible sentence, focusing on individual circumstances.",
+        "spans": [
+          "In 2010, then-Attorney General Eric Holder reversed the Department of Justice’s previous charging policy – known as the “Ashcroft memo” – that required prosecutors to always charge crimes with the severest possible sentence, and instead instructed that cases should be charged based on the individual circumstances of the offense."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "The Department of Justice launched the “Smart on Crime” initiative to avoid excessive mandatory minimums for low-level, nonviolent drug offenders.",
+        "spans": [
+          "In August 2013, the Department of Justice launched the “ Smart on Crime ” initiative, revising its charging policies to avoid triggering excessive mandatory minimums for low-level, nonviolent drug offenders."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "The Department of Justice encourages diversion and drug court programs that prioritize treatment instead of incarceration.",
+        "spans": [
+          "The Department of Justice encourages judicial districts to adopt “diversion” and drug court programs that prioritize treatment instead of incarceration in order to ease our overburdened prison system and reduce recidivism."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "The Department of Justice has instituted measures to preserve the credibility and accountability of the criminal justice system to maintain community trust.",
+        "spans": [
+          "The Department of Justice has instituted a series of measures to preserve the credibility and accountability of the criminal justice system so that it continues to maintain the trust of the communities it protects."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "The Department of Justice issued rules to provide criminal defendants with broad, comprehensive pre-trial evidence.",
+        "spans": [
+          "In 2010, the Department of Justice issued unprecedented rules to provide criminal defendants with broad, comprehensive pre-trial evidence - more than the law requires."
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "The Department of Justice requires federal agents to videotape interrogations to ensure suspects’ civil rights are respected.",
+        "spans": [
+          "In May 2014, the Department announced that its federal agents would be required to videotape interrogations of detained individuals in order to ensure suspects’ civil rights are respected during all interviews."
+        ]
+      },
+      {
+        "point_number": 13,
+        "point_content": "The Department of Justice updated profiling guidance to prohibit profiling based on religion, national origin, sexual orientation and gender identity.",
+        "spans": [
+          "In December 2014, the Department issued updated profiling guidance that, among other things, expanded the prohibition to religion, national origin, sexual orientation and gender identity and was applicable to state and local law enforcement agencies working on federal task forces."
+        ]
+      },
+      {
+        "point_number": 14,
+        "point_content": "The Federal Interagency Reentry Council works to reduce recidivism and improve reintegration outcomes for released prisoners.",
+        "spans": [
+          "then-Attorney General Holder launched the Federal Interagency Reentry Council in 2011. The Reentry Council works to align and advance reentry efforts across the federal government with an overarching aim to not only reduce recidivism and high correctional costs, but also to improve public health, child welfare, employment, education, housing and other key reintegration outcomes."
+        ]
+      },
+      {
+        "point_number": 15,
+        "point_content": "The Second Chance Reauthorization Act aims to institutionalize reentry efforts to help incarcerated adults and youth rejoin their communities.",
+        "spans": [
+          "Last month, Congress introduced the bi-partisan Second Chance Reauthorization Act which includes language that would codify the Reentry Council and institutionalize this work over the long term."
+        ]
+      },
+      {
+        "point_number": 16,
+        "point_content": "The Equal Employment Opportunity Commission issued guidance recommending employers avoid blanket bans on job applicants with a criminal history.",
+        "spans": [
+          "In 2012, the Equal Employment Opportunity Commission (EEOC) issued historic anti-discrimination guidance recommending that employers avoid blanket bans on job applicants with a criminal history because of the potential disparate impact on people of color."
+        ]
+      },
+      {
+        "point_number": 17,
+        "point_content": "The Department of Justice’s Community Oriented Policing Services Office funded nearly 10,000 community policing officers from 2009 through 2014.",
+        "spans": [
+          "From 2009 through 2014, the Department of Justice’s Community Oriented Policing Services (COPS) Office has funded the addition of nearly 10,000 community policing officers across the country."
+        ]
+      },
+      {
+        "point_number": 18,
+        "point_content": "The Department of Justice provided $276 million of Justice Assistance Grant funding to state, local and tribal governments in fiscal year 2014.",
+        "spans": [
+          "In fiscal year 2014, the Department of Justice provided $276 million of critical Justice Assistance Grant (JAG) funding to state, local and tribal governments."
+        ]
+      },
+      {
+        "point_number": 19,
+        "point_content": "The President created a Task Force on 21st Century Policing to strengthen trust between law enforcement and communities.",
+        "spans": [
+          "In December 2014, the President created a Task Force on 21st Century Policing to strengthen trust between law enforcement officers and the communities they serve and protect while enhancing public safety."
+        ]
+      },
+      {
+        "point_number": 20,
+        "point_content": "The Administration launched the Police Data Initiative to encourage law enforcement agencies to publicly release data on stops, searches, uses of force, and other police actions.",
+        "spans": [
+          "In March 2015, the Administration launched the Police Data Initiative to encourage law enforcement agencies around the country to publicly release data that they had not previously released concerning stops and searches, uses of force, officer involved shootings, citations, complaints and other police actions."
+        ]
+      },
+      {
+        "point_number": 21,
+        "point_content": "The Administration supports juvenile justice reform efforts to reduce recidivism and enhance post-juvenile education and services.",
+        "spans": [
+          "The Administration continues to pursue efforts to improve the juvenile justice system and prioritize juvenile reentry, including supporting efforts to reduce recidivism and enhance post-juvenile systems education, job-training, parenting skills, counseling and health care."
+        ]
+      }
+    ],
+    "clueweb22-en0029-59-05549": [
+      {
+        "point_number": 1,
+        "point_content": "There has been an increase in recorded crime but a fall in the number of prosecutions, which risks decreasing public safety and confidence in the police and CPS.",
+        "spans": [
+          "recent years have seen an increase in recorded crime, the number of prosecutions has fallen",
+          "this trend could risk “ both a serious decrease in public safety and in confidence in the police and the Crown Prosecution Service .”"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The CPS is dealing with an increasingly complex caseload but has faced funding and staff cuts, impacting its ability to prosecute effectively.",
+        "spans": [
+          "CPS is dealing with an increasingly complex caseload, including violent and sexual offences and a high volume of digital evidence",
+          "CPS funding and staff numbers have fallen in recent years",
+          "In 2018 the Justice Committee warned that the collapse of a number of high-profile cases due to the failure of police and prosecutors to disclose key evidence to the defence was “ symptomatic of a criminal justice system under significant strain .”"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Cuts and underfunding in legal aid have compromised defendants’ access to justice and legal representation.",
+        "spans": [
+          "legal aid changes are compromising defendants’ access to justice",
+          "criminal legal aid expenditure fell by over a third (35%)",
+          "current remuneration rates are threatening the sustainability of criminal defence work",
+          "The number of providers of police station advice covered by legal aid has fallen by 20% since 2011/12",
+          "number of people receiving telephone advice from a duty solicitor while at a police station has fallen by more than 40%",
+          "there is compelling evidence of the fragility of the Criminal Bar and criminal defence solicitors’ firms",
+          "underfunding of the criminal justice system not only threatens its effectiveness but “undermines the rule of law and tarnishes the reputation of the justice system as a whole.”"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Defendants not eligible for legal aid face inequality and financial burdens, raising fairness concerns.",
+        "spans": [
+          "Defendants who are not eligible for legal aid may choose to represent themselves, which raises questions about ‘ equality of arms ’ before the court",
+          "if they are acquitted then under current rules the state will only reimburse their private legal costs at legal aid rates",
+          "Any difference between these rates and the defendant’s actual legal costs – sometimes dubbed the ‘innocence tax’ –  must be borne by the defendant",
+          "The Bar Council has described this as “ desperately unfair .”"
+        ]
+      }
+    ],
+    "clueweb22-en0013-95-12538": [
+      {
+        "point_number": 1,
+        "point_content": "The official purpose of the criminal justice system is to deliver justice for all, by convicting and punishing the guilty and helping them to stop offending, while protecting the innocent.",
+        "spans": [
+          "The purpose of the Criminal Justice System... is to deliver justice for all, by convicting and punishing the guilty and helping them to stop offending, while protecting the innocent."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The criminal justice system aims to deliver an efficient, effective, accountable and fair justice process for the public.",
+        "spans": [
+          "The central purpose of the Criminal Justice System is to deliver an efficient, effective, accountable and fair justice process for the public."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The criminal justice system is seen as being in the business of crime control, focusing on effectiveness in protecting the innocent and punishing the guilty.",
+        "spans": [
+          "With their appeal to a utilitarian efficiency and an instrumental logic - protecting the innocent and punishing the guilty - these statements offer a picture of criminal justice as being in the business of crime control. The challenge is one of effectiveness."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Justice is a delicate plant that must be nurtured, protected, and cared for, ensuring all citizens get justice against the powerful and the state.",
+        "spans": [
+          "Justice is a delicate plant. It has to be nurtured, protected, cared for."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The justice system acts as a bulwark against the potentially overweening power of the state and other vested interests, emphasizing due process, checks and balances, and core values.",
+        "spans": [
+          "The justice system on this account presents a bulwark against the potentially overweening power of the state and other vested interests. A concern for due process, checks and balances, core values and an underlying institutional strength inform this perspective"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "The crime control model focuses on containing and repressing criminal behaviour, emphasizing successful detection, prosecution, and conviction.",
+        "spans": [
+          "Under the crime control model, the underlying logic of the criminal justice is to contain and repress criminal behaviour. Successful criminal detection, prosecution and conviction are hallmarks of an effective criminal justice model."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "The due process model emphasizes protecting the rights of the innocent as much as convicting the guilty, focusing on protecting individual liberty against an over-powerful state.",
+        "spans": [
+          "The due process model, on the other hand, places at least as much emphasis on protecting the rights of the innocent as it does on convicting the guilty. The protection of individual liberty in the face of a potentially over-powerful state is a key preoccupation of the due process model."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Disputes between crime control and due process considerations tend to be about degree and emphasis, often involving procedural debates about protections for suspects.",
+        "spans": [
+          "But disputes between crime control and due process considerations tend also to boil down to questions of degree and emphasis.",
+          "The debate over the appropriate balance between due process protections and the crime control imperative, in other words, tends to be dominated by disagreements of a largely procedural kind."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Criminal justice is a complex social institution that regulates criminal activity within procedural limits to protect people from wrongful treatment and conviction, and its practices are inherently coercive.",
+        "spans": [
+          "Criminal Justice, they write: is... a complex social institution which regulates potential, alleged and actual criminal activity within procedural limits supposed to protect people from wrongful treatment and wrongful conviction.",
+          "Criminal justice practices, they go on to note, 'are inherently coercive'."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "In a society with unequal distribution of power, status, and wealth, criminal justice activity often compounds social divisions and reinforces a hierarchical social order benefiting some while disadvantaging others.",
+        "spans": [
+          "in a society in which power, status and wealth are unequally distributed along lines such as age, gender, race, and class, much criminal justice activity will compound wider social divisions",
+          "The enforcement of the criminal law... reinforces a hierarchical social order which benefits some while disadvantaging others."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "From a Marxist perspective, the purpose of criminal justice is the ongoing maintenance of class domination by means of coercive force, legitimated by legal norms.",
+        "spans": [
+          "From a Marxist perspective - at least if we take Miliband as the reference point - the purpose of criminal justice might be characterised as the ongoing maintenance of class domination by means of coercive force, legitimated by legal norms."
+        ]
+      }
+    ]
+  }
+}

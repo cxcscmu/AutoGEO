@@ -1,0 +1,71 @@
+{
+  "question": "will global warming cause more rain?",
+  "key_points": [
+    {
+      "point_number": 1,
+      "point_content": "Global warming will increase rainfall in some of the world's driest areas over land, leading to more extreme flooding events in these dry regions due to increased rainfall and precipitation intensity.",
+      "original_point_number": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "point_number": 2,
+      "point_content": "Warmer air holds more water vapor, leading to moister air and potentially more intense precipitation events, with atmospheric water vapor content increasing about seven percent globally for every 1°C of warming, which increases precipitation potential.",
+      "original_point_number": [
+        6,
+        11,
+        12,
+        14
+      ]
+    },
+    {
+      "point_number": 3,
+      "point_content": "Precipitation rates increase between 5 and 10% for every degree Celsius increase in temperature, with some tropical regions experiencing more than 10%, and the total volume of precipitation is likely to increase by 1-2% per degree of warming.",
+      "original_point_number": [
+        8,
+        15
+      ]
+    },
+    {
+      "point_number": 4,
+      "point_content": "There is an increase of precipitation with temperature up until a peak temperature, after which more warming coincides with decreased precipitation.",
+      "original_point_number": [
+        9
+      ]
+    },
+    {
+      "point_number": 5,
+      "point_content": "Human-caused global warming is causing heavier rainfall by supercharging the water cycle’s evaporation process and altering rainfall patterns.",
+      "original_point_number": [
+        10
+      ]
+    },
+    {
+      "point_number": 6,
+      "point_content": "Some regions will experience both more drought and more flooding due to faster evaporation and intense downpours, with heavy rainfall increasing and being produced by fewer, more intense events, leading to longer dry spells and a higher risk of floods.",
+      "original_point_number": [
+        7,
+        18
+      ]
+    },
+    {
+      "point_number": 7,
+      "point_content": "Regions that are already wet are likely to get wetter, while the dry regions of the subtropics are likely to get drier and will shift towards the poles.",
+      "original_point_number": [
+        16,
+        17
+      ]
+    },
+    {
+      "point_number": 8,
+      "point_content": "Precipitation is projected to increase in certain regions, with some US cities experiencing more intense and frequent extreme precipitation events.",
+      "original_point_number": [
+        13
+      ]
+    }
+  ]
+}

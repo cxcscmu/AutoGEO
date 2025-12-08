@@ -1,0 +1,191 @@
+{
+  "question": "how conservatism affects financial reporting",
+  "key_points": {
+    "null": [],
+    "clueweb22-en0034-49-12054": [
+      {
+        "point_number": 1,
+        "point_content": "Accounting conservatism requires accountants to exercise a high degree of verification and utilize solutions that show the least aggressive numbers when faced with uncertainty.",
+        "spans": [
+          "Accounting conservatism refers to financial reporting guidelines that require accountants to exercise a high degree of verification and utilize solutions that show the least aggressive numbers when faced with uncertainty."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Losses must be recorded as soon as they are quantified, while gains are only recorded when assured of being realized.",
+        "spans": [
+          "The guideline requires that losses be recorded as soon as they are quantified (certain or uncertain), while gains are only recorded when they are assured of being realized."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Accounting conservatism minimizes overstatement of revenue and assets and understates liabilities and expenses.",
+        "spans": [
+          "The general concept is to minimize the overstatement of revenue and assets and to understate the liabilities and expenses."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Conservatism requires accountants to choose methods and estimates that keep the book values of net gains relatively low in situations of uncertainty.",
+        "spans": [
+          "Conservatism is one of such accounting standards that require accountants to choose methods and estimates that keep the book values of net gains relatively low in situations of uncertainty."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Accounting conservatism affects the quality of figures reported in financial statements, leading to relatively lower reported earnings in times of increased investment.",
+        "spans": [
+          "Accounting conservatism affects the quality of figures reported in the balance sheet, income statement, and other financial statements. In the event of increased investment, this principle leads to relatively lower reported earnings than other liberal accounting options."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Book values of assets and revenues are intentionally understated, while losses and liabilities are overstated under accounting conservatism.",
+        "spans": [
+          "For example, the book values of assets and revenues are intentionally understated when reporting, while losses and liabilities are overstated."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Accounting conservatism requires revenues and related expenses to be matched in the same period and revenues cannot be recorded if not realizable.",
+        "spans": [
+          "Accounting conservatism is also used to record and report revenue. The principle requires that revenues and related expenses are matched in the same period that they occur. The revenue cannot be recorded if it is not realizable."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Accounting conservatism encourages management to face optimism or exaggerated uncertainty and provides a higher margin of security against distressed outputs.",
+        "spans": [
+          "Most notably, it encourages management to face optimism or exaggerated uncertainty in its decisions. It also means that there is a higher margin of security against distressed outputs."
+        ]
+      }
+    ],
+    "clueweb22-en0003-10-07755": [
+      {
+        "point_number": 1,
+        "point_content": "Conservative accounting uses methods that are more likely to understate, rather than overstate, financial performance.",
+        "spans": [
+          "Conservative accounting uses methods that are more likely to understate, rather than overstate, financial performance."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Conservative accounting is more likely to undervalue investments rather than overvalue them, leading to management that is more likely to carefully manage risks and exceed expectations.",
+        "spans": [
+          "conservative accounting is more likely to undervalue investments rather than overvalue them, leading to management that is more likely to carefully manage risks and exceed expectations."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "A business that plans conservatively for growth essentially builds in considerable room for error.",
+        "spans": [
+          "A business that plans conservatively for growth essentially builds in considerable room for error."
+        ]
+      }
+    ],
+    "clueweb22-en0035-62-13088": [
+      {
+        "point_number": 1,
+        "point_content": "Conservatism Principle of Accounting provides guidance for the accounting, according to which in case there exists any uncertainty then all the expenses and the liabilities should be recognized whereas all the revenues and gains should not be recorded,  and such revenues and gains should be recognized only when there is reasonable certainty of its actual receipt.",
+        "spans": [
+          "Conservatism Principle of Accounting provides guidance for the accounting, according to which in case there exists any uncertainty then all the expenses and the liabilities should be recognized whereas all the revenues and gains should not be recorded,  and such revenues and gains should be recognized only when there is reasonable certainty of its actual receipt."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Conservatism Principle is a concept in accounting under GAAP which recognizes and records expenses and liabilities-certain or uncertain, as soon as possible but recognizes revenues and assets when they are assured of being received.",
+        "spans": [
+          "Conservatism Principle is a concept in accounting under GAAP which recognizes and records expenses and liabilities-certain or uncertain, as soon as possible but recognizes revenues and assets when they are assured of being received."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The Conservative principle of accounting always says that one should always error on the most conservative side of any financial transaction.",
+        "spans": [
+          "The Conservative principle of accounting always says that one should always error on the most conservative side of any financial transaction."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "It is done by minimizing profits by stating uncertain losses or expenses and not mentioning unknown or estimated gains.",
+        "spans": [
+          "It is done by minimizing profits by stating uncertain losses or expenses and not mentioning unknown or estimated gains."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Conservatism principle of accounting states that the accountants must choose the most conservative outcome when two outcomes are available to them.",
+        "spans": [
+          "Conservatism principle of accounting states that the accountants must choose the most conservative outcome when two outcomes are available to them."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "when the conservatism principle of accounting is followed, a lower asset amount is recorded on the balance sheet, lower net income is recorded on the income statement. So, adhering to this principle results in recording lower profits in the statements.",
+        "spans": [
+          "when the conservatism principle of accounting is followed, a lower asset amount is recorded on the balance sheet, lower net income is recorded on the income statement. So, adhering to this principle results in recording lower profits in the statements."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "The two main aspects of the conservatism principle of accounting are – recognizing revenue only if they are confident and recognizing expenses as soon as they are reasonably possible.",
+        "spans": [
+          "The two main aspects of the conservatism principle of accounting are – recognizing revenue only if they are confident and recognizing expenses as soon as they are reasonably possible."
+        ]
+      }
+    ],
+    "clueweb22-en0027-34-17248": [
+      {
+        "point_number": 1,
+        "point_content": "Accounting conservatism requires company accounts to be prepared with caution and high degrees of verification, recognizing all probable losses when discovered and only registering gains when fully realized.",
+        "spans": [
+          "Accounting conservatism is a principle that requires company accounts to be prepared with caution and high degrees of verification.",
+          "All probable losses are recorded when they are discovered, while gains can only be registered when they are fully realized."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "In situations of uncertainty, accounting conservatism requires choosing the accounting solution that yields inferior numbers, presenting a worst-case scenario.",
+        "spans": [
+          "If an accountant has two solutions to choose from when facing an accounting challenge, the one that yields inferior numbers should be selected.",
+          "A cautious approach presents the company in a worst-case scenario."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Assets and revenue are intentionally reported at understated figures, while liabilities and expenses are overstated under accounting conservatism.",
+        "spans": [
+          "Assets and revenue are intentionally reported at figures potentially understated.",
+          "Liabilities and expenses, on the other hand, are overstated."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Accounting conservatism requires revenues to be reported only when realizable and in the same period as related expenses, with no revenue recognized without cash or claims to an asset.",
+        "spans": [
+          "Accounting conservatism is most stringent in relation to revenue reporting.",
+          "It requires that revenues are reported in the same period as related expenses were incurred.",
+          "If a transaction does not result in the exchange of cash or claims to an asset, no revenue may be recognized."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Accounting conservatism results in lower reported net income and financial benefits, encouraging management caution and providing scope for positive surprises.",
+        "spans": [
+          "Understating gains and overstating losses means that accounting conservatism will always report lower net income and lower financial future benefits.",
+          "It encourages management to exercise greater care in its decisions.",
+          "It also means there is more scope for positive surprises, rather than disappointing upsets, which are big drivers of share prices."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Accounting conservatism can be open to interpretation and manipulation, and may cause revenue shifting affecting period financial reporting accuracy.",
+        "spans": [
+          "GAAP rules such as accounting conservatism can often be open to interpretation.",
+          "Another issue with accounting conservatism is the potential for revenue shifting.",
+          "This will result in the current period being understated and future periods to be overstated."
+        ]
+      }
+    ]
+  }
+}

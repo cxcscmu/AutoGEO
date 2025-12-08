@@ -1,0 +1,284 @@
+{
+  "question": "why is alibaba so successful",
+  "key_points": {
+    "clueweb22-en0002-58-04990": [
+      {
+        "point_number": 1,
+        "point_content": "Alibaba’s success is no secret. From its humble beginnings in Jack Ma’s Hangzhou apartment, the company has evolved and grown into an e-commerce empire known internationally.",
+        "spans": [
+          "Alibaba’s success is no secret.",
+          "From its humble beginnings in Jack Ma’s Hangzhou apartment, the company has evolved and grown into an e-commerce empire known internationally."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Alibaba was initially founded in Jack Ma’s apartment in Hangzhou in 1999, before Alibaba.com was launched later that same year.",
+        "spans": [
+          "Alibaba was initially founded in Jack Ma’s apartment in Hangzhou in 1999, before Alibaba.com was launched later that same year."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "In 2003, as the number of Internet users in China reached 80 million, according to Alibaba’s prospectus, Taobao.com was launched as an online market.",
+        "spans": [
+          "In 2003, as the number of Internet users in China reached 80 million, according to Alibaba’s prospectus, Taobao.com was launched as an online market."
+        ]
+      }
+    ],
+    "clueweb22-en0037-08-12809": [
+      {
+        "point_number": 1,
+        "point_content": "Alibaba provides services mainly to small enterprises and individuals, creating a unique business opportunity and a complete e-commerce ecosystem.",
+        "spans": [
+          "Alibaba provides services mainly to small enterprises and individuals.",
+          "Together, they represent a complete e-commerce ecosystem."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Alibaba charges for marketing and technical support services instead of admission, cultivating a large and loyal customer base and profiting mainly from advertisements and keyword bidding.",
+        "spans": [
+          "Alibaba charges for services in marketing and technical support, instead of for admission.",
+          "Alibaba’s profits mainly come from advertisements and keyword bidding, which represents 57% of total profits."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Alibaba has a reliable credit model with online certification for sellers, transaction traceability, and payment protection through Alipay, enhancing trustworthiness.",
+        "spans": [
+          "Alibaba’s accurate credit model helps to develop a trustworthy reputation among customers.",
+          "All sellers on the e-commerce platform are requested to pass an online certification test to verify their identity information.",
+          "All transactions are recorded and can be traced back by both sellers and customers.",
+          "payments are first transferred to Alipay and only released to sellers when buyers indicate that they have received their products in good condition."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Alibaba offers support services such as online business training, communication tools, and refund policies to ensure customer satisfaction and positive interactions.",
+        "spans": [
+          "Alibaba offers a suite of support services to ensure optimal customer satisfaction by helping sellers to maintain positive interaction with buyers.",
+          "Some of these support services include the offering of online business training for sellers, introduction of a special coding system to manage the large number of stores on the platform, development of its own instant communication tool for better seller-buyer communication exchange, and the reimbursement of any product with refunds completed within seven days."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Alibaba is sensitive to business opportunities, exemplified by creating the 'Double 11' shopping festival on November 11.",
+        "spans": [
+          "Alibaba excels at identifying and seizing unique business opportunities, thereby positioning itself as a leader in developing customer loyalty.",
+          "The ‘Double 11’ festival falls on November 11, between Chinese National Day and Christmas.",
+          "Taobao has successfully turned that day into an actual shopping festival."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Alibaba innovates transaction patterns with Consumer-to-Business (C2B) and Online-to-Offline (O2O) models to reduce costs, increase satisfaction, and integrate online and offline commerce.",
+        "spans": [
+          "Alibaba deploys the C2B transaction model to reduce costs in the traditional supply chain and shorten the time required for product turnover, thereby increasing customer. satisfaction.",
+          "Alibaba also takes advantage of its massive online customer behavior data to develop products suited to particular customer habits.",
+          "In Alibaba’s system, customers can purchase a product by scanning a two-dimensional code and they can also indicate receipt of a product with another code.",
+          "Alibaba is actively employing the use of mobile terminal domains through “Alipay Wallet” and partnering with banks to provide code scanning and cash transfer services for payment."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Alibaba has an integrated ecosystem expanding beyond e-commerce into advertising, logistics, financial services, and mobile services to improve service quality and business ease.",
+        "spans": [
+          "Alibaba is expanding its core business to many different domains, such as advertising services (Alimama), logistic network (China Smart Network (CSN) Project), financial services (Ali Micro Finance), and mobile terminal services."
+        ]
+      }
+    ],
+    "clueweb22-en0022-17-06826": [
+      {
+        "point_number": 1,
+        "point_content": "Alibaba has transformed many rural communities by enabling them to start their own small enterprises through its consumer and small business portal, Taobao.",
+        "spans": [
+          "Many rural communities have started using Alibaba’s consumer and small business portal, known as Taobao, to start their own small enterprises."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The phenomenon of 'Taobao village' shows how largely agrarian communities have been transformed by new job opportunities created by Alibaba's platform.",
+        "spans": [
+          "It has led to the phenomenon known as the “Taobao village” – largely agrarian communities transformed thanks to new job opportunities created by the site."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Alibaba's success is partly due to its platform connecting with people and giving normal people the opportunity to participate, emphasizing social inclusion and financial participation.",
+        "spans": [
+          "Part of the reason why Alibaba is so successful is because it is one platform that is able to connect with the people; it gives normal people the opportunity to participate. It’s really about social inclusion and financial participation that Alibaba does extremely well."
+        ]
+      }
+    ],
+    "clueweb22-en0009-00-18170": [
+      {
+        "point_number": 1,
+        "point_content": "Alibaba is a Chinese e-commerce platform that acts as a middleman between buyers and sellers online, facilitating the sale of goods from verified suppliers at factory prices.",
+        "spans": [
+          "Alibaba is a Chinese e-commerce platform.",
+          "It's a marketplace with a wide variety of products from verified suppliers.",
+          "Everything available there is at factory prices and all the sellers are verified.",
+          "The company acts as a middleman between the buyers and sellers online. It facilitates the sale of goods."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Alibaba has a large user base and significant growth in users and goods sold, positioning itself as the gateway to Chinese consumers.",
+        "spans": [
+          "The company has positioned itself as the gateway to Chinese consumers.",
+          "In March, there were 721 million users. In June there was an increase of 22 million users. And it grew to 104 million at the end of 2018.",
+          "There was a sharp rise of 19% even in the valuing of total goods sold."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Alibaba's business model includes charging merchants a fee to have their listings higher on search rankings and focusing on customer experience.",
+        "spans": [
+          "The company charges the merchant's a fee to have their listings higher on the search rankings.",
+          "Customer experience is a big issue for the company."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Alibaba was founded by Jack Ma and 17 other founders in 1999 and grew from a small startup to a global e-commerce giant.",
+        "spans": [
+          "Jack Ma started the Alibaba group with other 17 original founders.",
+          "Back in 1999, he started a wholesale online marketplace called Alibaba.",
+          "The Chinese company blossomed into one of the most valuable corporations in the world.",
+          "The story seems like Alibaba grew into a global e-commerce giant from a small apartment."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Alibaba benefits from strict internet controlling policies and has dominated the shopping space in China without having physical stores.",
+        "spans": [
+          "It benefited from strict internet controlling policies.",
+          "The company has dominated the shopping space in China but doesn't have a physical store anywhere."
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0000-53-00188": [
+      {
+        "point_number": 1,
+        "point_content": "Alibaba's unique business model focuses on providing services mainly to small enterprises and individuals, creating a complete e-commerce ecosystem.",
+        "spans": [
+          "Alibaba provides services mainly to small enterprises and individuals.",
+          "Together, they represent a complete e-commerce ecosystem."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Alibaba's unconventional profit model charges for marketing and technical support services instead of admission, relying on advertisements and keyword bidding for profits.",
+        "spans": [
+          "Alibaba charges for services in marketing and technical support, instead of for admission.",
+          "Its profits mainly come from advertisements and keyword bidding, which represent 57% of total profits."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Alibaba leverages a large number of users and uses advertising and customer data for profit.",
+        "spans": [
+          "Large number of users, can use advertising and customer’s data for profit",
+          "Alibaba is able to leverage on the large number of customers on the platform, and also make use of advertisement, keyword bidding, and customer’s data for profit."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Alibaba has a reliable credit model that builds trust among customers by verifying sellers and protecting transactions.",
+        "spans": [
+          "Alibaba’s accurate credit model helps to develop a trustworthy reputation among customers.",
+          "All sellers on the e-commerce platform are requested to pass an online certification test to verify their identity information.",
+          "All transactions are recorded and can be traced back by both sellers and customers.",
+          "payments are first transferred to Alipay and only released to sellers when buyers indicate that they have received their products in good condition."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Alibaba provides support services to ensure customer satisfaction and positive online experience.",
+        "spans": [
+          "Alibaba’s service offerings provide a comfortable purchasing environment and positive online customer experience, leading to high user engagements.",
+          "It offers a suite of support services to ensure optimal customer satisfaction by helping sellers to maintain positive interaction with buyers."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Alibaba is sensitive to business opportunities, exemplified by the success of the 'Double 11' shopping festival.",
+        "spans": [
+          "Alibaba excels at identifying and seizing unique business opportunities, thereby positioning itself as a leader in developing customer loyalty.",
+          "The ‘Double 11’ festival falls on Nov 11, between Chinese National Day and Christmas.",
+          "Taobao has successfully turned that day into an actual shopping festival."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Alibaba explores new transaction patterns like C2B and O2O to create more value for customers.",
+        "spans": [
+          "Alibaba actively challenges traditional transaction patterns and explores new ways to create more value for customers according to their needs.",
+          "Consumer-to-business (C2B) transaction model: Alibaba deploys the C2B transaction model to reduce costs in the traditional supply chain and shorten the time required for product turnover, thereby increasing customer satisfaction.",
+          "Online-to-offline (O2O) strategy: In Alibaba’s system, customers can purchase a product by scanning a two-dimensional code and they can also indicate receipt of a product with another code."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Alibaba has an integrated ecosystem expanding beyond e-commerce into advertising, logistics, financial services, and mobile services.",
+        "spans": [
+          "Alibaba is expanding its core business to many different domains, such as advertising services, logistic network, financial services, and mobile terminal services.",
+          "Alimama: Essentially an advertising platform on Alibaba’s B2B operations, users can list available advertisement positions on Alimama for advertisers to purchase.",
+          "China Smart Network (CSN) Project: The CSN project was launched by Alibaba in collaboration with the four most influential logistics companies in China, with the goal of bringing products to buyers within 24 hours of the purchase."
+        ]
+      }
+    ],
+    "clueweb22-en0046-69-01969": [
+      {
+        "point_number": 1,
+        "point_content": "Alibaba is not a traditional retailer; it builds an ecosystem coordinating all retail functions online.",
+        "spans": [
+          "Alibaba is not a retailer in the traditional sense. It doesn’t source or keep stock, and logistics services are carried out by third-party providers.",
+          "Alibaba today is not just an online commerce company. It is what you get if you take all functions associated with retail and coordinate them online into a sprawling, data-driven network of sellers, marketers, service providers, logistics companies, and manufacturers."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Alibaba's success is due to its smart business model using network coordination and data intelligence.",
+        "spans": [
+          "Because of new capabilities in network coordination and data intelligence that all these companies put to use. The ecosystems they steward are vastly more economically efficient and customer-centric than traditional industries.",
+          "These firms follow an approach I call smart business, and I believe it represents the dominant business logic of the future."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Smart business uses machine learning and data to automate operational decisions and adapt rapidly to market changes.",
+        "spans": [
+          "Smart business emerges when all players involved in achieving a common business goal—retailing, for example, or ride sharing—are coordinated in an online network and use machine-learning technology to efficiently leverage data in real time.",
+          "This tech-enabled model, in which most operational decisions are made by machines, allows companies to adapt dynamically and rapidly to changing market conditions and customer preferences, gaining tremendous competitive advantage over traditional businesses."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Alibaba leverages vast transaction data to provide microloans to SMEs through Ant Financial, enabling growth of small businesses.",
+        "spans": [
+          "At Alibaba, we realized we had the ingredient for creating a high-functioning, scalable, and profitable SME lending business: the huge amount of transaction data generated by the many small businesses using our platform.",
+          "So in 2010 we launched a pioneering data-driven microloan business to offer loans to businesses in amounts no larger than 1 million RMB (about $160,000).",
+          "In seven years of operation, the business has lent more than 87 billion RMB ($13.4 billion) to nearly three million SMEs.",
+          "Ant uses that data to compare good borrowers (those who repay on time) with bad ones (those who do not) to isolate traits common in both groups."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Alibaba automates operating decisions through datafication, software, data flow, and algorithms to become a smart business.",
+        "spans": [
+          "These four steps are the basis for creating a smart business: Engage in creative datafication to enrich the pool of data the business uses to become smarter; software the business to put workflows and essential actors online; institute standards and APIs to enable real-time data flow and coordination; and apply machine-learning algorithms to generate “smart” business decisions."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Alibaba's leadership focuses on inspiring and enabling innovation within a fluid environment rather than managing rigid plans.",
+        "spans": [
+          "Digital leaders no longer manage; rather, they enable workers to innovate and facilitate the core feedback loop of user responses to firm decisions and execution.",
+          "At the highest level, the digital evangelists must understand what the future will look like and how their industries will evolve in response to societal, economic, and technological changes."
+        ]
+      }
+    ]
+  }
+}

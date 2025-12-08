@@ -1,0 +1,274 @@
+{
+  "question": "why women are paid less than men",
+  "key_points": [
+    {
+      "point_number": 1,
+      "point_content": "High poverty rates among women, especially single mothers, are linked to the gender pay gap and women's unequal childcare responsibilities, which make labor market participation and advancement difficult.",
+      "original_point_number": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "point_number": 2,
+      "point_content": "COVID-19 disproportionately impacted women workers by reducing their labor market participation and working hours due to increased childcare needs, adding to gender pay and employment disparities.",
+      "original_point_number": [
+        3,
+        56
+      ]
+    },
+    {
+      "point_number": 3,
+      "point_content": "The gender wage gap is influenced by occupational segregation, with men earning more even within women-dominated occupations due to glass ceiling and glass escalator effects, and women tending to work in lower-paying fields and roles.",
+      "original_point_number": [
+        5,
+        10,
+        11,
+        18,
+        21,
+        24,
+        25,
+        42,
+        61
+      ]
+    },
+    {
+      "point_number": 4,
+      "point_content": "The gender wage gap varies by race and ethnicity, with white and Asian women experiencing larger gaps compared to men of their groups, while Black and Latinx women have smaller gaps but overall lower wages; pay gaps are worse for BIPOC women.",
+      "original_point_number": [
+        6,
+        46
+      ]
+    },
+    {
+      "point_number": 5,
+      "point_content": "The gender wage gap accumulates over a lifetime, resulting in significant earnings differences between men and women who work full time.",
+      "original_point_number": [
+        7
+      ]
+    },
+    {
+      "point_number": 6,
+      "point_content": "Motherhood leads to a wage penalty for women, while fatherhood often results in a wage premium for men, widening the gender pay gap after children arrive.",
+      "original_point_number": [
+        8,
+        13,
+        26,
+        41,
+        63
+      ]
+    },
+    {
+      "point_number": 7,
+      "point_content": "Differences in educational attainment between men and women have decreased and now play a smaller role in the gender pay gap, especially among younger workers with comparable education.",
+      "original_point_number": [
+        9
+      ]
+    },
+    {
+      "point_number": 8,
+      "point_content": "Women are more likely to work part-time, which pays less hourly and offers fewer benefits, contributing to the gender pay gap; part-time work is often chosen due to family responsibilities or lack of affordable childcare.",
+      "original_point_number": [
+        12,
+        14,
+        32,
+        34,
+        52,
+        59
+      ]
+    },
+    {
+      "point_number": 9,
+      "point_content": "Women disproportionately perform unpaid household and childcare work, limiting their time for paid work and affecting labor market outcomes and pay.",
+      "original_point_number": [
+        15,
+        35,
+        41,
+        59
+      ]
+    },
+    {
+      "point_number": 10,
+      "point_content": "More equitable sharing of parental responsibilities and paid parental leave policies, including paternity leave and 'use it or lose it' schemes for men, can help reduce the gender pay gap by encouraging men's participation in caregiving.",
+      "original_point_number": [
+        16,
+        55,
+        70
+      ]
+    },
+    {
+      "point_number": 11,
+      "point_content": "Even after accounting for education, occupation, sector, part-time work, and parenthood, a gender pay gap remains due to discrimination, stereotyping, implicit biases, and workplace bias against women and possibly women of color.",
+      "original_point_number": [
+        17,
+        23,
+        27,
+        39,
+        40,
+        45,
+        62,
+        65,
+        66,
+        67
+      ]
+    },
+    {
+      "point_number": 12,
+      "point_content": "Occupational sorting is influenced by social pressures and cultural stereotypes starting in childhood, affecting women's and men's career choices and contributing to the gender pay gap.",
+      "original_point_number": [
+        19,
+        20,
+        42
+      ]
+    },
+    {
+      "point_number": 13,
+      "point_content": "Women tend to be less assertive, underrate their performance, and face cultural expectations of modesty, which affect their salary outcomes, promotion likelihood, and pay negotiation success.",
+      "original_point_number": [
+        29,
+        30,
+        31,
+        43,
+        47,
+        48
+      ]
+    },
+    {
+      "point_number": 14,
+      "point_content": "Life roles such as primary caregiving, part-time work, and shorter careers affect women's pay compared to men, with societal expectations and cultural biases reinforcing these patterns and limiting men's participation in flexible work.",
+      "original_point_number": [
+        32,
+        53,
+        54,
+        58,
+        60
+      ]
+    },
+    {
+      "point_number": 15,
+      "point_content": "Government policies enabling parental leave and transition to part-time work may unintentionally increase gender gaps in employment and wages, especially when schemes favor mothers as primary carers and limit fathers' leave, reinforcing traditional gender roles.",
+      "original_point_number": [
+        36,
+        37
+      ]
+    },
+    {
+      "point_number": 16,
+      "point_content": "Employers may perceive part-time employment differently by gender, viewing it as a signal of low productivity in men but not in women, affecting wages and employment opportunities.",
+      "original_point_number": [
+        38
+      ]
+    },
+    {
+      "point_number": 17,
+      "point_content": "The gender pay gap is the percentage difference between average gross hourly earnings for women and men; women in the U.S. earn about 76 to 82 cents for every dollar men earn, with adjusted figures showing women earn about 94.6 cents to 91% of men's earnings, indicating an unexplained gap likely due to discrimination or unmeasured factors.",
+      "original_point_number": [
+        22,
+        39,
+        46,
+        49,
+        50,
+        51,
+        64,
+        65,
+        72
+      ]
+    },
+    {
+      "point_number": 18,
+      "point_content": "Male-dominated industries tend to have the widest pay gaps, with computer programming having the largest gap where women earn 72 cents on the male dollar; even within the same industry, women often occupy lower-paying roles.",
+      "original_point_number": [
+        24,
+        25,
+        57,
+        78
+      ]
+    },
+    {
+      "point_number": 19,
+      "point_content": "Women are less likely to be promoted and hold senior leadership positions, with only 20% of CEOs being women; senior roles tend to be paid more and require long hours, which can be a barrier to flexible or part-time work affecting women disproportionately.",
+      "original_point_number": [
+        48,
+        49,
+        57,
+        58,
+        73,
+        77
+      ]
+    },
+    {
+      "point_number": 20,
+      "point_content": "Women may accept lower pay for benefits such as shorter commutes, which impacts their progression into managerial positions and contributes to the gender pay gap.",
+      "original_point_number": [
+        34,
+        80
+      ]
+    },
+    {
+      "point_number": 21,
+      "point_content": "Discrimination, both overt and covert, conscious and unconscious, contributes significantly to women being paid less than men, as evidenced by studies in various fields including hiring, pay, and promotion practices.",
+      "original_point_number": [
+        27,
+        39,
+        40,
+        45,
+        62,
+        67
+      ]
+    },
+    {
+      "point_number": 22,
+      "point_content": "Height and self-assessment differences affect pay, with taller people generally earning more and men tending to over-rate their performance while women under-rate themselves, influencing salary outcomes.",
+      "original_point_number": [
+        28,
+        29
+      ]
+    },
+    {
+      "point_number": 23,
+      "point_content": "Women’s wages have not kept pace with productivity growth; the gender pay gap has narrowed partly due to stagnation or decline in men’s wages rather than significant gains for women.",
+      "original_point_number": [
+        44
+      ]
+    },
+    {
+      "point_number": 24,
+      "point_content": "Flexible working and remote working are more utilized by women, but encouraging men to use flexible working is important to reduce the gender pay gap; workplace flexibility alone is only part of the solution.",
+      "original_point_number": [
+        54,
+        71
+      ]
+    },
+    {
+      "point_number": 25,
+      "point_content": "Work-family balance policies need careful design to avoid pushing women onto a 'mommy track' that harms career progression; men's increasing participation in parenting and supportive policies can help address this.",
+      "original_point_number": [
+        69,
+        70
+      ]
+    },
+    {
+      "point_number": 26,
+      "point_content": "The gender pay gap is higher among all employees than among full-time employees because women fill more part-time jobs, which have lower hourly median pay; the gap is close to zero for full-time employees under 40 but over 10% for older age groups due to lower incidence of women in higher-paid managerial roles after age 39.",
+      "original_point_number": [
+        75,
+        76
+      ]
+    },
+    {
+      "point_number": 27,
+      "point_content": "Only a portion of the gender pay gap can be explained by modeled attributes such as occupation; other factors contribute significantly to the pay gap.",
+      "original_point_number": [
+        79
+      ]
+    },
+    {
+      "point_number": 28,
+      "point_content": "Women generally have shorter careers than men, which affects earnings and contributes to the gender pay gap.",
+      "original_point_number": [
+        53
+      ]
+    }
+  ]
+}

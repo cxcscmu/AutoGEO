@@ -1,0 +1,242 @@
+{
+  "question": "what steps have legislatures taken to deal with the problem of court delay?",
+  "key_points": {
+    "null": [],
+    "clueweb22-en0032-46-12179": [
+      {
+        "point_number": 1,
+        "point_content": "Judges may grant continuances in criminal cases, but only when a party shows good cause for needing the delay.",
+        "spans": [
+          "Judges may grant continuances in criminal cases, but only when a party shows good cause for needing the delay."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "A criminal defendant has a constitutional right to a speedy trial under the Sixth Amendment, which limits delays.",
+        "spans": [
+          "In the United States, a criminal defendant has a constitutional right to a speedy trial under the Sixth Amendment."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Motions to continue the trial of a criminal case are disfavored and will be denied unless the ends of justice require a continuance.",
+        "spans": [
+          "Motions to continue the trial of a criminal case are disfavored and will be denied unless…the ends of justice require a continuance."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The party's motion for continuance must explain why the delay is necessary, what amount of time is needed, and what good cause exists for making the request.",
+        "spans": [
+          "The party's motion must explain: why the delay is necessary what amount of time is needed, and what good cause exists for making the request."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Good cause for a continuance can include scheduling changes for convenience or ensuring a fair trial with adequate preparation time.",
+        "spans": [
+          "The definition of good cause varies from allowing scheduling changes for the convenience of the parties and witnesses to ensuring a fair trial where both parties have adequate time to prepare."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "If the factors necessitating a delay were beyond a party’s control, it’s more likely the judge will find good cause and grant the motion.",
+        "spans": [
+          "If the factors necessitating a delay were beyond a party’s control, it’s more likely the judge will find good cause and grant the motion."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Repeated requests for continuances without good cause will be denied and may result in reprimand of the lawyer.",
+        "spans": [
+          "Repeated requests, made without good cause, will be denied. (The judge could also reprimand the lawyer.)"
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Some states limit the number of continuances a prosecutor can get to protect victims and uphold speedy trial rights.",
+        "spans": [
+          "some states limit the number of continuances a prosecutor can get in light of protecting victims. For instance, California law allows only one 10-day continuance for the prosecution in stalking, hate crimes, and career criminal cases. (Cal. Penal Code § 1050 (2022).)"
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "A party may make a motion for continuance on the day of the hearing or trial, but last-minute requests due to procrastination are likely to be denied.",
+        "spans": [
+          "A party may make a motion on the day of the hearing or trial, but this request can be an uphill battle.",
+          "If the party’s procrastination resulted in this last-minute request, the judge will likely deny the motion because the party’s delay inconveniences numerous people"
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Defendants often ask for continuances to find an attorney, prepare for trial, find or secure witnesses, due to illness or accident, or to hire a new attorney.",
+        "spans": [
+          "Defendants often ask judges to continue a hearing or a trial for one or more of the following reasons.",
+          "Find an Attorney",
+          "Prepare for Trial",
+          "Find or Secure Witnesses",
+          "Illness or Accident",
+          "Find and Hire a New Attorney"
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Prosecutors have more restrictions on continuances and must bring a case to trial within the speedy trial window unless the defendant waives time.",
+        "spans": [
+          "Prosecutors have more restrictions when it comes to continuances. They must bring a case to trial within the speedy trial window unless the defendant has “waived time.”"
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "If a judge denies a continuance, parties may challenge the denial by filing an appeal or a writ in a higher court.",
+        "spans": [
+          "When criminal defendants lose motions at trial, most of the time they have to finish the trial and then challenge the loss by filing an appeal in the next higher court",
+          "In fact, even the prosecution can challenge a denial of its request for a continuance. The parties file what’s known as a “writ,” asking the higher court to review the evidence and the reasons given by the trial court for its denial."
+        ]
+      }
+    ],
+    "clueweb22-en0011-94-16053": [
+      {
+        "point_number": 1,
+        "point_content": "Legislators can attempt to force negotiation on a bill by slowing down the legislative process using chubbing, filibuster, and objecting to a local and consent bill.",
+        "spans": [
+          "chubbing",
+          "filibuster",
+          "objecting to a local and consent bill"
+        ]
+      }
+    ],
+    "clueweb22-en0039-15-18824": [
+      {
+        "point_number": 1,
+        "point_content": "Statutes and court rules have tried to control the tendency; and judges may be subject to oversight and even discipline for persistent failures to decide matters timely, or accurately report their backlog.",
+        "spans": [
+          "Statutes and court rules have tried to control the tendency; and judges may be subject to oversight and even discipline for persistent failures to decide matters timely, or accurately report their backlog."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Passed in 1990, the United States Code, Title 28, §476(a)(3) has a \"novel process of making public the names of judges\" who let cases go too long without decisions or judgment.",
+        "spans": [
+          "Passed in 1990, the United States Code, Title 28, §476(a)(3) has a \"novel process of making public the names of judges\" who let cases go too long without decisions or judgment."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Reports must be filed if motions and trials are in submission and have been pending more than six months without decision; and cases that have not been ended within three years of filing.",
+        "spans": [
+          "Reports must be filed if motions and trials are in submission and have been pending more than six months without decision; and cases that have not been ended within three years of filing."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The Province of Quebec, Canada, has a flat statutory statement mandating six months as a requirement for ordinary civil actions.",
+        "spans": [
+          "The Province of Quebec, Canada, has a flat statutory statement mandating six months as a requirement for ordinary civil actions."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "In Louisiana there exist overlapping statutes and court rules, which require that cases be decided within 30 days of submission.",
+        "spans": [
+          "In Louisiana there exist overlapping statutes and court rules, which require that cases be decided within 30 days of submission."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "They require the filing of a report, if that standard is exceeded. Untimely decisions and misstatements or failure to document cases may subject a judge to judicial discipline.",
+        "spans": [
+          "They require the filing of a report, if that standard is exceeded. Untimely decisions and misstatements or failure to document cases may subject a judge to judicial discipline."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "In some states, court rules have been adopted requiring that delays in making decisions or completing cases must be reported.",
+        "spans": [
+          "In some states, court rules have been adopted requiring that delays in making decisions or completing cases must be reported."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "For example, in Michigan the so-called \"910 Report\" must be filed after a matter is under advisement for more than 90 days.",
+        "spans": [
+          "For example, in Michigan the so-called \"910 Report\" must be filed after a matter is under advisement for more than 90 days."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "It requires the judge to file a certified statement with the court administrator specifying the case, the matters taken under advisement, the reasons for the delay, and the estimated time of arrival for the cure to the problem.",
+        "spans": [
+          "It requires the judge to file a certified statement with the court administrator specifying the case, the matters taken under advisement, the reasons for the delay, and the estimated time of arrival for the cure to the problem."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "In Indiana, \"Trial Rule 53.1 and Ind. Trial Rule 53.2 are officially titled \"Failure to rule on motion\" and \"Time for holding issue under advisement; delay of entering a judgment but are commonly known as the 'lazy judge' rules.\" Under those rules, the trial court has 90 days in which to render its decision; and that time can only be extended by order of the Indiana Supreme Court.",
+        "spans": [
+          "In Indiana, \"Trial Rule 53.1 and Ind. Trial Rule 53.2 are officially titled \"Failure to rule on motion\" and \"Time for holding issue under advisement; delay of entering a judgment but are commonly known as the 'lazy judge' rules.\" Under those rules, the trial court has 90 days in which to render its decision; and that time can only be extended by order of the Indiana Supreme Court."
+        ]
+      }
+    ],
+    "clueweb22-en0012-44-00200": [
+      {
+        "point_number": 1,
+        "point_content": "Legislature has enacted the Arbitration and Conciliation Act, 1996 and amended the Civil Procedure Code to address court delays.",
+        "spans": [
+          "Legislative Efforts: It's being high time to evaluate and take effective measures to curb the problem of pendency of cases. The legislative sensitivity towards providing and efficacious justice is mainly reflected in two legislations. (3) Arbitration and conciliation act, 1996 (4) Civil procedure code"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Section 89 of the Civil Procedure Code encourages settlement of disputes outside the court to reduce delays.",
+        "spans": [
+          "Section 89 of CPC deals with settlement of dispute outside the court: It provides that where it appears to the court that there exist elements, which may be acceptable to the parties, the court may formulate the terms of a possible settlement and refer the same for arbitration, conciliation, mediation or judicial settlement."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The concept of online Alternative Dispute Resolution (ADR) is gaining recognition as a measure to reduce court delays.",
+        "spans": [
+          "Nowadays the concept of online ADR (Alternative Dispute Resolution) is gaining recognition but the problem with it is the lack of IT knowledge among the lower masses and need of knowledge of law and ADR, technical concerns, legal sanctity of proceedings, industry support etc."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The Supreme Court has taken steps to implement the right to speedy trial under Article 21 of the Constitution, emphasizing trial without undue delay.",
+        "spans": [
+          "The Supreme Court (SC) of India took positive steps in the direction of implementing article 14 (3) of international covenant on civil and political rights which determines that criminal charge too be tried without undue delay. Article 16 of principles of equality in administration of justice declares that everyone shall be guaranteed right to speedy trial. SC held in Raghubir Singh v. State of Bihar that speedy trial is one of the dimensions of fundamental right to life and liberty under article 21."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The judiciary has the responsibility to dispose of cases within a reasonable time and limit adjournments to exceptional circumstances.",
+        "spans": [
+          "Under sec. 482 read with 483, Cr. P.C lays that every possible measure to be taken to dispose off the case within 6months from today. No adjournments to be granted until n unless circumstances are beyond the control of judiciary."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Legislatures have considered reforms such as increasing the judge to population ratio and establishing special tribunals to expedite case disposal.",
+        "spans": [
+          "Moreover, the ratio of judges to population should be increased which will help in disposal of cases very fast.",
+          "Cases must be assigned according to specialized area of judges. Assigning cases without taking into consideration the specialization leads to delay. Moreover, special tribunal should be set up for some specialized fields of which cases come on a regular large scale basis e.g. Taxation, labour etc."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Legislatures have promoted arbitration and Lok Adalats for speedy disposal of small and petty cases.",
+        "spans": [
+          "Arbitration should be done wherever possible and in particular small and petty cases arbitration should be made compulsory. It will save precious time o the courts.",
+          "Nyaya Panchayats should be authorized to dispose off small and petty cases. However. Lok Adalats were established for the speedy disposal of cases at lower level."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Amendments are required to prevent procedural delays and ensure adequate courts and timely appointment of judges.",
+        "spans": [
+          "Amendment is required so that procedural delays do not occur. Moreover, the state must look up that there are adequate no. of courts to cope up with the wok load and timely appointment of judges."
+        ]
+      }
+    ]
+  }
+}

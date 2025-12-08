@@ -1,0 +1,432 @@
+{
+  "question": "how do biological, psychological, and social-cultural factors interact to produce specific psychological disorders?",
+  "key_points": {
+    "null": [],
+    "clueweb22-en0043-00-18471": [
+      {
+        "point_number": 1,
+        "point_content": "The dividing line between biological and psychological is somewhat blurry, as some disorders like depression have both biological and psychological components.",
+        "spans": [
+          "the dividing line between biological and psychological is somewhat blurry",
+          "depression may be a psychological disorder, but to the extent that it is impacted or driven by the balance of neurotransmitters, it could be considered biological"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Not all individuals biologically predisposed to psychological disorders will exhibit symptoms; environmental triggers often play a role in symptom development.",
+        "spans": [
+          "to the extent that psychological disorders are biologically based, not all predisposed individuals will exhibit symptoms",
+          "the development of symptoms will follow identifiable environmental triggers"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Long-term stress, often related to socio-economic status, is a common environmental trigger for mental illness.",
+        "spans": [
+          "long-term stress can be a common environmental trigger for a mental illness",
+          "mental illness is more prevalent among those of lower socio-economic class, who are more likely to suffer from long term stressors"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Schizophrenia is influenced by biological brain structure differences, stress as an environmental trigger, and psychological factors affecting symptom expression.",
+        "spans": [
+          "Schizophrenia is a good example of a mental illness impacted by all three issues",
+          "There are biological structural differences in the brain in many sufferers",
+          "Stress can be a common trigger",
+          "psychological issues can impact the expression of the symptoms"
+        ]
+      }
+    ],
+    "clueweb22-en0002-34-04656": [
+      {
+        "point_number": 1,
+        "point_content": "Biological, psychological, and social-cultural factors each have a different way of affecting psychological disorders, known as the bio-psycho-social model of illness.",
+        "spans": [
+          "Biological, psychological, and social-cultural play factors into psychological disorders because each one has a different way of affecting us. This is also known as bio-psycho-social model of illness."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The biological factor involves influences from the individual's body, the psychological factor involves negative thoughts or stress reactions, and the social factor involves social and cultural influences.",
+        "spans": [
+          "The biological factor is the influence of the disorder from the individual’s body. The psychological factor is when the individual has negative thoughts or stress reaction. The social factor is caused by the social and cultural influences"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The biopsychosocial model views health and illness behaviors as products of biological characteristics, psychological factors, and social conditions.",
+        "spans": [
+          "The biopsychosocial model views health and illness behaviors as products of biological characteristics (such as genes), psychological factors (such as lifestyle, stress, health beliefs, masculinity and low self-esteem), and social conditions (such as cultural influences, family relationships, and social support)."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Cultural change and cultural attitudes about physical aesthetics can increase vulnerability to eating disorders, showing the role of social-cultural factors.",
+        "spans": [
+          "Historical and cross-cultural experiences suggest that cultural change itself may be associated with increased vulnerability to eating disorders, especially when values about physical aesthetics are involved. Culture also has been identified as one of the etiological factors leading to the development of eating disorders. In the Western culture, research shows to a higher risk of developing an eating disorder due to cultural attitudes about the physical build up."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Amok, Susto, and Hikikomori are examples of culture-bound syndromes or culturally influenced psychological conditions, illustrating the social-cultural factor's role.",
+        "spans": [
+          "Amok, or running amok, is derived from the Malay word mengamok, which means to make a furious and desperate charge. Amok was thought to be related to suicide, a violent behavior that has never been considered a culturally bound psychiatric condition.",
+          "Susto is a folk illness term that is widely applied in Latin America. It indicates a serious fright or startling experience that has caused the asustado to lose his vital essence and thereby fall ill. Susto is classified as a culture-bound syndrome, a symptom that occurs and is recognized within an ethnic group.",
+          "Hikikomori is a Japanese word describing a condition that mainly affects adolescents or young adults who live isolated from the world, cloistered within their parents' homes, locked in their bedrooms for days, months, or even years on end, and refusing to communicate even with their family. Arguments have been running along as to identify whether this phenomena is considered a psychological disorder or another psychological disorder or rather it is fundamentally a transient phenomenon caused by social factors."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Psychological disorders may be caused or rooted from social factors as well as psychological factors, and genetic makeup may also contribute.",
+        "spans": [
+          "All the psychological disorders mentioned above may have caused or rooted from social factor as well as psychological factors. Note also that maybe a certain culture practices the way they are is because their genetic make up also contributed to the causes."
+        ]
+      }
+    ],
+    "clueweb22-en0035-10-12628": [
+      {
+        "point_number": 1,
+        "point_content": "Biological factors include genetic vulnerability to drugs, parental drug abuse, and genetic traits like excitability and impulsiveness that increase likelihood of drug use.",
+        "spans": [
+          "Some people are genetically more likely to be vulnerable to drugs.",
+          "Often someone whose parents abuse drugs will develop that habit, especially if the mother used drugs during her pregnancy.",
+          "Children who are excitable, impulsive, and fearless (traits that are genetically influenced) are more likely as teens to smoke, drink, and use drugs."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Psychological factors involve feelings of meaninglessness, stress, failure, depression, and using drugs to cope with negative emotions or to gain temporary relief.",
+        "spans": [
+          "One who fells like his or her life is meaningless and directionless, often turn to drugs or alcohol.",
+          "Many users have experiences significant stress or failure and are depressed.",
+          "Drugs may temporarily give the depressed individual a euphoric high, or give them a sense of self-control, dull the pain, or just be a way to cope with anger, anxiety, or insomnia."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Social-cultural factors include peer pressure, cultural influences, and ethnic differences in drug and alcohol use.",
+        "spans": [
+          "Especially for teenagers, drug use has social roots.",
+          "Most teen drinking or drug use is done for social reasons, not as a way to cope with problems.",
+          "Peer pressure and influence is a heavily factor in people's initial drug use.",
+          "Also, alcohol tends to develop from cultural roots and differs among ethnic groups.",
+          "African-Americans, the Amish, Muslims, Mennonites, Orthodox Jews, and Mormons have extremely low rates or drug addiction and alcohol use.",
+          "The Irish, British, Germans, Italians, and Catholics typically drink more than average."
+        ]
+      }
+    ],
+    "clueweb22-en0035-99-03253": [
+      {
+        "point_number": 1,
+        "point_content": "Pain is a variable personal experience influenced by genetics and multiple interactive biopsychosocial processes.",
+        "spans": [
+          "pain is a variable personal experience that is influenced by genetics but also involves multiple interactive biopsychosocial processes"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Individual differences in pain responses are influenced by both genetic and nongenetic variables interacting.",
+        "spans": [
+          "genetic influences are a significant force that determines someone's response to pain, both genetic and nongenetic variables interact to influence the pain experience"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Individual differences in pain responses should be studied within a broader biopsychosocial perspective including age, sex, race, ethnicity, personality, mood, stress, and cognitive processes.",
+        "spans": [
+          "individualized differences in pain responses should be studied within the context of a broader biopsychosocial perspective",
+          "Characteristics such as age, sex, race and ethnicity, and personality all have been associated with pain responses, as well as situational variables like mood, stress and cognitive processes"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The biopsychosocial model explains individual differences in pain as a complex interaction of biological, psychological, and sociocultural factors, not just clinical pathology.",
+        "spans": [
+          "in the biopsychosocial model of pain response, individual differences are determined by the complex interaction of biological, psychological and sociocultural factors, and not by linking pain with clinical pathology"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Psychosocial factors account for significant variance in pain reports beyond physical pathology in conditions like arthritis.",
+        "spans": [
+          "psychosocial factors consistently account for significant variance in pain reports in these patients"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Clinicians should consider social and psychological situations of patients to better gauge pain responses and treatment effectiveness.",
+        "spans": [
+          "knowing the social and psychological situations of their patients can be helpful in gauging responses to pain and to morphine and other pain medications"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Psychological, social, cultural factors, and life experiences all play a role in pain responses, so a holistic understanding of patients is important.",
+        "spans": [
+          "Psychological, social and cultural factors, as well as life experiences, all play a role in pain responses",
+          "get to know your patients better from a holistic perspective and gain a more complete understanding of their life situations and how they might influence pain responses"
+        ]
+      }
+    ],
+    "clueweb22-en0031-07-08166": [
+      {
+        "point_number": 1,
+        "point_content": "The bio-psycho-social model assumes that mental health problems are influenced by multiple domains of human experience, including biological, psychological, and social factors.",
+        "spans": [
+          "The bio-psycho-social model assumes that mental health problems are hardly ever limited to just one domain of human experience (say, just a \"mental\" problem). Instead, most mental health problems are influenced by multiple domains of human experience, and have biological (medical), psychological (mental) and social/spiritual impacts."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Specific psychological disorders like depression can be caused by biological, psychological, or social conditions and manifest symptoms across these domains.",
+        "spans": [
+          "For instance, someone who is depressed, might have become that way because of a medical condition (such as a heart attack), a social condition (such as losing a loved one), or a psychological condition (such as an overly self-critical nature). Further, regardless of the cause of the condition, that person's depression will likely show physical symptoms (such as slowed speech and lessened appetite), psychological symptoms (such as suicidal thoughts) and social symptoms (such as social withdrawal)."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Treatment of psychological disorders can involve biological, psychological, and social interventions simultaneously.",
+        "spans": [
+          "Perhaps most importantly, it is possible to treat depression through physical means (anti-depressant medicine, physical exercise), psychological means (cognitive therapy) and also social means (urging the person to get out and interact with other people) regardless of how that depression got started. All of these methods are likely to prove helpful in lifting depressed mood. What is more, they can all be used at once despite their different origins; you aren't limited to trying one intervention at a time."
+        ]
+      }
+    ],
+    "clueweb22-en0018-43-00662": [
+      {
+        "point_number": 1,
+        "point_content": "The biopsychosocial model conceptualizes disorders as influenced by biological, psychological, social, and behavioral dimensions.",
+        "spans": [
+          "The biopsychosocial model refers to a holistic approach of conceptualizing disorders as being influenced by biological, psychological, social, and behavioral dimensions (Engel, 1977 ). Engel (1977) developed his model in response to inadequacies with the traditional biomedical model. He argued that psychological distress can have physical manifestations and vice versa with social and cultural environments influencing these manifestations."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Biological factors such as age and body composition (e.g., fat-free mass index) are related to drive for muscularity and muscle dysmorphia.",
+        "spans": [
+          "So far, biological factors like age or body composition have only been scarcely investigated in relation to drive for muscularity, especially not in weight-training samples. Body composition measures like body mass index (BMI) and fat-free mass index (FFMI, characterizing the muscularity of a person) were anticipated to be related to MD (Cafri et al., 2005; Grieve, 2007 )."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Psychological factors such as self-esteem and body dissatisfaction are associated with drive for muscularity and muscle dysmorphia.",
+        "spans": [
+          "With regard to psychological factors associated with drive for muscularity, low self-esteem has been identified by different authors in adolescent boys (McCreary and Sasse, 2000) and college aged men (Chittester and Hausenblas, 2009 ).",
+          "Another factor associated with drive for muscularity is body dissatisfaction (Cafri et al., 2005; Grieve, 2007 )."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Sociocultural factors including media body ideal internalization and peer experiences influence drive for muscularity and body image concerns.",
+        "spans": [
+          "Associated with body dissatisfaction is body ideal internalization (Grieve, 2007) of socially prescribed male body ideals, spread through mass media.",
+          "Moreover, sociocultural factors such as teasing or critique by peers and parents have been suggested as related to drive for muscularity."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Media body ideal internalization is the strongest positive predictor for drive for muscularity.",
+        "spans": [
+          "Using multiple regression models, findings showed that media ideal body internalization was the strongest positive predictor for drive for muscularity,"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Age negatively predicts drive for muscularity, with younger men showing higher drive.",
+        "spans": [
+          "while age (M = 25.9, SD = 7.4) held the strongest negative association with drive for muscularity."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Dissatisfaction with muscularity, but not with body fat, is related to drive for muscularity.",
+        "spans": [
+          "Dissatisfaction with muscularity, but not with body fat, was related to drive for muscularity."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Fat-free mass index predicts drive for muscularity-related behavior but not attitudes.",
+        "spans": [
+          "The fat-free mass index, a quantification of the actual degree of muscularity of a person, significantly predicted drive for muscularity-related behavior but not attitudes."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Body-related self-esteem negatively predicts drive for muscularity, but global self-esteem does not.",
+        "spans": [
+          "Body-related aspects of self-esteem, but not global self-esteem, were significant negative predictors of drive for muscularity."
+        ]
+      }
+    ],
+    "clueweb22-en0038-18-09059": [
+      {
+        "point_number": 1,
+        "point_content": "Anxiety disorders result from a multitude of biological, psychological, and social factors that all interact to create and maintain these disorders.",
+        "spans": [
+          "anxiety disorders result from a multitude of biological, psychological, and social factors that all interact to create and maintain these disorders"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The biopsychosocial model proposes there are multiple, and inter-related causes of pathological anxiety, categorized into biological, psychological, and environmental or social causes.",
+        "spans": [
+          "The biopsychosocial model proposes there are multiple, and inter-related causes of pathological anxiety. These causes can be roughly categorized into three main groups: 1. biological causes, 2. psychological causes, and 3. environmental or social causes."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "People develop an anxiety disorder when they possess both biological and psychological vulnerabilities, coupled with a social environment that set-off, or trigger these vulnerabilities.",
+        "spans": [
+          "Theoretically, people develop an anxiety disorder when they possess both biological and psychological \"vulnerabilities,\" coupled with a social environment that set-off, or trigger these vulnerabilities."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The biological aspect refers to physiological responses to fear, genetic traits, brain functioning, and a genetic vulnerability expressed as a personality type that is more reactive and sensitive to stress.",
+        "spans": [
+          "The biological aspect of the biopsychosocial model refers to the body's physiological, adaptive responses to fear. It also refers to genetic traits, and the brain functioning that we \"inherit.\" More specifically, what is passed down is a genetic vulnerability expressed as a \"personality type\" (Bourne, 2000). This personality type describes a person who is more reactive, more sensitive, and/or more easily excitable in the presence of stress."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Psychological factors refer to thoughts, beliefs, and perceptions about experiences and environment, influencing perceived control and interpretation of events as threatening or non-threatening.",
+        "spans": [
+          "The psychological factors in the biopsychosocial model refer to our thoughts, beliefs, and perceptions about our experiences, our environment, and ourselves. These cognitive patterns affect our perceived sense of control over our environment. These cognitive patterns also influence how we assess and interpret events in our environment as either threatening or non-threatening."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Social component refers to environmental factors that trigger, shape, and strengthen biological and psychological vulnerabilities, including stressors and role models.",
+        "spans": [
+          "According to Barlow (2002), once the biological and psychological vulnerabilities are in place, an individual may then \"learn,\" from their social environment (such as their family), to focus their anxiety on specific objects, or situations in their environment. Thus, the social component of the model refers to environmental factors that may trigger, shape, and strengthen the biological and psychological vulnerabilities. Environmental factors can include stressors that commonly affect everyone, such as the tragic events of 9-11. They can also be more individualized stressors that may not be experienced by everyone. This might include financial stress, loss of a loved one, or pet loss.",
+          "Our social environment includes different role-models that can have a significant influence on any preexisting vulnerabilities."
+        ]
+      }
+    ],
+    "clueweb22-en0015-27-15337": [
+      {
+        "point_number": 1,
+        "point_content": "Biology, genetics, and epigenetics do not solely determine gender identity, though hormones shape the gender experience.",
+        "spans": [
+          "We know from empirical evidence that biology with its male and female hormones, do not dictate gender identity.",
+          "Along with biology is the genetics and epigenetics consideration; perhaps a set of genes contribute in whole or in part to a “gender identity.”",
+          "Genetics determine gender from a biochemical perspective, but I don’t know of any evidence that suggests genetics determine “gender identity.”",
+          "Biology and attendant hormones do not “cause” gender identity, even though hormones certainly shape the gender experience."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Social and cultural factors drive conformity of gender behaviors but do not dictate gender identity.",
+        "spans": [
+          "Cordelia Fine’s book Delusions of Gender describes copious evidence that gender identity is socially reinforced.",
+          "The book shows how even the most conscientious parents who want to raise their children “gender neutral” are not immune to reinforcing gender biases.",
+          "Delusions of Gender is persuasive in arguing that society drives the parameters of gender conformity but does not examine the origin of gender identity.",
+          "Social and cultural rules do not dictate gender identity, even though society and culture drive conformity of gender behaviors."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Psychological and neurological factors are considered mainly when gender identity does not align with biological sex, but they are not determinants of gender identity.",
+        "spans": [
+          "What about psychological and neurological factors?",
+          "Psychological and neurological considerations arise primarily when a person’s gender identity does not align with biological sex, and even then, these are considerations imposed by others (people who decide that “something is wrong”).",
+          "I don’t view psychology and neurology as determinants of gender identity, even though both are used as factors when society imposes “rights and wrongs” about gender identity."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Gender identity emerges from a conscious quality independent of biology, society, and culture, with biology, psychological, and social-cultural factors acting upon this original conscious quality.",
+        "spans": [
+          "Now I am left with a phenomenological dimension as the origin of gender identity.",
+          "The very origin of your conscious knowledge that “you” are “you” is also the origin of your gender identity.",
+          "This conscious quality, within which gender identity resides, emerges independently of biology, society, and culture.",
+          "What we are seeing as “gender identity” is really a product of biology, society, and culture acting upon this original conscious quality, and assigning a moral value to a phenomenon."
+        ]
+      }
+    ],
+    "clueweb22-en0019-23-13322": [
+      {
+        "point_number": 1,
+        "point_content": "A bio-psychosocial approach systematically considers biological, psychological, and social factors and their complex interactions in understanding health, illness, and health care delivery.",
+        "spans": [
+          "A bio-psychosocial describes an approach systematically considers biological, psychological, and social factors and their complex interactions in understanding health, illness, and health care delivery."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Biological factors include defective biological processes compounds that lead to biological dysfunction and illness.",
+        "spans": [
+          "Biological factors include defective biological processes compounds that lead to biological dysfunction and illness."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Psychological factors are about the individual’s emotions, behavior, and mental processes.",
+        "spans": [
+          "Psychological factors are about the individual’s emotions, behavior, and mental processes."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Social factors include social status and relations.",
+        "spans": [
+          "Social factors include social status and relations."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "These factors are all considered in an attempt to understand the underlying factors of such disease.",
+        "spans": [
+          "These factors are all considered in an attempt to understand the underlying factors of such disease."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Behavioral and environmental psychologists argue that a human person learns to control their direct environment in relation to their situations; learning their behaviors with the surroundings they are in, but without combination of other approaches, it is complicated to help any person with the behavioral model.",
+        "spans": [
+          "Behavioral and environmental psychologists ignore the developmental, biological or psychological aspect of the individual and argue that a human person learns to control their direct environment in relation to their situations; learning their behaviors with the surroundings their in. Without combination of other approaches to psychological problems, it is complicated to help any person with the behavioral model."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Helping a patient to learn positively rewarding stimuli without understanding or considering factors like background or biological factor could be meaningless.",
+        "spans": [
+          "This is because helping a patient to learn positively rewarding stimuli without understanding or considering factors like background or biological factor could be meaningless."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Biological approach focuses on genetically inheritance and the internal body state of any individual but cannot be entirely relied upon to explain certain problems.",
+        "spans": [
+          "Biological approach gives focus on genetically inheritance and the internal body state of any individual. This could be a good perspective in understanding such problems, but it cannot be entirely relied upon to explain certain problems."
+        ]
+      }
+    ],
+    "clueweb22-en0012-78-01751": [
+      {
+        "point_number": 1,
+        "point_content": "The interplay of biological, behavioral, and societal influences affects health and disease.",
+        "spans": [
+          "Health and Behavior: The Interplay of Biological, Behavioral, and Societal Influences."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Stress is linked to cardiovascular disease and other health problems through interactions among the central nervous system, endocrine system, and immune system.",
+        "spans": [
+          "Acceptance of the fact that stress is linked to cardiovascular disease or to other health problems has become commonplace.",
+          "research also reveals many reciprocal links among the central nervous system, which recognizes and records experiences; the endocrine system, which produces hormones that govern many body functions; and the immune system, which organizes responses to infections and other challenges."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Specific behaviors and social factors such as tobacco use, alcohol consumption, physical activity, sexual practices, diet, socioeconomic status, social networks, employment status, and personal beliefs influence health and disease risk.",
+        "spans": [
+          "tobacco use, alcohol consumption, inadequate physical activity, some sexual practices, and high-fat or low-fiber diets have all been recognized as unhealthful.",
+          "Less widely recognized, however, is the association between socioeconomic status and health, or the influence of social networks, current or anticipated employment status, and personal beliefs."
+        ]
+      }
+    ]
+  }
+}

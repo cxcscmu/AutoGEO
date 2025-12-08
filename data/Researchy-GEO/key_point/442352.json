@@ -1,0 +1,422 @@
+{
+  "question": "is it ethical to use animals for medical and cosmetic testing?",
+  "key_points": {
+    "clueweb22-en0019-60-07254": [
+      {
+        "point_number": 1,
+        "point_content": "Animal testing is unethical and if not forbidden it should be limited to the maximum.",
+        "spans": [
+          "animal testing is unethical and if not forbidden it should be limited to the maximum"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Animal testing kills innocent animals in the cruelest ways such as dissection, poisoning, vivisection, toxicology testing, and other methods.",
+        "spans": [
+          "Animal testing kills innocent animals in the cruelest ways such as dissection, poisoning, vivisection, toxicology testing, and other methods"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Animal tests are forbidden for products that do not cause serious health problems in human beings.",
+        "spans": [
+          "animal tests are forbidden for products that do not cause serious health problems in human beings"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Animals are different from human beings – they have different bodies and other organs, so testing on animals may not bring the expected results.",
+        "spans": [
+          "animals are different from human beings – they have different bodies and other organs, so testing on animals may not bring the expected results"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "There are now many other alternative testing methods available, such as using human cells and tissue studies, which show the desired effects on human beings.",
+        "spans": [
+          "there are now many other alternative testing methods available",
+          "If we want more accurate and real results we can use human cells for testing",
+          "Also, tissue studies are very advanced methods for testing medical cures and drugs",
+          "These tissue experiments will show the desired effects on human beings"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Medical research using animal testing saves millions of lives each year and has helped find cures for diseases like HIV/AIDS, cancer, Alzheimer’s, and Parkinson’s.",
+        "spans": [
+          "medical research saves millions of lives each year",
+          "Because of testing on animals, they argue, medical workers around the world could find cures to HIV/AIDS, cancer, Alzheimer’s disease, Parkinson’s disease"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Animal testing also helps animals by discovering cures for animal diseases and improving animal health.",
+        "spans": [
+          "animal testing not only helps human beings, but it also helps animals",
+          "thanks to animal testing, animals now have better chance to survive diseases and injuries"
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "There are currently no other advanced testing techniques that can fully substitute animal testing, so it remains valuable and necessary.",
+        "spans": [
+          "if there were other testing techniques, that can substitute animal testing, then they will accept them",
+          "there are no other advanced testing techniques",
+          "animal testing remains the most valuable testing method"
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Saving human lives is considered more important than saving animal lives by supporters of animal testing, so animal testing should be allowed but controlled.",
+        "spans": [
+          "we should be more concerned with saving human lives than with saving animal lives",
+          "animal testing should be allowed, because saving human lives is more beneficial than saving animal lives",
+          "the testing processes and experiments should be controlled"
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Animal testing has generated very valuable information about how drugs and medical cures work inside human bodies, contributing to medical progress.",
+        "spans": [
+          "animal testing has generated very valuable information of how certain drugs, and other medical cures, work inside human bodies",
+          "Because of animal testing we are where we are in medicine today"
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0003-88-10630": [
+      {
+        "point_number": 1,
+        "point_content": "Animal testing is considered acceptable in the medical field only if there are no other alternatives.",
+        "spans": [
+          "animal testing is considered acceptable in the medical field only if there are no other alternatives"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Animal testing is completely unacceptable in the cosmetics field.",
+        "spans": [
+          "but is completely unacceptable in the cosmetics field"
+        ]
+      }
+    ],
+    "clueweb22-en0018-27-04266": [
+      {
+        "point_number": 1,
+        "point_content": "Animal research has had a vital role in many scientific and medical advances of the past century and continues to aid our understanding of various diseases.",
+        "spans": [
+          "Animal research has had a vital role in many scientific and medical advances of the past century and continues to aid our understanding of various diseases."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Opponents to any kind of animal research believe that animal experimentation is cruel and unnecessary, regardless of its purpose or benefit.",
+        "spans": [
+          "Opponents to any kind of animal research—including both animal-rights extremists and anti-vivisectionist groups—believe that animal experimentation is cruel and unnecessary, regardless of its purpose or benefit."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Scientists accept controls on the use of animals in research and the bioscience community accepts that animals should be used for research only within an ethical framework.",
+        "spans": [
+          "No responsible scientist wants to use animals or cause them unnecessary suffering if it can be avoided, and therefore scientists accept controls on the use of animals in research. More generally, the bioscience community accepts that animals should be used for research only within an ethical framework."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The UK has implemented the Animals (Scientific Procedures) Act 1986 which requires that proposals for research involving animals must be fully assessed in terms of harm to animals and weighed against potential benefits.",
+        "spans": [
+          "The UK has gone further than any other country to write such an ethical framework into law by implementing the Animals (Scientific Procedures) Act 1986. ... The Act requires that proposals for research involving the use of animals must be fully assessed in terms of any harm to the animals. ... These are then weighed against the potential benefits of the project."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The UK introduced an Ethical Review Process at research institutions to promote good animal welfare and humane science, supporting the 3Rs—replacement, reduction and refinement of the use of animals in research.",
+        "spans": [
+          "In addition, the UK government introduced in 1998 further ‘local' controls—that is, an Ethical Review Process at research institutions—which promote good animal welfare and humane science by ensuring that the use of animals at the designated establishment is justified. ... and to develop initiatives for the widest possible application of the 3Rs—replacement, reduction and refinement of the use of animals in research (Russell & Burch, 1959 )."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Public opinion in the UK generally supports the use of animals in medical research if it is for serious medical purposes, suffering is minimized, and alternatives are considered; cosmetic testing is generally not supported.",
+        "spans": [
+          "polls show that a high proportion—84% in 1999, 90% in 2002 and 89% in 2005—is ready to accept the use of animals in medical research if the research is for serious medical purposes, suffering is minimized and/or alternatives are fully considered. ... In general, they feel that animal welfare should be weighed against health benefits, that cosmetic-testing should not be allowed, ..."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Medical general practitioners largely agree that animal research has contributed to medical advances and that new medicines should be tested on animals before human trials.",
+        "spans": [
+          "In 2006, a survey by GP Net showed that 96% of GPs agreed that animal research has made important contributions to many medical advances ... Almost nine out of ten GPs (88%) agreed that new medicines should be tested on animals before undergoing human trials."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "The UK provides a high level of public information about animal research, promoting openness and accountability.",
+        "spans": [
+          "In response to the FOI Act, the Home Office now publishes overviews of all new animal research projects, in the form of anonymous project licence summaries, on a dedicated website. This means that the UK now provides more public information about animal research than any other country."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Independent inquiries in the UK have accepted the rationale for the use of animals in research for human health benefits and support the 3Rs and ethical debate.",
+        "spans": [
+          "These rigorous independent inquiries all accepted the rationale for the use of animals in research for the benefit of human health, and concluded that animal research can be scientifically validated on a case-by-case basis. The Nuffield Council backed the 3Rs and the need for clear information to support a constructive debate, and further stated that violence and intimidation against researchers or their allies is morally wrong."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "The principles of replacing, reducing and refining the use of animals in scientific research are central to UK regulation, supported by the National Centre for the Replacement, Refinement and Reduction of Animals in Research (NC3Rs).",
+        "spans": [
+          "The principles of replacing, reducing and refining the use of animals in scientific research are central to UK regulation. In fact, the government established the National Centre for the Replacement, Refinement and Reduction of Animals in Research (NC3Rs; London, UK) in May 2004 to promote and develop high-quality research that takes the 3Rs into account."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Complete replacement of animals in research is currently not possible due to the complexity of whole living organisms, but alternatives are being developed and used to reduce animal use.",
+        "spans": [
+          "The main obstacle is still the difficulty of accurately mimicking the complex physiological systems of whole living organisms—a challenge that will be hard to meet. ... New and promising techniques such as microdosing also have the potential to reduce the number of animals used in research, but again cannot replace them entirely."
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "Anti-vivisectionist groups reject the 3Rs and advocate for total replacement without considering validation or consequences for human health.",
+        "spans": [
+          "Anti-vivisectionist groups do not accept this reality and are campaigning vigorously for the adoption of other methods without reference to validation or acceptance of their limitations, or the consequences for human health. Animal-rights groups also disagree with the 3Rs, since these principles still allow for the use of animals in research; they are only interested in replacement."
+        ]
+      },
+      {
+        "point_number": 13,
+        "point_content": "Good science and experimental design help reduce the number of animals used, but sufficient numbers are needed for valid results to avoid repetition.",
+        "spans": [
+          "Good science and good experimental design also help to reduce the number of animals used in research as they allow scientists to gather data using the minimum number of animals required. However, good science also means that a sufficient number must be used to enable precise statistical analysis and to generate significant results to prevent the repetition of experiments and the consequent need to use more animals."
+        ]
+      },
+      {
+        "point_number": 14,
+        "point_content": "Refinement includes improving animal husbandry, housing, handling, and pain management to reduce suffering.",
+        "spans": [
+          "Sometimes this is achieved relatively easily by improving animal husbandry and housing, for example, by enriching their environment. ... Another important factor is refining the experimental procedures themselves, and refining the management of pain. ... careful handling of the animals, and administration of appropriate anaesthetics and analgesics during the experiment, can help to reduce any pain experienced by the animals."
+        ]
+      },
+      {
+        "point_number": 15,
+        "point_content": "The use of animals in research can be ethically and morally justified given the enormous benefits to public health and medical research, with the 3Rs crucial to reduce animal suffering.",
+        "spans": [
+          "In conclusion, RDS considers that the use of animals in research can be ethically and morally justified. The benefits of animal research have been enormous and it would have severe consequences for public health and medical research if it were abandoned. Nevertheless, the use of the 3Rs is crucial to continuously reduce the number and suffering of animals in research."
+        ]
+      }
+    ],
+    "clueweb22-en0038-64-18372": [
+      {
+        "point_number": 1,
+        "point_content": "Animal testing of cosmetics is still ongoing globally, with 80% of the world allowing it and as many as 500,000 animals tested annually.",
+        "spans": [
+          "80% of the world still allows cosmetics to be tested on animals.",
+          "as many as 500,000 animals are being tested on across the world each year"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The European Union has banned animal testing for finished cosmetic products since 2004 and for ingredients since 2009, with a ban on import and sale of new cosmetics tested on animals abroad since 2013.",
+        "spans": [
+          "The European Union introduced a ban on the testing of finished cosmetic products (shampoo, make-up, toothpaste, etc.) on animals in 2004.",
+          "Five years later, it also ended the testing of ingredients, following this up with a ban on the import and sale of new cosmetics tested on animals abroad, in 2013."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "There is conflicting legislation in the EU due to REACH regulations requiring chemical safety testing, which may involve animal testing for chemicals used in cosmetics.",
+        "spans": [
+          "The Registration, Evaluation, Authorisation and restriction of Chemicals (REACH) – an EU chemical safety regulation – has been requiring all chemicals used in Europe to be re-tested for safety by June 2018.",
+          "some of the chemicals that are used in cosmetic products will have been tested on animals for REACH."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Many countries outside the EU have implemented bans on animal testing for cosmetics, including Norway, Switzerland, Israel, Turkey, India, Vietnam, South Korea, New Zealand, and Australia.",
+        "spans": [
+          "Norway now has a testing ban on finished products and ingredients as well as on marketing.",
+          "Switzerland announced it would ban the marketing of cosmetics that have been tested on animals abroad.",
+          "Israel was one of the first countries outside the European Union to introduce testing and marketing bans.",
+          "As of January 2016, Turkey banned (apart from in exceptional circumstances) the sale of cosmetic products tested on animals or containing ingredients developed through animal testing.",
+          "In 2014, India banned the testing of cosmetics on animals and, in the same year, Vietnam banned the use of the Draize rabbit eye and skin irritation tests.",
+          "South Korea, one of Asia’s largest cosmetics producers, is working towards a partial ban on animal testing of cosmetics by 2018.",
+          "In 2015, New Zealand passed into law a ban on testing cosmetics ingredients and finished products and, in Australia, the federal government has also pledged to ban cosmetics cruelty by July 2017."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "China requires animal testing for imported cosmetics, but new regulations in 2017 may reduce this requirement.",
+        "spans": [
+          "While many of the brands featured in this guide have a commitment not to test on animals, many, like L’Oréal, have a caveat which states “except when required by law”.",
+          "in January 2017, new regulations were issued which will potentially mean some cosmetics will not now be subject to this requirement."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Cruelty Free International and other organizations campaign to end animal testing for cosmetics and promote cruelty-free products.",
+        "spans": [
+          "That’s why, for over 20 years, Cruelty Free International has been working tirelessly to end the cruelty and suffering.",
+          "Internationally, over 600 companies are now certified with the Leaping Bunny, making it easier than ever for shoppers to find and buy products that are not animal tested."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Ethical consumers are encouraged to look for the Leaping Bunny certification to ensure cosmetics are cruelty-free.",
+        "spans": [
+          "Until we know that cosmetics animal testing cannot happen anywhere in the world, it is just as vital as ever that ethical consumers look for the Leaping Bunny to ensure your cosmetics and toiletries are cruelty free."
+        ]
+      }
+    ],
+    "clueweb22-en0010-68-10588": [
+      {
+        "point_number": 1,
+        "point_content": "The European Medicines Agency (EMA) supports the implementation of the so-called 3Rs principles - replace, reduce and refine - for the ethical use of animals in medicine testing across the European Union (EU).",
+        "spans": [
+          "The European Medicines Agency (EMA) supports the implementation of the so-called 3Rs principles - replace, reduce and refine - for the ethical use of animals in medicine testing across the European Union (EU)."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "These principles encourage alternatives to the use of animals in the testing of medicines while safeguarding scientific quality and improving animal welfare where the use of animals cannot be avoided.",
+        "spans": [
+          "These principles encourage alternatives to the use of animals in the testing of medicines while safeguarding scientific quality and improving animal welfare where the use of animals cannot be avoided."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Directive 2010/63/EU requires marketing authorisation holders to integrate the 3Rs and welfare standards for the treatment of animals in all aspects of the development, manufacture and testing of medicines.",
+        "spans": [
+          "Directive 2010/63/EU requires marketing authorisation holders to integrate the 3Rs and welfare standards for the treatment of animals in all aspects of the development, manufacture and testing of medicines."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The Directive aims to protect animals in scientific research, with the final aim of replacing all animal research with non-animal methods.",
+        "spans": [
+          "The Directive aims to protect animals in scientific research, with the final aim of replacing all animal research with non-animal methods."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The 3Rs stand for: replacing the use of animals with non-animal methods where possible; reducing the number of animals used to a minimum while still obtaining scientifically valid results; refining practices to minimise the stress and improve the welfare of study animals used for regulatory purposes.",
+        "spans": [
+          "The 3Rs stand for:\nreplacing the use of animals with non-animal methods where possible;\nreducing the number of animals used to a minimum while still obtaining scientifically valid results;\nrefining practices to minimise the stress and improve the welfare of study animals used for regulatory purposes."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "EMA supports the implementation of Directive 2010/63/EU and the 3Rs principles in the EU, by identifying how they can be implemented in regulatory testing and developing scientific guidelines for medicine developers and manufacturers.",
+        "spans": [
+          "EMA supports the implementation of Directive 2010/63/EU and the 3Rs principles in the EU, by:\nidentifying how they can be implemented in regulatory testing;\ndeveloping scientific guidelines for medicine developers and manufacturers;"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "EMA provides developers a forum for early dialogue via its Innovation Task Force (ITF) to discuss the regulatory acceptance of so-called new approach methodologies (NAM) to replace the use of animals in the testing of medicines.",
+        "spans": [
+          "providing developers a forum for early dialogue via its Innovation Task Force (ITF) to discuss the regulatory acceptance of so-called new approach methodologies (NAM) to replace\u0000the use of animals in in the testing of medicines;"
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "EMA has a dedicated Joint CVMP/CHMP 3Rs Working Group (J3RsWG), which provides advice to its scientific committees on all matters concerning the use of animals in regulatory testing of medicines.",
+        "spans": [
+          "EMA has a dedicated Joint CVMP/CHMP 3Rs Working Group (J3RsWG), which provides advice to its scientific committees on all matters concerning the use of animals in regulatory testing of medicines."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Wherever the manufacture or batch testing of veterinary medicines to be marketed in the European Economic Area (EEA) takes place, they must conform to EU ethical and animal welfare standards.",
+        "spans": [
+          "Wherever the manufacture or batch testing of veterinary medicines to be marketed in the European Economic Area (EEA) takes place, they must conform to EU ethical and animal welfare standards."
+        ]
+      }
+    ],
+    "clueweb22-en0007-01-05429": [
+      {
+        "point_number": 1,
+        "point_content": "Animal testing has led to tremendous advancement in the discovery of hugely beneficial drugs and plays a critical role in understanding human diseases.",
+        "spans": [
+          "there is indeed substantial evidence that the use of animals for medical research and testing has led to tremendous advancement in the discovery of hugely beneficial drugs and still plays a critical role in the understating of different human diseases"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Animal testing provides an accurate mechanism for validating the effects of medical and pharmaceutical products on the human body.",
+        "spans": [
+          "the use of animal testing has also provided an accurate mechanism for validating the effects of various medical and pharmaceutical products on the human body system"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Animal research and testing should be undertaken within a strict ethical framework involving detailed assessment of potential effects on animals.",
+        "spans": [
+          "Most scientists concur that animals research and testing should be undertaken within a strict ethical framework which involves a detailed assessment of the potential effect to the animal before the testing"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "A survey showed 96% of medical and pharmaceutical experts believe animal testing significantly contributed to drug research and discovery.",
+        "spans": [
+          "In this survey, it was established that 96% of medical and pharmaceutical research experts believe that animal testing has significantly contributed to the research and discovery of drugs"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "88% of medical doctors prefer pharmaceutical drugs to be tested on animals first before human trials to identify potential effects accurately.",
+        "spans": [
+          "88% of medical doctors prefer pharmaceutical drugs to be tested on animals first before tried on human beings"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Animal testing results in more accurate medical research data leading to discovery of beneficial medicines.",
+        "spans": [
+          "84% of pharmaceutical and medical experts believes that use of animal testing has resulted into more accurate results which have led to the discovery of medicines that are potentially beneficial to the human being"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Animal testing is affordable and speeds up the medical research process compared to alternative technologies which are costly and time-consuming.",
+        "spans": [
+          "the use of animal research and testing has been confirmed to be very affordable and speeds up the medical research process",
+          "alternative technologies that can suitably replace animal testing are costly and requires a lot of time for testing"
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Alternative technologies require multiple tests and bureaucratic validation, making them less favorable for dynamic medical research.",
+        "spans": [
+          "Even in regulatory toxicology that is usually straightforward, the alternative technologies needed more than 20 tests to determine the potential risks and effects of new substances",
+          "the process of approving and certifying the non-animal techniques is always bureaucratic and not favorable to the dynamics within the medical research environment"
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Animal testing can be justified when benefits to humans outweigh the pain caused to animals, especially for impactful drugs like those for malaria and cancer.",
+        "spans": [
+          "the use of animal testing can be justified in specific research by weighing out the potential benefits against the costs and effects of such medical research",
+          "the use of animal testing is thus recommended since the benefits are much higher than the pain exposed to the animals"
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "A balance must be struck between animal protection and the need for accurate medical research data, ensuring animals are not exposed to unnecessary cruelty.",
+        "spans": [
+          "we need to be pragmatic and strike a balance",
+          "Animal research and testing will only be justifiable if there is great precaution undertaken not to harm or expose the animals to unnecessary cruelty"
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Medical scientists have a responsibility to protect animals used in research and to pursue reduction and replacement technologies.",
+        "spans": [
+          "Medical scientists therefore has responsibility of ensuring that any animal that they use for research should be protected",
+          "further research on reduction and replacement technologies will reduce the use of animal for medical research and testing to only very necessary experiments where the use of animals is inevitable"
+        ]
+      }
+    ]
+  }
+}

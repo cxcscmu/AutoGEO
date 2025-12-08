@@ -1,0 +1,298 @@
+{
+  "question": "why are prices going up?",
+  "key_points": {
+    "null": [],
+    "clueweb22-en0000-78-11150": [
+      {
+        "point_number": 1,
+        "point_content": "There are two main causes of inflation: demand-pull and cost-push.",
+        "spans": [
+          "There are two main causes of inflation: demand-pull and cost-push."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Demand-pull inflation occurs when demand from consumers pulls prices up.",
+        "spans": [
+          "Demand-pull conditions occur when demand from consumers pulls prices up"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Cost-push inflation occurs when supply costs force prices higher.",
+        "spans": [
+          "cost-push occurs when supply costs force prices higher."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Demand-pull inflation happens when consumer demand for goods and services increases so much that it outstrips supply, causing producers to raise prices.",
+        "spans": [
+          "Demand-pull inflation is the most common cause of rising prices. It occurs when consumer demand for goods and services increases so much that it outstrips supply. Producers, meanwhile, can't make enough to meet demand and may not have time to build the manufacturing needed to boost supply."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Cost-push inflation happens when supply decreases, creating a shortage, and producers raise prices to meet the increasing demand.",
+        "spans": [
+          "Cost-pull inflation happens when supply decreases, creating a shortage. Producers raise prices to meet the increasing demand for their goods or services."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Factors that can cause cost-push inflation include global supply chain disruptions, monopolies, natural disasters, government regulations, and currency exchange rates.",
+        "spans": [
+          "There are several contributors to inflation on the supply side. For example, global supply chain disruptions, like the one caused by the pandemic in 2020, can lead to cost-push inflation.",
+          "A company with the ability to create a monopoly is also a contributor to cost-push inflation.",
+          "Natural disasters create temporary cost-push inflation by damaging production facilities.",
+          "Government regulation and taxation can also reduce supplies.",
+          "When a country lowers its currency's exchange rates, it can create cost-push inflation in imports."
+        ]
+      }
+    ],
+    "clueweb22-en0023-62-12639": [
+      {
+        "point_number": 1,
+        "point_content": "Inflation is causing prices to rise, making groceries more expensive than last year.",
+        "spans": [
+          "Inflation is what is making it harder to stay on budget, and almost everything in every store costs more this month than it did last month.",
+          "In September, inflation rose 5.4%, meaning your groceries cost more in September 2021, than they did the same time last year."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The pandemic has caused shipping costs, truck driver shortages, and supply shortages, contributing to price increases.",
+        "spans": [
+          "FGCU economist Doctor Victor Claar said some of the cause for the sticker shock is a combination of shipping costs, truck driver shortages and supply shortages. All brought on by the pandemic."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Production slowed or stopped due to the pandemic, reducing the number of units produced.",
+        "spans": [
+          "A lot of production slowed or stopped because of the pandemic. We sort of forget that because of physical distancing and spreading people out in production facilities then those people couldn’t make as many units per week or per day as they used to."
+        ]
+      }
+    ],
+    "clueweb22-en0008-27-06351": [
+      {
+        "point_number": 1,
+        "point_content": "High oil prices raise shipping costs and affect farming costs through fertilizer prices, contributing to higher food prices.",
+        "spans": [
+          "High Oil Prices",
+          "Food gets transported great distances, and high oil prices raise shipping costs.",
+          "Oil prices also affect farming. Oil byproducts are a significant component of fertilizer."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Climate change causes extreme weather that damages crops and reduces supply, leading to higher food prices.",
+        "spans": [
+          "Climate Change",
+          "Climate change creates more extreme weather.",
+          "That creates floods, which in turn can damage crops."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Government subsidies for biofuels reduce food supply by diverting crops like corn, raising food prices.",
+        "spans": [
+          "Government Subsidies",
+          "U.S. government subsidies for corn production for biofuels take corn out of the food supply, raising prices.",
+          "The U.S. now uses 37% of its corn crop to make ethanol."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "WTO limits on stockpiles reduce food availability during shortages, increasing price volatility.",
+        "spans": [
+          "World Trade Organization Limits on Stockpiles",
+          "The World Trade Organization (WTO) limits the amount of subsidized corn and wheat that countries can add to global stockpiles.",
+          "But it also reduces the amount of food available in a shortage. That increases food price volatility."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Increased meat consumption raises demand for grain to feed animals, driving up grain and food prices.",
+        "spans": [
+          "More Meat Eating",
+          "People around the world are eating more meat, especially pork, as they become more affluent.",
+          "Higher demand for meat means higher grain prices."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "The COVID-19 pandemic disrupted supply chains and increased demand for food-at-home, causing food prices to rise in 2020.",
+        "spans": [
+          "2020: The COVID-19 Pandemic",
+          "The federal government declared a national emergency in March.",
+          "Food supply chains were constrained, leading to lower supply.",
+          "Meat, fish, dairy, and eggs were especially affected by the shifting economy brought on by the pandemic."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Extreme weather events like hurricanes, floods, and droughts in recent years have caused temporary spikes in food prices.",
+        "spans": [
+          "2018 and 2019: Climate Disasters",
+          "Hurricanes caused temporary price spikes in the production of pecans and chickens.",
+          "The U.S. experienced 14 separate billion-dollar disasters including three major floods, eight severe storms, two hurricanes (Dorian and Imelda), and one wildfire event."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Oil price increases raise transportation costs, contributing to higher food prices.",
+        "spans": [
+          "Oil prices also were expected to remain moderate in 2017. They rose instead, increasing trucking costs.",
+          "One reason was higher transportation costs as oil prices hit their second-highest price since 1987."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Disease outbreaks like avian influenza can cause sharp increases in prices of affected food products.",
+        "spans": [
+          "2015: Impact of Avian Influenza",
+          "Egg prices skyrocketed by 17.8% because of avian influenza."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Commodity speculation during crises can drive food prices higher.",
+        "spans": [
+          "2011",
+          "In response, commodity speculators drove prices even higher to take advantage of this trend."
+        ]
+      }
+    ],
+    "clueweb22-en0001-65-09049": [
+      {
+        "point_number": 1,
+        "point_content": "Rising commodity costs are partially behind the surging prices.",
+        "spans": [
+          "Rising commodity costs are partially behind the surging prices"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The Bloomberg Commodity Spot Index is at its highest level in almost a decade, indicating increased raw material costs.",
+        "spans": [
+          "the Bloomberg Commodity Spot Index — which tracks 23 raw materials — now at its highest level in almost a decade"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Surging transport costs and supply chain disruptions are contributing to higher prices.",
+        "spans": [
+          "Surging transport costs and supply chain disruptions are contributing"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Continued bump in consumer demand as more Americans cook at home is driving prices up.",
+        "spans": [
+          "as is a continued bump in consumer demand as more Americans cook at home"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Grocers have not had to discount as many items due to elevated demand, leading to less price promotion and higher prices.",
+        "spans": [
+          "With demand so elevated during the pandemic, grocers have not had to discount as many items as they normally would have"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Higher transportation, labor, and input costs flow through the whole chain to the consumer, causing inflation.",
+        "spans": [
+          "Everyone is looking to offset higher transportation costs, higher labor costs and higher input costs. And that flows through the whole chain all the way to the consumer"
+        ]
+      }
+    ],
+    "clueweb22-en0034-64-15931": [
+      {
+        "point_number": 1,
+        "point_content": "Energy prices have soared in recent months all across the world, with natural gas, electricity and coal just some of the commodities that are surging in value.",
+        "spans": [
+          "Energy prices have soared in recent months all across the world, with natural gas, electricity and coal just some of the commodities that are surging in value."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Energy prices fell when Covid-19 lockdowns were introduced, but demand returned with a vengeance as the world eased restrictions and grappled with the “new normal”.",
+        "spans": [
+          "Energy prices fell when Covid-19 lockdowns were introduced, but demand returned with a vengeance as the world eased restrictions and grappled with the “new normal”."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Wholesale European gas prices rose by more than 300% last year, pushing up the cost of electricity and driving around 30 providers to go bust in the UK alone.",
+        "spans": [
+          "Wholesale European gas prices rose by more than 300% last year, pushing up the cost of electricity and driving around 30 providers to go bust in the UK alone."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The supply side of the gas market has been complicated by the push to reduce fossil fuel use, as well as international political factors.",
+        "spans": [
+          "The supply side of the gas market has been complicated by the push to reduce fossil fuel use, as well as international political factors."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Wind output is both unreliable and inconsistent, causing shortfalls to be made up by gas.",
+        "spans": [
+          "The problem with this, says Sky News’ Ed Conway, is that wind output is both unreliable and inconsistent.",
+          "with the shortfall being made up by gas."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "The UK’s energy market has faced other setbacks in recent months, including outages at nuclear plants, and a fire that shut down a vital electricity interconnector last year, all of which have increased demand for gas and caused higher prices and even food shortages.",
+        "spans": [
+          "The UK’s energy market has faced other setbacks in recent months, including outages at nuclear plants, and a fire that shut down a vital electricity interconnector last year, all of which have increased demand for gas and caused higher prices and even food shortages."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Unusually high demand for liquefied natural gas (LNG) from Asian countries has driven up prices.",
+        "spans": [
+          "Another major factor propelling energy prices to new highs is unusually high demand for liquefied natural gas (LNG), natural gas that has been converted to liquid form to make it easier to transport by sea rather than via pipelines.",
+          "LNG prices have been rising fast as several Asian countries including Japan, South Korea and China have snapped up huge quantities of LNG to pivot away from using coal."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "European gas production has been falling due to delayed maintenance and early shutdown of the Groningen field in the Netherlands.",
+        "spans": [
+          "European gas production has also been falling for several reasons.",
+          "In the UK, gas production has been affected by planned maintenance that has been delayed from the summer of 2020, says The Oxford Institute for Energy Studies.",
+          "Gas production has also been in decline in The Netherlands’ Groningen field – Europe’s largest gas field –, and is due to completely end in 2022, eight years earlier than planned, because of the risk of earthquakes in the region caused by production drilling."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "The UK has much less gas storage compared to its European peers, limiting its ability to buffer supply shocks.",
+        "spans": [
+          "The UK also has much less gas storage compared to its European peers, roughly at around nine terawatt hours of stored gas reserves compared to 168 for Italy and 151 for Germany, the New Statesman reported last year, citing data from Gas Infrastructure Europe, a non-profit association."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Investments in oil and natural gas have declined in recent years, making supply more vulnerable to exceptional circumstances.",
+        "spans": [
+          "The Paris-based International Energy Agency points out that investments in oil and natural gas have declined in recent years due to two commodity price collapses – in 2014-2015 and in 2020.",
+          "This has made supply more vulnerable to the sorts of exceptional circumstances that we see today."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Russia provides one third of Europe’s natural gas and geopolitical tensions with Ukraine are causing market jitters and potential supply risks.",
+        "spans": [
+          "Russia’s importance to global energy markets cannot be dismissed, it provides one third of Europe’s natural gas.",
+          "Tensions between Russia and Ukraine have also been simmering and reached a new low in recent days after Russia assembled more than 100,000 troops near Ukraine’s borders.",
+          "Ofgem, the UK’s energy regulator, warned MPs last week on the Business, Energy and Industrial Strategy Committee that electricity prices could rise further before next winter if Russia were to invade Ukraine."
+        ]
+      }
+    ]
+  }
+}

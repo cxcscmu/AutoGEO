@@ -1,0 +1,54 @@
+{
+  "question": "why are factions a threat to a democratic government?",
+  "key_points": {
+    "clueweb22-en0002-66-15490": [
+      {
+        "point_number": 1,
+        "point_content": "Factions are groups united by a common interest adverse to the rights of other citizens or the community.",
+        "spans": [
+          "Madison defined a faction as \"A number of citizens, whether amounting to a minority or majority of the whole, who are united and actuated by some common impulse of passion or interest, adverse to the rights of other citizens or to the permanent and aggregate interests of the community.\""
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "In a direct democracy, majority factions can overpower minority factions, threatening liberty and rights.",
+        "spans": [
+          "In the presence of a powerful fraction, there is nothing to protect the minority factions from being overpowered; that a true direct democracy would be incapable of maintaining the protection of liberty, life, and the pursuit of happiness."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "A large republic with elected representatives reduces the power of factions to affect votes and protects against tyranny of the majority.",
+        "spans": [
+          "A large republic government will impart power to elected representatives, making the power of factions to affect the vote is greatly decreased.",
+          "James Madison argues that a larger government, like the one proposed by the new United States Constitution, would protect from the tyranny of the majority that would likely be the result of maintaining a small government."
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0001-86-19308": [
+      {
+        "point_number": 1,
+        "point_content": "Factions are dangerous because they are groups whose interests conflict with the general good and tend to undermine the stability of government.",
+        "spans": [
+          "Factions are dangerous, it was argued, for at least two reasons. First, a faction is by definition a group whose interests are in conflict with the general good.",
+          "Second, historical experience shows that, prior to the 18th century, the existence of factions in a democracy or republic tended to undermine the stability of its government."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Factions introduce instability, injustice, and confusion into public councils, which have been the mortal diseases under which popular governments have perished.",
+        "spans": [
+          "The “instability, injustice, and confusion introduced into the public councils” by factionalism, Madison wrote, have been “the mortal diseases under which popular governments have everywhere perished.”"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "At the United States Constitutional Convention, many delegates argued that the new government would be controlled and abused by factions unless there was a strong system of constitutional checks and balances.",
+        "spans": [
+          "This view was also common at the United States Constitutional Convention, where many delegates argued that the new government would inevitably be controlled and abused by factions unless there existed a strong system of constitutional checks and balances."
+        ]
+      }
+    ]
+  }
+}

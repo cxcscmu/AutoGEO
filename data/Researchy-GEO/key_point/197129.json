@@ -1,0 +1,229 @@
+{
+  "question": "why are hospitals overwhelmed",
+  "key_points": {
+    "null": [],
+    "clueweb22-en0009-18-01609": [
+      {
+        "point_number": 1,
+        "point_content": "Hospitals are overwhelmed due to a surge in Covid hospitalizations driven by the highly contagious delta variant.",
+        "spans": [
+          "More than a year-and-a-half later, University of Pittsburgh Medical Center is fighting another Covid wave, driven by the highly contagious delta variant.",
+          "Public health officials have warned for weeks that the U.S. would face another Covid wave due to delta this winter",
+          "Goldman said the medical center is facing the second-highest peak of Covid hospital admissions since last winter, driven largely by the unvaccinated.",
+          "The University of Pittsburgh Medical Center, which has more than 40 hospitals and 8,700 beds, is close to capacity and at times is running over, Goldman said.",
+          "Hospitals from the Great Lakes to the Northeast battle delta"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Staffing shortages and burnout among healthcare workers contribute to hospitals being overwhelmed.",
+        "spans": [
+          "Staffing is also tight as some health-care professionals have experienced burnout and found work elsewhere where they can make more money in a tight labor market"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Most Covid patients currently hospitalized are unvaccinated, leading to higher hospital admissions and strain on resources.",
+        "spans": [
+          "The vast majority of those currently hospitalized with Covid across the system are unvaccinated.",
+          "Goldman estimated that 80% to 90% of the hospital system's Covid patients are unvaccinated, and up to 95% of those treated in intensive-care units are not immunized against the virus."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Hospitals are also dealing with the usual winter flu season, which adds to the capacity strain.",
+        "spans": [
+          "Hospitals are already at capacity almost every winter because of flu and other seasonal illnesses. So if we add even a small increase in Covid on top of that, it would be really, really concerning"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The emergence of the omicron variant raises concerns about a potential 'perfect storm' worsening hospital capacity issues.",
+        "spans": [
+          "The detection of omicron in at least 25 states has raised concern that the variant could lead to an additional infection wave if it proves even more contagious.",
+          "\"In the weeks to come with omicron, what we've got here might be a perfect storm,\" said Dr. Barbara Sattkamp Taylor, an expert on infectious disease at UT Health San Antonio,"
+        ]
+      }
+    ],
+    "clueweb22-en0002-34-19257": [
+      {
+        "point_number": 1,
+        "point_content": "Hospitals are filling up again as cases surge, but a smaller proportion of those patients are landing in intensive care units or requiring mechanical ventilation.",
+        "spans": [
+          "hospitals are filling up again as cases surge",
+          "a smaller proportion of those patients are landing in intensive care units or requiring mechanical ventilation"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "There is mounting evidence that Omicron is intrinsically milder for most people, especially the vaccinated or previously infected.",
+        "spans": [
+          "there is mounting evidence that Omicron is intrinsically milder for most people, especially the vaccinated or previously infected"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Hospitals are seeing an increase in the number of hospitalizations, but fewer patients are going to ICU or being intubated, and most patients testing positive in emergency are being discharged.",
+        "spans": [
+          "We are seeing an increase in the number of hospitalizations",
+          "we're not sending as many patients to the ICU, we're not intubating as many patients",
+          "most of our patients that are coming to the emergency department that do test positive are actually being discharged"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "While Omicron is less dangerous for individuals, it is still putting a lot of strain on hospitals because of the influx of patients and staff calling out sick with COVID.",
+        "spans": [
+          "while the Omicron variant appears to be less dangerous for individuals, it is still putting a lot of strain on hospitals",
+          "Doctors and nurses are struggling to keep up with the work of caring for the influx of patients",
+          "staff are calling out sick with COVID"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "ICU is under less pressure from COVID this year, but the rest of the hospital is facing more pressure due to COVID hospitalizations.",
+        "spans": [
+          "While ICU is under less pressure from COVID this year, the rest of the hospital is facing more"
+        ]
+      }
+    ],
+    "clueweb22-en0012-21-13387": [
+      {
+        "point_number": 1,
+        "point_content": "Hospitals are overwhelmed because Omicron is inundating a health-care system that was already buckling under the cumulative toll of every previous surge.",
+        "spans": [
+          "Omicron is inundating a health-care system that was already buckling under the cumulative toll of every previous surge."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "COVID-19 hospitalizations have sharply increased due to the super-transmissible Delta variant joined by the even-more-transmissible Omicron variant, pushing hospitals to the edge.",
+        "spans": [
+          "In this surge, COVID-19 hospitalizations rose slowly at first, from about 40,000 nationally in early November to 65,000 on Christmas. But with the super-transmissible Delta variant joined by the even-more-transmissible Omicron, the hospitalization count has shot up to 110,000 in the two weeks since then.",
+          "Already, this surge is pushing their hospitals to the edge."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The health-care workforce has been decimated over the past two years, with many workers quitting and many others unable to work due to Omicron breakthrough infections, worsening staffing shortages.",
+        "spans": [
+          "America’s continued inability to control the coronavirus has deflated its health-care system, which can no longer offer the same number of patients the same level of care.",
+          "Health-care workers have quit their jobs in droves; of those who have stayed, many now can’t work, because they have Omicron breakthrough infections.",
+          "The staffing crisis is the worst it has been through the pandemic."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Hospitals are overwhelmed not just by COVID patients but also by patients with chronic conditions exacerbated by COVID, and by the cumulative effects of previous surges.",
+        "spans": [
+          "COVID’s burden is additive.",
+          "It isn’t reflected just in the number of occupied hospital beds, but also in the faltering resolve and thinning ranks of the people who attend those beds."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Omicron's extreme contagiousness leads to a high absolute number of hospitalizations, saturating the health-care system despite many cases being less severe individually.",
+        "spans": [
+          "Omicron’s main threat is its extreme contagiousness.",
+          "It is infecting so many people that even if a smaller proportion need hospital care, the absolute numbers are still enough to saturate the system."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Staff shortages affect all parts of the health-care system, reducing quality of care and increasing delays and difficulties in treatment and discharge.",
+        "spans": [
+          "Every part of the health-care system has been affected, diminishing the quality of care for all patients.",
+          "Facilities that provide post-acute care are being hammered, which means that many groups of patients—those who need long-term care, dialysis, or care for addiction or mental-health problems—cannot be discharged from hospitals, because there’s nowhere to send them."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Hospitals are operating beyond capacity, leading to long waits, reduced care quality, and some patients being discharged earlier than usual due to lack of beds.",
+        "spans": [
+          "In Swaminathan’s emergency room, “we routinely have 60 to 70 people who are waiting for six to 12 hours to be seen,”",
+          "Other health-care workers noted that even when they can get people into beds, offering the usual standard of care is simply impossible.",
+          "Some doctors are discharging patients who would have been admitted six months ago, because there’s nowhere to put them and they seem temporarily stable enough."
+        ]
+      }
+    ],
+    "clueweb22-en0003-92-12131": [
+      {
+        "point_number": 1,
+        "point_content": "Hospitals are overwhelmed due to a rapid increase in COVID-19 patients, especially with the Omicron variant causing multiple people, sometimes entire families, to be hospitalized at once.",
+        "spans": [
+          "multiple people were showing up at once",
+          "Sometimes entire families came in, all sick, likely with the newly identified Omicron variant of the virus"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "A significant portion of hospital staff are on sick leave due to Omicron, leading to staff shortages and increased workload for remaining staff.",
+        "spans": [
+          "a significant chunk of the staff – nearly five times the typical number – is on sick leave, in many cases because of Omicron",
+          "This has forced others to work double shifts and postpone holidays"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The majority of COVID-19 patients in ICU and hospitals are unvaccinated, contributing to higher hospitalization rates.",
+        "spans": [
+          "About 90 per cent of the COVID-19 patients in the ICU are unvaccinated",
+          "two-thirds are unvaccinated"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Omicron's high contagiousness leads to a large number of infections, which even if less severe, results in a large number of hospitalizations.",
+        "spans": [
+          "Despite growing evidence that the Omicron variant is less likely to lead to severe illness",
+          "its highly contagious nature poses a major threat",
+          "There’s so many people that are infected out there that a smaller percentage of a larger number is still a big number"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Hospitals are seeing a wider spectrum of disease severity, with both unvaccinated and vulnerable vaccinated individuals being hospitalized.",
+        "spans": [
+          "Physicians say there’s no typical patient in the Omicron wave",
+          "People who are unvaccinated are much more likely to be hospitalized or end up in the ICU and experience severe outcomes",
+          "But people with compromised immune systems or other serious health problems are also being admitted"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Hospitalization rates and ICU occupancy are significantly higher among unvaccinated populations compared to vaccinated ones.",
+        "spans": [
+          "the hospital occupancy rate for the unvaccinated was 611 per million unvaccinated people",
+          "compared to 129 per million among those who had received at least two doses",
+          "The ICU occupancy rate among the unvaccinated was 153 per million, compared to about 11 per million among those who have received at least two vaccine doses"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Some patients are hospitalized due to complications from chronic illnesses exacerbated by COVID-19, or because they can no longer care for themselves after infection.",
+        "spans": [
+          "many frail, elderly patients who get infected are coming to the hospital because they can no longer manage to take care of themselves",
+          "people with chronic illness, such as chronic obstructive pulmonary disease, experience flare-ups of symptoms after a COVID-19 infection, resulting in hospitalization"
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Hospitals must isolate all COVID-19 positive patients, regardless of the reason for admission, which adds to the strain on hospital resources.",
+        "spans": [
+          "Some people are testing positive for COVID-19 despite being admitted for something else",
+          "the same isolation protocols are put in place for everyone who tests positive"
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "The stress on hospitals is worsened by health care worker absences due to COVID-19 infections and burnout.",
+        "spans": [
+          "many health workers are isolating or taking sick leaves because of COVID-19",
+          "many others are off the job because of pandemic fatigue and burnout",
+          "20,000 health care workers are absent as a result of COVID-19 in the province",
+          "50,000 health care workers who are on longer-term leave because pandemic burnout and other issues"
+        ]
+      }
+    ]
+  }
+}

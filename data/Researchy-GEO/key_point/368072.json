@@ -1,0 +1,117 @@
+{
+  "question": "how much would it cost to end world hunger",
+  "key_points": {
+    "clueweb22-en0045-94-06868": [
+      {
+        "point_number": 1,
+        "point_content": "Estimates of how much money it would take to end world hunger range from $7 billion to $265 billion per year.",
+        "spans": [
+          "Estimates of how much money it would take to end world hunger range from $7 billion to $265 billion per year ."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Experts disagree about how to end world hunger because hunger has many causes and no single solution can address them all.",
+        "spans": [
+          "Why such a big range? Because experts disagree about how to end world hunger. Hunger has many causes:",
+          "No single solution can address them all."
+        ]
+      }
+    ],
+    "clueweb22-en0043-74-05697": [
+      {
+        "point_number": 1,
+        "point_content": "Just $160 per year for each person living in extreme poverty would eradicate world hunger by 2030, the United Nations said on Friday",
+        "spans": [
+          "Just $160 per year for each person living in extreme poverty would eradicate world hunger by 2030, the United Nations said on Friday"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The U.N. wants cash transfers to “eliminate hunger immediately” by bringing people up to the World Bank’s poverty line of $1.25 per day. It estimates this would cost $116 billion per year",
+        "spans": [
+          "The U.N. wants cash transfers to “eliminate hunger immediately” by bringing people up to the World Bank’s poverty line of $1.25 per day. It estimates this would cost $116 billion per year"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "To ensure the drop in hunger is sustainable, “pro-poor” investments of $151 billion per year are needed in areas such as irrigation, infrastructure and credit facilities on top of cash transfers",
+        "spans": [
+          "To ensure the drop in hunger is sustainable, “pro-poor” investments of $151 billion per year are needed in areas such as irrigation, infrastructure and credit facilities on top of cash transfers"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The total sum the U.N. says is needed each year is $267 billion",
+        "spans": [
+          "The total sum the U.N. says is needed each year is $267 billion"
+        ]
+      }
+    ],
+    "clueweb22-en0023-51-05650": [
+      {
+        "point_number": 1,
+        "point_content": "Financial estimates to stop world hunger by 2030 would require an input of US$33 billion per year or a total of $330 billion.",
+        "spans": [
+          "According to a 2020 report from the International Institute for Sustainable Development, financial estimates tostop world hunger by 2030 would require an input of US$33 billion per year or a total of $330 billion."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The cost includes not just providing food but also infrastructure, education, and sustainable farming techniques.",
+        "spans": [
+          "No matter which approach you consider, there is no quick fix for solving hunger, and asking how much money it would take to solve world hunger is not the only factor we need to take into account. The main reason for this is the need for infrastructure to transport the necessary food and resources to poverty-stricken regions. This means roads for transporting food and resources, agricultural solutions such as irrigation (which requires a reliable water source), education having to do with sustainable farming techniques and nutrition… the list goes on."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Ending hunger involves addressing poverty and systemic issues, which is more costly but more sustainable.",
+        "spans": [
+          "On the other hand, the more challenging and costly approach aims to end hunger by first tackling the issue of poverty, which would not only prevent hunger among vulnerable populations but solve many other issues as well. Among them would be reducing gender inequality, promoting climate-smart agriculture practices, improving the overall food system of a country, and enhancing disaster risk reduction."
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0014-36-07823": [
+      {
+        "point_number": 1,
+        "point_content": "The United Nations has estimated that $30 billion per year is needed to end world hunger.",
+        "spans": [
+          "$30 billion per year is needed to end world hunger",
+          "A price has been set and estimated by the United Nations to solve this crisis – $30 billion a year."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The U.S. defense budget is $737 billion per year, which is much larger than the cost to end world hunger.",
+        "spans": [
+          "$737 billion per year is the amount Congress spends on Defense",
+          "when compared to the U.S. defense budget – $737 billion in 2012"
+        ]
+      }
+    ],
+    "clueweb22-en0036-23-08959": [
+      {
+        "point_number": 1,
+        "point_content": "Ending world hunger by 2030 would cost $330bn.",
+        "spans": [
+          "Ending world hunger by 2030 would cost $330bn"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "International donors would need to add another $14bn a year to their spending on food security and nutrition over the next 10 years.",
+        "spans": [
+          "international donors would need to add another $14bn a year to their spending on food security and nutrition over the next 10 years"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Low and middle-income countries would also have to give another $19bn a year, potentially through taxation.",
+        "spans": [
+          "Low and middle-income countries would also have to give another $19bn a year, potentially through taxation"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,461 @@
+{
+  "question": "how coronavirus is affecting people's lives",
+  "key_points": [
+    {
+      "point_number": 1,
+      "point_content": "The COVID-19 pandemic has led to a dramatic loss of human life worldwide and presents an unprecedented challenge to public health, food systems and the world of work.",
+      "original_point_number": [
+        1
+      ]
+    },
+    {
+      "point_number": 2,
+      "point_content": "The economic and social disruption caused by the pandemic is devastating: tens of millions of people are at risk of falling into extreme poverty, while the number of undernourished people could increase significantly.",
+      "original_point_number": [
+        2
+      ]
+    },
+    {
+      "point_number": 3,
+      "point_content": "Nearly half of the world’s 3.3 billion global workforce are at risk of losing their livelihoods, with informal economy workers being particularly vulnerable due to lack of social protection and access to healthcare.",
+      "original_point_number": [
+        3
+      ]
+    },
+    {
+      "point_number": 4,
+      "point_content": "Without income during lockdowns, many people are unable to feed themselves and their families, leading to less food and less nutritious food.",
+      "original_point_number": [
+        4
+      ]
+    },
+    {
+      "point_number": 5,
+      "point_content": "The pandemic has disrupted the entire food system, preventing farmers from accessing markets and agricultural workers from harvesting crops, thus disrupting food supply chains and reducing access to healthy diets.",
+      "original_point_number": [
+        5
+      ]
+    },
+    {
+      "point_number": 6,
+      "point_content": "The pandemic has decimated jobs and placed millions of livelihoods at risk, threatening food security and nutrition especially in low-income countries and marginalized populations.",
+      "original_point_number": [
+        6
+      ]
+    },
+    {
+      "point_number": 7,
+      "point_content": "Millions of agricultural workers face working poverty, malnutrition, poor health, lack of safety and labour protection, and may continue working in unsafe conditions due to low and irregular incomes.",
+      "original_point_number": [
+        7
+      ]
+    },
+    {
+      "point_number": 8,
+      "point_content": "Migrant agricultural workers are particularly vulnerable due to risks in transport, working and living conditions and difficulty accessing government support measures.",
+      "original_point_number": [
+        8
+      ]
+    },
+    {
+      "point_number": 9,
+      "point_content": "Guaranteeing safety, health, better incomes and protection for all agri-food workers is critical to saving lives and protecting public health, livelihoods and food security.",
+      "original_point_number": [
+        9
+      ]
+    },
+    {
+      "point_number": 10,
+      "point_content": "In the COVID-19 crisis, food security, public health, employment and labour issues converge, requiring adherence to workplace safety and health practices and protection of labour rights.",
+      "original_point_number": [
+        10
+      ]
+    },
+    {
+      "point_number": 11,
+      "point_content": "Immediate action should include extending social protection, universal health coverage, and income support for those most affected, including informal workers, youth, older workers, migrants, and women.",
+      "original_point_number": [
+        11
+      ]
+    },
+    {
+      "point_number": 12,
+      "point_content": "Support measures include cash transfers, child allowances, healthy school meals, shelter and food relief, employment retention and recovery support, and financial relief for businesses.",
+      "original_point_number": [
+        12
+      ]
+    },
+    {
+      "point_number": 13,
+      "point_content": "Countries with existing humanitarian crises are particularly exposed to COVID-19 effects, requiring swift response and ensuring humanitarian and recovery assistance reaches those in need.",
+      "original_point_number": [
+        13
+      ]
+    },
+    {
+      "point_number": 14,
+      "point_content": "The pandemic has changed how we work, learn and interact as social distancing guidelines have led to a more virtual existence, both personally and professionally.",
+      "original_point_number": [
+        14,
+        27
+      ]
+    },
+    {
+      "point_number": 15,
+      "point_content": "The pandemic has triggered a wave of mental health issues, especially among younger people, negatively impacting mental health with 65% of Britons reporting a negative impact.",
+      "original_point_number": [
+        15,
+        84
+      ]
+    },
+    {
+      "point_number": 16,
+      "point_content": "Many people are feeling overwhelmed by the constant, sometimes shifting and conflicting flow of information around the virus and the pandemic.",
+      "original_point_number": [
+        16
+      ]
+    },
+    {
+      "point_number": 17,
+      "point_content": "38% of respondents said they skipped or delayed preventive health care visits because of the pandemic, with women more likely to skip appointments, including for serious issues.",
+      "original_point_number": [
+        17,
+        18
+      ]
+    },
+    {
+      "point_number": 18,
+      "point_content": "People are making significant lifestyle changes to get healthier during the pandemic, including more time outdoors, better sleep, exercise, and healthier eating, with many eating more healthy food and increasing exercise frequency.",
+      "original_point_number": [
+        19,
+        20
+      ]
+    },
+    {
+      "point_number": 19,
+      "point_content": "The pandemic has increased health awareness, with many paying more attention to risk factors for other health issues.",
+      "original_point_number": [
+        21
+      ]
+    },
+    {
+      "point_number": 20,
+      "point_content": "The pandemic has affected family dynamics, with some feeling closer to family and valuing relationships more.",
+      "original_point_number": [
+        22
+      ]
+    },
+    {
+      "point_number": 21,
+      "point_content": "Many respondents are more likely to get a flu shot and a majority would get a COVID-19 vaccine when available.",
+      "original_point_number": [
+        23
+      ]
+    },
+    {
+      "point_number": 22,
+      "point_content": "Most respondents plan to avoid normal holiday gatherings and personal interactions to stay safe, with many concerned about another surge of COVID-19 cases and another round of quarantine.",
+      "original_point_number": [
+        24,
+        25
+      ]
+    },
+    {
+      "point_number": 23,
+      "point_content": "Despite difficulties, many respondents have found positives in their experiences and have hope for the future.",
+      "original_point_number": [
+        26
+      ]
+    },
+    {
+      "point_number": 24,
+      "point_content": "The Trump administration released new guidelines to slow the spread of the coronavirus, including closing schools and avoiding groups of more than 10 people, discretionary travel, bars, restaurants and food courts.",
+      "original_point_number": [
+        28
+      ]
+    },
+    {
+      "point_number": 25,
+      "point_content": "Social distancing means maintaining a distance of at least six feet from others and minimizing contact by avoiding public transportation, limiting nonessential travel, working from home, and skipping social gatherings, which reduces virus spread and has saved thousands of lives in past pandemics.",
+      "original_point_number": [
+        29,
+        30
+      ]
+    },
+    {
+      "point_number": 26,
+      "point_content": "Young people should not continue to socialize as they can spread the virus to vulnerable populations and contribute to overwhelming the health care system; people under age 30 accounted for more than 20% of COVID-19 cases and are seen as more likely to transmit the virus than others.",
+      "original_point_number": [
+        31,
+        59
+      ]
+    },
+    {
+      "point_number": 27,
+      "point_content": "It is okay to leave the house for fresh air, exercise, medicines, or essential resources, but avoid close contact with people and practice hygiene measures.",
+      "original_point_number": [
+        32
+      ]
+    },
+    {
+      "point_number": 28,
+      "point_content": "The duration of social distancing is uncertain and may be indefinite depending on the pandemic's progression and effectiveness of measures.",
+      "original_point_number": [
+        33
+      ]
+    },
+    {
+      "point_number": 29,
+      "point_content": "Social distancing can cause loneliness which negatively affects health, increasing risks of depression, high blood pressure, heart disease, and weakening the immune system.",
+      "original_point_number": [
+        34
+      ]
+    },
+    {
+      "point_number": 30,
+      "point_content": "People are using creative means to stay connected during social distancing, such as streaming concerts, virtual meetings, and checking in with isolated individuals.",
+      "original_point_number": [
+        35
+      ]
+    },
+    {
+      "point_number": 31,
+      "point_content": "Covid-19 has impacted everyday activities such as buying coffee and paying for petrol with loyalty cards, with travel plans being cancelled due to border restrictions and flight capacity reductions.",
+      "original_point_number": [
+        36,
+        37
+      ]
+    },
+    {
+      "point_number": 32,
+      "point_content": "Events such as sports tournaments, school balls, dance studios and competitions are being cancelled or postponed, affecting young people emotionally and financially.",
+      "original_point_number": [
+        38,
+        40
+      ]
+    },
+    {
+      "point_number": 33,
+      "point_content": "Schools are dealing with cases of Covid-19, managing isolation and rumors about infected students, planning for possible closures, managing attendance and learning during the pandemic, and moving abruptly to online platforms and remote education.",
+      "original_point_number": [
+        39,
+        45,
+        68
+      ]
+    },
+    {
+      "point_number": 34,
+      "point_content": "Countries are implementing lockdowns, deploying armies, and facing health crises due to Covid-19.",
+      "original_point_number": [
+        41
+      ]
+    },
+    {
+      "point_number": 35,
+      "point_content": "People are changing their habits, such as avoiding markets, increasing reading at home, and workplaces and stores are implementing hygiene measures and new policies to prevent spread.",
+      "original_point_number": [
+        42,
+        43
+      ]
+    },
+    {
+      "point_number": 36,
+      "point_content": "Supermarket shopping is affected by concerns about supply, but some items like toilet paper remain available.",
+      "original_point_number": [
+        44
+      ]
+    },
+    {
+      "point_number": 37,
+      "point_content": "People are concerned about exposure to Covid-19 in communal living situations such as university halls.",
+      "original_point_number": [
+        46
+      ]
+    },
+    {
+      "point_number": 38,
+      "point_content": "Over four in five adults (84.8%) said they are very worried or somewhat worried about the effect that the coronavirus (COVID-19) is having on their life now, with greater concern among those aged 70 years and over and those with underlying health conditions.",
+      "original_point_number": [
+        47,
+        51
+      ]
+    },
+    {
+      "point_number": 39,
+      "point_content": "The most common issue affecting people's lives as a result of COVID-19 is people’s inability to make plans (52.3%), followed by impact on well-being (49.9%) and personal travel plans (47.3%).",
+      "original_point_number": [
+        48,
+        52
+      ]
+    },
+    {
+      "point_number": 40,
+      "point_content": "42.7% of adults said COVID-19 was affecting their work, mainly due to decreased hours, business closures, working from home, and childcare challenges.",
+      "original_point_number": [
+        53
+      ]
+    },
+    {
+      "point_number": 41,
+      "point_content": "26.7% of adults said COVID-19 was affecting their household finances, mainly due to reduced income, use of savings, and borrowing money or using credit.",
+      "original_point_number": [
+        54
+      ]
+    },
+    {
+      "point_number": 42,
+      "point_content": "70.9% of adults with dependent children had homeschooled their children in the past seven days; over half were confident in their abilities, but many reported negative effects on children's well-being.",
+      "original_point_number": [
+        55,
+        49
+      ]
+    },
+    {
+      "point_number": 43,
+      "point_content": "Over 8 in 10 adults (85.4%) complied with the government's Stay at home measures, only leaving home for permitted reasons.",
+      "original_point_number": [
+        56,
+        50
+      ]
+    },
+    {
+      "point_number": 44,
+      "point_content": "Nearly 9 in 10 adults said they had access to a garden, and community spirit has increased with more people helping others and checking on neighbors.",
+      "original_point_number": [
+        57
+      ]
+    },
+    {
+      "point_number": 45,
+      "point_content": "Around half of adults (49.9%) said the coronavirus pandemic was affecting their well-being, with common issues including worry about the future, stress, anxiety, and boredom.",
+      "original_point_number": [
+        58
+      ]
+    },
+    {
+      "point_number": 46,
+      "point_content": "Coronavirus infections requiring hospitalization are increasing in younger adults as the virus continues to spread; people in their 20s, 30s and 40s can catch the virus and some develop severe and lasting symptoms, especially with underlying conditions.",
+      "original_point_number": [
+        60,
+        61
+      ]
+    },
+    {
+      "point_number": 47,
+      "point_content": "Young Black and Hispanic men and women are more at risk due to racial health inequities and social determinants of health.",
+      "original_point_number": [
+        62
+      ]
+    },
+    {
+      "point_number": 48,
+      "point_content": "Many young adults work in high-risk jobs for coronavirus exposure such as health care, food services, public transportation, bars, restaurants, schools, child care centers and retail shops.",
+      "original_point_number": [
+        63
+      ]
+    },
+    {
+      "point_number": 49,
+      "point_content": "Young people may have a false sense of confidence and engage in risky behaviors like mingling in large groups, attending parties, not wearing masks, and ignoring guidelines.",
+      "original_point_number": [
+        64
+      ]
+    },
+    {
+      "point_number": 50,
+      "point_content": "Young adults can catch, spread coronavirus, and suffer severe illness or death; they play a role in the pandemic spread, with increased cases among young adults followed by increases among older adults, suggesting transmission from young to older people.",
+      "original_point_number": [
+        65,
+        66
+      ]
+    },
+    {
+      "point_number": 51,
+      "point_content": "COVID-19 precautions such as mask-wearing, physical distancing, hand hygiene and self-monitoring are effective in limiting infection and spread, especially protecting vulnerable people.",
+      "original_point_number": [
+        67
+      ]
+    },
+    {
+      "point_number": 52,
+      "point_content": "Public spaces such as schools, universities, and offices are closing down so that people can stay at home and prevent further spread; many schools and universities are opting to continue their normal classes on online platforms using tools like group video programs.",
+      "original_point_number": [
+        69,
+        70
+      ]
+    },
+    {
+      "point_number": 53,
+      "point_content": "Many online educational platforms have been advertising free educational tools for students around the world who are stuck at home.",
+      "original_point_number": [
+        71
+      ]
+    },
+    {
+      "point_number": 54,
+      "point_content": "Parents are needing to make schedules for children who would normally be in school and help younger children navigate school on the computer.",
+      "original_point_number": [
+        72
+      ]
+    },
+    {
+      "point_number": 55,
+      "point_content": "Standardized testing and school admissions are being delayed across the country, and some states are thinking of extending the school year due to delays and many missed days of school.",
+      "original_point_number": [
+        73
+      ]
+    },
+    {
+      "point_number": 56,
+      "point_content": "Both students and staff are learning how to deal with remote learning and communication, facing technological difficulties and challenges of studying at home.",
+      "original_point_number": [
+        74
+      ]
+    },
+    {
+      "point_number": 57,
+      "point_content": "Many children are left without proper meals, and parents are forced to take off work in order to care for their young children due to school closures.",
+      "original_point_number": [
+        75
+      ]
+    },
+    {
+      "point_number": 58,
+      "point_content": "Many students do not have access to computers or the internet in their homes, forcing them to miss out on their education until further solutions can be arranged.",
+      "original_point_number": [
+        76
+      ]
+    },
+    {
+      "point_number": 59,
+      "point_content": "Younger children and students with special needs find it difficult to concentrate and may require extra assistance or unique approaches to online learning.",
+      "original_point_number": [
+        77
+      ]
+    },
+    {
+      "point_number": 60,
+      "point_content": "The shift to online education is creating new opportunities, making affordable programs more relevant and known to the public; students may find that remote education works well for them and may choose to take further education or degrees online.",
+      "original_point_number": [
+        78,
+        79
+      ]
+    },
+    {
+      "point_number": 61,
+      "point_content": "The coronavirus pandemic has negatively affected romantic relationships in various countries, with the UAE reporting the highest impact at 24%; family relationships have become strained or ended due to coronavirus, with Danes reporting the highest impact at 48%; friendships have also been affected, with Danes and Indonesians most likely to report strain or ending of friendships at 35%.",
+      "original_point_number": [
+        80,
+        81,
+        82
+      ]
+    },
+    {
+      "point_number": 62,
+      "point_content": "The pandemic has caused some religious people to question or lose their faith, with 16% in the UAE reporting this effect.",
+      "original_point_number": [
+        83
+      ]
+    }
+  ]
+}

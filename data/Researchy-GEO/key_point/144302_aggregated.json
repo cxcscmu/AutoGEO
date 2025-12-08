@@ -1,0 +1,60 @@
+{
+  "question": "how does being vaccinated protect others",
+  "key_points": [
+    {
+      "point_number": 1,
+      "point_content": "COVID-19 vaccination reduces the likelihood of infection, lowers viral load and duration of virus shedding, and thus decreases the chance of spreading the virus to others, providing protection to the community, especially vulnerable individuals who cannot be vaccinated or respond poorly to vaccines.",
+      "original_point_number": [
+        1,
+        4,
+        5,
+        6,
+        7,
+        16,
+        18,
+        19,
+        20,
+        26
+      ]
+    },
+    {
+      "point_number": 2,
+      "point_content": "Getting vaccinated helps protect people around you, including those with underlying health conditions or who cannot be vaccinated, by reducing transmission and severe illness.",
+      "original_point_number": [
+        2,
+        3,
+        8,
+        9,
+        11,
+        13,
+        15,
+        25
+      ]
+    },
+    {
+      "point_number": 3,
+      "point_content": "Vaccination protects individuals against severe disease and death, tends to result in milder infection if infected, and is crucial to preventing severe disease and death.",
+      "original_point_number": [
+        17,
+        21,
+        24
+      ]
+    },
+    {
+      "point_number": 4,
+      "point_content": "Some people cannot get vaccinated or may not respond well to the vaccine due to immune conditions or medications, so community immunity through vaccination helps protect these vulnerable individuals.",
+      "original_point_number": [
+        10,
+        13
+      ]
+    },
+    {
+      "point_number": 5,
+      "point_content": "Vaccinated people who become infected clear the infection sooner than unvaccinated people, but fully vaccinated individuals who catch the virus can be just as infectious to others in their household as infected unvaccinated people.",
+      "original_point_number": [
+        22,
+        23
+      ]
+    }
+  ]
+}

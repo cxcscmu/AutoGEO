@@ -1,0 +1,424 @@
+{
+  "question": "how companies reduce carbon footprint",
+  "key_points": {
+    "clueweb22-en0006-48-16447": [
+      {
+        "point_number": 1,
+        "point_content": "Companies reduce their carbon footprint by reducing, reusing, and recycling materials, such as using recycled packing material.",
+        "spans": [
+          "Reduce, Reuse, Recycle",
+          "Dell decided to take things a step further by shipping their products with recycled packing material."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Using green appliances and eco-friendly refrigerants helps companies shrink their carbon footprint.",
+        "spans": [
+          "Green Appliances",
+          "Nestle decided to make serious changes to the types of refrigerants they used and pledged to introduce more eco-friendly freezers."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Cutting down on food-related waste by supporting local businesses and starting office composts reduces carbon footprint.",
+        "spans": [
+          "Cut Down on Food-Related Waste",
+          "The best way you can reduce food-related waste is supporting local businesses that work with farmers in the area.",
+          "You can also start an office compost, letting food waste back into the cycle it came from."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Investing in renewable energy like solar panels and purchasing carbon offsets helps companies reduce emissions.",
+        "spans": [
+          "Invest in the Future",
+          "Supporting renewable energies like solar and wind is a great way to bring them closer to industry standard.",
+          "Another great way to invest in the future is a carbon offset."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Using electric or hybrid vehicles in company fleets reduces fuel use and emissions.",
+        "spans": [
+          "Electric Vehicles",
+          "Coca-Cola realized how big their carbon footprint was based on their transportation costs alone. With the goal of cutting back on those emissions, they added a considerable number of hybrid vehicles to their fleet of delivery trucks.",
+          "These trucks use around 30% less fuel than the typical delivery truck, in addition to reducing emissions by 30%."
+        ]
+      }
+    ],
+    "clueweb22-en0018-02-15197": [
+      {
+        "point_number": 1,
+        "point_content": "Companies have committed to implementing strategies to reduce emissions in operations or supply chains, including procuring or investing in renewable energy and improving efficiency.",
+        "spans": [
+          "Each of these diverse businesses has committed to implementing strategies to reduce emissions in its operations or supply chains.",
+          "Some focus on procuring or investing in renewable energy, such as wind and solar power, while others are focusing on efficiently producing their goods and services."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Many companies have set emission reduction targets with timelines to 2020, 2030, or mid-century goals.",
+        "spans": [
+          "As documented in their annual or sustainability reports, many companies have set emission reduction targets – most with targets out to 2020 or 2030, but several with mid-century goals."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Examples of company targets include DTE Energy's goal to reduce CO2 emissions by 45% by 2030 and 80% by 2050, and Microsoft's pledge to reduce operational emissions by 75% by 2030 and being carbon neutral since 2012.",
+        "spans": [
+          "For example, DTE Energy, a Michigan-based utility, has set targets to reduce CO2 emissions from owned and purchased generation by 45 percent by 2030 and 80 percent by 2050.",
+          "Microsoft has pledged to reduce operational emissions by 75 percent by 2030, but has been operating as 100 percent carbon neutral since 2012."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Microsoft reduces emissions by putting an internal price on carbon and reinvesting in clean power, energy efficiency projects, and carbon offset projects.",
+        "spans": [
+          "Microsoft is reducing its emissions by putting an internal price on carbon and reinvesting those dollars into clean power, energy efficiency projects, and carbon offset projects."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Companies are aligning corporate goals with the Paris Agreement by going carbon neutral, with some aiming for net-zero carbon emissions by 2050 or earlier.",
+        "spans": [
+          "The trend toward aligning corporate goals with those of the Paris Agreement by going “ carbon neutral ” is rising.",
+          "Power company Duke Energy just announced its goal to generate electricity with net-zero carbon emissions by 2050, but many companies are looking at even shorter-term approaches, with goals for 2030 or 2020."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Oil and gas companies are reducing their climate impact by reducing operational emissions, investing in clean energy, and developing new technologies.",
+        "spans": [
+          "Oil and gas companies are also taking steps to reduce their climate impact.",
+          "Shell, for example, launched a program in 2017 to reduce its net carbon footprint, which recognizes that the company needs to not only reduce operational emissions but those associated with the use of its products.",
+          "Shell has set targets to reduce its total footprint by 2-3 percent below 2016 levels, but the company also acknowledges that the longer-term mix of products it sells will also change, which means investing in clean energy, such as wind and solar generation.",
+          "BP, meanwhile, is investing in StoreDot, an ultra-fast battery charger for electric vehicles.",
+          "Equinor, another oil and gas company, expects to direct 15-20 percent of its annual investments out to 2030 in new energy solutions, such as offshore wind and carbon capture technologies."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Power providers are changing fuels to renewable sources and engaging consumers in energy reduction through programs and incentives.",
+        "spans": [
+          "Meanwhile power providers are changing the fuels they use to generate electricity, but they are also looking to reduce emissions in other areas as well.",
+          "Utilities such as National Grid are engaging with their consumers to educate them on the importance of energy reduction.",
+          "National Grid recently launched an energy efficiency and solar marketplace that allows its consumers to receive rebates for installing energy-efficient heating and cooling equipment and receive free quotes for solar installations and financing options.",
+          "APS, which serves Arizona, recently announced plans to add new solar and wind resources that will help expand the company’s renewable energy portfolio to about 2,500 megawatts, enough to power more than half a million Arizona homes, by 2021."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Auto manufacturers are committing to produce more electric vehicles, improve manufacturing efficiency, and use renewable energy.",
+        "spans": [
+          "Auto manufacturers are vowing to produce more electric vehicles and improve efficiency of their product manufacturing.",
+          "General Motors has committed to use 100 percent renewable energy by 2050, which includes investing in solutions to reduce emissions associated with its thermal load.",
+          "As part of its Environmental Challenge 2050, Toyota plans to eliminate CO2 emissions in its operations and supply chain, as well as integrate recycled materials into the production of new vehicles."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "The financial sector is investing in environmental programs and financing clean energy solutions, while encouraging positive environmental actions among employees.",
+        "spans": [
+          "The financial sector is also setting bold climate goals, by both investing in environmental programs and leveraging its own industry to enable financing of clean energy solutions.",
+          "Bank of America ’s Environmental Business Initiatives have deployed more than $126 billion in financing to low-carbon and sustainable business activities since 2007.",
+          "Bank of America helps encourage positive environmental actions among its workforce.",
+          "This includes a Low-Carbon Vehicle Program that provides rebates for employees looking to lease or buy hybrid and electric cars.",
+          "Goldman Sachs & Co. has been carbon neutral since 2015 and is still looking for ways to reduce its water usage and limit waste products.",
+          "It has also invested in companies that specialize in upcycling clothing and shoes, which helps to eliminate carbon dioxide emissions from production lines and shipping.",
+          "In July, the company announced the formation of a Sustainable Finance Group, which seeks to continue driving innovative finance solutions and capture new opportunities in sustainable growth solutions."
+        ]
+      }
+    ],
+    "clueweb22-en0018-28-08345": [
+      {
+        "point_number": 1,
+        "point_content": "Companies can reduce their carbon footprint by recycling paper, using web-based communications, and reducing air travel.",
+        "spans": [
+          "recycling paper, using web-based communications, and reducing air travel"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Setting specific carbon reduction targets for each component of the supply chain is beneficial.",
+        "spans": [
+          "setting the right carbon reduction targets is beneficial. A supply chain is composed of many discrete components, and a separate target must be established for each of them"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Ensuring goods are transported in an energy-efficient way, including monitoring vehicle and fuel type, helps reduce carbon emissions.",
+        "spans": [
+          "ensuring that the goods coming in via third-party sellers are being transported in an energy-efficient way⁠—via monitoring the vehicle and type of fuel used"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Focusing on renewable types of fuel for transportation can significantly reduce a company's carbon footprint.",
+        "spans": [
+          "a company can make great strides towards a net zero carbon footprint by focusing on renewable types of fuel for the movement of their goods"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Investing in carbon neutral technologies such as self-driving vehicles and advanced software tools can reduce emissions and improve supply chain efficiency.",
+        "spans": [
+          "technology such as self-driving vehicles can reduce carbon emissions",
+          "New software tools allow a supply chain manager to view all aspects of the supply chain in the same place and therefore gain a better understanding of any bottlenecks"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Utilizing AI, machine learning, and data science helps monitor and reduce carbon emissions in the supply chain.",
+        "spans": [
+          "AI, machine learning, and data science play a significant role in helping supply chain companies reduce their carbon footprint",
+          "Utilizing carbon neutral technology, such as integrating information management into sustainability efforts, has been cited as a key way for supply chain companies to reduce emissions"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Using machine learning models for efficient routing can lower transportation costs and carbon footprint.",
+        "spans": [
+          "Using machine learning models for efficient routing can help a company transport its goods more cheaply and with a lower carbon footprint"
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Large companies like Amazon, Starbucks, and Levi are taking steps to become carbon neutral and can serve as examples for others.",
+        "spans": [
+          "Amazon has recently agreed to disclose its carbon footprint, and has stated that its goal is to have 50 percent of its deliveries have a net zero carbon footprint by 2030",
+          "Starbucks has also demonstrated the importance of analyzing the supply chain to cut carbon emissions",
+          "Levi Strauss & Co. (Levi) recently rolled out a plan to reduce carbon emissions in its supply chain by 40 percent by 2025"
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Working with suppliers to reduce emissions is important for companies to lower their overall supply chain carbon footprint.",
+        "spans": [
+          "For Levi to reduce its supply chain emissions, however, it must work with third-party suppliers⁠—a key component in reducing emissions in the supply chain"
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Transparency in carbon emissions reduction efforts is important for companies and consumers.",
+        "spans": [
+          "the importance of transparency cannot be understated⁠— companies and consumers of products need to be aware of how well certain organizations are working to reduce carbon emissions and their carbon footprint"
+        ]
+      }
+    ],
+    "clueweb22-en0032-32-06356": [
+      {
+        "point_number": 1,
+        "point_content": "Manufacturers can reduce carbon emissions by addressing equipment failure, planned stops, idling, reduced speed, production defects, and reduced yield.",
+        "spans": [
+          "equipment failure",
+          "planned stops",
+          "idling",
+          "reduced speed",
+          "production defects",
+          "reduced yield"
+        ]
+      }
+    ],
+    "clueweb22-en0030-76-00677": [
+      {
+        "point_number": 1,
+        "point_content": "Improving waste management and recycling can significantly reduce a business's carbon footprint.",
+        "spans": [
+          "Improving the management of waste throughout your business can help to significantly reduce its carbon footprint.",
+          "Ensuring that suitable recycling bins are in plain sight throughout your business can help to encourage recycling.",
+          "An increase in recycling can lead to less litter on the planet, a reduction in energy consumption, and furthermore a reduction in CO 2 emissions."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Reducing business travel, especially flights and long drives, can effectively reduce carbon emissions.",
+        "spans": [
+          "Much of a business’s carbon footprint can come from flights and long drives to meetings.",
+          "By reducing travel of this kind as much as possible, especially considering meetings can be held over Skype, a business can effectively reduce its carbon footprint and company expenses!"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Proper office space insulation helps save energy and reduce CO2 emissions.",
+        "spans": [
+          "By taking the time to make sure your office space is properly insulated, businesses can save money on energy bills whilst also reducing CO 2 emissions produced through this process.",
+          "Ensuring proper insulation during colder seasons, and adequate airflow on the hotter days (e.g. opening windows and doors) can help to control the temperature of your office space, reduce energy and air-con bills, and finally reduce the CO 2 emissions produced from this."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Reducing plastic use in the office lowers CO2 emissions by decreasing plastic production.",
+        "spans": [
+          "Similar to improving the waste disposal through recycling, reducing the amount of plastic throughout the office can help to reduce a business’s carbon footprint.",
+          "By reducing the consumer demand for plastic, you reduce the production of plastic, and subsequently the size of your carbon footprint."
+        ]
+      }
+    ],
+    "clueweb22-en0038-35-00713": [
+      {
+        "point_number": 1,
+        "point_content": "Swap fossil fuel vehicles for electric vehicles to reduce carbon footprint.",
+        "spans": [
+          "Swap fossil fuel vehicles for electric",
+          "Electric vehicles are kinder to the planet than petrol or diesel motors"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Cut back on single-use plastics to reduce carbon footprint.",
+        "spans": [
+          "Cut back on single-use plastics",
+          "reducing consumption of single-use plastics can cut your carbon footprint"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Slash the travel budget, especially air travel, to reduce carbon footprint.",
+        "spans": [
+          "Slash the travel budget",
+          "cutting back on air travel is a must"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Manage temperatures effectively to reduce energy consumption and carbon footprint.",
+        "spans": [
+          "Manage temperatures effectively",
+          "Heating, ventilation and air conditioning all burn through energy"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Go solar by installing solar panels and storage batteries to reduce carbon footprint.",
+        "spans": [
+          "Go solar",
+          "a solar array with storage batteries can make a great investment"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Think recycled by using recycling bins, buying refurbished items, and donating old tech.",
+        "spans": [
+          "Think recycled",
+          "Clearly labelled recycling bins in the workplace are a must"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Use 100% renewable electricity to cut carbon footprint.",
+        "spans": [
+          "Use 100% renewable electricity",
+          "our renewable electricity for business is backed by 100% renewable sources"
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Green the commute by encouraging carpooling and cycling to work.",
+        "spans": [
+          "Green the commute",
+          "try setting up a lift-share scheme to help your team to carpool",
+          "Cycle-to-work schemes"
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Go paper-free to reduce carbon footprint from paper industry impact.",
+        "spans": [
+          "Go paper-free",
+          "Cut back on paper waste by minimising printing, using e-signatures for documents"
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Green the canteen by offering plant-based options and reducing food waste.",
+        "spans": [
+          "Green the canteen",
+          "Ensure there are plant-based options in the canteen and avoid ingredients that have been shipped (or flown) around the world"
+        ]
+      }
+    ],
+    "clueweb22-en0007-16-02981": [
+      {
+        "point_number": 1,
+        "point_content": "Companies use innovative solutions and aggressive goals to reduce their carbon footprints.",
+        "spans": [
+          "These companies use innovative solutions and aggressive goals to see real results."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Agricultural companies adopt eco-friendly farming practices, recycle materials, map emissions, and encourage sustainable soil practices.",
+        "spans": [
+          "Land O’Lakes. The large co-op provides resources to agriculture startups and gives them resources to follow eco-friendly farming practices.",
+          "John Deere. The farming equipment company aims to recycle 85% of materials and reduce carbon emissions on 90% of new products to create sustainable inventory.",
+          "Cargill. The company maps emissions to lower carbon output through the entire supply chain and has a goal to lower greenhouse gas emissions by 10% by 2025.",
+          "Indigo Agriculture. The startup has a goal to capture 1 trillion metric tons of carbon dioxide from farmland by encouraging sustainable soil practices."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Companies in the automotive industry create fuel-saving and alternative cars, invest in sustainability, and develop hydrogen fuel-powered vehicles.",
+        "spans": [
+          "BMW. The BMW Group is regularly named the world’s most sustainable car manufacturer for its efforts to create fuel-saving and alternative cars with clean production processes.",
+          "Honda. Honda is ranked as one of the most fuel-efficient auto manufacturers in the U.S. because of its innovative practices to cut carbon emissions and develop a hydrogen fuel-powered vehicle.",
+          "Tesla. Known for its electric cars, everything Tesla does is sustainable, from the cars it creates to the manufacturing processes to build them."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Travel companies invest in fuel-efficient models, use renewable energy, and offset carbon emissions.",
+        "spans": [
+          "United Airlines. The airline invested more than $16 billion to replace all of its airplanes with more fuel-efficient models and looks to continually lower its carbon emissions.",
+          "American Airlines. The airline has made large efforts to move towards renewable energy; all of the electricity purchased at its DFW headquarters now comes from renewable sources.",
+          "Lyft. Every ride taken on Lyft is carbon neutral because the company makes donations to offset carbon emissions, including offsetting a million metric tons in its first year."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Hospitality and restaurant companies use zero net greenhouse gas emissions, switch to sustainable packaging, and source ingredients sustainably.",
+        "spans": [
+          "Disney. At all of its parks, Disney uses zero net direct greenhouse gas emissions and has a zero-waste policy so that nothing ends up in landfills.",
+          "Starbucks. The coffee giant aims to be free of plastic straws by 2020 by redesigning its cold drink cups with a strawless lid that is being rolled out in the U.S. and Canada.",
+          "Taco Bell. The restaurant sources its ingredients sustainably and is a leader in meatless options made from eco-friendly ingredients."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Retail companies use recycled materials, renewable energy, and sustainable sourcing to reduce carbon footprints.",
+        "spans": [
+          "Levi Strauss & Co. Levi’s is fighting the fashion industry’s notorious waste with a line of jeans made of recycled water bottles as well as partnerships with other eco-friendly clothing brands.",
+          "Walmart. Walmart stores use 100% renewable energy sources, and the company even cut ties with suppliers that had manufacturing or distribution practices that added to carbon emissions.",
+          "Nike. Nike has strengthened its connections with environmentally friendly suppliers around the world and has a line of sustainable products made of recycled materials."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Manufacturing companies cut carbon emissions by using renewable energy, recycling materials, and improving energy efficiency.",
+        "spans": [
+          "Siemens. Siemens has big plans to cut its carbon emissions in half and become completely carbon neutral by 2030 by using renewable energy at its factories.",
+          "S.C. Johnson. The household product manufacturer replaced nearly all of its coal power with natural gas and cut millions of pounds of waste from manufacturing its products.",
+          "Umicore. Named a top 10 company in the world for sustainability, Umicore recycles materials to recover more than 20 types of metals that can be reused."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Software companies rely on renewable energy, improve energy efficiency, and promote product recycling.",
+        "spans": [
+          "Google. The company relies on renewable energy and purchases enough renewable energy to match the electricity it consumes.",
+          "Dell. Dell uses big data analytics to track energy consumption in its facilities and make cuts as necessary, including changing its packaging to wheat straw that requires 40% less energy to produce.",
+          "Apple. The company runs completely on renewable energy and has lowered the energy output of its products by 70% in the last decade."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Construction companies reduce carbon emissions by using green building practices, hybrid vehicles, and recycled materials.",
+        "spans": [
+          "Turner Construction Company. Committed to being a green builder, Turner is cutting on-site construction greenhouse gas emissions and water consumption in half by 2030.",
+          "Hensel Phelps. By expanding its fleet with hybrid vehicles, the company is able to reduce on-site carbon emissions at its LEED-certified construction sites.",
+          "Holder Construction. The company uses recycled materials and energy-efficient systems in its projects, as well as designs made with the environment in mind."
+        ]
+      }
+    ],
+    "null": []
+  }
+}

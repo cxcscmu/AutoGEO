@@ -1,0 +1,146 @@
+{
+  "question": "will apps eventually make the web irrelevant? why or why not?",
+  "key_points": {
+    "clueweb22-en0009-39-09090": [
+      {
+        "point_number": 1,
+        "point_content": "Apps provide businesses with more control and presence on a customer's device through app downloads and background settings.",
+        "spans": [
+          "Businesses that use apps to reach their customers often say how they value their own corner on a customer's device.",
+          "This means that the app download gives them more control and presence on that significant device.",
+          "This has to de with the background settings that can trigger locationed based notifications."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Apps are easier to use and can function offline, leading to higher user loyalty compared to mobile websites.",
+        "spans": [
+          "Another advantage is how much easier it is to use an app in comparison to a mobile website.",
+          "It only takes a single push on your screen instead of having to open a web browser and typing in a URL.",
+          "This also means that an app will always work (for your company) even when there is no internet connectivity the app will mostly always have some sort of offline functionality meaning that the use is more widespread than a mobile site (necessary to be connected to the internet.",
+          "Research even shows that app users are more loyal than mobile site visitors (simply due to the ease of use)."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Mobile sites are more dynamic and easier to update and find via search engines compared to apps.",
+        "spans": [
+          "However mobile sites have their own advantages over apps.",
+          "First and foremost a mobile site is more dynamic, as in you can change the content or the design of your website with a simple push of a button instead of having to rework the entire application.",
+          "When searching for a website you can simply google it and be directed to the website, an app can be harder to locate as you need more precise keywords if you're trying to find something specific."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Apps require downloading and have development costs, while mobile sites only need internet connection.",
+        "spans": [
+          "Applications need to be downloaded before you're able to use them.",
+          "Mobile websites need an internet connection, but before you can download said app you need the internet connection aswell.",
+          "And last but not least the development of an application has both a time and financial cost."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Apps give content owners valuable consumer data and foster greater user loyalty and connection to the product.",
+        "spans": [
+          "This means that you get information (both when there is an internet connection and when it's offline due to background processes) about your consumers and you can discover their preferences and behaviours.",
+          "Furthermore app users are more loyal and will be reminded of your app more than they would be reminded of your website after using it.",
+          "Downloading an app already means that there is some sort of investment into the app that you simply can't get with a website.",
+          "For a creator an application will feel more important than a website (due to time investment) and will feel more connected with his product/application."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "The Web will not become irrelevant because apps and the Web serve different customer needs and will coexist.",
+        "spans": [
+          "I believe the Web will not be made obsolete due to the popularity of apps.",
+          "I personally think that apps and the Web will co-exist together and will simply be attractive to different types of customers."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "The Web's vastness and variety cannot be replicated by apps, which limits user possibilities and practicality.",
+        "spans": [
+          "The vastness of the Web can't be replicated by apps right now,",
+          "There is a possibility to create apps for example looking up information, buying things, playing games, ... But the usage of apps does limit your possibilities.",
+          "The Web allows you to use every possible site for it, once you download an app you're more inclined to get information through this single app as it seems impractical to download multiple apps that basicly have the same functionality.",
+          "This would overload your phone memory and it would be less efficient than simply using the Web as this gives you many more choices with less effort."
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0043-83-12551": [
+      {
+        "point_number": 1,
+        "point_content": "Myntra is shutting its website and will sell merchandise only through their app as an experiment reflecting a future where mobiles outgrow desktops.",
+        "spans": [
+          "Myntra, a fashion e-commerce website from India, recently announced that it is shutting its website and will sell their merchandise only through their app.",
+          "Myntra has made this move with an eye towards the future, where mobiles will outgrow desktops both in terms of computing power and penetration."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Myntra generates more than 90% of its traffic and 70% of its orders from its mobile app.",
+        "spans": [
+          "Myntra already generates more than 90% of its traffic and 70% of its orders from its mobile app."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "There are still many consumers who prefer websites and are more comfortable with them, so the move to apps might be premature.",
+        "spans": [
+          "There is no doubt that apps are the future, but there are still lot of Indian consumers who prefer the website and are more comfortable with it."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Consumers find advantages in apps but also prefer websites for viewing multiple products at once.",
+        "spans": [
+          "Apps are good as I can shop from anywhere. But websites give me an option to look at multiple products at the same time which apps do not.",
+          "I prefer shopping from the website as I get to see more options on the screen instead of one item at a time on the app."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Firms focus more on mobile apps due to smartphone penetration and resource allocation, sometimes reducing website functionality to informational purposes.",
+        "spans": [
+          "With the rapid penetration of smart phone and general acceptance of apps by Indian customers, firms are focusing more on mobile apps.",
+          "In future we are thinking of providing our service through mobile browsers, but our website will just be for informational purpose."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "E-commerce and taxi aggregator firms encourage app use by offering discounts and incentives.",
+        "spans": [
+          "E-commerce firms encourage customers to use their mobile app instead of the website.",
+          "Taxi aggregator apps like Ola and Uber either give discounts or free first ride if booked via their apps.",
+          "Patwa said that one gets more discounts while shopping from mobile apps."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Apps are becoming dominant due to touch interaction and evolving desktop OS to adapt to app trends.",
+        "spans": [
+          "With the touch becoming the dominant form of humans interacting with devices, apps are definitely the way to go.",
+          "Windows 8 was the first step for Microsoft to start the evolution of desktop and laptop to adapt to the trend of apps like in mobile,"
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Web browsers remain easier for discovering new content compared to apps, which are harder to discover and download.",
+        "spans": [
+          "Entering a website is still easier than downloading an app.",
+          "It is much more difficult to discover a new app in the App Store or Google Market than discovering a new website."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "The web will have to evolve from its address-driven past to stay alive, with mobile platforms leading UX improvements.",
+        "spans": [
+          "The web as we know it is rapidly changing and soon won’t look anything like it does today, where it’s powered by URLs and a bookmark bar.",
+          "The web will have to learn and evolve from its address driven past to stay alive."
+        ]
+      }
+    ]
+  }
+}

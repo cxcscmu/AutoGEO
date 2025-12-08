@@ -1,0 +1,75 @@
+{
+  "question": "how did philip ii influence the art of spain's golden age?",
+  "key_points": {
+    "clueweb22-en0005-13-12680": [
+      {
+        "point_number": 1,
+        "point_content": "Philip II influenced the art of Spain’s golden age by expanding Spanish influence and helped foster a Spanish golden age by supporting the arts.",
+        "spans": [
+          "Philip II expanded Spanish influence and helped foster a Spanish golden age by supporting the arts.",
+          "Philip II influenced the art of Spain’s golden age by expanding Spanish influence and helped foster a Spanish golden age by supporting the arts."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Philip II influenced the art of Spain’s golden age by providing financial support to artists.",
+        "spans": [
+          "Philip II influenced the art of Spain’s golden age by providing financial support to artists (D).",
+          "The correct answer is D) He provided financial support to artists."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Philip II was considered a Patron of the Arts, commissioned many paintings, built the Escorial Monastery, and attracted famous artists, making Spanish arts international.",
+        "spans": [
+          "He is considered a Patron of the Arts, he commissioned lots of painting of himself and others, he built the Escorial Monastery that was known as a world wonder at the time.",
+          "The Prado Museum was also founded, artists were attracted such as Titan, Anthonis Mor, El Greco, Pompeo, and others. This made Spanish arts become international."
+        ]
+      }
+    ],
+    "clueweb22-en0017-95-01920": [
+      {
+        "point_number": 1,
+        "point_content": "Philip II influenced the art of Spain's golden age by providing financial support to artists.",
+        "spans": [
+          "He provided financial support to artists."
+        ]
+      }
+    ],
+    "clueweb22-en0040-50-12461": [
+      {
+        "point_number": 1,
+        "point_content": "Philip II influenced the art of Spain's golden age by providing financial support to artists.",
+        "spans": [
+          "He provided financial support to artists."
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0033-43-12913": [
+      {
+        "point_number": 1,
+        "point_content": "Philip II influenced the art of Spain's golden age by providing financial support to artists.",
+        "spans": [
+          "He provided financial support to artists."
+        ]
+      }
+    ],
+    "clueweb22-en0006-46-05716": [
+      {
+        "point_number": 1,
+        "point_content": "Philip II influenced the art of Spain’s golden age by providing financial support to artists.",
+        "spans": [
+          "Philip II influenced the art of Spain’s golden age by providing financial support to artists."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "His reign as Spain’s king began the Golden Age, a period of great cultural growth in literature, music and the visual arts.",
+        "spans": [
+          "His reign as Spain’s king began the Golden Age, a period of great cultural growth in literature, music and the visual arts."
+        ]
+      }
+    ]
+  }
+}

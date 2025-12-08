@@ -1,0 +1,638 @@
+{
+  "question": "is online learning better than face-to-face",
+  "key_points": {
+    "clueweb22-en0039-88-17645": [
+      {
+        "point_number": 1,
+        "point_content": "Online learning is standing out as the better option in many important ways.",
+        "spans": [
+          "online learning is standing out as the better option in many important ways"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Interactive features today allow for the social element that face-to-face learning offers.",
+        "spans": [
+          "Interactive features today allow for the social element that face-to-face learning offers, such as through live video conference classes or virtual Q&A sessions."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Online learning lets you learn at your own pace, which is more flexible than face-to-face learning.",
+        "spans": [
+          "Lets you learn at your own pace",
+          "Instead of in-class assignments which can be stressful for some as they need more time to process new material, online courses allow you to complete assignments at your own pace.",
+          "Online learning is more flexible for those who want to learn at their own pace."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Online learning improves self-discipline and self-motivation skills, which are important for the workplace.",
+        "spans": [
+          "Online learning improves self-discipline and self-motivation skills as the quicker you learn and develop these, the better it will be when you enter the workplace."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Online learning saves time and money compared to face-to-face learning.",
+        "spans": [
+          "Online learning saves time and money",
+          "Not only are online courses cheaper but you also don’t need to spend precious time commuting back and forth to classes or fly several thousand miles away to a foreign land.",
+          "Several online courses also have a flexible schedule, meaning you can finish a particular module within a set period of time.",
+          "If you’re a quick learner or are working towards a goal, you can complete your course within your own timeframe, compared to face-to-face learning environments where everyone is on the same schedule."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Online learning is better suited for some personality types, especially introverts.",
+        "spans": [
+          "It’s better for some personality types",
+          "For more introverted personalities, online learning is less stimulating, quieter and there is less pressure for participation.",
+          "Introverts are also typically better at expressing themselves in writing than verbally.",
+          "Kelly Dyer, a self-classified introvert who graduated with his Master’s in Security Studies from Kansas State University in 2015, told US News, “During my first online class, I found out that I could take the time to construct my thoughts, craft an argument and then present it – post it – to the rest of the class for that week. That was really beneficial for me.”"
+        ]
+      }
+    ],
+    "clueweb22-en0013-87-01361": [
+      {
+        "point_number": 1,
+        "point_content": "Online learning is prevalent and has grown especially during Covid-19, offering flexible schedules and learning from home.",
+        "spans": [
+          "Nowadays, online learning is prevalent all over the world.",
+          "As during Covid-19, most of the people were quarantined; they have found online learning a handy and fantastic tool.",
+          "Online classes provide opportunities for flexible schedules, learning from home."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Face-to-face learning involves physical presence, group interaction, and direct acquaintance with teachers and classmates.",
+        "spans": [
+          "Face-to-face learning is when teachers and students meet and have a class together.",
+          "Most of the time, those classes are group classes, where students interact with each other.",
+          "You can have the opportunity to interact with classmates who might come from different backgrounds.",
+          "You can get acquainted with your teacher better",
+          "Have a chance to compete with your classmates and be motivated"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Online learning requires active roles from both instructors and students, with emphasis on interaction and flexibility.",
+        "spans": [
+          "The online model emphasizes an interactive learning environment designed to create a dialogue between instructor and students and among students themselves.",
+          "The online process requires both instructor and students to take active roles, which are more highlighted.",
+          "The instructor should facilitate activities that engage students directly rather than relying too heavily on lectures and memorization.",
+          "The online tutor should be open, more concerned than in traditional classrooms, and flexible.",
+          "An online instructor needs to work on creating a healthy and interactive virtual classroom."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Students' preference between online and face-to-face learning depends on personal preferences, with online learning being more flexible and face-to-face offering physical presence and interaction.",
+        "spans": [
+          "Online learning is more flexible and convenient, offering different settings and online learning platforms",
+          "Face-to-face classes provide physical presents and opportunities to interact with your classmates",
+          "Online vs. face-to-face learning shows that the benefits of one-on-one instruction come from both online and face-to-face instruction. However, in online learning, the one-on-one learning method is more popular."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Online learning is better for people with geographical, economic, or health obstacles and offers convenience, green innovation, outreach, and savings.",
+        "spans": [
+          "Online learning is beneficial for people who might overcome geographical, economic, or healthy obstacles.",
+          "Convenience: For online classes, you need access to the internet, and it does not matter where you are",
+          "Green Innovation: Online classes are greener, as we do not need pen, paper and are connected to E-books.",
+          "Outreach: Gives more opportunities to explore and reach new methods of learning",
+          "Savings: You save money on your transportation or eating outside, or buying paper books and materials."
+        ]
+      }
+    ],
+    "clueweb22-en0002-75-16466": [
+      {
+        "point_number": 1,
+        "point_content": "Online learning is popular due to more flexibility, self-directed study options, and access to the same instructors and teachers as traditional learning.",
+        "spans": [
+          "Online learning is increasingly popular nowadays, and this trend is here to stay.",
+          "With more flexibility, self-directed study options, and access to the same instructors and teachers as traditional learning, it’s no surprise that online learning is popular."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Online learning can be asynchronous, allowing students to learn at different times and places than their instructors.",
+        "spans": [
+          "More times than not, online learning is asynchronous, as students do not have to learn at the same time and place as their instructors are teaching."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Face-to-face learning is synchronous, with students and teachers attending in-person sessions at the same time.",
+        "spans": [
+          "Face-to-face learning is the more traditional way of instruction, where students and teachers attend an in-person session at the same time."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Face-to-face learning is synchronous, while online learning can be synchronous or asynchronous.",
+        "spans": [
+          "One of the most significant differences between face-to-face learning and online learning is that face-to-face learning is synchronous, or done at the same time.",
+          "With online learning, however, that is not necessary. Online instruction can be either synchronous or asynchronous."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "In face-to-face classes, instructors deliver knowledge and assess understanding later, while in online learning, instructors facilitate learning through online materials.",
+        "spans": [
+          "In face-to-face classes, instructors are usually just delivering knowledge, and then assessing the understanding of that knowledge at a later date.",
+          "This is compared to online learning, where instructors are seen more as facilitators of learning — helping their students understand the material through provided online materials."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Online learning lends itself better to student-led advancement and learning, allowing students to decide what to focus on.",
+        "spans": [
+          "online study lends itself better to student-led advancement and learning. In online study, students can decide for themselves what they want to dig deeper on, and spend more time learning."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Online learning requires high self-motivation and discipline as students must manage their own progress.",
+        "spans": [
+          "In online learning, no one is keeping you on track — you must be your own motivator, time keeper, and disciplinarian."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Participation and class attendance is harder to measure in online learning compared to face-to-face learning.",
+        "spans": [
+          "Participation and class ‘attendance’ is harder to measure in an online learning environment."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Face-to-face learning allows instructors to better gauge understanding and interest, generate group excitement, and hold students accountable.",
+        "spans": [
+          "With face-to-face learning, instructors are better able to gauge understanding and interest of students, and it is easier to generate group excitement about a subject.",
+          "It is also easier to hold students accountable."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Online learning may be more effective because students learn more by controlling their own pace and focus.",
+        "spans": [
+          "Students Learn More",
+          "Online courses give students full control over what they are learning, so students are able to work at their own speed."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Retention rates are higher in online learning due to increased access and removal of physical limitations.",
+        "spans": [
+          "Many studies have shown that retention rates for online students are much higher than for traditional, in-person students.",
+          "Online learning increases access and makes it more likely that a student can finish a course or program when physical limitations are removed."
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "Online learning requires lower time investment as students save commuting time and use time more efficiently.",
+        "spans": [
+          "In online learning, students save a ton of time by not having to commute to class.",
+          "In online learning, students are spending less time overall, and making that time towards their education count."
+        ]
+      },
+      {
+        "point_number": 13,
+        "point_content": "Online learning reduces distractions and uses frequent assessments to keep students on track.",
+        "spans": [
+          "In a classroom setting there are many distractions, but at home, those same distractions are removed.",
+          "In addition, many online courses make use of more frequent ‘knowledge checks’ or mini quizzes which can keep students on track."
+        ]
+      },
+      {
+        "point_number": 14,
+        "point_content": "Online learning is environmentally friendly, using less energy and producing fewer carbon emissions than face-to-face classes.",
+        "spans": [
+          "Online courses use 90% less energy and have 85% fewer carbon emissions than traditional, face-to-face classes."
+        ]
+      },
+      {
+        "point_number": 15,
+        "point_content": "Online learning allows tracking of learning patterns through analytical tools, helping improve curriculum and instruction design.",
+        "spans": [
+          "Online learning helps educators and instructional designers track learning in ways that face-to-face learning cannot do.",
+          "Through analytical tools, educators and researchers can see what really works and what doesn’t, and use that information to inform future curriculum and instruction design."
+        ]
+      },
+      {
+        "point_number": 16,
+        "point_content": "Online learning can be as good as or better than face-to-face learning.",
+        "spans": [
+          "Is online learning as good as face-to-face learning? It may be even better.",
+          "So, you want to know is online learning as good as face to face learning? Just check the facts listed, and we think you’ll find that the answer is… Absolutely!"
+        ]
+      }
+    ],
+    "clueweb22-en0016-30-17857": [
+      {
+        "point_number": 1,
+        "point_content": "Online learning has become the go-to classroom and employee training method option due to flexible self-paced learning tools providing information at one’s fingertips.",
+        "spans": [
+          "Online learning has never been more popular. With flexible self-paced learning tools providing information at one’s fingertips, online learning has become the go-to classroom and employee training method option."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Online learning allows learners to engage with instructional material at their own pace, from anywhere, available at any time.",
+        "spans": [
+          "Today, virtual learning is most often used to refer to asynchronous learning material, which allows for learners to engage with instructional material at their own pace, from anywhere, available at any time."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Face-to-face learning involves in-person sessions with an instructor and is considered effective due to the benefits of live interaction between the instructor and the learner.",
+        "spans": [
+          "Face-to-face learning refers to the traditional, classroom-based method of learning. This style of learning involves in-person sessions with an instructor.",
+          "Face-to-face learning is considered effective due to the benefits of live interaction between the instructor and the learner."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Blended learning combines both face-to-face learning and online learning, allowing learners to benefit from both methods.",
+        "spans": [
+          "Blended learning is the concept of implementing both face-to-face learning and online learning together into a hybrid approach, allowing learners to benefit from both methods of learning."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Face-to-face learning is more disciplined and happens in a group setting, which may spur more discussion, interaction, and involvement.",
+        "spans": [
+          "In a traditional face-to-face learning scenario, classes are planned and structured according to a fixed schedule. This system of learning is thus more disciplined.",
+          "Classroom learning also happens in a group setting and may spur more discussion, interaction, and involvement."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Online learning is more spontaneous and self-paced, allowing learners to take courses whenever they choose without a live instructor.",
+        "spans": [
+          "Online learning is more spontaneous when compared to a planned, in-person session.",
+          "Learners may choose to take up a course or a learning module online whenever inspiration or curiosity strikes.",
+          "Best of all, they can do it at their own pace – whenever they choose.",
+          "Since this kind of learning doesn’t involve a live instructor, the learner is by themselves in this setting."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Online learning offers more interactive content such as digital textbooks, live chat support, community forums, video and audio materials, interactive quizzes, and more.",
+        "spans": [
+          "With the advancement of technology, elearning modules are supported via digital textbooks, live chat support, community forums, online discussion boards, video and audio materials, interactive quizzes, virtual announcements, and much more."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "In face-to-face learning, the instructor sets the pace and students are passive learners, whereas in online learning, learners can move at their own pace and are active in the learning process.",
+        "spans": [
+          "The instructor leads the learning pace in a traditional classroom setting, and students are likely to learn passively.",
+          "On the other hand, the learner is free to move at their own pace in an eLearning setting.",
+          "With the addition of assessments and interactive tools at various points in the learning module, the learner is no longer passive but is active in the learning process."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Assessments in face-to-face learning are usually in-person tests at a specific date and time, while eLearning assessments are more flexible with frequent knowledge checks and short assessments.",
+        "spans": [
+          "In a traditional learning scenario, the instructor often tests students after delivering a fixed set of learning modules.",
+          "Assessments in eLearning contexts are generally more flexible when compared to traditional methods.",
+          "Today, eLearning modules have frequent knowledge checks and short assessments in place to ensure that the content has been well received."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Online learning interaction is often asynchronous, leading to some delay in interaction, while face-to-face learning involves live interaction facilitating instant discussions.",
+        "spans": [
+          "In an online learning scenario, learner-instructor interaction is often asynchronous.",
+          "Traditional classroom-led teaching involves live interaction between an instructor and a student, thus facilitating instant discussions and query clarification."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Both online and face-to-face learning have unique advantages and disadvantages, and the choice depends on individual learning style, preference, and course material.",
+        "spans": [
+          "Both online and face-to-face learning methods have their own set of unique advantages and disadvantages.",
+          "Choosing one type of training over another is purely dependent on an individual’s learning style and preference – as well as the course material at hand."
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "Online learning is more flexible and practical for modern learners and organizations, but many learners still prefer live instructors for better assimilation of content.",
+        "spans": [
+          "The self-paced nature of eLearning content may be highly favorable to the modern learner – as well as organizations searching for new ways of managing employee development and training in a post-COVID world.",
+          "This type of learning is more flexible than traditional learning and is generally more practical for learners.",
+          "However, a lot of learners still prefer the presence of a live instructor to assimilate content better because of the unique advantages of instructor-led training."
+        ]
+      }
+    ],
+    "clueweb22-en0019-09-00406": [
+      {
+        "point_number": 1,
+        "point_content": "Students learn as much if not more from online courses as they do in traditional higher education courses.",
+        "spans": [
+          "it is clear that when compared using gross measures of learning effectiveness, students learn as much if not more from online courses as they do in traditional higher education courses."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "No significant differences in student performance between online and face-to-face courses were found in various studies.",
+        "spans": [
+          "A blind review process comparing students’ performances enrolled in an online graduate course with that of the same version of the course taught F2F showed no significant differences.",
+          "A study comparing mid-term scores between online and F2F students at Stevens Institute of Technology found little or no differences in student outcomes.",
+          "Thomas L. Russell (1999) compared student outcomes in online and F2F by examining 355 studies the result of which show no significant differences in student outcomes."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Faculty perceptions generally indicate that student learning outcomes in online courses are comparable or better than those in face-to-face courses.",
+        "spans": [
+          "The vast majority of instructors felt that student learning outcomes were comparable or better than those in F2F courses."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The mode of delivery (online vs face-to-face) is less important than course design, instructor-student interaction, and feedback in determining learning success.",
+        "spans": [
+          "While the delivery mode for learning materials isn’t important as we think (Clark, 1983) in achieving learning outcomes, there are other factors which affect the success of a course.",
+          "To summarize, the instructional design of a course, the relationships between instructors and students, and the type and frequency of feedback to the students are paramount to student learning."
+        ]
+      }
+    ],
+    "clueweb22-en0023-65-05965": [
+      {
+        "point_number": 1,
+        "point_content": "Face-to-face learning is better than online.",
+        "spans": [
+          "Face-to-face learning is better than online"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "It is easier to engage in person than through your computer due to distractions at home.",
+        "spans": [
+          "it is easier to engage in person than through your computer",
+          "there will always be distractions right at their fingertips"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Online learning requires much more discipline and self-motivation to stay on task.",
+        "spans": [
+          "Online learning requires much more discipline and self-motivation to stay on task"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Some classes, like science classes requiring labs, cannot be effectively taught online.",
+        "spans": [
+          "some classes just cannot be taught online",
+          "Science classes are a great example, as it is often necessary to complete a lab to understand the material"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Face-to-face learning allows interaction with instructors and other students, aiding organization and study.",
+        "spans": [
+          "Face-to-face learning also lends a hand in organizing students and their studies",
+          "They are given the ability to interact with their instructors and other students"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Even students with low self-discipline benefit from face-to-face learning by attending lectures.",
+        "spans": [
+          "even if students do not have much self-discipline, they still have the ability to simply go sit in lecture and listen to their instructor"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Online learning makes it harder for students to learn as their traditional educational environment is gone and workload is completely up to them.",
+        "spans": [
+          "online learning makes it harder for students to learn as their traditional educational environment is pretty much gone",
+          "The workload is completely up to them to complete"
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0037-14-12652": [
+      {
+        "point_number": 1,
+        "point_content": "Online learning is more effective than traditional learning as it allows learning 5 times more material compared to traditional courses.",
+        "spans": [
+          "a study by IBM reported that those enrolled in eLearning courses learn 5 times more material compared to traditional courses"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Online learning offers flexibility and less time commitment, decreasing employee training time by 40-60%.",
+        "spans": [
+          "A 2017 Brandon Hall Group report found that eLearning can decrease employee training by 40-60%",
+          "employees have total control over their learning",
+          "This flexibility makes it possible for employees to learn at their own convenience and capacity"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Online learning allows tracking of learning patterns and detailed reports on learner’s performance, which is not possible with face-to-face training.",
+        "spans": [
+          "The analytic tools in an LMS can provide you detailed reports about every learner’s performance and progress",
+          "All this isn’t possible with face-to-face methods"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Online learning has a higher retention rate, boosting knowledge retention by 25-60% due to interactive and multimedia content.",
+        "spans": [
+          "eLearning can boost knowledge retention by 25-60% according to the Research Institute of America",
+          "online learning materials are visually stimulating, concise and more interactive",
+          "features like gamification, surveys, quizzes, and assessments present in a modern LMS make it even more interactive"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Online learning supports social learning and collaboration through online discussion forums and virtual classrooms, unlike traditional methods.",
+        "spans": [
+          "Online learning enables participation in online discussion forums",
+          "You can conduct virtual classroom sessions",
+          "Social and collaborative learning isn’t possible with traditional methods that only allow for face-to-face or telephonic interactions"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Online learning offers efficiency, accessibility of time and place, affordability, improved attendance, and suits various learning styles.",
+        "spans": [
+          "Online learning offers teachers an efficient way to deliver lessons to students",
+          "online learning offers students the accessibility of time and place in education",
+          "online education is far more affordable as compared to physical learning",
+          "Since online classes can be taken from home or location of choice, there are fewer chances of students missing out on lessons",
+          "The online learning system, with its range of options and resources, can be personalized in many ways"
+        ]
+      }
+    ],
+    "clueweb22-en0030-58-00250": [
+      {
+        "point_number": 1,
+        "point_content": "Face to face learning is the basic form of education wherein the students are present in a real classroom physically interacting with the teachers whereas online education is the one in which the teacher and the student interact and establish a connection via the internet.",
+        "spans": [
+          "the former that is the face to face learning is the basic form of education wherein the students are present in a real classroom physically interacting with the teachers",
+          "the latter is the virtual or the online education is the one in which the teacher and the student interact and establish a connection via the internet"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Online education is preferred due to shortage of good premium schools and high cost of traditional schools, especially in underdeveloped countries.",
+        "spans": [
+          "there is an immense shortage of good premium schools where children are taught the fundamentals of education",
+          "cost also creates hindrances and it `s one of the biggest hurdles in the path of children which eventually deprives them of education",
+          "it is one of the biggest factors why online education is much preferred than traditional school education"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Online education provides access to expert teachers and guidance for homeschooled children, unlike homeschooling where parents may not be qualified to teach all subjects.",
+        "spans": [
+          "In homeschooling, it`s the parents who take the responsibility of educating their children",
+          "Online high school education has emerged out to be a very suitable option for all the homeschooled children",
+          "in online education, the students just by using a computer and an internet connection are connected with subject expert teachers who offer them guidance and mentorship in their studies"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Online education offers convenience such as no commuting, no early waking, and cost savings.",
+        "spans": [
+          "Convenience – in online education you do not have to commute to your school every day",
+          "Don’t have to rush yourself in the overcrowded buses",
+          "you don’t have to wake up early in the morning and get ready with those muddy eyes for the school",
+          "the biggest point you save considerable amount at the end of each year"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Online education offers flexibility in study hours and allows students to learn at their own pace.",
+        "spans": [
+          "Flexibility – online education means you have the liberty to decide and set up your own study hours",
+          "A student gets to listen to his lecture tutorial at any time of the day",
+          "He can jot down the notes from the lecture and report if any issue occurs in grasping the matter"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Online education teaches self-discipline and self-motivation as students must complete coursework before deadlines independently.",
+        "spans": [
+          "Self-discipline – online education teaches an individual the importance of discipline",
+          "you have to be self-motivated and disciplined to complete all your coursework before the deadlines",
+          "To adhere to these deadlines, you will have to be very disciplined and focussed"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Online schools like Forest Trail Academy provide individualized attention and flexible pacing, which may lack in traditional schools.",
+        "spans": [
+          "The school staffs, on the other hand, make sure that every student is given an individualized attention which however also lacks in a traditional school",
+          "Since every student has his own pace of learning, the teachers do not impose any strict restrictions or deadlines on these students"
+        ]
+      }
+    ],
+    "clueweb22-en0018-07-11451": [
+      {
+        "point_number": 1,
+        "point_content": "Studying online gives you more flexibility. You can work and fit your work schedule (and your hobbies) around your coursework more easily; even more so if you are taking an asynchronous class.",
+        "spans": [
+          "Studying online gives you more flexibility. You can work and fit your work schedule (and your hobbies) around your coursework more easily; even more so if you are taking an asynchronous class"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "44% of online students reported improvements in their employment standing, for example by obtaining a full-time job within 12 months of graduation, and 45% reported a salary increase.",
+        "spans": [
+          "In a survey conducted by The Learning House, 44% of online students reported improvements in their employment standing, for example by obtaining a full-time job within 12 months of graduation, and 45% reported a salary increase."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "By studying online, you choose your own learning environment that works best for your needs.",
+        "spans": [
+          "By studying online, you choose your own learning environment that works best for your needs"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Taking an online course also means that you don’t have to commute to class, which means less time spent on the bus and more study time sitting on your couch.",
+        "spans": [
+          "Taking an online course also means that you don’t have to commute to class, which means less time spent on the bus and more study time sitting on your couch"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Studying online means that you pay the tuition fee, possibly book supplies, an online application fee, and few other items. You don’t, however, incur the costs of housing and transportation, which translates to lower debts and more savings.",
+        "spans": [
+          "Studying online means that you pay the tuition fee, possibly book supplies, an online application fee, and few other items. You don’t, however, incur the costs of housing (which can range from $10,000 to $12,000 per year) and transportation, which translates to lower debts and more savings."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Studying online requires more self-motivation and time-management skills, which will help you become more self-motivated, a trait that will make you stand out in the workplace and beyond.",
+        "spans": [
+          "It is true that studying online requires more self-motivation and time-management skills, because you will spend a lot of time on your own without someone physically close to keep you focused on deadlines.",
+          "your online course will not only teach you geology or poetry, it will also help you become more self-motivated, a trait that will make you stand out in the workplace and beyond."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Studying online at your own convenience allows you to no longer worry about class location when choosing what to learn next, giving you more choice of course topics.",
+        "spans": [
+          "Studying online at your own convenience allows you to no longer worry about class location when choosing what to learn next."
+        ]
+      }
+    ],
+    "clueweb22-en0000-08-11488": [
+      {
+        "point_number": 1,
+        "point_content": "Online degrees allow you to study at a pace that fits in and around you and your responsibilities, and enhance your work skills instantly without sacrificing your salary to your studies.",
+        "spans": [
+          "online degrees allow you to study at a pace that fits in and around you and your responsibilities",
+          "they are also a great way to enhance your work skills instantly without sacrificing your salary to your studies"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Online learning is more personalized and engaging due to multimedia content and digital innovations, giving students more control over their learning potential.",
+        "spans": [
+          "A more personalized and engaging way of learning",
+          "Living in a multimedia world lends itself to novel multimedia content – making online degrees accessible and engaging for students all around the world",
+          "Advances in technology and digital innovations have also made it easier to learn than ever before while giving students far more control over their own learning potential"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Online students have access to dashboards with course materials, forums, recorded lessons, podcasts, videos, and quizzes on demand, developing time management, organizational and research skills.",
+        "spans": [
+          "Studying a degree online means you’ll have access to your very own dashboard where you can review course material and assignments, take part in forum discussions with your peers and professors, watch recorded lessons, and access podcasts, videos and quizzes on demand",
+          "Among all this, your time management, organizational and research skills will develop immensely as you learn to self-manage and work in a virtual setting while balancing commitments away from your studies"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Online learning includes face-to-screen interactions such as webinars, live events, Q&As, and personal support tutors, maintaining social interaction.",
+        "spans": [
+          "advancements in technology have allowed the traditional classroom to move into virtual realms, turning face-to-face interactions into face-to-screen interactions instead",
+          "webinars and other live events such as Q&As now an integral part of online curriculums",
+          "students who study an online master’s degree with Universidad Tecmilenio will have access to personal support tutors to help with well-being queries they may have, as well as constant communication with their peers, academic advisors and faculty members"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Online education can be as good as or better than face-to-face learning for motivated and organized students who prefer flexible study times and want to improve work skills.",
+        "spans": [
+          "online education in some circumstances is outperforming classroom-based education",
+          "85 percent of students who had enrolled in both an online course and classroom-based course felt their online course experience was either the same or better than their classroom-based course",
+          "if you are well motivated and organized, prefer to study at a time and place that suits you and better your work skills, then online education can be just as good as face-to-face learning – if not better in some instances"
+        ]
+      }
+    ]
+  }
+}

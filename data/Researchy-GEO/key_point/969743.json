@@ -1,0 +1,274 @@
+{
+  "question": "how has terrorism affected global trade?",
+  "key_points": {
+    "clueweb22-en0000-08-07427": [
+      {
+        "point_number": 1,
+        "point_content": "Terrorism increases uncertainty, which raises the cost of traded goods, especially relative to similar goods produced in a terrorism-free country.",
+        "spans": [
+          "Terrorism increases uncertainty, which raises the cost of traded goods, especially relative to similar goods produced in a terrorism-free country."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Terrorism increases the cost of doing business by raising both insurance premiums and security costs, which decreases the competitiveness of goods.",
+        "spans": [
+          "Terrorism increases the cost of doing business by raising both insurance premiums and security costs, which decreases the competitiveness of goods."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Terrorism slows the flow of goods and resources through ports due to greater inspections and safeguards.",
+        "spans": [
+          "Terrorism slows the flow of goods and resources through ports due to greater inspections and safeguards."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Trade can be reduced as purchasing power drops from loss of income when production is disrupted.",
+        "spans": [
+          "Trade can be reduced as purchasing power drops from loss of income when production is disrupted."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Terrorism can divert government expenditures from more productive public investment to less productive security activities.",
+        "spans": [
+          "Terrorism can divert government expenditures from more productive public investment to less productive security activities."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "The manufacturing sector experienced the greatest harm from terrorism, with high-skilled production more damaged than low-skilled production.",
+        "spans": [
+          "We found that the manufacturing sector experienced the greatest harm from terrorism. Within manufacturing, we found that effects of terrorism were more damaging to high-skilled production than low-skilled production."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "The detrimental effect of transnational terrorism on trade variables was almost double that of domestic terrorism, especially in developing countries.",
+        "spans": [
+          "Generally, the detrimental effect of transnational terrorism on various trade variables was almost double that of domestic terrorism, indicating that transaction cost and other considerations associated with transnational terrorism were more trade-inhibiting than those tied to domestic terrorism.",
+          "Furthermore, the contrasting effects of the two forms of terrorism were more pronounced for developing countries, which may be less able than their developed counterparts to alleviate transnational terrorism and its consequences due to weaker institutions."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Total terrorism had a significant negative impact on trade in all products, with a stronger detrimental influence on manufacturing.",
+        "spans": [
+          "Total terrorism had a significant negative impact on trade in all products, primary commodities and manufactured goods, with a stronger detrimental influence manifested on manufacturing."
+        ]
+      }
+    ],
+    "clueweb22-en0025-33-00204": [
+      {
+        "point_number": 1,
+        "point_content": "Terrorism causes a widespread sense of vulnerability that damages trade or foreign direct investment (FDI) because foreign nations have a choice of conducting business with less-terror-prone nations.",
+        "spans": [
+          "This sense of vulnerability is particularly damaging to trade or foreign direct investment (FDI) because foreign nations always have a choice of conducting business with less-terror-prone nations."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Transnational terrorism incidents have significant economic implications through loss in trade and FDI because they involve foreign citizens and attract international press attention, making foreign nations less willing to do business with terrorism-prone nations.",
+        "spans": [
+          "Transnational incidents, although less numerous, have significant economic implications, especially through loss in trade and FDI.",
+          "Transnational incidents involve foreign citizens and therefore garner international press attention. Such publicity makes foreign nations less willing to do business with a terrorism-prone nation, leading to less trade and FDI."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "An increase in terrorism risk in a nation can reduce the country’s net FDI position significantly, which is a huge potential loss in capital formation especially for developing nations.",
+        "spans": [
+          "One standard deviation increase in the risk of terrorism in a particular nation can reduce the country’s net FDI position by approximately 5 percent of its GDP.",
+          "This is a huge potential loss in capital formation for any nation, but it is especially hard on a developing nation that seeks to use foreign investments to fuel its growth."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "A one standard deviation increase in domestic or transnational terrorist incidents significantly reduces net FDI in developing countries, but foreign aid can mitigate these damages.",
+        "spans": [
+          "a one standard deviation increase in domestic terrorist incidents per 100,000 people reduces net FDI by between $323.6 million and $512.9 million for the average sample country, while the comparable reduction in the case of transnational terrorist incidents is between $296.5 million and $735.7 million.",
+          "They also found that foreign aid can substantially mitigate terrorism-related FDI damages due to greater aid flows."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Terrorism raises the costs of doing business across national borders, increasing shipping costs and insurance, which leads to higher prices and reduces both exports and imports of terror-affected nations.",
+        "spans": [
+          "Terrorism raises the costs of doing business across national borders.",
+          "For example, shipping costs will rise if shippers have to buy insurance to cover possible damages in the ports of terrorism-prone nations.",
+          "In turn, such costs are passed on to the consumers in the form of higher prices, which will tend to reduce both exports and imports of terror-affected nations."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "A doubling in the number of terrorist incidents is associated with a decrease in bilateral trade among countries by about 4 percent.",
+        "spans": [
+          "A 2004 paper by economists Volker Nitsch and Dieter Schumacher found that a doubling in the number of terrorist incidents over the period 1960 to 1993 is associated with a decrease in bilateral trade among 200 countries by about 4 percent."
+        ]
+      }
+    ],
+    "clueweb22-en0038-87-06297": [
+      {
+        "point_number": 1,
+        "point_content": "Terrorism causes direct economic destruction by destroying plants, machines, transportation systems, workers, and other economic resources, which negatively impacts global trade by damaging infrastructure and productive capacity.",
+        "spans": [
+          "The most immediate and measurable impact of terrorism is physical destruction. Terrorists destroy existing plants, machines, transportation systems, workers, and other economic resources."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Terrorism creates market uncertainty which negatively affects international investment and cooperation, thereby impacting global trade.",
+        "spans": [
+          "Terrorism creates a lot of [market] uncertainty.",
+          "International investment and cooperation are lower in a world full of terrorism."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Terrorism negatively impacts insurance, trade, tourism, and foreign direct investment (FDI), which are crucial components of global trade.",
+        "spans": [
+          "On a broader scale, terrorism hurts international trade.",
+          "This also means less foreign direct investment (FDI), especially in unstable countries."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Terrorism leads to increased nationalism and foreign skepticism, resulting in anti-globalist and anti-trade sentiments that reduce trade and economic cooperation globally.",
+        "spans": [
+          "There has been a rise in skepticism of foreign cultures, businesses, immigrant workers, and refugees.",
+          "Populist movements already won a victory of sorts in the United Kingdom, where anti-globalist and anti-trade sentiments helped pass Brexit.",
+          "Closing down borders to trade and immigrant workers reduces the size and diversity of economic transactions and limits productive resources."
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0022-43-03204": [],
+    "clueweb22-en0015-48-08119": [
+      {
+        "point_number": 1,
+        "point_content": "Terrorism has curtailed the liberal inflows of skilled and blue-collar workers.",
+        "spans": [
+          "Terrorism has curtailed the liberal inflows of skilled and blue-collar workers."
+        ]
+      }
+    ],
+    "clueweb22-en0004-00-17135": [
+      {
+        "point_number": 1,
+        "point_content": "Terrorism raises the risk and cost of doing business, affecting various industries and the global economy.",
+        "spans": [
+          "Terrorism raises the risk and cost of doing business, whether that business is diplomacy, manufacturing, or sales.",
+          "The AP reported in October that nearly 200,000 people were laid off after 9/11, including close to 40,000 in the aerospace industry",
+          "An airline industry spokesman estimated in October that the world’s airlines may have lost as much as $15 billion due to passenger and freight cut backs",
+          "New York City’s comptroller estimated the attacks will cost the city’s economy $1.7 billion in lost sales and $1.75 billion in lost rent by the end of FY 2003",
+          "The world’s insurance industry took an estimated $50 billion hit."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The attacks on oil pipelines have caused significant financial losses and disruptions in petroleum supply.",
+        "spans": [
+          "In 2001, Colombia’s Cano-Limon-Convenas pipeline was attacked 170 times and was shut down for six months. Total loss in revenue was $500 million (based on 115,000 bpd). It has been attacked 13 times so far this year."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The U.S. government is working with the petroleum industry to enhance pipeline security to prevent terrorist attacks.",
+        "spans": [
+          "Protecting the petroleum infrastructure is a big job. We are working with the petroleum industry to help them keep these pipelines safe from attack.",
+          "For example, we are currently developing a series of pipeline security courses for Colombia that will assist in such areas as the electronic detection of line tampering, and the development of a Rapid Response Force to repair damage after attacks."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Terrorism has led to increased costs in insurance and economic losses in various sectors, impacting global trade and business operations.",
+        "spans": [
+          "The world’s insurance industry took an estimated $50 billion hit. The cost to insurers will be passed on to all of us, but primarily to businesses.",
+          "The AP reported in October that nearly 200,000 people were laid off after 9/11, including close to 40,000 in the aerospace industry",
+          "An airline industry spokesman estimated in October that the world’s airlines may have lost as much as $15 billion due to passenger and freight cut backs"
+        ]
+      }
+    ],
+    "clueweb22-en0030-65-16694": [
+      {
+        "point_number": 1,
+        "point_content": "Terrorism has a significant psychological impact that extends beyond immediate victims, aiming to create widespread fear and terror.",
+        "spans": [
+          "Terrorism is designed to create power where there is none or to consolidate power where there is very little. Through the publicity generated by their violence, terrorists seek to obtain the leverage, influence, and power they otherwise lack to effect political change on either a local or an international scale."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Terrorism is often concentrated in regions with high internal conflict, which can affect economic stability and trade.",
+        "spans": [
+          "Looking at the where in the world terrorism happens highlights an important point: it tends to be in countries with high levels of internal conflict. Here we discuss in detail the challenges of separating terrorism from other forms of conflict such as civil war or homicide. This proves difficult because often there is a strong overlap.",
+          "This means that most terrorism occurs in countries of high conflict because the internal conflict is – to a certain extent – terrorism."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Terrorism can cause significant disruptions to travel and tourism, as seen after major attacks like 9/11, which led to a sustained reduction in airline demand and tourism.",
+        "spans": [
+          "A range of studies have looked at the impact of major terrorist incidents on airline demand, travel and tourism. Following 9/11 there was an immediate reduction in US airline demand – given as the number of passengers – of over 30%.",
+          "Although passenger demand later increased again, analyses suggest that domestic air travel did not return to the levels which would have been projected in the absence of the attacks. 21 This was also true of tourism to the United States in the years which followed 9/11. 22"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Public concern about terrorism can lead to changes in consumer behavior, such as reduced willingness to travel or fly, which can impact global trade and economic activity.",
+        "spans": [
+          "The chart shows the share of respondents who said they were less willing to do such activities. Here we see that a large share was willing to change their behaviors: over 40% said they were less willing to travel abroad; around a third were less likely to fly and go to crowded events; and one-quarter to go into skyscrapers."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Terrorism receives disproportionate media coverage relative to its frequency and share of deaths, which can amplify public fear and perception of risk, potentially affecting economic activities including trade.",
+        "spans": [
+          "Terrorism receives media attention which is disproportionate to its frequency and share of deaths. This is also the intention of terrorists. Fear and attention is, after all, a core tactic of terrorism: media covering the attack is a key part of the terrorist’s strategy.",
+          "Terrorism is over-represented relative to its share of deaths in media coverage"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "The 9/11 terrorist attacks, involving hijacked airplanes, were the most fatal terrorist event in recent history and led to significant changes in airline security and a decline in hijacking incidents, affecting global air travel and trade.",
+        "spans": [
+          "The 9/11 attacks in New York were the most prominent example.",
+          "The events of 9/11 made it the most fatal. Four airliners were hijacked, two of which were flown into the Twin Towers of the World Trade Center. 2,996 people died as a result of the 9/11 attacks, making it the most fatal terrorist incident in recorded history.",
+          "Regulation was quickly tightened. This resulted in a sudden decline in hijacking following the 9/11 attacks, with very few incidents and almost no fatalities."
+        ]
+      }
+    ],
+    "clueweb22-en0015-32-08966": [
+      {
+        "point_number": 1,
+        "point_content": "Terrorism has introduced a new dimension to globalization involving religion, culture, and extremism, beyond just economic and trade flows.",
+        "spans": [
+          "what hit us in such a brutal fashion on September 11 was the other side of globalization: religion, culture and extremism."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Terrorism threatens to reverse gains achieved by postwar globalization if it undermines freedom of action.",
+        "spans": [
+          "If we allow terrorism to undermine our freedom of action, we could reverse at least part of the palpable gains achieved by postwar globalization."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The global coalition against terrorism represents a move from economic globalization to political globalization.",
+        "spans": [
+          "The formation of a global coalition against terrorism means that we are now moving beyond the globalization of the economy to the globalization of politics."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Terrorism may reduce the world's appetite for cross-border connectedness, affecting global trade.",
+        "spans": [
+          "I am worried that the world in general — and America in particular — could well lose its appetite for cross-border connectedness."
+        ]
+      }
+    ]
+  }
+}

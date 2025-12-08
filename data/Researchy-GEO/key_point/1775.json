@@ -1,0 +1,36 @@
+{
+  "question": "why did the soviet union set up communist governments in eastern europe?",
+  "key_points": {
+    "null": [],
+    "clueweb22-en0013-30-16963": [
+      {
+        "point_number": 1,
+        "point_content": "The Soviet Union wanted to control Eastern Europe to prevent Germany or any other state from using countries like Hungary or Poland as a staging post to invade.",
+        "spans": [
+          "After the war, Stalin was determined that the USSR would control Eastern Europe. That way, Germany or any other state would not be able to use countries like Hungary or Poland as a staging post to invade."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The Soviet Union occupied Eastern Europe to have a buffer against a potential attack by the noncommunist world and to spread communism wherever possible.",
+        "spans": [
+          "The Soviet Union was determined to have a buffer against a potential attack by the noncommunist world. They also were determined to spread communism wherever they could do that."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Soviet occupation troops assisted local communists in putting Communist dictatorships in Romania and Bulgaria in power after World War II.",
+        "spans": [
+          "While the war was still taking place, Soviet occupation troops assisted local communists in putting Communist dictatorships in Romania and Bulgaria in power."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The Soviet Union formed the Warsaw Pact, a military alliance of European communist states meant to counter NATO, after occupying several Central and Eastern European states.",
+        "spans": [
+          "After World War II, it formed the Warsaw Pact, a military alliance of European communist states meant to counter NATO. When the war ended, Soviet troops occupied several Central and Eastern European states, including the eastern part of Germany."
+        ]
+      }
+    ]
+  }
+}

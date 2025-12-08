@@ -1,0 +1,510 @@
+{
+  "question": "why are people against getting vaccinated",
+  "key_points": {
+    "clueweb22-en0032-28-15786": [
+      {
+        "point_number": 1,
+        "point_content": "Lack of access to vaccines, including transportation issues, work schedule conflicts, and misinformation about vaccine availability and cost.",
+        "spans": [
+          "lack of access to vaccines",
+          "People may not have the transportation to get to a pharmacy",
+          "A busy, inflexible family or work schedule may prevent them from taking time off work to get the shot and take a day or two off to recover from the side effects",
+          "Some people believe — incorrectly — that getting the vaccine isn’t free for everyone or just may not know that the vaccine is actually available to them"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Some people do not see Covid-19 as a serious threat, which reduces their motivation to get vaccinated.",
+        "spans": [
+          "Covid-19 isn’t seen as a threat",
+          "some Americans still don’t see the coronavirus as a serious threat",
+          "Not seeing Covid-19 as a threat remains one of the biggest predictors for those who are most resistant to getting vaccinated"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Concerns about vaccine side effects, both real and perceived, deter some people from getting vaccinated.",
+        "spans": [
+          "concern about the vaccines’ side effects",
+          "concern is the vaccine itself — and particularly the side effects that can come with it",
+          "concerns can be about something the vaccine really causes, like a day or two of aches, fever, and fatigue or, in extremely rare cases, potentially blood clots",
+          "They can also be about things that aren’t real or proven, like other long-term health risks or unproven claims about, for example, infertility"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Lack of trust in the vaccines themselves, including concerns about the speed of development and emergency use authorization.",
+        "spans": [
+          "little trust in the vaccines",
+          "many of the hesitant just don’t have much trust in the vaccines",
+          "They may believe that the process for the vaccines was too fast",
+          "the vaccines aren’t even technically approved by the Food and Drug Administration, since the agency has only authorized them for emergency use"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Lack of trust in institutions such as government agencies and the healthcare system contributes to vaccine hesitancy.",
+        "spans": [
+          "little trust in the institutions behind them",
+          "they may not trust the government agencies or companies that helped develop the vaccines",
+          "Or they may not trust the health care system in general",
+          "Black Americans, for example, report lower levels of trust in the health care system — a result of outright abuses, like the Tuskegee study"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Belief in conspiracy theories about Covid-19 vaccines or vaccines in general leads some people to refuse vaccination.",
+        "spans": [
+          "belief in at least one of several different conspiracy theories",
+          "At least half of people who say they won’t get vaccinated believe at least one conspiracy theory about the Covid-19 vaccines or vaccines in general"
+        ]
+      }
+    ],
+    "clueweb22-en0028-97-12475": [
+      {
+        "point_number": 1,
+        "point_content": "Opposition to vaccines has been discussed more frequently in the news with concerned parents opting to forgo vaccinations for their children for many different reasons.",
+        "spans": [
+          "opposition to vaccinations has been discussed more frequently in the news",
+          "Concerned parents are opting to forgo vaccinations for their children for many different reasons"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Vaccination opposition isn’t a new concept and started back in the early 1800s with sanitary, religious, and political objections.",
+        "spans": [
+          "Vaccination opposition isn’t a new concept",
+          "Refusing vaccines started back in the early 1800s when the smallpox vaccine started being used in large numbers",
+          "The criticism was based on sanitary, religious, and political objections"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Common reasons behind vaccine opposition include religious beliefs, belief that diseases were disappearing due to better sanitation, belief that vaccines wouldn’t protect, belief that risks outweigh benefits, belief that diseases have been eliminated so no need for vaccines, and mistrust of pharmaceutical companies.",
+        "spans": [
+          "Some cite religious beliefs as the reason behind their refusal to get vaccinated",
+          "There was a belief that diseases were disappearing due to better sanitation and hygiene, not vaccines",
+          "It was also believed that a vaccine wouldn’t protect you",
+          "People also think the risks outweigh the benefits",
+          "There is the common belief that since these diseases have been eliminated, there’s no need for vaccinations",
+          "And many think that pharmaceutical companies can’t be trusted"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The belief that vaccines cause autism is widespread but multiple studies and CDC state vaccines do not cause autism.",
+        "spans": [
+          "The belief that vaccines can cause autism has become widespread",
+          "Multiple studies have shown that the MMR vaccine does not cause autism",
+          "The Centers for Disease Control and Prevention (CDC) also states that vaccines are very safe",
+          "The CDC also clarified that vaccine ingredients do not cause autism"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Some people don’t get flu vaccines because they believe it doesn’t protect against all strains, needs to be given every year, or could make them sick, which is false.",
+        "spans": [
+          "The flu vaccine doesn’t protect against all strains of the flu",
+          "The vaccination needs to be given every year",
+          "The vaccination could make them sick, which is false"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Some opposition to vaccines comes from mistrust of science or government, skepticism of chemicals in vaccines, and preference for natural or homeopathic treatments.",
+        "spans": [
+          "Some opposition to vaccines comes directly from a mistrust of science, or mistrust of the government",
+          "Others are skeptical of science that they don’t understand, or the chemicals they don’t know that go into vaccines",
+          "Some parents prefer “natural” or homeopathic treatments instead"
+        ]
+      }
+    ],
+    "clueweb22-en0040-94-10703": [
+      {
+        "point_number": 1,
+        "point_content": "A sizeable number of people are still reluctant to get the shots, ranging from around 10-20% of people in the UK to around 50% in Japan and 60% in France.",
+        "spans": [
+          "a sizeable number of people are still reluctant to get the shots",
+          "that ranges from around 10-20% of people in the UK to around 50% in Japan and 60% in France"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The vaccine hesitant are often the result of many complicating factors that need to be addressed sensitively.",
+        "spans": [
+          "these choices are often the result of many complicating factors that need to be addressed sensitively"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The vast majority of vaccine-hesitant people do not have a political agenda and are not committed to an anti-scientific cause: they are simply undecided about their choice to take the injection.",
+        "spans": [
+          "The vast majority of vaccine-hesitant people do not have a political agenda and are not committed to an anti-scientific cause: they are simply undecided about their choice to take the injection"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Fear of needles is a major barrier for around 10% of the population.",
+        "spans": [
+          "A recent study from the University of Oxford suggests that a fear of needles is a major barrier for around 10% of the population"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The 5Cs model explains psychological factors influencing vaccine hesitancy: Confidence, Complacency, Calculation, Constraints (convenience), and Collective responsibility.",
+        "spans": [
+          "One of the most promising is known as the 5Cs model, which considers the following psychological factors: Confidence: the person's trust in the vaccines efficacy and safety, the health services offering them, and the policy makers deciding on their rollout Complacency: whether or not the person considers the disease itself to be a serious risk to their health Calculation: the individual's engagement in extensive information searching to weigh up the costs and benefits Constraints (or convenience): how easy it is for the person in question to access the vaccine Collective responsibility: the willingness to protect others from infection, through one's own vaccination"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Cognitive biases such as negativity bias, optimism bias, and confirmation bias influence people's perceptions and decisions about vaccines.",
+        "spans": [
+          "Jessica Saleska at the University of California, Los Angeles points out that humans have two seemingly contradictory tendencies – a \"negativity bias\" and an \"optimism bias\" that can each skew people’s appraisals of the risks and benefits.",
+          "Then there's the famous confirmation bias, which can also twist people's perceptions of the risks of the virus through the ready availability of misinformation from dubious sources that exaggerate the risks of the vaccines."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Social factors like convenience and structural racism affect vaccine uptake, especially in poorer communities and certain ethnic groups.",
+        "spans": [
+          "Nor should we forget the many social factors that might influence people's uptake – the \"constraints/convenience\" factor in the 5Cs.",
+          "Razai agrees that we need to consider the question of convenience, particularly for those in poorer communities who may struggle with the time and expense of the journey to a vaccination centre.",
+          "Finally, we need to be aware of the context of people's decisions, he says – such as the structural racism that might had led certain ethnic groups to have lower overall trust in medical authorities."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Health authorities need to provide easy-to-understand information addressing concerns about side effects and vaccine testing.",
+        "spans": [
+          "health authorities can continue to provide easy-to-digest, accurate information address the major concerns.",
+          "the major barriers continue to be patient's concerns about the side effects and the fears that the vaccines haven’t been adequately tested."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "A targeted approach with community influencers and open dialogue is necessary to address vaccine hesitancy.",
+        "spans": [
+          "Sarah Jones, a doctoral researcher who co-led the IGHI report, suggests a targeted approach will be necessary.",
+          "health services need to make it clear that they are engaging in an open dialogue, Razai says – rather than simply dismissing them out of hand."
+        ]
+      }
+    ],
+    "clueweb22-en0024-57-09227": [
+      {
+        "point_number": 1,
+        "point_content": "One in three unvaccinated people is waiting for full FDA approval.",
+        "spans": [
+          "one in three is waiting for full FDA approval"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "There is confusion about what EUA means, leading to hesitancy.",
+        "spans": [
+          "The emergency use authorization is emergency use authorization, not experimental use authorization, because sometimes that acronym gets misused"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "One in five unvaccinated people would like paid time off to get the shots.",
+        "spans": [
+          "One in five unvaccinated people would like paid time off to get the shots"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "One in ten unvaccinated people would be motivated by financial incentives.",
+        "spans": [
+          "One in ten would be motivated by financial incentives"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "40 percent of those not considering immunization feel pressured by the government, the media, society and friends and family.",
+        "spans": [
+          "40 percent of those not considering immunization feel pressured by the government, the media, society and friends and family"
+        ]
+      }
+    ],
+    "clueweb22-en0002-91-05733": [
+      {
+        "point_number": 1,
+        "point_content": "Many people I spoke with said they trusted their immune system to protect them.",
+        "spans": [
+          "Many people I spoke with said they trusted their immune system to protect them."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Some had already recovered from COVID-19 and considered the vaccine unnecessary.",
+        "spans": [
+          "Some had already recovered from COVID-19 and considered the vaccine unnecessary."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Others were worried that the vaccines might have long-term side effects.",
+        "spans": [
+          "Others were worried that the vaccines might have long-term side effects."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Many people said they had read up on the risk of COVID-19 to people under 50 and felt that the pandemic didn’t pose a particularly grave threat.",
+        "spans": [
+          "Many people said they had read up on the risk of COVID-19 to people under 50 and felt that the pandemic didn’t pose a particularly grave threat."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Many others said that perceived liberal overreach had pushed them to the right.",
+        "spans": [
+          "And many others said that perceived liberal overreach had pushed them to the right."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "The coronavirus is a wildly overrated threat. Yes, it’s appropriate and good to protect old and vulnerable people. But I’m not old or vulnerable. If I get it, I’ll be fine.",
+        "spans": [
+          "The coronavirus is a wildly overrated threat. Yes, it’s appropriate and good to protect old and vulnerable people. But I’m not old or vulnerable. If I get it, I’ll be fine."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "I don’t need some novel pharmaceutical product to give me permission to do the things I’m already doing. This isn’t even an FDA-approved vaccine; it’s authorized for an emergency.",
+        "spans": [
+          "I don’t need some novel pharmaceutical product to give me permission to do the things I’m already doing. This isn’t even an FDA-approved vaccine; it’s authorized for an emergency."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "They’re motivated to distrust public-health authorities who they’ve decided are a bunch of phony neurotics, and they’re motivated to see the vaccines as a risky pharmaceutical experiment.",
+        "spans": [
+          "The no-vaxxers’ reasoning is motivated too. Specifically, they’re motivated to distrust public-health authorities who they’ve decided are a bunch of phony neurotics, and they’re motivated to see the vaccines as a risky pharmaceutical experiment, rather than as a clear breakthrough that might restore normal life"
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0041-50-13731": [
+      {
+        "point_number": 1,
+        "point_content": "The treatment is not a vaccine and does not provide immunity, only reduces severity.",
+        "spans": [
+          "It’s not a vaccine. A vaccine by definition provides immunity to a disease. This does not provide immunity to anything. In a best-case scenario, it merely reduces the chance of getting a severe case of a virus if one catches it. Hence, it is a medical treatment, not a vaccine."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Distrust due to manipulation by drug companies, politicians, medical establishment, and media.",
+        "spans": [
+          "The drug companies, politicians, medical establishment, and media have joined forces to universally refer to this as a vaccine, when it is not one, with the intention of manipulating people into feeling safer about undergoing a medical treatment. Because they are being deceitful, I do not trust them, and want nothing to do with their medical treatment."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Long-term safety of the treatment is unknown, leading to distrust.",
+        "spans": [
+          "The establishment insists that this medical treatment is safe. They cannot possibly know this because the long-term effects are entirely unknown, and will not be known for many years. They may speculate that it is safe, but it is disingenuous for them to make such a claim that cannot possibly be known. Because they are being disingenuous, I do not trust them, and I want no part of their treatment."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Drug companies and politicians have zero liability if something goes wrong, causing reluctance to take the treatment.",
+        "spans": [
+          "The drug companies have zero liability if anything goes wrong, and cannot be sued. Same for the politicians who are pushing this treatment. I will not inject myself with a new, experimental medical device when the people behind it accept no liability or responsibility if something goes wrong."
+        ]
+      },
+      {
+        "point_number": 15,
+        "point_content": "People raising concerns about the treatment are bullied and censored, including medical professionals.",
+        "spans": [
+          "Those who raise concerns about this medical treatment are being bullied, slandered, mocked, censored, ostracized, threatened, and fired from their jobs. This includes medical professionals who have science-based concerns about the drug and caregivers who have witnessed people under their charge suffering horrible reactions and death shortly after being injected."
+        ]
+      },
+      {
+        "point_number": 16,
+        "point_content": "The treatment is considered the greatest medical experiment in history.",
+        "spans": [
+          "This is the greatest medical experiment in the history of the human race."
+        ]
+      },
+      {
+        "point_number": 18,
+        "point_content": "People are manipulated into participating in a medical experiment under false pretenses, violating ethics.",
+        "spans": [
+          "Were they up front with the masses, very few would agree to participate in such an experiment. Manipulating the masses to participate in a medical experiment under false pretenses violates the foundations of medical ethics and democratic law."
+        ]
+      },
+      {
+        "point_number": 23,
+        "point_content": "People who refuse the treatment are harassed and stigmatized, accused of being selfish and anti-science.",
+        "spans": [
+          "The establishment has recruited doctors, rabbis, the media, and the masses to harangue people who don’t want to get injected with a new drug. We are being called the worst sort of names. We are being told that we believe in crazy conspiracies, that we are against science, that we are selfish, that we are murderers, that we don’t care about the elderly, that it’s our fault that the government continues to impose draconian restrictions on the public."
+        ]
+      },
+      {
+        "point_number": 25,
+        "point_content": "Drug companies have a history of causing harm and suppressing information, leading to distrust.",
+        "spans": [
+          "The drug companies have a long and glorious history of causing mass carnage with wonder drugs they thrust on unsuspecting populations, even after serious problems had already become known. Instead of pressing the pause button and halting the marketing of these drugs until these issues could be properly investigated, the drug companies did everything in their power to suppress the information and keep pushing their products."
+        ]
+      },
+      {
+        "point_number": 26,
+        "point_content": "Reports of adverse effects are ignored or dismissed by authorities, increasing distrust.",
+        "spans": [
+          "Indeed, the horror stories are already coming in at warp speed, but the politicians are not the least bit concerned, the medical establishment is brushing them aside as unrelated or negligible, the media is ignoring it, the drug companies are steaming ahead at full speed, and those who raise a red flag continue to be bullied, censored, and punished."
+        ]
+      }
+    ],
+    "clueweb22-en0014-03-05750": [
+      {
+        "point_number": 1,
+        "point_content": "Some people became fearful of a vaccine they thought was rushed or experimental, and they may have heard false statements about vaccines causing infertility or containing a microchip.",
+        "spans": [
+          "Some became fearful of a vaccine they thought was rushed or experimental, and they may have heard false statements about vaccines causing infertility or containing a microchip."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Others drew comparisons to a thick history of medical gaslighting and abuse of people who look like them at the hands of the US government.",
+        "spans": [
+          "Others drew comparisons to a thick history of medical gaslighting and abuse of people who look like them at the hands of the US government."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "There are those who value individual liberty above all else, and view vaccine promotion as an intrusion on personal choice.",
+        "spans": [
+          "Then there are those who value individual liberty above all else, and view vaccine promotion as an intrusion on personal choice."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The people who've chosen not to get a COVID-19 vaccine yet aren't necessarily \"antivax.\"",
+        "spans": [
+          "The people who've chosen not to get a COVID-19 vaccine yet aren't necessarily \"antivax.\""
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "A lot of the reasons people aren't getting vaccinated is that they just don't know.",
+        "spans": [
+          "A lot of the reasons people aren't getting vaccinated is that they just don't know"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "For a lot of people it's really about the nuts and bolts of getting the vaccine, rather than any sort of ideological stance.",
+        "spans": [
+          "For a lot of people it's really about the nuts and bolts of getting the vaccine, rather than any sort of ideological stance."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "White evangelical Christians and people who're under 65 who don't have health insurance are the most likely to say they \"definitely\" will not get a COVID-19 vaccine.",
+        "spans": [
+          "White evangelical Christians and people who're under 65 who don't have health insurance are the most likely to say they \"definitely\" will not get a COVID-19 vaccine"
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Republicans make up 58% of the group who said they definitely won't get vaccinated.",
+        "spans": [
+          "Republicans make up 58% of the group who said they definitely won't get vaccinated."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "White Americans polled were much more likely to be adamantly against the vaccine than the people of color that were queried.",
+        "spans": [
+          "White Americans polled were much more likely to be adamantly against the vaccine than the people of color that were queried"
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Younger adults age 18 to 29 are also more likely to give a hard \"no\" to the vaccine, as are adults living in rural areas.",
+        "spans": [
+          "Younger adults age 18 to 29 are also more likely to give a hard \"no\" to the vaccine, as are adults living in rural areas."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Trevor Tilseth isn't getting the coronavirus vaccine because he sees the shot as a placebo and doesn't believe the coronavirus is that dangerous of a virus.",
+        "spans": [
+          "Trevor Tilseth lives in western Wisconsin and isn't getting the coronavirus vaccine because he sees the shot as a placebo.",
+          "Tilseth also doesn't believe the coronavirus is that dangerous of a virus"
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "Tilseth's main hangup on the coronavirus vaccines is not knowing what information to believe.",
+        "spans": [
+          "Tilseth's main hangup on the coronavirus vaccines is not knowing what information to believe."
+        ]
+      },
+      {
+        "point_number": 13,
+        "point_content": "A key issue in vaccine hesitancy is one of trust, with different cultural and political speakers disagreeing over the same information inhibiting progress.",
+        "spans": [
+          "Dunning believes a key issue in vaccine hesitancy is one of trust.",
+          "Different cultural speakers and political speakers disagreeing over the same information inhibit progress."
+        ]
+      },
+      {
+        "point_number": 14,
+        "point_content": "Many people who don't want the COVID-19 vaccine aren't antivaccine in general; their hesitation may stem from history, lack of access, politics and other reasons.",
+        "spans": [
+          "Many people who don't want the COVID-19 vaccine aren't antivaccine in general. Their hesitation may stem from history, lack of access, politics and other reasons."
+        ]
+      },
+      {
+        "point_number": 15,
+        "point_content": "Dr. Ijeoma Nnodim Opara was vaccine hesitant due to knowledge of a history in which Black people have been mistreated in the medical system.",
+        "spans": [
+          "Dr. Ijeoma Nnodim Opara is a pediatrician, an internal medicine doctor and a Black woman.",
+          "At a Twitter event Thursday discussing vaccine hesitancy in the Black community with the nonprofit Black Coalition Against COVID-19, Opara said her knowledge of a history in which Black people have been mistreated in the medical system made her, a medical professional, vaccine hesitant."
+        ]
+      },
+      {
+        "point_number": 16,
+        "point_content": "The Tuskegee Study is a notable event where Black people were wronged by the medical community, contributing to mistrust.",
+        "spans": [
+          "One of the most notable events in which Black people were wronged by the medical community was the Tuskegee Study, an experiment by the Tuskegee Institute and the US Public Health Service Commissioned Corps that began in 1932 and studied syphilis in 600 Black men from Alabama.",
+          "The participants were given false pretenses about the experiment, and when penicillin became available as treatment for the disease in 1947, none of the 399 men who had syphilis were treated. Many died."
+        ]
+      },
+      {
+        "point_number": 17,
+        "point_content": "Modern health disparities and disproportionate impact of COVID-19 on Black and other communities of color contribute to vaccine hesitancy.",
+        "spans": [
+          "Modern health disparities also exist, including overall access to care and research that suggests Black people receive worse health care than their white counterparts, even with health conditions, insurance and income adjusted.",
+          "In the coronavirus pandemic, the Black community also lost a disproportionate number of lives, in part because of how the community is disproportionately affected by health conditions that lead to severe COVID-19.",
+          "According to CDC data from July 2021, Black Americans were 2.8 times more likely to be hospitalized with COVID-19 and two times more likely to die from COVID-19 than white Americans."
+        ]
+      },
+      {
+        "point_number": 18,
+        "point_content": "Vaccination rates among Black and Hispanic people increased with community-based motivation, helping gain people's trust.",
+        "spans": [
+          "While Black and Hispanic people have lower vaccination rates in their communities compared to whites, according to data reported by the Kaiser Family Foundation, vaccination rates among Black and Hispanic people increased from Aug. 2 through Aug. 16, helping narrow the gap in vaccine disparity and suggesting that community-based motivation, like that from the Black Coalition Against COVID-19, helps gain people's trust."
+        ]
+      },
+      {
+        "point_number": 19,
+        "point_content": "Some people don't get vaccinated because they believe they are generally healthy and not susceptible to severe COVID-19.",
+        "spans": [
+          "There've been a few reports circulating online about people who didn't get vaccinated because they were generally healthy and didn't think they were susceptible to severe COVID-19"
+        ]
+      },
+      {
+        "point_number": 20,
+        "point_content": "Those most likely to say they \"definitely\" won't get the COVID-19 vaccine are also the most likely to think they won't get a serious case of COVID-19, or that the vaccines pose a worse threat to their health than the virus itself.",
+        "spans": [
+          "Those most likely to say they \"definitely\" won't get the COVID-19 vaccine are also the most likely to think they won't get a serious case of COVID-19, or that the vaccines pose a worse threat to their health than the virus itself, according to data from the Kaiser Family Foundation."
+        ]
+      }
+    ]
+  }
+}

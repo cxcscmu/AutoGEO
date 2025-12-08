@@ -1,0 +1,310 @@
+{
+  "question": "are vaccines safe research",
+  "key_points": {
+    "clueweb22-en0018-09-13322": [
+      {
+        "point_number": 1,
+        "point_content": "The two mRNA vaccines, Pfizer and Moderna, authorized by the U.S. Food and Drug Administration (FDA) and recommended by the Centers for Disease Control and Prevention (CDC), are very safe and very good at preventing serious or fatal cases of COVID-19.",
+        "spans": [
+          "The two mRNA vaccines, Pfizer and Moderna, authorized by the U.S. Food and Drug Administration (FDA) and recommended by the Centers for Disease Control and Prevention (CDC), are very safe and very good at preventing serious or fatal cases of COVID-19."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The risk of serious side effects associated with these vaccines is very small.",
+        "spans": [
+          "The risk of serious side effects associated with these vaccines is very small."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Roughly 12 months of data, including data from tens of thousands of participants in clinical trials, show that the vaccines are safe and effective at preventing serious disease or death due to COVID-19.",
+        "spans": [
+          "Roughly 12 months of data, including data from tens of thousands of participants in clinical trials, show that the vaccines are safe and effective at preventing serious disease or death due to COVID-19."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The Pfizer and Moderna vaccines received full FDA approval, which means more data show how well that particular vaccine works.",
+        "spans": [
+          "The Pfizer and Moderna vaccines received full FDA approval, which means more data show how well that particular vaccine works."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The CDC noted that the two mRNA vaccines, from Pfizer and Moderna, are preferred over the Johnson & Johnson vaccine, which remains available for those who prefer it and for use in certain circumstances.",
+        "spans": [
+          "The CDC noted that the two mRNA vaccines, from Pfizer and Moderna, are preferred over the Johnson & Johnson vaccine, which remains available for those who prefer it and for use in certain circumstances."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "The CDC and FDA monitor possible safety issues with the COVID-19 vaccines and have updated recommendations based on observed rare side effects.",
+        "spans": [
+          "To help catch risks or safety concerns, the CDC and FDA monitor possible safety issues with the COVID-19 vaccines. This ongoing work has led to revised recommendations for the Johnson & Johnson vaccine and information about rare side effects tied to the Pfizer and Moderna vaccines."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Most myocarditis events after Pfizer and Moderna vaccines happened in teens and young adults, and the majority of the cases were mild and cleared up on their own.",
+        "spans": [
+          "After observing rare occurrences of myocarditis following the second injection of the Pfizer and Moderna COVID-19 vaccines, the CDC released information for the public. Most of these myocarditis events happened in teens and young adults, and the majority of the cases were mild and cleared up on their own."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "The COVID-19 vaccines were developed quickly due to prior technology development, shared genetic information, simultaneous testing stages, government funding, and other factors, but safety measures were not skipped.",
+        "spans": [
+          "The relatively quick development of these vaccines does not mean safety measures were skipped. There are several reasons why the COVID-19 vaccines were developed faster than other vaccines:",
+          "The technologies used to develop the COVID-19 vaccines have been in development for years to prepare for outbreaks of infectious viruses. The manufacturing processes were ready very early in the COVID-19 pandemic.",
+          "Countries shared genetic information when it was available about SARS-CoV-2, the coronavirus that causes COVID-19, which gave vaccine developers an early start at finding a vaccine.",
+          "The testing processes for the vaccines didn’t skip any steps, but the vaccine developers conducted some stages of the process simultaneously to gather as much data as quickly as possible.",
+          "Governments gave money to vaccine developers in advance, so the companies had resources they needed.",
+          "Some types of COVID-19 vaccines were created using messenger RNA (mRNA), a new technology that allows a faster approach than the traditional way vaccines are made.",
+          "Social media enabled companies to reach out to and enroll study volunteers, and plenty of people wanted to help, so there were enough research participants to test the COVID-19 vaccines.",
+          "Because SARS-CoV-2 is so contagious and widespread, many volunteers who got the vaccines were exposed to the virus, and with so many exposures, it took a shorter time to see if the vaccines worked.",
+          "Companies began manufacturing vaccines ahead of their authorization or approval so some supplies would be ready if authorization occurred."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "All vaccines go through clinical trials to test safety and effectiveness, and the FDA set high safety standards for COVID-19 vaccine developers to meet.",
+        "spans": [
+          "All vaccines go through clinical trials to test safety and effectiveness. For the COVID-19 vaccine, the FDA set high safety standards for vaccine developers to meet."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Once a vaccine gets an EUA and is being given to people, the FDA and the CDC continue to watch carefully in case problems arise.",
+        "spans": [
+          "Once a vaccine gets an EUA and is being given to people, the FDA and the CDC continue to watch carefully in case problems arise."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "You cannot and will not get COVID-19 from any of the vaccines. The COVID-19 vaccines do not have any virus or other infectious material in them.",
+        "spans": [
+          "You cannot and will not get COVID-19 from any of the vaccines. The COVID-19 vaccines do not have any virus or other infectious material in them."
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "The clinical trials for the first two COVID-19 vaccines included members of underrepresented minorities and older age groups, and people with conditions such as obesity, diabetes, and heart and respiratory conditions.",
+        "spans": [
+          "The clinical trials for the first two COVID-19 vaccines included members of underrepresented minorities and older age groups, and people with conditions such as obesity, diabetes, and heart and respiratory conditions."
+        ]
+      },
+      {
+        "point_number": 13,
+        "point_content": "Johns Hopkins Medicine recommends that everyone who is eligible get vaccinated with one of the currently authorized mRNA COVID-19 vaccines: Pfizer or Moderna.",
+        "spans": [
+          "Yes, we recommend that everyone who is eligible get vaccinated with one of the currently authorized mRNA COVID-19 vaccines: Pfizer or Moderna."
+        ]
+      }
+    ],
+    "clueweb22-en0006-17-17223": [
+      {
+        "point_number": 1,
+        "point_content": "The research affirms the overall safety of the Pfizer/BioNTech BNT162b2 mRNA vaccine and underscores that the risk of adverse consequences from actual infection with SARS-CoV-2 far outweighs potential vaccine risks.",
+        "spans": [
+          "The findings, the researchers said, affirm the overall safety of the vaccine and underscore that the risk of adverse consequences from actual infection with SARS-CoV-2 far outweighs potential vaccine risks."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The study showed that few adverse events were associated with the vaccine, with myocarditis being rare at 2.7 excess cases per 100,000 vaccinated people.",
+        "spans": [
+          "The study showed that few adverse events were associated with the vaccine. Myocarditis, or inflammation of the heart muscle, the most serious of them, was rare, with a rate of 2.7 excess cases per 100,000 vaccinated people."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The risk of myocarditis was notably higher among infected but unvaccinated individuals, at 11 excess cases per 100,000 people.",
+        "spans": [
+          "By contrast, the risk of myocarditis was notably higher among infected but unvaccinated individuals, occurring at a rate of 11 excess cases per 100,000 people."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Coronavirus infection—but not vaccination—was associated with greatly increased risk of several serious conditions including pericarditis, heart arrhythmias, heart attacks, strokes, pulmonary embolism, deep-vein thrombosis, and acute kidney damage.",
+        "spans": [
+          "Coronavirus infection—but not vaccination—was also associated with greatly increased risk of pericarditis (an inflammation of the area around the heart), heart arrhythmias, heart attacks, strokes, pulmonary embolism, deep-vein thrombosis, acute kidney damage, among others."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The study provides reliable information on vaccine safety which may help reduce vaccine hesitancy.",
+        "spans": [
+          "“ This careful epidemiological study provides reliable information on vaccine safety, which we hope will be helpful to those who have not yet decided about vaccination, ” Reis said."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "The study is based on analysis of data from nearly 2 million individuals in Israel and is one of the largest real-world assessments of COVID-19 vaccine safety to date.",
+        "spans": [
+          "The research, which assessed the safety of the Pfizer/BioNTech BNT162b2 mRNA vaccine, is based on analysis of data from nearly 2 million individuals in Israel and represents one of the largest real-world assessments of COVID-19 vaccine safety to date."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "The study used comprehensive digital datasets from Clalit Health Services in Israel, avoiding reliance on individual-driven active reporting of side effects.",
+        "spans": [
+          "The results are based on records from Clalit Health Services in Israel, one of the world’s largest integrated health record databases.",
+          "The extensive nationwide rollout of Israel’s COVID-19 vaccination campaign provided the Clalit Research Institute with a unique opportunity to assess, through its rich and comprehensive digital datasets, the safety of the vaccine in a real-world setting, without needing to rely on individual-driven active reporting of side effects"
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0004-74-14735": [
+      {
+        "point_number": 1,
+        "point_content": "COVID-19 vaccines have highly impressive safety profiles and strong efficacy, with continually encouraging data showing real-world vaccine effectiveness.",
+        "spans": [
+          "Despite highly impressive safety profiles, strong efficacy, and continually encouraging data showing real-world vaccine effectiveness"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The Pfizer/BioNTech vaccine's primary safety endpoints for serious adverse events conclude six months after the second dose, which is considered an adequate length of time to assess safety.",
+        "spans": [
+          "Indeed, for the Pfizer/BioNTech vaccine, primary safety endpoints for serious adverse events conclude six months after the second dose."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The components of the mRNA vaccines are well understood, with ingredients like tiny lipid particles and polyethylene glycol (PEG) in very small amounts, and the mRNA itself decays and disappears shortly after vaccination.",
+        "spans": [
+          "Despite the very high-tech feel to mRNA vaccines, their ingredients are rather underwhelming. They contain tiny lipid particles —that is, fat—and some polyethylene glycol (PEG), a widely used laxative and excipient (a biologically inactive substance that is used to deliver an active one).",
+          "This type of RNA is present in virtually all of our cells: our genes, encoded in DNA, are first transcribed into mRNA before being translated into proteins. In the case of vaccines, mRNA molecules are delivered and translated, but they subsequently decay and disappear entirely over the days following vaccination, without the possibility for renewal."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Long-term adverse events from vaccines are unlikely to arise beyond the immunization response itself, which settles down after a few months, with risk of severe immunization-related complications declining to virtually nothing after about three months.",
+        "spans": [
+          "If we remove concern about the core components of a vaccine, the only way long-term adverse events could arise is due to the immunization response itself.",
+          "After this point, the risk of severe immunization-related complications doesn’t increase. Quite the opposite, in fact: it declines to virtually nothing after about three months."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Rare vaccine-related complications have been observed within the first sixty days, and the risk of these is far outweighed by the risks associated with COVID-19 infection itself.",
+        "spans": [
+          "Conditions including (but not limited to) Guillan-Barré syndrome, anaphylaxis, vaccine-induced thrombotic thrombocytopenia (VITT), and myocarditis have all been observed in the first sixty days",
+          "the sum of the diverse risks associated with vaccination are dwarfed by the diverse and incompletely understood risks posed by the novel coronavirus."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Vaccines undergo rigorous nonclinical and clinical testing to assess safety and efficacy before approval, including studies of toxicity, carcinogenicity, cardiosafety, and teratogenicity.",
+        "spans": [
+          "Before any new vaccine for an infectious disease is permitted to enter Phase 1 testing (the first human doses), a robust package of nonclinical data is required, where safety and efficacy must be demonstrated in non-human species.",
+          "Studies to assess toxicity (subdivided into many categories, including phototoxicity and genotoxicity), carcinogenicity, cardiosafety, and teratogenicity—effects on the development of an embryo or fetus—are just some of the industry-standard prerequisites before most medications can enter larger human clinical trials, let alone approval."
+        ]
+      }
+    ],
+    "clueweb22-en0016-78-03490": [
+      {
+        "point_number": 1,
+        "point_content": "Vaccines are one of the safest medicines a person can put into their body and are a key tool in preventing deaths from COVID-19.",
+        "spans": [
+          "Vaccines are one of the safest medicines a person can put into their body and are a key tool in preventing deaths from COVID-19"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The mRNA vaccines have a stop cycle and break down after completing their job, so there is no possibility of long-term side effects.",
+        "spans": [
+          "When you look at this mRNA vaccine, it’s impossible for it to do anything else",
+          "it automatically has a stop cycle within the sequence that will make it stop multiplying.",
+          "Simply put, the mRNA has one job, and once it’s complete, it breaks down and leaves your body. Because of this, there is no possibility of a side effect from an mRNA vaccine appearing years down the road"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The mRNA technology used in COVID-19 vaccines has been around for a while and was not new.",
+        "spans": [
+          "the technology is not new"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The COVID-19 vaccine development was fast due to urgent need and significant government funding without compromising clinical trials.",
+        "spans": [
+          "The reason why this moved so fast is because we had nothing",
+          "People were dying, and we really didn’t have a choice but to complete the trials as quickly as we could without compromising any of the studies.",
+          "In the U.S. alone, the government invested nearly $19 billion in vaccine research and development."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The vaccines have completed clinical trials before Emergency Use Authorization; full FDA approval is delayed due to paperwork.",
+        "spans": [
+          "The clinical trials already were complete by the time the vaccines received Emergency Use Authorization",
+          "They have to put all the paper trail in place, and it’s really the paperwork that’s causing the delay"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Adverse effects are rare and far less common than with other medications; the risk of severe illness or death from COVID-19 is much higher than from the vaccine.",
+        "spans": [
+          "More than 4.71 billion doses of a COVID-19 vaccine have been administered worldwide",
+          "0.005% may have resulted in a serious side effect",
+          "When you compare vaccines to any other medication, even the over-the-counter medications, the vaccine adverse effects are far less than anything we’ve encountered in our lifetime.",
+          "Your chances of severe illness or death from the vaccine are far less than from COVID-19"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Breakthrough cases are expected but rare; vaccines greatly reduce hospitalization and death and help protect others.",
+        "spans": [
+          "No vaccine offers 100% protection, so breakthrough cases are expected",
+          "hospitalization and death reports show us that serious infections among vaccinated people are rare",
+          "Vaccines greatly reduce your chances of hospitalization and death from COVID-19 and help protect others"
+        ]
+      }
+    ],
+    "clueweb22-en0008-41-10703": [
+      {
+        "point_number": 1,
+        "point_content": "No vaccine is 100 percent safe; almost all vaccines can cause pain, redness or tenderness at the site of injection, and some can cause more severe side effects.",
+        "spans": [
+          "no vaccine is 100 percent safe",
+          "Almost all vaccines can cause pain, redness or tenderness at the site of injection",
+          "some vaccines cause more severe side effects"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The benefits of vaccines must clearly and definitively outweigh their risks for them to be considered safe.",
+        "spans": [
+          "a vaccine's benefits must clearly and definitively outweigh its risks"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The hepatitis B vaccine has few side effects but can cause a severe allergic reaction in about 1 of every 1 million doses.",
+        "spans": [
+          "The hepatitis B vaccine has few side effects",
+          "About 1 of every 1 million doses of hepatitis B vaccine is complicated by a severe allergic reaction, called anaphylaxis"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Every year about 1,700 people die in the United States soon after being infected with hepatitis B virus, and millions live with chronic hepatitis B infection, which can cause severe liver damage or liver cancer.",
+        "spans": [
+          "every year about 1,700 people die in the United States soon after being infected with hepatitis B virus",
+          "millions of people throughout the world live with chronic hepatitis B infection",
+          "Up to 1 in 4 chronically infected people will suffer severe liver damage (called cirrhosis) or liver cancer caused by hepatitis B virus"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Because the benefits of the hepatitis B vaccine clearly and definitively outweigh its risks, the hepatitis B vaccine is safe.",
+        "spans": [
+          "Because the benefits of the hepatitis B vaccine clearly and definitively outweigh its risks, the hepatitis B vaccine is safe"
+        ]
+      }
+    ]
+  }
+}

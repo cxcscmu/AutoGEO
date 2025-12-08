@@ -1,0 +1,31 @@
+{
+  "question": "why are industries fragmented",
+  "key_points": {
+    "null": [],
+    "clueweb22-en0035-75-13519": [
+      {
+        "point_number": 1,
+        "point_content": "A fragmented industry is one where the industrial or service units remain scattered all over the country or over a particular geographical region and none of the units has a substantial market share.",
+        "spans": [
+          "A fragmented industry is one where the industrial or service units remain scattered all over the country or over a particular geographical region and none of the units has a substantial market share."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "A number of industries are populated by hundreds, even thousands, of small and medium-sized companies, many privately held and none with a substantial share of total industry sales.",
+        "spans": [
+          "A number of industries are populated by hundreds, even thousands, of small and medium-sized companies, many privately held and none with a substantial share of total industry sales."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The notable features of a fragmented industry include absence of market leaders, none of the units has a king-sized market share, and no single unit has widespread buyer recognition.",
+        "spans": [
+          "Absence of market leaders;",
+          "None of the units has a king-sized market share;",
+          "No single unit has widespread buyer recognition."
+        ]
+      }
+    ]
+  }
+}

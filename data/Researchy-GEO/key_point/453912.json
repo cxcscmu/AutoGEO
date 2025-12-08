@@ -1,0 +1,123 @@
+{
+  "question": "did the french and indian war cause the american revolution?",
+  "key_points": {
+    "clueweb22-en0021-15-10021": [
+      {
+        "point_number": 1,
+        "point_content": "The French and Indian War was the catalyst for the American Revolution.",
+        "spans": [
+          "One example of this is how the French and Indian War was the catalyst for the American Revolution."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "After the French and Indian War, the British parliament imposed heavy taxes and laws on the colonists to pay for the war costs, which contributed to the American Revolution.",
+        "spans": [
+          "after the French and Indian War, the parliament of Great Britain started putting heavy and ridiculous taxes and laws on the colonists to help pay for the cost of the war."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The Proclamation of 1763, Stamp Act, and Townshend Acts were some of the laws and taxes imposed on the colonists after the French and Indian War.",
+        "spans": [
+          "A few of which include the proclamation of 1763, the stamp act, and the townshend acts."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The colonists' resistance to these taxes and laws, including events like the Boston Tea Party, escalated tensions leading to the American Revolution.",
+        "spans": [
+          "The colonists decided to boycott these items in order to get parliament to repeal the townshend acts, which, as a bad parent would do to a whining child, they took away all of the taxes on these items except for the tea tax.",
+          "Later on the Boston colonists dressed up as Indians and did something that we all know as the Boston Tea party. They dumped all of the imported tea that had just been delivered and dumped it into Boston Harbor."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The British response to colonial protests, the Intolerable Acts, further increased tensions leading to the American Revolution.",
+        "spans": [
+          "In reaction to the colonist’s naughty childish behavior at Boston Harbor, the British punished the colonists by passing the “intolerable acts” as the colonists called them."
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0042-15-02161": [
+      {
+        "point_number": 1,
+        "point_content": "Many men, both American and British, who would serve in the Revolutionary War found themselves engulfed in the struggle.",
+        "spans": [
+          "Many men, both American and British, who would serve in the Revolutionary War found themselves engulfed in the struggle."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The French and Indian War was a conflict that involved British colonies in North America and had significant consequences for their territorial expansion and relations with Native Americans.",
+        "spans": [
+          "By the 1750s, the population of Britain’s colonies in North America was over 1 million.",
+          "Because the Atlantic Ocean rested to the east of the colonies, there was only one direction to expand—westward.",
+          "With the French to the west and the Spanish in Florida, the British colonists were boxed in.",
+          "Stuck in the middle were the Native Americans, and many of them, like the Iroquois, were effective in commercially pitting Britain and France against each other all the while remaining a “neutral” nation."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The French and Indian War began with conflicts over the Ohio River Valley, a key area for territorial control and trade.",
+        "spans": [
+          "The area of contention that would ultimately serve as the spark to ignite the powder keg of war was a 200,000 square mile region known as the Ohio River Valley.",
+          "By the late 1740s, a recent uptick in British traders moving through the region to do business with the Native Americans put New France on high alert.",
+          "It was only a matter of time before Britain, who saw the Forks of the Ohio as part of the King’s dominion, sent a military force from Pennsylvania or Virginia to assert its dominance in the region."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The first shots of the French and Indian War were fired by George Washington in the Ohio River Valley, marking the start of a conflict that would have global ramifications.",
+        "spans": [
+          "In western Pennsylvania, the order to fire the first shots of the conflict were given by none other than a young officer from Virginia named George Washington.",
+          "These were the first shots fired during the French and Indian War and would have global ramifications."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The British government reacted to the loss of the Ohio River Valley by sending regular regiments to North America, escalating the conflict.",
+        "spans": [
+          "After receiving the news of the loss of the Ohio River Valley, London reacted.",
+          "The following year, British regular regiments were on their way across the Atlantic."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "The French and Indian War involved battles and military campaigns that set the stage for future conflicts, including the American Revolution.",
+        "spans": [
+          "Many men, both American and British, who would serve in the Revolutionary War found themselves engulfed in the struggle.",
+          "A British force succeeded in capturing two forts in Acadia, thus ousting French influence from the region.",
+          "At the southern shore of Lake George in New York, an entirely colonial force threw back repeated assaults by professional French troops and prevented the crucial waterway from falling into enemy hands."
+        ]
+      }
+    ],
+    "clueweb22-en0012-31-11037": [
+      {
+        "point_number": 1,
+        "point_content": "The French and Indian War led to colonial discontent due to disputes over frontier policy and paying the war’s expenses, which ultimately led to the American Revolution.",
+        "spans": [
+          "The war provided Great Britain enormous territorial gains in North America, but disputes over subsequent frontier policy and paying the war’s expenses led to colonial discontent, and ultimately to the American Revolution."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The cost of the French and Indian War greatly enlarged Britain’s debt, leading to taxation and economic measures that affected the colonies.",
+        "spans": [
+          "But the cost of the war had greatly enlarged Britain’s debt.",
+          "England became in debt so they put taxes on colonists.",
+          "As a result, new taxes laws were passed to raise revenue for the British."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Colonists were angry about British restrictions such as the Proclamation of 1763, which limited settlement and trade, contributing to revolutionary sentiment.",
+        "spans": [
+          "They were angry that Britain had limited the area available for settlement.",
+          "A desire for good farmland caused many colonists to defy the proclamation; others merely resented the royal restrictions on trade and migration."
+        ]
+      }
+    ]
+  }
+}

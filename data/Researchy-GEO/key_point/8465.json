@@ -1,0 +1,414 @@
+{
+  "question": "how does iot impact our lives",
+  "key_points": {
+    "clueweb22-en0007-21-09938": [
+      {
+        "point_number": 1,
+        "point_content": "IoT is a network of interconnected digital devices, machines, vehicles etc. These devices exchange data.",
+        "spans": [
+          "Internet of Things is a network of interconnected digital devices, machines, vehicles etc. These devices exchange data."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "IoT is being adopted by almost all the sectors and makes things easier for residents in smart homes by automating tasks.",
+        "spans": [
+          "IoT is being adopted by almost all the sectors. One of the best examples of Internet of Things is smart home. Without human intervention, things in smart home can exchange data and make things easier for resident like opening the doors automatically etc."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "IoT connects everyday objects like chairs, beds, cars and music systems to the internet using sensor connected devices.",
+        "spans": [
+          "Today, we can have things like chairs, beds, cars and music system connected directly to the internet.This can be done simply by using sensor connected devices to our physical environment."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "IoT features include ultra-low-cost with zero maintenance cost and does not require expert computer science skills to use.",
+        "spans": [
+          "This will soon be high on demand because of its irresistible features such as ultra-low-cost with absolutely zero maintenance cost.",
+          "Apart from this, it is different from the other emerging technologies having Artificial Intelligence and Machine learning, we need not have the required computer science skills. We don’t have to be an expert to use it."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "In healthcare, IoT has developed wearable sensor gadgets for monitoring fitness, diet, medication management, and helps physically disabled and senior citizens live independently.",
+        "spans": [
+          "Talking in terms of healthcare, IOT has now reached all verticals one can imagine by developing wearable sensor gadget for monitoring fitness, diet, medication management etc.It has made the lives of physically disabled and senior citizens simpler since they have to live independently."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "IoT can be used for monitoring vibrations in buildings, monuments, bridges, and dams during natural calamities to help control disasters beforehand.",
+        "spans": [
+          "IoT can be widely used for monitoring the vibrations in the building, monuments, bridges, and dams during the natural calamity such as earthquakes or tsunamis. This could be huge help to control any natural disaster beforehand"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "IoT devices allow control of home functions like opening gates, controlling light intensity, unlocking cars, sliding curtains, enhancing living standards and security.",
+        "spans": [
+          "With one tab on the IoT device, we can open our house gates, control the intensity of the light and set them dim, unlock our cars, slide the curtains and the list is endless. This makes up upgrade our standards of living .This could be useful for protecting our houses and lockers from thievery."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "IoT leads to massive job losses due to automation and reduces the importance of human intelligence and labor.",
+        "spans": [
+          "As we invite the new world having the next era of connectivity, we are talking about the massive loss of jobs over the next 10 years. With all our tasks automated, we are losing the importance of humans intelligence and labor."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Security is a major concern with IoT due to the need to encrypt and protect large amounts of data from hackers and privacy challenges.",
+        "spans": [
+          "Security is the major concern when we talk about IoT. An enormous amount of data now needs to be encrypted and protected from the hackers. Also, a time will come when the privacy of people will be highly challenged."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "IoT currently requires expensive sensor-based kits and lacks compatibility in terms of USB connectivity.",
+        "spans": [
+          "In the present world scenario, we require Arduino IoT kit for running any of the sensor based application which is quite expensive in the market. This means the concept of IoT doesn’t support compatibility in terms of USB connectivity."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "IoT encourages over-reliance on technology and reduces trust in human cognitive thinking.",
+        "spans": [
+          "IoT is encouraging the over-reliance of technology , our present generation has grown up with the presence of a worldwide network of the internet where everything is so easily attainable overly dependent on internet and for every decision we now trust the technology more than our cognitive thinking."
+        ]
+      }
+    ],
+    "clueweb22-en0010-19-10303": [
+      {
+        "point_number": 1,
+        "point_content": "Internet of Things (IoT) will have an impact on almost all aspects of our lives.",
+        "spans": [
+          "It is said that Internet of Things (IoT) will have an impact on almost all aspects of our lives."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "IoT enabled parking helps save time and hassle by allowing users to view and book parking spots remotely.",
+        "spans": [
+          "Internet of Things (IoT) Enabled Parking",
+          "These startups provide a view of all the legal parking spots in a neighborhood. They then allow the user to view availability and even book a spot from their home. They can make payments via e-wallets. The result is that the time required to find parking is saved and the commuter is spared the hassle of navigating the entire parking lot several times before they can find a parking spot."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "IoT improves public transport systems by providing real-time information about bus locations, seat availability, and routes.",
+        "spans": [
+          "Internet of Things (IoT) Enabled Public Transport Systems",
+          "They can communicate with commuter and provide them real-time information about the location of the bus and the availability of seats in them. They also provide information about the route and suggest alternative means of transport.",
+          "Internet of Things (IoT) is playing a vital role in the bus rapid transport systems (BRTS) in several countries. The moment a passenger arrives at a bus stop, they are provided information about the current location of the bus and when it will reach the stop."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "IoT enabled home automation allows remote control of lighting, temperature, and appliances, increasing comfort and reducing utility bills.",
+        "spans": [
+          "Internet of Things (IoT) Enabled Home Automation",
+          "Imagine being able to set the lighting and temperature of your room without even moving out of your chair.",
+          "All this is possible with the Internet of Things (IoT).",
+          "Another major benefit of the Internet of Things (IoT) is that it cuts the utility bills of the house."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "IoT enabled vehicle management systems predict car breakdowns and notify owners to perform maintenance, saving costs and increasing vehicle life.",
+        "spans": [
+          "Internet of Things (IoT) Enabled Vehicle Management",
+          "Vehicle management systems continuously obtain statistics about the performance of the car. As soon as any abnormality is detected, the same is brought to the notice of the owner. The owner can then get the car checked and fixed before any major breakdown takes place. The proper maintenance of the car increases the life expectancy as well as fuel efficiency."
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0000-80-19481": [
+      {
+        "point_number": 1,
+        "point_content": "IoT will permeate every aspect of our lives, from refrigerators to shoes, with a trillion devices supported by IT infrastructure.",
+        "spans": [
+          "Within the next five years, sensors will likely have permeated  every aspect of our lives, from our refrigerators to our shoes.  The world's IT infrastructure will be supporting a trillion devices, big and small."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Smart connected appliances in homes will save energy and make life more convenient.",
+        "spans": [
+          "Smart, connected  appliances are what people think of when they hear IoT. They imagine an  intelligent house, programmed to save energy and make your life a more  convenient one. Alarm clocks will be synced with traffic apps; heating  systems will be synced with external temperature sensors, which will be  synced with cost evaluations; lighting will react as we enter a room, as  might our coffee makers."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "IoT will improve waste management and save money on bills by integrating light, heat, and air conditioning that reacts to you.",
+        "spans": [
+          "Next, IoT will have a  drastic effect on waste management. With the seamless integration of  light, heat and air conditioning that reacts to you, a lot of money  could be saved on those bills. For food, anything you don't eat in your  fridge will be recorded so you can examine trends and patterns."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "IoT will enhance daily commute with smart house alerts, car sensors, intelligent traffic detection, and calendar-synced taxi services.",
+        "spans": [
+          "Imagine you left your home without your  house key - your house would tell you this. Our cars will anticipate our  approach and open themselves via a sensor in our phones. Intelligent  traffic detection will allow our device to direct us to the shortest  route to work/ home. Taxi services for business meetings will be planned  according to your calendar - synced with your smartphone."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "IoT in personal health includes wearables tracking vital signs, sleep, nutrition, GP visits, exercise, and city sensors alerting to dangers.",
+        "spans": [
+          "For  personal health, the possibilities are even more extensive. 3d-printed  wristbands for reading vital signs are already in development. With the  long list of wearables already in circulation, we can track even more:  sleeping patterns, nutritional balance, GP visits and check-up  schedules, exercise programmes, etc. To keep you safe, sensors around  your city will also alert you to any potential dangers including traffic  accidents, proximity alerts around your vehicle, bad weather, and more."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "IoT devices and wearables in sports will track performance efficiency and various fitness variables.",
+        "spans": [
+          "In  sport, IoT devices and wearables will be all about performance  efficiency. You'll be able to track your progress, errors, power,  agility, overall cariovascular fitness level and any variable you can  imagine. Whether for cycling, tennis, or football, all can make use of  sensors - and they will use them to their full effect."
+        ]
+      }
+    ],
+    "clueweb22-en0033-08-08173": [
+      {
+        "point_number": 1,
+        "point_content": "The Internet of Things will connect many everyday objects, sending signals to each other and alerts to our phones, creating data that impacts our lives.",
+        "spans": [
+          "We will start to see a plethora of \"dumb\" objects become connected, sending signals to each other and alerts to our phones, and creating mounds of \"little data\" on all of us that will make marketers salivate."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Smart objects will reduce waste, costs and inconvenience while increasing efficiency and safety in our homes, cars and lives.",
+        "spans": [
+          "By 2017, we will see smart objects hitting shelves on broad scale and we will start reducing waste, costs and inconvenience while increasing efficiency and safety."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Smart cars will communicate maintenance needs and suggest appointment times by integrating with your calendar.",
+        "spans": [
+          "Your truly \"smart\" car will preemptively reach out to your mechanic when it is time for the annual tune up or your tire pressure is running low, and by cross referencing your calendar, appointment suggestions will be delivered to you to confirm a time with one click."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Connected health devices will monitor medication usage and health metrics remotely, facilitating better health management.",
+        "spans": [
+          "When a prescription is running low, an appointment will be made with your physician through connected RX bottles.",
+          "Doctors will be kept informed with how often and when their patients are taking their medicine and those with ongoing health issues will be able to have things such as blood pressure and sugar levels monitored remotely."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Home appliances will adjust energy consumption based on price signals and habits to save costs and reduce waste.",
+        "spans": [
+          "High-energy consumption household appliances will adjust based on dynamic price signals to lower your electric bill.",
+          "Thermostats and lighting will learn your habits to create the optimal setting based on your daily life, such as turning to your ideal temperature just before you arrive home.",
+          "These gadgets will also sense when no one is in the house and turn off automatically to reduce wastes and costs."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Traffic systems and cars will communicate to improve safety and traffic flow by adjusting to real-time conditions.",
+        "spans": [
+          "Traffic lights will be able to adjust to real-time traffic conditions such as when an emergency vehicle is approaching.",
+          "Road sensors will make changes to the speed limit based on weather and accidents, while also communicating directly to car dashboards about unsafe conditions (e.g. Slow down. The turn in a quarter mile is icey)."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Smart refrigerators and stores will help manage grocery lists and shopping by sensing low supplies and pushing reminders.",
+        "spans": [
+          "Smart refrigerators will sense when you are running low on staples such as eggs or milk and will automatically populate your grocery list.",
+          "Stores will push reminders to add items to your list when it predicts you about to run out based on your historical purchasing behavior and average buying trends.",
+          "When you are walking through the store, reminders will get pushed to you to ensure you never have to make that dreaded second trip."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Your morning alarm and coffee machine will adjust based on traffic and weather conditions to optimize your morning routine.",
+        "spans": [
+          "The traffic on your route to work and the weather will soon affect what time your alarm goes off.",
+          "If there is an accident or road construction on your usual drive, your alarm will go off early and alternate routes will populate in your dashboard.",
+          "Of course, your coffee machine will be in the loop to make sure you have your cup of joe for the road."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Parents can monitor their baby's health remotely through connected devices, and pet monitoring systems allow remote observation of pets.",
+        "spans": [
+          "Through their smartphones, parents will monitor their baby's breathing, temperature and activity.",
+          "Babies will don connected onesies that will send an alert when there is anything abnormal.",
+          "Pet monitoring systems will allow you to monitor their activity and behavior from afar, so you can see how well your potty training is working and how honest your dog walker really is."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Wearable technology tracks various health and activity metrics and integrates with social media and other systems.",
+        "spans": [
+          "From monitoring activity during workouts to sleeping patterns to hearing aids, the devices that we \"wear\" are becoming much more sophisticated, connecting to all of our social media accounts, and tracking much more quality and quantity data."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Sensors will detect environmental and contextual factors to adjust device behavior for safety and resource saving.",
+        "spans": [
+          "The budding number of sensors will detect and act on environmental and other contextual factors, such as weather; will be aware of who and how many people are around in its vicinity to change levels of input and output; and adjust to save resources and improve safety."
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "Consumers will expect more personalized interactions with brands in exchange for sharing personal data through IoT devices.",
+        "spans": [
+          "With the growing number of connected things in our lives, we will all become more in tune with our own data (a la Nike Fuelband) and start to expect more personal interactions with brands and retailers.",
+          "Marketers will need to establish a trust among consumers and prove that if they give up access to some of their personal data, in return they will get more tailored offers, deals and interactions."
+        ]
+      },
+      {
+        "point_number": 13,
+        "point_content": "Smartphones will serve as a central remote control for IoT devices, integrating many aspects of daily life.",
+        "spans": [
+          "Smartphones will become not only everyone's portal into the Internet of Things ecosystem (look no further than smartphone-controlled light bulbs), but a complete remote control to your life (if it isn't already)."
+        ]
+      }
+    ],
+    "clueweb22-en0015-63-04257": [
+      {
+        "point_number": 1,
+        "point_content": "IoT is beginning to shape the future of many industries by generating an unprecedented amount of data.",
+        "spans": [
+          "The IoT is beginning to shape the future of many industries, by generating an unprecedented amount of data."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "IoT refers to an ecosystem of discrete computing devices with sensors connected through the internet.",
+        "spans": [
+          "The Internet of Things (IoT) essentially refers to an ecosystem of discrete computing devices with sensors connected through the infrastructure of the internet."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "IoT devices function natively within their environments to enhance our interaction with the world.",
+        "spans": [
+          "Devices brimming with intelligence – functioning natively within their respective environments to enhance our interaction with the world around us signalled the emergence of the true IoT."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Smartphones act as command and control servers for IoT devices, enabling control and data gathering.",
+        "spans": [
+          "As smartphones became near ubiquitous, it quickly became obvious that the perfect device to act as this command and control server was the mobile that people always have on them."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Smart home technology has made IoT a genuine consumer proposition with affordable devices and hubs for control.",
+        "spans": [
+          "The traction around smart-home technology has been instrumental in cementing the IoT as a genuine consumer proposition, due to an accessibility and advent of affordable IoT devices.",
+          "The smart home market has settled on the hub approach to controlling your IoT devices which helps account for the different people that use the devices."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Wearables like smart watches gather data on vital signs and activity, enhancing health and activity monitoring.",
+        "spans": [
+          "Currently the biggest wearable computing sector is smart watches. Smart watches enable you to gather data on your vital signs and activity levels and run various levels of analytics on this data related to health or activity monitoring."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "IoT in industry improves logistics, fleet management, operational support, and monitoring of equipment.",
+        "spans": [
+          "IoT is used throughout industry product lifecycles with notable success in logistics and fleet management by enabling cost effective GPS tracking and automated loading/unloading.",
+          "IoT technology has trickled out of the production line and into real time operational support as sensors record telemetry data about the operation of their engines while in flight to analyse data and detect any issues within an individual engine so it can be repaired in time safely.",
+          "In the oil and gas industry IoT sensors have transformed efficiencies around the complex process of natural resource extraction by monitoring the health and efficiency of hard to access equipment installations in remote areas with limited connectivity."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "IoT enhances workplace collaboration, productivity, and personalization through connected devices and sensors.",
+        "spans": [
+          "we are on the cusp of a more IoT-enabled era in the workplace that will see employees better connect to each other and their environment for enhanced collaboration and productivity.",
+          "The hyper personalisation now underpinning the consumer experience is starting to filter into our working lives to create a workspace that ‘knows’ the user and anticipate their routine and preferences thanks to the behavioural data captured."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Security challenges remain a significant barrier to IoT adoption and require standardized protocols.",
+        "spans": [
+          "Security – While the explosion in connected devices has brought seemingly limitless opportunities, progress remains tempered by security challenges in both the enterprise and consumer space.",
+          "Not surprisingly, establishing a standardised security protocol to address the scope and diversity of the devices has become the Holy Grail as the IoT market matures."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "AI will drive the next wave of IoT, enabling seamless, personalized, and ambient user experiences.",
+        "spans": [
+          "AI- fuelled autonomy – A heavy injection of artificial intelligence (AI), will signal the next wave of the IoT by delivering the speed and accuracy of big data analysis required to cope with the 8 billion connected objects Gartner predicts will be in use in 2017.",
+          "More broadly an AI-driven era of IoT will herald an increasingly seamless experience and heightened interconnectivity as users flit from one device to another, between multiple environments and the physical and virtual world, to create what has been coined the ambient user experience."
+        ]
+      }
+    ],
+    "clueweb22-en0016-78-17177": [
+      {
+        "point_number": 1,
+        "point_content": "The Internet of Things (IoT) helps us transform our world for the better by connecting everyday objects to the Internet and enabling advanced data analytics.",
+        "spans": [
+          "Internet of Things (IoT)—which connects everyday objects to the Internet",
+          "Along with advanced data analytics, IoT-enabled devices and sensors are helping us reduce air pollution in some of our world’s biggest cities, improve agriculture and our food supply, and even detect and contain deadly viruses."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "IoT makes urban life more attractive and efficient through smart water technology, automated street lighting, remote-controlled irrigation, on-demand waste pickups, digital bus routes, and smart parking meters, reducing traffic jams, pollution, and resource usage.",
+        "spans": [
+          "In Barcelona, a citywide WiFi and information network linked to sensors, software and a data analytics platform has enabled the city to provide smart water technology, automated street lighting, remote-controlled irrigation for parks and fountains, “on-demand” waste pickups, digital bus routes and smart parking meters.",
+          "These IoT-enabled urban services have dramatically reduced traffic jams and pollution, as well as water, light and energy usage."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "IoT sensor networks help cities improve public health by monitoring air and water pollution and alerting residents when levels are dangerously high.",
+        "spans": [
+          "Cities suffering from chronic pollution, such as Delhi and Beijing, are beginning to deploy sensor networks designed to alert residents when levels are dangerously high.",
+          "In London, where up to 9,000 deaths per year are attributed to air pollution, Drayson Technologies has been testing sensors that are distributed to bicycle couriers and a fleet of fuel-cell cars."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "IoT enables smarter agriculture by helping farmers reduce water and fertilizer use, cut waste, and improve product quality and yield through tools like drone imagery and soil sensors.",
+        "spans": [
+          "growers all over the world are using the Internet of Things to reduce their consumption of water and fertilizers, cut waste and improve the quality or yield of their products.",
+          "Tech providers are helping them with tools such as drone imagery and soil sensors, which measure real-time conditions."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "IoT helps cut food waste by using advanced cameras, sensors, weather stations, and AI to monitor crop health and improve productivity.",
+        "spans": [
+          "through a combination of advanced cameras, sensors, weather stations and artificial intelligence, Israeli startup Prospera can help farmers respond quickly to problems while also boosting productivity by as much as a third.",
+          "Shrini Upadhyaya, a professor at the University of California, Davis, devised a wireless sensor system to continuously monitor leaf health, which helps farmers know exactly where and how much they need to irrigate."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "IoT transforms healthcare by enabling wearable sensor devices that track patient health data and help doctors monitor patients remotely.",
+        "spans": [
+          "Wearable, Internet-connected sensor devices that track a patient’s heart rate, pulse, or even blood pressure are increasingly affordable, compact and accurate.",
+          "Sensors, or even robotic assistants, can alert caretakers if patients forget to take their medicine or do not leave their bedroom by a set time."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "IoT devices can help diagnose diseases earlier, such as the iTBra which tracks temperature changes in breast tissue to detect early stage breast cancer.",
+        "spans": [
+          "The iTBra, developed by Cyrcadia Health, could help doctors diagnose breast cancer much faster.",
+          "It consists of two breast patches with embedded sensors that track temperature changes in breast tissue over time."
+        ]
+      }
+    ]
+  }
+}

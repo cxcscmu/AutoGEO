@@ -1,0 +1,131 @@
+{
+  "question": "when should agile teams make time for innovation?",
+  "key_points": [
+    {
+      "point_number": 1,
+      "point_content": "Agile teams should make time for innovation continuously throughout the Program Increment (PI), including during the Innovation and Planning (IP) Iteration, which provides a regular, cadence-based opportunity every PI for teams to work on activities difficult to fit into continuous incremental value delivery, ensuring innovation and creativity.",
+      "original_point_number": [
+        1,
+        2,
+        3,
+        5,
+        6,
+        15,
+        23,
+        38
+      ]
+    },
+    {
+      "point_number": 2,
+      "point_content": "The Innovation and Planning (IP) Iteration occurs every Program Increment (PI) and provides dedicated time for innovation, exploration, research, design activities such as hackathons, Inspect & Adapt (I&A), PI planning events, improving development infrastructure and tooling, continuous learning and education, and serves as a buffer to prevent unfinished work from carrying over to the next PI, increasing predictability.",
+      "original_point_number": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "point_number": 3,
+      "point_content": "SAFe fosters innovative people through many practices including time and space for innovation, experimenting and feedback, ‘innovation riptides’, and all SAFe teams engage in relentless improvement including iteration retrospectives, ad hoc process improvements, and ART Inspect and Adapt (I&A) events.",
+      "original_point_number": [
+        13,
+        14
+      ]
+    },
+    {
+      "point_number": 4,
+      "point_content": "The Innovation and Planning iteration is a key Program event where teams make time for innovation and planning, including activities such as System Demo, setting PI Objectives, PI Planning Meeting, estimating work, identifying impediments, committing to PI objectives, design thinking, testing functionalities, finding technical solutions, growing team competence, Product Backlog Refinement, preparing for System Demo, Go Live activities, refactoring, improving collaboration, team building, and finishing work.",
+      "original_point_number": [
+        15,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50
+      ]
+    },
+    {
+      "point_number": 5,
+      "point_content": "Use of the Innovation and Planning iteration includes supporting adding an IP Iteration directly after the current Iteration when a team may miss their Iteration commitment, and it is key to successfully implementing the Scaled Agile Framework.",
+      "original_point_number": [
+        16,
+        17
+      ]
+    },
+    {
+      "point_number": 6,
+      "point_content": "Agile methods offer no particular added value for routine tasks but are useful in product development, marketing, and strategic planning to develop solutions step by step, and can be tested in individual projects to break down prejudices and slowly anchor agility in the corporate culture.",
+      "original_point_number": [
+        18,
+        19
+      ]
+    },
+    {
+      "point_number": 7,
+      "point_content": "Innovation starts with culture; in larger organizations, you may need to rewrite years of habits and defeat 'but we’ve always done it this way' before building a culture that supports innovation, so start small.",
+      "original_point_number": [
+        20
+      ]
+    },
+    {
+      "point_number": 8,
+      "point_content": "Innovation doesn’t have to be something huge; you can start small. Product teams have both the power and trust to solve problems in the way they see fit once the problem is clearly identified.",
+      "original_point_number": [
+        21
+      ]
+    },
+    {
+      "point_number": 9,
+      "point_content": "Innovation is far less risky when you start small and get feedback as quickly as possible. Teams need access to customers and should feel empowered to make decisions based on customer feedback.",
+      "original_point_number": [
+        22
+      ]
+    },
+    {
+      "point_number": 10,
+      "point_content": "Agile teams should make time for innovation by allowing room for failure, encouraging exploration, learning from mistakes, continuously improving and adapting their methods to fit business needs, working with feedback throughout the process to make changes quickly and effectively, and being empowered with ownership over their work to encourage innovation.",
+      "original_point_number": [
+        24,
+        25,
+        26,
+        27
+      ]
+    },
+    {
+      "point_number": 11,
+      "point_content": "Agile innovation integrates agility into the innovation process to make it faster and more responsive to changes, managing priorities to gain velocity in all processes, applying new resources to innovation, requiring cultural and organizational change including clear communication, pilot projects, and education, managing the innovation process as a continuous flow of projects and programs with necessary resources to bring them to a successful end, and is based on the fusion of innovation and agility applying Lean methodologies to accelerate the innovation process.",
+      "original_point_number": [
+        28,
+        29,
+        30,
+        31,
+        32
+      ]
+    },
+    {
+      "point_number": 12,
+      "point_content": "Agile teams plan continuously throughout the project, making constant adjustments as changes arise, deliver tested, working software in two- to four-week iterations, and at regular intervals reflect on how to become more effective, tuning and adjusting behavior accordingly, with one scheduled time for reflection being the retrospective typically held right after a development iteration; the most effective teams take this reflection to heart and adjust their behavior accordingly.",
+      "original_point_number": [
+        33,
+        34,
+        35,
+        36,
+        37
+      ]
+    }
+  ]
+}

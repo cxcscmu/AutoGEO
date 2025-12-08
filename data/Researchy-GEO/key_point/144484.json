@@ -1,0 +1,212 @@
+{
+  "question": "why is organic agriculture bad",
+  "key_points": {
+    "null": [],
+    "clueweb22-en0014-79-08495": [
+      {
+        "point_number": 1,
+        "point_content": "Organic food is too expensive and of poor quality due to lower yields and higher risk of crop failure.",
+        "spans": [
+          "Too expensive and poor quality",
+          "Given the average lower yields from organic farming, the higher risk of crop failure tends to be priced into the market."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Organic agriculture promotes child labor in Africa due to increased demand and reliance on manual labor.",
+        "spans": [
+          "Promotes child labor in Africa",
+          "African family farms are organic by default (due to the high cost of pesticides and fertilisers as well as pressure from EU import/export regulators to deny African agriculture the benefits of using modern technologies like GMOs)."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Organic farming uses more land with lower yields, reducing biodiversity and threatening natural habitats.",
+        "spans": [
+          "Organic uses more land with lower yields, reducing biodiversity",
+          "organic farming tends to yield between 19-60% less than conventional farming"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Pesticides approved for organic farming are toxic to bees and the environment.",
+        "spans": [
+          "Pesticides approved for organic farming are toxic to bees",
+          "many organic-approved pesticides are far worse for the environment that the well-tested synthetic substances."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Pesticides approved for organic farming are toxic to humans and linked to health risks.",
+        "spans": [
+          "Pesticides approved for organic farming are toxic to humans",
+          "Rotenone, a nasty organic farming pesticide, has been clearly linked to Parkinson's disease."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Research shows no difference in taste, health, or safety between organic and conventional food.",
+        "spans": [
+          "Research shows no difference, at all, in taste, health or safety",
+          "in blind taste-tests, time and time again, people could not spot the difference."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Higher tillage in organic farming releases more CO2 due to more frequent soil disturbance.",
+        "spans": [
+          "Higher tillage releases more CO2",
+          "organic farmers do not use herbicides, they need to till the land more frequently to control weeds."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Anti-GMO and anti-pesticide research supporting organic farming is often based on poor activist science.",
+        "spans": [
+          "Anti-GMO / anti-pesticide research is based on poor activist science",
+          "All of these were funded or influenced by organisations tied to the organic industry"
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "One year of pesticide residues is less toxic than one cup of coffee, indicating low risk from synthetic pesticides.",
+        "spans": [
+          "One year of pesticide residues is less toxic than one cup of coffee",
+          "the risk from synthetic pesticides at the maximum residue exposure levels is practically meaningless."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Organic farming has led to serious E. coli outbreaks and fatalities due to manure use.",
+        "spans": [
+          "Organic farming has led to serious E. coli outbreaks and fatalities",
+          "A study comparing organic and conventionally farmed vegetables found E. coli traces on 10% of organic but only 2% of conventionally farmed vegetables."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Organic food causes increased cancer susceptibility by making fruits and vegetables more expensive and less accessible.",
+        "spans": [
+          "Organic food causes increased cancer susceptibility",
+          "Organic has no health benefits (outside of psychological)"
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "Animals suffer when denied medicine under organic farming standards, leading to unnecessary suffering.",
+        "spans": [
+          "Animals suffer when denied medicine",
+          "organic requirements or standards in many countries forbid such interventions means animals will suffer"
+        ]
+      },
+      {
+        "point_number": 13,
+        "point_content": "Reduction in agricultural yields from organic farming creates more global food insecurity.",
+        "spans": [
+          "Reduction in agricultural yields creates more global food insecurity",
+          "Rising demand for lower-yielding organic food production will irresponsibly add stress to the global food production levels."
+        ]
+      },
+      {
+        "point_number": 14,
+        "point_content": "Organic accentuates social exclusion by increasing food prices and limiting access for poorer populations.",
+        "spans": [
+          "Organic accentuates social exclusion",
+          "As prices increase on food and choices go down, will the FoodBabe feel sorry for those without?"
+        ]
+      },
+      {
+        "point_number": 15,
+        "point_content": "Exporting anti-technology ideologies like organic farming to poor economies is immoral and harms their food security.",
+        "spans": [
+          "Exporting anti-technology ideologies on poor economies is immoral",
+          "putting organic, anti-GMO demands on poor, developing countries is immoral."
+        ]
+      }
+    ],
+    "clueweb22-en0012-82-19723": [
+      {
+        "point_number": 1,
+        "point_content": "Organic farming requires a lot more land to produce the same amount of food, which can lead to more greenhouse gas emissions overall.",
+        "spans": [
+          "Organic practices can reduce climate pollution produced directly from farming – which would be fantastic if they didn’t also require more land.",
+          "But the bigger problem, for both crops and livestock, is that these practices end up requiring a lot more land to produce the same amount of food.",
+          "Specifically, the switch to 100% organic practices would require 1.5 times more land to make up for the declines, which would add up to nearly five times more land overseas than England and Wales currently rely on for food."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Clearing additional grasslands or forests to grow enough food for organic farming releases far more greenhouse gas than the initial reductions from organic practices.",
+        "spans": [
+          "Clearing additional grasslands or forests to grow enough food to make up for that difference would release far more greenhouse gas than the practices initially reduce, a new study in Nature Communications finds."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Organic farming would slash yields by around 40%, forcing more food imports and potentially increasing overall greenhouse-gas emissions by 21% if half the additional land comes from grasslands.",
+        "spans": [
+          "The bad news: it would slash yields by around 40%, forcing hungry Britons to import more food from overseas.",
+          "If half the land used to meet that spike in demand was converted from grasslands, which store carbon in plant tissues, roots, and soil, it would boost overall greenhouse-gas emissions by 21%."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Organic farming avoids synthetic fertilizers, pesticides, and GMOs, relying on manure, compost, and crop rotation, which produce fewer emissions but reduce yields.",
+        "spans": [
+          "Among other things, organic farming avoids the use of synthetic fertilizers, pesticides, and genetically modified organisms, all of which can boost the amount of crops produced per acre.",
+          "Instead, organic farmers rely on things like animal manure and compost, and practices such as crop rotation, which involves growing different plants throughout the year to improve soil health.",
+          "The study notes that these biological inputs produce fewer emissions than nitrogen-based synthetic fertilizers, notably including the highly potent greenhouse gas nitrous oxide."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Organic livestock farming can increase emissions because animals grow slower and live longer, emitting more methane, despite some benefits from grazing.",
+        "spans": [
+          "On the one hand, emissions can increase because animals don’t plump up as fast without hormones, supplements, and conventional feed.",
+          "That, for instance, grants cattle longer lives in which to belch out methane, another especially powerful greenhouse gas."
+        ]
+      }
+    ],
+    "clueweb22-en0011-69-04581": [
+      {
+        "point_number": 1,
+        "point_content": "Organic foods are more expensive due to more time and labor intensive farming and costly certification process.",
+        "spans": [
+          "Cost",
+          "For the end consumer, cost is one of the biggest disadvantages of organic foods.",
+          "Organic farming is more time and labor intensive, and the organic certification process can be costly and difficult."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Organic farming has less productivity per acre and may lead to higher use of fossil fuels and reduced overall food production.",
+        "spans": [
+          "Productivity",
+          "Organic farming allows for less productivity per acre of land farmed than conventional industrial farming methods.",
+          "The increased popularity of organic foods may lead to more large organic farms, with a higher use of fossil fuels and other resources, reports Pennybacker.",
+          "This not only causes higher prices for the consumer, but also, on a global scale, reduced overall food production, according to the Mayo Clinic."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Organic farming requires more time, labor, and skill from farmers compared to conventional farming.",
+        "spans": [
+          "Time and Skill",
+          "Farming organically requires more time on the part of the farmer.",
+          "It is more labor intensive than conventional farming, and the farmer may not be able to tend as much land as he could with industrialized farming approaches.",
+          "Organic farmers require a greater range of skills and better understanding of their soil and plants in order to farm successfully, reports Australian organic farmers Meg Howe and Graeme Young."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Organic foods spoil faster due to lack of preservatives and chemicals, which can be problematic for transport and storage.",
+        "spans": [
+          "Spoilage",
+          "Organics are not treated with preservatives, waxes or other chemicals.",
+          "This may reduce their shelf life and allow for faster spoilage.",
+          "This can be a problem for both consumers and stores, especially if the foods have to be transported a significant distance, reports the Mayo Clinic."
+        ]
+      }
+    ]
+  }
+}

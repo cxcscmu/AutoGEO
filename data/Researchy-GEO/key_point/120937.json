@@ -1,0 +1,378 @@
+{
+  "question": "are vaccines 100% effective?",
+  "key_points": {
+    "clueweb22-en0027-64-16847": [
+      {
+        "point_number": 1,
+        "point_content": "The COVID-19 vaccines developed by Pfizer/BioNTech and Moderna are about 95 percent effective at preventing symptomatic illness.",
+        "spans": [
+          "The COVID-19 vaccines developed by Pfizer/BioNTech and Moderna are about 95 percent effective at preventing symptomatic illness."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Vaccinated people in the clinical trials had a 95 percent lower risk of getting COVID-19 compared with the unvaccinated control group participants.",
+        "spans": [
+          "vaccinated people in the clinical trials had a 95 percent lower risk of getting COVID-19 compared with the unvaccinated control group participants"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Pfizer/BioNTech, Moderna, and Johnson & Johnson clinical trials all found that their vaccines were essentially 100 percent effective in preventing severe disease six to seven weeks after trial participants had received a first/single dose.",
+        "spans": [
+          "the Pfizer/BioNTech, Moderna, and Johnson & Johnson clinical trials all found that their vaccines were essentially 100 percent effective in preventing severe disease six to seven weeks after trial participants had received a first/single dose"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Zero vaccinated people in any of the trials were hospitalized or died of COVID-19 after the vaccines had fully taken effect.",
+        "spans": [
+          "Zero vaccinated people in any of the trials were hospitalized or died of COVID-19 after the vaccines had fully taken effect."
+        ]
+      }
+    ],
+    "clueweb22-en0036-28-13441": [
+      {
+        "point_number": 1,
+        "point_content": "No vaccine is 100% effective on an entire population because immune responses vary from person to person.",
+        "spans": [
+          "no vaccine is 100% effective on an entire population",
+          "immune responses vary from person to person"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The measles vaccine is 99 per cent effective at preventing the disease, showing that some vaccines can be very successful but not 100%.",
+        "spans": [
+          "The measles vaccine is one of the most successful vaccines, which is 99 per cent effective at preventing the disease"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The effectiveness of vaccines like the flu vaccine varies widely and depends on factors like virus mutation and duration of protection.",
+        "spans": [
+          "The effectiveness of the flu vaccine administered in the US varies widely from year to year (anywhere from 20% to 60%)",
+          "depending on how well the annual vaccine attacks that year's mutation of the virus",
+          "The duration of how long a vaccine protection lasts, and how many doses might be needed for it to be effective also varies from disease to disease"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The U.S. FDA has set an effectiveness threshold of 50% for COVID-19 vaccines to be approved or granted emergency use authorization.",
+        "spans": [
+          "For the COVID-19 vaccine, the U.S. FDA has set an effectiveness threshold of 50% to be approved or grants the emergency use authorization"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Vaccination protects individuals and prevents virus circulation even if the vaccine is not 100% effective.",
+        "spans": [
+          "A vaccine might not be 100% effective, but if most people get vaccinated then vaccination not only protects individuals, but also prevents the virus from circulating widely in a community"
+        ]
+      }
+    ],
+    "clueweb22-en0021-87-16056": [
+      {
+        "point_number": 1,
+        "point_content": "Flu vaccination reduces the risk of flu illness by between 40% and 60% among the overall population during seasons when most circulating flu viruses are well-matched to those used to make flu vaccines.",
+        "spans": [
+          "flu vaccination reduces the risk of flu illness by between 40% and 60% among the overall population during seasons when most circulating flu viruses are well-matched to those used to make flu vaccines"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Flu vaccines tend to work better against influenza B and influenza A(H1N1) viruses and offer lower protection against influenza A(H3N2) viruses.",
+        "spans": [
+          "current flu vaccines tend to work better against influenza B and influenza A(H1N1) viruses and offer lower protection against influenza A(H3N2) viruses"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "When flu vaccines are not well matched to circulating influenza viruses, vaccination may provide little or no protection from illness caused by those viruses.",
+        "spans": [
+          "When flu vaccines are not well matched to one or more circulating influenza viruses, it is possible that vaccination may provide little or no protection from illness caused by those viruses"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Flu vaccination prevents millions of illnesses and flu-related doctor’s visits each year but is not 100% effective.",
+        "spans": [
+          "Flu vaccination prevents millions of illnesses and flu-related doctor’s visits each year"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Flu vaccination has been shown to reduce severity of illness in people who get vaccinated but still get sick.",
+        "spans": [
+          "Flu vaccination has been shown in several studies to reduce severity of illness in people who get vaccinated but still get sick"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Flu vaccines do not protect against infection and illness caused by other viruses that also can cause flu-like symptoms.",
+        "spans": [
+          "Flu vaccines do not protect against infection and illness caused by other viruses that also can cause flu-like symptoms"
+        ]
+      }
+    ],
+    "clueweb22-en0010-64-01531": [
+      {
+        "point_number": 1,
+        "point_content": "All of the authorized and approved vaccines are effective at preventing severe COVID-19.",
+        "spans": [
+          "All of the authorized and approved vaccines are effective at preventing severe COVID-19."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The Pfizer/BioNTech vaccine showed a final efficacy of 91% against symptomatic illness in its phase 3 trial.",
+        "spans": [
+          "the Pfizer/BioNTech vaccine, which was the first COVID-19 vaccine to receive full approval from the Food and Drug Administration, showed a final efficacy of 91% against symptomatic illness in its phase 3 trial"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The Moderna vaccine showed a final efficacy of 93% in its clinical trial.",
+        "spans": [
+          "The Moderna vaccine showed similar results in its clinical trial, with a final efficacy of 93%."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Johnson & Johnson vaccine reported an efficacy of 66% in preventing moderate to severe COVID-19 and 85% in preventing severe or critical COVID-19 in its clinical trial.",
+        "spans": [
+          "Johnson & Johnson, which partly tested its vaccine in South Africa when the beta variant emerged, reported an efficacy of 66% in preventing moderate to severe COVID-19 and an efficacy of 85% in preventing severe or critical COVID-19 in its clinical trial."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Vaccines are less effective at preventing infection or mild disease against the omicron variant but still good at preventing hospitalization or death, especially with a booster dose.",
+        "spans": [
+          "Against omicron, however, the vaccines haven’t fared as well and are much worse at preventing infection or mild disease. The shots are still good at preventing hospitalization or death, though, particularly if someone has received a booster dose."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Booster shots increase and prolong protection against severe disease and provide some temporary protection against infection and milder illness.",
+        "spans": [
+          "Booster shots are recommended for most people, as these increase and prolong protection against severe disease and also provide some temporary protection against infection and milder illness."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "During the omicron wave, adults with two doses of Pfizer/BioNTech or Moderna vaccines had a 79% lower risk of dying or needing a ventilator if hospitalized, and those with a booster had a 94% lower risk.",
+        "spans": [
+          "a Centers for Disease Control and Prevention study found that during the omicron wave, adults who had received two doses of the Pfizer/BioNTech or Moderna vaccines had a 79% lower risk of dying or needing a ventilator if hospitalized with COVID-19, compared with unvaccinated adults. Those who had received a booster vaccine dose as well had a 94% lower risk."
+        ]
+      }
+    ],
+    "clueweb22-en0017-92-20112": [
+      {
+        "point_number": 1,
+        "point_content": "No vaccines are 100% effective, breakthrough coronavirus cases are expected.",
+        "spans": [
+          "No Vaccines Are 100% Effective, Breakthrough Coronavirus Cases Are Expected",
+          "There are always breakthroughs regardless of what the efficacy of the vaccine is"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Even if a vaccine fails to protect against infection, it often protects against serious disease.",
+        "spans": [
+          "even if a vaccine fails to protect against infection, it often protects against serious disease"
+        ]
+      }
+    ],
+    "clueweb22-en0040-76-05371": [
+      {
+        "point_number": 1,
+        "point_content": "Vaccines are not 100% effective at preventing infection, some fully vaccinated people can still get COVID-19 (breakthrough infections).",
+        "spans": [
+          "since vaccines are not 100% effective at preventing infection, some people who are fully vaccinated will still get COVID-19"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Vaccines reduce the risk of COVID-19, including severe illness and death, and are effective against most variants.",
+        "spans": [
+          "Vaccines reduce the risk of COVID-19, including the risk of severe illness and death among people who are fully vaccinated.",
+          "COVID-19 vaccines are effective against the Delta variant and other variants with widespread circulation in the United States."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Even if fully vaccinated people get COVID-19, symptoms tend to be less severe than in unvaccinated people.",
+        "spans": [
+          "Even when people who are fully vaccinated develop symptoms of COVID-19, they tend to be less severe than in people who are unvaccinated."
+        ]
+      }
+    ],
+    "clueweb22-en0015-47-00701": [
+      {
+        "point_number": 1,
+        "point_content": "Vaccines are very effective at preventing disease, but they don't work all the time.",
+        "spans": [
+          "Vaccines are very effective at preventing disease, but they don't work all the time."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Most of the recommended childhood immunizations are 90%-100% effective, according to the CDC.",
+        "spans": [
+          "Most of the recommended childhood immunizations are 90%-100% effective, according to the CDC."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Sometimes a child will not become fully immunized against a disease after receiving a vaccine.",
+        "spans": [
+          "sometimes a child will not become fully immunized against a disease after receiving a vaccine."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Even in cases where a vaccine has not given your child 100% immunity, the symptoms will still usually be milder than if they had not been immunized at all.",
+        "spans": [
+          "Even in cases where a vaccine has not given your child 100% immunity, the symptoms -- if your child is exposed to an infectious disease -- will still usually be milder than if they had not been immunized at all."
+        ]
+      }
+    ],
+    "clueweb22-en0042-97-02540": [
+      {
+        "point_number": 1,
+        "point_content": "It is rare for any vaccine to completely protect against infection or to eliminate transmission.",
+        "spans": [
+          "Itâ€™s rare for ANY vaccine to completely protect against infection or to eliminate transmission."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "No medicine or vaccine is 100 percent effective, similar to surgeries, diets, or exercise regimens.",
+        "spans": [
+          "no medicine or vaccine is 100 percent effective, just like there are no 100 percent effective surgeries, diets, or exercise regimens."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Vaccines' protection tends to reduce over time, which is true for every vaccine ever created, including COVID vaccines.",
+        "spans": [
+          "the protection offered by vaccines tends to reduce over time and that this is the case for every vaccine ever created, including those for COVID."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Some of the best vaccines create protective immune responses in around 95 percent of recipients, but not 100%.",
+        "spans": [
+          "Some of our 'best' vaccines create protective immune responses in around 95 percent of recipients."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "No vaccine truly provides 100 percent sterile protection against a disease and they don't necessarily need to, in order to be effective.",
+        "spans": [
+          "No vaccine truly provides 100 percent sterile protection against a disease and they don't necessarily need to, in order to be effective."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "While COVID-19 vaccines are working well, some people who are fully vaccinated will still get sick because no vaccines are 100% effective.",
+        "spans": [
+          "While COVID-19 vaccines are working well, some people who are fully vaccinated against COVID-19 will still get sick, because no vaccines are 100% effective."
+        ]
+      }
+    ],
+    "clueweb22-en0039-42-08999": [
+      {
+        "point_number": 1,
+        "point_content": "Pfizer's Covid-19 vaccine was 100% efficacious in preventing infections in 12- to 15-year-olds, measured from seven days to four months after administration of the second dose.",
+        "spans": [
+          "Pfizer and BioNTech announced Monday that their Covid-19 vaccine was 100% efficacious in preventing infections in 12- to 15-year-olds, measured from seven days to four months after administration of the second dose of the vaccine."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "A two-dose series of Pfizer's vaccine was 100% effective against COVID-19 in adolescents aged 12 to 15 years, measured seven days through over four months after the second dose.",
+        "spans": [
+          "A two-dose series of the vaccine was 100% effective against COVID-19, measured seven days through over four months after the second dose, the company said."
+        ]
+      }
+    ],
+    "clueweb22-en0028-37-18561": [
+      {
+        "point_number": 1,
+        "point_content": "Vaccines do not need to have high effectiveness to save thousands of lives and prevent millions of disease cases.",
+        "spans": [
+          "Vaccines do not need to have high effectiveness to save thousands of lives and prevent millions of disease cases."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The vaccine against polio can be up to 100% effective with multiple doses.",
+        "spans": [
+          "The vaccine against polio can be up to 100% effective.",
+          "Two doses of inactivated polio vaccine (IPV) are 90% effective or more against polio; three doses are 99% to 100% effective.",
+          "These four doses combined yield 99–100% effectiveness."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The MMR vaccine can be up to 97% effective at preventing measles when administered in two doses.",
+        "spans": [
+          "The MMR vaccine, which protects against measles, mumps, and rubella, can be up to 97% effective at preventing measles when administered in two doses."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Effectiveness and efficacy are not the same; efficacy is measured under ideal lab conditions, effectiveness is how it performs in the real world.",
+        "spans": [
+          "efficacy refers to how a vaccine performs under ideal lab conditions, such as those in a clinical trial.",
+          "In contrast, effectiveness refers to how it performs in the real world."
+        ]
+      }
+    ],
+    "clueweb22-en0032-58-09492": [
+      {
+        "point_number": 1,
+        "point_content": "No vaccine is 100% effective because of wide variation in the population's immune systems.",
+        "spans": [
+          "no vaccine does",
+          "There is too much variation in the population’s immune systems for any vaccine to be 100 per cent effective"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Vaccine effectiveness varies and is measured by comparing disease cases in vaccinated vs placebo groups.",
+        "spans": [
+          "Preliminary results of clinical trials into the three jabs show their effectiveness — how good they are at stopping people from getting Covid symptoms — varies from 62 per cent to 95 per cent",
+          "‘To do this you have a group of people that’s vaccinated and another that isn’t, the placebo group. You then count the number of cases of the disease in each group over a period. If you have 25 cases of disease in the vaccinated group and 50 cases in the placebo, the vaccine is 50 per cent effective — i.e. it has prevented half the people in the vaccinated group from getting the disease.’"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Some vaccines have high effectiveness but none reach 100%.",
+        "spans": [
+          "The three coronavirus vaccines that have recently reported results with effectiveness rates of up to 95 per cent are actually high compared with some vaccines; the flu jab, for example, is only 50 per cent effective on average",
+          "In comparison two doses of the measles, mumps and rubella (MMR) jab will protect 99 per cent of people from measles and rubella and 88 per cent against mumps; while the whooping cough vaccine is initially 80 per cent effective, protection drops to 60 per cent after four years"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Age and conditions like obesity affect immune response and vaccine effectiveness.",
+        "spans": [
+          "as we age, our immune system responds less well, which means vaccinating older people in general is a problem",
+          "Any condition that weakens the immune system, including obesity, may also affect our response to a vaccine.",
+          "‘Obesity creates an inflammatory state in the body and it’s thought the heightened inflammatory state may exhaust the immune system, making it less able to respond to vaccines,’ explains Dr Preston."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Vaccines may not stop infection but can stop symptoms and reduce disease spread.",
+        "spans": [
+          "‘The vaccine may not stop the person catching the infection, but it would stop them getting symptoms of the disease if they caught it.’",
+          "‘All vaccines are designed to stop the disease they are targeted against, but it is very difficult to generate immunity that actually stops infection,’ says Dr Preston.",
+          "‘So no matter how many people are vaccinated, the virus will still circulate. This is the case with the whooping cough vaccine."
+        ]
+      }
+    ]
+  }
+}

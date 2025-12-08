@@ -1,0 +1,34 @@
+{
+  "question": "what can machine learning do? workforce implications",
+  "key_points": [
+    {
+      "point_number": 1,
+      "point_content": "Machine learning (ML) raises serious concerns about its impact on automation and the future of work.",
+      "original_point_number": [
+        1
+      ]
+    },
+    {
+      "point_number": 2,
+      "point_content": "MIT professor Erik Brynjolfsson and CMU professor Tom Mitchell analyze which tasks are particularly suitable for ML, its expected impacts on the workforce and the economy, and identify eight key criteria that help distinguish tasks suitable for ML from those less likely to be successful.",
+      "original_point_number": [
+        2,
+        5
+      ]
+    },
+    {
+      "point_number": 3,
+      "point_content": "Machine learning systems are most successful when applied with supervised learning and deep learning algorithms, which require very large amounts of carefully labelled data for training.",
+      "original_point_number": [
+        3
+      ]
+    },
+    {
+      "point_number": 4,
+      "point_content": "ML systems are significantly narrower and more specialized than humans and are ineffective for many tasks given the current state-of-the-art.",
+      "original_point_number": [
+        4
+      ]
+    }
+  ]
+}

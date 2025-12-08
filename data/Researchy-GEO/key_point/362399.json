@@ -1,0 +1,44 @@
+{
+  "question": "what can machine learning do? workforce implications",
+  "key_points": {
+    "null": [],
+    "clueweb22-en0042-12-12560": [
+      {
+        "point_number": 1,
+        "point_content": "Machine learning (ML) is raising serious concerns on its impact on automation and the future of work.",
+        "spans": [
+          "machine learning (ML) is raising serious concerns on its impact on automation and the future of work"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "MIT professor Erik Brynjolfsson and CMU professor Tom Mitchell analyze which tasks are particularly suitable for ML, as well as its expected impacts on the workforce and the economy.",
+        "spans": [
+          "MIT professor Erik Brynjolfsson and CMU professor Tom Mitchell explore this question by analyzing which tasks are particularly suitable for ML, as well as its expected impacts on the workforce and the economy"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Machine learning systems are most successful when applied with supervised learning and deep learning algorithms, which require very large amounts of carefully labelled data for training.",
+        "spans": [
+          "It’s been most successful when applied with supervised learning and deep learning algorithms, which require very large amounts of carefully labelled data to be used for training"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "ML systems are significantly narrower and more specialized than humans and are ineffective for many tasks given the current state-of-the-art.",
+        "spans": [
+          "ML systems are significantly narrower and more specialized than humans",
+          "There are many tasks for which they’re completely ineffective given the current state-of-the-art"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Brynjolfsson and Mitchell identify eight key criteria that help distinguish tasks suitable for ML from those less likely to be successful.",
+        "spans": [
+          "Brynjolfsson and Mitchell identify eight key criteria that help distinguish tasks that are suitable for ML, from those where ML is less likely to be successful"
+        ]
+      }
+    ]
+  }
+}

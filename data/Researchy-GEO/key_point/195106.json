@@ -1,0 +1,412 @@
+{
+  "question": "what can a business do to be carbon neutral",
+  "key_points": {
+    "null": [],
+    "clueweb22-en0026-54-11835": [
+      {
+        "point_number": 1,
+        "point_content": "Businesses can commit to reducing greenhouse gas emissions by investing in environmentally friendly technologies, supporting industry innovation, rolling out cleaner transport systems, decarbonising the energy sector, and ensuring buildings are more energy efficient.",
+        "spans": [
+          "Moving towards carbon neutrality first requires governments and businesses to commit to reducing greenhouse gas emissions.",
+          "investing in environmentally friendly technologies; supporting industry to innovate; rolling out cleaner, cheaper and healthier public and private transport systems; decarbonising the energy sector; ensuring that buildings are more energy efficient"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Businesses can participate in carbon markets where a price is allocated to greenhouse gas emissions to redirect investment towards less polluting production and consumption models.",
+        "spans": [
+          "a price is allocated to greenhouse gas emissions that helps redirect investment from governments and companies towards less polluting production and consumption models.",
+          "The first attempt to set the cost of emitting polluting gases was made through the creation of emissions markets, where a maximum allowable volume of emissions is established."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Businesses can be affected by tariffs on polluting products, which charge import fees based on the carbon intensity of goods, encouraging lower emissions in production.",
+        "spans": [
+          "The CO2 border tax applies to imported goods based on their carbon intensity, i.e. the carbon emissions required to produce those goods.",
+          "companies have to pay an import fee equivalent to the cost of the CO2 emission permits that domestic companies pay to produce the same product."
+        ]
+      }
+    ],
+    "clueweb22-en0009-36-00630": [
+      {
+        "point_number": 1,
+        "point_content": "Offer carbon-neutral shipping by offsetting emissions.",
+        "spans": [
+          "Offer carbon-neutral shipping by offsetting emissions"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Ship items in bulk to reduce environmental impact and shipping frequency.",
+        "spans": [
+          "Ship items in bulk"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Use sustainable packaging that can be repurposed or is biodegradable.",
+        "spans": [
+          "Use sustainable packaging that can be repurposed"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Offer a returns program for your empty product containers to encourage reuse and reduce waste.",
+        "spans": [
+          "Offer a returns program for your empty product containers"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Recycle on behalf of your suppliers and offer shipping-friendly items to reduce upstream waste.",
+        "spans": [
+          "Recycle on behalf of your suppliers and offer shipping-friendly items"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Work with wholesalers to reduce individual shipments and limit return shipping.",
+        "spans": [
+          "Work with wholesalers to reduce individual shipments and limit return shipping"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Reduce the size of your packaging to minimize material use and shipping volume.",
+        "spans": [
+          "Reduce the size of your packaging"
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Use compostable mailers to reduce plastic waste in shipping.",
+        "spans": [
+          "Use compostable mailers"
+        ]
+      }
+    ],
+    "clueweb22-en0018-02-15197": [
+      {
+        "point_number": 1,
+        "point_content": "Companies have committed to implementing strategies to reduce emissions in operations or supply chains, including procuring or investing in renewable energy such as wind and solar power.",
+        "spans": [
+          "Each of these diverse businesses has committed to implementing strategies to reduce emissions in its operations or supply chains.",
+          "Some focus on procuring or investing in renewable energy, such as wind and solar power"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Companies set emission reduction targets with goals for 2020, 2030, or mid-century, aiming for carbon neutrality or significant emission reductions.",
+        "spans": [
+          "many companies have set emission reduction targets – most with targets out to 2020 or 2030, but several with mid-century goals.",
+          "The trend toward aligning corporate goals with those of the Paris Agreement by going “ carbon neutral ” is rising"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Microsoft operates as 100 percent carbon neutral since 2012 by putting an internal price on carbon and reinvesting in clean power, energy efficiency projects, and carbon offset projects.",
+        "spans": [
+          "Microsoft has pledged to reduce operational emissions by 75 percent by 2030, but has been operating as 100 percent carbon neutral since 2012.",
+          "Microsoft is reducing its emissions by putting an internal price on carbon and reinvesting those dollars into clean power, energy efficiency projects, and carbon offset projects"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Oil and gas companies reduce their net carbon footprint by reducing operational emissions, investing in clean energy, and developing new technologies like carbon capture.",
+        "spans": [
+          "Shell, for example, launched a program in 2017 to reduce its net carbon footprint",
+          "investing in clean energy, such as wind and solar generation",
+          "Equinor, another oil and gas company, expects to direct 15-20 percent of its annual investments out to 2030 in new energy solutions, such as offshore wind and carbon capture technologies"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Power providers change fuels to renewable sources and engage consumers in energy reduction through programs and incentives.",
+        "spans": [
+          "power providers are changing the fuels they use to generate electricity",
+          "Utilities such as National Grid are engaging with their consumers to educate them on the importance of energy reduction",
+          "National Grid recently launched an energy efficiency and solar marketplace that allows its consumers to receive rebates for installing energy-efficient heating and cooling equipment and receive free quotes for solar installations and financing options"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Auto manufacturers commit to producing more electric vehicles, improving manufacturing efficiency, and using renewable energy.",
+        "spans": [
+          "Auto manufacturers are vowing to produce more electric vehicles and improve efficiency of their product manufacturing.",
+          "General Motors has committed to use 100 percent renewable energy by 2050",
+          "Toyota plans to eliminate CO2 emissions in its operations and supply chain, as well as integrate recycled materials into the production of new vehicles"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Financial sector invests in environmental programs and sustainable business activities, and encourages low-carbon choices among employees.",
+        "spans": [
+          "The financial sector is also setting bold climate goals, by both investing in environmental programs and leveraging its own industry to enable financing of clean energy solutions.",
+          "Bank of America ’s Environmental Business Initiatives have deployed more than $126 billion in financing to low-carbon and sustainable business activities since 2007.",
+          "Bank of America helps encourage positive environmental actions among its workforce. This includes a Low-Carbon Vehicle Program that provides rebates for employees looking to lease or buy hybrid and electric cars"
+        ]
+      }
+    ],
+    "clueweb22-en0034-37-07219": [
+      {
+        "point_number": 1,
+        "point_content": "A business can reduce direct emissions as much as possible and then turn to solutions outside of the fence line for the rest to become carbon neutral.",
+        "spans": [
+          "reducing direct emissions as much as possible and then turning to solutions outside of the fence line for the rest"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Businesses can invest in energy efficiency, sign power purchase agreements, implement an internal price on carbon, or invest in offsets for emissions that cannot be immediately or directly reduced.",
+        "spans": [
+          "energy efficiency investments, signing power purchase agreements for their energy needs, implementing an internal price on carbon, or investing in offsets for emissions that cannot be immediately or directly reduced"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Setting a carbon-neutral goal enables a natural progression toward more ambition and provides flexibility in how an organization defines and achieves that goal.",
+        "spans": [
+          "Setting a carbon-neutral goal enables a natural progression toward more ambition, while providing flexibility in how an organization defines and achieves that goal"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Define a goal boundary broadly, consider activities to reduce emissions within and outside that boundary, set interim targets, be transparent, track progress, and tell your story to become carbon neutral.",
+        "spans": [
+          "Define a goal boundary as broadly as possible, but don’t let perfection get in the way of progress",
+          "Consider the activities your organization may be able to take to reduce emissions within and outside of that boundary before finalizing your goal",
+          "Set interim targets and engage in other relevant initiatives",
+          "Be transparent about what you are committing to and how you will get there",
+          "Track your progress publicly and consider third-party verification or certification",
+          "Tell your story"
+        ]
+      }
+    ],
+    "clueweb22-en0044-99-03650": [
+      {
+        "point_number": 1,
+        "point_content": "Small businesses can reduce their carbon footprint by following the three R’s: reduce, reuse, and recycle, applying these principles to packaging, office supplies, operations, and supply chains.",
+        "spans": [
+          "get on board with the three R’s, which are to reduce, reuse, and recycle",
+          "These principles can be applied to all areas of your business, including from packaging, to office supplies, to operations, and supply chains"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Educate staff and promote sustainability initiatives within the company to encourage participation and generate new ideas.",
+        "spans": [
+          "educate yourself and your staff on the matter",
+          "Make it known and an initiative throughout your company that this is an important topic for you and that you want to see people participating",
+          "Encourage an open dialogue on the subject, brainstorm new ideas, and put policies in place that promote sustainability"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Purchase carbon offsets or invest in renewable energy to balance out carbon emissions.",
+        "spans": [
+          "Your small business might want to purchase carbon offsets or invest in renewable energy as well"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Reduce energy consumption by using high-efficiency lighting and powering off electronics when not in use.",
+        "spans": [
+          "you can reduce your consumption by using high-efficiency lighting and powering off all electronics when not in use"
+        ]
+      }
+    ],
+    "clueweb22-en0023-93-10319": [
+      {
+        "point_number": 1,
+        "point_content": "The process is the same regardless of the size of the organisation: understand your carbon footprint by measuring your emissions; set an ambition, such as being net-zero or carbon negative; and take action by reducing and offsetting those emissions.",
+        "spans": [
+          "Smaller companies can pursue carbon-neutrality just like any other firm, says Nick Aster of South Pole, a sustainability consultancy.",
+          "The process is the same regardless of the size of the organisation: understand your carbon footprint by measuring your emissions; set an ambition, such as being net-zero or carbon negative; and take action by reducing and offsetting those emissions."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Switch to renewable energy sources and reduce energy usage as part of energy procurement to reduce carbon footprint.",
+        "spans": [
+          "Take energy procurement. A close look at where a company gets its energy from is an opportunity to switch to renewable sources and reduce energy usage."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Measure and reduce your company’s direct carbon footprint before offsetting emissions.",
+        "spans": [
+          "But offsetting is the last resort. The path to carbon-neutrality starts by measuring and reducing your company’s direct carbon footprint."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Become more efficient in energy use and operations to reduce emissions.",
+        "spans": [
+          "“The first step is almost always to become more efficient,” says Dianne Saxe, an environmental lawyer and former environmental commissioner of Ontario, Canada.",
+          "“For example, it's amazing how many businesses are both heating and cooling the same space.”"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Look for greener alternatives in goods and services to reduce carbon footprint.",
+        "spans": [
+          "Look for greener alternatives. In film-making, the largest carbon footprint turns out to come from building one-off sets and using generators for power, says Jason Cherubini, co-founder of Dawn's Light Media, a film-production house.",
+          "“To fix this problem, we move filming to ‘practical’ sets [locations that already exist] with the ability to tie into the power grid,” he says. There are low-carbon options suppliers for all sorts of goods and services, from web-hosting to trucking."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Consider the whole supply chain emissions and seek regenerative or carbon-negative practices in sourcing.",
+        "spans": [
+          "Consider your whole supply chain. Food and beverage firms, for example, need to account for emissions from growing crops to disposal of packaging.",
+          "“The largest source of emissions in our industry typically comes from the growing of ingredients,” says Gretchen Grani, head of sustainability at Guayakí Yerba Mate, a maker of energy drinks.",
+          "“Most of our ingredients are grown within regenerative agriculture and agroforestry systems, so instead of being a large emitter of carbon, the growing stage sequesters carbon in the soil and biomass,” she says.”"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Offset unavoidable emissions by purchasing quality carbon credits that support emission reduction or carbon sequestration projects.",
+        "spans": [
+          "Some emissions are unavoidable, at least with current technology, such as those associated with air travel, construction and shipping. That is where offsets come in.",
+          "“Once a company knows its carbon footprint, they offset the entire thing by purchasing quality carbon credits,” explains Ms Drown.",
+          "These credits drive investment in projects, for example in reforestation or renewable energy, that either reduce emissions directly, sequester carbon, or prevent emissions that would otherwise have occurred."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Set an internal price on carbon to financially incentivize emission reductions.",
+        "spans": [
+          "To offset their emissions, companies must set an internal price on carbon, says Ms Drown, which then acts as a financial incentive to reduce emissions further."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Use online tools and local resources to measure emissions and find support for carbon-neutral initiatives.",
+        "spans": [
+          "Make use of online tools. “Smaller organizations might be able to do some of the work themselves fairly easily,” says Sandra Goldmark, a professor and director of campus sustainability at Barnard College in New York.",
+          "A simple online carbon calculator (such as Climate Neutral’s Brand Emissions Estimator) is fine for quantifying some emissions, such as those relating to utilities or travel.",
+          "Look for local resources and support. Depending on your location, there may be rebates, loan programmes, tax credits, subsidy schemes or other financial incentives available to encourage emissions reduction."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Seek expert consultancy if needed to properly assess and manage carbon emissions.",
+        "spans": [
+          "You may need custom expertise. “While we are tower experts, we are not carbon-emissions experts,” says Mr Borghei of Vertical Bridge, so he brought in specialist consultants to help identify everything the company needed for a proper emissions assessment."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Start with small changes and incremental improvements towards carbon neutrality.",
+        "spans": [
+          "Going carbon-neutral can seem daunting, but you don’t have to do it all at once.",
+          "“Many businesses look at green policies as all-or-nothing, which can be daunting and expensive,” says Mr Cherubini.",
+          "“Instead, look at what small changes can be tweaked to start moving you in the direction of being more green.”"
+        ]
+      }
+    ],
+    "clueweb22-en0036-78-05431": [
+      {
+        "point_number": 1,
+        "point_content": "Measure the carbon footprint of your office to keep measurable data on sustainability.",
+        "spans": [
+          "The best place to start is by measuring the carbon footprint of your office."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Upgrade office equipment and infrastructure to energy-saving options like LED bulbs, better windows, and Energy Star-rated machines.",
+        "spans": [
+          "You can start with just switching to LED and other energy-saving light bulbs and see how that affects your building’s energy usage.",
+          "buying energy-saving machines that are Energy Star-rated"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Recycle electronics and other materials properly through e-recycling companies or manufacturer take-back programs.",
+        "spans": [
+          "When your electronics have reached the end of their lifecycle, make sure to recycle them.",
+          "You can recycle your electronics through e-recycling companies or manufacturer take-back programs."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Turn off all lights and computers when not in use to save energy.",
+        "spans": [
+          "Make sure to turn off all lights at the end of your day and keep lights off in unused rooms.",
+          "Computers should also have power management options you can activate."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Reduce paper usage by printing only when necessary and using two-sided printing.",
+        "spans": [
+          "Only print if absolutely necessary, use a printer’s two-sided print feature and use the back of one-sided paper as scrap paper."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Educate employees about green initiatives and encourage them to participate in reducing waste.",
+        "spans": [
+          "Make sure everyone in the business is on board from the start.",
+          "Include green initiatives in memos and newsletters, and instruct employees to turn off computers and lights after meetings."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Adjust the thermostat to save energy, such as setting it back 10-15 degrees overnight.",
+        "spans": [
+          "You can either adjust the thermostat by one degree or set it back 10-15 degrees overnight when no one is around."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Seal windows and doors to conserve heat and improve energy efficiency.",
+        "spans": [
+          "Try to seal windows and doors so heat or cold air is not escaping."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Encourage alternative transportation methods like carpooling, cycling, and public transport for employees.",
+        "spans": [
+          "Options include offering electric cars to major transportation hubs, supporting cycling programs, helping employees coordinate carpooling, offering to pay for public transportation (or at least offering discounts on it)"
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Consider telecommuting to reduce emissions from commuting.",
+        "spans": [
+          "Another good option is to consider telecommuting, since it reduces the emissions of driving back and forth to the office each and every day."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Assess and reduce unnecessary business travel by using video conferencing.",
+        "spans": [
+          "Make sure to assess whether business trips are really necessary.",
+          "if you can avert the emissions of flying across the country or world by hopping on Skype, it’s certainly an option to keep in mind."
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "Coordinate deliveries and errands to minimize trips and use reusable containers.",
+        "spans": [
+          "Make sure all trips outside the office are coordinated well.",
+          "Try to work with suppliers to get your shipments in as few trips as possible.",
+          "Make sure the deliveries your company makes are organized so everything is getting dropped off in a certain area in one trip instead of several.",
+          "Also, make sure items are not over-packaged, and use reusable containers, if possible."
+        ]
+      },
+      {
+        "point_number": 13,
+        "point_content": "Keep measuring progress and maintain green initiatives as a priority.",
+        "spans": [
+          "Make sure to keep measuring your progress as you go along.",
+          "review energy consumption reports of the building, re-evaluate using carbon footprint calculators or continue to work with a consultant."
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,1769 @@
+{
+  "question": "why is there a chip shortage",
+  "key_points": {
+    "clueweb22-en0004-74-07753": [
+      {
+        "point_number": 1,
+        "point_content": "There just aren't enough computer chips to meet industry demand, causing shortages in many products.",
+        "spans": [
+          "And right now, there just aren't enough of them to meet industry demand."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The chip shortage has caused production slowdowns or halts in car manufacturing and affected smartphone sales.",
+        "spans": [
+          "Toyota, Ford and Volvo have had to either slow or temporarily halt production at their factories.",
+          "Apple warning that the shortage could affect iPhone sales."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The chip shortage is affecting a wide range of products, including unexpected ones like dog-grooming machines.",
+        "spans": [
+          "Even companies that wouldn't necessarily be associated with computer chips haven't been spared, such as CSSI international, a US firm that makes dog-grooming machines, is feeling the effects."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The shortage has led to increased sales of used cars because new vehicles with many chips are in short supply.",
+        "spans": [
+          "Sales of used-cars are up, for instance, because new vehicles, often packed with thousands of individual chips, are in short supply."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Some components containing semiconductors have a long wait time, up to 12 months or more, causing delays in production.",
+        "spans": [
+          "some of the components he needs containing semiconductors will not be available for 12 months or more."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "The chip shortage has been developing for years due to rising demand from 5G and trade restrictions like the US ban on sales to Huawei.",
+        "spans": [
+          "This situation has been developing for years, not just months.",
+          "Koray Köse, an analyst at Gartner, says that among the pressures facing the chip industry prior to the pandemic were the rise of 5G, which increased demand, and the decision by the US to prevent the sale of semiconductors and other technology to Huawei."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "There is a manufacturing complexity issue with two main chip production approaches (200mm and 300mm wafers), and demand for older 200mm technology has increased.",
+        "spans": [
+          "there are two main approaches to chip production right now: using 200mm or 300mm wafers.",
+          "But there's been a boom in demand for lower cost chips, which are embedded in an ever-wider variety of consumer products, meaning the older, 200mm technology is more sought after than ever."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Early in the pandemic, fluctuating demand led to stockpiling and advance ordering of chips, causing supply struggles.",
+        "spans": [
+          "As the pandemic unfolded, early signs of fluctuating demand led to stockpiling and advance ordering of chips by some tech firms, which left others struggling to acquire the components."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Chip factories closed during lockdowns, affecting supply.",
+        "spans": [
+          "chip factories did close during lockdowns."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "The pandemic was not the sole cause of the chip shortage; it was the last factor in a longer developing issue.",
+        "spans": [
+          "Mr Köse says, however, that the pandemic was not the sole cause of the chip shortage: \"That was probably just the last drop in the bucket.\""
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Recent events like a winter storm in Texas and a fire at a plant in Japan have worsened the chip shortage.",
+        "spans": [
+          "An atrocious winter storm in Texas shutdown semiconductor factories, and a fire at a plant in Japan caused similar delays."
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "Logistical issues, including increased shipping costs and driver shortages, have compounded the chip shortage problem.",
+        "spans": [
+          "Logistical headaches are compounding the situation.",
+          "the cost of moving shipping containers around the world has ballooned because of sudden shifts in demand during the pandemic.",
+          "It is accompanied by a rise in air freight fees and the lorry driver shortage in Europe."
+        ]
+      },
+      {
+        "point_number": 13,
+        "point_content": "Building new semiconductor factories takes a long time and is very expensive, so increasing capacity is slow.",
+        "spans": [
+          "Chip makers are responding to sustained demand by increasing capacity but that takes time, says Mr Köse, not least because semiconductor factories cost billions of dollars to build."
+        ]
+      },
+      {
+        "point_number": 14,
+        "point_content": "The chip shortage could last for multiple years, as stated by industry leaders and experts.",
+        "spans": [
+          "The chief executives of Intel and IBM have both said recently that the chip shortage could last two years.",
+          "Seda Memik, professor of electrical and computer engineering, and computer science, at Northwestern University, agrees: \"It will take multiple years to accomplish… a better balance.\""
+        ]
+      },
+      {
+        "point_number": 15,
+        "point_content": "The pace of demand for chips has been rising strongly, making a shortage inevitable at some point.",
+        "spans": [
+          "She also says that the pace of demand for chips has been rising so strongly that a shortage was, at some point, \"inevitable\"."
+        ]
+      },
+      {
+        "point_number": 16,
+        "point_content": "Establishing new chip factories is difficult, expensive, and requires a well-trained workforce, complicating efforts to ease the shortage.",
+        "spans": [
+          "Establishing new chip factories is difficult to do quickly, she adds: \"It's extremely expensive and requires a well-trained workforce.\""
+        ]
+      },
+      {
+        "point_number": 17,
+        "point_content": "Asia-based chip makers are currently dominating the market and are racing to meet demand.",
+        "spans": [
+          "He argues that Asia-based chip makers, such as those in Taiwan, China and South Korea, are already racing to meet demand, and will likely continue to dominate in the future."
+        ]
+      },
+      {
+        "point_number": 18,
+        "point_content": "The pandemic accelerated an already precarious situation for chip makers, with supply unable to keep up with a tech boom.",
+        "spans": [
+          "the pandemic accelerated an already precarious situation for chip makers - we're in the middle of a tech boom, supply can't quite keep up - and it won't get sorted out overnight."
+        ]
+      }
+    ],
+    "clueweb22-en0046-04-01014": [
+      {
+        "point_number": 1,
+        "point_content": "The chip shortage is caused by a demand for integrated circuits that greatly exceeds the supply possibilities.",
+        "spans": [
+          "a demand for integrated circuits that greatly exceeds the supply possibilities"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The COVID-19 pandemic caused production slowdowns and increased demand for chips due to more home office working conditions.",
+        "spans": [
+          "many countries experienced a lockdown and companies had to stop or slow down chip production",
+          "new home office working conditions and increased home time led to a growth of 26.1% of traditional computer sales during the last quarter of 2020 - and thus, to the demand exceeding the production"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Some companies overstocked chips while others canceled orders, causing supply chain imbalances.",
+        "spans": [
+          "some tech companies overstocked chips in advance, while others couldn't acquire any",
+          "car companies, canceled chip orders, fearing that the industry was going to take a hit"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Natural disasters and incidents like a winter storm in Texas and a fire in Japan caused production delays.",
+        "spans": [
+          "a winter storm pushed Texas semiconductor factories to shut down",
+          "a fire in Japan's Renesas plant caused delays"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Trade restrictions on Chinese semiconductor companies pushed demand onto already full capacity manufacturers in Taiwan and South Korea.",
+        "spans": [
+          "Restrictions placed on Semiconductor Manufacturing International Corporation (SMIC) pushed companies to rely on Taiwan Semiconductor Manufacturing Company Limited (TSMC) and Samsung but those manufacturers had already been working at their full capacity"
+        ]
+      }
+    ],
+    "clueweb22-en0039-97-09171": [
+      {
+        "point_number": 1,
+        "point_content": "There just aren't enough computer chips to meet industry demand, causing shortages in many products.",
+        "spans": [
+          "And right now, there just aren't enough of them to meet industry demand."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The chip shortage has caused production slowdowns or halts in car manufacturing and affected smartphone sales.",
+        "spans": [
+          "Toyota, Ford and Volvo have had to either slow or temporarily halt production at their factories.",
+          "Apple warning that the shortage could affect iPhone sales."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The chip shortage is affecting a wide range of products and industries, including unexpected ones like dog-grooming machines.",
+        "spans": [
+          "Even companies that wouldn't necessarily be associated with computer chips haven't been spared, such as CSSI international, a US firm that makes dog-grooming machines, is feeling the effects."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The shortage is causing delays in new car deliveries, impacting individuals reliant on cars.",
+        "spans": [
+          "The chip shortage has delayed a new car for musician Kris Halpin"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Some components containing semiconductors have a wait time of 12 months or more, making assembly impossible without them.",
+        "spans": [
+          "some of the components he needs containing semiconductors will not be available for 12 months or more.",
+          "You cannot just assemble it and miss one part, it won't work,"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "The chip shortage has been developing for years due to rising demand from 5G and trade restrictions affecting supply.",
+        "spans": [
+          "This situation has been developing for years, not just months.",
+          "Koray Köse, an analyst at Gartner, says that among the pressures facing the chip industry prior to the pandemic were the rise of 5G, which increased demand, and the decision by the US to prevent the sale of semiconductors and other technology to Huawei."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "There is a shortage of manufacturing equipment for older 200mm wafer technology, which is in higher demand due to a boom in lower cost chips.",
+        "spans": [
+          "there's been a boom in demand for lower cost chips, which are embedded in an ever-wider variety of consumer products, meaning the older, 200mm technology is more sought after than ever.",
+          "Industry news site Semiconductor Engineering highlighted the risk of a chip shortage, partly due to a lack of 200mm manufacturing equipment, back in February 2020."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "The pandemic caused stockpiling and advance ordering of chips, fluctuating demand, and factory closures, worsening the shortage.",
+        "spans": [
+          "As the pandemic unfolded, early signs of fluctuating demand led to stockpiling and advance ordering of chips by some tech firms, which left others struggling to acquire the components.",
+          "chip factories did close during lockdowns."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Recent events like a winter storm in Texas and a fire in Japan have caused semiconductor factory shutdowns, worsening supply issues.",
+        "spans": [
+          "An atrocious winter storm in Texas shutdown semiconductor factories, and a fire at a plant in Japan caused similar delays."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Shipping costs have ballooned during the pandemic, complicating logistics and supply chain issues for chip distribution.",
+        "spans": [
+          "the cost of moving shipping containers around the world has ballooned because of sudden shifts in demand during the pandemic.",
+          "Sending a single 40ft container from Asia to Europe currently costs $17,000 (£12,480), says George Griffiths, editor of global container markets at S&P Global Platts.",
+          "That's a greater than ten-fold increase compared to a year ago, when it cost around $1,500 (£1,101)."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Increasing chip production capacity takes time and is very expensive, so the shortage will not be resolved quickly.",
+        "spans": [
+          "Chip makers are responding to sustained demand by increasing capacity but that takes time, says Mr Köse, not least because semiconductor factories cost billions of dollars to build.",
+          "That is not going to be solved by this Christmas and I find it hard to believe it will be solved by the next Black Friday [November 2022],"
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "Experts predict the chip shortage could last for multiple years due to high demand and difficulty in building new factories.",
+        "spans": [
+          "The chief executives of Intel and IBM have both said recently that the chip shortage could last two years.",
+          "It will take multiple years to accomplish… a better balance.",
+          "Establishing new chip factories is difficult to do quickly, she adds: \"It's extremely expensive and requires a well-trained workforce.\""
+        ]
+      },
+      {
+        "point_number": 13,
+        "point_content": "The pandemic accelerated an already precarious chip supply situation amid a tech boom, causing ongoing delays and shortages.",
+        "spans": [
+          "the pandemic accelerated an already precarious situation for chip makers - we're in the middle of a tech boom, supply can't quite keep up - and it won't get sorted out overnight."
+        ]
+      }
+    ],
+    "clueweb22-en0006-44-11559": [
+      {
+        "point_number": 1,
+        "point_content": "The current chip shortage is largely a result of the pandemic causing a spike in demand for laptops and digital devices while restricting manufacturing capacity.",
+        "spans": [
+          "the current situation is largely a result of the pandemic",
+          "For the first time in years, there was a spike in personal computer shipments in 2020",
+          "Annual PC sales shot up by 11% compared to 2019",
+          "Mandates on social distancing and indoor occupancy has meant manufacturers could not fully staff their operations for much of the past 18 months"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Increased use of data and digital communication tools during the pandemic has led to disruption in supply and increased consumption, depleting inventory.",
+        "spans": [
+          "More people have routers and broadband and are using more data for Zoom calls, FaceTime chats or streaming all kinds of entertainment",
+          "That all leads to a disruption in supply and an increase in use, resulting in depleted inventory across the industry"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Even foundries with traditionally excess capacity are oversubscribed, causing delays in product availability.",
+        "spans": [
+          "Even foundries that have traditionally had excess capacity are oversubscribed, meaning many products will be delayed for months ahead"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Chip manufacturers are expanding capacity and building inventory, which will likely lead to an end to the shortage as demand normalizes.",
+        "spans": [
+          "Chip manufacturers are building inventory and operating at a higher capacity than they normally would",
+          "As the Covid-19 crisis wanes, I see an end to the shortage occurring because suppliers are already expanding their capacity"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Heavy investment from tech companies, venture capital, and governments is increasing chip manufacturing capacity to prevent future shortages.",
+        "spans": [
+          "Some of the world’s largest tech companies have launched their own chip factories",
+          "Silicon Valley, seeing the unmet demand, has flooded the industry with funding",
+          "more than $3.7 billion in venture capital has been invested in semiconductor companies this year",
+          "the United States formed the Semiconductors in America Coalition (SIAC) and is seeking to spend $50 billion to boost manufacturing in the country",
+          "Europe is also planning to increase spending on chip-making"
+        ]
+      }
+    ],
+    "clueweb22-en0030-03-07743": [
+      {
+        "point_number": 1,
+        "point_content": "Manufacturing is making a comeback in most industries after languishing during the pandemic and supplies of chips—used to operate most devices—are in short supply.",
+        "spans": [
+          "Manufacturing is making a comeback in most industries after languishing during the pandemic and supplies of chips—used to operate most devices—are in short supply."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "One of the issues is there isn’t the return on investment to build foundries to satisfy the demand by the automakers.",
+        "spans": [
+          "One of the issues is there isn’t the return on investment to build foundries to satisfy the demand by the automakers"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Another problem is poor planning. During the second quarter of 2020 automotive OEMs “shut down, as did most of the world, but as they did that they canceled orders from a lot of the supply chain.”",
+        "spans": [
+          "Another problem is poor planning. During the second quarter of 2020 automotive OEMs “shut down, as did most of the world, but as they did that they canceled orders from a lot of the supply chain,”"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Demand for cloud computing services from providers like AWS, Microsoft Azure and Alibaba continues to skyrocket, increasing chip demand.",
+        "spans": [
+          "Demand for cloud computing services from providers like AWS, Microsoft Azure and Alibaba continues to skyrocket."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The rollout of the 5G smartphone and the trade sanctions the U.S. placed on China before the pandemic contributed to the chip shortage.",
+        "spans": [
+          "Add to this rollout of the 5G smartphone and the trade sanctions the U.S. placed on China before the pandemic"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Huawei placed big orders for chips because they knew they couldn’t procure chips for their products due to trade sanctions.",
+        "spans": [
+          "They knew they couldn’t procure chips for their products … so they placed big orders."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Apple and other smartphone makers also placed large chip orders, keeping foundries extremely busy.",
+        "spans": [
+          "Likewise, Apple and other smartphone makers also placed large chip orders, “which kept the foundries extremely busy"
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "A few isolated events, including an earthquake and semiconductor fabrication plant fire in Japan and a winter storm in Texas in March, which shut down some fabs this year, have also contributed to the problem.",
+        "spans": [
+          "A few isolated events, including an earthquake and semiconductor fabrication plant fire in Japan and a winter storm in Texas in March, which shut down some fabs this year, have also contributed to the problem"
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Automotive and industrial market segments using legacy node technologies are at the back of the line and don’t get priority for chip orders.",
+        "spans": [
+          "Morales said the automotive and industrial market segments, which are still using legacy node technologies “are not only at the back of the line and don’t get priority [for chip orders]"
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Automotive and industrial industries have inefficient supply chains, causing delays in getting chips to end products.",
+        "spans": [
+          "These industries have inefficient supply chains, and even if they could get chips to move upstream, it could take months for them to reach the end product"
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Automotive industry might get chips by the third quarter of this year and see production by first half of next year.",
+        "spans": [
+          "They might get the chips by the third quarter of this year [then] they’ll finally start seeing production but it will not be until the first half of next year potentially"
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "Automotive and industrial industries are low priority because they shut down last year, forcing semiconductors to take on risk of uncertainty, causing suppliers to move to other products.",
+        "spans": [
+          "Besides the fact that they use legacy technologies, these industries are also a low priority because when they shut down last year they forced the semiconductors “to take on the risk of uncertainty. So a lot of suppliers moved to other products"
+        ]
+      },
+      {
+        "point_number": 13,
+        "point_content": "Automotive operates in a just-in-time environment and was shocked by the pandemic, making it hard to operate without business continuity planning.",
+        "spans": [
+          "Automotive operates in a just-in-time environment,” he said. “When you’re shocked by the pandemic it’s hard to operate without business continuity planning."
+        ]
+      },
+      {
+        "point_number": 14,
+        "point_content": "There is no short-term solution; supply cannot be increased in a short timeframe and lead times will improve only by the second quarter of next year.",
+        "spans": [
+          "There is no short-term solution, according to Gupta. “If supply is constrained you can’t increase it in a short timeframe …. We’re looking at the second quarter of next year” before lead times improve."
+        ]
+      }
+    ],
+    "clueweb22-en0029-57-18260": [
+      {
+        "point_number": 1,
+        "point_content": "The chip shortage is caused by increased demand during the pandemic as more people buy computers and electronic devices.",
+        "spans": [
+          "The consumption of chips has skyrocketed because more and more people are buying computers and various electronic devices as they’re stuck at home"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Supply problems due to natural disasters in major chip-producing countries have contributed to the shortage.",
+        "spans": [
+          "one of the major chip suppliers in Japan had a fire",
+          "Texas, for Intel, had a problem with the winter storms",
+          "in Taiwan, which is one of the largest producers in the world of these chips, they’re having a drought — and making computer chips requires lots of water, so they have been impacted"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Worker shortages and shipping bottlenecks, especially due to COVID outbreaks in major ports like China, have worsened the chip shortage.",
+        "spans": [
+          "the companies that make chips haven’t been able to find enough workers",
+          "A lot of them go through China as one of the major ports. And they had a COVID outbreak, which stopped people from unloading and loading these container ships"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Car manufacturers canceled chip orders expecting demand to slow, causing them to be at the back of the line now.",
+        "spans": [
+          "Carmakers were expecting demand to slow down during the pandemic, so they canceled a lot of their orders for chips. That means that now they’re at the back of the line"
+        ]
+      }
+    ],
+    "clueweb22-en0030-67-07023": [
+      {
+        "point_number": 1,
+        "point_content": "The COVID-19 pandemic is the primary driver of the microchip shortage.",
+        "spans": [
+          "if we were to discuss the root cause of the microchip shortage, we could point to the COVID-19 pandemic as the primary driver."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Lockdowns led to increased consumer demand for products requiring microchips, such as laptops, computers, televisions, video game systems, and tablets.",
+        "spans": [
+          "As lockdowns were put in place in the U.S. and abroad, consumers started buying a raft of products that require microchips to function. For example, workers looking to log on from home started buying laptops and computers, while televisions, video game systems, and tablets became a hot commodity to help stave off boredom."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "People bought more cars than expected last year, further draining microchip supplies.",
+        "spans": [
+          "In addition to an uptick in demand for consumer electronics, people bought more cars than expected last year, draining supplies even further."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Microchip production has been disrupted by COVID-19 outbreaks shutting down facilities, mostly located in Asia.",
+        "spans": [
+          "Amid soaring demand, microchip production has stumbled as well, with outbreaks of COVID-19 shuttering facilities, much like in the auto industry. Most microchip production is centered in Asia,"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "There is high competition for dwindling microchip supplies from multiple industries worldwide.",
+        "spans": [
+          "This is important to keep in mind as dwindling microchips supplies are sought after by a multitude of different industries in order to continue to do business, thus increasing competition."
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0015-97-03200": [
+      {
+        "point_number": 1,
+        "point_content": "Chip production was halted for multiple months due to manufacturers in East Asia closing their doors during the COVID-19 pandemic, while demand for technology increased.",
+        "spans": [
+          "As the COVID-19 pandemic began, manufacturers in East Asia closed their doors, completely halting chip production for multiple months.",
+          "But this sudden stop in production didn’t decrease the demand for technology."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Two companies in East Asia produce up to 70% of the world's chips, making chip production highly concentrated and vulnerable to disruption.",
+        "spans": [
+          "two companies in East Asia are tasked with making up to 70% of the world’s chips."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Increased demand for technology during the pandemic, including laptops, servers, video streaming devices, video game consoles, and TVs, contributed to the chip shortage.",
+        "spans": [
+          "With many businesses shifting to remote operations, people were scrambling to acquire laptops and servers to support teams working from home.",
+          "Additionally, with lockdowns keeping everyone inside, interest in video streaming devices, video game consoles, and TVs went through the roof."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Chip manufacturers are struggling to fulfill a backlog of order requests, leading to lasting supply chain issues.",
+        "spans": [
+          "chip manufacturers continue to struggle when fulfilling a backlog of order requests.",
+          "In turn, this has led to lasting supply chain issues"
+        ]
+      }
+    ],
+    "clueweb22-en0024-28-19132": [
+      {
+        "point_number": 1,
+        "point_content": "The global chip shortage is due to a savage shortage of semiconductors making it difficult to find new tech.",
+        "spans": [
+          "The rather savage shortage of semiconductors has made it stupidly difficult when it comes to finding new tech."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "China's chip makers increased production significantly to meet sustained high demand, which may help alleviate the shortage.",
+        "spans": [
+          "China's chip makers built a combined 31.6 billion integrated circuits (IC) units in July.",
+          "That's a healthy 41.3% increase year-on-year and the country's highest monthly production yet, thanks to companies upping their output to meet sustained high demand."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Chinese chipmakers face difficulties sourcing parts and machines due to U.S. sanctions, but the government is subsidizing production to reduce reliance on foreign silicon.",
+        "spans": [
+          "Chinese chipmakers have a harder time sourcing the parts and machines they need due to U.S. sanctions.",
+          "This is however also part of the reason why the Chinese government is focussing on chip production and offering generous subsidies, in order to make China less reliant on foreign silicon."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Current major gaming consoles get their chips from TSMC in Taiwan, so the shortage is also linked to TSMC's production capacity.",
+        "spans": [
+          "Currently, the PS5 and Xbox Series X get their chips from chip maker TSMC in Taiwan, as do a lot of GPU makers, meaning that they are still at the mercy of TSMC's chip production."
+        ]
+      }
+    ],
+    "clueweb22-en0001-89-11227": [
+      {
+        "point_number": 1,
+        "point_content": "The start of the Covid-19 crisis in early 2020 prompted a global spending spree on electronic items, increasing demand for semiconductors.",
+        "spans": [
+          "The start of the Covid-19 crisis in early 2020 prompted a global spending spree on electronic items—from extra monitors as people rushed to set up home offices, to televisions and games consoles for beating lockdown boredom."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Temporary factory closures due to the pandemic reduced semiconductor supply.",
+        "spans": [
+          "Temporary factory closures due to the pandemic also put pressure on supplies."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "As plants reopened, electronic goods producers continued to place orders, creating a backlog for chips.",
+        "spans": [
+          "And as plants reopened, electronic goods producers continued to place orders—creating an ever-increasing backlog for the chips, which can be just a fraction of a millimetre long."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Other incidents like a storm in Texas and a fire in a Japanese factory further disrupted chip production.",
+        "spans": [
+          "A storm briefly halted production at several plants in Texas in February, and a fire ripped through a Japanese factory in March."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "US-China tensions and sanctions on Huawei led to stockpiling of semiconductors, straining supplies.",
+        "spans": [
+          "US-China tensions are also part of the story. Last August, the US banned foreign companies whose chips use American technology from selling to Chinese tech giant Huawei, over espionage allegations.",
+          "Huawei began stockpiling semiconductors ahead of the sanctions coming into effect, and other companies followed their lead, further straining supplies."
+        ]
+      }
+    ],
+    "clueweb22-en0012-43-06319": [
+      {
+        "point_number": 1,
+        "point_content": "The explosion in demand—unexpectedly goosed during the Covid-19 pandemic for certain industries like smartphones and PCs—has caused a near-term supply shock triggering an unprecedented global shortage.",
+        "spans": [
+          "That explosion in demand—unexpectedly goosed during the Covid-19 pandemic for certain industries like smartphones and PCs—has caused a near-term supply shock triggering an unprecedented global shortage."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Lead times for chips have stretched significantly, indicating supply chain delays and shortages.",
+        "spans": [
+          "In February, lead times—the duration between when an order for a chip is placed and when it actually gets filled—stretched to 15 weeks on average for the first time since data collection started in 2017, according to industry distributor data from Susquehanna Financial Group. Lead times for Broadcom Inc.—a barometer for the industry because of its involvement across the supply chain—extended to 22.2 weeks, up from 12.2 weeks in February 2020."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Asia’s two largest chipmakers, Taiwan Semiconductor Manufacturing Co. and Samsung Electronics Co., are responsible for making the vast majority of the world’s most advanced silicon, yet don’t have the capacity to sate all demand, creating a bottleneck.",
+        "spans": [
+          "Asia’s two largest chipmakers are responsible for making the vast majority of the world’s most advanced silicon, yet don’t have the capacity to sate all demand. It’s a bottleneck that could last several quarters—or into next year."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Industry players have warned of longer-than anticipated deficits snarling production, with some companies suspending production due to shortages.",
+        "spans": [
+          "A growing number of industry players from Continental AG to Innolux Corp. and Renesas Electronics Corp. have in recent weeks warned of longer-than anticipated deficits snarling production—potentially well past the summer.",
+          "And on Friday, Nio Inc.—the Chinese EV company sometimes compared with Tesla—became the first high-profile automaker from the country to suspend production because of shortages."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The pandemic reshaped demand, boosting semiconductor sales by 5.4% in 2020 due to shelter-in-place demand for home gadgets.",
+        "spans": [
+          "A steady rise in semiconductor sales faltered in 2019, but was then boosted 5.4% by 2020’s shelter-in-place demand for home gadgets, IDC data shows."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Automotive electronics are increasingly important and costly, increasing demand for chips in cars.",
+        "spans": [
+          "Automotive electronics, which may include everything from displays to in-car systems, are set to account for an estimated 45% of a car’s manufacturing cost by 2030, according to a Deloitte report."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Chipmaking capacity has kept pace with sales growth, but advanced manufacturing is concentrated in fewer players, especially for 200 millimeter wafers which are in short supply.",
+        "spans": [
+          "On the other end of the supply chain, chipmaking capacity has kept pace with the growth in sales over past years, according to SEMI data, suggesting buyers are taking up capacity as soon as it comes online—a sign that semiconductor demand has in general been on par with available production resources.",
+          "Industry experts say an imbalance is particularly apparent in so-called 200 millimeter wafers, from which lower-end chips are made.",
+          "Those include power management chips and display ICs (or integrated circuits), required in a wide range of sectors from automotive to consumer electronics, but are in a short supply at the moment."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Uncertainties caused by the pandemic led to sharp swings in orders, muddling chipmakers' ability to match capacity with demand, causing production halts in car manufacturing and shortages in consumer electronics.",
+        "spans": [
+          "Uncertainties caused by the pandemic also led to sharp swings in orders last year, which in turn muddied the waters for chipmakers trying to match capacity with demand.",
+          "That’s why carmakers have had to halt production in 2021 and why Playstations and Xboxes are getting harder to find in stores."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Carmakers underestimated chip needs during the pandemic, leading to production halts and significant sales losses.",
+        "spans": [
+          "Carmakers got hit first in part because of poor inventory planning. The industry underestimated vehicle consumption and thus the amount of chips they needed when the pandemic hit.",
+          "They are now expected to miss out on $61 billion of sales this year alone."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "The cost of chipmaking and keeping pace with technology advancements has increased exponentially, making semiconductor manufacturing a field for the deepest pockets.",
+        "spans": [
+          "The problem gets further magnified by the fact that the cost of chipmaking and keeping pace with technology advancements has increased exponentially this decade—making the business of manufacturing semiconductors a rarefied field for the deepest of pockets."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Just three or four foundries account for the majority of global chip fabrication, mostly located in Asia, creating a concentration bottleneck.",
+        "spans": [
+          "Just three or four foundries now account for the majority of global chip fabrication—TSMC and Samsung and their more distant rivals, California-based Globalfoundries Inc., controlled by Abu Dhabi’s investment arm, and United Microelectronics Corp.",
+          "Looking at it another way, an estimated 91% of the contract chipmaking business is housed within Asia, the lion’s share of which is divided between just two regions: Taiwan and South Korea, home to TSMC and Samsung, respectively."
+        ]
+      }
+    ],
+    "clueweb22-en0030-67-05761": [
+      {
+        "point_number": 1,
+        "point_content": "Numerous factors contributed to the current semiconductor scarcity.",
+        "spans": [
+          "Numerous factors contributed to the current semiconductor scarcity, according to the BBC and IEEE Spectrum."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The rise of 5G and the growth of cloud computing have led to increased demand for computer chips.",
+        "spans": [
+          "The rise of 5G and the growth of cloud computing have led to increased demand for computer chips."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Some tech companies stockpiled chips and ordered them in advance at the start of the pandemic.",
+        "spans": [
+          "Some tech companies stockpiled chips and ordered them in advance at the start of the pandemic."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The abrupt shift to remote work led to greater demand for webcams, tablets, laptops, and other items that rely on semiconductors to function.",
+        "spans": [
+          "The abrupt shift to remote work led to greater demand for webcams, tablets, laptops, and other items that rely on semiconductors to function."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Many schools switched to virtual learning and also needed equipment like laptops and tablets to facilitate remote education.",
+        "spans": [
+          "Many schools switched to virtual learning and also needed equipment like laptops and tablets to facilitate remote education."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Due to a lack of 200mm fabrication equipment, manufacturers have had issues satisfying the growing demand for lower-cost computer chips constructed with 200mm wafers.",
+        "spans": [
+          "Due to a lack of 200mm fabrication equipment, manufacturers have had issues satisfying the growing demand for lower-cost computer chips constructed with 200mm wafers."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Lockdowns and disasters such as fires and winter storms have disrupted operations at semiconductor factories.",
+        "spans": [
+          "Lockdowns and disasters such as fires and winter storms have disrupted operations at semiconductor factories."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "During the pandemic, people quarantined in their homes have bought more home entertainment products such as TVs and gaming consoles.",
+        "spans": [
+          "During the pandemic, people quarantined in their homes have bought more home entertainment products such as TVs and gaming consoles."
+        ]
+      }
+    ],
+    "clueweb22-en0045-31-04319": [
+      {
+        "point_number": 1,
+        "point_content": "The price of upstream raw materials is rising, and the supply of equipment is insufficient, leading to chip shortage.",
+        "spans": [
+          "The raw material for chip production is mainly silicon material, which occupies about 90% of the production of semiconductor materials.",
+          "Therefore, the shortage and high price of silicon materials directly led to the shortage of chips.",
+          "Since 2021, silicon materials have increased to 2.4 times that of the end of 2020.",
+          "The high price of raw materials has led to the slowness and cessation of production by chip manufacturers, thus affecting the entire chip production industry.",
+          "In addition, semiconductor equipment is equally important to chip production, because chip production requires sophisticated production equipment, including photolithography machines.",
+          "However, there are only a few manufacturers of semiconductor equipment that require extremely precise processes in the world, and they can only produce a few machines each year.",
+          "This means that even if the short-term demand for chips rises, semiconductor equipment manufacturers cannot meet the requirements of chip manufacturers for equipment in a short time.",
+          "Therefore, the low output of semiconductor equipment is also a factor causing the shortage of chips."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Reduced production capacity of midstream chip manufacturing industry due to epidemic, natural disasters, and trade restrictions.",
+        "spans": [
+          "This year, many chip manufacturers around the world have been affected by the epidemic, which has greatly reduced the production of chips.",
+          "Not only that, natural disasters such as fires in many chip production areas have also had a huge impact on chip production.",
+          "For example, there was a severe drought in Taiwan.",
+          "Because chip production requires a lot of water to clean the chips and other materials, the production capacity of TSMC, one of the major chip manufacturers, has dropped drastically.",
+          "The Sino-US trade war has also had a significant impact on chip production capacity.",
+          "In 2020, the United States restricted the supply of raw materials for chip production from companies such as Huawei and SMIC.",
+          "As China's largest manufacturer, SMIC has dropped its production capacity significantly, exacerbating the global chip shortage."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Sudden increase in downstream chip supply-demand due to pandemic-driven demand and hoarding.",
+        "spans": [
+          "The arrival of the epidemic has started the era of home office work for residents around the world.",
+          "Computers and other electronic equipment with electronic cameras have ushered in a huge increase in sales during the epidemic.",
+          "People want better office equipment.",
+          "At the same time, they also want to relieve the boredom of their homes through electronic devices such as game consoles.",
+          "In the last quarter of 2020, computer sales increased by about 26% compared to previous years.",
+          "In addition, the Sino-US trade war has also prompted companies such as Huawei to start hoarding a large number of chips, which has increased the demand for chips.",
+          "At the beginning of the epidemic, many auto industries mistakenly predicted that their sales would drop significantly due to the epidemic, so they reduced their purchases of chips.",
+          "But people did not go as expected.",
+          "The result is that the auto industry’s reserves of chips are very insufficient, which intensifies the shortage of chips and the demand for chips."
+        ]
+      }
+    ],
+    "clueweb22-en0042-03-12763": [
+      {
+        "point_number": 1,
+        "point_content": "The global chip shortage began as a demand for chips unexpectedly skyrocketed over the last two years.",
+        "spans": [
+          "The global chip shortage began as a demand for chips unexpectedly skyrocketed over the last two years."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "International stay-at-home orders led to unprecedented use of smartphones, tablets, and streaming devices.",
+        "spans": [
+          "International stay-at-home orders led to unprecedented use of smartphones, tablets, and streaming devices."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "During the height of Covid-19, chip production was virtually stopped because of the global shutdown of production facilities.",
+        "spans": [
+          "During the height of Covid-19, chip production was virtually stopped because of the global shutdown of production facilities."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Ports around the globe were forced to shut down, creating massive supply chain delays.",
+        "spans": [
+          "Ports around the globe were forced to shut down, creating massive supply chain delays."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Worldwide chip sales dropped 12 percent in 2019 but then increased 29.7 percent between August 2020 and August 2021 due to increased demand.",
+        "spans": [
+          "According to the Semiconductor Industry Association, worldwide chip sales dropped 12 percent in 2019.",
+          "The most recent figures show that sales increased 29.7 percent between August 2020 and August 2021."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Increased demand also comes from industries such as automotive due to the adoption of technologies like driver assistance systems, push-to-start, and autonomous driving features.",
+        "spans": [
+          "The increased demand also comes from industries such as automotive due to the adoption of technologies like driver assistance systems, push-to-start, and autonomous driving features."
+        ]
+      }
+    ],
+    "clueweb22-en0004-16-12897": [
+      {
+        "point_number": 1,
+        "point_content": "The semiconductor shortage is caused by a surge in demand during the pandemic, hoarding by Chinese tech companies, production halts due to fires and natural disasters, and increased demand from cryptocurrency mining.",
+        "spans": [
+          "the problem has to do with the coronavirus pandemic",
+          "demand surged for laptops, monitors, smartphones, video-game consoles, and other devices",
+          "Chinese tech companies have been hoarding semiconductors",
+          "Several major factories have also had to halt production due to fires, blizzards, and droughts",
+          "renewed interest in Bitcoin has put a rush on cryptocurrency mining equipment"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The shortage affects many different types and brands of chips all at once, making it difficult to manage.",
+        "spans": [
+          "What’s made the current shortage so difficult to manage is that it’s affecting many different types and brands all at once."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Automobile industry was hit hard because they canceled chip orders early in the pandemic and demand recovered faster than expected, but chip manufacturers were already busy with other electronics.",
+        "spans": [
+          "Demand for cars dropped sharply at the beginning of the pandemic, so many automakers decided to cancel their orders for chips",
+          "Car sales then had a stronger recovery than expected",
+          "semiconductor manufacturers already had their hands full with the spike in demand for other electronics"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "A fire at Japan’s Renesas Semiconductor factory, which supplies two thirds of chips used by automakers, severely disrupted supply chains.",
+        "spans": [
+          "a fire in March at Japan’s Renesas Semiconductor Manufacturing Co. Ltd. factory, which supplies two thirds of all chips used by auto makers, severely disrupted global supply chains"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The shortage is causing production pauses and price increases in the automobile industry.",
+        "spans": [
+          "car companies have had to pause operations",
+          "Volkswagen has paused production at plants in Mexico, Germany, and Slovakia",
+          "Mercedes-Benz is halting operations at two plants in Germany",
+          "Ford is scaling back production in the country as well",
+          "These production problems are now contributing to a spike in prices for new cars"
+        ]
+      }
+    ],
+    "clueweb22-en0041-28-01316": [
+      {
+        "point_number": 1,
+        "point_content": "The global chip shortage is caused by demand for semiconductors spiking way beyond the pre-existing supplies.",
+        "spans": [
+          "The global chip shortage has the grabs over the world as demand for semiconductors has spiked way beyond the pre-existing supplies."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The Covid-19 pandemic caused increased demand for electronics due to work from home and online education, while manufacturing capacity was reduced.",
+        "spans": [
+          "Firstly, there’s no doubt that the most obvious reason for the shortage is the Covid-19 pandemic.",
+          "As soon as governments worldwide imposed lockdowns, the Work From Home and Online Education culture began.",
+          "Consequently, the demand for electronics housing silicon chips skyrocketed and there obviously wasn’t enough supply.",
+          "Companies are unable to deliver products at the same pace and price as before; it’s mainly because employees are working from home.",
+          "manufacturing has taken a great hit because physically operating factories at full capacity has been a demanding job lately."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Supply chains are disrupted and likely to stay disrupted for another year, adding to the backlog for manufacturers.",
+        "spans": [
+          "If that wasn’t enough, supply chains are likely to stay disrupted for another year as the demand is constantly increasing still and it only adds to the backlog for manufacturers."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "A severe water shortage in Taiwan affected TSMC, a major semiconductor manufacturer, impacting chip production.",
+        "spans": [
+          "Further, a severe water shortage in Taiwan affected the Taiwan Semiconductor Manufacturing Company (TSMC), one of the most substantial companies in the world that produces semiconductor chips."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The US trade war against China forced reliance on limited manufacturers like TSMC and Samsung, increasing their load.",
+        "spans": [
+          "Speaking specifically about the U.S., their recent trade war against China forced them to stop relying on Chinese semiconductor chip manufacturers.",
+          "Hence, the country’s only alternatives were TSMC and Samsung. With the added load, both of them could only do so much."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Cryptocurrency mining increased demand for GPUs, causing prices to spike and shortages for regular consumers.",
+        "spans": [
+          "The spotlight has shifted to GPUs and the infamous cryptocurrency trends for everyone recently.",
+          "Miners hoarded GPUs as shepherds herd sheep.",
+          "The rush of crypto miners stockpiling GPUs in bulk only meant one thing – no stock left for regular consumers.",
+          "the demand for graphics cards skyrocketed because of the cryptocurrency trends."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Manufacturers like NVIDIA and AMD had to order chips in advance and faced production hits due to the shortage.",
+        "spans": [
+          "Companies like NVIDIA and AMD have to order chips in advance to produce GPUs.",
+          "Although, when there’s a shortage of this scale, it’s obvious that graphics card production took a hit."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "A critical DRAM memory module shortage also occurred due to issues in Taiwan, affecting hardware production.",
+        "spans": [
+          "At the same time, a critical DRAM memory module shortage came into being because of the same issues in Taiwan."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "The chip shortage affects many industries including smartphones, automobiles, gaming consoles, and PCs.",
+        "spans": [
+          "A wide variety of industries are affected by the said chip shortage. From smartphones to automobiles.",
+          "Samsung, the South Korean tech giant, said that the shortage has affected its television and appliance production.",
+          "Microsoft also called out a decline in Windows OEM revenue by 4%, caused directly by disruption of supply chains.",
+          "Microsoft’s next-gen consoles, Xbox Series X/S, and Sony’s PlayStation 5 have been announced for quite a while but availability is scarce for both brands.",
+          "The GPU shortage caused regular consumers such as gamers to pay an overhead sum of money.",
+          "The production and supply chains took a major hit. Shortage of chips will impact the car market till 2022."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "The chip shortage is expected to last until at least 2022 or 2023 according to industry experts.",
+        "spans": [
+          "The CEO of chipmaker STMicroelectronics, Jean-Marc Chery, said the shortage will likely last at least two years.",
+          "“Things will improve in 2022 gradually,” Chery said, “but we will return to a normal situation … not before the first half of 2023.”",
+          "NVIDIA’s CEO, Jensen Huang earlier said that the GPU shortage would last until the end of 2021.",
+          "“I would expect that we will see a supply-constrained environment for the vast majority of next year is my guess at the moment,”",
+          "After Intel’s quarterly earnings call, CEO Pat Gelsinger said that the global semiconductor microchip shortage could last into 2023 when the industry is able to completely catch up with the demand."
+        ]
+      }
+    ],
+    "clueweb22-en0027-28-07680": [
+      {
+        "point_number": 1,
+        "point_content": "The global chip shortage was prompted by the Covid-19 pandemic and the surge in demand for electronics.",
+        "spans": [
+          "The global chip shortage was prompted by the Covid-19 pandemic and the surge in demand for electronics."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Consumers and businesses started buying new laptops and servers to cater for staff working remotely and children being home-schooled.",
+        "spans": [
+          "Consumers and businesses started buying new laptops and servers to cater for staff working remotely and children being home-schooled."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The pandemic has exposed pressure points in the global chip supply chain, with the vast majority of manufacturing being carried out by two companies – Taiwan’s TSMC and South Korea’s Samsung.",
+        "spans": [
+          "the pandemic has also exposed pressure points in the global chip supply chain, with the vast majority of manufacturing being carried out by two companies – Taiwan’s TSMC and South Korea’s Samsung."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Other factors contributing to the shortage include a drought in Taiwan, fires in factories, power outages and the transportation blockage at the Suez Canal.",
+        "spans": [
+          "Aside from the pandemic, other factors contributing to the shortage include a drought in Taiwan, the worst for 50 years, which has left TSMC and other manufacturers struggling to get hold of sufficient quantities of water, which is crucial in chip manufacturing.",
+          "Other events have held back supply, such as fires in factories, power outages and the transportation blockage at the Suez Canal ,"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The automotive industry scaled back its orders at the beginning of the pandemic and was deprioritized when demand picked up again, worsening the chip shortage for automakers.",
+        "spans": [
+          "The automotive industry has been hit particularly hard because it scaled back its orders at the beginning of the pandemic as demand for vehicles dropped, and then found itself at the back of the queue when it wanted to restart production at scale.",
+          "Automotive electronics is a very small fraction [of their business], so now when demand has picked up and the automotive guys need chips they are not seen as a priority."
+        ]
+      }
+    ],
+    "clueweb22-en0039-72-14610": [
+      {
+        "point_number": 1,
+        "point_content": "The semiconductor shortage is caused by a combination of short-term and long-term factors on both supply and demand sides.",
+        "spans": [
+          "it’s really a combination of short-term and long-term factors both on the supply side and on the demand side"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The pandemic caused automakers to shut down temporarily, reducing chip orders, while demand for consumer electronics surged.",
+        "spans": [
+          "When the pandemic came around, people pulled in their sales or they just physically couldn’t keep production going. So the automakers in particular shut down temporarily.",
+          "everybody else, after sitting around at home, started buying everything you can imagine, particularly computers, appliances or game consoles, tablets, everything to educate and entertain themselves at home"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Automakers lost their place in the manufacturing queue for chips when they resumed production, causing disproportionate impact on the auto industry.",
+        "spans": [
+          "when the car guys came back around in the September time frame, they basically had lost their place in the manufacturing queue to get chip supplies. So they were disproportionately hurt"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Demand for chips has increased across many types of products and each product uses more chips than before.",
+        "spans": [
+          "The chip industry has had many shortages before, but they usually are in a particular kind of chip like memory chips. This time it’s across the board, which is a sign that demand is really going through the roof.",
+          "The chips are being used in many more kinds of products, and then each product that is using chips—like a car or a smartphone—they are using many more chips"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "There are supply bottlenecks both in cutting-edge chip production and in older chip factories that are hard to upgrade.",
+        "spans": [
+          "there’s both the new cutting-edge chips that are scarce supply—those mainly come from this one company, TSMC, in Taiwan",
+          "also all these old factories, old chips, very simple things that were paid off years ago. In those cases, it’s very hard to upgrade those supply lines"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Chip manufacturers have difficulty forecasting demand accurately, leading to cycles of overbuilding or underbuilding factories.",
+        "spans": [
+          "The history of the chip industry has been marked by these periods where they built too many factories so there’s a glut of chips or they built too few factories and there’s a shortage of chips. So they weren’t getting accurate demand signals from their customers. So a lot of the problem here is properly evaluating and forecasting demand"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Building new cutting-edge chip factories is very expensive and time-consuming, taking about three years and costing $10 billion each.",
+        "spans": [
+          "If they just wanted to build a new factory from scratch, the cutting-edge factories are $10 billion a pop, takes three years to build them"
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Older chip factories cannot easily increase production because the machines for making those chips are no longer produced.",
+        "spans": [
+          "Then you have these older factories I was talking about. Some of those are using a kind of smaller silicon wafer to make the chips, and the machines for making those kinds of chips aren’t being made anymore. So they can’t increase production even if they want to"
+        ]
+      }
+    ],
+    "clueweb22-en0025-51-13278": [
+      {
+        "point_number": 1,
+        "point_content": "There just aren't enough of these chips to meet industry demand.",
+        "spans": [
+          "right now, there just aren't enough of these chips to meet industry demand"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Semiconductors are computer chips made out of silicon used in integrated circuits or microchips, which are basic building blocks of computers allowing electronic devices to process data.",
+        "spans": [
+          "Semiconductors, a term which has been dominating news headlines especially in the context of the tech and auto sector.",
+          "Well, these are computer chips which are made out of silicon. It is used in integrated circuits or microchips. They are the basic building blocks of computers which allow electronic devices to process data."
+        ]
+      }
+    ],
+    "clueweb22-en0030-89-02078": [
+      {
+        "point_number": 1,
+        "point_content": "The Covid-19 pandemic and subsequent lockdown caused a slump in automobile sales, leading manufacturers to cut back on manufacturing and semiconductor chip orders.",
+        "spans": [
+          "The Covid-19 pandemic, and the subsequent lockdown, have been considered the biggest culprit for the massive chip scarcity.",
+          "When the world went into lockdown in 2020, all major automobile manufacturers predicted a slump in sales. This forced them to cut back on manufacturing. As a by-product, orders for new semiconductor chips were also put on the hold."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Consumer demand for gadgets increased after lockdown, leading to increased semiconductor orders that the supply could not meet.",
+        "spans": [
+          "After being confined to their homes for many months, many consumers either decided to buy new gadgets or upgraded to newer ones for work, education, or entertainment. This resulted in all the major gadget manufacturing companies increasing their semiconductor orders for meeting the increasing market demands."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Existing semiconductor factories are producing at full capacity but cannot meet the surge in demand, and building new factories takes time and money.",
+        "spans": [
+          "All the existent semiconductor factories are producing chips at their full capacity, but the demand for semiconductor chips has seen such a surge that they are not able to meet their targets.",
+          "Not really. You see, it takes time and billions of dollars to build a single chip manufacturing factory. While building more manufacturing plants would be a good strategy for the future, they won’t do much now."
+        ]
+      }
+    ],
+    "clueweb22-en0018-37-01340": [],
+    "clueweb22-en0020-04-00931": [
+      {
+        "point_number": 1,
+        "point_content": "The chip shortage is a result of the COVID-19 pandemic, which increased demand for the personal electronics such as cell phones and laptops that the chips are used in to the point where production could not keep pace with demand.",
+        "spans": [
+          "The chip shortage is a result of the COVID-19 pandemic, which increased demand for the personal electronics such as cell phones and laptops that the chips are used in to the point where production could not keep pace with demand."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "In March 2020, the global pandemic prompted automakers, suppliers and car dealerships to close down, leading automakers to cancel chip orders anticipating a sales drop.",
+        "spans": [
+          "So in March 2020, the global pandemic prompted automakers, suppliers and car dealerships to close down. The economy went into a recession.",
+          "The automakers, who have experienced previous recessions, quickly canceled orders for parts with computer chips, thinking auto sales would nosedive, said Michelle Krebs, executive analyst for Autotrader."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Sales of new cars rebounded quickly, outpacing production and causing a chip shortage when factories restarted.",
+        "spans": [
+          "Sales of new cars did plummet initially, but quickly rebounded with pent-up demand and 0% financing offers.",
+          "So when the factories restarted, the stronger-than-expected demand for new vehicles outpaced production and has yet to catch up."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Chip capacity was consumed by other businesses such as phones, computers, and video games as people worked and schooled at home.",
+        "spans": [
+          "By then, chip capacity was consumed by other businesses — phones, computers, video games — as people worked and schooled at home."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Global chip production is monopolized by a few Asia-Pacific suppliers, and the simultaneous shutdowns created a bottleneck in manufacturing processes.",
+        "spans": [
+          "Global chip production is monopolized by a few global, Asia-Pacific suppliers, said Joe McCabe, CEO of AutoForecast Solutions LLC.",
+          "Everyone’s lights went off at the same time. This means that there was no ability to build inventory of products and solutions when businesses were able to turn their lights back on,",
+          "This created a significant bottleneck in all manufacturing processes."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "A fire at a Renesas Electronics plant in Japan further complicated the chip deficit.",
+        "spans": [
+          "The chip deficit was further complicated by a fire at plant owned by chipmaker Renesas Electronics in Japan. The damage was extensive and the plant is not yet up to full production, but they are hoping it will reach full production in June, Krebs said."
+        ]
+      }
+    ],
+    "clueweb22-en0001-59-08219": [
+      {
+        "point_number": 1,
+        "point_content": "The chip shortage is caused by a surge in demand for cheaper commodity chips used in many technologies, combined with limited manufacturing capacity and inflexible supply chains.",
+        "spans": [
+          "the world was facing an economically devastating shortage of microchips, particularly the relatively cheap ones that make many of today’s technologies possible.",
+          "Even as microchips have become essential in so many products, their development and manufacturing have come to be dominated by a small number of producers with limited capacity—and appetite—for churning out the commodity chips that are a staple for today’s technologies.",
+          "And because making chips requires hundreds of manufacturing steps and months of production time, the semiconductor industry cannot quickly pivot to satisfy the pandemic-fueled surge in demand.",
+          "After decades of fretting about how we will carve out features as small as a few nanometers on silicon wafers, the spirit of Moore’s Law—the expectation that cheap, powerful chips will be readily available—is now being threatened by something far more mundane: inflexible supply chains."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Consolidation in the semiconductor industry has reduced the number of manufacturers capable of producing advanced chips, increasing bottlenecks.",
+        "spans": [
+          "Twenty years ago, the world had 25 manufacturers making leading-edge chips. Today, only Taiwan Semiconductor Manufacturing Company (TSMC) in Taiwan, Intel in the United States, and Samsung in South Korea have the facilities, or fabs, that produce the most advanced chips.",
+          "One reason for the consolidation is that building a facility to make the most advanced chips costs between $5 billion and $20 billion."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Most chip customers use older, cheaper chip technologies, but the industry focuses investment on expensive leading-edge fabs, neglecting older technology production.",
+        "spans": [
+          "Many more companies are producing laptops, TVs, and cars that use chips made with older technologies, and a spike in demand for these is at the heart of the current chip shortage.",
+          "The problem is that even as more users rely on older and cheaper chip technologies, the giants of the semiconductor industry have focused on building new leading-edge fabs."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The cost and complexity of designing and manufacturing advanced chips limit production to a few large companies, restricting supply.",
+        "spans": [
+          "Only the largest tech companies are willing to pay hundreds of millions of dollars to design a chip for leading-edge nodes.",
+          "Not only are the fabs for manufacturing such chips expensive, but the cost of designing the immensely complex circuits is now beyond the reach of many companies."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The pandemic increased demand for chips, but the semiconductor industry cannot quickly increase production due to long manufacturing times and complex supply chains.",
+        "spans": [
+          "And because making chips requires hundreds of manufacturing steps and months of production time, the semiconductor industry cannot quickly pivot to satisfy the pandemic-fueled surge in demand."
+        ]
+      }
+    ],
+    "clueweb22-en0028-17-00287": [
+      {
+        "point_number": 1,
+        "point_content": "The global chip shortage is due to a shortage of qualified staff, especially highly qualified engineers needed to design new chips and solve manufacturing problems.",
+        "spans": [
+          "a shortage of qualified staff is a growing problem, especially the highly qualified engineers needed to design new chips and solve manufacturing problems"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The stay-at-home shift during the pandemic increased chip demand beyond projections, especially due to growth in laptop sales.",
+        "spans": [
+          "The stay-at-home shift: This pushed chip demand beyond levels projected before the pandemic. Lockdowns spurred growth in sales of laptops to the highest in a decade."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Automakers underestimated the speed of car sales rebound and rushed to reorder chips late in 2020 but were turned away due to chipmakers prioritizing computing and smartphone companies.",
+        "spans": [
+          "Automakers that cut back drastically early in the pandemic underestimated how quickly car sales would rebound. They rushed to re-up orders late in 2020, only to get turned away because chipmakers were stretched supplying computing and smartphone giants like Apple Inc."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Stockpiling by companies like Huawei and others increased demand and contributed to the shortage.",
+        "spans": [
+          "Huawei Technologies Co. began building up inventory to ensure it could survive U.S. sanctions that were set to cut it off from its primary suppliers. Other companies followed suit, hoping to grab share from Huawei."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Disasters such as a cold snap in Texas causing power outages and a fire in a Japanese plant disrupted semiconductor production.",
+        "spans": [
+          "A bitter cold snap in Texas in February led to power outages that shut semiconductor plants clustered around Austin. A plant in Japan was damaged by fire in March, disrupting production for months."
+        ]
+      }
+    ],
+    "clueweb22-en0032-74-13911": [
+      {
+        "point_number": 1,
+        "point_content": "The chip shortage is caused by a worldwide semiconductor shortage affecting many automakers.",
+        "spans": [
+          "worldwide semiconductor shortage"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Taiwan, a major semiconductor producer, is suffering a water shortage which impacts chip production.",
+        "spans": [
+          "Taiwan, where many semiconductors are made, is suffering through a water shortage because no typhoons hit the island last year (which means aquifers are low) and rainfall for the first three months of 2021 was roughly half of the normal rate."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The chip shortage could last until 2022 due to ongoing issues including the water shortage in Taiwan.",
+        "spans": [
+          "the chip shortage could last until 2022"
+        ]
+      }
+    ],
+    "clueweb22-en0015-26-11716": [
+      {
+        "point_number": 1,
+        "point_content": "The chip shortage is the result of a perfect storm of huge demand and limited supply.",
+        "spans": [
+          "The chip shortage is the result of a perfect storm of huge demand and limited supply."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The origins of the current shortage can be traced back to the automotive industry where automakers cut back demand prematurely and then rushed to buy back capacity.",
+        "spans": [
+          "While consumers noticed the chip shortage most acutely when it comes to gadgets, the origins of the current shortage can be traced back to the automotive industry.",
+          "In the early stages of the pandemic, automakers drastically cut back demand for processors in anticipation of falling sales.",
+          "Sales rebounded quickly, and the automotive market rushed to buy back cutting-edge manufacturing capacity."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Smaller factors like power outages, droughts, and the US-China trade war have also contributed to the shortage.",
+        "spans": [
+          "A number of smaller factors have also contributed to the supply and demand ends of the shortage.",
+          "February 2021’s power outages from cold weather brought Samsung’s Semiconductor manufacturing operations in Austin Texas to a halt until mid-March.",
+          "Taiwan also experienced a severe drought that threatened the country’s major semiconductor manufacturing operations.",
+          "The US-China trade war has also seen Chinese companies, such as Huawei, stockpile chipsets and other components throughout 2020 and 2021."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Chip manufacturing capacity is limited and concentrated in a few foundries like Samsung and TSMC, making it hard to meet demand.",
+        "spans": [
+          "Samsung and TSMC manufacture the bulk of the world’s cutting-edge semiconductors.",
+          "The bulk of industry demand for all sorts of chipsets falls on a handful of foundries."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Increasing production capacity is difficult because fabs are complex, expensive, and time-consuming to build or extend.",
+        "spans": [
+          "Fabs are complex capital and time-intensive operations that require expensive expertise and intellectual property to construct.",
+          "Extending existing production lines can take months, building new ones from the ground up can take years and cost tens of billions of dollars."
+        ]
+      }
+    ],
+    "clueweb22-en0027-23-01516": [
+      {
+        "point_number": 1,
+        "point_content": "Making chips is incredibly difficult and getting tougher.",
+        "spans": [
+          "making chips is incredibly difficult—and getting tougher."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "It takes years to build semiconductor fabrication facilities and billions of dollars, with brutal economics that can cause losses if manufacturing expertise is behind competitors.",
+        "spans": [
+          "it takes years to build semiconductor fabrication facilities and billions of dollars—and even then the economics are so brutal that you can lose out if your manufacturing expertise is a fraction behind the competition."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Manufacturing a chip typically takes more than three months and involves complex processes and expensive equipment.",
+        "spans": [
+          "Manufacturing a chip typically takes more than three months and involves giant factories, dust-free rooms, multi-million-dollar machines, molten tin and lasers."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Chips require extremely clean environments to manufacture, as even a speck of dust can ruin the chip and cause millions of dollars of wasted effort.",
+        "spans": [
+          "Just one speck of dust can cause havoc and millions of dollars of wasted effort. To mitigate this risk, chipmakers house their machines in rooms that essentially have no dust."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Chip manufacturing involves atomic-level precision and complex multi-step processes that are difficult to perform and require specialized machines.",
+        "spans": [
+          "Chips consist of as many as 100 layers of materials. These are deposited, then partially removed, to form complex three-dimensional structures that connect all the tiny transistors.",
+          "One of the most difficult parts of the process is lithography, which is handled by machines made by ASML Holding NV."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Building and operating chip plants is extremely expensive, costing billions of dollars and requiring continuous operation to be cost-effective.",
+        "spans": [
+          "Building an entry-level factory that produces 50,000 wafers per month costs about $15 billion.",
+          "Chip plants run 24 hours a day, seven days a week. They do that for one reason: cost."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "The chip industry is dominated by a few large companies with the resources to invest in advanced manufacturing, making it difficult for others to enter the market.",
+        "spans": [
+          "Only the biggest companies, in particular the top three that combined generated $188 billion in revenue last year, can afford to build multiple plants.",
+          "Most of the roughly 1.4 billion smartphone processors shipped each year are made by TSMC. Intel has 80% of the market for computer processors. Samsung dominates in memory chips."
+        ]
+      }
+    ],
+    "clueweb22-en0045-45-08947": [
+      {
+        "point_number": 1,
+        "point_content": "The chip shortage is caused by a combination of too much demand and supply issues, especially for older chip designs.",
+        "spans": [
+          "There’s two different forces at work here. For some products, there’s too much demand, which impacts the higher-end chips like the GPUs in a PlayStation 5 or an RTX 3080 graphics card.",
+          "On the flip side, though, are supply issues, particularly for older chip designs."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Older chips used in cars and other non-consumer devices are in short supply because they use legacy nodes and there is competition for these chips across industries.",
+        "spans": [
+          "Older chips — like the ones used in cars — are being hit particularly hard",
+          "Apple noted that it was running into trouble getting ahold of those older chips, due to the extra competition. “Most of our issue is on licensing those legacy nodes, there are many different people not only in the same industry, but across other industries that are using legacy nodes,” Cook said in Apple’s Q2 earnings."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The semiconductor industry is highly consolidated, with TSMC and Samsung dominating production, limiting alternatives when capacity is full.",
+        "spans": [
+          "Exacerbating the issue is that on a broader scale, the semiconductor industry has become increasingly consolidated.",
+          "TSMC alone accounts for 92 percent of the supply of cutting-edge chips, with Samsung providing the rest, according to a Wall Street Journal report."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "It will take a long time, possibly years, for chip production capacity to increase and the shortage to ease.",
+        "spans": [
+          "Intel CEO Pat Gelsinger voiced similar sentiment, commenting in a Wall Street Journal interview back in April that it could be two years before production is able to ramp up.",
+          "The bad news is that the crunch will probably get worse before it gets better. TSMC, Intel, and Samsung are all heavily investing in expanding and building new fabs.",
+          "But as Intel’s CEO noted, it’ll take months, if not a few years, for those investments to mature."
+        ]
+      }
+    ],
+    "clueweb22-en0002-42-02128": [
+      {
+        "point_number": 1,
+        "point_content": "The semiconductor chip shortage was sparked by some regulations implemented and decisions made during the COVID-19 pandemic.",
+        "spans": [
+          "The U.S. government is seeking ways to alleviate a semiconductor chip shortage, which is affecting companies around the globe and was sparked by some regulations implemented – and decisions made – during the COVID-19 pandemic."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "During the pandemic, semiconductor fabs and manufacturers experienced shutdowns and slowdowns in manufacturing, and customers reduced their orders expecting reduced demand.",
+        "spans": [
+          "During the pandemic some of these semiconductor fabs and many of the manufacturers of the components, equipment and materials used to manufacture semiconductors experienced shutdowns and slowdowns in their manufacturing",
+          "In addition, many of the customers of semiconductor chips, reduced their orders on chips during the early days of the pandemic, as they expected reduced demand for their products."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "When the economy began to recover, supply could not keep up with demand, contributing to the shortage.",
+        "spans": [
+          "When the economy began to recover, Coughlin added, supply could not keep up with demand."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Increased telework opportunities caused a rise in consumer electronics purchases, which typically contain semiconductor chips, increasing demand.",
+        "spans": [
+          "It has also been noted that increased telework opportunities caused a rise in some consumer electronics purchases, which typically contain semiconductor chips."
+        ]
+      }
+    ],
+    "clueweb22-en0039-90-11771": [
+      {
+        "point_number": 1,
+        "point_content": "The chip shortage is mostly a simple supply and demand problem caused by carmakers lowering orders at the start of the pandemic and an overwhelming demand for PCs, game consoles, and gadgets.",
+        "spans": [
+          "the issue is mostly a simple supply and demand problem",
+          "carmakers lowered their hardware orders at the start of the pandemic",
+          "rising demand for PCs, game consoles and a wide assortment of gadgets"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Production slowdowns amid COVID lockdowns and precautions have contributed to the chip shortage.",
+        "spans": [
+          "production slowdowns amid COVID lockdowns and other precautions"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "New chip fabs from Intel, TSMC and Samsung will take at least two years from breaking ground to operation, delaying relief from the shortage.",
+        "spans": [
+          "future chip fabs from Intel, TSMC and Samsung could boost supplies",
+          "it will still take at least two years from when those companies break ground to when they're up and running"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Intel CEO Pat Gelsinger confirmed the chip shortage situation is expected to last until 2023 due to disrupted supply chains and exploding demand.",
+        "spans": [
+          "Intel CEO Pat Gelsinger also confirmed that he expects the situation to last until 2023",
+          "COVID disrupted the supply chains, causing it to go negative",
+          "Demand exploded to 20 percent year-over-year and disrupted supply chains created a very large gap ... and that exploding demand has persisted"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "NVIDIA CEO Jensen Huang noted there are no “magic bullets” for the supply chain issues and the shortage has been worsened by scalpers and cryptominers buying up stock.",
+        "spans": [
+          "NVIDIA CEO Jensen Huang echoed that sentiment",
+          "he doesn’t think there are any “magic bullets” when it comes to dealing with the supply chain",
+          "Scalpers and cryptominers usually bought up all of the available stock"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "The pandemic-driven push towards buying more computers and gaming hardware is a permanent condition, sustaining demand.",
+        "spans": [
+          "the pandemic-driven push towards buying more computers and gaming hardware is here to stay",
+          "I think these are permanent conditions"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Legislation like the Innovation and Competition Act (USICA) aims to boost semiconductor production but has stalled in the House of Representatives.",
+        "spans": [
+          "the Innovation and Competition Act (USICA), which includes $52 billion in funding for the CHIPs for America Act",
+          "the legislation has stalled in the House of Representatives"
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "US-China manufacturing conflict and cyberwar have negatively impacted chip production and supply chain stability.",
+        "spans": [
+          "the manufacturing conflict between the two countries",
+          "the US and China have been engaged in a quiet cyberwar for years"
+        ]
+      }
+    ],
+    "clueweb22-en0025-33-16078": [
+      {
+        "point_number": 1,
+        "point_content": "The COVID-19 pandemic caused chip plants to close and demand to tumble, but demand rebounded sharply, contributing to the semiconductor shortage.",
+        "spans": [
+          "Like most of the other goods that are in short supply, the COVID-19 pandemic has contributed to the semiconductor shortage.",
+          "A lot of chip plants were closed due to the pandemic.",
+          "Chip demand also tumbled and many end-users cut their order projections with chipmakers.",
+          "However, the demand rebounded much sharper than even the most optimistic observers would have envisioned."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Additional supply disruptions such as winter storms in Texas and a fire at the Renesas plant in Japan worsened the chip shortage.",
+        "spans": [
+          "The winter storms in Texas and a fire at the Renesas plant in Japan, which is a leading chip supplier to the automotive industry, also added to the supply shortfall."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Labor shortages and logistics issues have compounded the semiconductor supply problems.",
+        "spans": [
+          "Add the labor shortage and logistics issues, and we have a perfect storm."
+        ]
+      }
+    ],
+    "clueweb22-en0033-81-02594": [
+      {
+        "point_number": 1,
+        "point_content": "The main factor causing the global chip shortage is soaring demand.",
+        "spans": [
+          "the main factor is soaring demand"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "More chips are being used in 5G devices and many industries are becoming reliant on them, including solar and wind energy systems.",
+        "spans": [
+          "More chips are being used in 5G devices, and many industries are becoming reliant on them. For example, solar and wind energy systems now use more chips."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The U.S.-China trade war and the COVID-19 pandemic have contributed to the chip shortage by causing factory closures and reduced operations in Asia, which accounts for much of the global chip supply.",
+        "spans": [
+          "The U.S.-China trade war and the COVID-19 pandemic are also responsible for the chip shortage. Factories in Asia account for much of the global chip supply and many of them closed or reduced operations during lockdowns."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Factories reopening or expanding operations faced shortages of workers and materials, limiting their capacity to meet demand.",
+        "spans": [
+          "And as chip factories reopened or expanded operations, many couldn’t find enough workers or materials to operate at the desired capacity to meet demand."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The pandemic disrupted the sourcing of materials used in chip production.",
+        "spans": [
+          "The pandemic also disrupted the sourcing of materials used in chip production."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Demand for chips soared as people purchased more laptops and electronics to work or study remotely amid the pandemic.",
+        "spans": [
+          "Meanwhile, demand for chips soared as people purchased more laptops and other electronics to work or study remotely amid the pandemic."
+        ]
+      }
+    ],
+    "clueweb22-en0033-52-05252": [
+      {
+        "point_number": 1,
+        "point_content": "The shortage has been looming for several years but has been gathering pace in 2021.",
+        "spans": [
+          "The shortage has been looming for several years but has been gathering pace in 2021."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The rise of 5G has been blamed for increased demand, as well as the US preventing the sale of semiconductors and other technology to Huawei.",
+        "spans": [
+          "The rise of 5G has been blamed for increased demand, as well as the US preventing the sale of semiconductors and other technology to Huawei."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Others have pointed the finger at a surge in interest in cheaper chips as firms try to cut down their costs.",
+        "spans": [
+          "Others have pointed the finger at a surge in interest in cheaper chips as firms try to cut down their costs."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "But the overarching reason for the shortage, according to many, is Covid.",
+        "spans": [
+          "But the overarching reason for the shortage, according to many, is Covid."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Stockpiling by companies and those working from home needing more equipment has seen supplies plummet.",
+        "spans": [
+          "Stockpiling by companies and those working from home needing more equipment has seen supplies plummet."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "And with factories closed to stop the spread of the virus, production was put on pause.",
+        "spans": [
+          "And with factories closed to stop the spread of the virus, production was put on pause."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Severe winter weather in Texas, a fire at a plant in Japan, and a Taiwanese drought have also caused similar delays.",
+        "spans": [
+          "Severe winter weather in Texas, a fire at a plant in Japan, and a Taiwanese drought have also caused similar delays."
+        ]
+      }
+    ],
+    "clueweb22-en0019-82-04279": [
+      {
+        "point_number": 1,
+        "point_content": "The Coronavirus pandemic has been the primary cause of the chip shortage.",
+        "spans": [
+          "To put it plainly, the Coronavirus pandemic has been the primary cause of the chip shortage."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Global-wide shut-downs caused production to freeze up and stock to drain.",
+        "spans": [
+          "Global-wide shut-downs caused production to freeze up and stock to drain."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The demand for electronics boomed, increasing competition between Tech Giants and Automakers for the dwindling number of chips.",
+        "spans": [
+          "The demand for electronics boomed, increasing competition between Tech Giants and Automakers for the dwindling number of chips."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Automakers underestimated consumers' demand for cars in the second quarter of 2020 and decreased production, further spiking demand.",
+        "spans": [
+          "Automakers underestimated consumers' demand for cars in the second quarter of 2020 and decreased production, further spiking demand."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The cost of silicon has risen substantially due to the mass production of the COVID-19 vaccines; the silicon needed to make the vials is the same as the silicon used to manufacture chips and personal computers.",
+        "spans": [
+          "The cost of silicon has risen substantially due to the mass production of the COVID-19 vaccines; the silicon needed to make the vials is the same as the silicon used to manufacture chips and personal computers."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Small changes in demand, as they propagate further upstream in the value chain, the variability, and the volatility grows dramatically, known as the bullwhip effect.",
+        "spans": [
+          "According to Razat Gaurav, CEO of supply chain software and analytics firm Llamasoft, “This is a classic example of the bullwhip effect... Small changes in demand, as they propagate further upstream in the value chain, the variability, and the volatility grows dramatically.”"
+        ]
+      }
+    ],
+    "clueweb22-en0037-52-01221": [
+      {
+        "point_number": 1,
+        "point_content": "The global chip shortage is making it hard to buy cars, appliances and other products.",
+        "spans": [
+          "The global chip shortage is making it hard to buy cars, appliances and other products."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "GlobalFoundries makes chips through a complex process that requires precision, clean environments, expensive factory equipment and time.",
+        "spans": [
+          "GlobalFoundries Inc. makes chips through a complex process that requires precision, clean environments, expensive factory equipment and time."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "It takes GlobalFoundries three months on average to engrave and transform silicon wafers into layered semiconductors.",
+        "spans": [
+          "It takes GlobalFoundries three months on average to engrave and transform mirror-smooth silicon wafers into layered semiconductors."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Ending the shortage is difficult because it takes years to get new factories up and running.",
+        "spans": [
+          "Chip makers say ending the shortage is difficult because it takes years to get new factories up and running."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Even a single speck of dust can damage a chip, requiring strict clean room protocols.",
+        "spans": [
+          "Even a single speck of dust can damage a chip.",
+          "Before entering so-called clean rooms, where the manufacturing actually occurs, workers have to put on safety gear, including safety glasses, a hairnet, mask, gloves, boots, gown and a hood."
+        ]
+      }
+    ],
+    "clueweb22-en0006-54-04844": [
+      {
+        "point_number": 1,
+        "point_content": "The global chip shortage is caused by demand for semiconductors surging far beyond capacity for supply.",
+        "spans": [
+          "The world is in the grips of a global chip shortage because of demand for semiconductors surging far beyond capacity for supply."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The shortage is due to a disequilibrium between demand and supply, not a lack of raw materials.",
+        "spans": [
+          "the shortage isn't the result of a genuine lack of resources, such as a dearth of the raw silicon that forms the wafer base for semiconductors; it’s just a disequilibrium between demand and supply."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The shortage was triggered by multiple factors including sanctions on Huawei, increased orders from other Chinese smartphone makers, and increased demand for personal electronics due to the pandemic.",
+        "spans": [
+          "In May last year, the Trump administration’s imposed sanctions against Huawei Technologies, which blocked the Chinese smartphone maker from purchasing semiconductors made with U.S. technology.",
+          "The blockade, which gave suppliers 120 days to comply, prompted Huawei to increase orders and stockpile chips ahead of the ban.",
+          "“After the U.S. placed sanctions on Huawei, other Chinese smartphone makers started increasing semiconductor orders too because they wanted to take market share left by Huawei,” says Brady Wang, an analyst at Counterpoint Research.",
+          "Next, the pandemic forced millions to shelter and work at home, increasing orders for personal electronics, which run on chips."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Automakers cut semiconductor orders expecting reduced sales, but demand rebounded, causing them to be at the back of the supply line.",
+        "spans": [
+          "Perhaps more importantly, automakers expected the pandemic to reduce new car sales, and they cut production outlook and canceled their orders for semiconductors as a result.",
+          "Automakers that had canceled semiconductor purchases rushed to put in new orders but found themselves at the back of a line front-loaded with personal electronics makers."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The shortage is partly due to supply chain management issues in the automotive industry.",
+        "spans": [
+          "Daniel Nenni, founder of chip information forum SemiWiki, says, “Calling it a shortage is really not the case. It was just bad supply-chain management.”",
+          "Nissan chief operating officer Ashwani Gupta told Bloomberg that the chip shortage is something that every company “could have avoided” with better supply-chain management."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "80% of the world’s chip supply comes from Asia, with Taiwan’s TSMC dominating contract chip manufacturing, creating a bottleneck.",
+        "spans": [
+          "Some 80% of the world’s chip supply—and, in fact, some 80% of Infineon's microcontroller supply—comes from Asia, where Taiwan’s TSMC dominates the market for contract chip manufacturing."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "TSMC is investing billions to expand capacity to ease the chip supply challenge.",
+        "spans": [
+          "TSMC has invested $2.88 billion to expand capacity at a factory in China that produces automotive chips, in order to “ease the global chip supply challenge.”",
+          "The company also has committed to spending $100 billion over the next three years to “address the structural increase in the long-term demand.”"
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "The shortage will persist through 2021 and possibly until 2023, but capacity is being increased to eventually meet demand.",
+        "spans": [
+          "There's consensus that supply will remain tight throughout 2021.",
+          "Intel CEO Pat Gelsinger predicts the shortage will persist for a “couple of years.”",
+          "German chipmaker Infineon likewise suspects supply to finally meet demand in 2023.",
+          "“Across the industry, there will be a huge ramp-up of production by the end of 2021,” says Sanyam Chaurasia, an analyst at Canalys.",
+          "Some chipmakers, he says, started increasing capacity even last year, but it takes roughly a year for new factories to come online.",
+          "“At the end of the day, supply will meet demand and there will be equilibrium,” says Chaurasia."
+        ]
+      }
+    ]
+  }
+}

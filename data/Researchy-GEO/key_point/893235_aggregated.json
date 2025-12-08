@@ -1,0 +1,110 @@
+{
+  "question": "what impact could a poor quality product have on a company?",
+  "key_points": [
+    {
+      "point_number": 1,
+      "point_content": "Poor quality leads to flight accidents, grounding of airplanes, and huge impact on the company and related businesses.",
+      "original_point_number": [
+        1
+      ]
+    },
+    {
+      "point_number": 2,
+      "point_content": "Poor quality causes inefficiencies, productivity problems, mechanical breakdowns, work slowdowns or stoppages, and employees spending time on inefficient processes and fixing incidents regularly.",
+      "original_point_number": [
+        2,
+        5,
+        6
+      ]
+    },
+    {
+      "point_number": 3,
+      "point_content": "Poor quality negatively impacts customer satisfaction, causes loss of customers, reduces repeat customers, leads to customer dissatisfaction, poor product performance, and jeopardizes business and customer relationships.",
+      "original_point_number": [
+        3,
+        7,
+        21,
+        22
+      ]
+    },
+    {
+      "point_number": 4,
+      "point_content": "Poor quality impacts profitability through costs of fixing errors, unbillable hours, delivering free components, recalls, legal litigations, rework costs, freight costs, chargebacks, product returns, lost sales, and increases project costs due to reopening and rework.",
+      "original_point_number": [
+        4,
+        12,
+        18
+      ]
+    },
+    {
+      "point_number": 5,
+      "point_content": "Using low-quality parts or equipment might save money short term but increase long-term costs due to inefficiency, lack of support, increased total cost of ownership (TCO), and decreased return on investment (ROI).",
+      "original_point_number": [
+        8,
+        27
+      ]
+    },
+    {
+      "point_number": 6,
+      "point_content": "Poor quality can lead to exponential costs, both internally and externally, and can hinder long-term growth if not addressed.",
+      "original_point_number": [
+        9
+      ]
+    },
+    {
+      "point_number": 7,
+      "point_content": "Poor quality affects consumer relationships and your brand’s name negatively, leading to bad publicity, lost customers, lawsuits, and benefits competitors as customers share negative reviews and competitors use this to their advantage.",
+      "original_point_number": [
+        10,
+        15,
+        20
+      ]
+    },
+    {
+      "point_number": 8,
+      "point_content": "A defective product reaching the customer can result in chargebacks, returns, bad reviews, a high volume of customer complaints, decreased time to resolution and priority support, and decreased sales exposing current accounts at risk of migrating to other products.",
+      "original_point_number": [
+        11,
+        23,
+        25
+      ]
+    },
+    {
+      "point_number": 9,
+      "point_content": "Poor quality can make or break a company and its products, services, and reputation; your brand equity is directly proportional to the quality delivered to a customer.",
+      "original_point_number": [
+        13,
+        24
+      ]
+    },
+    {
+      "point_number": 10,
+      "point_content": "The cost to repair defective items may be as high as 10 times the original price tag.",
+      "original_point_number": [
+        14
+      ]
+    },
+    {
+      "point_number": 11,
+      "point_content": "Poor quality can cause delays in delivery due to rework required to meet quality standards, which can lead to penalties as per contract clauses, so maintaining quality is essential to avoid schedule slippage.",
+      "original_point_number": [
+        16,
+        17
+      ]
+    },
+    {
+      "point_number": 12,
+      "point_content": "Quality issues after delivery cause trust issues with customers, who may not rely on the company for future projects.",
+      "original_point_number": [
+        19
+      ]
+    },
+    {
+      "point_number": 13,
+      "point_content": "The higher cost of production due to poor quality products can cause a production halt.",
+      "original_point_number": [
+        26
+      ]
+    }
+  ]
+}

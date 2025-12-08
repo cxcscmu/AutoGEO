@@ -1,0 +1,159 @@
+{
+  "question": "how might a researcher address issues of confidentiality in qualitative research?",
+  "key_points": {
+    "clueweb22-en0014-89-07091": [
+      {
+        "point_number": 1,
+        "point_content": "Keep the client confidential from respondents at all times to prevent biased results.",
+        "spans": [
+          "client is kept confidential from respondents at all time"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Protect personally identifiable information (PII) by keeping it in a secured database.",
+        "spans": [
+          "Any personally identifiable information (PII) that is collected must be kept in a secured database"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Separate clients and respondents physically to maintain full confidentiality.",
+        "spans": [
+          "clients and respondents should never end up in the same room together",
+          "respondents will have a waiting area separate from client access areas"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Have all participants sign confidentiality forms to ensure privacy beyond the focus group.",
+        "spans": [
+          "All participants should sign confidentiality forms to ensure that what is discussed during the group never goes beyond the walls of the facility."
+        ]
+      }
+    ],
+    "clueweb22-en0025-17-08266": [
+      {
+        "point_number": 1,
+        "point_content": "Qualitative researchers can avoid confidentiality dilemmas by carefully considering the audience for one's research.",
+        "spans": [
+          "by carefully considering the audience for one's research"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Reenvisioning the informed consent process helps qualitative researchers maintain respondent confidentiality.",
+        "spans": [
+          "by reenvisioning the informed consent process"
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0027-91-15928": [
+      {
+        "point_number": 1,
+        "point_content": "Qualitative researchers can avoid confidentiality dilemmas by carefully considering the audience for one's research and by reenvisioning the informed consent process.",
+        "spans": [
+          "by carefully considering the audience for one's research and by reenvisioning the informed consent process"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "To protect confidentiality, detailed information such as names, age, years as professional, or best ranking achieved is not provided.",
+        "spans": [
+          "Para resguardar la confidencialidad de las participantes, y siguiendo las recomendaciones de Kaiser (2009), no se ofrece información detallada sobre nombres, edad, años como profesional ni su mejor ranking alcanzado."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Data is presented using pseudonyms to protect the identities of study participants.",
+        "spans": [
+          "Below we present data using pseudonyms to protect the identities of the study participants (Kaiser, 2009 )"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Anonymity is upheld by removing or changing names, locations, or any other identifying material throughout analysis and write-up phases.",
+        "spans": [
+          "Anonymity was upheld throughout the analysis and write up phases with names, locations, or any other identifying material removed or changed."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "To prevent identification through quotations, creative non-fiction composite vignettes combining multiple participants' stories are used.",
+        "spans": [
+          "Because the use of quotations could lead to the reader deducing who the participants are, this study uses creative non-fiction composite vignettes, which combined the stories of all 11 coaches."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Participant confidentiality and anonymity is maintained by using pseudonyms.",
+        "spans": [
+          "Participant confidentiality and anonymity was maintained by using pseudonyms"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Pseudonyms are used for participants to preserve anonymity when including quotations.",
+        "spans": [
+          "We will use pseudonyms for the participants to preserve anonymity (Kaiser, 2009; Saunders et al., 2015)."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "External confidentiality is attained by use of pseudonyms and masking fieldnote data regarding subjects' context of activity to prevent deductive disclosure.",
+        "spans": [
+          "External confidentiality was attained by use of pseudonyms. Deductive disclosure of informants' identities at Hemdat by their comrades (Kaiser, 2009) was further addressed by masking the fieldnote data regarding subjects' context of activity."
+        ]
+      }
+    ],
+    "clueweb22-en0035-33-06970": [
+      {
+        "point_number": 1,
+        "point_content": "Researchers should ensure confidentiality by anonymizing data and using pseudonyms for participants.",
+        "spans": [
+          "anonymizing data",
+          "using pseudonyms for participants"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Obtaining informed consent includes explaining how confidentiality will be maintained.",
+        "spans": [
+          "Obtaining informed consent includes explaining how confidentiality will be maintained"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Data should be securely stored and access limited to authorized personnel only.",
+        "spans": [
+          "Data should be securely stored",
+          "access limited to authorized personnel only"
+        ]
+      }
+    ],
+    "clueweb22-en0011-24-08230": [
+      {
+        "point_number": 1,
+        "point_content": "Qualitative researchers must consider consent ongoing and must check it frequently to address issues of confidentiality and consent.",
+        "spans": [
+          "qualitative researchers must consider consent ongoing and must check it frequently"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Relationships formed between the researcher and participant may blur the focus and lead to participants feeling they have to continue participation, which is an ethical concern to be managed.",
+        "spans": [
+          "Relationships formed between the researcher and participant in qualitative research may blur the focus of the interaction and may lead to the person feeling they �have � to continue participation."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The researcher is responsible for bias and risk for harm and must constantly check with the subject to protect confidentiality and ethical standards.",
+        "spans": [
+          "the researcher is the study instrument collecting the data and doing the interpretation � bias for inclusion and risk for harm is the researcher�s responsibility � they must constantly check with the subject."
+        ]
+      }
+    ]
+  }
+}

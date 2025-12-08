@@ -1,0 +1,345 @@
+{
+  "question": "what can you do to protect the environment?",
+  "key_points": [
+    {
+      "point_number": 1,
+      "point_content": "Consume less by refusing non-essential items and buying only what you need to reduce environmental impact and waste.",
+      "original_point_number": [
+        1,
+        37,
+        53
+      ]
+    },
+    {
+      "point_number": 2,
+      "point_content": "Compost food scraps and yard waste to reduce trash, enrich soil, and minimize food wastage by planning meals, donating food, and eating leftovers.",
+      "original_point_number": [
+        2,
+        21,
+        52,
+        73
+      ]
+    },
+    {
+      "point_number": 3,
+      "point_content": "Choose reusable items such as bags, beverage containers, water bottles, and cloth diapers over single-use disposable products to reduce waste and plastic pollution.",
+      "original_point_number": [
+        3,
+        36,
+        38,
+        41,
+        78,
+        84
+      ]
+    },
+    {
+      "point_number": 4,
+      "point_content": "Upcycle and creatively reuse unwanted or household items to reduce waste and save natural resources and energy.",
+      "original_point_number": [
+        4,
+        62,
+        75
+      ]
+    },
+    {
+      "point_number": 5,
+      "point_content": "Recycle properly by knowing what can be recycled, using recycling services and bins, and properly disposing of special items.",
+      "original_point_number": [
+        5,
+        40,
+        62
+      ]
+    },
+    {
+      "point_number": 6,
+      "point_content": "Shop secondhand or buy second-hand products to save resources used in producing new goods and protect the environment.",
+      "original_point_number": [
+        6,
+        30
+      ]
+    },
+    {
+      "point_number": 7,
+      "point_content": "Buy local and organic products to support local farmers, reduce packaging waste, carbon footprint, and fuel used in delivery.",
+      "original_point_number": [
+        7,
+        60,
+        86
+      ]
+    },
+    {
+      "point_number": 8,
+      "point_content": "Use fewer harmful chemicals by opting for natural, organic, ecological, biodegradable, and environmentally favorable products to protect ecosystems, water, gut bacteria, and ocean life.",
+      "original_point_number": [
+        8,
+        16,
+        58,
+        70,
+        87,
+        88
+      ]
+    },
+    {
+      "point_number": 9,
+      "point_content": "Walk, bike, carpool, use public transport, combine errands, shop virtually, or telecommute to reduce carbon emissions and environmental harm from vehicles.",
+      "original_point_number": [
+        9,
+        20,
+        45,
+        63
+      ]
+    },
+    {
+      "point_number": 10,
+      "point_content": "Conserve water by making simple adjustments like turning off taps when not in use, fixing leaks, reducing shower time, using water-saving devices, watering lawns early or late, reusing water for plants, and using rain barrels.",
+      "original_point_number": [
+        10,
+        19,
+        26,
+        44,
+        68,
+        69
+      ]
+    },
+    {
+      "point_number": 11,
+      "point_content": "Use your purchasing power and voice to support sustainable companies and products, speak up to leaders and community to demand environmental action, and be conscious about what you buy.",
+      "original_point_number": [
+        11,
+        37,
+        47,
+        53
+      ]
+    },
+    {
+      "point_number": 12,
+      "point_content": "Conserve electricity by using energy-efficient bulbs, smart power strips, maintaining appliances, turning off and unplugging devices and lights when not in use, adjusting thermostats, and minimizing air conditioning use.",
+      "original_point_number": [
+        12,
+        22,
+        27,
+        31,
+        32,
+        43,
+        67,
+        82,
+        83
+      ]
+    },
+    {
+      "point_number": 13,
+      "point_content": "Eating too much meat, fish, and fruit negatively impacts the environment due to greenhouse gas emissions and land use; limit meat consumption or try Meatless Mondays and move towards a more plant-based diet to reduce environmental impact.",
+      "original_point_number": [
+        13,
+        29,
+        51,
+        85
+      ]
+    },
+    {
+      "point_number": 14,
+      "point_content": "Avoid buying coffee pods, teabags, paper bags, and single-use plastics as they contribute to environmental pollution and waste; use washable and reusable alternatives instead.",
+      "original_point_number": [
+        14,
+        15,
+        59
+      ]
+    },
+    {
+      "point_number": 15,
+      "point_content": "Drink tap water, use reusable glass bottles, or filtered water pitchers instead of bottled water to reduce plastic pollution and health risks.",
+      "original_point_number": [
+        17,
+        72,
+        84
+      ]
+    },
+    {
+      "point_number": 16,
+      "point_content": "Plant trees and pollinator-friendly plants to preserve the environment, provide shade, reduce air conditioning need, and help butterflies, moths, and other pollinators.",
+      "original_point_number": [
+        18,
+        64
+      ]
+    },
+    {
+      "point_number": 17,
+      "point_content": "Minimize food wastage by planning meals, making shopping lists, monitoring trash, donating food, eating leftovers, and composting organic waste.",
+      "original_point_number": [
+        21,
+        52
+      ]
+    },
+    {
+      "point_number": 18,
+      "point_content": "Use a hanging line to air dry clothes instead of using a dryer to save energy.",
+      "original_point_number": [
+        25
+      ]
+    },
+    {
+      "point_number": 19,
+      "point_content": "Do away with mercury products and substitute them with environmentally friendly products.",
+      "original_point_number": [
+        28
+      ]
+    },
+    {
+      "point_number": 20,
+      "point_content": "Use toilet paper sparingly and switch to washable cloths to reduce paper waste.",
+      "original_point_number": [
+        34
+      ]
+    },
+    {
+      "point_number": 21,
+      "point_content": "Properly inflate your tires to save gas and increase tire durability.",
+      "original_point_number": [
+        35
+      ]
+    },
+    {
+      "point_number": 22,
+      "point_content": "Be a mindful customer by buying durable products, renting or borrowing, and recycling or reusing.",
+      "original_point_number": [
+        37
+      ]
+    },
+    {
+      "point_number": 23,
+      "point_content": "Print as little as necessary and share or recycle notes to reduce paper usage and waste.",
+      "original_point_number": [
+        39,
+        42
+      ]
+    },
+    {
+      "point_number": 24,
+      "point_content": "Save electricity by using energy-efficient bulbs and turning off unused appliances and devices.",
+      "original_point_number": [
+        43,
+        82,
+        83
+      ]
+    },
+    {
+      "point_number": 25,
+      "point_content": "Save water by turning off faucets when not in use and limiting water usage.",
+      "original_point_number": [
+        44
+      ]
+    },
+    {
+      "point_number": 26,
+      "point_content": "Eat vegan and wear reusable masks to reduce carbon footprint and waste.",
+      "original_point_number": [
+        46
+      ]
+    },
+    {
+      "point_number": 27,
+      "point_content": "Be informed about environmental issues, stay informed by reading reports, and be politically engaged by voting and holding politicians accountable to better influence others and make informed decisions.",
+      "original_point_number": [
+        48,
+        49,
+        55
+      ]
+    },
+    {
+      "point_number": 28,
+      "point_content": "Travel responsibly by choosing sustainable transport options and reducing flights.",
+      "original_point_number": [
+        50
+      ]
+    },
+    {
+      "point_number": 29,
+      "point_content": "Reduce your waste by recycling, upcycling, minimizing food waste, and composting organic waste.",
+      "original_point_number": [
+        52
+      ]
+    },
+    {
+      "point_number": 30,
+      "point_content": "Donate to organizations like WWF to support conservation projects and environmental causes.",
+      "original_point_number": [
+        54
+      ]
+    },
+    {
+      "point_number": 31,
+      "point_content": "Volunteer locally or with conservation projects to help restore nature, gain conservation experience, and contribute to conservation efforts.",
+      "original_point_number": [
+        56,
+        65
+      ]
+    },
+    {
+      "point_number": 32,
+      "point_content": "Avoid peat-based compost to help protect peatland bogs which store carbon and reduce flooding risk.",
+      "original_point_number": [
+        57
+      ]
+    },
+    {
+      "point_number": 33,
+      "point_content": "Keep your garden or greenspace chemical free to protect butterflies, moths, and other pollinating insects.",
+      "original_point_number": [
+        58
+      ]
+    },
+    {
+      "point_number": 34,
+      "point_content": "Pick up litter during walks to keep the environment cleaner and set a good example.",
+      "original_point_number": [
+        76
+      ]
+    },
+    {
+      "point_number": 35,
+      "point_content": "Make homemade desserts instead of using boxed mixes to avoid chemicals and save money.",
+      "original_point_number": [
+        77
+      ]
+    },
+    {
+      "point_number": 36,
+      "point_content": "Bring your own bags or use reusable shopping bags to cut down on the number of bags needed, reduce plastic bag waste, litter, and prevent harm to animals.",
+      "original_point_number": [
+        38,
+        78,
+        79
+      ]
+    },
+    {
+      "point_number": 37,
+      "point_content": "Grow your own food and plant your own vegetables using heirloom seeds and organic methods to support sustainability, release oxygen, and replenish the soil.",
+      "original_point_number": [
+        74,
+        80
+      ]
+    },
+    {
+      "point_number": 38,
+      "point_content": "Spend time in your garden to cultivate plants and reduce use of electronics, exercising without electronic machines to save energy.",
+      "original_point_number": [
+        33,
+        81
+      ]
+    },
+    {
+      "point_number": 39,
+      "point_content": "Use natural cleaning products and cloth instead of harsh chemicals and paper towels to protect the environment and gut bacteria.",
+      "original_point_number": [
+        87
+      ]
+    },
+    {
+      "point_number": 40,
+      "point_content": "Use natural sunscreen to avoid harmful effects on ocean life and coral reefs.",
+      "original_point_number": [
+        88
+      ]
+    }
+  ]
+}

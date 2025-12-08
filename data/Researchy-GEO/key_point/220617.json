@@ -1,0 +1,220 @@
+{
+  "question": "what factors affect sense of self?",
+  "key_points": {
+    "clueweb22-en0034-97-04728": [
+      {
+        "point_number": 1,
+        "point_content": "Genetic factors significantly affect self-esteem, with higher heritability estimates in boys than girls at ages 14 and 17.",
+        "spans": [
+          "a 2 self-esteem 14y\n0.62\n0.56–0.68",
+          "a 2 self-esteem 17y\n0.48\n0.39–0.56",
+          "a 2 self-esteem 14y\n0.40\n0.26–0.54",
+          "a 2 self-esteem 17y\n0.29\n0.11–0.45"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Shared environmental factors affect self-esteem more in girls than boys, especially at age 14 and 17.",
+        "spans": [
+          "c 2 self-esteem 14y\n-\n0.31\n0.18–0.42",
+          "c 2 self-esteem 17y\n-\n0.34\n0.21–0.47"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Non-shared environmental factors contribute to self-esteem variance in both boys and girls at ages 14 and 17.",
+        "spans": [
+          "e 2 self-esteem 14y\n0.38\n0.32–0.44",
+          "e 2 self-esteem 17y\n0.52\n0.44–0.61",
+          "e 2 self-esteem 14y\n0.30\n0.25–0.35",
+          "e 2 self-esteem 17y\n0.37\n0.30–0.46"
+        ]
+      }
+    ],
+    "clueweb22-en0034-90-11400": [
+      {
+        "point_number": 1,
+        "point_content": "Several major factors affect self esteem including appearance, employment, financial difficulties, possessions, age, relationships, education and family.",
+        "spans": [
+          "There are several major factors that affect self esteem. These factors include appearance, employment, financial difficulties, possessions, age, relationships, education and family."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Self-esteem is primarily related to how people perceive their own appearance, especially in women and adolescents.",
+        "spans": [
+          "For most people, self-esteem, according to VeryWellMind is primarily related to how they perceive their own appearance.",
+          "Appearance is indeed a major factor that affects self esteem, particularly women, according to this article by Susan Harter.",
+          "In her article she outlines how this problem often begins in adolescents, and especially in girls who compare their perceived attractiveness to that of others."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Employment status is commonly thought to affect self-esteem, but studies show no clear link between employment status and self-esteem.",
+        "spans": [
+          "Does employment status affect self esteem? It is commonly stated that it does, and this would seem logical but is it true?",
+          "According to Shamir (1986), although this appears to be accepted without question, there have been very few studies done on this.",
+          "Hartley’s study found no clear link between unemployed and employed managers, and no expected decrease in self esteem for those managers who were unemployment for a longer period."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Financial difficulties can negatively impact self-esteem, especially if one feels overwhelmed and unable to cope with financial problems.",
+        "spans": [
+          "There is a connection between finances and self esteem.",
+          "If one feels overwhelmed by financial problems and there seems to be no way to manage this, then self esteem can take a tumble."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Material possessions can affect self-esteem for those who believe possessions improve social acceptance, but this effect is short-lived.",
+        "spans": [
+          "Material possessions are one of the main factors that affect self esteem because they indicate status.",
+          "However, this only applies to those who believe that material possessions improve how we are accepted by others."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Age affects self-esteem, with self-esteem generally high in children, dropping in adolescence, rising in adults, and falling in old age.",
+        "spans": [
+          "Generally, irrespective of culture, nationality, race or economic status, self esteem is high in younger children, it drops during adolescence, rises steadily in adults but falls in old age."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Lack of a relationship can negatively impact self-esteem, but self-worth is not based on another person or their opinion.",
+        "spans": [
+          "If you’re single or have just gotten out of a relationship, it can seem like everyone has the perfect relationship except you.",
+          "Your worth is not based on another person or their opinion of you."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Education can boost self-confidence and self-esteem by improving skills and qualifications.",
+        "spans": [
+          "Education can boost self confidence",
+          "It’s never too late to get that degree or become certified in something that really interests you and takes your job to a new level."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Support from friends and family helps self-confidence, and lack of support can be a challenge.",
+        "spans": [
+          "Having support from a spouse, family or friends certainly helps",
+          "Those without the important support that friends and family can give have an extra challenge."
+        ]
+      }
+    ],
+    "clueweb22-en0016-74-11674": [
+      {
+        "point_number": 1,
+        "point_content": "Various factors that can affect self-concept include age, sexual orientation, gender and religion.",
+        "spans": [
+          "There are various factors that can affect self-concept, these include: age, sexual orientation, gender and religion."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Parents/carers teaching problem solving skills from a young age can lead to a positive self-esteem, while learning difficulties at school can lead to negative self-esteem.",
+        "spans": [
+          "Parents/carers teaching problem solving skills from a young age (so that a child feels a sense of achievement) can lead to a positive self-esteem.",
+          "Learning difficulties at school can lead to a child struggling to complete work or maintain friendships, which can lead to negative self-esteem."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Self-image is influenced by experiences and social interactions, such as positive comments from parents and life events like being a team captain or being bullied.",
+        "spans": [
+          "An individual’s self-image is developed over time and influenced by the experiences they have encountered.",
+          "Early childhood experiences and social interactions eg parents who pass positive comments to a child can help contribute to a positive self-image.",
+          "Life events or roles eg a child who is captain of the rugby team is more likely to have a positive self-image that a child who is bullied at school"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Emotional development and self-esteem are affected by life stages and experiences such as secure attachments in infancy, support and problem solving in early childhood, stress, bullying, peer pressure and media in adolescence, and achievements in adulthood.",
+        "spans": [
+          "During this stage, infants develop a sense of self and positive self-esteem through secure attachments with their caregivers.",
+          "By the age of four, the child’s self-esteem develops further through the support they receive outside of the family.",
+          "Several factors affect self-esteem during adolescence. These can include stress within the home, or at school, or a combination of the two.",
+          "Being bullied or not being accepted by your peers can have detrimental effects on a young person’s self-esteem and can feed into way they feel about themselves.",
+          "This can be intensified by peer pressure, the use of images in the media, social media and the increase in cyberbullying.",
+          "Self-esteem continues to develop through adulthood and an individual’s self-esteem may increase through the achievements they have made which, in turn, increases self-worth."
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0014-88-14597": [
+      {
+        "point_number": 1,
+        "point_content": "Childhood experiences and the behavior of parents, teachers, and coaches influence self-esteem development.",
+        "spans": [
+          "When we are children, we’re still developing into our personalities, trying to figure out who we truly are.",
+          "For example, did you have parents that gave you praise, or were they constantly critical of you? Did you have teachers or coaches that supported you? Did your parents role model having healthy self-esteem themselves?"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Societal expectations and pressures impact self-confidence and self-esteem.",
+        "spans": [
+          "Everyday we’re inundated with messages from society about who and what we should be.",
+          "There are many unrealistic expectations that society puts on us. Societal expectations that are unrealistic can include anything like what job you should have (and at what point in your life,) when you should be married (and who and what they should look like,) what kind of clothes you should wear, and how much money you should make."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Media and advertisements influence body image and self-confidence, often promoting unrealistic standards.",
+        "spans": [
+          "Every picture we see on social media. Every TV show and movie we watch on Netflix. Even the articles we read for fun. We are constantly being bombarded by advertisements everywhere we go.",
+          "Most of these sneaky advertisements are getting the subliminal message across that you are inadequate and the way to be better or feel better is to purchase the product they are promoting."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The people in your life, such as friends, family, and romantic partners, heavily influence your self-worth.",
+        "spans": [
+          "We spend a lot of time with our friends, family, and romantic partners and they can heavily influence our self-esteem.",
+          "Are the people in your life supportive of you? Do they build you up, or drag you down?"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Ultimately, the most important factor influencing self-esteem is the individual’s own control and decision to improve it.",
+        "spans": [
+          "As a therapist and counselor, I stress to my clients that ultimately the most important influential factor to your self-esteem is YOU.",
+          "You can decide to take control and make a change to start having a healthy self-esteem."
+        ]
+      }
+    ],
+    "clueweb22-en0008-22-13337": [
+      {
+        "point_number": 1,
+        "point_content": "Positive, mastery experiences that give students a sense of accomplishment when they have faced a challenge affect self-efficacy.",
+        "spans": [
+          "Positive, mastery experiences that give students a sense of accomplishment when they have faced a challenge"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Positive, vicarious experiences that occur when students see others succeed and feel an increased sense of their own ability to succeed affect self-efficacy.",
+        "spans": [
+          "Positive, vicarious experiences that occur when students see others succeed and feel an increased sense of their own ability to succeed"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Social persuasion, where other people either increase or decrease a student’s sense of confidence and ability to succeed, affects self-efficacy.",
+        "spans": [
+          "Social persuasion, where other people either increase or decrease a student’s sense of confidence and ability to succeed"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Negative, physiological reactions that might occur as a result of stress, depression, or anxiety affect self-efficacy.",
+        "spans": [
+          "Negative, physiological reactions that might occur as a result of stress, depression, or anxiety"
+        ]
+      }
+    ]
+  }
+}

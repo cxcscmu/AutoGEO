@@ -1,0 +1,76 @@
+{
+  "question": "what experiences help children differentiate moral imperatives, social conventions, and matters of personal choice?",
+  "key_points": {
+    "null": [],
+    "clueweb22-en0016-90-03792": [
+      {
+        "point_number": 1,
+        "point_content": "Rules set by parents or other authoritative figures help children differentiate moral imperatives, social conventions, and matters of personal choice.",
+        "spans": [
+          "Rules that parents or other authoritative figure has set"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Children think that authority figures such as parents and teachers have rules that young people must follow absolutely, viewing rules as unchangeable guidelines.",
+        "spans": [
+          "Children think that authority figures such as parents and teachers have rules that young people must follow absolutely.",
+          "Rules are thought of as unchangeable guidelines rather than evolving ,negotiable or situational."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Punishment and obedience orientation helps children understand moral behavior by fearing authority and trying to avoid punishment.",
+        "spans": [
+          "Punishment and obedience orientation",
+          "Young children behave morally because they fear authority and try to avoid punishment.",
+          "With punishment, young children can understand the difference between \"good\" and \"bad\" behavior and this understanding provides the basis for more complicated moral thinking in the future."
+        ]
+      }
+    ],
+    "clueweb22-en0000-88-10950": [
+      {
+        "point_number": 1,
+        "point_content": "Children instinctively distinguish between personal, social and moral domains.",
+        "spans": [
+          "Children instinctively distinguish between personal, social and moral domains"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Children identify morality with those actions that have an intrinsic effect on the welfare of others.",
+        "spans": [
+          "Children identify morality with those actions that have an intrinsic effect on the welfare of others"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Children everywhere make these same distinctions and do so without rules telling that it is so.",
+        "spans": [
+          "children everywhere make these same distinctions and do so without rules telling that it is so"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Children distinguish between rules that are in the moral domain and those that are social conventions.",
+        "spans": [
+          "Children distinguish between rules that are in the moral domain and those that are social conventions"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "In justifying moral behavior, the criteria refer to the benefit or harm or the fairness or unfairness that the action would cause.",
+        "spans": [
+          "In justifying moral behavior, the criteria refer to the benefit or harm or the fairness or unfairness that the action would cause"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "For conventional issues, they turn to the norms and expectations of authority.",
+        "spans": [
+          "For conventional issues, they turn to the norms and expectations of authority"
+        ]
+      }
+    ]
+  }
+}

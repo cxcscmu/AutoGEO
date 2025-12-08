@@ -1,0 +1,102 @@
+{
+  "question": "how does the executive compensation issue relate to equity theory?",
+  "key_points": {
+    "null": [],
+    "clueweb22-en0046-23-14759": [
+      {
+        "point_number": 1,
+        "point_content": "Executive compensation is influenced by multiple conflicting forces including shareholders' desire to maximize firm value and executives' desire to maximize their rents.",
+        "spans": [
+          "Observed compensation arrangements result from a combination of potentially conflicting forces—shareholders’ desire to maximize firm value, executives’ desire to maximize their rents"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Shareholder value models explain executive pay as contracts chosen to maximize shareholder value, providing adequate incentives to executives.",
+        "spans": [
+          "One is the “shareholder value” view, which argues that compensation contracts are chosen to maximize value for shareholders, taking into account the competitive market for executives and the need to provide adequate incentives"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Rent extraction view argues that executives set contracts to maximize their own rents, which can lead to pay for non-performance and poor governance.",
+        "spans": [
+          "Section 4 discusses the “rent extraction” view, which argues that contracts are set by executives themselves to maximize their own rents"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Theories of executive pay must consider the specific features of executives' jobs, such as their scarcity and impact on firm value, which affects optimal contracts.",
+        "spans": [
+          "Theories of executive pay must take into account the specific features of executives’ jobs; models of the general principal-agent problem are not automatically applicable to executives. For example, the skills of executives may be particularly scarce, and CEOs have a much larger impact on firm value than rank-and-file employees, which can fundamentally change the nature of the optimal contract."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Attempts to improve CEO pay should focus on incentives created, especially sensitivity of CEO wealth to long-term performance, rather than just pay level.",
+        "spans": [
+          "Attempts to improve CEO pay should focus on the incentives created, and especially on the sensitivity of CEO wealth to long-term performance. The level of pay receives the most criticism, but usually amounts to only a small fraction of firm value."
+        ]
+      }
+    ],
+    "clueweb22-en0041-58-15266": [
+      {
+        "point_number": 1,
+        "point_content": "Equity theory relates to executive compensation by conceptualizing fairness as the balance between outputs (salaries) and inputs (responsibility and tasks).",
+        "spans": [
+          "More generally, the current ratio in compensation levels can also be discussed from an equity theory point of view.",
+          "In the context of organizational (distributive) justice, equity theory is conceptualized as fairness associated with outputs compared to the inputs.",
+          "Salaries can be seen as the outputs here whereas the input can be seen as the magnitude of the responsibility and tasks an organizational member has."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The large difference in responsibilities and consequences between CEOs and floor employees justifies the higher CEO pay according to equity theory.",
+        "spans": [
+          "It may be obvious that a floor employee performing a single task in a factory over and over demands less sense of responsibility and prior knowlegde and experience than the task of a CEO who has to make daily decisions which influence thousands of people (if not more), varying from internal stakeholders like employees and shareholders to external stakeholders like customers, suppliers or even society at large!",
+          "Mistakes made by CEOs therefore have way larger consequences for the firm and could potentially cost millions of euros.",
+          "Based on these huge differences in responsibilities, it only seems logical that CEOs are getting paid significantly more than their collegues on the workfloor."
+        ]
+      }
+    ],
+    "clueweb22-en0020-94-15008": [
+      {
+        "point_number": 1,
+        "point_content": "Equity Theory is based on the idea that individuals are motivated by fairness.",
+        "spans": [
+          "Equity Theory is based on the idea that individuals are motivated by fairness."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "If an employee learns that a peer doing exactly the same job as them is earning more money, then they may choose to do less work, thus creating fairness in their eyes.",
+        "spans": [
+          "if an employee learns that a peer doing exactly the same job as them is earning more money, then they may choose to do less work, thus creating fairness in their eyes."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Individuals will adjust their inputs so that their perceived equity (outputs divided by inputs) is balanced relative to others.",
+        "spans": [
+          "Adam’s Equity Theory goes a step further and states that individuals don’t just understand equity in isolation, instead they look around and compare themselves to others. If they perceive an inequity then they will adjust their inputs to restore balance.",
+          "Essentially, what we are saying is that individuals will always adjust their inputs so that the equation is always in balance."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Employees compare their inputs and outputs to others inside and outside the organization to assess fairness.",
+        "spans": [
+          "Adam’s Equity Theory still holds even when people compare themselves to others doing very different roles and earning very different compensation.",
+          "Employees will compare themselves to other groups both inside and outside of the organization."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Excessive pay for senior people can be demotivating, showing how executive compensation relates to perceived fairness in equity theory.",
+        "spans": [
+          "Although it is understandable that more senior staff earn significantly more, there are limits, and excessive pay for senior people can be demotivating."
+        ]
+      }
+    ]
+  }
+}

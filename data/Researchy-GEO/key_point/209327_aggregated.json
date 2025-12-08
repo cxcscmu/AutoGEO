@@ -1,0 +1,158 @@
+{
+  "question": "which best practices can help defend against social engineering attacks?",
+  "key_points": [
+    {
+      "point_number": 1,
+      "point_content": "Educate employees regarding policies and the latest social engineering threats, provide good awareness training, and give employees a sense of ownership when it comes to security.",
+      "original_point_number": [
+        1,
+        6,
+        10,
+        30,
+        32
+      ]
+    },
+    {
+      "point_number": 2,
+      "point_content": "Resist the urge to click on enticing web links and think before clicking on emails, social media requests, or attachments you are not familiar with or expecting.",
+      "original_point_number": [
+        1,
+        7,
+        12
+      ]
+    },
+    {
+      "point_number": 3,
+      "point_content": "Set spam filters to high to keep away from spam messages.",
+      "original_point_number": [
+        2
+      ]
+    },
+    {
+      "point_number": 4,
+      "point_content": "Never use the same password for different accounts to prevent multiple account hacks, use a password manager and strong passwords with a mix of characters and phrases, and give false answers for password recovery options and store them in a password manager.",
+      "original_point_number": [
+        3,
+        16,
+        23
+      ]
+    },
+    {
+      "point_number": 5,
+      "point_content": "Use two-factor or multi-factor authentication for additional security layers.",
+      "original_point_number": [
+        4,
+        17
+      ]
+    },
+    {
+      "point_number": 6,
+      "point_content": "Change passwords immediately if you suspect they have been compromised.",
+      "original_point_number": [
+        5
+      ]
+    },
+    {
+      "point_number": 7,
+      "point_content": "Enable a policy that states that the IT department should supply information over the phone only to managers, and do not provide password resets in a chat window.",
+      "original_point_number": [
+        8,
+        9
+      ]
+    },
+    {
+      "point_number": 8,
+      "point_content": "Review the entire URL, along with the padlock, before using the website to confirm authenticity.",
+      "original_point_number": [
+        11
+      ]
+    },
+    {
+      "point_number": 9,
+      "point_content": "Do not share any information without confirming the legitimacy of who is asking.",
+      "original_point_number": [
+        13
+      ]
+    },
+    {
+      "point_number": 10,
+      "point_content": "Log out/sign out or lock your computer when away, especially on public computers.",
+      "original_point_number": [
+        14
+      ]
+    },
+    {
+      "point_number": 11,
+      "point_content": "Keep your operating system and mobile apps updated and patched, and keep your software up to date.",
+      "original_point_number": [
+        15,
+        31
+      ]
+    },
+    {
+      "point_number": 12,
+      "point_content": "Enable whole-disk encryption on smartphones, laptops, tablets to protect information if devices are stolen.",
+      "original_point_number": [
+        18
+      ]
+    },
+    {
+      "point_number": 13,
+      "point_content": "Do not share accounts or passwords for email, social media, or online banking.",
+      "original_point_number": [
+        19
+      ]
+    },
+    {
+      "point_number": 14,
+      "point_content": "Clear your Internet history and cookies after online banking sessions.",
+      "original_point_number": [
+        20
+      ]
+    },
+    {
+      "point_number": 15,
+      "point_content": "Avoid sending sensitive information over email or posting on social networking sites.",
+      "original_point_number": [
+        21
+      ]
+    },
+    {
+      "point_number": 16,
+      "point_content": "Close old accounts and apps and delete personal information from them.",
+      "original_point_number": [
+        22
+      ]
+    },
+    {
+      "point_number": 17,
+      "point_content": "Do not enable auto login on apps or browsers to prevent automatic access if devices are compromised.",
+      "original_point_number": [
+        24
+      ]
+    },
+    {
+      "point_number": 18,
+      "point_content": "Never discard intact removable media or computers containing personal information without physically destroying them.",
+      "original_point_number": [
+        25
+      ]
+    },
+    {
+      "point_number": 19,
+      "point_content": "Avoid using public WiFi connections or use a VPN if necessary.",
+      "original_point_number": [
+        26
+      ]
+    },
+    {
+      "point_number": 20,
+      "point_content": "Educate yourself, be aware of the information you're releasing, and determine which of your assets are most valuable to criminals.",
+      "original_point_number": [
+        27,
+        28,
+        29
+      ]
+    }
+  ]
+}

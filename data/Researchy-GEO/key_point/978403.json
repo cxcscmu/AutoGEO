@@ -1,0 +1,101 @@
+{
+  "question": "are bsl laws causing more harm than good?",
+  "key_points": {
+    "null": [],
+    "clueweb22-en0027-76-06710": [
+      {
+        "point_number": 1,
+        "point_content": "BSL bans or restricts ownership of certain dogs based on appearance, presuming some breeds are more dangerous.",
+        "spans": [
+          "Breed Specific Legislation or “BSL” is a law that either bans or restricts ownership of certain dogs based on their appearance."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "BSL laws have led to dire consequences for thousands of pets and families, causing conflict, litigation, and protest.",
+        "spans": [
+          "As mentioned, BSL has been around in some form for over thirty years. It has led to dire consequences for thousands of pets and families across the United States. This has inevitably led to conflict, litigation, and protest from dog owners and breed advocates."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Ordinances outlawing pit bulls have clashed with disability rights by discriminating against owners with service dogs of certain breeds.",
+        "spans": [
+          "Ordinances outlawing pit bulls have at times clashed with disability rights by discriminating against owners with service dogs of a certain breed."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Pit bulls remain popular pets but are most common in shelters and least likely to be adopted, facing barriers due to BSL.",
+        "spans": [
+          "Despite long-standing BSL, pit bulls have remained a popular choice as family pets and loyal companions. They are also the dogs most commonly seen in shelters, as well as the least likely to be adopted. Their legal status remains at issue in subsequent the fall out of BSL in the form of barriers to housing, insurability, liability and social stigma."
+        ]
+      }
+    ],
+    "clueweb22-en0016-57-06100": [
+      {
+        "point_number": 1,
+        "point_content": "Breed-specific legislation (BSL) is the blanket term for laws that either regulate or ban certain dog breeds in an effort to decrease dog attacks on humans and other animals.",
+        "spans": [
+          "Breed-specific legislation (BSL) is the blanket term for laws that either regulate or ban certain dog breeds in an effort to decrease dog attacks on humans and other animals."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "There is no evidence that breed-specific laws make communities safer for people or companion animals.",
+        "spans": [
+          "There is no evidence that breed-specific laws make communities safer for people or companion animals."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The CDC decided to strongly oppose BSL due to problems including the inaccuracy of dog bite data and the difficulty in identifying dog breeds.",
+        "spans": [
+          "Following a thorough study of human fatalities resulting from dog bites, the Centers for Disease Control and Prevention (CDC) decided to strongly oppose BSL.",
+          "The CDC cited, among other problems, the inaccuracy of dog bite data and the difficulty in identifying dog breeds (especially true of mixed-breed dogs)."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Breed-specific laws are costly and difficult to enforce.",
+        "spans": [
+          "Breed-specific laws are also costly and difficult to enforce."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "BSL causes negative consequences including dogs suffering due to restricted exercise and care, owners facing housing issues and legal fees, and public safety suffering due to misallocation of animal control resources.",
+        "spans": [
+          "BSL carries a host of negative and wholly unintended consequences:",
+          "Dogs Suffer. Rather than give up beloved pets, owners of highly regulated or banned breeds often attempt to avoid detection by restricting their dogs’ outdoor exercise and socialization—forgoing licensing, microchipping and proper veterinary care, and avoiding spay/neuter surgery and essential vaccinations.",
+          "Owners Suffer. Responsible owners of entirely friendly, properly supervised and well-socialized dogs who happen to fall within the regulated breed are required to comply with local breed bans and regulations. This can lead to housing issues, legal fees or even relinquishment of the animal.",
+          "Public Safety Suffers. Breed-specific laws have a tendency to compromise rather than enhance public safety. When animal control resources are used to regulate or ban a certain breed, the focus is shifted away from effective enforcement of laws that have the best chances of making communities safer: dog license laws, leash laws, anti-animal fighting laws, anti-tethering laws, laws facilitating spaying and neutering and laws that require all owners to control their dogs, regardless of breed."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Breed-specific laws may encourage irresponsible dog ownership and have unintended consequences such as attracting 'outlaw' owners and shifting aggression to unregulated breeds.",
+        "spans": [
+          "Breed-specific laws may also have the unintended consequence of encouraging irresponsible dog ownership.",
+          "As certain breeds are regulated, individuals who exploit aggression in dogs are likely to turn to other, unregulated breeds.",
+          "Conversely “outlaws” may be attracted to the “outlaw” status of certain breeds."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "There is no convincing data to indicate that breed-specific legislation has succeeded anywhere to date.",
+        "spans": [
+          "There is no convincing data to indicate that breed-specific legislation has succeeded anywhere to date."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "The CDC notes many factors beyond breed affect a dog’s aggression, and breed-neutral laws focusing on behavior and responsible ownership are more effective.",
+        "spans": [
+          "The CDC has noted that many other factors beyond breed may affect a dog’s tendency toward aggression—things such as heredity, sex, early experience, reproductive status, socialization and training.",
+          "Conversely, studies can be referenced that point to clear, positive effects of carefully crafted breed-neutral laws."
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,532 @@
+{
+  "question": "how have covid shutdowns, virtual school, and remote work changed our relationship to technology?",
+  "key_points": {
+    "clueweb22-en0008-34-15975": [
+      {
+        "point_number": 1,
+        "point_content": "The COVID-19 pandemic has resulted in schools shut all across the world, leading to a dramatic change in education with the rise of e-learning, whereby teaching is undertaken remotely and on digital platforms.",
+        "spans": [
+          "The COVID-19 pandemic has changed education forever.",
+          "The COVID-19 has resulted in schools shut all across the world.",
+          "education has changed dramatically, with the distinctive rise of e-learning, whereby teaching is undertaken remotely and on digital platforms."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "There has been a significant surge in usage of education technology such as language apps, virtual tutoring, video conferencing tools, and online learning software since COVID-19.",
+        "spans": [
+          "Whether it is language apps, virtual tutoring, video conferencing tools, or online learning software, there has been a significant surge in usage since COVID-19."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Online learning platforms have expanded rapidly, offering free access and increasing student engagement significantly during the pandemic.",
+        "spans": [
+          "many online learning platforms are offering free access to their services",
+          "BYJU’s has seen a 200% increase in the number of new students using its product"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Companies have bolstered capabilities to provide comprehensive digital tools for education and remote work, including video conferencing, real-time collaboration, and rapid cloud server expansion.",
+        "spans": [
+          "Lark, a Singapore-based collaboration suite ... began offering teachers and students unlimited video conferencing time, auto-translation capabilities, real-time co-editing of project work, and smart calendar scheduling",
+          "Alibaba’s distance learning solution, DingTalk, had to prepare for a similar influx: “To support large-scale remote work, the platform tapped Alibaba Cloud to deploy more than 100,000 new cloud servers in just two hours last month"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The pandemic has accelerated the integration of information technology in education, with online education becoming an integral component of school education.",
+        "spans": [
+          "I believe that the integration of information technology in education will be further accelerated and that online education will eventually become an integral component of school education"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Online learning can be more effective, with students retaining more material and learning faster than in traditional classrooms, due to the ability to learn at their own pace.",
+        "spans": [
+          "Some research shows that on average, students retain 25-60% more material when learning online compared to only 8-10% in a classroom.",
+          "e-learning requires 40-60% less time to learn than in a traditional classroom setting because students can learn at their own pace"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Technology has changed the way teaching is conducted, enabling more efficient and effective communication and interaction between teachers and students.",
+        "spans": [
+          "It has changed the way of teaching. It enables me to reach out to my students more efficiently and effectively through chat groups, video meetings, voting and also document sharing"
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "There are challenges such as the digital divide, where some students lack reliable internet access or technology, affecting their ability to participate in digital learning.",
+        "spans": [
+          "Some students without reliable internet access and/or technology struggle to participate in digital learning",
+          "there is a significant gap between those from privileged and disadvantaged backgrounds"
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "The pandemic has disrupted traditional education systems and may catalyze a shift towards new, more effective methods of educating students, integrating online learning as part of the 'new normal'.",
+        "spans": [
+          "this pandemic has utterly disrupted an education system that many assert was already losing its relevance",
+          "others plan to make e-learning part of their ‘new normal’ after experiencing the benefits first-hand"
+        ]
+      }
+    ],
+    "clueweb22-en0021-36-03812": [
+      {
+        "point_number": 1,
+        "point_content": "The COVID-19 pandemic forced a rapid conversion of most instruction to an online platform this academic year.",
+        "spans": [
+          "the rapid conversion of most instruction to an online platform this academic year"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "There is uncertainty about how school closures last spring impacted student achievement and how online instruction will continue to affect achievement.",
+        "spans": [
+          "there is uncertainty about how school closures last spring impacted student achievement, as well as how the rapid conversion of most instruction to an online platform this academic year will continue to affect achievement"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Students in grades 3-8 performed similarly in reading in fall 2020 compared to fall 2019, possibly because students read more on their own and parents are better equipped to support reading.",
+        "spans": [
+          "Students in grades 3-8 performed similarly in reading to same-grade students in fall 2019",
+          "students read more on their own, and parents are better equipped to support learning in reading"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Math achievement of students in 2020 was about 5 to 10 percentile points lower compared to same-grade students the prior year.",
+        "spans": [
+          "the math achievement of students in 2020 was about 5 to 10 percentile points lower compared to same-grade students the prior year"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Most students made some learning gains in both reading and math since the COVID-19 pandemic started, though gains were smaller in math in 2020 relative to a typical year.",
+        "spans": [
+          "the majority of students made some learning gains in both reading and math since the COVID-19 pandemic started, though gains were smaller in math in 2020 relative to the gains students in the same grades made in the winter 2019-fall 2019 period"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "There is no evidence that within-student change in learning gains/losses is more spread out in 2020 compared to pre-pandemic 2019, despite speculation about unequal opportunities due to technology access and parental support.",
+        "spans": [
+          "we do not see evidence that within-student change is more spread out this year relative to the pre-pandemic 2019 distribution"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Some students lacked reliable technology or disengaged from school due to economic, health, or other factors during the pandemic.",
+        "spans": [
+          "some students lacked reliable technology",
+          "they disengaged from school due to economic, health, or other factors"
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Educators have more experience with remote instruction now than when the pandemic forced schools to close in spring 2020, but the collective shock is ongoing.",
+        "spans": [
+          "more students are back in schools now and educators have more experience with remote instruction than when the pandemic forced schools to close in spring 2020, the collective shock we are experiencing is ongoing"
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0025-41-04805": [
+      {
+        "point_number": 1,
+        "point_content": "COVID-19 forced kids to open their laptops and learn from home, changing the traditional first day of school and the classroom experience.",
+        "spans": [
+          "Before COVID-19 disrupted our lives and forced our kids to open their laptops and learn from home, the first day of school was a rite of passage",
+          "Schools, colleges, and universities around the world were closed when COVID-19 struck. But lessons didn’t stop when innovative educators turned to remote learning technologies."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Remote learning technologies enabled millions of students to continue education virtually during school closures.",
+        "spans": [
+          "Through the crisis, millions of students across Asia and the Pacific have been learning and studying using new collaborative digital tools and resources on a massive scale.",
+          "In Taiwan, 2.5 million students and 200,000 teachers have kept up with their lessons via Microsoft Teams.",
+          "In South Korea, Microsoft Azure helped authorities to expand the country’s remote learning capacity by 500 times within two weeks so that more than 3 million students could access its online resources.",
+          "Education ministries in Malaysia and the Philippines have also turned Teams to conduct training sessions, share information, and check in regularly with thousands of teachers who have made the rapid transition to remote lessons.",
+          "Hong Kong’s Christian and Missionary Alliance Sun Kei Primary School switched to remote learning within a matter of days after the territory’s students were ordered to stay home."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Technology has the potential to transform education from a teaching culture to a learning culture, enabling personalized, flexible, and collaborative learning experiences.",
+        "spans": [
+          "Tierney and others want a systemic shift in which education will move away from “a teaching culture to a learning culture.”",
+          "Students will be empowered to learn for themselves in flexible, often collaborative ways, both inside and outside classrooms at their own pace.",
+          "Teachers will have access to individualized real-time data on how well each of their students is progressing – scholastically and emotionally – so they can devise new challenges and offer appropriate support for each child to move ahead.",
+          "Parents will be better connected to, and involved with, their child’s education with certainty, detail, and confidence."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The traditional classroom model is changing, with technology enabling learning beyond physical classroom walls and more flexible learning spaces.",
+        "spans": [
+          "The classroom, as we have known it for centuries, will also be re-imagined.",
+          "Anthony Salcito, Vice-President of Education at Microsoft, predicts technology will see schools morphing into “learning hubs.”",
+          "Tierney also sees the physical formality of classroom culture melting away.",
+          "“The classroom was important when you had to broadcast a certain message at a certain time to a certain group of kids. You had to have them in proximity. But this management and teaching model doesn’t have to dominate anymore,” he explains.",
+          "“Now we can rethink that model. It can be multiple teachers with multiple kids. They can be places where kids can move around more flexibly. They don’t have to do the same thing at the same time in the same way."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Technology enables personalized learning by providing real-time data to teachers, allowing them to support students holistically including academic and emotional needs.",
+        "spans": [
+          "Perhaps technology’s most direct impact will be the emergence of “personalized learning” where each student enjoys focused individual attention from teachers who will access real-time data on their progress and problems.",
+          "“Knowing what is happening in the lives of each student might spell the difference between a toxic path and a prosperous path in the future. With data-rich models, we can help support kids holistically.”",
+          "“Technology can recognize patterns and certain conditions that might need intervention. We can become much better at supporting them.",
+          "“It will also help teachers stay on top of, and adjust to, factors that affect social and emotional well-being. Teachers will be able to ensure students feel inspired, safe, valued, and able to learn in ways previously not possible.”"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Real-time data and personalized learning could replace traditional testing cycles with continuous assessment.",
+        "spans": [
+          "Personalized learning and real-time data could also see an end to the current cycle of lessons and tests.",
+          "“A test gives a teacher a snapshot in time about a whole bunch of kids. But once you have the results, it can be very difficult to adjust your teaching to address shortfalls because it is too late,” he says.",
+          "“Whereas if we are measuring all the time in real time, we know exactly where every child is because each will be on a continuum at any point in time. So they will still be graded, but based on real-time assessment that looks at a much deeper range of intelligences.”"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Teachers need to adapt to new roles as model learners and facilitators of personalized learning, learning alongside students and embracing new technology.",
+        "spans": [
+          "“There are teachers who teach in the traditional way. And there are great teachers who are also model learners. They learn with the kids.",
+          "“Overall, it means inspiring students onto a path of lifelong self-learning. And that can include learning about new technology, which they can learn with the kids.",
+          "“When traditional teaching is your paradigm, you can get trapped inside a rigid mindset of feeling that you must know everything about the subjects you teach and that you can’t show weakness.”",
+          "“A teacher should be an expert in learning and demonstrate the habits of mind that require great learning. They should be a model on these things for their students.”"
+        ]
+      }
+    ],
+    "clueweb22-en0035-64-01832": [
+      {
+        "point_number": 1,
+        "point_content": "Businesses and educational institutions across the world are rapidly responding to the COVID-19 pandemic by implementing travel restrictions and work from home (WFH) and remote learning policies.",
+        "spans": [
+          "Businesses and educational institutions across the world are rapidly responding to the COVID-19 pandemic by implementing travel restrictions and work from home (WFH) and remote learning policies."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The COVID-19 crisis is expected to have a lasting impact on how organizations view remote work — changing with it the communications and collaboration industry forever.",
+        "spans": [
+          "The COVID-19 crisis is expected to have a lasting impact on how organizations view remote work — changing with it the communications and collaboration industry forever."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Frost & Sullivan’s early data shows that this wave of WFH is creating an unprecedented base of new users as well as a rapid rise in usage among existing users that will leave an indelible impact on technology adoption and growth in years to come.",
+        "spans": [
+          "Frost & Sullivan’s early data shows that this wave of WFH is creating an unprecedented base of new users as well as a rapid rise in usage among existing users that will leave an indelible impact on technology adoption and growth in years to come."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The technology and usability improvements that collaboration tools have seen over the last few years are coming handy, just as the world needs them the most.",
+        "spans": [
+          "The technology and usability improvements that collaboration tools have seen over the last few years are coming handy, just as the world needs them the most."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Video conferencing and group chat are coming to the rescue to enable remote work and learning.",
+        "spans": [
+          "Video conferencing and group chat are coming to the rescue."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Many providers have announced free offerings or extended free service limits to accommodate quick and easy access to users working and learning from home.",
+        "spans": [
+          "UCC providers from across the spectrum have also risen to the challenge and announced free offerings to accommodate quick and easy access to users who are working and learning from home."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Video conferencing usage has surged dramatically, with providers reporting unprecedented growth in usage and meetings.",
+        "spans": [
+          "Providers across the board are reporting unprecedented growth in usage.",
+          "Cloud video conferencing service provider Pexip has seen 200% growth in cumulative usage over the past month, with peak usage surging to nearly six times the peak in Jan.",
+          "Similarly, BlueJeans has seen three times global usage growth, and Fuze has seen an increase in meetings by 251% over the past few weeks."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Zoom has become a mainstream communications tool and social platform for millions, including students and families, amid social distancing.",
+        "spans": [
+          "Overnight, Zoom has become a mainstream communications tool as well as a social platform for millions, including school and college students, church and concert-goers, and families and friends looking to connect amid social distancing."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Educational institutions have rapidly shifted to online courses and virtual classrooms to continue learning from home due to school closures.",
+        "spans": [
+          "In response, school administrators and teachers have been given the onerous task to convert in-person curriculums into online courses, and quickly put in place virtual classroom solutions to allow millions of students to continue learning from their homes."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Video conferencing-based remote learning keeps students engaged with features like whiteboarding, annotation, group chat, breakout rooms, attention tracking, etc.",
+        "spans": [
+          "Video conferencing-based remote learning keeps students engaged with features like whiteboarding, annotation, group chat, breakout rooms, attention tracking, etc."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "COVID-19 is expected to fundamentally change user behavior towards remote work and online education, with a lasting impact on technology adoption.",
+        "spans": [
+          "The scale of the disruptions caused by COVID-19, however, is truly unprecedented and is expected to fundamentally change user behavior towards remote work and online education."
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "Modern video meetings are simple to deploy, easy to use, and affordable, which supports the increased adoption during COVID-19.",
+        "spans": [
+          "Previous generations of video conferencing technology were complex, clunky, and costly to operate. Modern video meetings are simple to deploy, easy to use, and affordable for businesses of all sizes."
+        ]
+      },
+      {
+        "point_number": 13,
+        "point_content": "COVID-19 will accelerate the need for flexible and agile work styles and further push the adoption of technologies that improve work-life balance.",
+        "spans": [
+          "COVID-19 will accelerate the need for flexible and agile work styles and further push the adoption of technologies that improve work-life balance."
+        ]
+      }
+    ],
+    "clueweb22-en0021-77-01880": [
+      {
+        "point_number": 1,
+        "point_content": "Remote work is enabled by technologies including virtual private networks (VPNs), voice over internet protocols (VoIPs), virtual meetings, cloud technology, work collaboration tools and even facial recognition technologies that enable a person to appear before a virtual background to preserve the privacy of the home.",
+        "spans": [
+          "Remote work is enabled by technologies including virtual private networks (VPNs), voice over internet protocols (VoIPs), virtual meetings, cloud technology, work collaboration tools and even facial recognition technologies that enable a person to appear before a virtual background to preserve the privacy of the home."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "In addition to preventing the spread of viruses, remote work also saves commute time and provides more flexibility.",
+        "spans": [
+          "In addition to preventing the spread of viruses, remote work also saves commute time and provides more flexibility."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Remote work also imposes challenges to employers and employees, including information security, privacy, timely tech support, loneliness and lack of work-life balance.",
+        "spans": [
+          "Yet remote work also imposes challenges to employers and employees. Information security, privacy and timely tech support can be big issues, as revealed by recent class actions filed against Zoom.",
+          "Employees may experience loneliness and lack of work-life balance."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "If remote work becomes more common after the COVID-19 pandemic, employers may decide to reduce lease costs and hire people from regions with cheaper labour costs.",
+        "spans": [
+          "If remote work becomes more common after the COVID-19 pandemic, employers may decide to reduce lease costs and hire people from regions with cheaper labour costs."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Many educational institutions started offering courses online to ensure education was not disrupted by quarantine measures.",
+        "spans": [
+          "Many educational institutions started offering courses online to ensure education was not disrupted by quarantine measures."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Technologies involved in distant learning are similar to those for remote work and also include virtual reality, augmented reality, 3D printing and artificial-intelligence-enabled robot teachers.",
+        "spans": [
+          "Technologies involved in distant learning are similar to those for remote work and also include virtual reality, augmented reality, 3D printing and artificial-intelligence-enabled robot teachers."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Concerns about distance learning include the possibility the technologies could create a wider divide in terms of digital readiness and income level and economic pressure on parents who need to stay home to watch their children.",
+        "spans": [
+          "Concerns about distance learning include the possibility the technologies could create a wider divide in terms of digital readiness and income level.",
+          "Distance learning could also create economic pressure on parents – more often women – who need to stay home to watch their children and may face decreased productivity at work."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Telehealth can be an effective way to contain the spread of COVID-19 while still providing essential primary care, using wearable personal IoT devices and chatbots.",
+        "spans": [
+          "Telehealth can be an effective way to contain the spread of COVID-19 while still providing essential primary care.",
+          "Wearable personal IoT devices can track vital signs.",
+          "Chatbots can make initial diagnoses based on symptoms identified by patients."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Remote work, distance learning, and telehealth require good internet connection and a certain level of tech literacy.",
+        "spans": [
+          "Telehealth also requires a certain level of tech literacy to operate, as well as a good internet connection.",
+          "Technologies involved in distant learning are similar to those for remote work"
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "COVID-19 has transformed online shopping from a nice-to-have to a must-have around the world, with contactless delivery and robot deliveries being developed.",
+        "spans": [
+          "Similarly, COVID-19 has transformed online shopping from a nice-to-have to a must-have around the world.",
+          "Chinese e-commerce giants are also ramping up their development of robot deliveries."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Contactless digital payments are the recommended payment method to avoid the spread of COVID-19 and enable online purchases and payments.",
+        "spans": [
+          "Now, contactless digital payments, either in the form of cards or e-wallets, are the recommended payment method to avoid the spread of COVID-19.",
+          "Digital payments enable people to make online purchases and payments of goods, services and even utility payments, as well as to receive stimulus funds faster."
+        ]
+      }
+    ],
+    "clueweb22-en0044-02-07753": [
+      {
+        "point_number": 1,
+        "point_content": "The COVID 19 crisis has changed many things. My course for Cornell’s MBA and computer sciences students is now virtual.",
+        "spans": [
+          "The COVID 19 crisis has changed many things. My course for Cornell’s MBA and computer sciences students is now virtual."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Zoom and others only offer technology. Once you start teaching, you realize the gap between traditional classrooms and online learning.",
+        "spans": [
+          "Zoom and others only offer technology. Once you start teaching, you realize the gap between traditional classrooms and online learning."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The challenge ahead is not about how to use Zoom’s features, but about reinventing the whole course experience.",
+        "spans": [
+          "the challenge ahead is not about how to use Zoom’s features, but about reinventing the whole course experience."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "I changed much of my course content, tried to make the best out of asynchronous vs. synchronous activities, and analyzed data to offer a great class during the shelter in place.",
+        "spans": [
+          "I changed much of my course content, tried to make the best out of asynchronous vs. synchronous activities, and analyzed data to offer a great class during the shelter in place."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The fear of COVID closed campuses around the world and has pushed teachers into online learning.",
+        "spans": [
+          "The fear of COVID closed campuses around the world and has pushed teachers into online learning."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Flip the classroom, Ensure engagement, Be approachable are key learnings from transitioning to online teaching.",
+        "spans": [
+          "Flip the classroom",
+          "Ensure engagement",
+          "Be approachable"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Flip the classroom means students read content before class so class time can be used for applied exercises and discussions, with data used to monitor effectiveness.",
+        "spans": [
+          "Flip the classroom: The flipped classroom is not a new concept and has been in the center of many pedagogical discussions for over a decade. The premise is that if you ask the students to read the content before coming to class, you can focus the time in the classroom for applied exercise and discussions.",
+          "You need data to monitor how effective the material is"
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Multiple-choice questionnaires every 10 minutes ensure engagement and provide feedback on teaching performance.",
+        "spans": [
+          "Multiple-choice questionnaires came out on top.",
+          "I created multiple-choice questionnaires for every 10min of my course."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Using a Google spreadsheet to pre-screen discussion answers creates more inclusive and richer class discussions.",
+        "spans": [
+          "To foster class discussions I used a google spreadsheet, posed a discussion topic",
+          "The pre-screening of arguments is as well suited for complex discussions."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Online classes have created a more inclusive classroom setting, allowing more participation from all students, not just extroverts.",
+        "spans": [
+          "doing this class online has created a more inclusive classroom setting.",
+          "Traditional classrooms favored the extroverts, if you pre-screen answers and do quizzes everyone can participate and the discussion becomes richer."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Being approachable online involves making oneself more visible and using fun actions to create a personal bond despite the virtual setting.",
+        "spans": [
+          "Once I realized this I went off the presentation mode as often as possible so that everyone, the students and myself are more visible.",
+          "I tried to spice up the course with fun actions using Snap Cam to change myself into a potato or come in a Tuxedo to class."
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "Digital tools and data help create an engaging learning environment and challenge teachers to use data more effectively to ensure higher engagement.",
+        "spans": [
+          "Digital tools and data started to help me to create an engaging learning environment.",
+          "this new environment has challenged me to use data more effectively to ensure higher levels of engagement."
+        ]
+      }
+    ],
+    "clueweb22-en0005-94-16977": [
+      {
+        "point_number": 1,
+        "point_content": "Classrooms have moved online as a result of potential nationwide closures due to COVID-19.",
+        "spans": [
+          "classrooms have moved online"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "School counselors are using technology and online tools to provide virtual advisement and counseling to students.",
+        "spans": [
+          "A guidance counselor can use technology and online tools to continue to provide course advisement to students",
+          "A guidance counselor can use technology and online tools to continue to provide virtual counseling to students"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "School counselors must find ways to stay connected and engaged with students on virtual platforms during COVID-19.",
+        "spans": [
+          "One of the most important steps a school counselor must take to influence students throughout the global pandemic is finding ways to stay connected and engaged on a virtual platform"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "More kids are spending time online amid the global pandemic, increasing the importance of digital safety, cyberbullying prevention, and privacy protection education by school counselors.",
+        "spans": [
+          "More kids are spending time online amid the global pandemic",
+          "It’s helpful for guidance counselors to provide a refresher on digital safety, cyberbullying and the importance of privacy protection"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "School counselors are adapting to a hybrid model of in-person and online instruction for the future of education.",
+        "spans": [
+          "Michael Goldstein, Senior Counsel in the Higher Education Practice at Cooley LLP, believes that the fall semester college experience will likely be a hybrid of in-person and online student interaction"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "The future of school counseling includes an increase in online counseling platforms and services, greater attention to online privacy and confidentiality, and comprehensive college advising online.",
+        "spans": [
+          "In a post-pandemic future, a guidance counselor can expect the following changes: Increase in online counseling platforms and services",
+          "Greater attention paid to online privacy and confidentiality",
+          "Comprehensive college advising online"
+        ]
+      }
+    ]
+  }
+}

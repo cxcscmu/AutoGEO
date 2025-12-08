@@ -1,0 +1,111 @@
+{
+  "question": "should central banks issue digital currency",
+  "key_points": {
+    "clueweb22-en0045-08-02663": [
+      {
+        "point_number": 1,
+        "point_content": "The introduction of central bank digital currency affects interest rates, the level of economic activity, and welfare.",
+        "spans": [
+          "We study how the introduction of central bank digital currency affects interest rates, the level of economic activity, and welfare"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "A digital currency tends to promote efficiency in exchange but may crowd out bank deposits, raise banks' funding costs, and decrease investment.",
+        "spans": [
+          "While a digital currency tends to promote efficiency in exchange, it may also crowd out bank deposits, raise banks' funding costs, and decrease investment"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Targeted digital currencies that compete only with physical currency or only with bank deposits can raise welfare under certain conditions.",
+        "spans": [
+          "We derive conditions under which targeted digital currencies, which compete only with physical currency or only with bank deposits, raise welfare"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "If targeted digital currencies are infeasible, issuing a single, universal digital currency involves policy tradeoffs.",
+        "spans": [
+          "If such targeted currencies are infeasible, we illustrate the policy tradeoffs that arise when issuing a single, universal digital currency"
+        ]
+      }
+    ],
+    "clueweb22-en0003-69-00460": [
+      {
+        "point_number": 1,
+        "point_content": "Central banks should issue digital cash as it widens the range of options for monetary policy, including the possibility of lowering interest rates below zero and making 'helicopter drops' to increase aggregate demand.",
+        "spans": [
+          "It widens the range of options for monetary policy: Implementing digital cash can allow new monetary policy tools to be used.",
+          "Alternatively, digital cash can be used as a tool to increase aggregate demand by making ‘helicopter drops’ of newly created digital cash to all citizens"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Issuing digital cash can make the financial system safer by reducing liquidity and credit risk concentration and providing a risk-free alternative to bank deposits.",
+        "spans": [
+          "It can make the financial system safer: Allowing individuals, private sector companies, and non-bank financial institutions to settle directly in central bank money (rather than bank deposits) significantly reduces the concentration of liquidity and credit risk in payment systems.",
+          "In addition, by providing a genuinely risk-free alternative to bank deposits, a shift from bank deposits to digital cash reduces the need for government guarantees on deposits, eliminating a source of moral hazard from the financial system."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Digital cash can encourage competition and innovation in payment systems by making it easier for new entrants to offer payment accounts and reducing reliance on large banks.",
+        "spans": [
+          "It can encourage competition and innovation in the payment systems: The regulatory framework we propose would make it significantly easier for new entrants to the payments sector to offer payment accounts and provide competition to the existing banks.",
+          "It would also reduce the need for most smaller banks and non-banks to run their payments through the larger banks"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Issuing digital cash can recapture seigniorage and address the decline of physical cash as electronic payments replace physical payments.",
+        "spans": [
+          "It can recapture a portion of seigniorage and address the decline of physical cash: As physical payments are gradually replaced with electronic payments, the Bank of England will want to replace physical cash with its electronic equivalent.",
+          "Doing so has the advantage of increasing the ‘seigniorage’ – the proceeds from creating money – earned by the Bank of England"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Digital cash can help address the impact of alternative finance on money creation and distribution by compensating for shifts away from money-creating banks.",
+        "spans": [
+          "It can help address the implications of alternative finance upon money creation and distribution: Non-banks, such as peer-to-peer lenders, are competing with banks and taking on a larger share of total lending.",
+          "By proactively issuing digital cash, the Bank of England can compensate for any shift in lending away from money-creating banks, and the subsequent fall in money creation."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Digital cash can improve financial inclusion by providing accounts to customers excluded from conventional banking services.",
+        "spans": [
+          "It can improve financial inclusion: The firms providing Digital Cash Accounts would be payment service providers first and foremost, whereas banks are primarily lenders.",
+          "Digital Cash Account Providers are therefore likely to offer accounts to those customers that are excluded from conventional banking services."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "The Bank of England can implement digital cash by providing accounts to non-bank companies and individuals, preferably through an Indirect Access approach using private sector Digital Cash Account Providers.",
+        "spans": [
+          "The Bank of England already issues digital currency, in the form of deposits held by commercial banks in accounts at the Bank of England.",
+          "Consequently, we recommend an Indirect Access approach, in which the Bank of England would still create and hold the digital currency, but all payment and customer services would be operated through “Digital Cash Accounts” (DCAs) provided by (or ‘administered’ by) private sector firms."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "The Indirect Access approach increases competition in payment services and minimizes administrative burden on the Bank of England.",
+        "spans": [
+          "The Indirect Access approach is a much more market-driven approach which will help to increase competition in current and payment account services.",
+          "It minimises the administrative burden on the Bank of England."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "The Bank of England can manage digital currency issuance reactively or proactively, with proactive issuance allowing new monetary policy tools like helicopter drops.",
+        "spans": [
+          "The Bank of England currently issues central bank money reactively: it issues banknotes in whatever quantities are needed to meet demand from the public, and issues central bank reserves in order to meet demand from the banks.",
+          "Alternatively, by taking a proactive approach to issuance, the Bank of England could use digital currency as a monetary policy tool to stimulate aggregate demand and influence the economy.",
+          "If every citizen had a Digital Cash Account at the Bank of England (either directly or indirectly), then it would be a simple process for the Bank of England to make small and occasional ‘helicopter drops’ of newly created digital cash to every citizen."
+        ]
+      }
+    ],
+    "null": []
+  }
+}

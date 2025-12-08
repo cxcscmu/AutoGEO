@@ -1,0 +1,234 @@
+{
+  "question": "why have petrol prices risen",
+  "key_points": {
+    "null": [],
+    "clueweb22-en0032-29-00646": [
+      {
+        "point_number": 1,
+        "point_content": "Gas prices have risen due to a global shortage of gas and increased demand as economies recover from the Covid-19 pandemic.",
+        "spans": [
+          "A global shortage of gas has increased prices around the world, with demand rising as economies emerge from the Covid-19 pandemic."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The last winter was long and cold, increasing demand for heating and depleting gas stocks.",
+        "spans": [
+          "The last winter was a long and cold one across Europe and Asia, increasing demand for heating and leaving gas stocks depleted."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "A calm summer with less wind reduced reliance on renewable energy, contributing to the rise in gas costs.",
+        "spans": [
+          "It was followed by a calm summer with less wind than normal, meaning countries have been less able to rely on renewable energy."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Refineries in the US were shut down due to Hurricane Ida, affecting gas supply and prices.",
+        "spans": [
+          "The rise in costs has also been attributed to refineries in the US being shut down as a result of Category 4 Hurricane Ida."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "High demand for liquefied natural gas from Asia and reduced supplies from Russia have contributed to the price rise.",
+        "spans": [
+          "High demand for liquefied natural gas from Asia and a reduction in supplies from Russia have also been blamed for the price rise."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "UK wholesale gas prices hit a record high before falling after Russia confirmed boosting supplies to Europe.",
+        "spans": [
+          "On Wednesday, UK wholesale gas prices hit a record high before falling after Russia confirmed that it was boosting supplies to Europe."
+        ]
+      }
+    ],
+    "clueweb22-en0028-17-19293": [
+      {
+        "point_number": 1,
+        "point_content": "Rising international oil prices continue to flow through to the petrol bowser in Australia, fuelling concerns about cost of living pressures.",
+        "spans": [
+          "Rising international oil prices continue to flow through to the petrol bowser in Australia, fuelling concerns about cost of living pressures."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "At the weekend, the Brent crude oil price briefly topped $US85 a barrel for the first time since 2018.",
+        "spans": [
+          "At the weekend, the Brent crude oil price briefly topped $US85 a barrel for the first time since 2018."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Australian Institute of Petroleum figures show the national price for unleaded petrol rose by a further 6.9 cents per litre on average in the past week to 160.7 cents, a 13-year high.",
+        "spans": [
+          "Australian Institute of Petroleum figures show the national price for unleaded petrol rose by a further 6.9 cents per litre on average in the past week to 160.7 cents, a 13-year high."
+        ]
+      }
+    ],
+    "clueweb22-en0034-72-03965": [
+      {
+        "point_number": 1,
+        "point_content": "Gas prices in America are averaging $3.27 per gallon of regular — over $1 more than a year ago, and the highest they've been since 2014.",
+        "spans": [
+          "Gas prices in America are averaging $3.27 per gallon of regular — over $1 more than a year ago, and the highest they've been since 2014."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Prices at the pump are rising particularly steeply lately, with an extra $.10 or more over what it did one week ago in nine states and Washington, D.C.",
+        "spans": [
+          "Prices at the pump are rising particularly steeply lately. A gallon of regular costs an extra $.10 or more over what it did one week ago in nine states (Kentucky, Indiana, Florida, Michigan, Alabama, Tennessee, South Carolina, Illinois and Delaware) and Washington, D.C., according to AAA."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Demand for gasoline remains fairly low and has fallen for the last two weeks, which normally would cause prices to fall or not climb.",
+        "spans": [
+          "That should mean that demand for gasoline remains fairly low.",
+          "Indeed, demand at gas stations has fallen for the last two weeks, \"in line with expectations for autumn,\" a blog post from the GasBuddy app reported on Monday.",
+          "And when demand is low and on the decline, prices are generally supposed to fall as well — or at least not climb."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "52% of the retail price of gasoline is based on how much wholesale crude oil costs, which is currently high.",
+        "spans": [
+          "According to the U.S. Energy Information Administration, 52% of the retail price of gasoline is based on how much wholesale crude oil costs."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Crude prices are high mainly because OPEC+ have decided to keep output limited.",
+        "spans": [
+          "Crude prices are high for a variety of reasons, though industry experts say it's mainly because OPEC+ — the Organization of Petroleum Exporting Countries, consisting of Saudi Arabia and 12 other oil-production nations, plus their allies — have decided to keep output limited."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "The White House has been pressuring OPEC+ to increase oil production, which was scaled back dramatically in 2020 and still is below pre-pandemic levels.",
+        "spans": [
+          "The White House has been pressuring OPEC+ to increase oil production, which was scaled back dramatically in 2020 and still is below pre-pandemic levels."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "After OPEC+ decided it would not raise production beyond an already agreed-upon level, oil prices hit a seven-year high, leading to retail gas prices hitting a seven-year high as well.",
+        "spans": [
+          "Last week, after OPEC+ decided it would not raise production beyond an already agreed-upon level, oil prices hit a seven-year high.",
+          "So it does not come as a surprise that retail gas prices in the U.S. followed by hitting a seven-year high as well."
+        ]
+      }
+    ],
+    "clueweb22-en0030-33-13162": [
+      {
+        "point_number": 1,
+        "point_content": "The loosening of COVID restrictions globally in recent months has led to a rapid recovery in global demand for crude oil that has exceeded the expectations of all of the “experts” on the subject, leading to a tightening of global crude markets",
+        "spans": [
+          "The loosening of COVID restrictions globally in recent months has led to a rapid recovery in global demand for crude oil that has exceeded the expectations of all of the “experts” on the subject, leading to a tightening of global crude markets"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Strong discipline among the OPEC+ nations related to their agreement to limit exports has also played a major role in tightening the relationship between global supply and demand",
+        "spans": [
+          "Strong discipline among the OPEC+ nations related to their agreement to limit exports has also played a major role in tightening the relationship between global supply and demand"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The markets clearly see the Biden/Harris administration as one that will work to inhibit U.S. oil production, which will also have the effect of tightening the global market, and traders have responded by driving up the price of crude oil",
+        "spans": [
+          "The markets clearly see the Biden/Harris administration as one that will work to inhibit U.S. oil production, which will also have the effect of tightening the global market, and traders have responded by driving up the price of crude oil"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Refinery maintenance and the changeover to summer gasoline blends invariably raises the costs of both refining and transportation of gasoline, and that is always worked into gas prices during these months",
+        "spans": [
+          "Refinery maintenance and the changeover to summer gasoline blends. This is a factor that I tend to write about every year at this time. Gas prices have continued to rise even as crude prices have dropped over the past week mainly due to the fact that March and April are the time of year in which many U.S. refineries are taken offline for annual maintenance a nd all refiners are switching from manufacturing a handful of winter blends of gasoline to the dozens of summer blends required by the EPA. This changeover invariably raises the costs of both refining and transportation of gasoline, and that is always worked into gas prices during these months."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "California's higher gasoline prices are almost entirely due to politics around climate change and state policies inhibiting drilling and production",
+        "spans": [
+          "This differential is almost entirely due to politics around climate change.",
+          "California is a state that is rich in underground oil resources, but over the past two decades, the state government of California has pursued a policy agenda designed to inhibit drilling and production within its borders as part of an overall program to try to ratchet down emissions via command-and-control regulations."
+        ]
+      }
+    ],
+    "clueweb22-en0026-46-05803": [
+      {
+        "point_number": 1,
+        "point_content": "The price of Brent crude oil has been rising steadily since April 2020 and has now crossed the USD 80-per-barrel mark, contributing to petrol and diesel prices hitting all-time highs in India.",
+        "spans": [
+          "From hitting as low as USD 16 per barrel on April 22, 2020, the price of Brent crude oil has been rising steadily ever since and has now crossed the USD 80-per-barrel mark.",
+          "The rise in crude prices has contributed to petrol and diesel prices hitting all-time highs in India."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Global demand for crude oil has increased in 2021 as the world economy recovers from COVID-19, resulting in a sharp rise in prices.",
+        "spans": [
+          "As the world economy recovers from COVID-19, global demand for crude oil has increased in 2021 resulting in a sharp rise in prices."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Supply restrictions maintained by the OPEC+ grouping nations have caused a sharp increase in international oil prices.",
+        "spans": [
+          "Another reason for a sharp increase in international oil prices is the supply restrictions maintained by the OPEC+ grouping nations."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Oil-producing economies continue with slow production increases due to the pandemic, leading to a rise in oil and gas prices.",
+        "spans": [
+          "Due to the pandemic, these oil-producing economies continue with slow production increases leading to a rise in oil and gas prices."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "There is a shortage of gas in Europe and Asia, boosting the demand for oil for power generation.",
+        "spans": [
+          "There is a shortage of gas in Europe and Asia at present which has boosted the demand for oil for power generation."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Prices of petrol and diesel in India are pegged to a 15-day rolling average of the international prices of these fuels, and high taxes by the Central and state governments have contributed to higher retail prices in India.",
+        "spans": [
+          "Prices of petrol and diesel in India are pegged to a 15-day rolling average of the international prices of these fuels.",
+          "High taxes by the Central and state governments too have contributed to fuel retail prices being far higher in India."
+        ]
+      }
+    ],
+    "clueweb22-en0000-98-06662": [
+      {
+        "point_number": 1,
+        "point_content": "Petrol prices have climbed steadily in line with global oil market prices, which have more than doubled from about $40 (£29) a barrel a year ago to about $85 in recent weeks because of a sudden rise in post-pandemic energy demand.",
+        "spans": [
+          "Petrol prices have climbed steadily in line with global oil market prices, which have more than doubled from about $40 (£29) a barrel a year ago to about $85 in recent weeks because of a sudden rise in post-pandemic energy demand."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The price of Brent crude reached $86.50 a barrel on Monday afternoon – the highest since October 2018 – an increase that is likely to result in further price increases at the pumps.",
+        "spans": [
+          "The price of Brent crude reached $86.50 a barrel on Monday afternoon – the highest since October 2018 – an increase that is likely to result in further price increases at the pumps."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The US bank Goldman Sachs predicted last month that global oil prices could continue to climb to $90 a barrel by the end of the year, while its rival Bank of America said a cold winter could lead to the price of Brent hitting $100 a barrel within months.",
+        "spans": [
+          "The US bank Goldman Sachs predicted last month that global oil prices could continue to climb to $90 a barrel by the end of the year, while its rival Bank of America said a cold winter could lead to the price of Brent hitting $100 a barrel within months."
+        ]
+      }
+    ]
+  }
+}

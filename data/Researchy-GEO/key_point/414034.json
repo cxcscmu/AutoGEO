@@ -1,0 +1,344 @@
+{
+  "question": "the disadvantages of renewable resources",
+  "key_points": {
+    "clueweb22-en0013-22-08228": [
+      {
+        "point_number": 1,
+        "point_content": "Renewable energy is expensive due to the high cost of equipment and installation.",
+        "spans": [
+          "The disadvantages of renewable energy are that it is expensive",
+          "The bottom line is that renewable energy in its current state is still very expensive.",
+          "installing the proper equipment to harvest it is not.",
+          "The cost of this equipment will vary depending on what type of renewable energy you want to utilize and how much energy capacity you want to have from the resource.",
+          "The installation costs alone can be a huge issue for most households that are in the lower-income bracket or even middle-class range."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Renewable energy can be a threat to wildlife and habitat due to land use and infrastructure.",
+        "spans": [
+          "a threat to wildlife and habitat",
+          "While renewables steer away from the impact that fossil fuel production has on wildlife and their habitat, it makes it easy to forget that the infrastructure required for renewable energy also has an impact.",
+          "land areas often need to be cleared away to make room for the solar farm.",
+          "there is an undeniable negative effect that a solar farm could have on the livelihoods of plants, animals, and other species.",
+          "many bird species are severely affected by wind turbines.",
+          "Just a single wind farm is capable of killing as many as half a million birds in just a single year",
+          "A major issue that wind turbines are having on bird species is that they directly impact the populations of various birds of prey such as eagles, hawks, and falcons, which are on the decline or even critically endangered.",
+          "bats also pay the price for wind energy technology.",
+          "wind turbines that have been placed offshore in coastal areas can even have a negative impact on fish species.",
+          "experts believe that the noise from the wind turbines has something to do with marine wildlife displacement.",
+          "experts have reported that it can have some negative impact on the migration patterns of fish species."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Renewable energy is location and climate dependent, which can limit its reliability.",
+        "spans": [
+          "is climate dependent",
+          "is location dependent",
+          "A major disadvantage of renewable energy is that it can be strictly location and climate dependent.",
+          "each one requires a certain type of condition in order to be fully operational.",
+          "some regions may be less consistent with how much sun they get on an annual basis.",
+          "This lack of consistency can make solar energy an unreliable resource",
+          "wind power is notorious for being inconsistent",
+          "wave energy is only accessible to communities that have coastlines - making the resource useless to anyone living inland.",
+          "A location that has unpredictable conditions, which vary greatly can make an investment in renewable energy a risky decision."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Renewable energy infrastructure requires a lot of space, which can be a limitation.",
+        "spans": [
+          "can be limited by space",
+          "the infrastructure required to establish it takes up a substantial amount of space.",
+          "Large-scale solar farms require an enormous amount of space to fully function.",
+          "It is estimated that the amount of space required to properly run a large solar farm is as much as 50 times more than your average coal mine."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Renewable energy has storage limitations, requiring expensive battery systems to store energy.",
+        "spans": [
+          "can be limited by storage",
+          "solar panels, wind turbines, and other renewable energies do not actually store the power that they generate.",
+          "This needs to be achieved through some sort of battery system, which can be extremely pricey.",
+          "A battery system for an average home can cost around $5,000 or even more",
+          "if installing such a system is not within your budget, you will have no way of storing any of your excess energy for the times that you are not generating power.",
+          "Storage limitations can be exacerbated even more when considering large-scale communities and cities.",
+          "developing large-scale energy storage facilities will be costly and necessary to make renewable energy realistic."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Renewable energy, especially wind turbines, can cause noise pollution.",
+        "spans": [
+          "causes noise pollution",
+          "wind energy, as turbines have been known to be problematic when it comes to noise.",
+          "People will often complain about the invasive sounds that come from a turbine’s broadband noise.",
+          "Broadband noise is the sound that comes from the wind turbine’s continuous motion, which is caused by the blades moving through the air.",
+          "individuals who choose to have a wind turbine built on their private residence have it even worse with noise pollution"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Renewable energy infrastructure can have poor aesthetic impact on natural landscapes.",
+        "spans": [
+          "Poor Aesthetic",
+          "a major drawback of renewable energy is that it simply offers a poor aesthetic.",
+          "Large vast plains and gorgeous flatlands can be ruined with big solar farms and wave energy infrastructure can sabotage the stunning view of a seascape.",
+          "most people complain about the damaging aesthetic that is caused by wind turbines more than anything."
+        ]
+      }
+    ],
+    "clueweb22-en0004-52-01157": [
+      {
+        "point_number": 1,
+        "point_content": "Renewable energy sources typically have a much higher cost upfront.",
+        "spans": [
+          "Renewable energy sources typically have a much higher cost upfront."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Renewable energy is as unreliable as the weather because that is what this energy source depends on.",
+        "spans": [
+          "Renewable energy is as unreliable as the weather because that is what this energy source depends on."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "You will not be able to collect energy at night or overcast days when collecting solar energy.",
+        "spans": [
+          "if you are collecting solar energy, the sun needs to be shining. This means you will not be able to collect energy at night or overcast days."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "While there are ways to store renewable energy, these methods are costly.",
+        "spans": [
+          "While there are ways to store renewable energy, these methods are costly."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The supply of green electricity does not satisfy the demand and fossil fuels still produce far more than renewable energy sources.",
+        "spans": [
+          "When it comes to green electricity, the supply does not satisfy the demand.",
+          "Right now, fossil fuels still produce far more than renewable energy sources."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Green energy production still lacks some much-needed efficiency.",
+        "spans": [
+          "Green energy production still lacks some much-needed efficiency."
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0037-74-13264": [
+      {
+        "point_number": 1,
+        "point_content": "Renewable energy infrastructure will need to be produced from scratch, which is expensive and time-consuming.",
+        "spans": [
+          "Renewable energy infrastructure will need to be produced from scratch, which is expensive and time-consuming."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "There isn't currently enough electricity to power the world, and developing it isn't consistent enough.",
+        "spans": [
+          "There isn't currently enough electricity to power the world, and developing it isn't consistent enough."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Wind turbines can only generate electricity when there is enough wind but have trouble doing so if there is too little.",
+        "spans": [
+          "For example, wind turbines can only generate electricity when there is enough wind but have trouble doing so if there is too little."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "It's more challenging to store renewably generated energy because we can't rely on the energy source being there when we need it, so we need significant batteries to store excess energy.",
+        "spans": [
+          "It's more challenging to store renewably generated energy. When using coal for electricity, the coal can sit in a pile until it's needed. But this isn't how it works with many renewable sources, as we can't rely on the energy source being there when we need it. So, we need significant batteries to store excess energy."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Wind and solar farms need a large amount of space to generate enough power, so the more renewable energy we need, the more freedom we'll need to develop it.",
+        "spans": [
+          "Wind and solar farms need a large amount of space to generate enough power, so the more renewable energy we need, the more freedom we'll need to develop it."
+        ]
+      }
+    ],
+    "clueweb22-en0035-36-02354": [
+      {
+        "point_number": 1,
+        "point_content": "Renewable energy is difficult to generate quantities of electricity as large as those produced by traditional fossil fuel generators.",
+        "spans": [
+          "One disadvantage with renewable energy is that it is difficult to generate the quantities of electricity that are as large as those produced by traditional fossil fuel generators."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Renewable energy supply is unreliable because it depends on weather conditions.",
+        "spans": [
+          "Another disadvantage of renewable energy sources is the reliability of supply. Renewable energy often relies on the weather for its source of power. Hydro generators need rain to fill dams to supply flowing water. Wind turbines need wind to turn the blades, and solar collectors need clear skies and sunshine to collect heat and make electricity. When these resources are unavailable so is the capacity to make energy from them. This can be unpredictable and inconsistent."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The current cost of renewable energy technology is much higher than traditional fossil fuel generation due to large capital costs.",
+        "spans": [
+          "The current cost of renewable energy technology is also far in excess of traditional fossil fuel generation. This is because it is a new technology and as such has extremely large capital cost."
+        ]
+      }
+    ],
+    "clueweb22-en0018-46-04789": [
+      {
+        "point_number": 1,
+        "point_content": "Wind turbines are noisy and visually unattractive and can negatively affect the physical environment.",
+        "spans": [
+          "Wind turbines are noisy and visually unattractive. They can negatively have an effect on the physical environment surrounding them."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Wind power is intermittent and dependent on weather, so it cannot generate electricity 24/7.",
+        "spans": [
+          "Analogous to solar power, wind power is intermittent, in that the turbines are dependent on weather and therefore aren’t able to generate electricity 24/7."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Wind turbines' electricity generation depends on weather and can be unpredictable, requiring energy storage which is not yet available.",
+        "spans": [
+          "Wind energy is clean and renewable, has low operating costs, and is space efficient, but a wind turbine’s ability to generate electricity depends on the weather.",
+          "Therefore, it can be problematic to forecast precisely how much electricity a wind turbine will generate.",
+          "To overcome this problem, there will need to be some kind of energy storage, which is not yet available."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Wind turbines are noisy due to mechanical operation and wind vortex, and their large blades harm and kill birds and bats.",
+        "spans": [
+          "Wind turbines are noisy when operating, because of the mechanical operation and the wind vortex that’s produced when the blades are spinning.",
+          "A wind turbine’s blades are enormously large and revolve at excessive speeds, harming and killing birds and bats."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Solar power is intermittent, depends on the sun, and energy storage is expensive.",
+        "spans": [
+          "Like wind energy, solar is intermittent.",
+          "Obviously, solar panels depend on the sun for energy.",
+          "Energy storage is expensive and storage systems, such as batteries can level demand, which makes solar power more stable than wind, but solar technology is expensive."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Manufacturing solar panels emits potent greenhouse gases like nitrogen trifluoride and sulfur hexafluoride.",
+        "spans": [
+          "Solar power is less polluting than fossil fuels; but manufacturing processes emit greenhouse gases.",
+          "Nitrogen trifluoride and sulfur hexafluoride have been tracked back to the manufacture of solar panels.",
+          "Since these are potent greenhouse gases, they have thousands of times the impact on global warming as compared to carbon dioxide."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Biomass energy requires a lot of land and water, competing with food crops, and needs significant storage space.",
+        "spans": [
+          "The disadvantage of biomass energy is the amount of space that it needs.",
+          "A good deal of land and water are required for some biomass crops to be produced.",
+          "After the plants are grown, the product requires a significant amount of storage space before being converted into energy.",
+          "This need for land presents a significant issue because the human population is continually growing, and the need for food crops is also increasing.",
+          "Allocating new farmland for fuel instead of food becomes ever more difficult to justify."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Biomass energy is not completely clean and is expensive due to labor and transportation costs.",
+        "spans": [
+          "Another shortcoming of biomass energy is that biomass energy is not completely clean.",
+          "Some greenhouse gases are still produced, but at lower levels than those generated by fossil fuels.",
+          "Biomass energy is expensive, including the labor involved and transportation costs."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Wave power is challenging due to the hostile saltwater environment and wave motion affecting energy capture devices.",
+        "spans": [
+          "Operating in the ocean is far more problematic than on land.",
+          "Saltwater is a hostile environment for machines, and the waves present a challenge for energy garnering as the waves not only roll past a device but also bob up and down."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Siting wind turbines and solar farms involves complex negotiations and permits, increasing costs and causing delays.",
+        "spans": [
+          "Siting wind turbines and solar farms requires negotiations, contracts, permits, and community relations, all of which can escalate costs and delay or kill projects."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "New transmission infrastructure is required for renewable resources, increasing transmission costs.",
+        "spans": [
+          "In order to take advantage of these renewable resources, a new transmission infrastructure is required, which increases the transmission costs."
+        ]
+      }
+    ],
+    "clueweb22-en0025-57-04702": [
+      {
+        "point_number": 1,
+        "point_content": "The disadvantage of renewable energy is that it can be costly.",
+        "spans": [
+          "The disadvantage of renewable energy is that it can be costly."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Not every form of renewable energy is commercially viable.",
+        "spans": [
+          "Not every form of renewable energy is commercially viable."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Many forms of renewable energy are location-specific.",
+        "spans": [
+          "Many forms of renewable energy are location-specific."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Many forms of renewable energy require storage capabilities.",
+        "spans": [
+          "Many forms of renewable energy require storage capabilities."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Pollution is still generated with renewable energy.",
+        "spans": [
+          "Pollution is still generated with renewable energy."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Renewables often require subsidies to make them affordable.",
+        "spans": [
+          "Renewables often require subsidies to make them affordable."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Some forms of renewable energy require a massive amount of space.",
+        "spans": [
+          "Some forms of renewable energy require a massive amount of space."
+        ]
+      }
+    ]
+  }
+}

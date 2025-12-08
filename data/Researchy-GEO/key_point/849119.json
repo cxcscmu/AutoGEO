@@ -1,0 +1,75 @@
+{
+  "question": "how scientific knowledge change over time",
+  "key_points": {
+    "null": [],
+    "clueweb22-en0040-58-10340": [
+      {
+        "point_number": 1,
+        "point_content": "The accepted views of science knowledge can change over time.",
+        "spans": [
+          "The accepted views of science knowledge can change over time."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Changes in scientific knowledge can result from new science observations, but can also be affected by social, political or religious convictions.",
+        "spans": [
+          "Changes can result from new science observations, but can also be affected by social, political or religious convictions."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "To understand changes in scientific ideas, it is important to investigate the context of the time in which science ideas were developed.",
+        "spans": [
+          "To develop a deeper understanding, students need to investigate the context of the time in which science ideas were developed."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Science ideas can face opposition due to the views held by society, and understanding the context of the era helps explain this opposition.",
+        "spans": [
+          "Are science ideas influenced by the views held by society?",
+          "Why might new science ideas be opposed?",
+          "What do we need to know about the context of the era in which a scientific idea arises, in order to understand the opposition it might meet?"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Historical examples, such as Galileo, illustrate how scientific theories faced opposition from society.",
+        "spans": [
+          "The story of Galileo as a scientist who faced opposition for his science theories or investigations."
+        ]
+      }
+    ],
+    "clueweb22-en0020-68-13587": [
+      {
+        "point_number": 1,
+        "point_content": "Scientific method (outline) – body of techniques for investigating phenomena and acquiring new knowledge, as well as for correcting and integrating previous knowledge.",
+        "spans": [
+          "Scientific method (outline) – body of techniques for investigating phenomena and acquiring new knowledge, as well as for correcting and integrating previous knowledge."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Scientific discovery – observation of new phenomena, new actions, or new events and providing new reasoning to explain the knowledge gathered through such observations with previously acquired knowledge from abstract thought and everyday experiences.",
+        "spans": [
+          "Scientific discovery – observation of new phenomena, new actions, or new events and providing new reasoning to explain the knowledge gathered through such observations with previously acquired knowledge from abstract thought and everyday experiences."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Theories/sociology of science – sociology and philosophy of science, as well as the entire field of science studies, have in the 20th century been occupied with the question of large-scale patterns and trends in the development of science, and asking questions about how science \"works\" both in a philosophical and practical sense.",
+        "spans": [
+          "Theories/sociology of science – sociology and philosophy of science, as well as the entire field of science studies, have in the 20th century been occupied with the question of large-scale patterns and trends in the development of science, and asking questions about how science \"works\" both in a philosophical and practical sense."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Scientific revolution – scientific revolution is an era associated primarily with the 16th and 17th centuries during which new ideas and knowledge in physics, astronomy, biology, medicine and chemistry transformed medieval and ancient views of nature and laid the foundations for modern science.",
+        "spans": [
+          "Scientific revolution – scientific revolution is an era associated primarily with the 16th and 17th centuries during which new ideas and knowledge in physics, astronomy, biology, medicine and chemistry transformed medieval and ancient views of nature and laid the foundations for modern science."
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "question": "what caused the fuel shortage",
+  "key_points": {
+    "clueweb22-en0041-90-00424": [
+      {
+        "point_number": 1,
+        "point_content": "There is no shortage of fuel, simply a shortage of fuel in petrol stations, and there are two main reasons for this.",
+        "spans": [
+          "There is no shortage of fuel, simply a shortage of fuel in petrol stations, and there are two main reasons for this."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The first is a shortage of lorry drivers that has meant restrictions in fuel distribution around the country.",
+        "spans": [
+          "The first is a shortage of lorry drivers that has meant restrictions in fuel distribution around the country."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The crisis has been created by the reaction of many motorists to these potential shortages, rushing to the pumps and making real shortages a self-fulfilling prophecy.",
+        "spans": [
+          "But the crisis has been created by the reaction of many motorists to these potential shortages. Thousands have rushed to the pumps, fearful that they might not get petrol when needed, making real shortages a self-fulfilling prophecy."
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0001-49-04980": [
+      {
+        "point_number": 1,
+        "point_content": "The fuel shortage is actually a labor shortage caused by a shortage of over 100,000 qualified truck drivers.",
+        "spans": [
+          "But it’s not actually a fuel shortage—it’s a labor shortage.",
+          "For the last few months, a shortage of over 100,000 qualified truck drivers, also known as heavy goods vehicle drivers, has disrupted many industries such as food and fuel, causing ripple effects in grocery stores, restaurants, and now gas stations."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The shortage of truck drivers is due to a combination of Brexit and coronavirus impacts.",
+        "spans": [
+          "One part Brexit and one part coronavirus have derailed Britain’s transportation system—and given the government a huge headache.",
+          "Is it because of COVID-19? Is it because of Brexit? There’s a little bit of everything behind the mess."
+        ]
+      }
+    ],
+    "clueweb22-en0006-48-05615": [
+      {
+        "point_number": 1,
+        "point_content": "The key issue is there aren't enough drivers to deliver petrol to forecourts.",
+        "spans": [
+          "the key issue is there aren't enough drivers to deliver it to forecourts"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "There's an estimated shortage of more than 100,000 HGV drivers, which has already caused problems for a range of retailers.",
+        "spans": [
+          "There's an estimated shortage of more than 100,000 HGV drivers, which has already caused problems for a range of retailers"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Fuel tanker drivers need additional safety qualifications on top of their HGV licence to be able to transport chemicals such as petrol.",
+        "spans": [
+          "Fuel tanker drivers need additional safety qualifications on top of their HGV licence to be able to transport chemicals such as petrol"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "After Brexit, many European drivers returned to their home countries, or moved elsewhere, because working in the UK involved additional border bureaucracy which had an impact on their income.",
+        "spans": [
+          "After Brexit, many European drivers returned to their home countries, or moved elsewhere, because working in the UK involved additional border bureaucracy which had an impact on their income"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The pandemic saw even more drivers return to their home countries, with few coming back.",
+        "spans": [
+          "The pandemic saw even more drivers return to their home countries, with few coming back"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Some older drivers have retired, and there's a huge backlog in HGV driver tests due to Covid.",
+        "spans": [
+          "some older drivers have retired, and there's a huge backlog in HGV driver tests due to Covid"
+        ]
+      }
+    ],
+    "clueweb22-en0034-22-16296": [
+      {
+        "point_number": 1,
+        "point_content": "Panic buying rather than supply chain issues is driving the shortage of fuel at some petrol stations in the UK.",
+        "spans": [
+          "Panic buying rather than supply chain issues is driving the shortage of fuel at some petrol stations in the UK"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "There is plenty of fuel at source and a shortage of lorry drivers had only been a localised problem earlier in the week.",
+        "spans": [
+          "there is plenty of fuel at source",
+          "a shortage of lorry drivers had only been a “localised problem” earlier in the week"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The shortage had been exacerbated by people filling up when they really don’t need to, causing strain on the system.",
+        "spans": [
+          "the shortage had been exacerbated by “people going out and filling up when they really don’t need to”",
+          "that will put a strain on the system"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The supply chain is not being disrupted by ongoing problems such as industrial action, so the issue should be short-term.",
+        "spans": [
+          "The good news is you can only really fill up once – you’ve got to use the fuel, so this should be a short-term thing",
+          "It’s not like the fuel crises in the past when the supplier was hit by strikes, etc."
+        ]
+      }
+    ],
+    "clueweb22-en0004-06-09752": [
+      {
+        "point_number": 1,
+        "point_content": "The key issue is there aren't enough drivers to deliver it to forecourts.",
+        "spans": [
+          "the key issue is there aren't enough drivers to deliver it to forecourts."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "There's an estimated shortage of more than 100,000 HGV drivers, which has already caused problems for a range of retailers.",
+        "spans": [
+          "There's an estimated shortage of more than 100,000 HGV drivers, which has already caused problems for a range of retailers - from supermarkets to fast food chains."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Fuel tanker drivers need additional safety qualifications on top of their HGV licence to be able to transport chemicals such as petrol.",
+        "spans": [
+          "Fuel tanker drivers need additional safety qualifications on top of their HGV licence to be able to transport chemicals such as petrol."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "After Brexit, many European drivers returned to their home countries, or moved elsewhere, because working in the UK involved additional border bureaucracy which had an impact on their income.",
+        "spans": [
+          "After Brexit, many European drivers returned to their home countries, or moved elsewhere, because working in the UK involved additional border bureaucracy which had an impact on their income."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The pandemic saw even more drivers return to their home countries, with few coming back.",
+        "spans": [
+          "The pandemic saw even more drivers return to their home countries, with few coming back."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Some older drivers have retired, and there's a huge backlog in HGV driver tests due to Covid.",
+        "spans": [
+          "Meanwhile, some older drivers have retired, and there's a huge backlog in HGV driver tests due to Covid."
+        ]
+      }
+    ]
+  }
+}

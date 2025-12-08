@@ -1,0 +1,467 @@
+{
+  "question": "how the rich avoid taxes",
+  "key_points": {
+    "clueweb22-en0032-09-04789": [
+      {
+        "point_number": 1,
+        "point_content": "Extremely wealthy people maintain their wealth differently than ordinary people by holding it in assets like stocks and real estate, which are only taxed when sold.",
+        "spans": [
+          "A huge part of these tiny tax rates is the fact that extremely wealthy people maintain their wealth differently than ordinary people.",
+          "They hold it in assets like stocks and real estate, which are only taxed when sold."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The ultra-rich keep their salary low to keep more of their wealth.",
+        "spans": [
+          "Keeping your salary low is one way the ultra-rich get to keep more of their wealth."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The 25 richest Americans increased their wealth significantly but paid a very low percentage of that back in taxes.",
+        "spans": [
+          "From 2014 to 2018, according to ProPublica, the 25 richest Americans increased their wealth to the tune of $401 billion.",
+          "They paid 3.4% of that back in taxes."
+        ]
+      }
+    ],
+    "clueweb22-en0023-26-03578": [
+      {
+        "point_number": 1,
+        "point_content": "Trust Freezing is used to transfer assets while avoiding federal estate tax by freezing asset value before passing them on.",
+        "spans": [
+          "Trust Freezing: A way to transfer valuable assets to others (such as your children) while avoiding the federal estate tax.",
+          "\"Freeze\" the value of assets many years before you plan to pass them on to exclude all asset appreciation from the estate, and any taxes."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The super rich use offshore tax havens in countries with lower taxes to hide money.",
+        "spans": [
+          "Tax havens: Registering your business or putting your money in an account in another country with lower taxes.",
+          "~$21 trillion is being hidden in offshore tax havens."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Taking compensation in stock options allows control over when taxes are paid, as options are taxed only when exercised.",
+        "spans": [
+          "By taking part of your compensation in stock options you can control when and if you pay taxes, since most options are only taxed when they are exercised."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Shell companies exist only on paper and are used to funnel money and avoid paying taxes.",
+        "spans": [
+          "Shell company: A type of company that only exists on paper, allowing you to funnel money through it and avoid paying taxes."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Equity swaps allow exchanging gains and losses of assets without transferring ownership, avoiding transaction costs and local taxes on dividends.",
+        "spans": [
+          "Equity swap: An agreement that allows 2 parties to exchange the gain and loss of assets without actually transferring ownership.",
+          "The swap avoids transaction costs, and typically, local taxes on dividends."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Using stock options and borrowing against shares as collateral can avoid capital gains tax.",
+        "spans": [
+          "Popular loophole: Purchasing stock options, which sets the share price at a fixed rate, then borrowing money from an investment bank using the shares as collateral.",
+          "The borrower then repays the loan either with money made with the money borrowed or by handing over the shares, avoiding the capital gains tax."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Incorporating a personal brand allows channeling wages through a corporation, paying interest-free wages, claiming expenses, and reducing income taxes.",
+        "spans": [
+          "You can incorporate your own personal brand, which allows you to: 1. Channel wages through a nominal \"corporation\"; 2. Pay yourself an interest-free wage; 3. Claim expenses; 4. Reduce your income taxes."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Deferred-compensation plans allow earnings to grow tax-deferred for over 10 years.",
+        "spans": [
+          "You can put part of your payday in a deferred-compensation plan, instead of taking it all at once.",
+          "This allows your earnings to continue growing tax-deferred for +10 years."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Gift-giving and charitable donations allow avoiding taxes by using gift exclusions and deducting fair market value of donated items.",
+        "spans": [
+          "Gift-giving and charitable donations are a real win-win: Avoid taxes and look and feel good doing it!",
+          "Gifts to anyone of up to $13,000 are tax-excluded, with an unlimited exclusion for gifts given to a spouse.",
+          "Allows you to circulate cash within the family as \"gifts\" while writing it off.",
+          "Popular donation tactic: Deduct the fair market value of a donated item from your tax liability."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Owning yachts or multiple homes can offer tax benefits by categorizing them as second homes and benefiting from capital gains tax rates.",
+        "spans": [
+          "Owning a yacht or multiple homes aren't just status symbols -- they offer tax benefits as well!",
+          "Popular earner: Claim your \"second home\"",
+          "Spend at least 2 weeks of the year on your yacht, outfit it like a home, and categorize it as a second home for tax purposes.",
+          "If the home's value appreciates over time, the profits from selling it can be considered capital gains and taxed at a lower rate than salary or other investment income."
+        ]
+      }
+    ],
+    "clueweb22-en0020-92-13328": [
+      {
+        "point_number": 1,
+        "point_content": "The richest Americans make most of their money from investments in real estate or the stock market, which are taxed as capital gains.",
+        "spans": [
+          "the richest Americans, the top 1 percent, make most of their money from things like investments in real estate or the stock market. Those investments are taxed as capital gains."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Capital gains tax rate tops out at just 20 percent, which is lower than the maximum federal income tax rate of 37 percent.",
+        "spans": [
+          "While federal income tax has a maximum tax rate of 37 percent, the tax rate for capital gains tops out at just 20 percent."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Warren Buffett pays a lower tax rate than his secretary because of the capital gains tax system.",
+        "spans": [
+          "It’s why Warren Buffett, one of the richest people in America, has often said that he pays a lower tax rate than his secretary."
+        ]
+      }
+    ],
+    "clueweb22-en0034-63-01541": [
+      {
+        "point_number": 1,
+        "point_content": "The ultra-rich avoid taxes by borrowing money at low-interest rates instead of earning taxable income.",
+        "spans": [
+          "One way the ultra-rich avoid taxes: borrowing money at low-interest rates, according to ProPublica.",
+          "One of the key strategies employed by the ultrawealthy to keep their tax bills low: borrowing money.",
+          "Borrowing money allows the ultrawealthy to earn minuscule salaries, avoiding the 37% federal tax on top incomes, as well as avoid selling stock to free up cash, bypassing the 20% top capital gains tax rate. Since loans aren't considered taxable income, the wealthy need only pay back the principal and interest, rather than the higher taxes that would accompany multimillion-dollar incomes and investments."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The wealthy use their assets as collateral to secure large loans, which are not taxed as income.",
+        "spans": [
+          "America's billionaires have often financed their lavish lifestyles by using their vast fortunes as collateral for loans, which can come with single-digit interest rates.",
+          "In 2014, for example, Oracle cofounder Larry Ellison disclosed he had used 250 million of his Oracle shares as collateral to secure a $9.7 billion personal line of credit.",
+          "Elon Musk has similarly put up a massive amount of his equity in Tesla and SpaceX as collateral for loans, rather than sell those shares and pay 20% in capital gains tax to free up the money."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Loans are not considered taxable income, so the wealthy pay only principal and interest, avoiding higher taxes on income and capital gains.",
+        "spans": [
+          "Since loans aren't considered taxable income, the wealthy need only pay back the principal and interest, rather than the higher taxes that would accompany multimillion-dollar incomes and investments."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Examples of billionaires using borrowing to avoid taxes include Larry Ellison, Elon Musk, and Carl Icahn.",
+        "spans": [
+          "In 2014, for example, Oracle cofounder Larry Ellison disclosed he had used 250 million of his Oracle shares as collateral to secure a $9.7 billion personal line of credit.",
+          "Elon Musk has similarly put up a massive amount of his equity in Tesla and SpaceX as collateral for loans, rather than sell those shares and pay 20% in capital gains tax to free up the money.",
+          "Investor Carl Icahn also took advantage of borrowing money, paying $0 in federal income taxes despite reporting an adjusted gross income of $544 million, as he had an outstanding loan with Bank of America worth $1.2 billion, ProPublica reported."
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0010-51-10346": [
+      {
+        "point_number": 1,
+        "point_content": "The wealthiest Americans may be avoiding $163 billion in income taxes every year, according to a report from the U.S. Department of the Treasury.",
+        "spans": [
+          "The wealthiest Americans may be avoiding $163 billion in income taxes every year, according to a report from the U.S. Department of the Treasury."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The ultra-wealthy often leverage laws to reduce how much they owe despite increasing tax brackets.",
+        "spans": [
+          "While U.S. tax brackets increase by income, the ultra-wealthy often leverage laws to reduce how much they owe."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The ultra-wealthy often finesse the tax code to reduce how much they owe, paying little to no taxes compared with their wealth.",
+        "spans": [
+          "Although U.S. levies increase with income, the ultra-wealthy often finesse the tax code to reduce how much they owe.",
+          "And some billionaires, such as Amazon founder Jeff Bezos and Tesla CEO Elon Musk, pay little to no taxes compared with their wealth, a ProPublica report found."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The super affluent may receive income from interest, dividends, capital gains or rent, from investments, known as capital income, rather than labor.",
+        "spans": [
+          "While most Americans earn money through labor, such as salaries and benefits, the super affluent may receive income from interest, dividends, capital gains or rent, from investments, known as capital income."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The 1% may delay selling investments or use losses to offset capital gains to reduce taxable income.",
+        "spans": [
+          "Everyday Americans typically cover taxes through their paychecks, though the 1% may not see income on their tax returns because they can delay selling investments or use losses to offset capital gains."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "An executive may sell losing investments the same year they sell stock-based compensation to zero out taxable growth.",
+        "spans": [
+          "For example, an executive may receive stock-based compensation, and when it's time to sell, they may sell other losing investments the same year to zero out their taxable growth, Muhammad said."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Asset-based lending allows the wealthy to borrow money against their portfolio, avoiding selling appreciated investments and taxable events.",
+        "spans": [
+          "Another popular tactic, asset-based lending, allows the wealthy to borrow money against their portfolio when they need cash, eliminating the need to sell appreciated investments that may incur gains.",
+          "Plus, the portfolio loan isn't taxable or reported on a tax return."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "The affluent often hold assets until death, avoiding capital gains taxes by passing property to heirs with a step-up in basis.",
+        "spans": [
+          "The affluent often hold assets until death, avoiding capital gains taxes by passing property to heirs.",
+          "The value of the inherited property generally adjusts to what it's worth on the date of death, known as a \"step-up in basis.\""
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Wealth transfer taxes are important, with federal estate or gift taxes applying to property worth more than $11.7 million for individuals and $23.4 million for married couples.",
+        "spans": [
+          "\"For the ultra-wealthy, it's not all about income tax,\" said Lisa Featherngill, CFP and national director of wealth planning at Comerica Wealth Management in Winston-Salem, North Carolina.",
+          "When someone passes wealth to heirs or gives assets during life, they may be subject to up to 40% federal estate or gift taxes for property worth more than $11.7 million for individuals and $23.4 million for married couples, thanks to former President Donald Trump 's 2017 tax overhaul."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Wealthy families use estate planning strategies like dynasty trusts to pass wealth without incurring estate taxes at each death.",
+        "spans": [
+          "They also use estate planning strategies, such as so-called dynasty trusts, which allow families to pass wealth from generation to generation without the risk of incurring estate taxes at each death."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Philanthropic wealthy may make charitable gifts or give to donor-advised funds or private foundations to claim tax deductions.",
+        "spans": [
+          "Those who are philanthropic may also make charitable gifts, allowing donors to claim a federal write-off if they itemize tax deductions.",
+          "Wealthy families may give to a so-called donor-advised fund, which benefits a charity over time.",
+          "Those making larger gifts who want more control may set up a private foundation, Featherngill said."
+        ]
+      }
+    ],
+    "clueweb22-en0024-67-03832": [
+      {
+        "point_number": 1,
+        "point_content": "Most legal ways of avoiding tax involve you spending money and claiming a tax deduction for spending that money.",
+        "spans": [
+          "Most legal ways of avoiding tax involve you spending money and claiming a tax deduction for spending that money."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Two legal ways to avoid paying certain taxes without spending a cent are Superannuation Contributions and Commencing an Income Stream.",
+        "spans": [
+          "two ways to avoid tax without spending a cent",
+          "Here are the two legal ways avoid paying certain taxes."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Concessional Contributions to superannuation provide a tax deduction equal to the amount contributed, reducing income tax payable.",
+        "spans": [
+          "Concessional Contributions on the other hand essentially provide you with a tax deduction equal to the amount contributed. This reduces your income tax payable."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Concessional Contributions can be made via Salary Sacrifice or Personal Concessional Contributions.",
+        "spans": [
+          "A Concessional Contribution, intended on reducing your income tax liabilities, can be made in one of the following forms:\n– Salary Sacrifice\n– Personal Concessional Contributions"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Contributions tax of 15% applies on Concessional Contributions, but if your marginal tax rate is greater than 15%, you benefit overall.",
+        "spans": [
+          "Contributions tax equal to 15% of the contribution amount will be payable on Concessional Contributions.\nHowever, provided your personal marginal tax rate is greater than 15%, you’re ahead."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "The maximum concessional contribution to superannuation is $25,000 per financial year, with catch-up contributions possible.",
+        "spans": [
+          "The maximum amount that can be contributed to superannuation as a concessional contribution is $25,000 per financial year.",
+          "more can be contributed under the carry forward unused concessional contributions provisions by making catch-up contributions."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Comencing an income stream by converting superannuation to Pension phase allows earnings to be received completely tax free, unlike Accumulation phase where earnings are taxed up to 15%.",
+        "spans": [
+          "If your superannuation is in Accumulation Phase or a TTR Pension, all the earnings noted above within your account will be taxed at up to 15%.",
+          "If your superannuation is in Pension phase (except TTR Pension), all the earnings are received completely tax free."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Starting an account based pension moves superannuation to Pension phase, avoiding tax on earnings and capital gains.",
+        "spans": [
+          "The most common form of Pension phase where earnings are received tax free is when you start an account based pension."
+        ]
+      }
+    ],
+    "clueweb22-en0036-22-03853": [
+      {
+        "point_number": 1,
+        "point_content": "Businesses have the most leverage when it comes to tax credits, tax deductions or tax write-offs, and some of the richest people use this by tying their needs and wants into a business.",
+        "spans": [
+          "It’s no secret that businesses have the most leverage when it comes to tax credits, tax deductions or tax write-offs.",
+          "Some of the richest people in the world do this."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Reinvested profits in a business are not taxed, allowing wealthy people to delay income and avoid taxes by reinvesting in equipment, property, or campaigns.",
+        "spans": [
+          "Reinvested profits are not taxed!",
+          "For example, let’s say you make $100,000 profit and at the end of the year, you decide to reinvest $80,000 by buying equipment, or getting a property, or just doing a really big ad campaign."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Some countries and states have zero or no income taxes, and rich people move to these places to avoid paying taxes.",
+        "spans": [
+          "Did you know that some countries have zero income taxes?",
+          "If you use places like Dubai, Monaco, or the Bahamas as your primary residence then you don’t have to pay any taxes.",
+          "there are other states that have no state income taxes such as Florida and Texas just to name a couple.",
+          "There are rich people who have moved to Puerto to avoid taxes"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Making charitable donations is a way to avoid taxes, as money donated to charity is not taxable, and wealthy people often donate to their own foundations.",
+        "spans": [
+          "money that is donated to charity is not taxable.",
+          "This is usually why you will see very wealthy people donating a lot of their money to either their own foundation or someone close to them."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Maxing out retirement accounts like Roth IRA or 401Ks shields money against taxes, which is a common method to avoid taxes.",
+        "spans": [
+          "putting your money into a retirement account like a Roth IRA or 401Ks shields your money against taxes."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Taking equity instead of cash payments allows delaying income and avoiding taxes, as equity can appreciate in value over time.",
+        "spans": [
+          "Take Equity Instead of Payments",
+          "instead of taking a salary or cash payments right now… they can delay their income, avoid taxes and keep more of their wealth."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Wealthy people often have passive income from acquired assets, which helps them avoid paying taxes actively.",
+        "spans": [
+          "most of the time, they have passive income or what some would call “mailbox money” that comes to them every month, without them having to actively work.",
+          "So how do you get passive income? Well, you have to acquire assets."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Taking passive losses from depreciation on hard assets like real estate can offset passive income and reduce taxable income.",
+        "spans": [
+          "when you acquire a hard asset like a piece of real estate, car, or business equipment, those things depreciate year after year.",
+          "you can take depreciation, which will could actually give you a passive loss.",
+          "you can only write off passive income with passive losses."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Taking loans against assets instead of cash income helps avoid taxes because loans are not considered income and are not taxed.",
+        "spans": [
+          "consider taking out a loan against the assets you already own. And because the loan is not income, you won’t be tax."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Acquiring art can be used as a tax write-off and can be donated to art charities to save on taxes legally.",
+        "spans": [
+          "When you buy art, it can be a tax write-off.",
+          "You decide to donate it to an art charity that you personally own and manage.",
+          "That would mean you just save yourself $500,000 in nontaxable income. And that is all legal."
+        ]
+      }
+    ],
+    "clueweb22-en0037-21-12396": [
+      {
+        "point_number": 1,
+        "point_content": "The rich are able to avoid taxes through legal processes by using superior understanding of the tax laws to take advantage of all of the legal methods available to reduce their taxes.",
+        "spans": [
+          "The point is that the rich are able to avoid taxes through legal processes.",
+          "most of the mega-rich use superior understanding of the tax laws to take advantage of all of the legal methods available to reduce their taxes."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Capital gains are taxed at a lower rate than ordinary income, and the rich manage their assets to maximize capital gains and use losses to offset gains.",
+        "spans": [
+          "Capital Gains Management – Assets that are considered long-term capital gains (held for more than a year) are taxed at a 15% rate, or for the wealthiest Americans, a 20% rate that was recently introduced.",
+          "Short-term capital gains are taxed at the ordinary income tax rate, which for the mega-rich is 39.6%.",
+          "Any monetary stream that can be classified as a capital gain will be classified that way in order to take advantage of the rates.",
+          "Gains will be timed to bring the greatest tax advantage.",
+          "Losing ventures that result in capital losses can be used to offset capital gains.",
+          "Tax-loss harvesting, or the strategy of selling off poorly performing investments at strategic times and using the losses to offset capital gains, optimizes the positive tax effects."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The mega-rich modify their income by paying themselves smaller salaries and taking more income as dividends or stock options, which are taxed at lower rates.",
+        "spans": [
+          "Income Modification – The mega-rich are adept at keeping their taxable income and applicable tax rates as low as possible.",
+          "By incorporating and paying themselves a reasonable, smaller salary, the mega-rich can take a higher portion of their income as dividends.",
+          "Dividend income is generally taxed at the same 15%–20% capital gains rate.",
+          "Another tactic is to take a portion of compensation as stock options, which are generally taxed only when the options are exercised.",
+          "Once you reach the mega-rich status, it is possible to take a significant portion of your income in dividends and receive a much smaller portion in traditional income taxed at normal rates."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The mega-rich use tax deferral methods such as maxing out retirement accounts and deferred compensation plans to reduce current taxable income.",
+        "spans": [
+          "Tax Deferral – The mega-rich enjoy the same tax-deferred benefits of retirement programs such as IRAs and 401(k)s as you do.",
+          "Because of their wealth, they are in the position to max them out annually and take full advantage to the limits allowed by law.",
+          "There are other methods of tax deferral, such as with the stock option path listed above or deferred compensation plans that allow earnings to grow tax-free."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The mega-rich use strategic borrowing tactics to leverage money and avoid capital gains taxes.",
+        "spans": [
+          "Borrowing Tactics – Strategic borrowing methods can actually earn money.",
+          "Because of the leverage the mega-rich hold, they are able to borrow money in ways that can literally make money for them when they spot an opportunity.",
+          "One example is to purchase stock options at a fixed rate, then use those options as collateral to borrow money, which is used to make money off other opportunities.",
+          "The loan is then paid off with those proceeds or by handing over the shares, thus avoiding capital gains."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "The mega-rich use estate planning methods such as irrevocable trusts and the step-up in basis to avoid taxes upon death.",
+        "spans": [
+          "Taxes Upon Death – Estate taxes can be dealt with by establishing an irrevocable trust where certain assets are no longer owned by the taxpayer.",
+          "The trusts provide income while shielding the assets from taxes, and upon death, heirs will inherit the assets tax-free.",
+          "The “step-up” in basis is another method where capital gains taxes are avoided upon inheritance.",
+          "The step-up refers to the value, or basis, of an asset.",
+          "Consider a home you purchase for $200,000 that is worth $500,000 twenty years later upon your death.",
+          "The $300,000 in extra value is not subject to capital gains because the basis is “stepped-up” or raised to its current market value for your heirs."
+        ]
+      }
+    ]
+  }
+}

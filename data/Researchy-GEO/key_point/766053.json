@@ -1,0 +1,171 @@
+{
+  "question": "are diabetics clinically vulnerable",
+  "key_points": {
+    "clueweb22-en0016-95-04407": [
+      {
+        "point_number": 1,
+        "point_content": "People with diabetes are more vulnerable to developing a severe illness if they get coronavirus.",
+        "spans": [
+          "people with diabetes are more vulnerable to developing a severe illness if they do get coronavirus"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Everyone with diabetes, including type 1, type 2, gestational and other types, is more vulnerable to severe illness from coronavirus.",
+        "spans": [
+          "everyone with diabetes, including those with type 1, type 2, gestational and other types, is more vulnerable to developing a severe illness if they do get coronavirus"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Certain factors increase risk of serious illness in adults with diabetes, such as being older, having a high HbA1c, or having a history of diabetes-related complications.",
+        "spans": [
+          "In adults with diabetes, there are certain factors that increase risk of serious illness like being older, having a high HbA1c, or having a history of diabetes-related complications"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Children with diabetes have a very low risk of becoming seriously ill with coronavirus.",
+        "spans": [
+          "In children with diabetes, the risk of becoming seriously ill with coronavirus is very low"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The advice for clinically extremely vulnerable people to shield ended in 2021, and people previously considered clinically extremely vulnerable will not be advised to shield or follow specific national guidance.",
+        "spans": [
+          "The advice for clinically extremely vulnerable people to 'shield' came to an end in 2021.",
+          "The shielding programme has ended in England. This means that people who were previously considered clinically extremely vulnerable (CEV) will not be advised to shield in the future or follow specific national guidance."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "People with diabetes may receive individual advice about their risk from their diabetes team depending on their individual situation and complications.",
+        "spans": [
+          "Your diabetes team may provide individual advice to you about your risk, depending on your individual situation and any complications or other health conditions you may have."
+        ]
+      }
+    ],
+    "clueweb22-en0038-39-10790": [
+      {
+        "point_number": 1,
+        "point_content": "People with diabetes are considered ‘clinically vulnerable’ so they are not supported by this new guidance.",
+        "spans": [
+          "People with diabetes are considered ‘clinically vulnerable’ so they are not supported by this new guidance."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The guidance does not protect those people living with diabetes who have increased risk factors due to their age, weight, ethnicity, and higher blood glucose levels.",
+        "spans": [
+          "The guidance does not protect those people living with diabetes who have increased risk factors due to their age, weight, ethnicity, and higher blood glucose levels, which increase the risk of poorer outcomes if they develop coronavirus."
+        ]
+      }
+    ],
+    "clueweb22-en0002-70-19177": [
+      {
+        "point_number": 1,
+        "point_content": "Diabetes is listed as a condition that puts people aged 16 and over at high risk of getting seriously ill from COVID-19.",
+        "spans": [
+          "diabetes"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "People are no longer being called clinically extremely vulnerable, but some who were previously considered clinically extremely vulnerable are still considered at high risk from COVID-19.",
+        "spans": [
+          "People are no longer being called clinically extremely vulnerable.",
+          "Some people who were previously considered clinically extremely vulnerable are still considered at high risk from COVID-19."
+        ]
+      }
+    ],
+    "clueweb22-en0000-71-01835": [
+      {
+        "point_number": 1,
+        "point_content": "An additional 1.7 million people in England will now be classed as being clinically extremely vulnerable.",
+        "spans": [
+          "An additional 1.7 million people in England will now be classed as being clinically extremely vulnerable."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "More people with diabetes in England added to list of clinically extremely vulnerable people.",
+        "spans": [
+          "More people with diabetes in England added to list of clinically extremely vulnerable people"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The UK Government has adopted a new approach to predict the risk a person has from becoming seriously unwell from coronavirus using QCovid Population Risk Assessment.",
+        "spans": [
+          "The UK Government has adopted a new approach to predict the risk a person has from becoming seriously unwell from coronavirus. This involves a new tool called QCovid Population Risk Assessment, which has made it possible to identify people at higher risk through their medical records and quickly alert both them and their healthcare teams."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Many people with diabetes were exposed to more risk from coronavirus than they should have been and more should have been classed as clinically extremely vulnerable earlier on in the pandemic.",
+        "spans": [
+          "We think more people with diabetes should have been classed as clinically extremely vulnerable earlier on in the pandemic, and have been calling for a more individual approach to assessment of risk. Many people with diabetes were exposed to more risk from coronavirus than they should have been."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The risk tool will protect those people with diabetes who are at highest risk of harm if they develop coronavirus and they will be prioritised for the vaccine and support to shield.",
+        "spans": [
+          "The long-awaited deployment of the risk tool in England to assess individual risk is a welcome step that will protect those people with diabetes who are at highest risk of harm if they develop coronavirus. Many of these people will not have been identified as clinically extremely vulnerable before because a combination of different risk factors was not previously used to define risk. It’s reassuring that these people will now be urgently prioritised for the vaccine, could be supported to work from home, and receive financial support if they cannot do so."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Diabetes UK has been calling on governments to consider factors such as obesity, age and ethnicity in combination with diabetes when assessing individuals’ risk.",
+        "spans": [
+          "Diabetes UK has long been calling on the governments across the UK and the NHS to consider factors such as obesity, age and ethnicity in combination with diabetes, when assessing individuals’ risk."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "People with diabetes have been hit hard by the pandemic and some are much more likely to become seriously unwell if they catch the virus than others.",
+        "spans": [
+          "People with diabetes have been hit hard by the pandemic – but we know the impact has not been the same for everyone, with some people being much more likely to become seriously unwell if they catch the virus than others."
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0027-18-18536": [
+      {
+        "point_number": 1,
+        "point_content": "People with diabetes are classified as clinically vulnerable, not clinically extremely vulnerable.",
+        "spans": [
+          "have diabetes",
+          "Those in the following group count as clinically vulnerable:",
+          "have diabetes"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Clinically extremely vulnerable group includes people with specific severe conditions but does not explicitly list diabetes.",
+        "spans": [
+          "The clinically extremely vulnerable group includes those with reduced immune systems, for example due to organ transplants, or those with specific cancers or severe respiratory conditions, such as cystic fibrosis.",
+          "Those with the following conditions fall into the clinically extremely vulnerable group:"
+        ]
+      }
+    ],
+    "clueweb22-en0021-40-15189": [
+      {
+        "point_number": 1,
+        "point_content": "Diabetes is included in the list of conditions that count as clinically vulnerable for the Covid-19 vaccine.",
+        "spans": [
+          "have diabetes"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Those aged 16 and over who are clinically vulnerable, including diabetics, are next to be invited for their Covid vaccine.",
+        "spans": [
+          "Now, the UK is moving on to vaccinating those aged 65 and over and those aged 16 and over who are clinically vulnerable or with underlying health conditions.",
+          "From now, those aged 65 and over or classed as clinically vulnerable should start expecting an invite for the jab."
+        ]
+      }
+    ]
+  }
+}

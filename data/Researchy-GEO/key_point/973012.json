@@ -1,0 +1,805 @@
+{
+  "question": "why people won't get vaccinated",
+  "key_points": {
+    "clueweb22-en0032-28-15786": [
+      {
+        "point_number": 1,
+        "point_content": "Lack of access to vaccines, including transportation issues, inflexible schedules, and misinformation about cost or availability, prevents some people from getting vaccinated.",
+        "spans": [
+          "lack of access to vaccines",
+          "People may not have the transportation to get to a pharmacy.",
+          "A busy, inflexible family or work schedule may prevent them from taking time off work to get the shot and take a day or two off to recover from the side effects.",
+          "Some people believe — incorrectly — that getting the vaccine isn’t free for everyone or just may not know that the vaccine is actually available to them."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Some people do not see Covid-19 as a serious threat, especially younger individuals and some Republicans influenced by former President Trump's claims, leading to vaccine hesitancy.",
+        "spans": [
+          "Covid-19 isn’t seen as a threat",
+          "Maybe they’re young, seeing that the virus isn’t as deadly for them as it is for older groups.",
+          "They could be Republicans, who bought into particularly former President Donald Trump’s claims that the coronavirus wasn’t a big deal and that Democrats, experts, and journalists have exaggerated its risk."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Concerns about vaccine side effects, both real and perceived, deter some people from getting vaccinated.",
+        "spans": [
+          "Vaccine side effects",
+          "concern is the vaccine itself — and particularly the side effects that can come with it.",
+          "Some of this comes down to getting the right information to the vaccine hesitant.",
+          "Officials, media, and experts can continue to communicate that the side effects are almost all mild and don’t last very long — and are, in fact, a sign the vaccines are working and getting the immune system going."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Lack of trust in the vaccines themselves, including concerns about the speed of development and emergency use authorization status, causes hesitancy.",
+        "spans": [
+          "Lack of trust in the vaccines",
+          "They may believe that the process for the vaccines was too fast",
+          "the vaccines aren’t even technically approved by the Food and Drug Administration, since the agency has only authorized them for emergency use."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Lack of trust in institutions such as government agencies and the healthcare system contributes to vaccine hesitancy.",
+        "spans": [
+          "Lack of trust in institutions",
+          "They may not trust the government agencies or companies that helped develop the vaccines.",
+          "Black Americans, for example, report lower levels of trust in the health care system — a result of outright abuses, like the Tuskegee study",
+          "This distrust can then extend to vaccines."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Belief in conspiracy theories about Covid-19 vaccines or vaccines in general leads some people to refuse vaccination.",
+        "spans": [
+          "A variety of conspiracy theories",
+          "At least half of people who say they won’t get vaccinated believe at least one conspiracy theory about the Covid-19 vaccines or vaccines in general"
+        ]
+      }
+    ],
+    "clueweb22-en0045-66-05489": [
+      {
+        "point_number": 1,
+        "point_content": "Some people are hesitant to get vaccinated or are waiting for an alternative vaccine.",
+        "spans": [
+          "Yet some people are still hesitant to get vaccinated — or they’re waiting for an alternative vaccine."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Fear of blood clots from the AstraZeneca vaccine is a reason for not getting vaccinated.",
+        "spans": [
+          "'The AstraZeneca vaccine could give me a blood clot'",
+          "The AstraZeneca vaccine has been linked to an extremely rare blood-clotting condition called thrombosis with thrombocytopenia syndrome (TTS). But the risk is tiny.",
+          "You are extremely unlikely to get a blood clot from the AstraZeneca vaccine."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Earlier advice against AstraZeneca for 18-59 year olds caused hesitancy.",
+        "spans": [
+          "'I'm aged 18-59 — we were told not to get AstraZeneca'",
+          "Yes, earlier in the year, the Australian Technical Advisory Group on Immunisation (ATAGI) said that the Pfizer vaccine was the preferred vaccine for people aged 18 to 59."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "People prefer to wait for a different vaccine instead of getting vaccinated immediately.",
+        "spans": [
+          "'I’ll wait for a different vaccine'",
+          "If you wait for your preferred vaccine, it may be too late."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Some believe COVID-19 is mild and not dangerous, so they don't get vaccinated.",
+        "spans": [
+          "'COVID-19 is a mild disease and not dangerous'"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Distrust in vaccines due to their quick development is a reason for vaccine hesitancy.",
+        "spans": [
+          "'I don’t trust the vaccines because they were developed quickly'"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "People think their risk of getting COVID-19 is low, so they delay vaccination.",
+        "spans": [
+          "'My risk of getting COVID-19 is low'"
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "People may be influenced by friends or relatives who advise against vaccination.",
+        "spans": [
+          "'My friend (or relative) told me not to get vaccinated'"
+        ]
+      }
+    ],
+    "clueweb22-en0037-76-08539": [
+      {
+        "point_number": 1,
+        "point_content": "Lack of access to vaccines, including transportation issues, inflexible schedules, and misinformation about vaccine availability and cost.",
+        "spans": [
+          "lack of access to vaccines",
+          "People may not have the transportation to get to a pharmacy.",
+          "A busy, inflexible family or work schedule may prevent them from taking time off work to get the shot and take a day or two off to recover from the possible side effects.",
+          "Some people believe — incorrectly — that getting the vaccine isn’t free for everyone or just may not know that the vaccine is actually available to them."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Some people do not see Covid-19 as a serious threat, which reduces their motivation to get vaccinated.",
+        "spans": [
+          "Covid-19 isn’t seen as a threat",
+          "some Americans still don’t see the coronavirus as a serious threat.",
+          "Not seeing Covid-19 as a threat remains one of the biggest predictors for those who are most resistant to getting vaccinated — the hard noes."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Concerns about vaccine side effects, both real and perceived, deter some people from getting vaccinated.",
+        "spans": [
+          "Vaccine side effects",
+          "concern about the vaccines’ side effects",
+          "concern is the vaccine itself — and particularly the side effects that can come with it.",
+          "Some of this comes down to getting the right information to the vaccine hesitant.",
+          "Officials, media, and experts can continue to communicate that side effects are almost all mild and don’t last very long — and are, in fact, a sign the vaccines are working and getting the immune system going."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Lack of trust in the vaccines themselves, including concerns about the speed of development and emergency use authorization.",
+        "spans": [
+          "Lack of trust in the vaccines",
+          "many of the hesitant just don’t have much trust in the vaccines.",
+          "They may believe that the process for the vaccines was too fast",
+          "the vaccines aren’t even technically approved by the Food and Drug Administration since the agency has only authorized them for emergency use."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Lack of trust in institutions such as government agencies and the healthcare system contributes to vaccine hesitancy.",
+        "spans": [
+          "Lack of trust in institutions",
+          "they may not trust the government agencies or companies that helped develop the vaccines.",
+          "Black Americans, for example, report lower levels of trust in the health care system — a result of outright abuses, like the Tuskegee study",
+          "This distrust can then extend to vaccines."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Belief in conspiracy theories about Covid-19 vaccines or vaccines in general leads some people to refuse vaccination.",
+        "spans": [
+          "A variety of conspiracy theories",
+          "At least half the people who say they won’t get vaccinated believe at least one conspiracy theory about the Covid-19 vaccines or vaccines in general."
+        ]
+      }
+    ],
+    "clueweb22-en0007-20-08432": [
+      {
+        "point_number": 1,
+        "point_content": "Some people believe the vaccine was made too quickly and are hesitant because of that.",
+        "spans": [
+          "I don’t trust the speed at which the vaccine was developed."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "There is a fear that the vaccine will alter DNA, which is a common misconception.",
+        "spans": [
+          "The COVID vaccine will alter my DNA."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Some people worry the vaccine will cause infertility issues, which is not supported by scientific evidence.",
+        "spans": [
+          "The vaccine will cause infertility issues."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Some people think they don't need the vaccine because they have already had COVID-19 and believe they are protected.",
+        "spans": [
+          "I’ve already had COVID so I’m protected."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "There is an anti-science mindset and misinformation that causes people to not trust science and healthcare recommendations.",
+        "spans": [
+          "There increasingly seems to be an anti-science mindset in many that might make a person afraid to follow the recommendations of the doctors.",
+          "He said it’s causing people to not trust science."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Some people prefer to wait for others to get vaccinated and rely on herd immunity instead.",
+        "spans": [
+          "I’ll wait for the rest to get vaccinated and I’ll get herd immunity."
+        ]
+      }
+    ],
+    "clueweb22-en0002-91-05733": [
+      {
+        "point_number": 1,
+        "point_content": "One in four Americans says they don’t plan to take the COVID-19 vaccine, and about half of Republicans under 50 say they won’t get a vaccine.",
+        "spans": [
+          "One in four Americans says they don’t plan to take the COVID-19 vaccine",
+          "about half of Republicans under 50 say they won’t get a vaccine"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Most said they weren’t against all vaccines; they were just a “no” on this vaccine.",
+        "spans": [
+          "Most said they weren’t against all vaccines; they were just a “no” on this vaccine"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Many people I spoke with said they trusted their immune system to protect them.",
+        "spans": [
+          "Many people I spoke with said they trusted their immune system to protect them"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Some had already recovered from COVID-19 and considered the vaccine unnecessary.",
+        "spans": [
+          "Some had already recovered from COVID-19 and considered the vaccine unnecessary"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Others were worried that the vaccines might have long-term side effects.",
+        "spans": [
+          "Others were worried that the vaccines might have long-term side effects"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Many people said they had read up on the risk of COVID-19 to people under 50 and felt that the pandemic didn’t pose a particularly grave threat.",
+        "spans": [
+          "Many people said they had read up on the risk of COVID-19 to people under 50 and felt that the pandemic didn’t pose a particularly grave threat"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Many others said that perceived liberal overreach had pushed them to the right.",
+        "spans": [
+          "Many others said that perceived liberal overreach had pushed them to the right"
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "The coronavirus is a wildly overrated threat. Yes, it’s appropriate and good to protect old and vulnerable people. But I’m not old or vulnerable. If I get it, I’ll be fine.",
+        "spans": [
+          "The coronavirus is a wildly overrated threat. Yes, it’s appropriate and good to protect old and vulnerable people. But I’m not old or vulnerable. If I get it, I’ll be fine."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "I don’t need some novel pharmaceutical product to give me permission to do the things I’m already doing. This isn’t even an FDA-approved vaccine; it’s authorized for an emergency.",
+        "spans": [
+          "I don’t need some novel pharmaceutical product to give me permission to do the things I’m already doing. This isn’t even an FDA-approved vaccine; it’s authorized for an emergency."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "They’re motivated to distrust public-health authorities who they’ve decided are a bunch of phony neurotics, and they’re motivated to see the vaccines as a risky pharmaceutical experiment.",
+        "spans": [
+          "they’re motivated to distrust public-health authorities who they’ve decided are a bunch of phony neurotics",
+          "they’re motivated to see the vaccines as a risky pharmaceutical experiment"
+        ]
+      }
+    ],
+    "clueweb22-en0040-94-10703": [
+      {
+        "point_number": 1,
+        "point_content": "A sizeable number of people are still reluctant to get the shots, ranging from around 10-20% in the UK to around 50% in Japan and 60% in France.",
+        "spans": [
+          "a sizeable number of people are still reluctant to get the shots",
+          "that ranges from around 10-20% of people in the UK to around 50% in Japan and 60% in France"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The vaccine hesitant are often not anti-scientific but undecided about taking the injection.",
+        "spans": [
+          "The vast majority of vaccine-hesitant people do not have a political agenda and are not committed to an anti-scientific cause: they are simply undecided about their choice to take the injection."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Fear of needles is a major barrier for around 10% of the population.",
+        "spans": [
+          "A recent study from the University of Oxford suggests that a fear of needles is a major barrier for around 10% of the population."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The 5Cs model explains psychological factors influencing vaccine hesitancy: Confidence, Complacency, Calculation, Constraints, Collective responsibility.",
+        "spans": [
+          "One of the most promising is known as the 5Cs model, which considers the following psychological factors: Confidence: the person's trust in the vaccines efficacy and safety, the health services offering them, and the policy makers deciding on their rollout Complacency: whether or not the person considers the disease itself to be a serious risk to their health Calculation: the individual's engagement in extensive information searching to weigh up the costs and benefits Constraints (or convenience): how easy it is for the person in question to access the vaccine Collective responsibility: the willingness to protect others from infection, through one's own vaccination"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Cognitive biases such as negativity bias, optimism bias, and confirmation bias influence people's perceptions and decisions about vaccines.",
+        "spans": [
+          "Jessica Saleska at the University of California, Los Angeles points out that humans have two seemingly contradictory tendencies – a \"negativity bias\" and an \"optimism bias\" that can each skew people’s appraisals of the risks and benefits.",
+          "Then there's the famous confirmation bias, which can also twist people's perceptions of the risks of the virus through the ready availability of misinformation from dubious sources that exaggerate the risks of the vaccines."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Social factors like convenience and structural racism affect vaccine uptake.",
+        "spans": [
+          "Nor should we forget the many social factors that might influence people's uptake – the \"constraints/convenience\" factor in the 5Cs.",
+          "Finally, we need to be aware of the context of people's decisions, he says – such as the structural racism that might had led certain ethnic groups to have lower overall trust in medical authorities."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Health authorities need to provide easy-to-understand information and engage in open dialogue to address concerns and improve vaccine uptake.",
+        "spans": [
+          "There is no easy solution, but health authorities can continue to provide easy-to-digest, accurate information address the major concerns.",
+          "However they choose to deliver the information, health services need to make it clear that they are engaging in an open dialogue, Razai says – rather than simply dismissing them out of hand."
+        ]
+      }
+    ],
+    "clueweb22-en0000-24-17837": [
+      {
+        "point_number": 1,
+        "point_content": "Nurse Michele Brown refuses COVID-19 vaccine due to medical freedom and religious beliefs.",
+        "spans": [
+          "Nurse explains why she won’t get COVID-19 vaccine",
+          "Brown is leaving her job at Ashland Community Hospital",
+          "Brown said Asante granted her a religious exception, but the accommodation it gave her was to place her on administrative leave.",
+          "“I love what I do. I don’t love it enough to sacrifice my medical freedom,” said Brown, who has decades of experience as a nurse.",
+          "Brown said she’s prayed extensively about the issue.",
+          "“God has me on this path, and he has a plan. I don’t understand it, but I’m going to do it,” she said."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Brown believes her healthy lifestyle and strong immune system reduce her risk from COVID-19, so she does not see vaccination as necessary for herself.",
+        "spans": [
+          "Brown said people with underlying health problems should get vaccinated against COVID-19. But she said her healthy lifestyle and years of exposure to germs and viruses at the hospital have given her a strong immune system.",
+          "To her knowledge, Brown said she hasn’t had COVID-19 herself.",
+          "She believes she’s at such low risk of serious consequences from COVID-19 that, for her, it’s not worth facing potential risks from vaccination."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Brown is concerned about the new mRNA vaccine technology and potential unknown long-term effects.",
+        "spans": [
+          "Brown said she’s not willing to get injected with COVID-19 vaccines because they use technology that is new for vaccinations.",
+          "Although messenger RNA technology is new for use with COVID-19 vaccines, it’s been used for years for other medical uses, including teaching the immune system to target cancer cells.",
+          "Brown said she thinks it’s too early to tell if COVID-19 vaccines will cause long-term harm.",
+          "“Three years from now, I hope I’m totally wrong and there are no untoward effects. I’m not willing to take those risks,” she said.",
+          "She fears a COVID-19 vaccination could change how her body responds to viruses in the future in unpredictable ways."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Brown cites the dengue fever vaccine incident in the Philippines as an example of risks from new vaccines and loss of trust in vaccination.",
+        "spans": [
+          "Brown pointed to the example of a botched dengue fever vaccination program in the Philippines as an example of the risk of new vaccines.",
+          "According to news reports, starting in 2016 more than 800,000 children in the Philippines received a dengue fever vaccination that increased the chances that their blood vessels would leak plasma if they ever caught dengue fever.",
+          "The vaccination campaign moved forward despite warnings from a dengue fever expert about the risks.",
+          "The debacle damaged trust in all vaccinations so much in the Philippines that vaccination rates dropped."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Brown is willing to face financial and job consequences rather than get vaccinated.",
+        "spans": [
+          "Brown said she would like Oregon’s governor to rescind the state mandate that health care and education workers get vaccinated.",
+          "As for the financial hit Brown will take from her decision not to get vaccinated, she said she has enough vacation time built up that she can get paid for 10 weeks at 20 hours per week.",
+          "“I see the injustice happening. Unless we take a stand, what’s next? That to me is worth the job and the medical insurance. I’ll figure it out. I’ll flip burgers if I have to,” she said.",
+          "Brown said many people don’t have a financial buffer and got vaccinated against their wishes."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Brown believes both vaccinated and unvaccinated people can spread COVID-19, and vaccination does not completely prevent transmission.",
+        "spans": [
+          "As for whether she thinks unvaccinated health care workers endanger vulnerable patients, Brown said both vaccinated and unvaccinated people can spread the virus.",
+          "Research so far shows vaccinated people are less likely to become infected with the virus, the CDC said.",
+          "However, if they do become infected, research is showing they can still pass the virus to others."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Brown feels the COVID-19 death statistics are inaccurate and too high because people with severe health problems get counted as COVID-19 deaths if they test positive.",
+        "spans": [
+          "She believes the death statistics are inaccurate and too high because people with severe health problems get counted as COVID-19 deaths if they test positive for the virus."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Brown says the vaccination issue is causing division and resentment among health care workers.",
+        "spans": [
+          "Brown said the vaccination issue is causing division among health care workers who have stood shoulder-to-shoulder during the pandemic.",
+          "“There’s a lot of disdain and resentment and a lot of really awful things have been said,” she said."
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0017-07-10127": [
+      {
+        "point_number": 1,
+        "point_content": "Most people who don't get vaccinated face day-to-day logistical barriers rather than outright refusal.",
+        "spans": [
+          "In reality, most are people faced with day-to-day logistical barriers."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "People might be too busy or have multiple children, causing vaccination to drop down their to-do list.",
+        "spans": [
+          "They might be single parents or families with multiple children where vaccination drops down their crowded to-do list"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Some people have questions about vaccination but lack easy access to health professionals to discuss them.",
+        "spans": [
+          "or people with questions about vaccination who don’t have easy access to health professionals they can talk to."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "A smaller number of people refuse vaccination outright for various reasons, and an even smaller group actively campaigns against it.",
+        "spans": [
+          "A smaller number will refuse it outright for any number of reasons. An even smaller group will grab their keyboards to loudly campaign against its use."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The largest group of people not vaccinating are the hesitant, who are not necessarily anti-vaxxers.",
+        "spans": [
+          "Still a relatively small number of people, they are the largest group of people not vaccinating, though it would be unfair, and even counterproductive, to label them antivaxxers."
+        ]
+      }
+    ],
+    "clueweb22-en0012-01-07377": [
+      {
+        "point_number": 1,
+        "point_content": "The vaccine does not provide immunity but only reduces the chance of severe illness, so it is considered a medical treatment, not a vaccine.",
+        "spans": [
+          "It’s not a vaccine. A vaccine by definition provides immunity to a disease. This does not provide immunity to anything. In a best-case scenario, it merely reduces the chance of getting a severe case of a virus if one catches it. Hence, it is a medical treatment, not a vaccine."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Distrust in drug companies, politicians, medical establishment, and media due to perceived deceit and manipulation about the vaccine.",
+        "spans": [
+          "The drug companies, politicians, medical establishment, and media have joined forces to universally refer to this as a vaccine when it is not one, with the intention of manipulating people into feeling safer about undergoing a medical treatment. Because they are being deceitful, I do not trust them, and want nothing to do with their medical treatment."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Concerns about minimal and short-lasting benefits of the vaccine and refusal to become a chronic patient receiving regular injections.",
+        "spans": [
+          "The presumed benefits of this medical treatment are minimal and would not last long in any case. The establishment acknowledges this, and is already talking about additional shots and ever-increasing numbers of new “vaccines” that would be required on a regular basis. I refuse to turn myself into a chronic patient who receives injections of new pharmaceutical products on a regular basis simply to reduce my chances of getting a severe case of a virus that these injections do not even prevent."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Preference for natural immune system strengthening and alternative treatments over the vaccine.",
+        "spans": [
+          "I can reduce my chances of getting a severe case of a virus by strengthening my immune system naturally. In the event I catch a virus, there are vitamins and well-established drugs that have had wonderful results in warding off the illness, without the risks and unknowns of this medical treatment."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Concerns about unknown long-term safety of the vaccine and distrust in claims of safety.",
+        "spans": [
+          "The establishment insists that this medical treatment is safe. They cannot possibly know this because the long-term effects are entirely unknown, and will not be known for many years. They may speculate that it is safe, but it is disingenuous for them to make such a claim that cannot possibly be known. Because they are being disingenuous, I do not trust them, and I want no part of their treatment."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Refusal to take vaccine due to lack of liability from drug companies and politicians if something goes wrong.",
+        "spans": [
+          "The drug companies have zero liability if anything goes wrong, and cannot be sued. Same for the politicians who are pushing this treatment. I will not inject myself with a new, experimental medical device when the people behind it accept no liability or responsibility if something goes wrong. I will not risk my health and my life when they refuse to risk anything."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Reluctance to be a test subject in what is perceived as an experimental treatment.",
+        "spans": [
+          "Israel’s Prime Minister has openly admitted that the Israeli people are the world’s laboratory for this experimental treatment. I am not interested in being a guinea pig or donating my body to science."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Concerns about sharing personal medical data without consent as part of vaccine agreements.",
+        "spans": [
+          "Israel agreed to share medical data of its citizens with a foreign drug company as a fundamental part of their agreement to receive this treatment. I never consented for my personal medical data to be shared with any such entity, nor was I even asked. I will not contribute to this sleazy enterprise."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Distrust due to Pfizer executives not taking the vaccine themselves and perceived hypocrisy.",
+        "spans": [
+          "The executives and board members at Pfizer are on record that they have not taken their own treatment, despite all the fanfare and assurances. They are claiming that they would consider it unfair to “cut the line”. This is a preposterous excuse, and it takes an unbelievable amount of chutzpah to even say such a thing. Such a “line” is a figment of their own imagination; if they hogged a couple of injections for themselves no one would cry foul."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Distrust in media for accepting Pfizer executives' excuse and promoting the vaccine.",
+        "spans": [
+          "The establishment media have accepted this preposterous excuse without question or concern. Moreover, they laud Pfizer’s executives for their supposed self-sacrifice in not taking their own experimental treatment until we go first. Since they consider us such fools, I do not trust them, and do not want their new treatment."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Suspicion due to Bill Gates promoting vaccines but not taking it himself and his views on depopulation.",
+        "spans": [
+          "Bill Gates is touting these vaccines as essential to the survival of the human race.",
+          "Bill Gates believes the world has too many people and needs to be “depopulated”.",
+          "Bill Gates, perhaps the richest man in the world, has also not been injected. No rush."
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "Belief that benefits of vaccine are exaggerated and risks ignored by establishment, leading to distrust.",
+        "spans": [
+          "The establishment has been entirely one-sided in celebrating this treatment. The politicians and media are urging people to take it as both a moral and civic duty. The benefits of the treatment are being greatly exaggerated, the risks are being ignored, and the unknowns are being brushed aside. Because they are being deceitful and manipulative, I will not gamble my personal wellbeing on their integrity."
+        ]
+      },
+      {
+        "point_number": 13,
+        "point_content": "Discomfort with intense propaganda and marketing campaign promoting the vaccine.",
+        "spans": [
+          "There is an intense propaganda campaign for people to take this treatment. Politicians and celebrities are taking selfies of themselves getting injected (perhaps in some cases pretending to get injected), the media is hyping this as the coolest, smartest, most happy and fun thing to do. It is the most widespread marketing campaign in history. This is not at all appropriate for any medical treatment, let alone a brand new one, and it makes me recoil."
+        ]
+      },
+      {
+        "point_number": 14,
+        "point_content": "Rejection of peer pressure and mass hysteria to get vaccinated.",
+        "spans": [
+          "The masses are following in tow, posting pictures of themselves getting injected with a drug, feeding the mass peer pressure to do the same. There is something very alarming and sick about this, and I want no part of it. I never took drugs just because “everyone’s doing it” and it’s cool. I’m certainly not going to start now."
+        ]
+      },
+      {
+        "point_number": 15,
+        "point_content": "Concerns about bullying and censorship of those raising concerns about the vaccine.",
+        "spans": [
+          "Those who raise concerns about this medical treatment are being bullied, slandered, mocked, censored, ostracized, threatened, and fired from their jobs. This includes medical professionals who have science-based concerns about the drug and caregivers who have witnessed people under their charge suffering horrible reactions and death shortly after being injected."
+        ]
+      },
+      {
+        "point_number": 16,
+        "point_content": "Belief that the vaccine is part of the greatest medical experiment in history.",
+        "spans": [
+          "This is the greatest medical experiment in the history of the human race."
+        ]
+      },
+      {
+        "point_number": 19,
+        "point_content": "Distrust in medical establishment for acting as marketing agents for pharmaceutical companies and politicians.",
+        "spans": [
+          "The medical establishment is not informing people about any of this. They have become marketing agents for an experimental drug, serving huge companies and politicians who have made deals with them. This is a direct conflict with their mandate to concern themselves exclusively with the wellbeing of the people under their care. Since the medical establishment has become corrupted, and has become nothing more than a corporate and political tool, I do not trust the experimental drug they want so badly to inject me with."
+        ]
+      },
+      {
+        "point_number": 20,
+        "point_content": "Opposition to pressure tactics used to coerce vaccination, seen as unethical and counterproductive.",
+        "spans": [
+          "We are being pressured in various ways to get injected, which violates medical ethics and the foundations of democratic society. The best way to get me not to do something is to pressure me to do it."
+        ]
+      },
+      {
+        "point_number": 21,
+        "point_content": "Suspicion due to government sealing virus and treatment protocols for 30 years, implying cover-up.",
+        "spans": [
+          "The government has sealed their protocol related to the virus and treatments for THIRTY YEARS. This is information that the public has a right to know, and the government has a responsibility to share. What are they covering up?"
+        ]
+      },
+      {
+        "point_number": 23,
+        "point_content": "Opposition to social and religious pressure and stigmatization of those refusing vaccination.",
+        "spans": [
+          "The establishment has recruited doctors, rabbis, the media, and the masses to harangue people who don’t want to get injected with a new drug. We are being called the worst sort of names. We are being told that we believe in crazy conspiracies, that we are against science, that we are selfish, that we are murderers, that we don’t care about the elderly, that it’s our fault that the government continues to impose draconian restrictions on the public."
+        ]
+      },
+      {
+        "point_number": 24,
+        "point_content": "Belief that many vaccinated people did not make an informed decision but were influenced by hype, propaganda, and fear.",
+        "spans": [
+          "I know of many people who got injected, but none of them studied the science in depth, carefully weighed the potential benefits against the risks, compared this option to other alternatives, was truly informed, and decided this medical treatment was the best option for them. On the contrary, they got injected because of the hype, the propaganda, the pressure, the fear, blind trust in what “the majority of experts” supposedly believed (assuming THEY all studied everything in depth and were completely objective, which is highly dubious), blind trust in what certain influential rabbis urged them to do (ditto the above), or hysterical fear that the only option was getting injected or getting seriously ill from the virus."
+        ]
+      },
+      {
+        "point_number": 25,
+        "point_content": "Distrust in drug companies due to history of pushing harmful drugs and suppressing information.",
+        "spans": [
+          "The drug companies have a long and glorious history of causing mass carnage with wonder drugs they thrust on unsuspecting populations, even after serious problems had already become known. Instead of pressing the pause button and halting the marketing of these drugs until these issues could be properly investigated, the drug companies did everything in their power to suppress the information and keep pushing their products."
+        ]
+      },
+      {
+        "point_number": 26,
+        "point_content": "Concerns about adverse reactions being ignored and whistleblowers being punished.",
+        "spans": [
+          "Indeed, the horror stories are already coming in at warp speed, but the politicians are not the least bit concerned, the medical establishment is brushing them aside as unrelated or negligible, the media is ignoring it, the drug companies are steaming ahead at full speed, and those who raise a red flag continue to be bullied, censored, and punished."
+        ]
+      },
+      {
+        "point_number": 27,
+        "point_content": "Frustration with denial of possible links between vaccine and deaths or adverse effects.",
+        "spans": [
+          "Although many people have died shortly after getting injected — including perfectly healthy young people — we are not allowed to imply that the injection had anything to do with it. Somehow this is anti-science and will cause more people to die. I believe that denying any possible link, abusing people who speculate that there might be a link, and demonstrating not the slightest curiosity to even explore if there might be a link is what is anti-science and could very well cause more people to die."
+        ]
+      },
+      {
+        "point_number": 29,
+        "point_content": "Lack of informed consent and pressure from healthcare providers to get vaccinated.",
+        "spans": [
+          "My “healthcare” provider keeps badgering me to get injected, yet they have provided me no information on this treatment or any possible alternatives. Everything I know I learned from others outside the establishment. Informed consent has become conformed consent. I decline."
+        ]
+      },
+      {
+        "point_number": 30,
+        "point_content": "Overall distrust due to perceived lies, corruption, propaganda, censorship, and violation of ethics surrounding the vaccine.",
+        "spans": [
+          "I see all the lies, corruption, propaganda, manipulation, censorship, bullying, violation of medical ethics, lack of integrity in the scientific process, suppression of inconvenient adverse reactions, dismissal of legitimate concerns, hysteria, cult-like behavior, ignorance, closed-mindedness, fear, medical and political tyranny, concealment of protocols, lack of true concern for human life, lack of respect for basic human rights and freedoms, perversion of the Torah and common sense, demonization of good people, the greatest medical experiment of all time being conducted by greedy, untrustworthy, godless people, the lack of liability for those who demand I risk everything…"
+        ]
+      }
+    ],
+    "clueweb22-en0031-18-18378": [
+      {
+        "point_number": 1,
+        "point_content": "One of my family members, who’s in his 40s, has consistently refused to be vaccinated against Covid and will not be moved from his position.",
+        "spans": [
+          "One of my family members, who’s in his 40s, has consistently refused to be vaccinated against Covid and will not be moved from his position."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "He will not explain his reasons for rejecting the vaccine, whether it is ideological or simply rebellion against the so-called “nanny state”.",
+        "spans": [
+          "He will not explain his reasons for rejecting the vaccine, whether it is ideological or simply rebellion against the so-called “nanny state”."
+        ]
+      }
+    ],
+    "clueweb22-en0019-17-02123": [
+      {
+        "point_number": 1,
+        "point_content": "Their reasoning tends to be rooted in emotions rather than science.",
+        "spans": [
+          "Their reasoning tends to be rooted in emotions rather than science."
+        ]
+      }
+    ],
+    "clueweb22-en0014-37-00205": [
+      {
+        "point_number": 1,
+        "point_content": "Some people don't trust the COVID-19 vaccine and worry about long-term effects.",
+        "spans": [
+          "he doesn't trust it. He's worried about long-term effects years down the road."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Concerns about breakthrough infections make some question the vaccine's effectiveness.",
+        "spans": [
+          "My brother, Chris Carroll, also says fully vaccinated people are getting breakthrough viruses, so why bother."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Some are skeptical because the vaccines only had emergency FDA authorization and distrust the government.",
+        "spans": [
+          "My brother says he's also cautious because the vaccines had only emergency FDA authorization.",
+          "Not really, he said, as the FDA is a government organization, and maybe President Joe Biden pressured them to approve it."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Political distrust influences some people's decision not to get vaccinated.",
+        "spans": [
+          "So does politics play into his decision not to get a vaccine? Absolutely, he says. He doesn't trust the president."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Some people feel pressured by mandates and incentives and reject vaccination on principle.",
+        "spans": [
+          "He's bothered by the pressure to get what he calls \"the jab,\" such as lotteries, financial incentives, employer mandates ."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Some believe natural immunity from previous infection is sufficient protection.",
+        "spans": [
+          "He had COVID-19 late last year, and while there are people now sick for a second time, he isn't worried about getting it again. He said blood tests have confirmed he has COVID antibodies, and he feels comfortable with his natural immunity."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Some view vaccination as a personal choice and value individual liberty over mandates.",
+        "spans": [
+          "I believe in individual liberty,\" he said. \"We should be able to decide if we want something put in us."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Distrust in information and conflicting messages leads to confusion and hesitancy.",
+        "spans": [
+          "It's hard to believe anything,\" he said. \"There is so much information out there, and so much bad information out there. There is so much distrust."
+        ]
+      }
+    ],
+    "clueweb22-en0032-35-19471": [
+      {
+        "point_number": 1,
+        "point_content": "Vaccine rejectors skew younger than acceptors, possibly due to their preferred news sources—social media—and COVID-19’s lesser impact on younger populations.",
+        "spans": [
+          "Vaccine rejectors skew younger than acceptors. Why? One reason could be their preferred news sources—social media. Another could be COVID-19’s lesser impact on younger populations."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Young people tend to think they’re invincible and show few symptoms if they contract the virus, leading them to dismiss the urgency of vaccination.",
+        "spans": [
+          "Young people tend to think they’re invincible. And in the case of COVID-19, they’re not always wrong—most young people show few symptoms if they contract the SARS-CoV-2 virus. But our data shows that this may be leading them to dismiss the urgency of getting the COVID-19 vaccine"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "In the most recent survey, 43% of respondents say they won’t get the vaccine or haven’t decided if they will.",
+        "spans": [
+          "In the most recent survey data, 43% of our respondents say they won’t get the vaccine or haven’t decided if they will."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "People who say they won't get the COVID-19 vaccine are consistently younger than those who say they will; nearly half of those under 30 are rejectors.",
+        "spans": [
+          "Our data shows that people who say they won't get the COVID-19 vaccine are consistently younger than people who say they definitely will. In our latest wave, young respondents are more than twice as likely as older respondents to not want the vaccine. Nearly half (47%) of those under 30 are rejectors, compared with just 17% of those over 50."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Younger people are less likely to get seriously ill from COVID-19 and less concerned about the pandemic, which may contribute to vaccine rejection.",
+        "spans": [
+          "This trend may rise from younger people being less likely to get seriously ill from a COVID-19 infection. Only 43% of survey respondents under 30 say they’re concerned about the COVID-19 pandemic, compared with 67% of respondents over 50, who are at a higher risk of serious illness."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Only 22% of those under 30 are confident the vaccine will protect them against COVID, compared with 49% of those over 50.",
+        "spans": [
+          "Only 22% of those under 30 are confident the vaccine will protect them against COVID, compared with 49% of those over 50."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Younger people get most of their COVID-19 news from social media, which is a major driver of vaccine rejection among them.",
+        "spans": [
+          "Our survey responses suggest another potential source of COVID-19 vaccine rejection among the younger crowd: the media consumption of people under 30.",
+          "We already know from previous weeks that social media is a major source of COVID-19 news among all our respondents, second only to cable and local news. And social media is the biggest driver of COVID-19 vaccine information among respondents who said they will not get a shot.",
+          "In our survey, 75% of respondents under 30 say they get COVID-19 news from social media, compared to 36% of respondents over 50. So it makes sense that these younger users harbor the anti-vaccine sentiments of social media-active rejectors."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "People under 30 are about twice as likely as people over 50 to look to social media influencers and celebrities to help inform their COVID-19 vaccine decision, and less likely to consider healthcare workers relevant.",
+        "spans": [
+          "People under 30 are about twice as likely as people over 50 to look to social media influencers and celebrities to help inform their COVID-19 vaccine decision. They're also significantly less likely to say healthcare workers are relevant to their decision (44% versus 67% among those over 50)."
+        ]
+      }
+    ]
+  }
+}

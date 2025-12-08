@@ -1,0 +1,505 @@
+{
+  "question": "how would future technology change health",
+  "key_points": {
+    "null": [],
+    "clueweb22-en0034-44-12883": [
+      {
+        "point_number": 1,
+        "point_content": "Future healthcare technology will allow medical professionals to progress in their field, save more patients and fight new diseases.",
+        "spans": [
+          "it is new healthcare technologies that allow medical professionals to progress in their field, save more patients and fight new diseases"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Healthcare is shifting to view health as encompassing total wellbeing rather than just physical health, with more collaboration between governments, industries, academia and tech giants.",
+        "spans": [
+          "we’re shifting to view healthcare as something encompassing our total wellbeing rather than just our physical health, and we’re seeing more collaboration between different governments, industries, academia and tech giants than ever before, in the name of healthcare innovation and progression"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Remote monitoring technology allows patients to be monitored at all times without a doctor needing to be present, enabling earlier hospital discharge and safer remote monitoring.",
+        "spans": [
+          "Remote monitoring allows patients and their progress to be monitored at all times without using clunky technology or a doctor needing to be present",
+          "patients are able to leave the hospital earlier and be monitored safely from afar"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Electronic medical records improve patient care by allowing doctors to view and share complete medical history easily and allow patients to track their own medical data.",
+        "spans": [
+          "Since the introduction of electronic medical records, it’s been so much easier for doctors to view and seamlessly share medical history",
+          "Electronic records also allow patients themselves to keep track of their medical data"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Telemedicine improves access to healthcare by enabling remote clinical services such as video call appointments and phone therapy.",
+        "spans": [
+          "Telemedicine consists of remote clinical services where the healthcare provider or doctor communicates virtually with the patient",
+          "access to healthcare has been improved for those who are in remote areas or who face difficulties attending physical appointments"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Artificial intelligence (AI) in healthcare can improve diagnosis, perform routine tasks, manage data, design treatments, and assist in surgeries and hospital tasks.",
+        "spans": [
+          "Artificial intelligence (AI) has so many exciting applications in healthcare",
+          "AI can be used to perform routine tasks, manage data, design treatments, manage medication, monitor health and more",
+          "AI can even be used on robots, and then these robots can act as medical assistants, take lab samples, assist in surgeries, and disinfect hospital rooms"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Nanotechnology can be used for diagnosis by recognizing unique cells and identifying genetic content that might signify disease, allowing targeted drug delivery.",
+        "spans": [
+          "nanotechnology can be used to recognise unique cells and identify genetic content that might signify disease",
+          "This then allows drugs to reach specific damaged cells whilst avoiding healthy ones"
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "eHealth apps make healthcare more accessible and less daunting by allowing people to monitor specific health areas via mobile applications.",
+        "spans": [
+          "eHealth apps are mobile applications that tend to target a specific area of healthcare",
+          "eHealth apps make looking after your health and wellbeing feel more accessible and less daunting"
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Internet of Things (IoT) in healthcare includes wearable technologies that allow patients to take control of their own health, improving mental health by giving agency.",
+        "spans": [
+          "Internet of Things and the future",
+          "Some examples of IoT applications in healthcare include wearable technologies like sleep monitors and glucose trackers"
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Genomics offers possibilities such as early detection of diseases, synthetic DNA production, and faster, cheaper DNA testing.",
+        "spans": [
+          "Genetics is a fast-moving and innovative field in medicine",
+          "exciting applications, including early detection of diseases, synthetic DNA production, and faster, cheaper DNA testing"
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Regenerative medicine seeks to replace damaged tissue or organs using tissue engineering, cellular therapies and artificial organs.",
+        "spans": [
+          "Regenerative medicine is what you might imagine – medical treatment that seeks to replace damaged tissue or organs",
+          "Some examples of current innovations in this field include tissue engineering, cellular therapies and artificial organs"
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "Orthopaedic implants are evolving with patient-specific, customisable implants made with 3D technology, improving treatment of damaged bones, joints or cartilage.",
+        "spans": [
+          "patient-specific, customisable orthopaedic implants made with revolutionary 3D technology are becoming more common"
+        ]
+      },
+      {
+        "point_number": 13,
+        "point_content": "By 2040, global disease could fall by 40%, with 70% of this reduction made possible by preventative measures enabled by new healthcare technologies.",
+        "spans": [
+          "by 2040, global disease could fall by 40%, and 70% of this would be made possible by preventative measures"
+        ]
+      }
+    ],
+    "clueweb22-en0017-98-19702": [
+      {
+        "point_number": 1,
+        "point_content": "Technological developments in healthcare have saved countless patients and are continuously improving quality of life.",
+        "spans": [
+          "technological developments in the healthcare industry have saved countless patients and are continuously improving our quality of life"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Electronic Health Records (EHRs) have transformed healthcare by digitizing patient data, improving access, reducing errors, and lowering costs.",
+        "spans": [
+          "Electronic Health Records (EHRs) replacing outdated paper records has been a massive game-changer for everyone in the medical world",
+          "Not only can patients access their records at the click of a button, but it’s also ensured that mistakes are caught more quickly",
+          "According to a study from the University of Michigan, shifting from paper to electronic health records reduced the cost of outpatient care by 3%"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "EHRs improve patient care by alerting physicians to potential issues and providing access to records from any medical facility.",
+        "spans": [
+          "EHR can automatically alert the treating physician to potential issues (such as allergies or intolerances to certain medicines)",
+          "EHRs can be accessed from nearly any medical facility, which is extremely useful for doctors assessing non-local patients (and crucial if the patient is unresponsive)"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Big Data and Cloud technology enable better data storage, analysis, and sharing, improving healthcare efficiency, research, and treatment development.",
+        "spans": [
+          "‘Big Data’ is the buzzword of the digital age, and is often intertwined with electronic health records",
+          "The Cloud then uses hardware and software to deliver services across the internet",
+          "Cloud computer technology allows for masses of information to be stored at an unbelievably low cost",
+          "From mobilizing workforces to sharing big data to improve the accuracy of research studies, this full range of functions is changing the medical landscape"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Artificial Intelligence and technology in healthcare have risks such as data security and hacking, but also potential to free up doctors' time for patient interaction.",
+        "spans": [
+          "the main concern rising from Cloud computing technology and increased mobile use is security and data protection",
+          "In 2015, hackers stole records for almost 80 million Anthem customers and employees",
+          "Studies, however, state that artificial intelligence might be able to free up a doctor’s time, affording them more time to interact with their patients"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Information and Communication Technology (ICT) and telemedicine improve healthcare access, especially in rural areas, and increase efficiency.",
+        "spans": [
+          "Information and communication technology (ICT) link healthcare professionals – as well as professionals with patients",
+          "Email, smartphones, telemedicine, and telemonitoring systems are all used to share information and are especially useful for more rural areas",
+          "Telemedicine can be used in many fields, especially in a sector like cardiovascular healthcare",
+          "Telehealth is improving allied healthcare jobs, including some of the top-paying roles in the field",
+          "Other benefits include: Shorter patient waiting times, Improved access in rural areas, Improved efficiency, leading to savings"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Mobile health (mhealth) technology allows healthcare providers to access patient data and communicate efficiently, improving care delivery.",
+        "spans": [
+          "Mobile health (or ‘mhealth’) refers to healthcare and medical information that’s supported by mobile technology",
+          "From accessing a patient’s EHR, reviewing medical histories, writing follow-up emails, and sending prescriptions to pharmacies, smartphones allow practitioners to complete tasks from nearly everywhere in the world",
+          "Improved communication aids the role of medical billers, allowing them to send text message alerts about payment schedules and outstanding bills"
+        ]
+      }
+    ],
+    "clueweb22-en0033-90-10343": [
+      {
+        "point_number": 1,
+        "point_content": "Artificial Intelligence promises to help sift through large amounts of data to identify risks before they happen and manage costs by helping patients avoid the hospital, with applications like reducing waste and speeding up drug discovery.",
+        "spans": [
+          "AI promises to be able to help us sift through those mountains of data and gain new insights that can identify risks before they happen and manage costs by helping patients avoid the hospital.",
+          "Moving forward there are other promising applications like reducing waste and speeding up the drug discovery process."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "3D printing has the potential to revolutionize medical instrumentation, prosthetics, and implants, changing the landscape of what is medically possible.",
+        "spans": [
+          "From instrumentation to prosthetics, to implants, 3D printing is a technology that promises to revolutionize the way that we think about what’s medically possible."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Augmented reality can improve healthcare by organizing information, avoiding mistakes, and improving quality of care, allowing access to patient information during interactions.",
+        "spans": [
+          "In healthcare, augmented reality has a lot of promising applications that can improve our ability to keep information organized, avoid mistakes, and improve quality of care.",
+          "The possibility to pull up information on a patient during an interaction makes everything more personal and powerful."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Nanorobots can deliver drugs to soften clogged arteries and drill through blockages, with potential wide-ranging applications in healthcare.",
+        "spans": [
+          "A team of researchers from the US, Switzerland, and South Korea have already succeeded at creating nanorobots that can deliver drugs to soften clogged arteries, and then drill through the blockage."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Cyborgization, leveraging neural interface technology, will allow humans and machines to work together seamlessly to deliver quality care, including robotic surgical tools and integrated patient monitoring systems.",
+        "spans": [
+          "This concept, known as cyborgization, will let humans and machines work together seamlessly in a variety of contexts to deliver quality care in ways we never thought possible.",
+          "From providers being able to precisely control the movements of robotic surgical tools to patients who have integrated systems that track vital stats and warn of any impending trouble, the possibilities are endless."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Predictive diagnostics uses genomics, proteomics, and cytomics to predict disease risk and help providers prevent or reduce the impact of health problems.",
+        "spans": [
+          "Predictive diagnostics combines what this information tells us about a particular patient’s risk for disease with other information like aging curves and environmental factors.",
+          "This can help providers to prevent the problem, or significantly reduce its negative impact, which cuts down on costs and improves quality of life for patients."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "The Internet of Things (IoT) in healthcare can transmit data from hospital equipment directly to patient records, reduce data entry errors, integrate data for providers, and help ensure medication adherence and authenticity.",
+        "spans": [
+          "The IoT can automatically transmit data collected by hospital equipment, like heart monitors or respirators, directly to a patient’s EMR.",
+          "An IoT solution can seamlessly integrate all of the data coming from these varied sources to help providers see the big picture.",
+          "Other applications help ensure quality care outside of the doctor’s office, with RFID labels on prescription bottles that help patients stick to the schedule, and shipping packaging that can ensure the authenticity of medication."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Telemedicine and remote patient monitoring increase access to healthcare, reduce costs and time for patients, and allow providers to see more patients.",
+        "spans": [
+          "Telemedicine has been in use for years to give people in remote places access to regular healthcare, but with ubiquitous streaming video and broadband connectivity, we’ll see its use increase as people get more and more comfortable with living and working remotely.",
+          "For providers, it means that they can fit more patients in and give in-person patients more time."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Patient portals consolidate patient information and medical history in one place, facilitating access to important data for quality care.",
+        "spans": [
+          "By putting all of a patient’s information and medical history in one place, patient portals can help you pull up the information you need wherever you are."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "e-Prescribing reduces errors, speeds up medical reconciliation, alerts providers to bad interactions or allergies, and improves medication adherence.",
+        "spans": [
+          "Filing prescriptions electronically is on the rise for a number of good reasons. It cuts down on errors, speeds up medical reconciliation, alerts providers to possible bad interactions or patient allergies, and improves adherence."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Cognitive technology uses digitized records and AI to process data, identify disease patterns, and catch diseases early.",
+        "spans": [
+          "Cognitive technology leverages increasingly digitized records and advances in AI to process large amounts of data in new ways, identifying patterns that can help predict disease and catch it early."
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "Blockchain technology can improve healthcare by securing health records and tying patients to their data rather than their identity.",
+        "spans": [
+          "Blockchain has two key components: a public transaction log that cannot be changed or altered, and the encrypted data that it protects.",
+          "It stands to improve care by tying patients to their data, rather than their identity."
+        ]
+      },
+      {
+        "point_number": 13,
+        "point_content": "Chatbots can make patient-provider interactions easier, more personal, and scalable by answering routine questions.",
+        "spans": [
+          "Chatbots are easier than ever to set up and can make interactions between patients and providers easier and more personal.",
+          "They’re also scalable, which is great news if you’re trying to figure out how to take a load off of the folks who pick up the phones by answering routine questions."
+        ]
+      },
+      {
+        "point_number": 14,
+        "point_content": "Crowdsourced diagnosis allows providers to get advice on tough cases from a larger community, enabling outside-the-box thinking.",
+        "spans": [
+          "Crowdsourced diagnosis can help by taking the case to a much larger community, giving you access to outside-the-box thinking."
+        ]
+      },
+      {
+        "point_number": 15,
+        "point_content": "AI experiments influence course of treatment by helping providers access relevant research and case studies for rare cases to determine the best long-term patient care.",
+        "spans": [
+          "New experiments in AI are influencing course of treatment.",
+          "For rare cases, it’s easier than ever for providers to pull up relevant research and case studies that give them an idea of how to proceed, and what is going to be best for the patient long-term."
+        ]
+      }
+    ],
+    "clueweb22-en0005-58-00106": [
+      {
+        "point_number": 1,
+        "point_content": "Digital diagnostics make health care more accessible, especially for those who can’t get to a doctor’s office.",
+        "spans": [
+          "Making health care more accessible includes providing digital diagnostics options for people who need it, especially those who can’t get to a doctor’s office."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Cloud services provide benefits for medical providers, especially in under-developed or rural areas, despite security risks.",
+        "spans": [
+          "Cloud services provide a lot of benefits for medical providers, especially in under-developed or rural areas, but there is definite risk involved."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Ultra-fast CT scanners allow doctors to see specific areas of the heart that were previously unscannable due to fast heart rates.",
+        "spans": [
+          "GE showcased its breakthrough ultra-fast CT scanner earlier this year, which can capture a still image of a heart in one beat.",
+          "With this Revolution CT, doctors can see specific areas of the heart that they could not before."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Wearable technology will play a huge role in health care, including monitoring diseases like Parkinson’s.",
+        "spans": [
+          "Wearable technology is going to play a huge role in health care in years to come.",
+          "Intel teamed up with the Michael J. Fox Foundation to use wearables to find certain characteristics of Parkinson’s disease."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Health informatics and electronic records streamline medical care, reduce costs, and increase coordination between providers.",
+        "spans": [
+          "Electronic records have been shown to save large hospitals anywhere between $37 and $59 million.",
+          "It streamlines the medical care process and lowers malpractice claims, and increases coordination between providers."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Digital therapy platforms combine mobile technology with AI to provide at-home care and adapt to patient needs.",
+        "spans": [
+          "Wellframe is a platform that combines mobile technology with artificial intelligence to provide patients with care after they’ve returned home from the hospital or doctor’s office.",
+          "An advanced algorithm adapts the content based on the information from patient and healthcare provider."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Concierge medical services and startups make on-demand health care services more accessible and affordable.",
+        "spans": [
+          "Startups are making it easier to pay out-of-pocket for on-demand health care services.",
+          "GoodRX allows you to compare prices for drugs at different pharmacies and save up to 80%."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Mobile technology enables personalized health plans and coaching for mental health and weight management.",
+        "spans": [
+          "With mobile technology, it’s easier than ever to have a customized diet or health plan.",
+          "ThriveOn is personalized coaching for mental health, offering plans by assessing your sleep, mood, stress, anxiety, and body image."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Self-insurance platforms help consumers manage their own health data and benefits under the Affordable Care Act.",
+        "spans": [
+          "Several startups are using this as an opportunity to offer insurance, benefits, and solutions services.",
+          "Health solutions platforms such as Jiff, which connects employee behaviors to company benefits and incentives, are becoming more common."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Hackathons foster innovation in healthcare technology, leading to new software, hardware, and app developments.",
+        "spans": [
+          "Hacking is becoming an increasingly popular tool to solving real world problems, especially in the health care industry.",
+          "MIT held a hackathon earlier this year that drew 450 people from various backgrounds such as engineering, journalism, medicine, and IT to tackle global health, diabetes, and hospital IT."
+        ]
+      }
+    ],
+    "clueweb22-en0034-47-00583": [
+      {
+        "point_number": 1,
+        "point_content": "Technology is used everywhere in medicine, including x-ray machines, MRI scanners, research equipment, and keyhole surgery, improving accuracy and outcomes.",
+        "spans": [
+          "Technology Is Everywhere in Medicine",
+          "Think about the x-ray machines, MRI scanners, and even the research equipment used daily.",
+          "There are individuals performing tasks far more accurately than they ever did before, with keyhole surgery now a popular option for some of the most routine medical needs."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Technology pushes us to do more physical activity through devices like Fitbit, pedometers, and apps that track steps and encourage meeting daily targets.",
+        "spans": [
+          "It Pushes Us to Do More Activity",
+          "We just must take the examples of the Fitbit, pedometers, and apps that track our steps.",
+          "They all encourage us to meet our daily targets—setting personal targets to get us to walk more and meet the goals that we know are realistic to us."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Technology improves communication between doctors and patients via chat boxes, instant messengers, and telephones, allowing for quicker advice and reducing unnecessary hospital visits.",
+        "spans": [
+          "Better Ability for Communication Between Doctors and Patients",
+          "These sites can create chat boxes and instant messengers, where real doctors and nurses can monitor communications.",
+          "When chat boxes aren’t available, telephones have made it easier to communicate and talk to a genuine doctor or nurse."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The internet allows patients to research symptoms and conditions, find support groups, and learn about treatments, improving mental health and confidence.",
+        "spans": [
+          "More Ability to Do Research into Problems",
+          "The internet has certainly opened the ability to research.",
+          "Individuals can find out if there are natural remedies that they can try and talk to others with the same condition.",
+          "They get to hear about success stories with treatments and learn about support groups in the area."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Medical devices like pacemakers and bypass machines help keep the body and organs functioning properly, prolonging life and supporting health.",
+        "spans": [
+          "There Are Devices That Keep the Body Working as It Should",
+          "The pacemaker is just one that will come to mind for everyone.",
+          "Bypass machines also help to sustain organ health while waiting for treatments or transplants."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Technology has led to better treatment options for various ailments and diseases, including vaccinations, earlier diagnosis, and improved life expectancy.",
+        "spans": [
+          "Better Treatment Options for Various Ailments and Diseases",
+          "Vaccinations and various medical advances have completely eradicated the likes of smallpox and led to the point where polio is now less common and far more treatable.",
+          "There are treatments for small and major ailments.",
+          "Even cancer patients have better life expectancies than they would have done in earlier years."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Technology improves prediction of diagnosis and life expectancy through risk assessments, algorithms, and gene mapping, allowing for earlier intervention and lifestyle changes.",
+        "spans": [
+          "Improved Prediction of Diagnosis and Life Expectancy",
+          "Technology has helped to improve the prediction process of a diagnosis.",
+          "Technology has made it possible for information to be kept in one place, updated in real life.",
+          "Gene mapping has also become a technological advancement to help with the prediction of conditions."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Technology enables faster and more accurate diagnosis of conditions by gathering all information in one place and improving scan clarity, leading to better treatment outcomes.",
+        "spans": [
+          "Faster and More Accurate Diagnosis of Conditions",
+          "Technology also improves the accuracy of a diagnosis.",
+          "Doctors gather all the information in one place and will be able to keep an eye on results more closely.",
+          "They can also put together symptoms and signs sooner than before, meaning an earlier diagnosis for many people."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Technology improves recording of medical information in real time, allowing doctors to access updated patient data quickly and avoid errors in treatment.",
+        "spans": [
+          "Technology Improves Recording of Information in Real Time",
+          "Technology has made it better for the recording of information.",
+          "Many doctors will now update the information on tablets and smart devices.",
+          "The information is updated in real time, meaning other doctors will be able to get the information later."
+        ]
+      }
+    ],
+    "clueweb22-en0027-40-08434": [
+      {
+        "point_number": 1,
+        "point_content": "Technology can have both negative and positive impacts on health, influencing physical, psychological, and social well-being.",
+        "spans": [
+          "there are many positive aspects to technology",
+          "there are also potential health consequences that should be considered",
+          "Negative impacts of technology on health",
+          "Positive effects of technology on health"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Future technology may continue to affect physical health through musculoskeletal issues, digital eye strain, disrupted sleep, physical inactivity, and hearing loss, but there are ways to mitigate these effects.",
+        "spans": [
+          "Some of the health problems caused by technology include: Musculoskeletal issues",
+          "Digital eye strain",
+          "Disrupted sleep",
+          "Physical inactivity",
+          "Impact on hearing"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Technology can positively impact health by helping improve diets, track fitness, remind medication, provide credible medical information, and enhance medical care through online records, apps, and virtual appointments.",
+        "spans": [
+          "there are many ways in which technology can also positively impact our health",
+          "digital devices or apps can help to improve our diets, track our fitness activities, act as a reminder to get up and move or take our medication",
+          "There is a wealth of well-sourced and credible medical information online",
+          "technology helps medical providers ensure better patient care, improve relationships with patients, and deliver medical results direct to patients’ phones",
+          "Online medical records that give patients access to test results and allow them to fill prescriptions",
+          "Apps that track chronic illnesses and communicate essential information to doctors",
+          "Virtual medical appointments – through video and phone consultations"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Future technology use should be managed with healthy habits such as setting screen time limits, taking breaks, maintaining good posture, and encouraging physical activity to minimize negative health impacts.",
+        "spans": [
+          "Some tips for ensuring healthy screen time include: Remove unnecessary apps from your phone",
+          "Set screen time limits and stick to them",
+          "Log off and take regular breaks",
+          "In summary: technology is an integral aspect of modern life, and there are both positive and negative effects of computer use on human health. Taking sensible steps – such as setting limits on screen time, ensuring correct posture, taking regular breaks, and keeping active – can help minimize the impacts of technology on health."
+        ]
+      }
+    ]
+  }
+}

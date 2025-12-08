@@ -1,0 +1,135 @@
+{
+  "question": "the disadvantages of renewable resources",
+  "key_points": [
+    {
+      "point_number": 1,
+      "point_content": "Renewable energy is expensive due to high equipment, installation, and capital costs, and often requires subsidies to be affordable.",
+      "original_point_number": [
+        1,
+        8,
+        14,
+        21,
+        33,
+        38
+      ]
+    },
+    {
+      "point_number": 2,
+      "point_content": "Renewable energy can negatively impact wildlife and habitats due to land use, infrastructure, and specific issues like wind turbines harming birds and bats.",
+      "original_point_number": [
+        2,
+        25
+      ]
+    },
+    {
+      "point_number": 3,
+      "point_content": "Renewable energy is location and climate dependent, which limits its reliability and commercial viability.",
+      "original_point_number": [
+        3,
+        9,
+        15,
+        19,
+        20,
+        23,
+        24,
+        26,
+        34,
+        35
+      ]
+    },
+    {
+      "point_number": 4,
+      "point_content": "Renewable energy infrastructure requires a lot of space, which can be a limitation and necessitates significant land use for wind, solar, and biomass energy.",
+      "original_point_number": [
+        4,
+        18,
+        28,
+        39
+      ]
+    },
+    {
+      "point_number": 5,
+      "point_content": "Renewable energy has storage limitations, requiring expensive and significant battery systems to store energy due to its intermittent nature.",
+      "original_point_number": [
+        5,
+        11,
+        17,
+        36,
+        26,
+        24
+      ]
+    },
+    {
+      "point_number": 6,
+      "point_content": "Wind turbines cause noise pollution and have poor aesthetic impact on natural landscapes, negatively affecting the physical environment.",
+      "original_point_number": [
+        6,
+        7,
+        22
+      ]
+    },
+    {
+      "point_number": 7,
+      "point_content": "The supply of green electricity does not satisfy demand; fossil fuels still produce far more energy, and green energy production lacks some efficiency.",
+      "original_point_number": [
+        12,
+        13,
+        15,
+        19
+      ]
+    },
+    {
+      "point_number": 8,
+      "point_content": "Wind turbines generate electricity only when there is sufficient wind, making their output intermittent and unpredictable.",
+      "original_point_number": [
+        16,
+        23,
+        24
+      ]
+    },
+    {
+      "point_number": 9,
+      "point_content": "Solar power is intermittent, depends on sunlight availability, and energy cannot be collected at night or during overcast days.",
+      "original_point_number": [
+        10,
+        26
+      ]
+    },
+    {
+      "point_number": 10,
+      "point_content": "Manufacturing solar panels emits potent greenhouse gases such as nitrogen trifluoride and sulfur hexafluoride.",
+      "original_point_number": [
+        27
+      ]
+    },
+    {
+      "point_number": 11,
+      "point_content": "Biomass energy requires significant land and water, competes with food crops, needs storage space, is not completely clean, and is expensive due to labor and transportation costs.",
+      "original_point_number": [
+        28,
+        29
+      ]
+    },
+    {
+      "point_number": 12,
+      "point_content": "Wave power faces challenges due to the hostile saltwater environment and wave motion affecting energy capture devices.",
+      "original_point_number": [
+        30
+      ]
+    },
+    {
+      "point_number": 13,
+      "point_content": "Siting wind turbines and solar farms involves complex negotiations and permits, increasing costs and causing delays.",
+      "original_point_number": [
+        31
+      ]
+    },
+    {
+      "point_number": 14,
+      "point_content": "New transmission infrastructure is required for renewable resources, increasing transmission costs.",
+      "original_point_number": [
+        32
+      ]
+    }
+  ]
+}

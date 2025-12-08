@@ -1,0 +1,186 @@
+{
+  "question": "how has your family background affected the way you see the world?",
+  "key_points": {
+    "null": [],
+    "clueweb22-en0015-50-10959": [
+      {
+        "point_number": 1,
+        "point_content": "The way I view the world has been molded and shaped by my siblings, parents, grandparents, and extended family members.",
+        "spans": [
+          "The way I view the world has been molded and shaped by my siblings, parents, grandparents, and extended family members."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "My future, unlike the majority of my high school peers, includes pursuing admission to the United States Military Academy at West Point and a career as a U.S. Army officer.",
+        "spans": [
+          "My future, unlike the majority of my high school peers, includes pursuing admission to the United States Military Academy at West Point and a career as a U.S. Army officer."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "I was born to a military family in 1993. My father served in the Army for 23 years and my grandfather served in the Army for 38 years.",
+        "spans": [
+          "I was born to a military family in 1993.",
+          "my father served in the Army for 23 years and my grandfather served in the Army for 38 years."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "My mother is a naturalized Japanese American, born and raised in Tokyo, who came to America to study at Georgetown University for a Master’s degree in linguistics.",
+        "spans": [
+          "mother is a naturalized Japanese American.",
+          "My mother was born and raised in Tokyo, and when she turned 25 she came to America to study at Georgetown University for a Master’s degree in linguistics."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "My parents gave my siblings and me opportunities to experience both American and Japanese cultures, including learning to use chop sticks and knives and forks, and getting used to soy sauce flavoring as well as ketchup and mustard.",
+        "spans": [
+          "my parents gave my siblings and me opportunities to experience both American and Japanese cultures.",
+          "the children learned how to properly use chop sticks as well as knives and forks at a young age, and my mother made sure her children got used to soy sauce flavoring in addition to the typical American ‘ketchup and mustard’ flavorings."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "My siblings and I attended Japanese schools to learn the Japanese language, math, and social studies, with all classes totally in Japanese, held every Saturday from 9 a.m. to 4 p.m.",
+        "spans": [
+          "my siblings and I also attended Japanese schools to learn the Japanese language, math, and social studies.",
+          "all classes in the Japanese schools were totally in Japanese.",
+          "Classes started at 9 a.m. and lasted until 4 p.m. every Saturday."
+        ]
+      }
+    ],
+    "clueweb22-en0032-10-17817": [
+      {
+        "point_number": 1,
+        "point_content": "Family background has a large impact on children’s academic achievement, even during compulsory education.",
+        "spans": [
+          "the family background has a large impact on children’s academic achievement",
+          "family SES explained 15.5% of the difference"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Family socioeconomic status affects children’s academic achievement through two main pathways: securing quality educational opportunities and parental educational participation.",
+        "spans": [
+          "families use their social and economic resources to compete and purchase quality educational resources",
+          "parents cultivate children’s interest in learning and learning habits through educational participation and behavioral support for their children"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Parents with higher socioeconomic status participate more in their children’s education and provide more educational support, which positively affects children’s academic performance.",
+        "spans": [
+          "parents with different socioeconomic status may provide different behavioral support for their children’s education",
+          "family socio-economic status explains 20% of the difference in parental support for children’s education",
+          "the higher the degree of parent participation, the better the academic performance of children"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Children’s academic achievement is influenced by the quality of the school they attend and the educational services they receive from the market, both of which are related to family socioeconomic status.",
+        "spans": [
+          "family socio-economic status on the quality of school children attending is 0.11 standard units",
+          "family socio-economic status explained 33.3% of the difference in children’s access to market education services",
+          "the quality of the children’s school not only has a significant positive effect on their academic achievement",
+          "children’s participation in extracurricular tutoring and tutoring expenses has a significant positive effect on their academic achievement"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "There are urban-rural differences in how family background affects academic achievement; family socioeconomic status has a greater impact on urban students’ academic performance than rural students.",
+        "spans": [
+          "urban children have significantly better academic performance than rural children",
+          "family socioeconomic status has a greater impact on urban student’s achievement than that of rural students",
+          "the academic achievement of rural students is more dependent on their own learning behavior"
+        ]
+      }
+    ],
+    "clueweb22-en0023-75-02608": [
+      {
+        "point_number": 1,
+        "point_content": "Your family background can influence your perception of reality through subtle and tiny factors that affect how you see the world.",
+        "spans": [
+          "the tiniest, most insignificant things can alter it in unexpected ways"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Environmental factors such as color, music, and stress can change your perception and preferences, which can be influenced by your upbringing and family environment.",
+        "spans": [
+          "The color red slows your perception of time",
+          "Music Can Affect The Satisfaction You Get From Food",
+          "Stress Changes Who You Find Attractive"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Biological and social factors, including birth control and gender differences, affect perception and attraction, which can be shaped by family background and cultural context.",
+        "spans": [
+          "Birth Control Affects Your Sense Of Smell",
+          "Your Perception Of Time Depends On Your Gender"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Your moral decisions and worldview can be influenced by subconscious cues such as thoughts about money, which can be linked to family values and upbringing.",
+        "spans": [
+          "Thinking About Money Can Affect Your Morals"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Your mental health and outlook on life can be affected by simple habits like coffee consumption, which may be influenced by family habits and attitudes.",
+        "spans": [
+          "Coffee Can Make You Less Suicidal"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Media exposure, such as watching TV, can shape your attitudes and biases, which are also influenced by family and cultural background.",
+        "spans": [
+          "Watching TV Can Make You More Sexist"
+        ]
+      }
+    ],
+    "clueweb22-en0037-86-09137": [
+      {
+        "point_number": 1,
+        "point_content": "You’re not alone. Most parents have had this experience. It helps you see how deeply you are influenced by your childhood experiences and why it’s so important to become aware of how they shape your approach to parenting today.",
+        "spans": [
+          "You’re not alone. Most parents have had this experience.",
+          "It helps you see how deeply you are influenced by your childhood experiences and why it’s so important to become aware of how they shape your approach to parenting today."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Things they said and did, their way of being and relating to you and others, laid the foundation for many of your beliefs, values, attitudes, and parenting practices.",
+        "spans": [
+          "Things they said and did, their way of being and relating to you and others, laid the foundation for many of your beliefs, values, attitudes, and parenting practices."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Parents often re-create with their children what they experienced with their own parents.",
+        "spans": [
+          "Parents often re-create with their children what they experienced with their own parents."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Most likely, you sometimes “go home again”—act on beliefs, values, and experiences from your childhood—without making a conscious decision to do so.",
+        "spans": [
+          "Most likely, you sometimes “go home again”—act on beliefs, values, and experiences from your childhood—without making a conscious decision to do so."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The amount of crying, fussing, and clinging that you can tolerate from your baby or toddler; the way you treat a boy compared with the way you treat a girl; the way you react to sibling rivalry; and your approach to discipline all may have roots in your early experiences.",
+        "spans": [
+          "The amount of crying, fussing, and clinging that you can tolerate from your baby or toddler; the way you treat a boy compared with the way you treat a girl; the way you react to sibling rivalry; and your approach to discipline all may have roots in your early experiences."
+        ]
+      }
+    ]
+  }
+}

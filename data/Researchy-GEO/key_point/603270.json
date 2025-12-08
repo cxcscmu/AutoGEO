@@ -1,0 +1,320 @@
+{
+  "question": "how might technological developments alter our understanding of teamwork and team productivity?",
+  "key_points": {
+    "clueweb22-en0000-51-13374": [
+      {
+        "point_number": 1,
+        "point_content": "Technological improvements have made videoconferencing a mainstream tool for building virtual teams, replacing the need for in-person meetings.",
+        "spans": [
+          "Technology improvements: It was not that long ago that arranging a video meeting was a big, involved project: cameras to set up, communication lines to reserve, technicians to schedule. Nowadays, though, most peopel have cameras on their phones and laptops, and setting up a videoconference is a snap."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Videoconferencing enables team cohesion across different locations, supporting remote work and virtual teams.",
+        "spans": [
+          "Videoconferencing can help you keep a cohesive group even though the members are across town, across the country, or even halfway around the globe."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The COVID pandemic accelerated the adoption of videoconferencing technology, allowing businesses to continue operating remotely.",
+        "spans": [
+          "Coronavirus: The COVID pandemic that began in earnest early in 2020 has driven people out of millions of workplaces. Videoconference technology has made it possible for many businesses to continue operating, even in the face of a global pandemic."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Cloud-based collaboration tools allow multiple team members to access, comment, edit, and update documents in real time, enhancing group work efficiency.",
+        "spans": [
+          "Cloud-based document storage can allow anyone with a link to access, comment, edit, update or otherwise contribute to an electronic document. Access privileges can be modified so that specific users can, for example, view but not edit, comment only or fully alter the document in question."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Project management software helps coordinate tasks, track progress, and facilitate communication among team members, improving project outcomes.",
+        "spans": [
+          "Project-management tools facilitate scheduling of everyone's tasks, track progress through project milestones and facilitate communications among key group members to make sure everything that should get done is actually happening."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Social media platforms can build group identity and personal connections among virtual team members, fostering teamwork.",
+        "spans": [
+          "One way to build these sort of personal connections and group dynamics is through the use of social media. It's easy to use Facebook, Twitter or other social media services to set up a space where your group members can congregate and trade messages."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Webinars and podcasts provide effective communication methods for one-way and interactive information sharing within teams.",
+        "spans": [
+          "Webinars and podcasts can be effective means of achieving your communication goals.",
+          "In webinars, this typically occurs in a post-session question-and-answer period, with viewers submitting questions (often written questions, sent through a chat-type box) and the primary speaker answering in real time."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Customer Relations Management (CRM) tools integrate information across departments, fostering new internal relations and changing team dynamics.",
+        "spans": [
+          "Customer relations management (CRM) business tools represent one of the major changes to how information developed by groups and teams is handled within a business organization.",
+          "CRM also knits together people and departments within an organization that, in the past, may not have had much to do with each other. The greater internal transparency helps to build new internal relations and foster the creation of new groups in the workplace."
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0032-90-10647": [
+      {
+        "point_number": 1,
+        "point_content": "Technological developments could enhance teamwork by allowing team members to bring their specific education and training to a project or a work task, maximizing the variety of work the team can accomplish.",
+        "spans": [
+          "Allowing team members to bring their specific education and training to a project or a work task, which maximizes the variety of work the team can accomplish"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Teamwork involves individuals working together for a common purpose, subordinating individual needs to group needs, which is essential for organizational productivity.",
+        "spans": [
+          "Teamwork is the actions of individuals, brought together for a common purpose or goal, which subordinate the needs of the individual to the need of the group."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Effective teamwork is essential to the success of any business and can energize an entire organization, implying that improvements in teamwork through technology could enhance productivity.",
+        "spans": [
+          "Effective teamwork is essential to the success of any business. As “no man is an island”, the positive effects of productive teamwork can energize an entire organization"
+        ]
+      }
+    ],
+    "clueweb22-en0039-02-11974": [
+      {
+        "point_number": 1,
+        "point_content": "Technology can revamp team productivity by meeting the productivity needs of businesses worldwide through application software, artificial intelligence, and plugins.",
+        "spans": [
+          "But the good news is that businesses can influence and revamp their productivity in many ways. For instance, they can do it with the help of technology. In this article, we will dive into how application software, artificial intelligence, and plugins meet the productivity needs of businesses all around the world."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Employee engagement software promotes a stronger culture of teamwork and motivates employees to give their best.",
+        "spans": [
+          "Employee engagement software gives you an outlet to recognize employees that go above and beyond. But it’s not just limited to recognition from management. Coworkers can also use the software to thank their colleagues for helping them out with a project or facilitating their own jobs. This promotes a stronger culture of teamwork and motivates employees to give their best."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Communication software dramatically boosts internal communication and team productivity by connecting teammates near and far.",
+        "spans": [
+          "Luckily, the market offers many advanced technological solutions for businesses of all sizes: team messengers, video conferencing apps, and everything in between that can dramatically boost internal communication and — as a result —  team productivity."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Cloud-based project or task management software keeps projects, assets, and milestones in sync and easily accessible, significantly improving overall team performance.",
+        "spans": [
+          "Having all your projects, assets, and milestones in sync and easily accessible can significantly improve overall team performance and be a bold competitive advantage."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Time tracking tools help understand work patterns and improve productivity by measuring time spent and distractions.",
+        "spans": [
+          "If you can’t measure it, you can’t improve it. To increase your performance and productivity, you must first understand your work clock. How much time do you waste during the workday and on what distractions? What are naturally your most productive hours? How substantial is your contribution to the company’s progress? All these questions can be precisely answered with the help of time tracking tools."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Decluttering digital workspaces with organizational tools helps teams feel organized and calm, enhancing focus and productivity.",
+        "spans": [
+          "Work environment directly impacts team and personal productivity. Chaos can significantly decrease the ability to focus on a job. Alternatively, a laptop screen, web browser, and work tool stack that are streamlined can help you feel organized and calm."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Integrating fun into the workplace increases productivity and reduces stress, leading to greater job satisfaction and employee loyalty.",
+        "spans": [
+          "Integrating fun into the workplace increases productivity and reduces stress. Moreover, companies with ‘fun policies’ indicate greater job satisfaction and increased employee loyalty."
+        ]
+      }
+    ],
+    "clueweb22-en0008-88-11671": [
+      {
+        "point_number": 1,
+        "point_content": "Empirical evidence often deviates from the linear and cyclical sequential models of team development, with teams developing in ways that cannot be described by these stages.",
+        "spans": [
+          "empirical evidence often deviates from the linear and cyclical sequential models of team development",
+          "developed in ways that cannot be described by these stages"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Process models by Dunphy and Bryant (1996), Kuipers and Stoker (2009), and Powell and Pazos (2017) are most suitable for describing self-managing teams' development patterns, indicating a non-sequential development process.",
+        "spans": [
+          "process models of Dunphy and Bryant (1996), Kuipers and Stoker (2009) and Powell and Pazos (2017) are most suitable for describing SMTs' development pattern"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Teams in healthcare work in a complex environment with a high degree of accountability, differing from production and manufacturing teams which focus on improving processes and maintaining standards.",
+        "spans": [
+          "teams in healthcare work in a complex environment and with a high degree of accountability",
+          "teams in production and manufacturing are more focused on improving processes and maintaining standards"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Quality of working life (QWL) positively impacts teamwork performance and involves providing employees opportunities to make decisions about their work and design their workplace.",
+        "spans": [
+          "QWL involves providing opportunities for employees to make decisions about their work, design their workplace",
+          "companies with QWL have been shown to positively impact teamwork performance"
+        ]
+      }
+    ],
+    "clueweb22-en0037-13-07587": [
+      {
+        "point_number": 1,
+        "point_content": "The use of teams began to increase because advances in technology have resulted in more complex systems that require contributions from multiple people across the organization.",
+        "spans": [
+          "The use of teams also began to increase because advances in technology have resulted in more complex systems that require contributions from multiple people across the organization."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Virtual teams are formed to take advantage of distributed expertise or time, enabled by technology allowing members in different locations to collaborate.",
+        "spans": [
+          "Virtual teams are teams in which members are not located in the same physical place.",
+          "Often, virtual teams are formed to take advantage of distributed expertise or time—the needed experts may be living in different cities."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Technology enables virtual teams to work across different geographic regions and time zones, expanding the talent pool and allowing 24/7 support.",
+        "spans": [
+          "BakBone believes it has been able to hire stronger candidates by drawing from a diverse talent pool and hiring in different geographic regions rather than limiting hiring to one region or time zone (Alexander, 2000)."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Technology requires new management approaches for virtual teams, focusing on deliverables and trust rather than physical oversight.",
+        "spans": [
+          "Managers often think that they have to see team members working to believe that work is being done.",
+          "Because this kind of oversight is impossible in virtual team situations, it is important to devise evaluation schemes that focus on deliverables."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Communication technologies such as e-mail, phone calls, conference calls, and project management tools are crucial for virtual team performance.",
+        "spans": [
+          "Finally, communication is especially important in virtual teams, through e-mail, phone calls, conference calls, or project management tools that help organize work."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Internet-based collaboration tools like wikis enable global teamwork and information sharing, empowering teams.",
+        "spans": [
+          "A wiki is an Internet-based method for many people to collaborate and contribute to a document or discussion.",
+          "Essentially, the document remains available for team members to access and amend at any time."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Empowered teams, enabled by technology and autonomy, are more effective than those that are not empowered.",
+        "spans": [
+          "Research shows that empowered teams are more effective than those that are not empowered (Mathieu, et. al., 2006)."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Self-managed and self-directed teams, supported by technology, have increased autonomy and responsibility, leading to higher productivity and job satisfaction.",
+        "spans": [
+          "Self-managed teams are empowered, which means that they have the responsibility as well as the authority to achieve their goals.",
+          "A special form of self-managed teams are self-directed teams in which they also determine who will lead them with no external oversight."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Technological developments have led to more complex tasks requiring diverse skills and interdependent work, influencing team design and productivity.",
+        "spans": [
+          "The use of teams also began to increase because advances in technology have resulted in more complex systems that require contributions from multiple people across the organization.",
+          "The task a team is charged with accomplishing affects how they perform."
+        ]
+      }
+    ],
+    "clueweb22-en0044-90-08601": [
+      {
+        "point_number": 1,
+        "point_content": "Technology allows for employees to come together and discuss ideas, find a solution to a problem and to create something new, enabling collaboration anytime and anywhere.",
+        "spans": [
+          "Technology allows for employees to come together and discuss ideas, find a solution to a problem and to create something new.",
+          "There are simple technological tools you can use like cloud-based note taking. This allows your team members to collaborate anytime and anywhere."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Adding collaboration technology into your business can increase productivity by up to 30% and eliminate unnecessary meetings, saving time, money, and resources.",
+        "spans": [
+          "Adding collaboration technology into your day-to-day operations and your business can enjoy up to a 30% increase in productivity.",
+          "By adding collaborations suits to your company, you can eliminate any meetings that are unnecessary. You will end ups saving time, money and resources."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Technology enables remote working, which can increase productivity by allowing employees to control distractions and avoid exhausting commutes.",
+        "spans": [
+          "When you get the opportunity to work remotely, you control when you allow distractions and communication with employers or employees in your day, which can leave more time for you to get into your zone.",
+          "Your employers will also have more energy throughout the day because they won’t be exhausted from daily commutes."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "An experiment showed employees working from home were 13% more productive due to quieter working conditions and took fewer breaks and sick days.",
+        "spans": [
+          "An experiment with a Chinese call center concluded that employees who were able to work from home were actually 13% more productive than their in-office counterparts, which they said was due to having quieter working conditions at home.",
+          "The experiment even showed that employees working from home took fewer breaks and sick days."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Technology helps organize tasks and improve productivity by minimizing unnecessary steps and allowing easy sharing and tracking of work.",
+        "spans": [
+          "Technology can help to organize every task that you need to complete and improve productivity along the way.",
+          "Sharing folders with each other online will help improve productivity because you no longer have to walk over to someone else’s office to get the paperwork that you need.",
+          "Everything will be shared in online folders which are easy to access!"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Cloud computing allows employees to access, create, visualize, and share data remotely, facilitating tasks like file sharing and virtual meetings.",
+        "spans": [
+          "Cloud computing allowed us to store information or applications on a remote server that our employees can access and where they can create, visualize and share data.",
+          "This has facilitated various tasks, such as file sharing, virtual meetings, banking services and the hosting of our Web sites."
+        ]
+      }
+    ],
+    "clueweb22-en0031-42-12039": [
+      {
+        "point_number": 1,
+        "point_content": "Technological developments can influence how teams communicate and collaborate, potentially enhancing active listening and sharing of ideas.",
+        "spans": [
+          "Active listening is a mandatory skill that needs to be present in a team.",
+          "If you’re trying to increase company innovation then you have to listen to everyone."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Technology can support continual growth and development of teams by facilitating knowledge sharing and support inside and outside the workplace.",
+        "spans": [
+          "Developing teamwork never stops",
+          "Your team will feel like one instead of a working group. People can bring the knowledge they’ve learned outside of work to their team."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "A shared vision and shared values, which can be reinforced through technological tools, help unify teams and increase productivity.",
+        "spans": [
+          "A shared vision creates unity.",
+          "By establishing core values, the company can develop potential in workers. This will lead to increased productivity."
+        ]
+      }
+    ]
+  }
+}

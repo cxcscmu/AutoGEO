@@ -1,0 +1,69 @@
+{
+  "question": "how can managers effectively plan when the external environment is continually changing?",
+  "key_points": {
+    "null": [],
+    "clueweb22-en0001-01-01447": [
+      {
+        "point_number": 1,
+        "point_content": "Planning involves defining the organization's goals, establishing strategies for achieving those goals, and developing plans to integrate and coordinate work activities.",
+        "spans": [
+          "________ involves defining the organization's goals, establishing strategies for achieving those goals, and developing plans to integrate and coordinate work activities."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "One reason why managers should plan is that when work activities are coordinated around plans, inefficiencies become obvious.",
+        "spans": [
+          "When work activities are coordinated around plans, inefficiencies become obvious."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The effect of planning on managers is that it forces them to anticipate and respond to change.",
+        "spans": [
+          "The effect of planning on managers is that it forces them to ________.",
+          "B) anticipate and respond to change"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "When formal planning fails to lead to higher performance, the most likely reason is constraints of the external environment.",
+        "spans": [
+          "When formal planning fails to lead to higher performance, which of the following is most likely to be the reason for the failure?",
+          "D) Constraints of the external environment."
+        ]
+      }
+    ],
+    "clueweb22-en0004-25-03021": [
+      {
+        "point_number": 1,
+        "point_content": "Planning involves defining the organization's goals, establishing strategies for achieving those goals, and developing plans to integrate and coordinate work activities.",
+        "spans": [
+          "involves defining the organization's goals, establishing strategies for achieving those goals, and developing plans to integrate and coordinate work activities"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The effect of planning on managers is that it forces them to anticipate and respond to change.",
+        "spans": [
+          "The effect of planning on managers is that it forces them to anticipate and respond to change"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "When work activities are coordinated around plans, inefficiencies become obvious.",
+        "spans": [
+          "When work activities are coordinated around plans, inefficiencies become obvious"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "When formal planning fails to lead to higher performance, the most likely reason is constraints of the external environment.",
+        "spans": [
+          "When formal planning fails to lead to higher performance, which of the following is most likely to be the reason for the failure?",
+          "Constraints of the external environment"
+        ]
+      }
+    ]
+  }
+}

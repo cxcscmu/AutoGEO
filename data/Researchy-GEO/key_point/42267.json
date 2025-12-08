@@ -1,0 +1,85 @@
+{
+  "question": "how did a war to preserve the union become a war to end slavery?",
+  "key_points": {
+    "clueweb22-en0002-26-18511": [
+      {
+        "point_number": 1,
+        "point_content": "The war began to shift focus when the Second Confiscation Act was passed, which freed slaves in Confederate states that rebelled or committed treason.",
+        "spans": [
+          "It began when the Second Confiscation Act was passed. It states that confederate states that rebelled against the government or committed treason were to have all their slaves freed."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Lincoln's Emancipation Proclamation marked the complete shift of the war's purpose from preserving the Union to ending slavery.",
+        "spans": [
+          "What made the complete shift from preserving the union to end slavery was Lincoln's Emancipation Proclamation which took away slavery from the confederate states."
+        ]
+      }
+    ],
+    "clueweb22-en0008-35-14078": [
+      {
+        "point_number": 1,
+        "point_content": "The war to preserve the Union became a war to end slavery when the Second Confiscation Act was passed, which stated that Confederate states that rebelled were to have all their slaves freed.",
+        "spans": [
+          "How did a war to preserve the Union become a war to end slavery? It began when the Second Confiscation Act was passed. It states that confederate states that rebelled against the government or committed treason were to have all their slaves freed."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Lincoln freed the slaves to weaken Southern resistance, strengthen the Federal government, and encourage free blacks to fight in the Union army, thus preserving the Union.",
+        "spans": [
+          "Lincoln freed the slaves to weaken the Southern resistance, strengthen the Federal government, and encourage free blacks to fight in the Union army, thus preserving the Union."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Lincoln stated he would save the Union without freeing any slave if he could, indicating the initial goal was preserving the Union, not ending slavery.",
+        "spans": [
+          "President Lincoln once said that if he could save the Union without freeing any slave he would do it."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The Emancipation Proclamation issued by Lincoln after the Union victory at the Battle of Antietam made it clear the war was a fight to abolish slavery.",
+        "spans": [
+          "Lincoln’s chance came after the Union victory at the Battle of Antietam in September of 1862. He issued the preliminary Emancipation Proclamation on September 22. The proclamation warned the Confederate states to surrender by January 1, 1863, or their slaves would be freed."
+        ]
+      }
+    ],
+    "clueweb22-en0033-08-07682": [
+      {
+        "point_number": 1,
+        "point_content": "The war to preserve the Union became a war to end slavery in the wake of the Emancipation Proclamation, which freed the slaves living in the Confederate states.",
+        "spans": [
+          "The war to preserve the Union became a war to end slavery in the wake of the Emancipation Proclamation, which freed the slaves living in the Confederate states."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Initially, Lincoln conceived of the Civil War as a conflict to preserve the Union, but he gradually came to see the Civil War as bringing about 'a new birth of freedom.'",
+        "spans": [
+          "Initially, he conceived of the Civil War as a conflict to preserve the Union. But he gradually came to see the Civil War as bringing about “a new birth of freedom.\""
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "President Lincoln had long been a staunch opponent of slavery, but at the outset of the Civil War, he made it clear the conflict was to preserve the Union, even if slavery remained in place.",
+        "spans": [
+          "President Lincoln had long been a staunch opponent of slavery, regarding it as a cruel, degrading, and deeply inhumane institution.",
+          "At the same time, Lincoln made it clear at the outset of the Civil War that the conflict between the North and the South was being fought to preserve the Union.",
+          "Lincoln categorically stated that he would preserve the Union even if it meant that slavery remained in place."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Lincoln came to realize the war would be a senseless waste of life if it didn’t lead to a 'new birth of freedom,' meaning abolishing slavery.",
+        "spans": [
+          "Lincoln came to realize that the War would be a senseless waste of life if it didn’t lead to what he called in the Gettysburg Address a “new birth of freedom.”",
+          "This meant abolishing slavery, which Lincoln proceeded to do—though only in the Confederate states—when he signed the Emancipation Proclamation in 1862, which took effect on the first of January the following year."
+        ]
+      }
+    ],
+    "null": []
+  }
+}

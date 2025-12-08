@@ -1,0 +1,277 @@
+{
+  "question": "how does poverty affect healthcare",
+  "key_points": {
+    "null": [],
+    "clueweb22-en0019-98-06251": [
+      {
+        "point_number": 1,
+        "point_content": "Living in poverty has effects on health.",
+        "spans": [
+          "Living in poverty and its effects on health"
+        ]
+      }
+    ],
+    "clueweb22-en0001-93-11833": [
+      {
+        "point_number": 1,
+        "point_content": "Poverty leads to detrimental health effects such as higher rates of chronic diseases, communicable illnesses, health risk behaviors, and premature mortality.",
+        "spans": [
+          "the socioeconomic, cultural, and environmental conditions have detrimental health effects such as higher rates of chronic diseases, communicable illnesses, health risk behaviors, and premature mortality"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "People living in poverty are deprived of social, psychological, and political power, leading to worsening health and chronic deprivation over generations.",
+        "spans": [
+          "People living in poverty are also deprived of social, psychological, and political power, leading to continuation of worsening health and chronic deprivation over generations"
+        ]
+      }
+    ],
+    "clueweb22-en0014-12-05922": [
+      {
+        "point_number": 1,
+        "point_content": "Poverty increases the chances for poor health due to lack of basic essentials like clean water, shelter, and food.",
+        "spans": [
+          "Poverty and poor health are intertwined since poverty increases the chances for poor health.",
+          "living in poverty means living without the basic essentials. A lack of clean water, shelter and food eventually takes a toll on one’s mental and physical health"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "People living in poverty usually lack access to medical care facilities with professional doctors, affecting prenatal care and nutrition.",
+        "spans": [
+          "People living in poverty usually lack access to medical care facilities with professional doctors. Prenatal care and nutrition are unavailable to mothers during pregnancy"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Lack of clean water, sanitation, and hygiene causes diseases like diarrhea leading to deaths, especially in children.",
+        "spans": [
+          "nearly 2,300 people around the world die every day from diarrhea caused by a lack of clean water, sanitation and hygiene."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Poor living conditions in poverty lead to the development and spreading of diseases and inability to seek professional medical care.",
+        "spans": [
+          "Poor living conditions lead to the development and spreading of diseases.",
+          "Without proper shelters, people become susceptible to such illnesses and diseases, which they are unable to seek professional medical care for."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Poverty forces people to work harder in unsafe jobs and live in substandard housing in dangerous neighborhoods, increasing stress and health risks.",
+        "spans": [
+          "Poverty also affects health because it forces one to work harder, which creates more stress.",
+          "Someone living in poverty may have to work multiple jobs or risk working jobs that aren’t safe.",
+          "these jobs often only pay enough to afford substandard housing in dangerous neighborhoods where crime rates are higher."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Poverty affects mental health, with many adults below the poverty line suffering from serious mental illness and increased food insecurity linked to depression.",
+        "spans": [
+          "The National Survey of Drug Use and Health (NSDUH) reported, of the 9.8 million adults in the U.S. suffering from a serious mental illness, 2.5 million live below the poverty line.",
+          "The McSilver Institute reported a that the possibility of food insecurity was increased by 50 to 80 percent in households where the mother has depression."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Children living in poverty experience high levels of stress and anxiety, face dangers in neighborhoods, bullying, frequent moves, and evictions.",
+        "spans": [
+          "children facing poverty have to deal with the stress of living in dangerous neighborhoods and are more likely to be bullied.",
+          "They will also change homes twice as much and get evicted five times as much as the average American."
+        ]
+      }
+    ],
+    "clueweb22-en0030-31-09584": [
+      {
+        "point_number": 1,
+        "point_content": "Living in poverty makes one more vulnerable, less secure and more likely to need assistance, especially in health and accessibility to healthcare providers.",
+        "spans": [
+          "living in poverty makes one more vulnerable, less secure and more likely to need assistance",
+          "issues of health and accessibility to health care providers"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "States that do not have affordable health care have high rates of poverty, indicating a link between lack of healthcare access and poverty.",
+        "spans": [
+          "States that do not have affordable health care have high rates of poverty"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "16.7 percent of Americans are without health insurance, showing a significant portion of the population lacks healthcare access.",
+        "spans": [
+          "16.7 percent of Americans are without health insurance"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The health insecurity of the poor puts everyone at risk and the lack of care is trapping people in systemic poverty and risking lives.",
+        "spans": [
+          "The health insecurity of the poor puts everyone at risk and the lack of care is trapping people in systemic poverty and risking lives"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "People living in extreme poverty are more frequently and severely ill and face greater complications, increasing demands on the healthcare system.",
+        "spans": [
+          "When people live in extreme poverty they a more frequently and severely ill and face greater complications with more demands on an already over-burdened healthcare system"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Job creation cannot make a sick individual a healthy worker, nor cover high costs of health treatments and coverage, indicating healthcare is crucial beyond employment for escaping poverty.",
+        "spans": [
+          "Job creation offers security through employment; however it cannot make a sick individual a healthy worker, and cannot always cover the high costs of health treatments and coverage"
+        ]
+      }
+    ],
+    "clueweb22-en0000-71-17985": [
+      {
+        "point_number": 1,
+        "point_content": "Poverty can significantly impact health and health outcomes throughout an individual’s life.",
+        "spans": [
+          "Beginning before birth and continuing throughout an individual’s life, poverty can significantly impact health and health outcomes."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Poverty restricts resources to avoid risks and adopt healthy behaviors, affecting health outcomes.",
+        "spans": [
+          "For individuals, poverty restricts the resources used to avoid risks and adopt healthy behaviors."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Poverty affects the built environment, services, culture, and communities’ reputation, which independently affect health outcomes.",
+        "spans": [
+          "Poverty also affects the built environment (i.e., the human-made physical parts of the places where people live, work, and play, including buildings, open spaces, and infrastructure), services, culture, and communities’ reputation, all of which have independent effects on health outcomes."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Individuals in poverty experience higher rates of violent victimization, impacting health and family well-being.",
+        "spans": [
+          "From 2008 to 2012, individuals in households at or below the poverty level experienced more than double the rate of violent victimization than individuals in high-income households."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Poverty is associated with mental illness, chronic health conditions, and substance use disorders, affecting health.",
+        "spans": [
+          "Mental illness, chronic health conditions, and substance use disorders are all more prevalent in populations with low income."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Poor nutrition, toxic exposures, and elevated stress hormones associated with poverty affect cognitive development and chronic disease.",
+        "spans": [
+          "Poor nutrition, toxic exposures (e.g., lead), and elevated levels of the stress hormone cortisol are factors associated with poverty that may have lasting effects on children beginning before birth and continuing after birth."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Poverty functions as a risk regulator influencing exposure to risk factors that lead to disease.",
+        "spans": [
+          "Material conditions, discriminatory practices, neighborhood conditions, behavioral norms, work conditions, as well as laws, policies, and regulations associated with poverty make it a “risk regulator.”"
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Poverty affects the likelihood of having risk factors for disease and the ability to prevent and manage disease.",
+        "spans": [
+          "poverty affects both the likelihood that an individual will have risk factors for disease and its ability and opportunity to prevent and manage disease."
+        ]
+      }
+    ],
+    "clueweb22-en0043-07-16660": [
+      {
+        "point_number": 1,
+        "point_content": "Health is correlated to individuals’ socioeconomic status and lifestyle.",
+        "spans": [
+          "There is a wealth of evidence to suggest that health is correlated to individuals’ socioeconomic status and lifestyle."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Poor socio-economic circumstances are one of the strongest predictors of morbidity and premature mortality across the world.",
+        "spans": [
+          "Among them, poor socio-economic circumstances are one of the strongest predictors of morbidity and premature mortality across the world;"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Socioeconomic status has been found to produce the same impact on health as smoking or a sedentary lifestyle, associated with a reduced life expectancy of 2.1 years.",
+        "spans": [
+          "According to a paper published in The Lancet and coordinated by Imperial College London, socioeconomic status has been found to produce the same impact on health as smoking or a sedentary lifestyle, being associated with a reduced life expectancy of 2.1 years,"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Those of low socioeconomic status were 46% more likely to die early compared to wealthier counterparts.",
+        "spans": [
+          "Overall, researchers determined that those of low socioeconomic status were 46% more likely to die early compared to wealthier counterparts."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Low socio-economic status should be targeted alongside conventional health risk factors to minimize premature mortality.",
+        "spans": [
+          "The results of this study demonstrated that low socio-economic status should be targeted alongside the conventional health risk factors as part of global and National Health strategies to minimize the risk of premature mortality."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Poverty impacts overall life expectancy, with a gap of 7.9 years for men and 5.9 years for women between most and least deprived areas in England.",
+        "spans": [
+          "Poverty can impact people's health at all stages of life in several ways and impacts overall life expectancy.",
+          "In England, for example, between 2009 and 2013, the life expectancy for those in the most deprived areas compared to the least deprived areas was 7.9 years greater for men and 5.9 years greater for women."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Babies born in the most deprived areas weigh less and have higher infant mortality and lower breastfeeding rates.",
+        "spans": [
+          "On average, babies born in the most deprived areas in the UK weigh 200 g less than those born in more affluent areas, which may subsequently impact cognitive development.",
+          "Babies living in poverty are also more likely to die within the first year of birth and were more likely to be bottle-fed.",
+          "Seventy-three percent of women in the most deprived areas were shown to initiate breastfeeding compared to 89% of women in the least deprived areas."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Children born into poverty are more likely to suffer from chronic diseases and obesity.",
+        "spans": [
+          "Children born into poverty are also more likely to suffer from chronic diseases such as asthma as well as diet-related problems such as tooth decay, malnutrition, diabetes, and obesity.",
+          "A 2016 report by NHS digital found that children living in the most deprived areas of England are more than twice as likely to become obese compared to those living in the least deprived areas."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Children living in low-income households are more than three times more likely to suffer from mental health issues compared to wealthier peers.",
+        "spans": [
+          "Alongside physical health, children living in low-income households are more than three times more likely to suffer from mental health issues compared to wealthier peers."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Poverty in childhood has long-term negative effects on health, increasing risk of poor mental and physical health into adulthood and higher adult mortality.",
+        "spans": [
+          "As a result, poverty continues to have long-term implications on individuals' health as well as exacerbating this effect due to limited life chances.",
+          "Those growing up in poverty are subsequently more likely to suffer poor mental and physical health into adulthood, risking life-limiting, severe, long-term illnesses.",
+          "Longitudinal studies have shown that children in poverty have a subsequent increased risk of death as adults."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Adults from lower socio-economic backgrounds have higher prevalence of long-term conditions and poor mental health.",
+        "spans": [
+          "The prevalence of long-term conditions is greater in adults from lower socio-economic backgrounds.",
+          "The Mental Health Foundation has also found that 3/4 of people living in the lowest household income bracket have reported experience of poor mental health, compared to six in ten of those in the highest household income bracket."
+        ]
+      }
+    ]
+  }
+}

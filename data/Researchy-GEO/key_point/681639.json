@@ -1,0 +1,614 @@
+{
+  "question": "why don't people seek mental health treatment",
+  "key_points": {
+    "clueweb22-en0039-34-08821": [
+      {
+        "point_number": 1,
+        "point_content": "Many people are afraid of being stigmatized if they admit they need help.",
+        "spans": [
+          "many people are afraid of being stigmatized if they admit they need help"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Some people don’t think they need help due to denial or unawareness that their condition is a treatable mental health issue.",
+        "spans": [
+          "They don’t think they need it.",
+          "First, is simply denial.",
+          "The second way people can be unaware they need help is they simply aren’t aware that what they’re experiencing is a recognized mental health issue that can be effectively treated."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Certain mental health conditions make it hard for individuals to seek help on their own.",
+        "spans": [
+          "Their conditions make it hard.",
+          "Even if someone with depression thinks change is possible, finding a therapist and making an appointment might fall under the category of “impossible tasks”",
+          "Social anxiety disorder can make the prospect of telling your doctor about your problem or calling a therapist to set up an appointment extremely intimidating."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Practical issues such as availability of care and cost can prevent people from seeking mental health treatment.",
+        "spans": [
+          "There are practical issues.",
+          "One is simply availability.",
+          "Paying for treatment is sometimes an issue as well."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Fear or misconceptions about treatment can deter people from seeking help.",
+        "spans": [
+          "They are scared of treatment.",
+          "Someone who has not been treated for a mental health issue might have some pretty strange ideas about how it’s done."
+        ]
+      }
+    ],
+    "clueweb22-en0033-42-18171": [
+      {
+        "point_number": 1,
+        "point_content": "Fear and shame prevent people from seeking mental health treatment due to stigma and fear of being labeled.",
+        "spans": [
+          "One of the most common reasons for not seeking help is fear and shame. People recognize the negative stigma and discrimination associated with having a mental illness and don’t want to be labeled “mentally ill” or “crazy.”"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Lack of insight or denial of illness leads to not seeking treatment.",
+        "spans": [
+          "If someone has clear signs of a mental illness but says “there’s nothing wrong with me,” “I’m not sick,” or “I don’t need any help,” this signals a severe lack of insight."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Limited awareness or minimizing the severity of mental health issues causes people not to seek help.",
+        "spans": [
+          "A person may acknowledge some mental health concerns but can lack full awareness of their significance or really don’t understand they have an actual illness. They may dismiss or minimize their issues and say “everyone gets stressed out” or “my problems aren’t that bad” or “you’re making more out of this than you need to.”"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Feelings of inadequacy and belief in self-reliance prevent seeking treatment.",
+        "spans": [
+          "Many people believe they are inadequate or a failure if they have to admit something is “wrong” with their mental health. Further, they believe they “should be able to handle things” on their own without assistance and that they must be weak or inferior to have to ask for help."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Distrust of doctors or counselors and concerns about confidentiality hinder treatment seeking.",
+        "spans": [
+          "It’s difficult to consider revealing personal details to a doctor or counselor. Many express concern about “telling a stranger” about their problems. Additionally, they worry that their personal information won’t be kept confidential."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Hopelessness and demoralization about mental health issues prevent seeking help.",
+        "spans": [
+          "Some people have become demoralized by their mental health issues and believe “nothing will help me” or “I’ll never get better.”"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Unavailability of mental health professionals, especially in underserved areas, limits access to treatment.",
+        "spans": [
+          "In some underserved areas, there may be few or no mental health professionals, particularly those who provide treatment for more complex issues."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Practical barriers such as financial hardship, lack of insurance, transportation, child care, and scheduling conflicts prevent treatment.",
+        "spans": [
+          "Another common barrier to mental health care is inability to pay for treatment due to financial hardship or lack of health insurance. Not having reliable transportation, child care issues and appointments for treatment that conflict with work or school schedules can also prevent someone from engaging in treatment."
+        ]
+      }
+    ],
+    "clueweb22-en0009-46-10934": [
+      {
+        "point_number": 1,
+        "point_content": "In the United States 45% of individuals with a clinical-level mental problem do not seek professional help.",
+        "spans": [
+          "In the United States 45% of individuals with a clinical-level mental problem do not seek professional help."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Across the ten countries, 58% did not seek help for clinical level mental health challenges.",
+        "spans": [
+          "Across the ten countries, 58% did not seek help for clinical level mental health challenges."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Overall, the primary reason respondents offered for not seeking professional help for a clinical disorder was a preference for self-help (36%), where people said they preferred to manage their challenges on their own or didn’t think they needed any mental health treatment.",
+        "spans": [
+          "Overall, the primary reason respondents offered for not seeking professional help for a clinical disorder was a preference for self-help (36%), where people said they preferred to manage their challenges on their own or didn’t think they needed any mental health treatment."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "This explanation was followed by a lack of knowledge of what kind of help to seek or where to get it (34%).",
+        "spans": [
+          "a lack of knowledge of what kind of help to seek or where to get it (34%)"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "A lack of confidence in mental health treatment (28%), which was largely because respondents felt it wouldn’t help (19%), though 13% indicated they were fearful of being forced to take a medication or being committed.",
+        "spans": [
+          "a lack of confidence in mental health treatment (28%), which was largely because respondents felt it wouldn’t help (19%), though 13% indicated they were fearful of being forced to take a medication or being committed"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "About one in five (22)% did not seek help because of stigma or fear of not wanting people to know.",
+        "spans": [
+          "about one in five (22)% did not seek help because of stigma or fear of not wanting people to know"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "17% were deterred by lack of affordability.",
+        "spans": [
+          "and 17% were deterred by lack of affordability."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "In the United States, lack of confidence in the mental health system was - at 37% - the number one reason for not seeking professional intervention, followed by a lack of knowledge of what kind of help to seek (34%).",
+        "spans": [
+          "In the United States, lack of confidence in the mental health system was - at 37% - the number one reason for not seeking professional intervention, followed by a lack of knowledge of what kind of help to seek (34%)."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Unaffordability was an obstacle to getting help for 25% of U. S. respondents, about the same percentage as those citing concerns about being stigmatized for seeking mental health treatment.",
+        "spans": [
+          "Unaffordability was an obstacle to getting help for 25% of U. S. respondents, about the same percentage as those citing concerns about being stigmatized for seeking mental health treatment."
+        ]
+      }
+    ],
+    "clueweb22-en0011-41-01996": [
+      {
+        "point_number": 1,
+        "point_content": "More than half of people with mental illness don't receive help for their disorders. Often, people avoid or delay seeking treatment due to concerns about being treated differently or fears of losing their jobs and livelihood.",
+        "spans": [
+          "More than half of people with mental illness don't receive help for their disorders.",
+          "Often, people avoid or delay seeking treatment due to concerns about being treated differently or fears of losing their jobs and livelihood."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Stigma, prejudice and discrimination against people with mental illness is still very much a problem and can lead to harm.",
+        "spans": [
+          "stigma, prejudice and discrimination against people with mental illness is still very much a problem.",
+          "Stigma, prejudice and discrimination against people with mental illness can be subtle or it can be obvious—but no matter the magnitude, it can lead to harm."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Stigma often comes from lack of understanding or fear, and inaccurate or misleading media representations contribute to stigma.",
+        "spans": [
+          "Stigma often comes from lack of understanding or fear.",
+          "Inaccurate or misleading media representations of mental illness contribute to both those factors."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Self-stigma leads to negative effects on recovery and can cause reduced hope, lower self-esteem, increased psychiatric symptoms, difficulties with social relationships, reduced likelihood of staying with treatment, and more difficulties at work.",
+        "spans": [
+          "self-stigma leads to negative effects on recovery among people diagnosed with severe mental illnesses.",
+          "Effects can include: reduced hope, lower self-esteem, increased psychiatric symptoms, difficulties with social relationships, reduced likelihood of staying with treatment, more difficulties at work"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Stigma and discrimination can contribute to reluctance to seek help or treatment and less likelihood to stay with treatment.",
+        "spans": [
+          "Reluctance to seek help or treatment and less likely to stay with treatment"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Mental health stigma is a major challenge in the workplace, with many workers concerned about discussing mental health issues and fear of retaliation or being fired if they seek mental health care.",
+        "spans": [
+          "A 2019 national poll from the American Psychiatric Association (APA) found that mental health stigma is still a major challenge in the workplace.",
+          "About half of workers were concerned about discussing mental health issues at their jobs.",
+          "More than one in three were concerned about retaliation or being fired if they sought mental health care."
+        ]
+      }
+    ],
+    "clueweb22-en0034-47-13631": [
+      {
+        "point_number": 1,
+        "point_content": "Fear and shame prevent people from seeking help due to fear of discrimination and being labeled.",
+        "spans": [
+          "The feelings of fear and shame are some of the most common reasons I have found why someone does not reach out for help.",
+          "People don’t want to come out and talk about their mental health in the fear that they will get discriminated against or be labeled as “mentally ill”."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Lack of awareness about mental illnesses and their signs stops people from seeking help.",
+        "spans": [
+          "Lack of Awareness",
+          "Awareness is extremely important in helping others reach out for help. If they know the signs that something is wrong and the resources that are available to them then more people could reach out for treatment."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Feelings of inadequacy make people believe they should handle mental health issues alone and not seek help.",
+        "spans": [
+          "Many people feel like they are inadequate or a failure if they admit anything is “wrong” with their mental health.",
+          "Some believe that they should be able to handle these feelings on their own without any assistance from friends, family, or professionals."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "People avoid seeking help because they don't want to be a burden on others emotionally or financially.",
+        "spans": [
+          "Whether it is because they don’t want their family to spend a lot of money on their care or they feel like they are going to weigh someone else down emotionally, a lot of people do not speak up about what is wrong because they don’t want to feel like they are a burden on someone else."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Hopelessness and negative self-talk discourage people from reaching out for help.",
+        "spans": [
+          "Some individuals with a mental illness suffer from negative self talk.",
+          "These beliefs are due to depression or hopelessness and can be a big roadblock for someone reaching out for help."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Fear of admitting a problem or cultural stigma prevents people from seeking mental health treatment.",
+        "spans": [
+          "Some people are simply afraid of either admitting they might have a problem or afraid what would happen if they do.",
+          "In some cultures it is not a good idea to admit you have a mental health problem for fear of your safety."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Cost of therapy is a significant barrier for many people seeking mental health treatment.",
+        "spans": [
+          "I cant go to therapy because it cost too much money! This is a real fear for a lot of people who are suffering with a mental illness.",
+          "Money is a huge roadblock for a lot of people seeking help."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Lack of available resources in the area can prevent people from getting help.",
+        "spans": [
+          "No Resources Available",
+          "Resources are a huge factor in reaching out for help. If you want to reach out for help but there are no resources in your area then that could be a big boundary for you."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "People may not seek help because they believe their symptoms are not severe enough.",
+        "spans": [
+          "Severity of Symptoms",
+          "Many people believe that their mental illness is not that bad or that other people have it worse than them."
+        ]
+      }
+    ],
+    "clueweb22-en0036-21-12113": [
+      {
+        "point_number": 1,
+        "point_content": "Young people report not seeking help due to a lack knowledge of mental health disorders and services, stigma, negative perceptions of professional mental health services, and logistical difficulties.",
+        "spans": [
+          "Young people report not seeking help due to a lack knowledge of mental health disorders and services, stigma, negative perceptions of professional mental health services, and logistical difficulties."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The main reasons for (not) seeking and accessing professional help given by young people are those related to mental health stigma and embarrassment, a lack of mental health knowledge, and negative perceptions of help-seeking.",
+        "spans": [
+          "The main reasons for (not) seeking and accessing professional help given by young people are those related to mental health stigma and embarrassment, a lack of mental health knowledge, and negative perceptions of help-seeking."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Young people also reported a preference for relying on themselves when facing difficulties, and issues with committing fully to the process of help-seeking.",
+        "spans": [
+          "Young people also reported a preference for relying on themselves when facing difficulties, and issues with committing fully to the process of help-seeking."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Young people experience barriers to help-seeking in all domains of their life, including personal, societal, and logistical issues.",
+        "spans": [
+          "Young people experience barriers to help-seeking in all domains of their life, including personal, societal, and logistical issues."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Four themes were identified that influenced help-seeking: individual factors, social factors, relationship factors with professionals, and systemic and structural factors.",
+        "spans": [
+          "Four themes were identified that influenced help-seeking."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Individual factors include knowledge about mental health and services, perceptions of help-seeking, desire to cope alone, commitment to the process, perceived autonomy, preference for informal support, ability to verbalise need, emotional and motivational factors, and past experiences with help-seeking.",
+        "spans": [
+          "Theme 1: Young people’s individual factors",
+          "Knowledge about mental health and services – knowing when and where to seek help",
+          "Perceptions of help-seeking (i.e. attitudes and stigma)",
+          "A desire to cope with problems alone",
+          "Commitment to the process – reluctance to attend appointments and adhere to recommended treatments, and doubts about the effectiveness of professional help",
+          "Perceived autonomy – whether it was their own choice to seek help",
+          "Preference for informal support (i.e. family and friends)",
+          "Ability to verbalise the need for help and to talk about difficulties",
+          "Emotional and motivational factors (i.e. anxiety/depression symptoms, lack of motivation)",
+          "Past experiences with help-seeking – positive or negative past experiences predicted likelihood of seeking help again"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Social factors include views and attitudes towards mental health and help-seeking in the wider environment and support network, anticipated impact on social network, and stigma.",
+        "spans": [
+          "Theme 2: Social factors",
+          "Views and attitudes towards mental health and help-seeking in the wider environment – perceived stigma in the community and public embarrassment",
+          "Views and attitudes towards mental health and help-seeking in their support network (e.g., family, teachers) – more common in ethnically-diverse samples",
+          "Anticipated impact of help-seeking on social network – fear of being taken away from parents, losing status with peers, or making family angry or upset"
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Relationship factors with professionals include perceived confidentiality, perception of professional, ability to trust a stranger, and similarity between young person and professional.",
+        "spans": [
+          "Theme 3: Relationship factors with professionals",
+          "Perceived confidentiality",
+          "Perception of professional – e.g. respect, non-judgmental attitude",
+          "Ability to trust a stranger and concerns about disclosing personal information",
+          "Similarity between young person and professional – e.g. gender, ethnicity/race, and age"
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Systemic and structural factors include logistical factors, costs, availability and accessibility of professional help, and use of technology.",
+        "spans": [
+          "Theme 4: Systemic and structural factors",
+          "Logistical factors – lack of time, interference with other activities, and transportation difficulties (particularly in rural areas)",
+          "Costs – associated with mental health services (typically in America)",
+          "Availability of professional help – limited availability and excessive waiting times",
+          "Accessibility of professional help – difficulty making an appointment, or staffs’ attitudes towards them",
+          "Use of technology – desire to communicate distress and attend treatment via digital tools"
+        ]
+      }
+    ],
+    "clueweb22-en0028-95-01921": [
+      {
+        "point_number": 1,
+        "point_content": "Asian Americans may be more impacted by mental health stigma than most, leading to lower rates of seeking mental health services.",
+        "spans": [
+          "Mental health stigma affects all ethnicities, cultures, and nationalities, but Asian Americans may be more impacted than most.",
+          "while 18% of the general U.S. population sought mental health services and resources, only 8.6% of Asian Americans did so."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Pressures such as academic and professional success discourage Asian Americans from seeking help for mental health concerns.",
+        "spans": [
+          "Some said they felt tremendous pressure to be academically or professionally successful. To stay focused, they ignored or denied symptoms."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Mental health is a taboo topic in many Asian American communities, contributing to reluctance to seek help.",
+        "spans": [
+          "Others cited cultural concerns. They explained that mental health was a taboo topic in their communities."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Stigma in the community is linked to the belief that mental illness takes away a person's ability to care for family and community, which is seen as shameful.",
+        "spans": [
+          "For some Asian Americans, there’s a real sense that your value as a person depends on your ability to take care of your family and community.",
+          "Mental illness is seen—and I should emphasize, incorrectly—as taking away a person’s ability to care for others. For that reason, it’s seen as taking away someone’s identity or purpose. It’s the ultimate form of shame."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The 'model minority' stereotype pressures Asian Americans to appear strong and self-reliant, discouraging admission of mental health issues.",
+        "spans": [
+          "For some, the pressure of being part of a “model minority” stood in the way of treatment.",
+          "Many Asian Americans see themselves as part of a group that seamlessly integrated into their new society. They characterize themselves as intelligent, industrious, and fully in charge of their lives. For many, admitting to “weakness” would be letting down the entire community."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Fear of being perceived as weak or 'crazy' leads many Asian Americans to avoid seeking mental health treatment.",
+        "spans": [
+          "Asian Americans fear being thought of as weak or “crazy” for having a psychological disorder—perhaps more than any other group.",
+          "Shame and embarrassment force many to struggle in silence and never seek help."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Many Asian Americans seek support from friends, relatives, or church members instead of mental health professionals due to stigma.",
+        "spans": [
+          "Most participants in the University of Maryland study reported they reached out to friends, relatives, and members of their church for support instead of contacting mental health professionals."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Some Asian Americans seek medical help for physical symptoms caused by psychological problems to avoid stigma.",
+        "spans": [
+          "Another alternative for some Asian Americans is to seek medical help for a psychological problem. Asking a medical doctor to address a racing heartbeat, insomnia, or constant headaches carries none of the shame of admitting to anxiety, depression, or addiction, even if a psychiatric disorder is the cause."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Language barriers and lack of awareness of mental health resources prevent many Asian Americans from receiving treatment.",
+        "spans": [
+          "Studies have shown that language barriers and a lack of awareness of where and how to get help have prevented many from receiving needed treatment."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Cultural differences in approaches to therapy may create barriers for Asian Americans in accessing mental health care.",
+        "spans": [
+          "Mainstream psychotherapy in America has its roots in Western Europe.",
+          "Assumptions that some take for granted, like ‘talking about it will make you feel better,’ may not be shared with some Asian Americans who may prefer to deal with emotions by doing things, such as sports or academics."
+        ]
+      }
+    ],
+    "clueweb22-en0022-75-09569": [
+      {
+        "point_number": 1,
+        "point_content": "Mental health stigma is a huge barrier on why many people don’t seek help.",
+        "spans": [
+          "Mental health stigma is a huge barrier on why many people don’t seek help."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "People don’t want to be judged for seeking treatment or be defined as weak or incompetent.",
+        "spans": [
+          "We don’t want to be judged for seeking treatment. We don’t want to be defined as weak or incompetent, or even worse, seen as unable to take care of ourselves."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Internalizing stigmas leads to feeling shame and embarrassment, which prevents seeking help.",
+        "spans": [
+          "Internalizing these stigmas is the first step to feeling shame and embarrassed."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Fear and refusal to seek help can be caused by the roller coaster nature of mental illness and stigmas.",
+        "spans": [
+          "The roller coaster of mental illness along with the many stigmas contributed to my fear and refusal to seek help."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "People may choose to self-diagnose, binge drink, build unhealthy habits, and ignore symptoms instead of seeking help.",
+        "spans": [
+          "Instead, I choose to self-diagnose. I began binge drinking, building unhealthy habits, and ignoring my symptoms."
+        ]
+      }
+    ],
+    "clueweb22-en0007-24-17954": [
+      {
+        "point_number": 1,
+        "point_content": "There is still stigma attached to seeking therapy, causing embarrassment or shame.",
+        "spans": [
+          "there’s still stigma attached to seeking therapy",
+          "Many people feel embarrassed or ashamed of their symptoms because our society places illogical taboos on mental health issues over physical conditions"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Many people wait until their symptoms are unbearable before seeking therapy.",
+        "spans": [
+          "Many people aren’t sure what warrants a therapy session. But in reality most people wait until their symptoms are unbearable"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "People are often unsure how or where to start looking for a therapist.",
+        "spans": [
+          "many are unsure how or where to start",
+          "Therapy may seem like a strange, foreign land to someone who’s never been"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Lack of time and energy after work can prevent people from seeking therapy.",
+        "spans": [
+          "Many of us are so tired from working hard and dealing with emotional stressors, there’s no energy left to talk through problems"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Therapy can be costly, which is a barrier for some people.",
+        "spans": [
+          "Therapy can be costly"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Well-meaning loved ones may discourage seeking therapy by minimizing symptoms or offering insufficient solutions.",
+        "spans": [
+          "Well-meaning loved ones are another deterrent",
+          "People suffering with symptoms may be told by well-meaning friends and family that they will get through it, that it’s just a phase, or they may provide well-meaning but deficient solutions"
+        ]
+      }
+    ],
+    "clueweb22-en0028-83-03237": [
+      {
+        "point_number": 1,
+        "point_content": "Stigma is a major reason why people don't seek mental health treatment, as it leads to shame, loss of self-esteem, and avoidance of diagnosis or treatment.",
+        "spans": [
+          "Stigma",
+          "Public stigma can lead to patients experiencing shame, loss of self-esteem and withdrawal from academic or vocational pursuits",
+          "many individuals avoid receiving a diagnosis or be seen seeking mental health treatment"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Mental health literacy is lacking, causing people to not recognize mental health disorders and increasing misconceptions and stigma, which reduces treatment-seeking behaviors.",
+        "spans": [
+          "One of the key contributors to stigma is the lack of mental health literacy",
+          "Many untrained (mental health) individuals in Singapore are unable to recognise different types of mental health disorders",
+          "increasing misconceptions, stigma, and reducing treatment-seeking behaviours"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Lack of awareness of available mental health resources limits individuals from seeking help even when they recognize the need.",
+        "spans": [
+          "there are individuals who recognise that they need help to address their mental health concerns but are limited by the awareness of resources in the community"
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0025-41-03952": [
+      {
+        "point_number": 1,
+        "point_content": "The top reasons why adults did not receive mental health services include cost, belief they could handle the problem without treatment, not knowing where to go, and time constraints.",
+        "spans": [
+          "37.2% Could not afford cost",
+          "31.0% Thought could handle the problem without treatment",
+          "26.0% Did not know where to go for services",
+          "21.7% Did not have time"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Cost and other practical barriers are a major category of reasons for not receiving mental health treatment.",
+        "spans": [
+          "Could not afford cost – 37.2%",
+          "Did not have time – 21.7%",
+          "Health insurance does not pay enough for mental health services – 11.9%",
+          "Health insurance does not cover any mental health services – 8.8%",
+          "No transportation or inconvenient – 3.8%"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Lack of insight, awareness, and information is another key category of reasons for not seeking mental health treatment.",
+        "spans": [
+          "Thought could handle the problem without treatment – 31.0%",
+          "Did not know where to go for services – 26.0%",
+          "Did not feel need for treatment at the time – 11.9%"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Distressing thoughts and feelings such as stigma, fear, distrust, and hopelessness also prevent people from seeking mental health treatment.",
+        "spans": [
+          "Might cause neighbors or community to have negative opinion – 12.6%",
+          "Concerned about being committed or having to take medicine – 11.9%",
+          "Might have negative effect on job – 11.7%",
+          "Concerned about confidentiality – 11.0%",
+          "Treatment would not help – 10.0%",
+          "Did not want others to find out – 9.1%"
+        ]
+      }
+    ]
+  }
+}

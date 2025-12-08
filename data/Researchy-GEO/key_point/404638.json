@@ -1,0 +1,284 @@
+{
+  "question": "what leads to poverty",
+  "key_points": {
+    "clueweb22-en0008-50-18054": [
+      {
+        "point_number": 1,
+        "point_content": "Lack of clean water and inadequate sanitation lead to poverty by causing preventable diseases and increasing medical costs, trapping individuals in poverty.",
+        "spans": [
+          "lack of clean water",
+          "2.1 billion people worldwide lack access to safe, readily available water and 4.5 billion people lack safely managed sanitation",
+          "inadequate sanitation and lack of clean water leads to preventable diseases like diarrhea or something more serious like typhoid",
+          "the cost of mitigating this issue is increased as time goes by",
+          "The efforts to survive through these illnesses can ultimately force the individual to be stuck in poverty for a longer term",
+          "these people spend little money they have on transportation to a clinic and to medical costs",
+          "many people are spending precious hours and energy to reach a water collection point",
+          "People in poverty in rural communities have the greatest risk for falling into this vicious circle"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Poor education leads to poverty by limiting career opportunities and increasing the likelihood of impoverishment.",
+        "spans": [
+          "Poor education is also one of the key factors that can lead to poverty",
+          "poor or no education often leads to poverty",
+          "Education provides protection against poverty",
+          "35 percent of people who have the educational attainment of less than a high school are likely to be impoverished, compared to 5 percent of people with a bachelor’s degree or higher",
+          "UNESCO estimates that 171 million people could escape poverty if they had basic literacy skills"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Unreliable labor market and insufficient wages contribute to poverty by making it difficult for people to secure stable, well-paid jobs.",
+        "spans": [
+          "unreliable labor market",
+          "Extreme poverty is defined as the situation in which someone is surviving on less than $1.90 a day",
+          "about 11 percent of the world’s population is classified as living in these conditions",
+          "The unreliable availability of jobs and the insufficient wages make it difficult for people to take themselves out of poverty",
+          "people who do not have specific skills or experience have a hard time to secure themselves with a stable and high-paid job"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Unequal distribution of wealth contributes to poverty by concentrating resources among the wealthy and limiting consumption for the poor.",
+        "spans": [
+          "The unequal distribution of the wealth in the world also contributes to poverty",
+          "the wealthiest 10 percent of the world accounted for 59 percent of a total private consumption",
+          "the poorest 10 percent consumed only 0.5 percent",
+          "the people who are struggling in poverty have little and consume little",
+          "In 2006, the 497 billionaires in the world had a net worth of $3.5 trillion",
+          "This is nearly triple the net worth of low-income countries that have 2.4 billion people and net worth of $1.6 trillion"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Poor infrastructure in isolated rural communities limits access to electricity, water, roads, and transportation, which restricts education and work opportunities, leading to poverty.",
+        "spans": [
+          "Poor infrastructure is also a large factor of poverty",
+          "Impoverished people generally live in isolated communities in rural areas",
+          "these people do not have easy access to electricity, water, roads and reliable transportation",
+          "more than 85 percent of the population in the Central African Republic lacks electricity and connectivity",
+          "isolation is limiting the ability to education or work opportunities"
+        ]
+      }
+    ],
+    "clueweb22-en0025-35-11148": [
+      {
+        "point_number": 1,
+        "point_content": "Unemployment creates a lack of financial stability, leading to a downwards spiral in social mobility and eventually poverty.",
+        "spans": [
+          "Unemployment creates a lack of financial stability, leading to a downwards spiral in social mobility and eventually poverty."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The unemployed will have a lower standard of living than most employed people.",
+        "spans": [
+          "The unemployed will have a lower standard of living than most employed people."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Lack of a regular income leads to the inability to be able to maintain the basic needs, including fundamental provisions such as eating healthy foods, buying into health care and providing adequate heating for the home.",
+        "spans": [
+          "Lack of a regular income leads to the inability to be able to maintain the basic needs, including fundamental provisions such as eating healthy foods, buying into health care and providing adequate heating for the home."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The reasons behind poverty are always a lack of money.",
+        "spans": [
+          "the reasons behind poverty are always a lack of money."
+        ]
+      }
+    ],
+    "clueweb22-en0018-93-09025": [
+      {
+        "point_number": 1,
+        "point_content": "Lack of good jobs/job growth leads to poverty because without good jobs, people do not get a good income.",
+        "spans": [
+          "When you don’t have a good job, you aren’t getting a good income."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Lack of good education causes poverty as it prevents people from bettering their situations and escaping the poverty cycle.",
+        "spans": [
+          "The second root cause of poverty is a lack of education. Poverty is a cycle and without education, people aren’t able to better their situations."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Warfare and conflict contribute to poverty by stopping productivity and economic growth, and displacing people.",
+        "spans": [
+          "Conflict has a huge impact on poverty. In times of war, everything stops. Productivity suffers as well as a country’s GDP."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Weather and climate change lead to poverty by causing droughts, floods, and storms that devastate communities, especially agricultural ones.",
+        "spans": [
+          "climate change causes drought, floods, and severe storms, and that can take down successful countries while pulling poor ones down even further."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Social injustice such as gender discrimination and racism leads to poverty by limiting access to education, jobs, and resources.",
+        "spans": [
+          "Whether it’s gender discrimination, racism, or other forms of social injustice, poverty follows. People who are victims of social injustice struggle with getting a good education, the right job opportunities, and access to resources that can lift them out of poverty."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Lack of food and water causes poverty because people must focus all their efforts on obtaining these essentials, leaving no resources to improve their situation.",
+        "spans": [
+          "Without access to basic essentials like food and water, it’s impossible to get out of poverty’s cycle. Everything a person does will be about getting food and water."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Lack of infrastructure isolates communities and makes it difficult to access jobs, stores, and services, perpetuating poverty.",
+        "spans": [
+          "Infrastructure includes roads, bridges, the internet, public transport, and more. When a community or families are isolated, they have to spend a lot of money, time, and energy getting to places."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Lack of government support contributes to poverty when governments fail to provide social welfare, infrastructure, or actively persecute the poor.",
+        "spans": [
+          "many governments are either unable or unwilling to serve the poor. This might mean failing to provide (or cutting) social welfare programs, redirecting funds away from those who need it, failing to build good infrastructure, or actively persecuting the population."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Lack of good healthcare leads to poverty because poor health prevents work and treatment costs worsen financial situations.",
+        "spans": [
+          "People who are poor are more likely to suffer from bad health, and those with bad health are more likely to be poor. This is because healthcare is often too expensive or inaccessible to those who need it."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "High costs of essentials like food and housing contribute to poverty as poor households spend a large portion of income on these, limiting other needs.",
+        "spans": [
+          "the poorest households in the world are spending 60-80% of their incomes on food. Food prices are also very unpredictable in certain areas, so when they rise, the poor have to keep cutting out other essentials. Housing is another essential that is rising."
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0030-85-14808": [
+      {
+        "point_number": 1,
+        "point_content": "Parents' low education levels are strongly associated with low income and poverty among their children.",
+        "spans": [
+          "Parents’ Low Education Leads to Low Income, Despite Full-Time Employment",
+          "Higher education is one of the most effective ways that parents can raise their families’ incomes.",
+          "There is clear evidence that higher educational attainment is associated with higher earnings.",
+          "The majority of children in low-income families have parents without any college education.",
+          "82% of children whose parents have less than a high school diploma live in low-income families.",
+          "57% of children whose parents have a high school diploma, but no college education, live in low-income families.",
+          "Only 24% of children whose parents have some college education or more live in low-income families."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Full-time employment does not protect families from low income if parents have low education levels.",
+        "spans": [
+          "If parents have low education levels, full-time employment does not protect their families from low earnings.",
+          "Among children whose parents work full-time and year-round: 73% of children whose parents have less than a high school diploma live in low-income families.",
+          "46% of children whose parents have a high school diploma, but no college education, live in low-income families.",
+          "Only 17% of children whose parents have some college education or more live in low-income families."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Over the past two decades, children with parents employed full-time are increasingly likely to be low income if their parents do not have at least a college education.",
+        "spans": [
+          "Over the past two decades, children with parents employed full-time are increasingly likely to be low income if their parents do not have at least a college education.",
+          "The percent of children in low-income families increased from 65% to 73% if parents had less than a high school diploma.",
+          "The percent of children in low-income families increased from 34% to 46% if parents had a high school diploma, but no college.",
+          "The percent of children in low-income families increased from 15% to 17% if parents had some college education or more."
+        ]
+      }
+    ],
+    "clueweb22-en0039-84-17971": [
+      {
+        "point_number": 1,
+        "point_content": "One of the many factors leading to global poverty is having no access to clean drinking water.",
+        "spans": [
+          "One of the many factors leading to global poverty is having no access to clean drinking water."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Political factors such as unequal distribution of resources and wealth contribute to poverty.",
+        "spans": [
+          "There are also some political factors that lead to poverty.",
+          "The idea of equal distribution on what is taken from the planet is not exactly equal between countries.",
+          "Greed and apathy are two of the most wounding contributory factors of global poverty"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Lack of access to a proper job or livelihood leads to poverty, especially in countries facing conflicts.",
+        "spans": [
+          "Having no access to earn a proper living or livelihood is another contributing factor.",
+          "There are numerous countries out there facing serious conflicts that inhibit access to a normal life where one can have a job and make money."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Lack of infrastructure, especially in rural areas, contributes to poverty by limiting access to necessities and opportunities.",
+        "spans": [
+          "Lack of infrastructure is another contributing factor.",
+          "The issue of infrastructure is also highlighted as an issue of resource availability and proper governmental control since rural areas often lack basic necessities like electricity and clean water."
+        ]
+      }
+    ],
+    "clueweb22-en0012-56-11442": [
+      {
+        "point_number": 1,
+        "point_content": "Colonialism and its legacies have helped create the conditions that prevent many people from accessing land, capital, education and other resources that allow people to support themselves adequately.",
+        "spans": [
+          "Many of the poorest nations in the world were former colonies from which slaves and resources had been systematically extracted for the benefit of colonizing countries.",
+          "colonialism and its legacies have helped create the conditions that prevent many people from accessing land, capital, education and other resources that allow people to support themselves adequately."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "War and political instability prevent safety, stability and security which are essential for subsistence and economic prosperity, hindering people from working and benefiting from their labor.",
+        "spans": [
+          "War & political instability",
+          "it is clear that safety, stability and security are essential for subsistence and, beyond that, economic prosperity and growth.",
+          "Without these basics, natural resources cannot be harnessed individually or collectively, and no amount of education, talent or technological know-how will allow people to work and reap the benefits of their labor."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Poor countries carry significant debt due to loans and structural adjustment policies that increase competition with local businesses, undermining local economic development.",
+        "spans": [
+          "Many poor countries carry significant debt due to loans from wealthier nations and international financial institutions.",
+          "structural adjustment policies by organizations like the World Bank and the International Monetary Fund often require poorer nations to open their markets to outside business and investors, thereby increasing competition with local businesses and, many argue, undermining the potential development of local economies."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Discrimination and social inequality bar groups with lower social status from accessing resources, exacerbating poverty.",
+        "spans": [
+          "Discrimination and social inequality",
+          "inequality can feed widespread poverty by barring groups with lower social status from accessing the tools and resources to support themselves.",
+          "inequalities in income distribution and access to productive resources, basic social services, opportunities, markets, and information have been on the rise worldwide, often causing and exacerbating poverty.",
+          "gender discrimination has been a significant factor in holding many women and children around the world in poverty."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Vulnerability to natural disasters can devastate already impoverished regions, forcing people to lose their homes and livelihoods and become dependent on aid.",
+        "spans": [
+          "Vulnerability to natural disasters",
+          "In regions of the world that are already less wealthy, recurrent or occasional catastrophic natural disasters can pose a significant obstacle to eradicating poverty.",
+          "already impoverished people became refugees within their own countries, losing whatever little they had, being forced out of their living spaces and becoming almost completely dependent on others for survival."
+        ]
+      }
+    ]
+  }
+}

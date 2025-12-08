@@ -1,0 +1,22 @@
+{
+  "question": "how does media contribute to the knowledge i have about careers?",
+  "key_points": {
+    "null": [],
+    "clueweb22-en0033-91-04863": [
+      {
+        "point_number": 1,
+        "point_content": "Media helps by providing information about employment opportunities.",
+        "spans": [
+          "Help for employement opportunities"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Media helps you in general regarding careers.",
+        "spans": [
+          "I think it helps you"
+        ]
+      }
+    ]
+  }
+}

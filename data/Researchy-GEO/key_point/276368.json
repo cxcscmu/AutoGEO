@@ -1,0 +1,225 @@
+{
+  "question": "why are medical bills so expensive",
+  "key_points": {
+    "clueweb22-en0000-29-11467": [
+      {
+        "point_number": 1,
+        "point_content": "The American health-care system is in a tug of war between physicians, hospitals, insurance companies, pharmaceuticals and shareholders.",
+        "spans": [
+          "The American health-care system is in a tug of war between physicians, hospitals, insurance companies, pharmaceuticals and shareholders."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Ashley Palmiscino's insurance company was billed roughly $4 million for her five-month-old son Luca's lung transplant.",
+        "spans": [
+          "Ashley Palmiscino's insurance company was billed roughly $4 million for her five-month-old son Luca's lung transplant."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "One-third of the money raised on GoFundMe last year went to medical campaigns.",
+        "spans": [
+          "One-third of the money raised on GoFundMe last year went to medical campaigns."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Once there's all this money sloshing around in a system, there's this sort of pile-on effect where everyone wants to grab their bit of this huge pot of money.",
+        "spans": [
+          "Once there's all this money sloshing around in a system, there's this sort of pile-on effect where everyone wants to grab their bit of this huge pot of money,"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Now what we have as we're trying to take it back and reduce costs is everyone is desperately clinging to their piece of the pie.",
+        "spans": [
+          "Now what we have as we're trying to take it back and reduce costs is everyone is desperately clinging to their piece of the pie."
+        ]
+      }
+    ],
+    "clueweb22-en0014-08-19140": [
+      {
+        "point_number": 1,
+        "point_content": "Health care costs are growing faster than the economy, and a big portion of those bills is paid by employers and those with commercial insurance coverage.",
+        "spans": [
+          "Health care costs are growing faster than the economy, and a big portion of those bills is paid by employers and those with commercial insurance coverage."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The cost of American medical care has more than doubled even after accounting for inflation over the last three decades.",
+        "spans": [
+          "Over the last three decades, the cost of American medical care has more than doubled even after accounting for inflation, according to the Kaiser Family Foundation."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Private sector pays much more for medical care compared to other industrialized countries, while Medicare pays less.",
+        "spans": [
+          "The private sector is paying four-and-a-half times what the rest of the industrialized countries are paying, whereas the Medicare program is paying about one-and-half times."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Private payers have to negotiate with every hospital and doctor, and lack of competition allows hospitals to charge whatever they want.",
+        "spans": [
+          "The Medicare program sets the rates it will pay based on hospital costs. But private payers have to negotiate with every hospital and doctor.",
+          "If you’re an insurer, you have to have that particular health care system in your network, and so they can charge whatever they want because you, as an insurer, can’t say no."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Insurance companies may not be motivated to reduce costs for large, self-insured company plans because they earn a percentage of the bill.",
+        "spans": [
+          "They have no incentive — as long as they maintain the business — of getting the lowest price."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Hospital consolidation leads to higher prices for private insurance plans.",
+        "spans": [
+          "Over the past three decades, hospital systems have been consolidating rapidly, merging with other hospitals and buying up physician practices.",
+          "And when hospitals consolidate, prices go up. On average, private insurance plans pay 247% of what Medicare pays, according to the RAND Corp."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Hospitals charge private payers significantly more than Medicare rates, especially in states with more consolidated health systems.",
+        "spans": [
+          "North Carolina hospitals charge private payers 273% of Medicare rates, says RAND analyst Christopher Whaley.",
+          "South Carolina, where health systems are more highly consolidated, ranks second highest in the country in terms of how much its hospitals charge people with private insurance. On average, hospitals there charge people with commercial insurance 344% of Medicare rates."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Hospitals argue they charge more to private payers because Medicare pays too little, but data does not support that hospitals with more Medicare patients charge more to private patients.",
+        "spans": [
+          "Medicare is a very low payer across the board, (For most services) it’s less than 80% of the cost they reimburse. And so because of that, we have to figure out how to collect that difference somewhere else in order to stay open.",
+          "There’s actually no relationship between a hospital’s share of patients that are on Medicare and Medicaid and that hospital’s prices."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Hospitals have high costs due to salaries and equipment; American doctors and nurses earn more than counterparts in other wealthy countries.",
+        "spans": [
+          "Another reason prices are high, Hand said, is that hospitals have to spend a lot on salaries and equipment.",
+          "American doctors and nurses earn more than their counterparts in other wealthy countries. Specialists here make an average of $316,000 a year — more than twice as much as the average compensation in nine comparable countries, according to one 2018 study."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Large hospital systems increase physician charges by buying up doctor practices and adding additional fees.",
+        "spans": [
+          "When they buy up doctor practices, hospitals often tack an additional fee onto the doctor’s bill."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Hospitals benefit financially by moving tests and procedures from outside to inside the hospital where reimbursement is higher.",
+        "spans": [
+          "If you can move things like lab tests and MRIs from outside the hospital to inside the hospital then you can increase how much you get paid ,"
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "Large hospital systems use market power to impose contract terms that limit insurers' ability to steer patients to lower-cost hospitals, increasing costs.",
+        "spans": [
+          "Atrium said, ‘If you’re going to contract with us at all, you have to promise us that you will not steer your patients to lower-cost hospitals,’",
+          "So this basically is a contractual provision in which Atrium was exercising its market power. And the Department of Justice thought it was an abuse of its market power and it was anti-competitive."
+        ]
+      },
+      {
+        "point_number": 13,
+        "point_content": "Higher hospital charges act as a tax on everyone with private health insurance, regardless of income.",
+        "spans": [
+          "It falls on every premium payer like a flat fee. A family that is earning $40,000 is paying the same in premiums as a family that’s earning $ 4 million."
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0010-42-10818": [
+      {
+        "point_number": 1,
+        "point_content": "The high cost of medical care in the U.S. is one of the greatest challenges the country faces and it affects everything from the economy to individual behavior.",
+        "spans": [
+          "The high cost of medical care in the U.S. is one of the greatest challenges the country faces and it affects everything from the economy to individual behavior"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Three driving forces behind high health care costs are administrative expenses, corporate greed and price gouging, and higher utilization of costly medical technology.",
+        "spans": [
+          "Cutler explored three driving forces behind high health care costs—administrative expenses, corporate greed and price gouging, and higher utilization of costly medical technology"
+        ]
+      }
+    ],
+    "clueweb22-en0011-95-11227": [
+      {
+        "point_number": 1,
+        "point_content": "Administrative waste due to multiple payers and complex billing requirements increases healthcare costs.",
+        "spans": [
+          "One reason for high costs is administrative waste. Providers face a huge array of usage and billing requirements from multiple payers, which makes it necessary to hire costly administrative help for billing and reimbursements."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Pharmaceutical drugs are much more expensive in the U.S. compared to other developed countries.",
+        "spans": [
+          "Americans pay almost four times as much for pharmaceutical drugs as citizens of other developed countries."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Hospitals, doctors, and nurses charge more in the U.S. than in other countries, with hospital costs rising faster than salaries.",
+        "spans": [
+          "Hospitals, doctors, and nurses all charge more in the U.S. than in other countries, with hospital costs increasing much faster than professional salaries."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "In other countries, drug and healthcare prices are partially controlled by the government, unlike in the U.S. where prices depend on market forces.",
+        "spans": [
+          "In other countries, prices for drugs and healthcare are at least partially controlled by the government. In the U.S. prices depend on market forces."
+        ]
+      }
+    ],
+    "clueweb22-en0006-39-09955": [
+      {
+        "point_number": 1,
+        "point_content": "The price of medical care is the single biggest factor behind U.S. healthcare costs, accounting for 90% of spending.",
+        "spans": [
+          "The price of medical care is the single biggest factor behind U.S. healthcare costs, accounting for 90% of spending."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "These expenditures reflect the cost of caring for those with chronic or long-term medical conditions, an aging population and the increased cost of new medicines, procedures and technologies.",
+        "spans": [
+          "These expenditures reflect the cost of caring for those with chronic or long-term medical conditions, an aging population and the increased cost of new medicines, procedures and technologies."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Between 2010 and 2025, prescription drug prices are expected to increase by 136 percent.",
+        "spans": [
+          "Between 2010 and 2025, prescription drug prices are expected to increase by 136 percent."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Treating chronic diseases accounts for 86 percent of U.S. healthcare costs.",
+        "spans": [
+          "Treating chronic diseases accounts for 86 percent of U.S. healthcare costs."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Chronic diseases and conditions—such as arthritis, obesity, cancer and heart disease—are among the most common, costly and often preventable of all health problems.",
+        "spans": [
+          "Chronic diseases and conditions—such as arthritis, obesity, cancer and heart disease—are among the most common, costly and often preventable of all health problems."
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "question": "what cognitive symptoms may indicate that someone has been exposed to long-term trauma?",
+  "key_points": {
+    "null": [],
+    "clueweb22-en0001-70-09813": [
+      {
+        "point_number": 1,
+        "point_content": "Cognitive symptoms such as poor concentration and mood swings may indicate trauma exposure.",
+        "spans": [
+          "poor concentration",
+          "mood swings"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Anxiety symptoms including night terrors, edginess, and irritability are signs of trauma.",
+        "spans": [
+          "night terrors",
+          "edginess",
+          "irritability"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Trauma victims may appear shaken, disoriented, withdrawn, or not present even when speaking.",
+        "spans": [
+          "appear shaken and disoriented",
+          "appear withdrawn or not present even when speaking"
+        ]
+      }
+    ],
+    "clueweb22-en0031-79-08694": [
+      {
+        "point_number": 1,
+        "point_content": "Anxiety or panic attacks that occur in what would be considered normal situations may indicate unresolved trauma.",
+        "spans": [
+          "Anxiety or panic attacks that occur in what would be considered normal situations"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "A feeling of shame; an innate feeling that they are bad, worthless, or without importance can be a cognitive symptom of unresolved trauma.",
+        "spans": [
+          "A feeling of shame; an innate feeling that they are bad, worthless, or without importance"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Suffering from chronic or ongoing depression is a sign of unresolved trauma.",
+        "spans": [
+          "Suffering from chronic or ongoing depression"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Practicing avoidance of people, places, or things that may be related to the traumatic event, including avoidance of unpleasant emotions, is a symptom of unresolved trauma.",
+        "spans": [
+          "Practicing avoidance of people, places, or things that may be related to the traumatic event; this also can include an avoidance of unpleasant emotions"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Flashbacks, nightmares, and body memories regarding the traumatic event are cognitive symptoms of unresolved trauma.",
+        "spans": [
+          "Flashbacks, nightmares, and body memories regarding the traumatic event"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Addiction and eating disorders in an attempt to escape or numb negative emotions can be signs of unresolved trauma.",
+        "spans": [
+          "Addiction and eating disorders in an attempt to escape or numb negative emotions"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Sleeping issues including trouble going to sleep or staying asleep may indicate unresolved trauma.",
+        "spans": [
+          "Sleeping issues including trouble going to sleep or staying asleep"
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Suffering from feelings of detachment, or feeling \"dead inside\" is a cognitive symptom of unresolved trauma.",
+        "spans": [
+          "Suffering from feelings of detachment, or feeling \"dead inside\""
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Dissociation as a real disconnect in situations and conversations is a sign of unresolved trauma.",
+        "spans": [
+          "Dissociation as a real disconnect in situations and conversations"
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Hypervigilance (a constant feeling of being on guard) can indicate unresolved trauma.",
+        "spans": [
+          "Hypervigilance (a constant feeling of being on guard)"
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Suicidal thought or actions may be a cognitive symptom of unresolved trauma.",
+        "spans": [
+          "Suicidal thought or actions"
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "Uncontrollable anger; acting on it is a sign of unresolved trauma.",
+        "spans": [
+          "Uncontrollable anger; acting on it"
+        ]
+      },
+      {
+        "point_number": 13,
+        "point_content": "Not being able to tolerate conflicts as they once would have can indicate unresolved trauma.",
+        "spans": [
+          "Not being able to tolerate conflicts as they once would have"
+        ]
+      },
+      {
+        "point_number": 14,
+        "point_content": "Unexplained or irrational fears of people, places, or things may be symptoms of unresolved trauma.",
+        "spans": [
+          "Unexplained or irrational fears of people, places, or things"
+        ]
+      }
+    ],
+    "clueweb22-en0043-49-11808": [
+      {
+        "point_number": 1,
+        "point_content": "Trauma can result in difficulty in coping or functioning normally.",
+        "spans": [
+          "This trauma can result in difficulty in coping or functioning normally."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Some people experience problems directly after the traumatic event or much later.",
+        "spans": [
+          "Some people experience problems directly after the traumatic event or much later."
+        ]
+      }
+    ]
+  }
+}

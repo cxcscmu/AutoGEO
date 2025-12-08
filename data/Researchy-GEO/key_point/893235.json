@@ -1,0 +1,221 @@
+{
+  "question": "what impact could a poor quality product have on a company?",
+  "key_points": {
+    "clueweb22-en0023-44-19134": [
+      {
+        "point_number": 1,
+        "point_content": "Poor quality can lead to flight accidents, grounding of airplanes, and huge impact on the company and related businesses.",
+        "spans": [
+          "Boeing is facing big challenges these days. You bring a new product to the market and suddenly this seems to be the cause of several flight accidents. Since then, all the airplanes are grounded and the impact is huge, not only for Boeing, but also for the airlines."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Poor quality causes inefficiencies, lower customer satisfaction, and legal issues.",
+        "spans": [
+          "This example clearly shows what a tremendous impact, a lack of quality can have on an organization. This can range from inefficiencies to lower customer satisfaction and even plain legal issues."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Poor quality products and services cause loss of customers and lower customer satisfaction, harming the company and brand, leading to loss of business and revenue.",
+        "spans": [
+          "Poor-quality products and services can have a significant impact on customer satisfaction. Such products and services cause a business to lose customers faster than they can gain new ones.",
+          "Boeing’s product failed to meet customer expectations, which harms the company and the brand. Therefore, losing potentially business and revenue."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Poor quality impacts profitability through costs of fixing errors, unbillable hours, delivering free components, recalls, and legal litigations.",
+        "spans": [
+          "Poor quality can have a significant impact on a company’s profitability.",
+          "All the errors needs to be fixed, this leads to unbillable hours and delivering free components.",
+          "These recalls have significant impact on the brand on the long term and on the profitability in the short term.",
+          "Also all the financial litigations after the fact will have some serious impact on the bottomline of Boeing. There will be legal cases by airlines due to diminished revenue potential. The costs for this problem will be very high."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Poor quality causes productivity problems as employees spend time on inefficient processes and fixing incidents regularly.",
+        "spans": [
+          "Poor quality costs a company a significant amount of money in terms of productivity problems.",
+          "If quality is not a proactive measure, employees will spend their time on inefficient process and fixing incidents on a regular basis."
+        ]
+      }
+    ],
+    "clueweb22-en0027-01-02196": [
+      {
+        "point_number": 1,
+        "point_content": "Poor quality costs a company money in terms of productivity problems, causing mechanical breakdowns, work slowdowns or stoppages.",
+        "spans": [
+          "Poor quality costs a company money in terms of productivity problems.",
+          "Low-quality parts can cause mechanical breakdowns, as well as work slowdowns or even stoppages."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Poor quality negatively impacts customer satisfaction and reduces repeat customers.",
+        "spans": [
+          "If a company produces a quality product, satisfied customers will rank that company higher in surveys than companies that fail to provide quality products or services.",
+          "Poor companies may get an initial sale of a product or service but it will not create repeat customers."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Using low-quality parts or equipment might save money short term but increase long-term costs due to inefficiency and lack of support.",
+        "spans": [
+          "While using less expensive parts and equipment might cut costs in the short term, the long-term effects might be far more expensive.",
+          "if a problem arises with the software, the lack of customer support means it takes longer to accomplish the job, thereby costing the company more money than if it had used a more expensive, higher quality software product."
+        ]
+      }
+    ],
+    "clueweb22-en0042-70-00169": [
+      {
+        "point_number": 1,
+        "point_content": "Poor quality can lead to exponential costs, both internally and externally, and can hinder your long-term growth if not addressed.",
+        "spans": [
+          "The effect of poor quality can lead to exponential costs, both internally and externally, and can hinder your long-term growth if not addressed."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Poor quality affects consumer relationships and your brand’s name negatively.",
+        "spans": [
+          "how poor quality ultimately affects your consumer relationships and your brand’s name."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "A defective product reaching the customer can result in chargebacks, returns, or bad reviews.",
+        "spans": [
+          "if you don’t have the proper systems and procedures in place for detecting a defect early in the production cycle, a product could get rejected once it reaches your customer. This results in a chargeback, or worse, it could be put on the shelf only to end in a return or bad review by a consumer."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Costs of poor quality include rework costs, freight costs, chargebacks, product returns, and lost sales.",
+        "spans": [
+          "Rework costs – If a defective product ships, you may be asked to rework the product to correct the defect.",
+          "Freight costs – The price of transporting cargo from one point to another once is expensive. However, shipping poor quality goods back to an overseas factory or shipping a late order by air will result in even more costly and unnecessary expenditures.",
+          "Chargebacks – A chargeback from a retailer can result from a product not meeting consumer demands, or from non-compliance to their rules in terms of label placement, etc. – either way, it hurts your bottom line.",
+          "Product returns – If a shipment is deemed defective and returned, you may be able to negotiate a replacement order vs. canceling the order. Either way, there is some cost and margin erosion that will occur.",
+          "Lost Sales – If you consistently ship poor quality product, it could result in loss of customers, which is most devastating of all."
+        ]
+      }
+    ],
+    "clueweb22-en0041-09-15102": [
+      {
+        "point_number": 1,
+        "point_content": "Poor quality can make or break a company and its products, services and reputation.",
+        "spans": [
+          "Quality is the most important factor in any business. It can make or break a company and its products, services and reputation."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The cost to repair defective items may be as high as 10 times the original price tag.",
+        "spans": [
+          "The cost to repair defective items may be as high as 10 times the original price tag."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Poor quality can lead to bad publicity, lost customers and even lawsuits.",
+        "spans": [
+          "If you’re not careful, your brand could suffer from bad publicity, lost customers and even lawsuits."
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0015-00-17286": [
+      {
+        "point_number": 1,
+        "point_content": "Poor quality can cause delays in delivery due to rework required to meet quality standards.",
+        "spans": [
+          "Your output has been rejected by the quality control department. Now you must reprocess your work to meet the quality standards. You will now have to do some rework on that process, requiring more time, ultimately delaying delivery."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Delays in delivery can lead to penalties as per contract clauses, so maintaining quality is essential to avoid schedule slippage.",
+        "spans": [
+          "Organizations cannot afford a delay in deliveries as there may be a clause in the contract with the customer regarding a penalty for delay in delivery. So, a project manager must always try to avoid the schedule slippage and maintain optimum quality."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Poor quality increases project costs due to reopening and rework, which organizations do not approve of.",
+        "spans": [
+          "If there is a problem with quality, then the project will be reopened, which in turn means the cost for the project will now increase.",
+          "No organization will approve of an increase in cost\u001fespecially due to poor quality. It is the project manager\u001fs responsibility to prevent the poor quality."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Quality issues after delivery cause trust issues with customers, who may not rely on the company for future projects.",
+        "spans": [
+          "Once you have delivered your product, there may be quality issues that may come up. This will become a major problem for the customer as well as the organization. A trust issue will crop up, since the customer may not rely on you for any more projects."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Poor quality benefits competitors as customers share negative reviews and competitors use this to their advantage.",
+        "spans": [
+          "Poor quality control is a gift to competition. As word gets out about your quality failings, through the press (from reviews or even recalls) or social media, blood is in the water.",
+          "Especially in fields where there are few differences in product features, savvy competitors will harness your shortcomings through advertising comparisons, even perhaps justifying their higher product cost."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Negligence in quality leads to customer dissatisfaction, poor product performance, rework, and jeopardizes business and customer relationships.",
+        "spans": [
+          "Ultimately, this negligence results in customer dissatisfaction, poor product performance, and rework that ultimately jeopardizes your business\u001fand most important, your customers."
+        ]
+      }
+    ],
+    "clueweb22-en0020-33-11282": [
+      {
+        "point_number": 1,
+        "point_content": "Poor quality products can lead to overall customer dissatisfaction and low NPS",
+        "spans": [
+          "Poor quality products can lead to overall customer dissatisfaction and low NPS"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Negative reviews lead to a decrease in sales and expose your current accounts at risk of migrating to other products",
+        "spans": [
+          "Negative reviews lead to a decrease in sales and expose your current accounts at risk of migrating to other products"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Your Brand equity is directly proportional to the quality delivered to a customer",
+        "spans": [
+          "Your Brand equity is directly proportional to the quality delivered to a customer"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "A high volume of customer complaints and decreases time to resolution and priority support",
+        "spans": [
+          "A high volume of customer complaints and decreases time to resolution and priority support"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The higher cost of production due to poor quality products causing a production halt.",
+        "spans": [
+          "The higher cost of production due to poor quality products causing a production halt."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "The poor quality product increases TCO and decreases ROI.",
+        "spans": [
+          "The poor quality product increases TCO and decreases ROI."
+        ]
+      }
+    ]
+  }
+}

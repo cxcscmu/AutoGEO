@@ -1,0 +1,89 @@
+{
+  "question": "what do people look for in a president",
+  "key_points": {
+    "null": [],
+    "clueweb22-en0029-97-03873": [
+      {
+        "point_number": 1,
+        "point_content": "Voters' preference shifted from valuing experience and a proven record to valuing new ideas and a different approach, especially among Republicans.",
+        "spans": [
+          "more voters valued a hypothetical candidate with “experience and a proven record” (50%) than one who had “new ideas and a different approach” (43%)",
+          "Just six months later, those numbers had flipped – 55% said it was more important for a candidate to have new ideas, while 37% valued experience and a proven record",
+          "The share of Republicans saying it was more important for a candidate to have new ideas increased by nearly 30 percentage points over this period, from 36% to 65%"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Past experience as a Washington lawmaker is viewed more negatively, especially among Republicans.",
+        "spans": [
+          "Past experience as a Washington lawmaker also is viewed more negatively among the public overall than in prior presidential campaigns – again, especially among Republicans",
+          "In January, 31% of the public – including 44% of Republicans and Republican-leaning independents – said they would be less likely to vote for a presidential candidate who had been an elected official in Washington for many years"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Military experience is the most positively viewed trait among presidential candidates, but none of the top 2016 candidates have it.",
+        "spans": [
+          "50% of Americans said they would be more likely to vote for a presidential candidate who has served in the military – the most positively viewed trait among 13 tested",
+          "none of the top remaining 2016 candidates possesses"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Support is limited for candidates who do not believe in God, with about half of Americans less likely to vote for an atheist candidate.",
+        "spans": [
+          "About half of Americans (51%) said they would be less likely to vote for an atheist candidate"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Most voters prioritize a candidate sharing their positions on issues over the candidate's electability.",
+        "spans": [
+          "Two-thirds of both Republican (67%) and Democratic (65%) registered voters said it was more important for a candidate to share their positions on issues than it was for a candidate to have the best chance of defeating the other party’s nominee"
+        ]
+      }
+    ],
+    "clueweb22-en0039-93-13936": [
+      {
+        "point_number": 1,
+        "point_content": "Americans want a president who can take responsibility, as it is the top characteristic for both Democrats and Republicans.",
+        "spans": [
+          "the leadership quality they most want in a president: taking responsibility",
+          "For 85 percent of Democrats, and 80 percent of Republicans, the ability to take responsibility is very important, which makes it the top characteristic for members of both parties"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Democrats value honesty, competence, and empathy in a president.",
+        "spans": [
+          "Democrats value honesty (81%) and competence (77%)",
+          "Democrats also tend to value empathy (69% vs. 48%) more highly than Republicans"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Republicans value strength and the ability to take responsibility in a president.",
+        "spans": [
+          "Republicans seem to value strength (76% percent say it’s important)",
+          "Among Republicans, 80 percent say the ability to take responsibility is very important for a president"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Honesty and competence are also very important qualities for a president according to a majority of Americans.",
+        "spans": [
+          "A majority also say that honesty (81%) and competence (77%) are very important qualities for a president to have"
+        ]
+      }
+    ],
+    "clueweb22-en0038-43-06796": [
+      {
+        "point_number": 1,
+        "point_content": "The text is titled 'Top 5 things to look for in a President' which implies it contains a list of key qualities or criteria people consider important in a president.",
+        "spans": [
+          "Top 5 things to look for in a President"
+        ]
+      }
+    ]
+  }
+}

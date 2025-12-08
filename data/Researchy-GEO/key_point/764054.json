@@ -1,0 +1,417 @@
+{
+  "question": "why do people steal cars",
+  "key_points": {
+    "clueweb22-en0005-26-13701": [
+      {
+        "point_number": 1,
+        "point_content": "People steal cars for joyriding, which means they want to drive around in the car with no other purpose.",
+        "spans": [
+          "Joyriding is something that is referred to sometimes as a prank, but it really does happen.",
+          "This happens because a person sees a car and wants to drive around in it.",
+          "They steal it with no other purpose other than to simply ride around in the car."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "People steal cars for transportation, needing to get from one place to another.",
+        "spans": [
+          "The second reason that cars are stolen is simple - the thief needs to get from one place to another.",
+          "They need to go somewhere, and have to have a car to do that."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Cars are stolen to commit other crimes, such as getting away from a crime scene or to get to a different crime.",
+        "spans": [
+          "Sometimes, a car is stolen so that other crimes can be committed.",
+          "This happens when someone steals a car to get away from the scene of a crime that just happened, like a robbery.",
+          "However it can also be done to get to a different crime, like a burglary or drug crime."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Cars are stolen for parts, where thieves strip the car of valuable components.",
+        "spans": [
+          "Sometimes, a car is stolen for the parts.",
+          "This happens when a car is hotwired and stolen, and the radio, or parts of the engine are taken out before the car is abandoned or found."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Cars are stolen for commercial theft, to be resold after altering their appearance and serial numbers.",
+        "spans": [
+          "The last type of car theft is commercial theft.",
+          "Unlike the cars that are stolen to strip the parts, these cars are stolen to be resold.",
+          "Body shops will take in stolen cars, file off serial numbers and change the look of the car and then resell them."
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0003-65-12874": [
+      {
+        "point_number": 1,
+        "point_content": "Car thefts are soaring due to carelessness with key fobs and keyless technology.",
+        "spans": [
+          "The technology that once made cars nearly impossible to steal has ushered in a new era of joyriding in some cities, thanks to carelessness with key fobs.",
+          "After years of declines, car thefts appear to be surging in cities and suburbs all over the country. The spree, which has been exacerbated by the pandemic, does not appear to be the work of sophisticated crime rings, the police say. Instead, this new wave of car thefts seems to stem from a combination of simple carelessness and the same technological advancement that once made stealing cars nearly impossible: the key fob."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "People leave key fobs in cars or leave cars running, making them easy targets for thieves.",
+        "spans": [
+          "Until people started leaving their fobs sitting in their cup holders.",
+          "Now, the police say forgotten fobs and keyless technology have contributed to soaring stolen car cases that do not look much like the crimes that plagued cities three decades ago.",
+          "And in New York City, a related but different problem has emerged as more drivers leave their cars running to make pit stops and deliveries during the pandemic, making their cars easy targets for thieves who can simply drive away, even without a fob.",
+          "There are many ways to leave a car vulnerable: Some drivers forget a key fob inside. Others take it, but leave the car on, allowing the vehicle to be driven away — though not restarted later. Some cars can be started if the key is just nearby."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The pandemic has increased car thefts due to more deliveries and people leaving cars running.",
+        "spans": [
+          "The pandemic has made the problem worse, said Deputy Inspector Jessica E. Corey of the New York Police Department’s Crime Prevention Division. With the increase in deliveries as people try to stay home, many victims are delivery drivers making drop-offs, Inspector Corey said.",
+          "In New York City, 6,858 vehicles were stolen in 2020, up from 3,988 the year before. Of those taken in 2020, more than 3,450 were stolen while they were running. The year before, 1,634 were stolen while running."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Teenagers and juveniles are often involved in stealing cars for joyriding.",
+        "spans": [
+          "In Hartford, the police have traced the surge to teenagers joyriding in from the suburbs.",
+          "In Hartford, the police were able to recover 1,449 stolen cars in 2020 — 1,166 brought to the city from out of town. Officials said much of the stealing is by juveniles driving stolen cars in from the suburbs.",
+          "On Nov. 18, Hartford police pulled over a Volvo S80, zipping erratically through the city’s North End. Behind the wheel was a 17-year-old — driving a car that had been reported stolen earlier that day. The teenager was issued a summons and released into the custody of a guardian. Hours later, Hartford officers pulled over a Ford Explorer. Behind the wheel was a familiar face: the same 17-year-old in yet another stolen car."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Some thieves use stolen cars for transportation rather than for parts or resale.",
+        "spans": [
+          "In Los Angeles, stolen cars reappear so frequently that the police believe thieves are using them like Ubers.",
+          "Many turned up just a few blocks away; the police there believe vehicles have become so simple to steal that some people take them just to get from place to place.",
+          "“People do not want to ride on mass transit because of the pandemic,” said Siage Hosea, a Los Angeles Police Department lieutenant who works on the Taskforce for Regional Autotheft Protection. “Or it could be that people can’t afford to get a taxi or an Uber because of economics of the times.”"
+        ]
+      }
+    ],
+    "clueweb22-en0023-56-08058": [
+      {
+        "point_number": 1,
+        "point_content": "One of the most common causes for car theft is the owner not adequately protecting their keys.",
+        "spans": [
+          "One of the most common causes for car theft is the owner not adequately protecting their keys."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Typically, the thief will sneak into a person’s home via an unlocked door or open window, take the keys, and simply drive away.",
+        "spans": [
+          "Typically, the thief will sneak into a person’s home via an unlocked door or open window, take the keys, and simply drive away."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The NMVTRC report that 70% of cars are stolen with their own keys, and half are stolen from their home.",
+        "spans": [
+          "The NMVTRC [1] report that 70% of cars are stolen with their own keys, and half are stolen from their home."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "A ‘sneak theft’ is when a criminal will steal a car while the owner is home, typically using the same method of stealing keys – accessing them through an open window or unguarded door.",
+        "spans": [
+          "A ‘sneak theft’ is when a criminal will steal a car while the owner is home. They will typically use the same method of stealing keys – accessing them through an open window or unguarded door."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "In 95% of ‘sneak theft’ attempts, there is no confrontation between the car’s owner and the thief.",
+        "spans": [
+          "According to the NMVTRC [1], in 95% of ‘sneak theft’ attempts, there is no confrontation between the car’s owner and the thief."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Far too many people put their name and address on their car keys, risking providing a thief with not only an address, but a way into the property.",
+        "spans": [
+          "Far too many people put their name and address on their car keys. If you’re ever out and lose your keys, you risk providing a thief with not only an address, but a way into the property."
+        ]
+      }
+    ],
+    "clueweb22-en0024-01-05852": [
+      {
+        "point_number": 1,
+        "point_content": "People steal cars because of drug addiction and the need for money.",
+        "spans": [
+          "\"I stole cars because I was on drugs, and I needed the money,\" Fuller told ABC News' \"20/20.\""
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Car thieves prefer certain car models because they are easier to steal and have good resale value.",
+        "spans": [
+          "Honda, Toyota, Acura, and General Motors vehicles were some of Fuller's favorite cars to steal.",
+          "\"They're easier to steal,\" Fuller said.  \"They have good resale value so the parts are in demand.  It's as simple as that.\""
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Car thieves avoid cars parked in visible locations and prefer dark secluded locations for stealing cars.",
+        "spans": [
+          "Car thieves avoid cars parked in front of houses and in driveways because they're too wide open and visible.",
+          "Dark secluded locations, such as apartment buildings and complexes, carports, underground parking, and parking garages, can be appealing to car thieves because they can have their pick of vehicles in one location.",
+          "\"I liked it because it's quiet. I can hear if somebody was coming,\" Fuller said."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Car thieves prefer to steal cars at night when fewer people are around.",
+        "spans": [
+          "Fuller said he preferred to come back between 2 a.m. and 5 a.m., because most people are asleep. \"It's nice and quiet, less distractions, less people walking around,\" he said."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Car thieves avoid cars with kill switches, alarms, nosy neighbors, and security cameras because these increase the risk of being caught.",
+        "spans": [
+          "Having a kill switch in your car can also deter thieves.",
+          "Good alarms with motion sensors, nosy neighbors, and security cameras also deter car thieves, who will simply go to other areas where they can avoid those certain things."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Leaving your car running or keys in the car invites car theft.",
+        "spans": [
+          "While it might seem like a great idea to warm your car up in the morning, you might as well put a bow on your car.  Car thieves will simply hop in the car, put it in drive, and go.",
+          "Police also warn that leaving your keys in your car at a gas station, even while you are pumping gas, is an invitation to have your car stolen."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Car thieves know common hiding spots for spare keys and often find keys inside the car to steal it easily.",
+        "spans": [
+          "Think you've got a great hiding spot for your spare keys? Car thieves know where to look.",
+          "\"Glove compartment, center console, door, change tray, you name it, it's there.  I found it in all those places,\" Fuller said.",
+          "Fuller said 90 percent of the vehicles he's stolen came from him just scoping out the vehicle, finding the keys, and taking the vehicle."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Some cars have valet keys inside that car owners don't know about, which car thieves exploit to steal cars.",
+        "spans": [
+          "\"Well, there are some vehicles that have valet keys... and a lot of people don't know that they have a valet key inside their vehicle,\" Fuller explained.",
+          "For example, Fuller said the valet key might be found inside the owner's manual.  In some BMW models, the valet key is usually in the car's tool kit in the trunk."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Leaving car windows open even slightly makes it easy for car thieves to unlock and steal the car.",
+        "spans": [
+          "Leaving the window open even one inch can be just what it takes for a car thief to easily steal your car.",
+          "\"A window that has enough room for me to stick my fingers in, I can get out of its track by rocking it back and forth until I get it out of the track,\" Fuller explained.",
+          "\"Then, I can pry the window out of the track enough to where I can get my arm down in there and unlock the vehicle.\""
+        ]
+      }
+    ],
+    "clueweb22-en0041-63-08725": [
+      {
+        "point_number": 1,
+        "point_content": "There are three basic reasons why people still steal cars: for fun rides, for parts business, and for car export business.",
+        "spans": [
+          "There are three basic reasons why people still steal cars.",
+          "Fun rides.. kids mostly, steal cars to drive around in them for a while.",
+          "Parts business.. Professional thieves steal cars for parts.",
+          "Car export business.. Cars as complete items are worth a lot when exported overseas, especially"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "People steal cars to have transportation, to drive drunk, or to live in.",
+        "spans": [
+          "To have transportation.",
+          "To have someone else's car to drive drunk in.",
+          "To live in."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Many cars are stolen to be dismantled and sold as parts because parts are worth more than intact vehicles.",
+        "spans": [
+          "Parts.",
+          "Chop shop, in other words.  Many cars are worth far more in parts on the stolen market than they are as intact vehicles.",
+          "In some cities, according to TV Crime shows, a stolen car can be turned into parts in less than 10 minutes."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Cars are valuable either sold overseas or broken down and sold for parts, making them targets for theft.",
+        "spans": [
+          "Most cars are extremely valuable when either sold overseas in nations where taxes and import fees make legal purchases too expensive for many people's tastes.",
+          "Or when they are broken down (chopped) and sold off for their component parts."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The rewards of stealing cars exceed the costs and probability of getting caught, motivating thieves.",
+        "spans": [
+          "Because the rewards of succeeding exceed the costs (and probability) of getting caught."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "People steal valuable cars to sell them, for transportation, or to sell valuable cargo inside the cars.",
+        "spans": [
+          "Mostly people steal valuable cars that cost lots of money and they sell the cars.",
+          "Or they need a mode of transportation to get out of town, or to get away from someone in their life.",
+          "Sometimes they steal cars that have valuable cargo to sell on the black markets or to business men to get money."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "People steal cars to make money by reselling overseas, stripping for parts, committing other crimes, or for joyrides.",
+        "spans": [
+          "For several reasons.",
+          "to make money.",
+          "To move the stolen cars out of the country for re-sale in other countries.",
+          "To make money by “stripping” the cars and selling the various parts.",
+          "To commit other crimes, like robberies, drive-by shootings, etc.",
+          "To “joy ride”. Usually involving young kids, who just want the vicarious thrill of driving around …. In a stolen car."
+        ]
+      }
+    ],
+    "clueweb22-en0019-94-02183": [
+      {
+        "point_number": 1,
+        "point_content": "Thieves target older cars because they’re much easier to steal due to less advanced ignition systems.",
+        "spans": [
+          "Thieves target older cars because they’re much easier to steal.",
+          "In the 2000s, most vehicles started to come equipped with more advanced ignition systems such as chipped keys that need to be in proximity to the dash for the car to start.",
+          "Many of the vehicles prior to this time are easy to start if you know how to manipulate the ignition."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Car thieves steal cars to resell parts, facilitate other crimes, joy ride, or win dares.",
+        "spans": [
+          "Car thieves aren’t just looking for a new ride.",
+          "They’re most likely going to resell parts of your car, especially if it has custom wheels, a custom engine, or high-end seats.",
+          "If not, they’re doing it to help facilitate another crime, go for a joy ride, or win a dare."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Many car thefts happen due to owner negligence like leaving cars unlocked or running, or leaving valuables in plain sight.",
+        "spans": [
+          "Our experts say that a lot of car thefts could have been prevented if the owner had only made sure he locked the car or not left it running when she ran into Starbucks for a quick cup of coffee.",
+          "These common security slip-ups are basically invitations for thieves to take your vehicle.",
+          "Another common mistake is leaving valuables in plain sight."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Car thieves often scout and study owners' habits to find the best time and method to steal cars.",
+        "spans": [
+          "As unsettling as it is, car thieves may spy on you and your car for extended periods of time to figure out the best plan of attack.",
+          "I remember reading detailed notes such as, ‘Man warms up blue Yukon at San Felipe and Ross every morning at 7:25 a.m. Goes back inside and comes out with daughters five minutes later to take them to school,’",
+          "Later, during the interview after his arrest, the suspect stated the notes were valuable intel to be sold or traded if it turned out he didn’t use it himself."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Car thieves work together and share information about target vehicles.",
+        "spans": [
+          "In fact, Hinch says that some thieves will offer a finder’s fee to someone who can provide a location, photos, and/or any other details about a certain car they’re looking for.",
+          "Crews looking for a particular type of vehicle to steal will put out bounties for this type of information."
+        ]
+      }
+    ],
+    "clueweb22-en0016-57-07361": [
+      {
+        "point_number": 1,
+        "point_content": "Some people feel it's their right to steal.",
+        "spans": [
+          "Some people feel it's their right to steal."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "People sometimes steal out of necessity, such as hunger or dire need during hardship or poverty.",
+        "spans": [
+          "people faced by huge hardships are sometimes forced to steal when hungry to save their lives, or when their children are in dire need in wartime or other times and places of grim poverty."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Thieves convince themselves they have a right to the object they desire, believing they need it more than the other person.",
+        "spans": [
+          "The thief, like the pedophile, who convinces himself the child really wants to make love to him, convinces himself that he has a right to the object he desires. He needs it more than the other does. It is rightfully his."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "It is easier to steal from large organizations or wealthy individuals because the loss seems insignificant to them.",
+        "spans": [
+          "It is easier to steal from an anonymous, large organization, than from an individual, easier to steal from someone who seems well-endowed and has so much more. He won't even notice, he has so much money anyway.",
+          "It is true about great wealth. A person, for example, who has numerous houses and forgets how many she owns, seems to be legitimate prey."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Some people steal for the thrill or excitement, even if they have all they need.",
+        "spans": [
+          "So she steals out of a need for excitement, for the thrill of it."
+        ]
+      }
+    ],
+    "clueweb22-en0043-91-12093": [
+      {
+        "point_number": 1,
+        "point_content": "Cars are stolen for one of four reasons: for export, often to Eastern Europe; to order, for their identity to be changed and the vehicle sold on within the UK; for parts, which is a growing problem and where the vehicle is stripped down in a so-called ‘chop shop’; and to be used in further crimes.",
+        "spans": [
+          "Cars are stolen for one of four reasons: for export, often to Eastern Europe; to order, for their identity to be changed and the vehicle sold on within the UK; for parts, which is a growing problem and where the vehicle is stripped down in a so-called ‘chop shop’; and to be used in further crimes."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Car crime is like an industry. High-value models are being targeted by criminals who need specific cars to sell or to strip for sale or cloning.",
+        "spans": [
+          "Car crime is like an industry. “It’s run on the same scale,” he says. “High-value models are being targeted by criminals who need specific cars to sell or to strip for sale or cloning."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Increasingly, criminals are turning to county lines techniques borrowed from the drug world to steal cars. So-called ‘clean skins’, young people with no criminal record, are recruited to steal cars from outside the criminal’s immediate area in return for cash or food for their family.",
+        "spans": [
+          "Increasingly, criminals are turning to county lines techniques borrowed from the drug world to steal cars. So-called ‘clean skins’, young people with no criminal record, are recruited to steal cars from outside the criminal’s immediate area in return for cash or food for their family."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Many cars are driven to a location and left for up to four days to establish whether a tracking device is fitted before being cloned and sold.",
+        "spans": [
+          "Thomas says that once stolen, many cars – a lot of them premium models including Audis, BMWs, Mercedes and Range Rovers but also hot hatches – are driven to a location and left for up to four days to establish whether a tracking device is fitted."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "A stolen car means a quick buck for the thieves.",
+        "spans": [
+          "A stolen car means a quick buck for the thieves, but agony for the victim"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Cars are stolen to be sold to unsuspecting members of the public at less than market value.",
+        "spans": [
+          "Having bought the stolen car, a criminal may attempt to sell it to an unsuspecting member of the public, advertising it at less than its market value to attract interest."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Breaking vehicles for their parts is an increasingly popular alternative to selling whole stolen cars.",
+        "spans": [
+          "However, disposing of an entire car in this way is a risky affair for the criminal. That’s why breaking vehicles for their parts, either to sell to other criminals for cloning stolen cars or to unsuspecting members of the public, is an increasingly popular alternative."
+        ]
+      }
+    ]
+  }
+}

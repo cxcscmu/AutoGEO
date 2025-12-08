@@ -1,0 +1,977 @@
+{
+  "question": "how music affects people",
+  "key_points": {
+    "clueweb22-en0033-20-04138": [
+      {
+        "point_number": 1,
+        "point_content": "Listening to happy and upbeat music can improve mood and overall happiness.",
+        "spans": [
+          "individuals who listened to music that could be classified as happy and upbeat were able to improve their mood and overall happiness in just a few weeks"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Better overall mood is linked to better physical health, higher income, and greater relationship satisfaction.",
+        "spans": [
+          "a better overall mood and demeanor are linked to the following: Better physical health Higher income Greater relationship satisfaction"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Music therapy can manage mental stress, boost memory, and eliminate pain.",
+        "spans": [
+          "music therapy programs can be constructed to manage mental stress, boost memory, and even eliminate pain"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Listening to music before, during, or after surgery can reduce pain and anxiety and reduce the need for pain medication.",
+        "spans": [
+          "people who listened to music before during, or after surgery experienced less pain and anxiety compared to those who didn't listen to music",
+          "The individuals that listened to music during surgery required less pain medication than those that did not enjoy music"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Music can help with chronic conditions such as dementia, stroke, Parkinson's disease, and multiple sclerosis.",
+        "spans": [
+          "Music can also help with chronic conditions, including dementia, stroke, Parkinson's disease, and multiple sclerosis"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Music is extremely safe, non-invasive, easily accessible, and non-expensive.",
+        "spans": [
+          "Music can improve your mood, quality of life, and self-esteem, but it is also: Extremely safe Non-invasive Easily accessible Non-expensive"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Music can boost mood and self-confidence, as shown in a dementia orchestra project.",
+        "spans": [
+          "a unique orchestra for people with dementia helped improve their mood and boost their self-confidence"
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Music releases dopamine in the brain areas associated with pleasure.",
+        "spans": [
+          "music can release dopamine in two main places in the brain, the dorsal and ventral striatum"
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Music influences perception of emotions in others and can evoke old memories and emotions.",
+        "spans": [
+          "the music they listened to affected how they perceived it",
+          "Music can also stir up old memories without the intention of doing so, bring back old emotions that were experienced at the time"
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Music affects the body physically, influencing heart rate and synchronizing breathing when singing together, producing positive emotions.",
+        "spans": [
+          "The beat of the song you're listening to can even influence your heart rate, and when people sing together, their breathing often becomes synchronized, producing positive emotions"
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Musical patterns affect the auditory cortex and areas involved in memory and emotion.",
+        "spans": [
+          "musical patterns affect our auditory cortex, which is part of the neural reward system and other areas involved in memory and emotion"
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "Listening to upbeat music can improve mood when feeling down.",
+        "spans": [
+          "Next time you're feeling down, just press play on some upbeat music. The music will pick you up and put a smile on your face"
+        ]
+      },
+      {
+        "point_number": 13,
+        "point_content": "Listening to music from a happy time in your life can bring back positive emotions.",
+        "spans": [
+          "Then, try to remember what music you listened to back then, and play that. You will be flooded with the emotions you experienced at that time"
+        ]
+      }
+    ],
+    "clueweb22-en0029-80-04881": [
+      {
+        "point_number": 1,
+        "point_content": "Music therapy can succeed where conventional medicine fails, helping marginalized society members.",
+        "spans": [
+          "the power of music therapy, which can succeed where conventional medicine fails"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Music helped Ji-Hae Park lift out of severe depression and changed her goal to sharing music widely.",
+        "spans": [
+          "Only music was able to lift her out again"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Classical music has transformative power and can help us realize untapped love for new possibilities and connections.",
+        "spans": [
+          "The transformative power of classical music"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Listening to music involves much more than simply letting sound waves hit your eardrums.",
+        "spans": [
+          "listening to music involves much more than simply letting sound waves hit your eardrums"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Cochlear implants restore hearing but currently don't let you fully experience music.",
+        "spans": [
+          "They don't let you fully experience music yet"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Music and emotion have evolved through time with developments like written notation, records, and remixes.",
+        "spans": [
+          "Music and emotion through time"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "The venue and context influence how music evolves and is experienced.",
+        "spans": [
+          "Does the venue make the music?"
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Music rituals around the world reveal cultural significance and can help people appreciate their own cultures.",
+        "spans": [
+          "Hidden music rituals around the world"
+        ]
+      }
+    ],
+    "clueweb22-en0003-85-03482": [
+      {
+        "point_number": 1,
+        "point_content": "Music is one of the most universal ways of expression in human life and is present in the everyday lives of people of all ages and from all cultures around the world.",
+        "spans": [
+          "Music is one of the most universal ways of expression in human life.",
+          "Music is present in the everyday lives of people of all ages and from all cultures around the world."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Music represents an enjoyable activity in and of itself, but its influence goes beyond simple amusement, bringing many positive effects to people engaged in musical activities.",
+        "spans": [
+          "Music represents an enjoyable activity in and of itself, but its influence goes beyond simple amusement.",
+          "Listening to music, singing, playing, composing, and improvising are very common activities for many people: they not only allow one to express personal inner states and feelings, but also brings many positive effects to people engaged in them."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Research in music sciences has identified several dimensions of human life (cognitive, psychological, social, and emotional) which seem to be positively affected by music.",
+        "spans": [
+          "Many benefits of musical activity have been recognized in recent times: research in music sciences has identified several dimensions of human life (cognitive, psychological, social, and emotional) which seem to be positively affected by music."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Musical activity impacts human life through transfer of learning, where skills acquired in music can be used in other cognitive tasks.",
+        "spans": [
+          "The impact that musical activity has on human life can be found in different processes.",
+          "One of them is represented by the transfer of learning from the musical to other cognitive domains.",
+          "The transfer of learning implies that skills acquired in a specific cognitive domain can be transferred and also used in other domains of human activity.",
+          "Abilities that have been developed through musical training may also be effectively used in other cognitive tasks."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Music may impact social skills and social inclusion, supporting participation in collective and collaborative musical events and fostering inclusion including intercultural, intergenerational, and disability issues.",
+        "spans": [
+          "Considering the social component of musical activity, music may also have an impact on social skills and social inclusion, supporting the participation of the individual in collective and collaborative musical events.",
+          "The promotion of social participation through music can foster many kinds of inclusion, in a wide perspective including intercultural, intergenerational, and disability issues."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Music has relevant impact and educational implications on human development at all ages and for people with special needs.",
+        "spans": [
+          "All of these aspects seem to confirm the relevant impact and the educational implications that music may have on human development, at all ages, and also for people with special needs."
+        ]
+      }
+    ],
+    "clueweb22-en0015-83-14006": [
+      {
+        "point_number": 1,
+        "point_content": "Music has a serious impact on a person's brain activity and can encourage creativity and help repair brain damage.",
+        "spans": [
+          "music has a serious impact on a person's brain activity",
+          "ambient noise, played at a moderate volume, can encourage creativity",
+          "listening to music can help repair brain damage"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Music learning can encourage the development of stronger vocabularies and better nonverbal reasoning, and musicians' brains have more nerve bundles bridging the left and right sides.",
+        "spans": [
+          "music learning can encourage the development of stronger vocabularies and a better handle on nonverbal reasoning",
+          "musicians' minds have more bundles of nerves bridging the left side of the brain to the right"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Sad music may not make you sad but can induce ambivalent emotions such as feeling more romantic and less tragic.",
+        "spans": [
+          "sad music was perceived to be more tragic",
+          "the actual experiences of the participants listening to the sad music induced them to feel more romantic, more blithe, and less tragic emotions"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Music has positive medicinal effects, affecting biological processes and can inhibit fatigue and change pulse, respiration, blood pressure, and psychogalvanic effect.",
+        "spans": [
+          "Physiologically, music has a distinct effect on many biological processes",
+          "It inhibits the occurrence of fatigue, as well as changes the pulse and respiration rates, external blood pressure levels and psychogalvanic effect"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Music can increase libido and elevate serotonin levels, potentially helping with sex drive and social interactions like dating.",
+        "spans": [
+          "Music can increase one's libido",
+          "listening to music can elevate serotonin levels in a person's body",
+          "single women who had listened to romantic music were more likely to hand out their phone numbers"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Music can boost endurance and help use energy more efficiently during exercise, with beats per minute affecting motivation up to a threshold.",
+        "spans": [
+          "music can boost endurance and help us use energy more efficiently during exercise",
+          "a song's beats per minute (bpm) has an effect on motivation",
+          "a ceiling effect occurs around 145 bpm"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Music is a mood booster and can improve moods, which relates to better social behavior, health, income, and relationships.",
+        "spans": [
+          "Music is a mood booster",
+          "listen to music to improve their moods",
+          "happiness relates to a higher probability of socially beneficial behavior, better physical health, higher income and greater relationship satisfaction"
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Singing can improve brain functionality in seniors with certain conditions and improve respiration health in patients with chronic obstructive pulmonary disease.",
+        "spans": [
+          "singing can improve the brain functionality of seniors suffering from conditions such as aphasia and Parkinson's disease",
+          "singing has also been found to improve the respiration health and functionality of patients with chronic obstructive pulmonary disease"
+        ]
+      }
+    ],
+    "clueweb22-en0022-46-15809": [
+      {
+        "point_number": 1,
+        "point_content": "Music can influence us a lot. It can impact illness, depression, spending, productivity and our perception of the world.",
+        "spans": [
+          "Research suggests music can influence us a lot. It can impact illness, depression, spending, productivity and our perception of the world."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Some research has suggested music can increase aggressive thoughts, or encourage crime.",
+        "spans": [
+          "Some research has suggested it can increase aggressive thoughts, or encourage crime."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Violent songs can lead to more aggressive thoughts and feelings, but these effects may be short-lived.",
+        "spans": [
+          "Another paper, published in 2003 in the Journal of Personality and Social Psychology, reported that music can incite aggressive thoughts and feelings.",
+          "The study showed that violent songs led to more aggressive thoughts in three different measures: More aggressive interpretations when looking at ambiguous words, an increased speed with which people read aggressive compared to non-aggressive words and a greater proportion of people completing aggressive words when filling in blanks on forms given to them during the study.",
+          "The study adds that the outcomes of hostile thoughts could be short-lived. If the next song’s lyrics are nonviolent or if some other nonviolent event occurs, the effects of violent lyrics will dissipate, states the paper."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Classical music has been used to deter loitering and prevent crime by influencing who people identify themselves as.",
+        "spans": [
+          "Meanwhile, other types of music been been used in attempts to prevent crime, according to musicologist Lily E. Hirsch’s book “ Music in American Crime Prevention and Punishment. ”",
+          "Hirsch wrote about how classical music was used to deter loitering in her hometown of Santa Rosa, California.",
+          "In 1996, she wrote, city leaders decided to play classical music to clear young people from the city’s Old Courthouse Square.",
+          "Many teens didn’t enjoy the music, according to Hirsch, and left the area, which encouraged the city to keep the background music playing.",
+          "The effectiveness of music as a crime prevention measure has to do with sound’s construction of who we are but also with who we are not, wrote Hirsch, a visiting scholar at California State University, Bakersfield.",
+          "If you see classical music as music of the fancy, white elite, you might think, ‘I am not any of those things,’ and then disassociate yourself from the music,” leading to, for example, leaving this area, she said."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Music can make us feel all sorts of emotions, both positive and negative, and can bring people together socially.",
+        "spans": [
+          "Music can make us feel all sorts of emotions, some of which are negative, added Laurel Trainor, professor of psychology, neuroscience and behavior and director of the McMaster Institute for music and the mind.",
+          "It can “bring people together and fuel these social bonds,” this can be positive as well as negative, according to her.",
+          "For example, as far back as we have records, music has been used in war, explained Trainor, because it brought people together socially."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Music has power over our feelings and can influence our perception of the world.",
+        "spans": [
+          "Music has power over our feelings.",
+          "Researchers at the University of Groningen showed in an experiment that listening to sad or happy music can not only put people in a different mood, but also change what people notice.",
+          "In a 2011 study, 43 students listened to happy or sad music in the background as they were tasked with identifying happy and sad faces.",
+          "When happy music was played participants spotted more happy faces and the opposite was true for sad music.",
+          "The researchers argue that this could be because the perceptual decision on our sensory stimuli, in the experiment’s case the face expressions, are directly influenced by our state of mind."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Music can affect people differently depending on their mental health, such as those with clinical depression tendencies.",
+        "spans": [
+          "Another recent study says it depends.",
+          "People with clinical depression tendencies were found to feel worse after listening to sad music.",
+          "On the other hand, those who didn’t have these tendencies reported feeling better after listening to sad music.",
+          "The study included people with and without depression and found that both groups felt better after listening to happy music."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Music can help with depression by offering distraction, but during clinical depression, engagement with music might be low.",
+        "spans": [
+          "Levitin believes that “the weight of evidence is that music can help depression” because it offers people a distraction.",
+          "During clinical depression, however – which is a different thing, Levitin added – the person is disengaged and might not want to engage with music."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Active engagement with music, such as dancing or attending music events, is associated with higher subjective wellbeing.",
+        "spans": [
+          "People who dance and actively engage with music were found to be happier than others, who didn’t engage with music in that way, according to a 2017 study from Australia.",
+          "The researchers interviewed 1,000 participants over the phone and looked at their subjective wellbeing scores –  their individual evaluations of life satisfaction.",
+          "The people who danced and attended music events had significantly higher subjective wellbeing scores than those who didn’t engage with music in these ways.",
+          "People actively engaging with music in a group also had higher scores than others who enjoyed music in these ways while alone."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Happy music tends to have an up-beat tempo and can energize people, improving performance on repetitive or boring tasks, but can be distracting for complex tasks.",
+        "spans": [
+          "At the most fundamental level,” Levitin explained that happy music tends to have an up-beat tempo “and we know neutrons fire in synchrony to the beat of the music and so happy music can actually energize you.",
+          "But the task needs to be considered.",
+          "During repetitive or boring tasks you can get drowsy and music can work as a stimuli “which allows you to do a better job.”",
+          "If the task is more complex, “music is harmful” because it acts like a distraction to our concentration."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Music triggers hormones responsible for bonding, trust and intimacy.",
+        "spans": [
+          "Music triggers the hormones oxytocin and serotonin, responsible for bonding, trust and intimacy, explained Levitin."
+        ]
+      }
+    ],
+    "clueweb22-en0023-38-01013": [
+      {
+        "point_number": 1,
+        "point_content": "Music can lift mood and reduce anxiety, even sad music can bring pleasure and comfort to most listeners.",
+        "spans": [
+          "New research shows that even sad music can lift your mood, while other studies suggest music can boost happiness and reduce anxiety.",
+          "Even sad music brings most listeners pleasure and comfort, according to recent research from Durham University in the United Kingdom and the University of Jyväskylä in Finland, published in PLOS ONE."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Sad music can cause negative feelings of grief for some people.",
+        "spans": [
+          "Conversely, the study found that for some people, sad music can cause negative feelings of profound grief."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "People tend to prefer sad music when experiencing deep interpersonal loss as it provides a substitute for the lost relationship.",
+        "spans": [
+          "An earlier study, published in the Journal of Consumer Research, found that people tend to prefer sad music when they are experiencing a deep interpersonal loss, like the end of a relationship.",
+          "The authors of that study suggested that sad music provides a substitute for the lost relationship."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Upbeat music can improve mood and boost happiness in a short time.",
+        "spans": [
+          "A 2013 study in the Journal of Positive Psychology found that people who listened to upbeat music could improve their moods and boost their happiness in just two weeks."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Happiness from music listening is linked to better physical health, higher income, and greater relationship satisfaction.",
+        "spans": [
+          "And a happier mood brings benefits beyond feeling good. In a press release, lead study author, Yuna Ferguson, noted that happiness has been linked to better physical health, higher income, and greater relationship satisfaction."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Music therapy can manage stress, enhance memory, and alleviate pain.",
+        "spans": [
+          "The American Music Therapy Association (AMTA) reports that music therapy programs can be designed to achieve goals such as managing stress, enhancing memory, and alleviating pain."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Listening to music before, during, or after surgery reduces pain and anxiety and decreases the need for pain medication.",
+        "spans": [
+          "A 2015 review in The Lancet found that people who listened to music before, during, or after surgery experienced less pain and anxiety, compared to patients who did not listen to music.",
+          "The music listeners didn’t even need as much pain medication."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Music therapy can reduce depression and anxiety and improve mood, self-esteem, and quality of life in neurological conditions.",
+        "spans": [
+          "A recent review in the World Journal of Psychiatry found that music therapy can be an effective treatment for mood disorders related to neurological conditions, including Parkinson’s disease, dementia, stroke, and multiple sclerosis.",
+          "After reviewing 25 trials, the researchers concluded that music is a valid therapy to potentially reduce depression and anxiety, as well as to improve mood, self-esteem, and quality of life."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Music has a profound impact on the brain, enhancing brain functions and evoking emotion.",
+        "spans": [
+          "Barry Goldstein, a recording artist who has studied the vibrational effects of music for more than 25 years, says music has a profound impact on the brain.",
+          "He said music can evoke emotion, help regain memories, stimulate new neural connections, and active attention."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Creating music can improve mood and boost self-confidence, especially in people with dementia.",
+        "spans": [
+          "A unique orchestra for people with dementia helped improve their mood and boost their self-confidence, according to researchers at the Bournemouth University Dementia Institute (BUDI) in Dorset, U.K."
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0039-29-18976": [
+      {
+        "point_number": 1,
+        "point_content": "Music can help people with memory and language problems by helping them remember and learn how to speak again.",
+        "spans": [
+          "Music can help people in many ways. Music is known to help people with memory and languages problems by helping them remember and learning how to speak again."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Music can improve health and productivity and serves as a form of expression and emotional understanding for teenagers.",
+        "spans": [
+          "It can also improve your health and productivity and it serves as a form of expression, as well as a way for teenagers to understand and identify some emotions that they might be feeling."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Listening to music helps people under stress to relax and sleep better.",
+        "spans": [
+          "Listening to music is also good for people who are under a lot of stress, so they can relax and sleep better."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Music therapy can be helpful mentally, physically and emotionally for patients with mental illnesses like Alzheimer and dementia.",
+        "spans": [
+          "For patients with mental illnesses, like Alzheimer and dementia, taking music therapy can be really helpful mentally, physically and emotionally."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Musicians have better memory and concentration due to their training, which improves verbal memory and attention.",
+        "spans": [
+          "Musicians have better memory than people who don’t know how to play an instrument. This is because their training gives them a high working-memory brain. Having this is good because it enhances thinking and concentration, and you develop better listening abilities. Music training can improve verbal memory and attention."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Listening to music stimulates the hippocampus and can help dementia patients recall memories.",
+        "spans": [
+          "The reason why it happens is because when you listen to music you are stimulating the hippocampus, which is where the memory is located."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Music helps in learning languages by improving pronunciation, vocabulary, and understanding of cultural phrases.",
+        "spans": [
+          "Learning how to speak a new language can become easy while listening to music. Listening and singing along to music of the language that you want to learn helps you learn how to pronounce the words correctly; it expands your vocabulary, and it teaches you some typical phrases from that culture."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Learning to play an instrument improves reading skills and vocabulary in children.",
+        "spans": [
+          "Learning how to play an instrument at a young age can help improve your reading skills."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Music can help stroke patients learn to speak again by training the brain to associate music functions with language functions.",
+        "spans": [
+          "Music has been known to help people with stroke to learn how to speak again. Music functions are located on the right side of the brain and the language functions are on the left side of the brain. People with stroke can learn how to speak again by singing, training their brain to move the music functions to left side of the brain associating it with language and, finally learning how to talk again."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Listening to Mozart can increase spatial-temporal intelligence, which involves visualization and mental manipulation of objects.",
+        "spans": [
+          "Listening to Mozart can increase spatial-temporal intelligence. This is the ability to visualize and manipulate an object mentally."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Music helps teenagers express and understand emotions and can provide social belonging through shared music interests.",
+        "spans": [
+          "Music, for teenagers, is a way to express, identify and express certain emotions.",
+          "Listening to certain genres of music can give teenagers admittance to a group of other teenage that share the same likes of music."
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "Music therapy can reduce depression, regulate mood, and help patients relax and sleep better by releasing brain chemicals.",
+        "spans": [
+          "Additional studies show that music therapy can cause changes in physiology by releasing brain chemicals including melatonin, norepinephrine, epinephrine, serotonin and prolactin, which help reduce depression, regulate mood and make patients feel calm and more able to sleep."
+        ]
+      },
+      {
+        "point_number": 13,
+        "point_content": "Music tempo affects heart rate and stress levels; slow music lowers heart rate and anxiety.",
+        "spans": [
+          "In a research made by Europeans, they made a test where they played music to their patients while monitoring their breathing, heart rates and blood pressure. They found that when they played upbeat music, their patients had faster heart beats and breathing and when they played them slow music, their heart rate slowed down and their anxiety and stress levels decreased."
+        ]
+      },
+      {
+        "point_number": 14,
+        "point_content": "Music helps lower the stress hormone cortisol, decreasing stress and helping relaxation.",
+        "spans": [
+          "The stress hormone cortisol can affect the ability to think, remember, concentrate and reason, it also causes health problems if it rises too much. Music helps lower this hormone, decreasing stress and helping the person to relax."
+        ]
+      },
+      {
+        "point_number": 15,
+        "point_content": "Listening to classical music before bedtime can help improve sleep quality and duration.",
+        "spans": [
+          "Listening to classical music before bedtime can help you go back to sleep. It can help you relax and slow down the brain, letting you sleep for a longer period of time than you normally could."
+        ]
+      },
+      {
+        "point_number": 16,
+        "point_content": "Music has strong physiological and psychological effects, with consonant harmony generally producing positive effects and dissonant harmony often causing negative effects.",
+        "spans": [
+          "Music has a very strong and definite physiological and psychological effect on people. Consonant harmony can produce many different effects. Consonant harmony can have an upbeat or slow rhythm, it can be bright or dark, it can cheer a person, it can be melancholic, lyrical or disconnected. Dissonant harmony might occasionally have similar effects as consonant harmony, but it’s usually agitating, irritating, or it can have one of any of the other negative effects."
+        ]
+      },
+      {
+        "point_number": 17,
+        "point_content": "Disharmonic music like rock can be addictive and cause withdrawal symptoms like depression when not listened to.",
+        "spans": [
+          "Many types of disharmonic music, Rock being included as one of them, can become addictive to many people. Schram, who loved to listen to popular music, explained in an interview (1999) that, if he doesn’t listen to his favorite style of music, he often gets depressed."
+        ]
+      },
+      {
+        "point_number": 18,
+        "point_content": "Rap music often contains themes of violence, sex, and drugs, which can influence listeners' behavior and emotions negatively.",
+        "spans": [
+          "According to the research I did, the music has different effects depending on the genre you listen to. Children and teenagers can sometimes have a hard time interpreting their emotions in music. This mostly happens when listening to rap music, because the lyrics that are used in this genre, usually, talk about street gangs, guns, violence, sex and drug use, which makes it harder for the teens, and children who listen to this music, to relate to the rapper."
+        ]
+      },
+      {
+        "point_number": 19,
+        "point_content": "Music can have therapeutic effects on pain, blood pressure, mental illnesses, and other health conditions.",
+        "spans": [
+          "It has been prove that music can be used to help the body in many ways. It can have a therapeutic effect against pain, modify blood pressure, treats many mental sicknesses, depression, Down syndrome, insomnia, and many other problems in the human body."
+        ]
+      },
+      {
+        "point_number": 20,
+        "point_content": "Music therapy reduces the need for medication during delivery and complements anesthesia by reducing pain and fear.",
+        "spans": [
+          "Music has many positive effects in managing pain and chronic pains. Music therapy is used in many hospitals because it has been proved to reduce the need of medication during delivery and it’s also used as a complement to anesthesia."
+        ]
+      },
+      {
+        "point_number": 21,
+        "point_content": "Music strengthens the immune system by increasing endorphins and immunoglobulin, aiding wound healing and infection resistance.",
+        "spans": [
+          "Music helps strengthen the immune system because it increases production of endorphins and immunoglobulin which accelerates the wound healing and reduces a risk for infections."
+        ]
+      },
+      {
+        "point_number": 22,
+        "point_content": "Music motivates people to exercise and complete chores by keeping them hyped and distracted.",
+        "spans": [
+          "Music works as a motivator whether you want to exercise or you don’t want to do a specific chore because it’s boring. This can be done by playing upbeat music to keep you hyped and distracted while you keep on working."
+        ]
+      },
+      {
+        "point_number": 23,
+        "point_content": "Upbeat music increases heart and muscle activity, helping people exercise longer and faster.",
+        "spans": [
+          "When you want to exercise, you can play any upbeat song and, because it is a fast paced song, your heart and muscles work faster, finally, allowing you to do your exercise faster than you normally would and you’ll probably exercise longer than you thought because you are distracted by the music."
+        ]
+      },
+      {
+        "point_number": 24,
+        "point_content": "Listening to music while working or doing chores improves mood and productivity, especially if the music has no lyrics.",
+        "spans": [
+          "It’s good to listen to songs while you’re doing chores because it puts people in a better mood and makes you keep working. You can also use it in your job, because it helps productivity, if you use it during the job, it’s better to listen to a song that doesn’t have any lyrics so you don’t affect the language parts in your brain."
+        ]
+      }
+    ],
+    "clueweb22-en0001-67-07128": [
+      {
+        "point_number": 1,
+        "point_content": "Listening to music can make you feel more relaxed, but in some cultures, it's actually used to ease pain.",
+        "spans": [
+          "Listening to music can make you feel more relaxed, but in some cultures, it's actually used to ease pain."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Science all but confirms that humans are hard-wired to respond to music.",
+        "spans": [
+          "Science all but confirms that humans are hard-wired to respond to music."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Studies also suggest that someday music may even help patients heal from Parkinson's disease or a stroke.",
+        "spans": [
+          "Studies also suggest that someday music may even help patients heal from Parkinson's disease or a stroke."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Studies show that infants prefer \"consonant intervals, the smooth-sounding ones that sound nice to our Western ears in a chord, as opposed to a jarring combination of notes.\"",
+        "spans": [
+          "studies show that infants prefer \"consonant intervals, the smooth-sounding ones that sound nice to our Western ears in a chord, as opposed to a jarring combination of notes.\""
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Scientists have found that music stimulates more parts of the brain than any other human function.",
+        "spans": [
+          "scientists have found that music stimulates more parts of the brain than any other human function."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Music has the potential to help people with neurological deficits, such as stroke patients who have lost verbal function.",
+        "spans": [
+          "Mannes says music also has the potential to help people with neurological deficits. \"A stroke patient who has lost verbal function — those verbal functions may be stimulated by music,\" she says."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Melodic intonation therapy uses music to coax portions of the brain into taking over for those that are damaged, helping patients regain their ability to speak.",
+        "spans": [
+          "One technique, known as melodic intonation therapy, uses music to coax portions of the brain into taking over for those that are damaged. In some cases, it can help patients regain their ability to speak."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Music techniques could be helpful for Alzheimer's patients because of how we associate music with memories.",
+        "spans": [
+          "And because of how we associate music with memories, Mannes says such techniques could also be helpful for Alzheimer's patients."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Musicians feel that sound impacts our bodies in a way no other art does.",
+        "spans": [
+          "Many musicians have an instinctive understanding of how musical sound interacts with our bodies.  They know — they  feel — that  sound impacts our bodies in a way no other art does."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Sound literally penetrates the human body and is a very intimate act of touching.",
+        "spans": [
+          "Sound literally penetrates the human body.",
+          "\"You know when someone says that a piece of music 'touched me' or 'moved me,' it's very literal. The sound of my voice enters your ear canal and it's moving your eardrum. That's a very intimate act. I am very literally touching you, and when you speak to me, you are literally touching me."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "The ear has an advantage over the eye because it is active in the womb and cannot be shut like the eyes.",
+        "spans": [
+          "He thinks that because we live in a very visual society we're more aware of what we see than what we hear.  But he reminds us that the latest scientific evidence reveals that the ear, which we now know is active in the womb, has an advantage over the eye.",
+          "The eye is also something that one can control more fully. If you don't like the way I look, and you don't want to see me, you close your eyes and I disappear.  But if you don't like my voice and you're in the same room, then you cannot shut your ears in a natural way."
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "The fetus begins to develop an auditory system between seventeen and nineteen weeks and is surrounded by a landscape of musical sound in the womb.",
+        "spans": [
+          "The fetus begins to develop an auditory system between seventeen and nineteen weeks.",
+          "Her recordings reveal that a landscape of musical sound does indeed surround the fetus."
+        ]
+      },
+      {
+        "point_number": 13,
+        "point_content": "The fetus reacts to music with a startle response and changes in heart rate, indicating it hears and responds to music in the womb.",
+        "spans": [
+          "the \"startle response\" of the fetus was measured as well, and Woodward's team found that when music is played, the fetal heart rate becomes slightly elevated.",
+          "Other studies show that even if only the mother hears music — if she has headphones on, and it is music that she finds soothing — the baby's heart rate lowers while the mother is listening. If the mother finds a certain piece of music stressful, the baby's heart rate goes up."
+        ]
+      },
+      {
+        "point_number": 14,
+        "point_content": "We begin learning about music even before birth, surrounded by natural rhythms of the body such as heartbeat and breath.",
+        "spans": [
+          "Woodward is convinced that we begin learning about music even before birth.",
+          "the fetus is surrounded by those natural rhythms of the body — heartbeat and pulse and breath."
+        ]
+      }
+    ],
+    "clueweb22-en0037-69-16763": [
+      {
+        "point_number": 1,
+        "point_content": "Music impacts brain function and human behavior, including by reducing stress, pain and symptoms of depression as well as improving cognitive and motor skills, spatial-temporal learning and neurogenesis.",
+        "spans": [
+          "music impacts brain function and human behavior, including by reducing stress, pain and symptoms of depression as well as improving cognitive and motor skills, spatial-temporal learning and neurogenesis"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "People with neurodegenerative diseases such as Alzheimer’s and Parkinson’s respond positively to music.",
+        "spans": [
+          "people with neurodegenerative diseases such as Alzheimer’s and Parkinson’s also respond positively to music"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Alzheimer’s patients become more responsive and active when listening to their favorite music, with effects lasting even after the music stops.",
+        "spans": [
+          "Alzheimer’s patients are unresponsive",
+          "once you put in the headphones that play [their favorite] music, their eyes light up. They start moving and sometimes singing. The effect lasts maybe 10 minutes or so even after you turn off the music"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Different parts of the brain light up when listening to favorite music, indicating emotional memories associated with music never fade, even in Alzheimer’s patients.",
+        "spans": [
+          "If you play someone’s favorite music, different parts of the brain light up",
+          "memories associated with music are emotional memories, which never fade out — even in Alzheimer’s patients"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Music can change your ability to perceive time, tap into primal fear, reduce seizures, make you a better communicator, make you stronger, boost your immune system, assist in repairing brain damage, make you smarter, evoke memories, and help Parkinson’s patients.",
+        "spans": [
+          "Music Can… Change your ability to preceive time Tap into primal fear Reduce seizures Make you a better communicator Make you stronger Boost your immune system Assist in repairing brain damage Make you smarter Evoke memories Help Parkinson’s patients"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Learning music as a child designs your brain for music, as the brain removes unnecessary neurons by age 8, making it easier to learn music and language when young.",
+        "spans": [
+          "If you learn music as a child, your brain becomes designed for music"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Music may increase neurogenesis in the brain, as suggested by studies on songbirds where neurons responsible for song generation die and regrow seasonally.",
+        "spans": [
+          "music may increase neurogenesis in the brain"
+        ]
+      }
+    ],
+    "clueweb22-en0020-07-19559": [
+      {
+        "point_number": 1,
+        "point_content": "Music unquestionably affects our emotions. We tend to listen to music that reflects our mood.",
+        "spans": [
+          "Music unquestionably affects our emotions.",
+          "We tend to listen to music that reflects our mood."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "People listen to different types of music depending on their emotional state, such as upbeat music when happy and slower songs when sad.",
+        "spans": [
+          "When we’re happy we may listen to upbeat music; when we’re sad we may listen to slower, moving songs; when we’re angry we may listen to darker music with heavy guitar, drums, and vocals that reflect our level of anger."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Music can reveal and help process repressed emotions, as in the case of John who used music as an outlet for his anger and aggression.",
+        "spans": [
+          "After some time in therapy, John realized he’d been repressing significant anger and aggression due to years of childhood emotional and physical abuse.",
+          "Music had become his voice and his outlet.",
+          "In a sense, music could touch the deep emotions that John dared not experience on his own."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Music can help reconnect with one's core self and aid in emotional healing, as seen with Cyndi who used upbeat music to reconnect with her energetic and happy childhood self.",
+        "spans": [
+          "As an adult, when listening to upbeat music, she became aware that her core self was attempting to emerge and reconnect.",
+          "Previously, she had known only that she enjoyed the feeling the upbeat music brought to her as a way to relieve her depressive moods."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Music can be used as a coping strategy to elicit desired emotions and change mood.",
+        "spans": [
+          "Music also can be an effective coping strategy.",
+          "We can listen to music that elicits emotions we want to feel in a given moment.",
+          "If we feel lazy and unmotivated, maybe a playlist of uptempo, energetic songs would be a helpful way to change our mood."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Music can be used to explore unconscious elements of our emotional structure and prompt self-exploration.",
+        "spans": [
+          "it’s also notable that it can be used to elicit underlying emotions and teach us about unconscious elements of our emotional structure.",
+          "If we notice a pattern of emotional music that raises questions about current feelings or about who we are, it could be a worthwhile opportunity for self-exploration."
+        ]
+      }
+    ],
+    "clueweb22-en0030-74-14021": [
+      {
+        "point_number": 1,
+        "point_content": "Music makes repetitive tasks more enjoyable and can increase happiness and efficiency.",
+        "spans": [
+          "Music makes repetitive tasks more enjoyable",
+          "Assembly line workers showed signs of increased happiness and efficiency while listening to music"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Music improves mood, which in turn enhances productivity and creativity.",
+        "spans": [
+          "More modern studies would argue that it isn’t the music itself, but rather the improved mood your favorite music brings that is the source of this bump in productivity.",
+          "Dr. Lesiuk’s research focuses on how music affects workplace performance. In one study involving information technology specialists, she found that those who listened to music completed their tasks more quickly and came up with better ideas than those who didn’t, because the music improved their mood."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Music in the major mode or key has better results on productivity than dissonant music.",
+        "spans": [
+          "Music with a dissonant tone was found to have no impact to productivity, while music in the major mode, or key, had better results: “Subjects hearing BGM (background music) achieved greater productivity when BGM was in the major mode.”"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "In noisy workplaces, music can serve as an escape and help maintain productivity.",
+        "spans": [
+          "In a noisy workplace, music is an escape",
+          "While the open space encourages more collaboration, the noise can be too much for some people to handle when engaging in deep work. If there is no physical escape—such as a private room—then a pair of headphones may be the best alternative."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Moderate ambient noise or natural sounds can enhance creativity and concentration.",
+        "spans": [
+          "Ambient noise is the creative sweet spot",
+          "Researchers have shown that a moderate noise level can get creative juices flowing, but the line is easily crossed; loud noises made it incredibly difficult to concentrate.",
+          "A 2015 study found that when it came to sound-masking with ambient noise, “natural” sounds, such as waves at a beach, also improved subjects’ ability to concentrate."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Lyrics in music can be distracting for intensive or language-related tasks.",
+        "spans": [
+          "Lyrics are often too distracting",
+          "Research shows that “intelligible” chatter—talking that can be clearly heard and understood—is what makes for a distracting environment.",
+          "Trying to engage in language-related tasks—such as writing—while listening to lyrics would be akin to holding a conversation while another person talks over you… while also strumming a guitar. Lyrics are often a no-go."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Familiar music is better for focus than new music because it requires less attention.",
+        "spans": [
+          "Familiarity is best for focus",
+          "With familiar music, you know what lies ahead. Paying attention requires less focus."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Certain types of music, such as Baroque classical, electronic ambient, and video-game music, can enhance productivity and focus.",
+        "spans": [
+          "Classical music (Baroque)",
+          "Electronic music",
+          "Video-game music"
+        ]
+      }
+    ],
+    "clueweb22-en0004-30-05523": [
+      {
+        "point_number": 1,
+        "point_content": "The kind of music to which humans are exposed during growing-up years determines the balance of their souls and influences the kind of person they become.",
+        "spans": [
+          "the kind of music to which humans are exposed to during growing-up years determines the balance of their souls",
+          "If one listens to the wrong kind of music he will become the wrong kind of person; but conversely, if he listens to the right kind of music he will tend to become the right kind of person."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Some types of music can have deleterious effects on the mind and body, while others have positive effects.",
+        "spans": [
+          "If specific types of music have a beneficial effect to the mind and body, it stands to reason that effects from other types of music may be less desirable.",
+          "studies have shown that some types of music can result in deleterious effects to the mind and body."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Sound vibrations from music cause automatic muscular reactions, making people move unconsciously.",
+        "spans": [
+          "Sound vibrations acting upon and through the nervous system give shocks in rhythmical sequence to the muscles, which cause them to contract and set arms and hands, legs and feet in motion.",
+          "On account of their automatic muscular reaction, many people make some movement when hearing music; for them to remain motionless would require conscious muscular restraint."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Consistent exposure to deleterious music can cause artificial neurosis and disrupt the autonomic nervous system and body rhythms.",
+        "spans": [
+          "Carol Torres reports that an artificial neurosis can ensue from consistent exposure to deleterious music, which can influence the autonomic nervous system and disregulate some of the body’s rhythms."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "A study on mice showed that disharmonic music damaged neurons and impaired memory and behavior, while harmonic music did not.",
+        "spans": [
+          "One research project, conducted by a neurologist and a physicist, divided 36 mice into 3 groups (A, B, and C) and subjected them to music as follows:",
+          "The decibel levels of music played for Groups B and C were the same, and all three groups had identical laboratory conditions except for the music differences.",
+          "Researchers found that the neurons (brain thinking cells) of mice in Group C were damaged and tangled; the neurons of mice in groups A and B were normal.",
+          "The mice from groups A and B scored equally well in memory retention; they could recall how to run the maze.",
+          "The mice from group C could not recall how to run the maze. In addition, they exhibited hyperactive, aggressive, and even cannibalistic behaviors."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Exposure to rock music causes abnormal neuron structures in brain regions associated with learning and memory and increases adrenaline levels, while slow piano music has a calming effect.",
+        "spans": [
+          "A study reported by the Scripps Howard News Service found that exposure to rock music causes abnormal neuron structures in the region of the brain associated with learning and memory.",
+          "Rock music was found to increase adrenalin levels in a group of students, while a slow piano instrumental had a calming effect."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Classical (harmonic) music appeals to the mind and makes listeners contemplative, while rock (rhythmic) music appeals to emotions and makes listeners passionate; prolonged exposure to amplified rhythmic music affects the brain similarly to drugs.",
+        "spans": [
+          "classical music is essentially harmonic as compared with rock music that is rhythmic.",
+          "Harmonic music appeals more to the mind and makes its listeners more contemplative.",
+          "Rhythmic music appeals more to the emotions and makes its listeners more passionate.",
+          "Bloom indicates that the effect on the brain of prolonged exposure to electrical amplification of rhythmic music is similar to that of drugs."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Rock music can condition the mind through calculated frequencies, modify body chemistry, and make the mind susceptible to modification and indoctrination.",
+        "spans": [
+          "Joseph Crow, professor at the University of Seattle, reportedly conducted a research project on the impact of rock music on the human mind.",
+          "He concluded that rock, a form of music based on mathematical formulae, could condition the mind through calculated frequencies (vibrations).",
+          "It is able to modify the body chemistry and make the mind susceptible to modification and indoctrination."
+        ]
+      }
+    ]
+  }
+}

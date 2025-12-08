@@ -1,0 +1,145 @@
+{
+  "question": "why are public goods a market failure",
+  "key_points": {
+    "clueweb22-en0011-36-06834": [
+      {
+        "point_number": 1,
+        "point_content": "Public goods provide an example of market failure resulting from missing markets.",
+        "spans": [
+          "Public goods provide an example of market failure resulting from missing markets."
+        ]
+      }
+    ],
+    "clueweb22-en0005-98-00873": [
+      {
+        "point_number": 1,
+        "point_content": "Pure public goods are not normally provided by the private sector because they would be unable to supply them for a profit.",
+        "spans": [
+          "Pure public goods are not normally provided by the private sector because they would be unable to supply them for a profit."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Public goods create market failures if some consumers decide not to pay but use the good anyway.",
+        "spans": [
+          "Public goods create market failures if some consumers decide not to pay but use the good anyway."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Public goods causes inefficiency because nonpayers cannot be excluded from consumption, which then prevents voluntary market exchanges.",
+        "spans": [
+          "Public goods causes inefficiency because nonpayers cannot be excluded from consumption, which then prevents voluntary market exchanges."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "A public good has two key characteristics: it is nonexcludable and nonrivalrous. These characteristics make it difficult for market producers to sell the good to individual consumers.",
+        "spans": [
+          "A public good has two key characteristics: it is nonexcludable and nonrivalrous. These characteristics make it difficult for market producers to sell the good to individual consumers."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Non-excludability: The benefits derived from pure public goods cannot be confined solely to those who have paid for it. Indeed non-payers can enjoy the benefits of consumption at no financial cost – economists call this the 'free-rider' problem.",
+        "spans": [
+          "Non-excludability: The benefits derived from pure public goods cannot be confined solely to those who have paid for it. Indeed non-payers can enjoy the benefits of consumption at no financial cost – economists call this the 'free-rider' problem."
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0025-41-05229": [
+      {
+        "point_number": 1,
+        "point_content": "Public goods are a cause of market failure because they are non-excludable and non-rivalrous, leading to underproduction due to the free rider problem.",
+        "spans": [
+          "lack of public goods",
+          "public good: A good that is both non-excludable and non-rivalrous in that individuals cannot be effectively excluded from use and where use by one individual does not reduce availability to others.",
+          "Public goods can be underproduced; there is little incentive, from a private standpoint, to provide a lighthouse because one can wait for someone else to provide it, and then use its light without incurring a cost. This problem – someone benefiting from resources or goods and services without paying for the cost of the benefit – is known as the free rider problem."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Market failure occurs when the price mechanism fails to account for all costs and benefits, which includes the characteristics of public goods that make them difficult to supply efficiently in a market.",
+        "spans": [
+          "Market failure occurs when the price mechanism fails to account for all of the costs and benefits necessary to provide and consume a good.",
+          "Market failure occurs due to inefficiency in the allocation of goods and services.",
+          "A price mechanism fails to account for all of the costs and benefits involved when providing or consuming a specific good. When this happens, the market will not produce the supply of the good that is socially optimal – it will be over or under produced."
+        ]
+      }
+    ],
+    "clueweb22-en0033-06-16384": [
+      {
+        "point_number": 1,
+        "point_content": "A good for which the cost of exclusion is prohibitive and for which the marginal cost of an additional user is zero is a public good.",
+        "spans": [
+          "A good for which the cost of exclusion is prohibitive and for which the marginal cost of an additional user is zero is a public good."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Once they are produced, anyone can enjoy them; there is no practical way to exclude people who have not paid for them from consuming them.",
+        "spans": [
+          "Once they are produced, anyone can enjoy them; there is no practical way to exclude people who have not paid for them from consuming them."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Free riders are people or firms that consume a public good without paying for it.",
+        "spans": [
+          "Free riders are people or firms that consume a public good without paying for it."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Because no household can be excluded and because the cost of an extra household is zero, the efficiency condition will not be met in a private market.",
+        "spans": [
+          "Because no household can be excluded and because the cost of an extra household is zero, the efficiency condition will not be met in a private market."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Because free riders will prevent firms from being able to require consumers to pay for the benefits received from consuming a public good, output will be less than the efficient level.",
+        "spans": [
+          "Because free riders will prevent firms from being able to require consumers to pay for the benefits received from consuming a public good, output will be less than the efficient level."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "While the market will produce some level of public goods in the absence of government intervention, we do not expect that it will produce the quantity that maximizes net benefit.",
+        "spans": [
+          "While the market will produce some level of public goods in the absence of government intervention, we do not expect that it will produce the quantity that maximizes net benefit."
+        ]
+      }
+    ],
+    "clueweb22-en0018-66-16468": [
+      {
+        "point_number": 1,
+        "point_content": "Public goods are nonexcludable and nonrivalrous, meaning people cannot be excluded from using them and one person's use does not reduce availability to others, leading to market failure because producers cannot charge consumers effectively.",
+        "spans": [
+          "Public goods have two distinct aspects: nonexcludability and nonrivalrous consumption.",
+          "“Nonexcludability” means that the cost of keeping nonpayers from enjoying the benefits of the good or service is prohibitive.",
+          "Because the entrepreneur cannot charge a fee for consumption, the fireworks show may go unproduced, even if demand for the show is strong"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The public goods dilemma is a form of market failure where no one contributes to the cost of a public good because everyone can benefit without paying, resulting in the good not being produced.",
+        "spans": [
+          "Public goods are freely accessible to all members of a given public, each being able to benefit from it without paying for it.",
+          "If all can have it without contributing to its cost, nobody will contribute and the good will not be produced.",
+          "This, in a nutshell, is the public goods dilemma, a form of market failure which requires taxation to overcome it."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Market failure occurs because individual incentives do not lead to rational outcomes for the group, exemplified by public goods where individual rational decisions lead to underproduction.",
+        "spans": [
+          "Market failure is the economic situation defined by an inefficient distribution of goods and services in the free market.",
+          "Furthermore, the individual incentives for rational behavior do not lead to rational outcomes for the group.",
+          "Put another way, each individual makes the correct decision for him/herself, but those prove to be the wrong decisions for the group."
+        ]
+      }
+    ]
+  }
+}

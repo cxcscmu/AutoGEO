@@ -1,0 +1,442 @@
+{
+  "question": "does punishment deter crime",
+  "key_points": {
+    "null": [],
+    "clueweb22-en0017-35-19688": [
+      {
+        "point_number": 1,
+        "point_content": "The death penalty is a necessary tool to fight and deter crime by causing would-be murderers to fear arrest and conviction and by preventing convicted murderers from killing again.",
+        "spans": [
+          "the death penalty is a necessary tool to fight and deter crime",
+          "capital punishment deters crime by causing would-be murderers to fear arrest and conviction",
+          "preventing convicted murderers from killing again"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Capital punishment makes the fight against crime more difficult by wasting resources and may result in more murders due to its brutalizing effect on society.",
+        "spans": [
+          "capital punishment makes the fight against crime more difficult by wasting valuable resources",
+          "the brutalizing effect executions have on society may result in more murders"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "A swifter death penalty would be an effective deterrent, achievable by eliminating abuses of the writ of habeas corpus to delay death sentences.",
+        "spans": [
+          "A third paper argues that a swifter death penalty would be an effective deterrent",
+          "this can be achieved by eliminating abuses of the use of the writ of habeas corpus to delay death sentences"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "A strong majority of police chiefs do not believe that capital punishment is an effective law enforcement tool and that other methods of crime control are more effective.",
+        "spans": [
+          "a strong majority of police chiefs do not believe that capital punishment is an effective law enforcement tool",
+          "other methods of crime control are more effective"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "There is no credible evidence that the use of capital punishment has any discernible effect on murder rates.",
+        "spans": [
+          "there is no credible evidence that the use of capital punishment has any discernible effect on murder rates"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "If a person is threatened with death if he/she does not comply with certain demands, then that person will comply; thus, the death penalty is a logical deterrent.",
+        "spans": [
+          "it is only common sense that if a person is threatened with death if he/she does not comply with certain demands, then that person will comply with those demands",
+          "the death penalty is a logical deterrent"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "There is no reduction in homicide due to the death penalty and in jurisdictions where the death penalty is used homicides increase.",
+        "spans": [
+          "there is no reduction in homicide due to the death penalty",
+          "in jurisdictions where the death penalty is used homicides increase"
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Death is inherently the most effective deterrent to prevent recidivism and may save innocent lives that would otherwise be terminated by dangerous persons who might be released from prison.",
+        "spans": [
+          "death is inherently the most effective deterrent to prevent recidivism",
+          "it may save innocent lives that would otherwise have been terminated by dangerous persons who might be released from prison"
+        ]
+      }
+    ],
+    "clueweb22-en0037-25-11673": [
+      {
+        "point_number": 1,
+        "point_content": "The certainty of being caught is a vastly more powerful deterrent than the punishment.",
+        "spans": [
+          "The certainty of being caught is a vastly more powerful deterrent than the punishment.",
+          "Research shows clearly that the chance of being caught is a vastly more effective deterrent than even draconian punishment."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Sending an individual convicted of a crime to prison isn’t a very effective way to deter crime.",
+        "spans": [
+          "Sending an individual convicted of a crime to prison isn’t a very effective way to deter crime.",
+          "Prisons are good for punishing criminals and keeping them off the street, but prison sentences (particularly long sentences) are unlikely to deter future crime."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Police deter crime by increasing the perception that criminals will be caught and punished.",
+        "spans": [
+          "Police deter crime by increasing the perception that criminals will be caught and punished.",
+          "The police deter crime when they do things that strengthen a criminal’s perception of the certainty of being caught."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Increasing the severity of punishment does little to deter crime.",
+        "spans": [
+          "Increasing the severity of punishment does little to deter crime.",
+          "Laws and policies designed to deter crime by focusing mainly on increasing the severity of punishment are ineffective partly because criminals know little about the sanctions for specific crimes."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "There is no proof that the death penalty deters criminals.",
+        "spans": [
+          "There is no proof that the death penalty deters criminals.",
+          "According to the National Academy of Sciences, \"Research on the deterrent effect of capital punishment is uninformative about whether capital punishment increases, decreases, or has no effect on homicide rates.\""
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Prison sentences do little to deter people from committing future crimes, especially long sentences.",
+        "spans": [
+          "Prison is an important option for incapacitating and punishing those who commit crimes, but the data show long prison sentences do little to deter people from committing future crimes."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "More severe punishments do not “chasten” individuals convicted of crimes and prisons may exacerbate recidivism.",
+        "spans": [
+          "More severe punishments do not “chasten” individuals convicted of crimes.",
+          "Prisons may exacerbate recidivism."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Certainty of being caught deters crime more than severity of punishment.",
+        "spans": [
+          "Certainty has a greater impact on deterrence than severity of punishment.",
+          "Research underscores the more significant role that certainty plays in deterrence than severity — it is the certainty of being caught that deters a person from committing crime, not the fear of being punished or the severity of the punishment."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "A person’s age is a powerful factor in deterring crime, with a steep decline in criminal behavior around age 35.",
+        "spans": [
+          "A person’s age is a powerful factor in deterring crime.",
+          "The data show a steep decline at about age 35."
+        ]
+      }
+    ],
+    "clueweb22-en0003-93-13208": [
+      {
+        "point_number": 1,
+        "point_content": "Deterrence is very largely an article of faith and the system has little to no deterrent effect.",
+        "spans": [
+          "Deterrence is very largely an article of faith",
+          "the system has little to no deterrent effect"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Harsher punishments such as longer prison sentences do not prevent crime and may increase re-offending.",
+        "spans": [
+          "harsh punishments, such as longer prison sentences, not only do not prevent crime but may actually have the opposite effect"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Severity of punishment has no real deterrent effect or effect on reducing recidivism; only likelihood of apprehension has some deterrent effect.",
+        "spans": [
+          "The severity of punishment, known as marginal deterrence, has no real deterrent effect, or the effect of reducing recidivism",
+          "The only minor deterrent effect is the likelihood of apprehension"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Many crimes are expressive and not the result of rational calculation about punishment.",
+        "spans": [
+          "A large number of crimes are what we call expressive crimes – that is they are affected by anger, rage, depression, drug or alcohol use, indicators of psychological disturbances",
+          "people are not turning their mind in a rational, calculating way, using cost-benefit of whether the punishment outweighs the benefit"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "High recidivism rates show imprisonment does not reduce further crime.",
+        "spans": [
+          "Roughly around 60% of the people sentenced to prison have previously been in prison"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Imprisonment causes civil disabilities and social disadvantages that lead offenders back to crime.",
+        "spans": [
+          "There are a number of civil disabilities that stem from imprisonments, such as exclusion from the job market, de-skilling and lack of access to housing, which lead offenders back to crime"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Social policies addressing unemployment, education, housing, earnings, and treatment programs reduce re-offending.",
+        "spans": [
+          "Social policies for reducing long-term unemployment, increasing adult education, providing stable accommodation, increasing average weekly earnings, and various treatment programs will bring about reductions of re-offending"
+        ]
+      }
+    ],
+    "clueweb22-en0003-17-08872": [
+      {
+        "point_number": 1,
+        "point_content": "Punishment does not effectively reduce criminal offending or recidivism.",
+        "spans": [
+          "Evidence demonstrates why punishment does not change criminal offending."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The American criminal justice system has relied nearly exclusively on punishment to reduce crime and recidivism for the past five decades.",
+        "spans": [
+          "For the past five decades, the American criminal justice system has relied nearly exclusively on punishment as the mechanism for reducing crime and recidivism."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The tough on crime era led to skyrocketing prison populations and the highest incarceration rates in the world without effectively reducing crime.",
+        "spans": [
+          "The tough on crime era produced skyrocketing prison populations and the highest incarceration rates in the world."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The overall recidivism rate is about 70%, meaning 70% of offenders are rearrested within five years of release, indicating punishment's limited effectiveness.",
+        "spans": [
+          "The overall recidivism rate is about 70%, meaning 70% of offenders are rearrested within five years of being released from the criminal justice system."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Scientific consensus estimates that only 10% to 15% of the crime decline in the U.S. is attributable to punishment policy.",
+        "spans": [
+          "The scientific consensus is that between 10% and 15% of the crime decline in the U.S. is attributable to punishment policy."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Many offenders have mental health problems, substance use disorders, and neurocognitive impairments, which punishment does not address.",
+        "spans": [
+          "First, the vast majority of criminal offenders who enter the justice system are disordered. About 60% have at least one mental health problem. Eighty percent have a substance use disorder. Neurodevelopmental and neurocognitive impairments are common."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Incarceration does not make one mentally healthy or address addiction, neurocognitive impairment, trauma, or poverty effects.",
+        "spans": [
+          "There is nothing about prison or jail that makes one mentally healthy. Incarceration does nothing to address addiction or substance dependence. Punishment does not mitigate neurocognitive impairment or the effects of trauma and exposure to poverty."
+        ]
+      }
+    ],
+    "clueweb22-en0013-27-13254": [
+      {
+        "point_number": 1,
+        "point_content": "Punishment converts criminal activity from a paying proposition to a nonpaying proposition, and people respond accordingly.",
+        "spans": [
+          "Punishment converts criminal activity from a paying proposition to a nonpaying proposition (at least sometime), and people respond accordingly."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Increases in arrest rates, conviction rates, and prison sentence lengths contribute to the recent drop in crime.",
+        "spans": [
+          "His answer: \"Lots of reasons--increases in arrest rates, conviction rates, prison sentence lengths.\""
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The combined deterrent and incapacitation effect generated by the collective actions of the police, courts, and prison system is very large.",
+        "spans": [
+          "The combined deterrent and incapacitation effect generated by the collective actions of the police, courts, and prison system is very large."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Crime rates have fallen 30 percent over the last decade, while the prison and jail population doubled to two million.",
+        "spans": [
+          "Crime rates have fallen 30 percent over the last decade, while the prison and jail population doubled to two million."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The negative impact of incarceration on criminal activity is undeniable.",
+        "spans": [
+          "Professor James Fox, the oft-quoted criminologist from Northeastern University in Boston, admitted under questioning that the negative impact of incarceration on criminal activity is undeniable."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Imprisonment can stop a rising crime rate and then gradually push it down.",
+        "spans": [
+          "Both U.S. and Texas experience show that imprisonment can stop a rising crime rate and then gradually push it down."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Punishment supplies the wrongdoer with a major incentive to reform; even career criminals give up crime because they don't want to go back to prison.",
+        "spans": [
+          "Punishment, though unpleasant and expensive, supplies the wrongdoer with a major incentive to reform. Even career criminals give up crime because they don't want to go back to prison."
+        ]
+      }
+    ],
+    "clueweb22-en0002-07-10765": [
+      {
+        "point_number": 1,
+        "point_content": "There have been claims for decades that in the United States the death penalty serves as a deterrent.",
+        "spans": [
+          "There have been claims for decades that in the United States the death penalty serves as a deterrent."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Both sides assert that there is credible research supporting their position.",
+        "spans": [
+          "Both sides assert that there is credible research supporting their position."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "A committee of the National Research Council has concluded that existing studies are far too methodologically flawed to draw conclusions one way or another.",
+        "spans": [
+          "a committee of the National Research Council has concluded that existing studies are far too methodologically flawed to draw conclusions one way or another."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Neither side can maintain that they have empirical support.",
+        "spans": [
+          "Neither side can maintain that they have empirical support."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "In most years, most states execute no one, and that pattern seems to be on the rise.",
+        "spans": [
+          "In most years, most states execute no one, and that pattern seems to be on the rise."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "One cannot study the impact of executions when they are hardly ever imposed, and it is difficult to separate any impact of the death penalty from the large number of other factors that affect the amount and kinds of crime.",
+        "spans": [
+          "One cannot study the impact of executions when they are hardly ever imposed, and it is difficult to separate any impact of the death penalty from the large number of other factors that affect the amount and kinds of crime."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "The committee’s conclusion about the claim that the death penalty deters is “can’t tell.”",
+        "spans": [
+          "The committee’s conclusion about the claim that the death penalty deters is “can’t tell.”"
+        ]
+      }
+    ],
+    "clueweb22-en0016-87-02481": [
+      {
+        "point_number": 1,
+        "point_content": "The question of whether capital punishment acts as a deterrent for violent crimes is central to the debate on the death penalty.",
+        "spans": [
+          "does capital punishment act as a deterrent for violent crimes?"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Isaac Ehrlich's study concluded that each execution during the 1950s and 1960s averted eight murders, supporting the deterrence hypothesis.",
+        "spans": [
+          "Ehrlich concluded that each execution during the 1950s and 1960s averted eight murders."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "A 2003 study reexamined Ehrlich's findings and concluded that executions beginning in 1977 have been associated with significant reductions in homicide, estimating each execution saves 18 potential victims on average.",
+        "spans": [
+          "the study concluded that “the legal change allowing executions beginning in 1977 has been associated with significant reductions in homicide”",
+          "the execution of each offender saves the lives of 18 potential victims, on average."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Jeffrey Fagan's 2005 research found that claims executions reduce murder rates are not true when data is closely scrutinized, noting contradictions and errors in studies supporting deterrence.",
+        "spans": [
+          "His research examined the more recent claims that executions reduce murder rates, and ultimately determined that this is not true when the data is closely scrutinized.",
+          "Fagan argued that the studies were “fraught with technical and conceptual errors",
+          "The results of the studies often contradict each other. Some conclude that capital punishment has an enormous deterrent effect, while some find that there is none."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Data from 1990-2014 shows states with capital punishment had higher murder rates than states without, likely because states with higher crime rates are more likely to enact the death penalty.",
+        "spans": [
+          "states with capital punishment had higher murder rates than states without capital punishment.",
+          "states that have higher crime rates are more likely to choose to enact the death penalty."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Much research on deterrence and capital punishment conflicts, with many studies criticized for flawed methods, including Ehrlich's study which was deemed unreliable by the National Research Council.",
+        "spans": [
+          "Much of the research done on deterrence and capital punishment conflicts itself.",
+          "Much of the criticism comes from his use of a mathematical equation that is not robust, and therefore concluded invalid results.",
+          "the National Research Council came to the conclusion that econometric research ... is not reliable for “resolving controversies over criminal justice policies”."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Psychological deterrence theory states people are deterred from crimes if punishment is swift, certain, and severe, but capital punishment often lacks swiftness due to long judicial processes.",
+        "spans": [
+          "The deterrence theory states that people don’t commit crimes because they are afraid of getting caught.",
+          "People are most likely to be dissuaded from committing crimes if the punishment is “swift, certain, and severe”.",
+          "the swiftness of capital punishment hasn’t really been examined, which is important to note because many accused murderers wait for years on trial before even being sentenced to death, and then wait for years more on death row."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Medical professionals and psychological experts generally doubt the deterrent effect of capital punishment, noting that offenders are often not in a normal state of mind to consider consequences logically.",
+        "spans": [
+          "it is very clear that deterrents are not effective in the area of capital punishment.",
+          "People who commit these crimes are not in a normal state of mind — they do not consider the consequences in a logical way"
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "There is a significant risk of executing innocent people, with about 1 in 25 on death row presumed innocent, raising ethical concerns about capital punishment.",
+        "spans": [
+          "Approximately one in twenty-five people on death row are presumed to be innocent.",
+          "If the innocence rate is more than twice the rate of exoneration, it raises questions as to how many innocent people have been executed in the United States."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "The death penalty disproportionately affects poor people, as effectiveness of legal representation often depends on financial resources, influencing sentencing outcomes.",
+        "spans": [
+          "Poor people often cannot be well represented in trials, which can (and does) lead to harsher sentences for this class of people."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Overall, the majority of evidence suggests capital punishment does not have a deterrent effect on violent crime rates, despite some early studies claiming otherwise.",
+        "spans": [
+          "the overwhelming majority of evidence seems to prove the opposite.",
+          "there is simply no proof to back up this claim."
+        ]
+      }
+    ]
+  }
+}

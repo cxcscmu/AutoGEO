@@ -1,0 +1,93 @@
+{
+  "question": "how algorithms shape our world",
+  "key_points": [
+    {
+      "point_number": 1,
+      "point_content": "Algorithms are central to how information and communication are located, retrieved and presented online, shaping our everyday experience of the real world through platforms like Twitter, Facebook, and Google Maps.",
+      "original_point_number": [
+        1,
+        2
+      ]
+    },
+    {
+      "point_number": 2,
+      "point_content": "Algorithms are not objective instructions but assume certain parameters and values, are in constant flux with changes made by humans and machines, and bring about particular ways of seeing the world, reproducing stereotypes, strengthening world views, restricting choices or opening new possibilities.",
+      "original_point_number": [
+        3,
+        4
+      ]
+    },
+    {
+      "point_number": 3,
+      "point_content": "Algorithms increasingly dictate what we should see and do, such as deciding which selfies to delete based on perceived beauty, implying trust in technology over personal judgment.",
+      "original_point_number": [
+        5
+      ]
+    },
+    {
+      "point_number": 4,
+      "point_content": "Algorithm-driven technologies transform biological items and actions into data, a process that is unquestioned, normalized, and invisible.",
+      "original_point_number": [
+        6
+      ]
+    },
+    {
+      "point_number": 5,
+      "point_content": "By delegating everyday practices to technological processes, algorithms epitomize a growing tendency towards atomisation and fragmentation, emphasizing singularity, quantification, and classification in daily life.",
+      "original_point_number": [
+        7
+      ]
+    },
+    {
+      "point_number": 6,
+      "point_content": "Algorithms have transitioned from being extracted from the world to shaping the world around us and inside us.",
+      "original_point_number": [
+        8
+      ]
+    },
+    {
+      "point_number": 7,
+      "point_content": "In financial markets, algorithms break up large transactions into many small ones to avoid tipping the market, both hide and seek these transactions, control a significant portion of the stock market, and their malfunction can cause events like the Flash Crash where 9% of the market disappeared in minutes.",
+      "original_point_number": [
+        9,
+        10
+      ]
+    },
+    {
+      "point_number": 8,
+      "point_content": "Algorithms operate without human oversight and can create unpredictable behaviors, as seen in pricing anomalies on Amazon.",
+      "original_point_number": [
+        11
+      ]
+    },
+    {
+      "point_number": 9,
+      "point_content": "Netflix algorithms determine 60% of the movies rented by recommending films based on user data, and story algorithms can predict the financial success of movie scripts, showing algorithms' influence on culture.",
+      "original_point_number": [
+        12,
+        13
+      ]
+    },
+    {
+      "point_number": 10,
+      "point_content": "Algorithms are embedded in everyday devices like cleaning robots and elevators, optimizing tasks and architecture.",
+      "original_point_number": [
+        14
+      ]
+    },
+    {
+      "point_number": 11,
+      "point_content": "Speed is critical for Wall Street algorithms, leading to infrastructure changes like hollowing out buildings and laying fiber optic cables to reduce latency.",
+      "original_point_number": [
+        15
+      ]
+    },
+    {
+      "point_number": 12,
+      "point_content": "The physical world is being transformed to accommodate algorithmic efficiency, representing a new co-evolutionary force alongside nature and humans.",
+      "original_point_number": [
+        16
+      ]
+    }
+  ]
+}

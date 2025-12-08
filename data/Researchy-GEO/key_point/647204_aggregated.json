@@ -1,0 +1,50 @@
+{
+  "question": "how climate change affects sea level",
+  "key_points": [
+    {
+      "point_number": 1,
+      "point_content": "Sea level rise due to climate change occurs by two mechanisms: thermal expansion of seawater as it warms and melting of ice over land adding water to the ocean.",
+      "original_point_number": [
+        1,
+        3,
+        5,
+        6,
+        12,
+        14
+      ]
+    },
+    {
+      "point_number": 2,
+      "point_content": "Global mean sea level has risen about 8 to 9 inches (21–24 centimeters) since 1880, with an accelerating rate of rise, and is projected to rise further by 2100, potentially between 0.3 meters to 2 meters (1 to 8 feet).",
+      "original_point_number": [
+        2,
+        9,
+        11,
+        13,
+        16
+      ]
+    },
+    {
+      "point_number": 3,
+      "point_content": "Sea level rise will continue past 2100 because the oceans take a very long time to respond to warmer surface conditions, causing continued warming and sea level rise for many centuries.",
+      "original_point_number": [
+        10
+      ]
+    },
+    {
+      "point_number": 4,
+      "point_content": "Sea level rise is causing more frequent high-tide flooding and increased risk from storm surges.",
+      "original_point_number": [
+        17
+      ]
+    },
+    {
+      "point_number": 5,
+      "point_content": "Climate change in Malaysia is causing sea level rise, coastal inundation, flooding, and erosion in coastal areas.",
+      "original_point_number": [
+        7,
+        8
+      ]
+    }
+  ]
+}

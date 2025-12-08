@@ -1,0 +1,53 @@
+{
+  "question": "what caused the fuel shortage",
+  "key_points": [
+    {
+      "point_number": 1,
+      "point_content": "There is no shortage of fuel at source, but a shortage of fuel in petrol stations caused by two main reasons: a shortage of lorry drivers restricting fuel distribution, and panic buying by motorists creating real shortages.",
+      "original_point_number": [
+        1,
+        3,
+        12,
+        13,
+        14
+      ]
+    },
+    {
+      "point_number": 2,
+      "point_content": "There is an estimated shortage of more than 100,000 qualified HGV drivers, which has caused problems for fuel delivery and a range of retailers.",
+      "original_point_number": [
+        4,
+        7,
+        17
+      ]
+    },
+    {
+      "point_number": 3,
+      "point_content": "The shortage of truck drivers is due to a combination of Brexit, coronavirus impacts, retirement of older drivers, and a huge backlog in HGV driver tests due to Covid.",
+      "original_point_number": [
+        5,
+        9,
+        10,
+        11,
+        19,
+        20,
+        21
+      ]
+    },
+    {
+      "point_number": 4,
+      "point_content": "Fuel tanker drivers need additional safety qualifications on top of their HGV licence to be able to transport chemicals such as petrol.",
+      "original_point_number": [
+        8,
+        18
+      ]
+    },
+    {
+      "point_number": 5,
+      "point_content": "The supply chain is not being disrupted by ongoing problems such as industrial action, so the issue should be short-term.",
+      "original_point_number": [
+        15
+      ]
+    }
+  ]
+}

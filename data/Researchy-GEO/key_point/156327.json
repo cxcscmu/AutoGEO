@@ -1,0 +1,137 @@
+{
+  "question": "what are some potential shareholder actions that may be taken when a firm holds a high cash balance?",
+  "key_points": {
+    "null": [],
+    "clueweb22-en0013-80-16286": [
+      {
+        "point_number": 1,
+        "point_content": "Shareholders may hold directors liable for actions that are prejudicial to the business interests or violate their duties to the company.",
+        "spans": [
+          "if it is in violation of their duties owed to the company or is prejudicial to the business interests, they may be held liable either jointly or collectively."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Shareholders can move against a director when the director's actions negatively affect the company, protecting both shareholders and the company.",
+        "spans": [
+          "when various other issues arise, the shareholders are able to move against him or her based on the situation. This protects both the shareholders and the company as a whole in most circumstances."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Shareholders may hold directors liable for fraud, embezzlement, and similar crimes affecting the company.",
+        "spans": [
+          "When the actions of the director affect the company in a negative manner such as fraud, embezzlement and similar crimes, he or she may be facing serious penalties and action by law enforcement."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Shareholders may hold directors civilly liable if a prospectus contains untrue statements and the director had knowledge or consented to these false details.",
+        "spans": [
+          "When a prospectus has been implemented in a public company, the director may be civilly liable if the statements within are untrue at the time he or she was a director of the company.",
+          "he or she had prior knowledge or gave consent to these false details."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Shareholders may hold directors liable for fraudulent business practices if the director was aware or participated in the fraud.",
+        "spans": [
+          "Any type of fraudulent business may be directly placed at the hands of the director if he or she was aware of these problems or took part in defrauding the company."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Shareholders may hold meetings to determine actions against a director when illegal actions cause negative feedback to the business.",
+        "spans": [
+          "In some circumstances where this occurs, a meeting may be held by shareholders to determine what action may be executed by them towards the director and what consequences he or she may face in light of the evidence and details provided."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Shareholders may take action against a director to protect their rights and mitigate damage before issues become public.",
+        "spans": [
+          "Any possible illegal activity may cause a dip in stock in the company which affects all shareholders negatively. This usually means some type of action must be taken by shareholders before the issue becomes public to mitigate the damage."
+        ]
+      }
+    ],
+    "clueweb22-en0041-80-14325": [
+      {
+        "point_number": 1,
+        "point_content": "Firms hold high cash balances over the precautionary level to take advantage of speculative investment opportunities, to exploit discounts for prompt payments, to improve credit rating, and to acquire cash-starved companies at low cost.",
+        "spans": [
+          "Sometimes, firm hold high cash balances over the precautionary level of cash balance to take advantage of speculative investment opportunities, to exploit discounts for prompt payments, to improve credit rating etc.",
+          "Cash surplus companies can acquire the cash starved companies at least cost of acquisition."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Firms with excessive cash surplus can take steps to improve production and sales, ultimately improving profitability.",
+        "spans": [
+          "The company with excessive cash surplus can take steps to improve production and sales ultimately the profitability of the company improves."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Firms can deploy surplus cash in short-term marketable investments and money market instruments to get better returns while maintaining liquidity.",
+        "spans": [
+          "Some firms who can efficiently manage cash surplus, can seek to deploy surplus cash in short-term marketable investments and money market instruments to get better returns.",
+          "Purchase of readily marketable securities will enable to earn return on investment, as well as, to maintain the liquidity of the company."
+        ]
+      }
+    ],
+    "clueweb22-en0025-25-05662": [
+      {
+        "point_number": 1,
+        "point_content": "A company can gauge whether it is paying too much of its earnings to shareholders by using the payout ratio.",
+        "spans": [
+          "A company can gauge whether it is paying too much of its earnings to shareholders by using the payout ratio."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "If the dividend payout ratio is excessively high, it may indicate less likelihood a company will be able to sustain such dividend payouts in the future, because the company is using a smaller percentage of earnings to reinvest in company growth.",
+        "spans": [
+          "If the dividend payout ratio is excessively high, it may indicate less likelihood a company will be able to sustain such dividend payouts in the future, because the company is using a smaller percentage of earnings to reinvest in company growth."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "A company may cut or eliminate dividends when the economy is experiencing a downturn or if it is paying too much in dividends relative to earnings.",
+        "spans": [
+          "A company may cut or eliminate dividends when the economy is experiencing a downturn.",
+          "Another example would be if a company is paying too much in dividends."
+        ]
+      }
+    ],
+    "clueweb22-en0035-85-08260": [
+      {
+        "point_number": 1,
+        "point_content": "Shareholders in a close corporation may be held personally liable for back wages of the company’s employees if the company is insolvent.",
+        "spans": [
+          "a court may hold corporate officers, directors and/or shareholders personally liable for the back wages of the company’s employees"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Large shareholders in close corporations must ensure transactions with the company meet the standard of 'entire fairness' to avoid liability for damages.",
+        "spans": [
+          "When transacting business with their company, large shareholders need to conform to the standard of “entire fairness” in their dealings."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Shareholders who knowingly receive illegal distributions that render the company insolvent are liable to repay the full amount to the corporation.",
+        "spans": [
+          "A shareholder who knowingly receives an illegal distribution will be liable for the full amount of that distribution in payment back to the corporation."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Shareholders can be held liable for illegal dividends if they had knowledge or should have had knowledge that the dividend would render the company insolvent.",
+        "spans": [
+          "Even if there is no actual knowledge on the part of the offending shareholder, however, a court can “impute” knowledge where the shareholder should have known that the dividend would render the company insolvent."
+        ]
+      }
+    ]
+  }
+}

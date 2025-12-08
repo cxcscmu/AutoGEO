@@ -1,0 +1,308 @@
+{
+  "question": "what makes someone immunosuppressed",
+  "key_points": {
+    "clueweb22-en0027-87-13844": [
+      {
+        "point_number": 1,
+        "point_content": "A person can become immunocompromised in four major ways: through a congenital disorder; through acquired conditions such as diabetes and HIV; through autoimmune diseases; and through certain medications and treatments.",
+        "spans": [
+          "A person can become immunocompromised in four major ways: through a congenital disorder; through acquired conditions such as diabetes and HIV; through autoimmune diseases; and through certain medications and treatments."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Some studies link alcohol addiction with suppressed immune systems. Age is also a factor: Those over the age of 65 have a weakened immune system, and those 80 and older are immunocompromised by definition. Lifestyle factors such as stress and lack of sleep can also weaken the immune system.",
+        "spans": [
+          "some studies link alcohol addiction with suppressed immune systems",
+          "Age is also a factor: Those over the age of 65 have a weakened immune system, and those 80 and older are immunocompromised by definition",
+          "Lifestyle factors such as stress and lack of sleep can also weaken the immune system."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Certain types of chemotherapy and radiation treatment can decrease the immune system, making a person more immunodeficient.",
+        "spans": [
+          "Certain types of chemotherapy, not all types, can decrease the immune system, making you more immunodeficient",
+          "Current radiation treatment that is targeting particular parts of the body, including the spleen or large numbers of circulating blood cells and/or bone marrow, can also decrease the number of white blood cells affecting the body's ability to fight infection."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Medications that actively suppress the immune system, such as those used after an organ transplant or high dose chronic steroids, make a person immunosuppressed.",
+        "spans": [
+          "There are also medications that actively suppress the immune system, such as those used after an organ transplant.",
+          "Some people require for various illnesses, chronic steroids, and if the steroids are high dose, that will also suppress the immune system."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Autoimmune diseases involve the immune system attacking its own healthy tissue, and treatment often involves medications that suppress the immune system.",
+        "spans": [
+          "With autoimmune diseases, the body's immune system attacks its own healthy tissue, and treatment often involves medications that effectively knock-out the immune system."
+        ]
+      }
+    ],
+    "clueweb22-en0036-42-08657": [
+      {
+        "point_number": 1,
+        "point_content": "Immunosuppression means you have a weakened immune system due to a particular health condition or because you are on medication or treatment that is suppressing your immune system.",
+        "spans": [
+          "Immunosuppression means you have a weakened immune system due to a particular health condition or because you are on medication or treatment that is suppressing your immune system."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "People who are immunosuppressed may have a reduced ability to fight infections and other diseases, including COVID-19.",
+        "spans": [
+          "People who are immunosuppressed, or have specific other medical conditions, may have a reduced ability to fight infections and other diseases, including COVID-19."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Severe immunosuppression includes people who had or may recently have had a blood cancer, a weakened immune system due to a treatment, an organ or bone marrow transplant, a condition that means you have a very high risk of getting infections, or a condition or treatment your specialist advises makes you eligible for a third dose.",
+        "spans": [
+          "Severe immunosuppression includes people who had or may recently have had:\na blood cancer (such as leukaemia or lymphoma)\na weakened immune system due to a treatment (such as steroid medicine, biological therapy (sometimes called immunotherapy), chemotherapy or radiotherapy\nan organ or bone marrow transplant\na condition that means you have a very high risk of getting infections\na condition or treatment your specialist advises makes you eligible for a third dose"
+        ]
+      }
+    ],
+    "clueweb22-en0039-29-10595": [
+      {
+        "point_number": 1,
+        "point_content": "Immune suppression describes a loss of immune function. It can occur for many reasons, including disease, medication, surgery, age or genetics.",
+        "spans": [
+          "Immune suppression describes a loss of immune function. It can occur for many reasons, including disease, medication, surgery, age or genetics."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Immune suppression means your immune system isn't working properly, including white cells, spleen and lymph nodes.",
+        "spans": [
+          "Immune suppression, also known as immunosuppression or immunocompromise, means your immune system isn't working properly. This includes any or all of the defences that make up your immune system - particularly the white cells in our bloodstream, along with our spleen and lymph nodes."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Causes of immunosuppression include age, chronic disease, malnutrition, certain medicines, cancer, spleen removal or dysfunction, HIV/AIDS, and rare genetic conditions.",
+        "spans": [
+          "The following can be causes of immunosuppression: Age. Our immune systems become less effective when we become elderly. Persisting (chronic) disease. Immune systems tend to become less effective as certain long-term illnesses progress. Examples include severe chronic kidney disease, chronic liver disease and diabetes mellitus. Malnutrition. Medicines for illness caused by the immune system attacking itself (autoimmune conditions). Examples include rheumatoid arthritis and Crohn's disease. Medicines in the form of oral steroids for conditions which result in inflammation where treatment is needed to reduce inflammation. Medicines taken to prevent rejection in people who have had organ or bone marrow transplants. Chemotherapy or radiotherapy treatment for cancer Cancers. Certain cancers can cause immune suppression, particularly those which involve the blood cells which are so crucial to our immune system. Lymphomas, leukaemias and myeloma are the cancers which may suppress the immune system. Not having a spleen, due to it having been removed. Or having a spleen which does not work well. This can occur due to certain conditions such as sickle cell anaemia, thalassaemia major or lymphoma, or after radiotherapy. HIV and AIDS. The human immunodeficiency virus (HIV) affects the immune system. Rare genetic conditions which result in loss of immune function - for example, severe combined immunodeficiency syndrome (SCID), DiGeorge's syndrome, Wiskott-Aldrich syndrome."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Certain medicines cause immune suppression, including oral steroids at high doses, azathioprine, mycophenolate mofetil, monoclonal antibodies, anti-TNF drugs, methotrexate, ciclosporin, tacrolimus, sirolimus, cyclophosphamide, and leflunomide.",
+        "spans": [
+          "Oral steroids are a common cause of immune suppression and are used in numerous conditions. They are more likely to lower your immune defences when used at high doses for long periods of time. Lower doses do not generally cause a problem. For an adult, a dose of 40 mg per day of prednisolone for more than a week may cause immune suppression, but this dose varies for other steroids and for children. See the separate leaflet called Oral Steroids for more information. Other medicines which suppress the immune system include: Azathioprine. Mycophenolate mofetil. Monoclonal antibodies - of which there are many ending in \"mab\", such as bevacizumab, rituximab and trastuzumab. Anti-TNF drugs such as etanercept, infliximab, adalimumab, certolizumab and golimumab. (TNF stands for anti tumour necrosis factor, and some of the \"mab\" medicines above act against TNF, so there is some overlap in groups of medicines here.) Methotrexate. Ciclosporin. Tacrolimus. Sirolimus. Cyclophosphamide. Leflunomide."
+        ]
+      }
+    ],
+    "clueweb22-en0030-54-17531": [
+      {
+        "point_number": 1,
+        "point_content": "Immunocompromised means your immune system isn’t working as well as it should to protect you from infection or can’t distinguish between normal and foreign cells.",
+        "spans": [
+          "Simply put, it’s when your immune system isn’t working as well as it should to protect you from infection—or that your immune system can’t distinguish between normal and foreign cells."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "There are many ways people can be immunocompromised due to the complexity of the immune system.",
+        "spans": [
+          "There are many ways people can be immunocompromised,",
+          "The immune system is complex, and made up of many different types of immune cells that serve different functions."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Causes of immunocompromised state include genetic mutation, diseases like HIV, and certain medications including immunotherapy.",
+        "spans": [
+          "He divides the causes into two major groups: those with a genetic mutation or a disease, such as HIV, that causes a loss of immune function; and those who take certain medications, including immunotherapy, to treat specific diseases."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Immunotherapy can suppress immune responses when the immune system is overactive, such as in autoimmune diseases or organ transplants.",
+        "spans": [
+          "Immunotherapy is a treatment that can suppress, or dampen, immune responses when the immune system is “overactive,” such as with an autoimmune disease in which immune cells attack healthy tissue— or with organ transplants."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Autoimmune diseases that can cause an overactive immune response include rheumatoid arthritis, type 1 diabetes, multiple sclerosis, and inflammatory bowel disease.",
+        "spans": [
+          "Autoimmune diseases that create this overactive response include rheumatoid arthritis, type 1 diabetes, multiple sclerosis (MS), and inflammatory bowel disease (Crohn’s and ulcerative colitis)."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Immunosuppressive drugs are necessary for organ transplant recipients to prevent rejection but cause immunocompromised state.",
+        "spans": [
+          "For organ transplant recipients, immunosuppressive drugs are necessary,",
+          "But even though the medications are successful in stopping organ rejection, they come with side effects, including putting patients in an immunocompromised state."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Cancer patients, especially those with blood cancers, may be immunocompromised due to treatments impacting the immune system.",
+        "spans": [
+          "As a general rule, patients with blood cancers, such as leukemia and multiple myeloma, are more likely to receive treatment that impacts their immune system than someone with a solid tumor, Dr. Seropian explains."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "The more immunocompromised someone is, the less effective vaccines will be for them.",
+        "spans": [
+          "In general, the more immunocompromised someone is, the less effective vaccines will be for them."
+        ]
+      }
+    ],
+    "clueweb22-en0018-45-14181": [
+      {
+        "point_number": 1,
+        "point_content": "Immunosuppression can be caused by certain diseases but can also be induced by medications that suppress the immune system. Some medical procedures can also cause immunosuppression.",
+        "spans": [
+          "Immunosuppression can be caused by certain diseases but can also be induced by medications that suppress the immune system.",
+          "Some medical procedures can also cause immunosuppression."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Certain medications, classified as immunosuppressants, suppress specific parts of the immune system or the immune system as a whole.",
+        "spans": [
+          "Certain types, classified as immunosuppressants, do so by suppressing specific parts of the immune system or the immune system as a whole."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Long-term use of high-dose corticosteroids can cause immunosuppression.",
+        "spans": [
+          "Immunosuppression is typically related to the long-term use of high-dose corticosteroids."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Chemotherapy drugs suppress bone marrow, which produces blood cells that help fight infection, leading to immunosuppression.",
+        "spans": [
+          "The suppression of bone marrow accounts for the high risk of infections in people undergoing cancer treatment."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Monoclonal antibodies alter the normal function of the immune system and can lead to an increased risk of infection.",
+        "spans": [
+          "Because monoclonal antibodies alter the normal function of the immune system, it can lead to an imbalance in immune cells and an increased risk of infection."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "TNF-α inhibitors are immunosuppressant drugs that increase the risk of opportunistic infections.",
+        "spans": [
+          "The immunosuppressive effect of TNF-α inhibitors can significantly increase the risk of so-called \"opportunistic infections.\""
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "HIV causes immunosuppression by targeting and depleting CD4 T-cell lymphocytes, which coordinate the immune response.",
+        "spans": [
+          "The virus preferentially targets white blood cells called CD4 T-cell lymphocytes that are responsible for signaling and coordinating the immune response."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Asplenia, the absence of normal spleen function, increases the risk of serious infections and causes immunosuppression.",
+        "spans": [
+          "Asplenia is the term used to describe the absence of normal spleen function.",
+          "The loss of splenic function is associated with serious infection risks."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Primary immunodeficiencies are inherited immune disorders that impair the immune response and cause immunosuppression.",
+        "spans": [
+          "Inherited immune disorders, called primary immunodeficiencies (PID), are considered rare.",
+          "There are more than 300 different PIDs that are known to impair different facets of the immune response."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Medical procedures like splenectomy, radiation therapy, and bone marrow ablation can cause immunosuppression.",
+        "spans": [
+          "The surgical removal of the spleen, called a splenectomy, is sometimes needed to treat a spleen injury, lymphoma, and autoimmune diseases like idiopathic thrombocytopenic purpura.",
+          "Radiation therapy is commonly used to treat certain types of cancer and can cause immunosuppression if the radiation damages bone marrow or other components of the immune system.",
+          "Prior to a stem cell transplant or bone marrow transplant, the recipient will undergo a procedure known as bone marrow ablation in which radiation or high-dose chemotherapy kills all cancer cells as well as the bone marrow itself."
+        ]
+      }
+    ],
+    "clueweb22-en0038-57-16069": [
+      {
+        "point_number": 1,
+        "point_content": "Examples of persons with weakened immune systems include those with HIV/AIDS; cancer and transplant patients who are taking certain immunosuppressive drugs; and those with inherited diseases that affect the immune system (e.g., congenital agammaglobulinemia, congenital IgA deficiency).",
+        "spans": [
+          "Examples of persons with weakened immune systems include those with HIV/AIDS; cancer and transplant patients who are taking certain immunosuppressive drugs; and those with inherited diseases that affect the immune system (e.g., congenital agammaglobulinemia, congenital IgA deficiency)."
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0011-43-01514": [
+      {
+        "point_number": 1,
+        "point_content": "Immunosuppressant drugs are a class of drugs that suppress, or reduce, the strength of the body’s immune system.",
+        "spans": [
+          "Immunosuppressant drugs are a class of drugs that suppress, or reduce, the strength of the body’s immune system."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Immunosuppressant drugs weaken the immune system to reduce your body’s reaction to the foreign organ.",
+        "spans": [
+          "Immunosuppressant drugs weaken your immune system to reduce your body’s reaction to the foreign organ."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "With an autoimmune disease, the immune system attacks the body’s own tissue. Because immunosuppressant drugs weaken the immune system, they suppress this reaction.",
+        "spans": [
+          "With an autoimmune disease, the immune system attacks the body’s own tissue.",
+          "Because immunosuppressant drugs weaken the immune system, they suppress this reaction."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Almost everyone who receives an organ transplant must take immunosuppressant drugs.",
+        "spans": [
+          "Almost everyone who receives an organ transplant must take immunosuppressant drugs."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Your immune system sees a transplanted organ as a foreign object. As a result, your immune system attacks the organ as it would attack any foreign cell.",
+        "spans": [
+          "Your immune system sees a transplanted organ as a foreign object.",
+          "As a result, your immune system attacks the organ as it would attack any foreign cell."
+        ]
+      }
+    ],
+    "clueweb22-en0033-37-13662": [
+      {
+        "point_number": 1,
+        "point_content": "Immunosuppression may be the result of a disease that targets the immune system, such as the human immunodeficiency virus (HIV), or as a consequence of pharmaceutical agents used to fight certain conditions, like cancer.",
+        "spans": [
+          "immunosuppression may be the result of a disease that targets the immune system, such as the human immunodeficiency virus (HIV), or as a consequence of pharmaceutical agents used to fight certain conditions, like cancer"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Immunosuppression may be caused by a number of systemic illnesses including diabetes mellitus, renal and/or hepatic failure, infection of the central nervous system, systemic lupus erythematosus, and rheumatoid arthritis.",
+        "spans": [
+          "Immunosuppression may be caused by a number of systemic illnesses. These include, but are not limited to the following: Diabetes mellitus Renal and/or hepatic failure Infection of the central nervous system Systemic lupus erythematosus Rheumatoid arthritis"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Certain pharmaceuticals and therapeutic interventions can also cause immunosuppression, including corticosteroids, immunoglobulins, antimetabolites, biological alkylating agents, and ionizing radiation.",
+        "spans": [
+          "In addition to systemic illnesses, certain pharmaceuticals and therapeutic interventions can also cause immunosuppression. These include, but are not limited to the following: Corticosteroids Immunoglobulins Antimetabolites Biological alkylating agents Ionizing radiation"
+        ]
+      }
+    ]
+  }
+}

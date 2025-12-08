@@ -1,0 +1,127 @@
+{
+  "question": "why did amazon initially consider international expansion?",
+  "key_points": {
+    "clueweb22-en0032-82-14706": [
+      {
+        "point_number": 1,
+        "point_content": "Amazon considered international expansion due to the rapid internet growth and the strategy to keep low inventory in strategic locations to access many countries.",
+        "spans": [
+          "Internet growth was 2,300 per cent in 1994.",
+          "Amazon’s main strategy considered keeping low amount of inventory stock (to minimize the inventory risk) in many strategically important locations, as the U.K. or Japan, which allowed them quick access to vast amount of countries all around the world."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Increasing purchasing power outside the domestic market led Amazon to expand globally.",
+        "spans": [
+          "The increasing purchasing power of people outside the domestic market led e-commerce site Amazon to expand their services globally."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Many countries promote international companies to expand their services, making it easier for Amazon to establish markets internationally.",
+        "spans": [
+          "Many countries promote international companies to expand their services in their countries which make companies easy to establish their markets."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Amazon selected countries with high GDP and good internet penetration for early international expansion.",
+        "spans": [
+          "The selection criteria was basically high GDP and good internet penetration and this got them involved early in UK, Germany, France, Japan, China, in addition to the US."
+        ]
+      }
+    ],
+    "clueweb22-en0006-40-14197": [
+      {
+        "point_number": 1,
+        "point_content": "Amazon considered international expansion to enter new markets and grow its business.",
+        "spans": [
+          "Why did Amazon consider international expansion in the first place?"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "International expansion is a key success factor in Amazon's industry.",
+        "spans": [
+          "Is international expansion a key success factor in Amazon's industry?"
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0004-40-07799": [
+      {
+        "point_number": 1,
+        "point_content": "Amazon entered the China market by acquiring Joyo in 2004, the biggest online book seller in China.",
+        "spans": [
+          "Amazon entered the China market by acquiring Joyo in 2004, the biggest online book seller in China."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Amazon hoped to find youthful new audiences for Amazon’s original, streaming entertainment programming by leveraging the popularity of e-sports.",
+        "spans": [
+          "By leveraging the popularity of e-sports, with 134M viewers and a market worth $612M annually, Amazon hoped to find youthful new audiences for Amazon’s original, streaming entertainment programming."
+        ]
+      }
+    ],
+    "clueweb22-en0010-56-12272": [
+      {
+        "point_number": 1,
+        "point_content": "Amazon.com began international operations with the acquisition of online booksellers in the United Kingdom and Germany in 1998.",
+        "spans": [
+          "That same year it began international operations with the acquisition of online booksellers in the United Kingdom and Germany."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Amazon's initial strategy was to deliver any book to any reader anywhere, indicating a motivation for international expansion.",
+        "spans": [
+          "However, the promise of Amazon.com was to deliver any book to any reader anywhere."
+        ]
+      }
+    ],
+    "clueweb22-en0045-09-12275": [
+      {
+        "point_number": 1,
+        "point_content": "Amazon launched its first overseas operations in Japan in 2000.",
+        "spans": [
+          "Launched its first overseas operations, in Japan."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Amazon started with Jeff Bezos' original basic plan to sell books more efficiently and quickly led to the recognition that by gaining information about its customers, his company could learn to sell them anything and everything.",
+        "spans": [
+          "Jeff Bezos' original basic plan to sell books more efficiently and quickly led to the recognition that by gaining information about its customers, his company could learn to sell them anything and everything."
+        ]
+      }
+    ],
+    "clueweb22-en0004-45-10960": [
+      {
+        "point_number": 1,
+        "point_content": "Amazon considered international expansion due to the slow but increasing consumer shift to online grocery shopping and the large size of the offline retail market.",
+        "spans": [
+          "The consumer shift to online grocery shopping is increasing, and Amazon is already there. However, the shift is slow.",
+          "Continued with that, 91% of the spendings in the US are in physical stores. Size of offline retail is ~$4.5 trillion, where online retail is ~$409.2 billion."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Amazon acquired Whole Foods to leverage its in-store shopper data and private-label brands to enhance its service quality and reach.",
+        "spans": [
+          "Whole Foods has a significant background data which includes shoppers' purchase and consumption behavior (frequency, correlations between decisions) in the in-store shopping which allows Amazon to play with it on Amazon Prime and other services, and also in the retail area for better intelligence.",
+          "Whole Foods is a strong brand, and it has an extensive list of private-label products. We know that Amazon has ~40 private-label brands."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Amazon's strategy includes connecting physical and digital shopping experiences to accelerate consumer shift to online shopping.",
+        "spans": [
+          "Amazon did put Amazon Lockers into Whole Foods stores. Hence, we can see that Amazon is connecting the physical and digital world, and starts evolving Whole Foods shoppers to become digital shoppers with integrations.",
+          "Amazon Go, Whole Foods, AmazonFresh, Amazon Prime, Alexa, they are all connected with each other and helps consumers fulfill their needs with a great experience."
+        ]
+      }
+    ]
+  }
+}

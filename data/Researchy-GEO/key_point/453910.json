@@ -1,0 +1,645 @@
+{
+  "question": "should all vaccines for all diseases be mandatory?",
+  "key_points": {
+    "clueweb22-en0033-59-17315": [
+      {
+        "point_number": 1,
+        "point_content": "Vaccines help reduce the risk of vaccine-preventable diseases and protect community health through herd immunity.",
+        "spans": [
+          "Most of us have the vaccines our doctors recommend, helping to reduce the risk that we – and those around us – will suffer vaccine-preventable diseases.",
+          "If enough people in a community are vaccinated, ‘herd immunity’ can be achieved. This makes it very difficult for infectious diseases to spread because a significant majority of people are protected."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Opting out of vaccines can affect the health of the community by allowing the spread of infectious diseases.",
+        "spans": [
+          "With vaccines, the health of your community could be affected. You might catch – and spread – infectious diseases at school, in the workplace or in public places."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Regulations encouraging vaccination are useful, but absolute mandates go too far; exemptions should exist but be harder to get than vaccines.",
+        "spans": [
+          "Dr Julie Leask of the University of Sydney, says regulation is useful but that absolute mandates go too far. “We need requirements that encourage parents to get their children fully vaccinated,” she says. “But there need to be exemptions for people that don’t vaccinate. It should be harder to get an exemption than to get a vaccine.”"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Hard-to-get exemptions and removing barriers to vaccination are important components of effective vaccination policies.",
+        "spans": [
+          "Regulations work, she notes, and help to push the vaccination rates up. However, hard-to-get exemptions are an important component of ‘firm but fair’ policies. Removing other barriers to vaccination, educating health providers and providing strong information systems are also vital pieces of the puzzle."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Mandates should be used as nudges with exceptions that are more difficult to secure than the vaccine itself, balancing individual autonomy and community benefit.",
+        "spans": [
+          "Professor Saad Omer, Emory University, takes a similar view. Mandates should, he believes, be used as ‘nudges’. There should be exceptions for those with strong objections but these must be more difficult to secure than the vaccine itself.",
+          "From an ethical perspective, this is the most defendable option, according to Professor Omer: “That strikes the balance between individual autonomy and the community benefit of vaccines.”"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "In individualistic cultures, the concept of community immunity is less meaningful, making voluntary vaccination less effective.",
+        "spans": [
+          "Dr Katie Attwell, Murdoch University in Australia, explains why the concept of ‘community immunity’ lacks meaning for people in an individualistic culture.",
+          "“The concept of doing things for others has started to break down with the advent of neoliberal ideology, the cult of the individual, and with the idea that if we make decisions about our lives to benefit ourselves we are rewarded,” she says. “It’s very hard to then make claims that when it comes to vaccination you should be looking after other people.”"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Some vaccine refusers do not believe in vaccines or herd immunity and do not see themselves as benefiting from others' vaccination.",
+        "spans": [
+          "“Some parents would not see themselves as free-riders benefitting from other people’s decisions to vaccinate,” she explains. “They don’t see that vaccines work, and that what others are doing impacts on their health and wellbeing.”"
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "If persuasion and accessibility fail to achieve sufficient vaccination rates, more coercive options, including mandates, may be necessary to prevent disease outbreaks.",
+        "spans": [
+          "Dr Attwell says it’s time to look at all “tools in the toolbox”. These include persuasion, appealing to people’s values, and ensuring vaccines are accessible.",
+          "If all of this is in place and vaccination rates are too low, it may become necessary to consider more “coercive” options. The alternative would be to facilitate outbreaks of disease."
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0024-51-05028": [
+      {
+        "point_number": 1,
+        "point_content": "Vaccines are like a seat belt against infectious diseases, and that vaccination mandates are justified for the same reasons seat belt mandates are.",
+        "spans": [
+          "Vaccines are like a seat belt against infectious diseases, and that vaccination mandates are justified for the same reasons seat belt mandates are."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "If you fail to vaccinate yourself or your children there is a much larger risk of harming other people who are not vaccinated, besides imposing an easily preventable risk on you and your children.",
+        "spans": [
+          "But if you fail to vaccinate yourself or your children there is a much larger risk of harming other people who are not vaccinated (for example those who are immunosuppressed, young children or those whose immunity has waned over time), besides imposing an easily preventable risk on you and your children."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Vaccines might entail some small risks, but these are very rare and not a good enough reason against mandatory vaccination.",
+        "spans": [
+          "Vaccines might entail some small risks.",
+          "If the very small risks of seat belts are not a good enough reason against seat belt requirements, then the very small risks of vaccines are not a good enough reason against mandatory vaccination."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Seat belt mandates are widely supported despite small risks because they save many lives, similarly vaccines save many lives despite very small risks.",
+        "spans": [
+          "And yet, the vast majority of people support seat belt mandates and eagerly buckle up these days.",
+          "Wearing seat belts has become not only a legal requirement, but also a social norm in the vast majority of countries.",
+          "And this is how it should be, because seat belts do save many lives. As vaccines do, in spite of very small risks, in both cases."
+        ]
+      }
+    ],
+    "clueweb22-en0018-80-17545": [
+      {
+        "point_number": 1,
+        "point_content": "Vaccination rates for children in England have fallen, leading to debate about making vaccinations compulsory before school entry.",
+        "spans": [
+          "Falling vaccination rates for children in England have refuelled the debate over whether jabs should be compulsory for youngsters before they are allowed into schools."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The Health and Social Care Secretary is considering compulsory vaccination and has received advice on implementation.",
+        "spans": [
+          "The Health and Social Care Secretary Matt Hancock says he is \"looking very seriously\" at going down that route.",
+          "He has said repeatedly in recent months he is not ruling out compulsion.",
+          "And he told a Conservative conference fringe meeting he had received advice from officials about how the policy might be implemented."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Vaccination rates for MMR have fallen below the herd immunity threshold, leading to loss of measles-free status in the UK.",
+        "spans": [
+          "The case for the change in policy is based on increasing official concern about falling take-up over the past five years of the measles, mumps and rubella vaccine (MMR).",
+          "In England, the vaccination rate for the first dose, usually taken round the time of a child's first birthday, fell to 90.3% in 2018-19.",
+          "So-called \"herd immunity\", when the disease does not spread, is achieved when uptake is at 95%.",
+          "Recently, the UK lost the measles-free status designated by the World Health Organization."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Vaccination rates have declined for all 13 diseases covered in children's jabs, with social media blamed for spreading anti-vaccine messages.",
+        "spans": [
+          "And there has been a marked decline in vaccination rates for all 13 diseases covered in jabs for children.",
+          "Social media has been blamed for spreading anti-vaccine messages and generating concern among parents."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Some countries have made certain vaccinations mandatory for schoolchildren, and studies show compulsory vaccination policies increase immunisation rates.",
+        "spans": [
+          "The measles jabs are now or are about to be mandatory in France, Germany and Italy for children attending schools.",
+          "The US and Australia are among other countries where vaccinations against different diseases are compulsory for schoolchildren.",
+          "A study in BMC Medicine, in May 2019, into measles-immunisation policies in seven different healthcare systems said: \"Recent policies aimed at increasing childhood immunisation rates through the introduction of compulsory vaccination are certainly producing positive effects, by raising the proportion of children protected against measles.\""
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Some health experts oppose compulsory vaccination, citing increased controversy and potential negative consequences.",
+        "spans": [
+          "But some in the health and medical worlds have come out against compulsion as the right direction of travel for the UK.",
+          "They say the policy in Australia and Italy has inflamed anti-vaccine campaigners and generated more controversy.",
+          "British Society for Immunology chief executive Dr Doug Brown said there was more scope for public information campaigns and better delivery of immunisation in local communities.",
+          "\"To make this compulsory in the UK, there are concerns that it could increase current health inequities and alienate parents with questions on vaccination,\" he said.",
+          "\"There are also major doubts about how such a policy could be implemented and monitored and risks resulting in unintended consequences as well as a loss of public confidence in vaccines.\"",
+          "The Royal Society for Public Health has similar reservations.",
+          "Chief executive Shirley Cramer welcomed Mr Hancock's willingness to keep all options on the table but added: \"Compulsory vaccination should be a last resort.",
+          "There are many other effective approaches to improving the uptake that should be considered.\""
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Alternative approaches to compulsory vaccination include targeted catch-up programmes, better reminders, and focusing on low-uptake areas.",
+        "spans": [
+          "These could include:",
+          "targeted catch-up programmes for those who had missed out on jabs",
+          "better reminders for parents when vaccinations were due",
+          "focusing efforts on areas where vaccination rates were particularly low"
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Vaccination rates vary regionally, with some areas already achieving herd immunity levels, complicating a UK-wide compulsion policy.",
+        "spans": [
+          "A UK-wide compulsion policy might also be hard to justify.",
+          "Scotland and Northern Ireland have already achieved a 95% take-up for the MMR vaccine.",
+          "And there are regional variations within England. The vaccination rate in the North East was 94.5% in 2018-19, while in London it was just 83%."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Enforcing compulsory vaccination in schools would be complex, requiring bureaucracy and respecting religious objections.",
+        "spans": [
+          "Enforcing compulsion at schools would also be far from straightforward. Another layer of bureaucracy would have to be set up. Religious objections would have to be respected."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Libertarian arguments exist against compulsory vaccination as state intervention in family life.",
+        "spans": [
+          "There are also libertarian arguments to consider. Some will argue this would be a step too far for state intervention in family life."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Other European healthcare systems have implemented compulsory vaccination policies, showing feasibility if politically desired.",
+        "spans": [
+          "But the experience of other leading healthcare systems in Europe suggests implementation is feasible, if that is what elected politicians want to pursue."
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "UK officials are preparing groundwork for mandatory vaccination policy, but no decision is inevitable yet.",
+        "spans": [
+          "Department of Health and Social Care officials and lawyers are doing the groundwork on a mandatory vaccination policy.  Although, that certainly does not imply any inevitability."
+        ]
+      },
+      {
+        "point_number": 13,
+        "point_content": "If measles cases continue to rise, a major shift towards compulsory vaccination policy may become more likely.",
+        "spans": [
+          "And if measles cases keep rising, a major shift in health policy will edge nearer reality."
+        ]
+      }
+    ],
+    "clueweb22-en0009-28-15944": [
+      {
+        "point_number": 1,
+        "point_content": "Vaccines have been proven to make people immune to serious diseases.",
+        "spans": [
+          "Vaccines have been proven to make people immune to serious diseases (Childhood Immunization)."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "By being vaccinated the person is not only helping themselves but others around them too.",
+        "spans": [
+          "By being vaccinated the person is not only helping themselves but others around them too."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Vaccines are an important tool for preventing disease and should be mandatory for all people.",
+        "spans": [
+          "Vaccines are an important tool for preventing disease and should be mandatory for all people."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Childhood vaccines protect children from a variety of serious or possibly fatal diseases, including diphtheria, measles, meningitis, polio, tetanus, and whooping cough.",
+        "spans": [
+          "Childhood vaccines protect children from a variety of serious or possibly fatal diseases, including diphtheria, measles, meningitis, polio, tetanus, and whooping cough (Clinic Staff)."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "By vaccinating children against diseases it helps children grow into strong healthy adults.",
+        "spans": [
+          "By vaccinating children against diseases it helps children grow into strong healthy adults."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Children need vaccines as they grow up to keep them stay healthy.",
+        "spans": [
+          "Children need vaccines as they grow up to keep them stay healthy."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Children have to get certain vaccines before they may attend school.",
+        "spans": [
+          "Children have to get certain vaccines before they may attend school (Childhood Immunization)."
+        ]
+      }
+    ],
+    "clueweb22-en0013-22-14796": [
+      {
+        "point_number": 1,
+        "point_content": "Vaccination for Covid-19 is voluntary as per the Union Ministry of Health and Family Welfare.",
+        "spans": [
+          "Vaccination for Covid-19 is voluntary."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Mandatory vaccination policies assume equitable vaccine availability, which is not the current reality due to shortages and access disparities.",
+        "spans": [
+          "Any mandatory measure to administer vaccines rests on the assumption that vaccine availability is ensured for all on an equitable basis.",
+          "Several states have already announced that the vaccination drives for the 18-45 age category, which was to be started on May 1, will be delayed due to a vaccine shortage.",
+          "While registration started on the COWIN portal on 28th April, there seems to be no slot available for people in the age category of 18-45 years in most states.",
+          "Several state governments have announced free vaccination for all in the age category of 18-45, while many still have not.",
+          "The prices fixed for private hospitals in India are also high."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Mandatory vaccination policies will disproportionately affect poor and marginalized communities due to access challenges.",
+        "spans": [
+          "Challenges in accessing healthcare will be faced more by the marginalised and vulnerable communities.",
+          "Thus, a mandatory vaccination policy will further the gaps and inequalities in society and disproportionately affect the poor and marginalised communities."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Making vaccination mandatory violates individual autonomy and the right to informed consent under Article 21 of the Indian Constitution.",
+        "spans": [
+          "Consent becomes valid when the person is competent to consent, and it is informed consent.",
+          "In medical jurisprudence, informed consent of the patient is essential for any decision.",
+          "This right to informed consent is part of individual liberty and autonomy.",
+          "The principle of individual autonomy is enshrined within the right to life and personal liberty under Article 21 of the Indian Constitution.",
+          "Making vaccination mandatory will thereby be depriving them of their fundamental right to life.",
+          "Moreover by forcing citizens to be vaccinated through coercive measures, the state is depriving them of their right to decisional and bodily autonomy, which constitutes a violation of their right to privacy as well (Justice K. S. Puttaswamy (Retd.) and Anr. vs Union Of India And Ors. 2017 10 S.C.C. 1)."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "There is insufficient data on vaccine risks and effectiveness duration, making informed consent and mandatory vaccination problematic.",
+        "spans": [
+          "There is a need to provide basic information about the vaccine risks to the patients or parents to make informed decisions.",
+          "When such data does not exist, and there are so many confusions among people, it is challenging for them to make an informed choice, thereby depriving them of their fundamental right under Article 21.",
+          "With no clarity regarding the period of the effectiveness of the vaccine or its effectiveness against the new mutants, denial of entitlements and rights based on mandatory vaccination requirements should be held illegal."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Vaccination will take years to cover the entire population, and booster doses may be required, complicating mandatory vaccination policies.",
+        "spans": [
+          "After analysing the current speed of vaccination, various studies have suggested that it would take years to vaccinate the entire Indian population.",
+          "According to the present vaccination and population data, it has been calculated that we would be able to vaccinate 100 per cent of our population with both doses in a minimum of 4 years (calculation based on India’s population as per NSO’s second advance estimate for FY21 & vaccination data from MoHFW till 30th April 2021).",
+          "Other reports suggest that we would get a maximum of 30 per cent of the population vaccinated by the end of 2021.",
+          "Recently, Bharat Biotech received permission to test if giving a third dose of Covaxin to participants of clinical trials, six months after the second dose, would boost the body’s immunity for a more extended period.",
+          "This would either make the duration of the vaccination process even longer, or it would mean that a regular dose to boost immunity is the key to reducing the disease’s risk."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Current vaccines primarily protect individuals from severe disease and death, not necessarily from infection or transmission, so vaccination should be a personal choice.",
+        "spans": [
+          "According to Sandhya Shrinivasan, the idea of penalising anti-vaxxers of Covid-19 stems from the belief that the vaccination will protect others and not getting one will put others at risk.",
+          "She clarified that the current vaccine has only been tested for its ability to prevent disease and not infection.",
+          "According to Sandhya, “the primary objective of the vaccine is to protect the individuals against severe diseases or death”.",
+          "Therefore, the vaccine is for the protection of the individual taking the vaccine.",
+          "The studies are yet to show if it will lead to population immunity if administered on sufficient population proportion.",
+          "In such a situation, vaccination should be made a personal choice."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "International bodies like WHO disapprove of mandatory vaccination measures, emphasizing balance between individual autonomy and public health.",
+        "spans": [
+          "International bodies like the World Health Organisation have disapproved of mandatory vaccination measures.",
+          "While it is crucial to strike a balance between individual autonomy and public health, such ethical negotiations cannot occur when there are considerable obstacles in accessing healthcare and requisite information."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Coercive vaccination measures may create panic and fail to increase vaccine uptake; government should focus on awareness and accessibility.",
+        "spans": [
+          "With so many fears and uncertainties looming, a coercive measure to administer the vaccines will only create further panic and fail to increase its uptake.",
+          "The government should utilise this time to create awareness and remove misinformation on the vaccination processes to facilitate its administration organically.",
+          "Accessibility of vaccines is a state duty, and if they falter on it, then no citizen should be punished for the same."
+        ]
+      }
+    ],
+    "clueweb22-en0034-75-08648": [
+      {
+        "point_number": 1,
+        "point_content": "The United States has effective vaccine mandates that maintain high immunization rates and keep disease rates low.",
+        "spans": [
+          "The United States has a tapestry of school-entry vaccine requirements that work. These requirements, based in state laws, have contributed to maintaining high immunization rates and keeping rates of vaccine noncompliance low… Mandates have played a key role in keeping disease rates low."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Allowing multiple non-medical exemptions to vaccines worsens vaccine refusal and leads to more outbreaks.",
+        "spans": [
+          "The rate of parents claiming non-medical exemptions to vaccines is 2.5 times higher in states that allow both religious and philosophical exemptions compared to religious exemptions alone – evidence that allowing multiple pathways to exemption worsens this problem… Vaccine refusal is one of the growing public health threats of our time. If we continue to allow non-medical exemptions to vaccination, rates of vaccination will continue to fall and more outbreaks will undoubtedly follow."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Childhood vaccines are mandated to ensure a safe and healthy environment for education and to prevent diseases.",
+        "spans": [
+          "The state [Texas] mandates childhood vaccines for enrollment in our schools because all children should have the opportunity to be educated in a safe and healthy environment."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Public health and safety justify vaccination mandates despite individual rights.",
+        "spans": [
+          "Although I strongly believe in individual rights and the rights of parents to raise their children as they see fit, I also recognize that public health and public safety are extremely important in our society… Certain communicable diseases have been largely eradicated by immunization policies in this country and we should not allow those diseases to return by foregoing safe immunization programs, for philosophical, religious or other reasons when we have the means to eradicate them."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Refusing vaccination without medical reasons is unfair and dangerous to vulnerable populations and eliminating personal belief exemptions will save lives.",
+        "spans": [
+          "Refusing vaccination for reasons other than a serious medical condition is unfair and dangerous to those who can’t protect themselves. Those who remain unvaccinated pose a great risk to many, including: all children under 1 year old who are too young to be vaccination, older adults who don’t know their immunity has lapsed and others with impaired immune systems… Eliminating personal belief exemptions will prevent suffering and save lives. It is the right thing to do."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Vaccines protect individuals and communities; exemptions should be limited to protect those who cannot be vaccinated.",
+        "spans": [
+          "Vaccines work by protecting individuals, but their strength really lies in the ability to protect one’s neighbors. When there are not enough people within a community who are immunized, we are all at risk. Personal and religious belief exemptions should be curtailed because some people, whether because of age or compromised immune systems, cannot receive vaccines. They depend on those around them to be protected."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "All children should be vaccinated before attending school, except for medical exemptions.",
+        "spans": [
+          "Absolutely, all children in America should be vaccinated. Unless their immune (system is) suppressed, obviously, for medical exemptions, but I believe that all children, as is the law in most states in this country, before they can attend school, have to be vaccinated for a certain panel."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Philosophical or personal belief exemptions should not exist because unvaccinated children endanger others in public spaces.",
+        "spans": [
+          "While a small number of children cannot be vaccinated due to an underlying medical condition, we believe there should be no such thing as a philosophical or personal belief exemption, since everyone uses public spaces. As we have learned in the past month, parents who refuse to vaccinate their children not only put their own family at risk, but they also endanger other families who choose to vaccinate."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Vaccinations should be mandatory for all children except for medical contraindications, which should be granted only by a physician.",
+        "spans": [
+          "Basic childhood vaccines should be the legal requirement of every citizen in this country, except in the case of medical contraindications. However, those exclusions should only be granted by a physician or health care provider."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Parents do not have the right to send unvaccinated children to public schools as it puts other children at risk.",
+        "spans": [
+          "I eventually came to the conclusion that a parent does not have the right to have their child in a public school if that child is unvaccinated, and for the same reason health care workers should not be unvaccinated. It all comes down to a very simple reality: It puts other children at risk."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Vaccine mandates save lives and are comparable to other public health laws that limit individual freedoms for safety.",
+        "spans": [
+          "When it comes to issues of public health and safety we invariably have laws. Many of these laws are strictly enforced and immutable. For example, we don’t allow philosophical exemptions to restraining young children in car seats or smoking in restaurants or stopping at stop signs. And the notion of requiring vaccines for school entry, while it seems to tear at the very heart of a country founded on the basis of individual rights and freedoms, saves lives."
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "Some vaccines for non-lethal diseases may not be appropriate to mandate, and government coercion is not favored.",
+        "spans": [
+          "[M]any governments have taken to mandating a whole host of vaccines, including vaccines for non-lethal diseases. Sometimes these vaccine mandates have run amok as when the government mandated a rotavirus vaccine that was later recalled because it was causing intestinal blockage in children. I’m not a fan of government coercion, yet, given the choice, I do believe the benefits of most vaccines vastly outweigh the risks…"
+        ]
+      },
+      {
+        "point_number": 13,
+        "point_content": "Patients have the right to reject or accept medical procedures including vaccines after being informed of risks and benefits.",
+        "spans": [
+          "After being fully informed of the risks and benefits of a medical procedure, patients have the right to reject or accept that procedure…"
+        ]
+      },
+      {
+        "point_number": 14,
+        "point_content": "Forced vaccination may not solve problems like measles outbreaks; better public health measures and safer vaccines are needed.",
+        "spans": [
+          "Measles is a vexing problem, and more complete, forced vaccination will likely not solve it. Better public health measures—earlier detection, contact tracing, and isolation; a more effective, safer vaccine; or an effective treatment are all needed."
+        ]
+      },
+      {
+        "point_number": 15,
+        "point_content": "Vaccination is a government program that has grown out of control and parents should have the fundamental right to make medical decisions for their children.",
+        "spans": [
+          "Vaccination is a one-size-fits-all GOVERNMENT PROGRAM that has grown out of control. Our children receive 49 doses of 15 vaccines before kindergarten! Children received just 10-12 vaccines during a lifetime in the 1980s. The current vaccine schedule has never once been tested as it is administered to our children… We are not asking the state to decide if shots are good or bad or safe or unsafe. We are asking those of you who represent the people of Mississippi to restore our fundamental parental right to make medical decisions for our own children."
+        ]
+      },
+      {
+        "point_number": 16,
+        "point_content": "Children have the right to get infections and immune systems need to be exposed to viruses; vaccines sterilize society unnaturally.",
+        "spans": [
+          "Our children have the right to get infections. We have immune systems for that purpose… These are typically benign childhood conditions. We cannot sterilize the body [with vaccines]. We cannot sterilize our society. We need to be affected by these viruses… and we can treat it all naturally."
+        ]
+      },
+      {
+        "point_number": 17,
+        "point_content": "No person should be forced by government or societal pressure to receive vaccines against their will.",
+        "spans": [
+          "No person should be forced by government regulation or societal pressure to receive any medication or treatment, including vaccines, against his or her will. This includes mandated vaccines as a requirement for public school admission or for employment eligibility."
+        ]
+      },
+      {
+        "point_number": 18,
+        "point_content": "Parents should have the right to make health care choices for their children and not be forced to vaccinate if they strongly oppose it.",
+        "spans": [
+          "But in my opinion parents SHOULD have the right to make health care choices for their children. They should not be forced into vaccinating if they feel strongly against it."
+        ]
+      },
+      {
+        "point_number": 19,
+        "point_content": "Vaccines are not legally required for school entry in all states and parents have legal exemptions to mandatory injections.",
+        "spans": [
+          "Vaccines are not legally required for your child to enter school. Each state offers legal exemptions to ‘mandatory’ injections."
+        ]
+      },
+      {
+        "point_number": 20,
+        "point_content": "In free democracies, there are usually provisions for conscientious objections to immunization programs.",
+        "spans": [
+          "Even where immunization is generally mandatory, in a free democracy, there has almost always been the provision for parents with conscientious objections to withhold their children from the immunization program."
+        ]
+      },
+      {
+        "point_number": 21,
+        "point_content": "Parents should be given time and opportunity to discuss vaccine safety concerns with health professionals rather than being coerced.",
+        "spans": [
+          "Parents who are hesitating about their vaccine decision because of concerns over vaccine safety may change their minds if given time and an opportunity to discuss their concerns with a well-informed health professional."
+        ]
+      },
+      {
+        "point_number": 22,
+        "point_content": "Parents have the right to make their own decisions about vaccinating their children and should not be forced.",
+        "spans": [
+          "In America we believe parents are capable of making their own decisions about their children’s health. We believe in freedom of choice. This freedom of choice extends to when — and even whether— parents vaccinate their kids."
+        ]
+      },
+      {
+        "point_number": 23,
+        "point_content": "No one has the right or power to immunize individuals against their will and there are legal exceptions to compulsory immunization laws.",
+        "spans": [
+          "Nobody — anywhere or anytime or under any circumstances — has the right or power in this country to immunize you or your children against your will and conviction. Into every compulsory immunization law in America are written legal exceptions and waivers."
+        ]
+      },
+      {
+        "point_number": 24,
+        "point_content": "People should have the legal right to make educated vaccine decisions and not be forced to accept one-size-fits-all mandates.",
+        "spans": [
+          "We are standing publicly for the legal right to follow our conscience when making educated vaccine decisions for our families. Among us are parents with healthy children and those with children who have been hurt by one-size-fits-all vaccine mandates that ignore the genetic and biological differences which make some people more vulnerable than others for having severe reactions to prescription drugs and vaccines. No American should be legally forced to play vaccine roulette with a child’s life…"
+        ]
+      }
+    ],
+    "clueweb22-en0017-22-03053": [
+      {
+        "point_number": 1,
+        "point_content": "Mandatory vaccination is something that’s long been debated.",
+        "spans": [
+          "Mandatory vaccination is something that’s long been debated."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Legislation has had a dramatic effect in other areas of public health and safety, so why not do the same with immunisation.",
+        "spans": [
+          "legislation has had a dramatic effect in other areas of public health and safety (such as the indoor smoking ban, and use of seatbelts) so why not do the same with immunisation"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "There is a lack of evidence that mandatory vaccination actually helps to increase uptake.",
+        "spans": [
+          "there is a lack of evidence that mandatory vaccination actually helps to increase uptake."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Vaccination is one of the most effective public health interventions in the world for saving lives and promoting good health.",
+        "spans": [
+          "Vaccination is one of the most effective public health interventions in the world for saving lives and promoting good health."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Uptake of vaccines has reduced in some countries partly due to misguided concerns over vaccine safety.",
+        "spans": [
+          "uptake of vaccines has reduced in some countries and this is thought to be partly caused by misguided concerns over vaccine safety."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "When vaccination rates decline, we start to see a resurgence of infectious diseases.",
+        "spans": [
+          "When vaccination rates decline, we start to see a resurgence of infectious diseases."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Some countries are choosing to make vaccination mandatory, but the effectiveness varies.",
+        "spans": [
+          "some countries are choosing to make vaccination mandatory. However, the effectiveness of this approach varies in countries which have already implemented it."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "In the US, vaccination is mandatory for children over five to attend public schools, with exemptions allowed on medical, religious, and some philosophical grounds.",
+        "spans": [
+          "In all 50 US states it is mandatory for children over five to receive vaccinations prior to enrolment in state licensed public schools, and often private schools or day care facilities. All states have exemptions on medical grounds, almost all states grant religious exemptions and only a few states allow philosophical exemptions for those who object to immunisations because of personal, moral or other beliefs."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Rates of exemptions have increased, leading to clusters of unvaccinated communities at greater risk for disease outbreaks.",
+        "spans": [
+          "Rates of exemptions have increased in recent years and studies have shown that vaccine exemptions tend to cluster geographically, leaving some communities at greater risk for disease outbreaks."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Some parents delay vaccinating their children until they start school, which is not ideal because babies are more vulnerable early in life.",
+        "spans": [
+          "some parents delay vaccinating their children until they start school. This is not ideal because babies are much more vulnerable to the diseases for which vaccines are scheduled in the first year of life."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "In US states with the strictest laws, rates of whooping cough and measles are significantly lower, suggesting stricter laws may be more effective.",
+        "spans": [
+          "In US states with the strictest laws, the rates of whooping cough and measles are significantly lower, which suggests that if exemptions are harder to come by then mandatory vaccination may be more effective."
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "In Australia, removing exemptions led to more children meeting immunisation requirements.",
+        "spans": [
+          "In Australia a requirement for children to meet immunisation schedules has for a long time been attached to childcare payments. In an attempt to further improve vaccination rates, exemptions were removed as of January 2016. Six months later it was reported that more than 148,000 children who had not been up to date with their immunisations met their requirements as a result."
+        ]
+      },
+      {
+        "point_number": 13,
+        "point_content": "Making vaccination compulsory is not the only way to obtain high vaccination rates; the UK has high uptake without mandatory vaccination.",
+        "spans": [
+          "Making vaccination compulsory is not the only way to obtain high vaccination rates. The UK has held an enviably high uptake rate for many years with the vast majority of parents choosing to vaccinate their children."
+        ]
+      },
+      {
+        "point_number": 14,
+        "point_content": "Talking through concerns with a trusted health professional and making vaccines easy to access can improve uptake among hesitant parents.",
+        "spans": [
+          "Research into how to further improve uptake rates amongst vaccine hesitant parents suggests that talking concerns through with a trusted health professional is beneficial. Additionally, practical issues such as making sure that vaccines and health care are easy to access is essential."
+        ]
+      },
+      {
+        "point_number": 15,
+        "point_content": "Many families who don't vaccinate are not averse to it but have difficulty getting convenient appointments or don’t get reminders.",
+        "spans": [
+          "Many families who don't vaccinate are not averse to it but simply have difficulty getting convenient appointments or don’t get reminders when their children are due vaccines."
+        ]
+      },
+      {
+        "point_number": 16,
+        "point_content": "Meningitis and septicaemia are deadly diseases that vaccination can prevent.",
+        "spans": [
+          "meningitis and septicaemia are deadly diseases that strike without warning, and vaccination has proved to be the only way to prevent it."
+        ]
+      },
+      {
+        "point_number": 17,
+        "point_content": "Whether mandatory vaccination is the best way to achieve high uptake remains under debate.",
+        "spans": [
+          "Whether mandatory vaccination is the best way to achieve high uptake of vaccines remains under debate."
+        ]
+      }
+    ]
+  }
+}

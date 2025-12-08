@@ -1,0 +1,144 @@
+{
+  "question": "how can medicaid be improved while delivering cost effectiveness",
+  "key_points": {
+    "null": [],
+    "clueweb22-en0011-93-04220": [
+      {
+        "point_number": 1,
+        "point_content": "The 6|18 Initiative provides a shared focus on evidence-based interventions and preventive services that can improve health and control costs in Medicaid.",
+        "spans": [
+          "The 6|18 Initiative was developed by the Centers for Disease Control and Prevention (CDC) to better link the health care sector, particularly payers like Medicaid, and public health sectors. It provides a shared focus on evidence-based interventions and preventive services that can improve health and control costs."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Medicaid beneficiaries often have chronic conditions that are costly to treat, and better coordinated care and evidence-based approaches can benefit both beneficiaries and state budgets.",
+        "spans": [
+          "Medicaid clients are more likely than privately insured individuals to have chronic conditions. 4 With chronic conditions being among the costliest to treat and manage, Medicaid beneficiaries and state budgets may benefit from better coordinated care and evidence-based approaches to services."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The 6|18 Initiative targets six common chronic conditions with 18 evidence-based interventions to prevent and manage these conditions, aiming for health and cost impact in a short period.",
+        "spans": [
+          "The 6|18 Initiative was developed to provide health care purchasers, payers and providers with rigorous evidence about high-burden health conditions and the associated evidence-based, practical strategies that have the greatest health and cost impact in a short period of time. 5 The name “6|18” comes from the focus on six common, preventable health conditions and 18 evidence-based interventions to prevent and manage these conditions."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Comprehensive coverage of tobacco cessation benefits with minimal out-of-pocket cost is a proven strategy to help Medicaid beneficiaries quit tobacco use and reduce costs.",
+        "spans": [
+          "Comprehensive coverage of cessation benefits with minimal out-of-pocket cost is identified by CDC as a proven strategy for helping people quit using tobacco."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Evidence-based strategies to reduce tobacco use include increasing access to cessation treatments, removing barriers like cost-sharing and prior authorization, and promoting use of covered benefits.",
+        "spans": [
+          "Increase access to evidence-based tobacco cessation treatments, including individual, group and telephone counseling, and Food and Drug Administration (FDA)-approved cessation medications.",
+          "Remove barriers that impede access to covered cessation treatments, such as cost-sharing and prior authorization.",
+          "Promote increased use of covered treatment benefits by tobacco users."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Self-measured blood pressure monitoring and simplifying treatment regimens can improve control of high blood pressure among Medicaid beneficiaries.",
+        "spans": [
+          "One key strategy identified by CDC for controlling high blood pressure is self-measured blood pressure (SMBP) monitoring.",
+          "Simplifying the treatment regimen and minimizing out-of-pocket costs can also help."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Evidence-based strategies for controlling high blood pressure include improving medication adherence through low-cost copayments, fixed-dose combinations, extended refills, innovative packaging, care coordination, and providing home blood pressure monitors.",
+        "spans": [
+          "Implement strategies that improve adherence to anti-hypertensive and lipid-lowering prescription medications via expanded access to: Low-cost medication copayments, fixed dose medication combinations and extended medication refills.",
+          "Innovative pharmacy packaging (e.g., calendar blister packs).",
+          "Improved care coordination within networked primary care teams using standardized protocols, medication therapy management programs, and self-monitoring of blood pressure with clinical support.",
+          "Provide home blood pressure monitors to patients with high blood pressure and reimburse the clinical support services required for self-measured blood pressure monitoring."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Antibiotic Stewardship Programs (ASPs) in hospitals improve antibiotic use, reduce resistance, and are now required for hospitals participating in Medicare and Medicaid.",
+        "spans": [
+          "A growing body of evidence demonstrates that hospital-based programs dedicated to improving antibiotic use, commonly referred to as “Antibiotic Stewardship Programs” (ASPs), can optimize the treatment of infections and reduce adverse events associated with antibiotic use.",
+          "Through the 6|18 Initiative, the CDC worked with CMS as it modified the conditions of participation for hospitals in both Medicaid and Medicare to require the adoption of ASPs.",
+          "The initial rule, proposed in June 2016, became effective in November 2019, requiring all hospitals participating in the Medicare and Medicaid programs to adopt ASPs."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Evidence-based strategies for improving antibiotic use include requiring ASPs in hospitals and nursing facilities and incentivizing outpatient providers to follow stewardship guidelines.",
+        "spans": [
+          "Require antibiotic stewardship programs in all hospitals and skilled nursing facilities, in alignment with CDC’s “ Core Elements of Hospital Antibiotic Stewardship ” and “ The Core Elements of Antibiotic Stewardship for Nursing Homes. ”",
+          "Improve outpatient antibiotic prescribing by incentivizing providers to follow CDC’s “ Core Elements of Outpatient Antibiotic Stewardship. ”"
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Using National Asthma Education and Prevention Program (NAEPP) Guidelines and expanding access to asthma self-management education and home visits can improve asthma control and reduce costs in Medicaid.",
+        "spans": [
+          "Use the National Asthma Education and Prevention Program (NAEPP Guidelines) as clinical practice guidelines.",
+          "Expand access to intensive self-management education by licensed professionals or qualified lay health workers for patients whose asthma is not well-controlled by medical management.",
+          "Expand access to home visits by licensed professionals or qualified lay health workers to provide intensive self-management education and reduce home asthma triggers for patients whose asthma is not well-controlled with medical management and self-management education."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Providing comprehensive coverage of asthma management services in Medicaid can lead to cost savings and improved health outcomes.",
+        "spans": [
+          "But there is the potential for cost savings and improved health outcomes within the Medicaid program by providing comprehensive coverage."
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "Increasing access to the full range of contraceptive options, especially long-acting reversible contraception (LARC), reduces unintended pregnancies and costs in Medicaid.",
+        "spans": [
+          "Providing access to the full range of contraceptive options is a key 6|18 strategy, with a particular focus on increased use of long-acting reversible contraception (LARC) as a proven strategy to reduce costs and unintended pregnancies."
+        ]
+      },
+      {
+        "point_number": 13,
+        "point_content": "Unbundling payment for LARC from other postpartum services incentivizes providers to provide LARC insertion during care, increasing use and reducing costs.",
+        "spans": [
+          "The Colorado Medicaid program also worked to unbundle payment for LARC from other services to further increase LARC use in the state.",
+          "Unbundling payments provides an incentive for providers to provide LARC insertion while the beneficiary is already in their care, avoiding the need for a subsequent appointment."
+        ]
+      },
+      {
+        "point_number": 14,
+        "point_content": "Evidence-based strategies for preventing unintended pregnancies include reimbursing providers for full contraceptive services and methods, unbundling LARC payment, and removing administrative barriers.",
+        "spans": [
+          "Reimburse providers for the full range of contraceptive services (e.g., screening for pregnancy intention; tiered contraception counseling; insertion, removal, replacement or reinsertion of contraceptive devices, and follow-up) for women of childbearing age.",
+          "Reimburse providers for the actual cost of FDA-approved contraceptive methods.",
+          "Unbundle payment for long-acting reversible contraceptives (LARC) from other postpartum services.",
+          "Remove administrative and logistical barriers to receipt of contraceptive services (e.g., pre-approval step therapy restriction, barriers to high acquisition and stocking costs)."
+        ]
+      },
+      {
+        "point_number": 15,
+        "point_content": "Expanding access to the National Diabetes Prevention Program (National DPP) lifestyle change program through Medicaid can prevent or delay type 2 diabetes and reduce costs.",
+        "spans": [
+          "The 6|18 initiative promotes expanding access to the National DPP lifestyle change program as the most effective evidence-based approach to diabetes prevention.",
+          "Expand access to the National Diabetes Prevention Program (the National DPP) lifestyle change program for preventing type 2 diabetes, through Medicaid coverage of the program."
+        ]
+      },
+      {
+        "point_number": 16,
+        "point_content": "State examples show that collaboration between Medicaid and public health agencies, supported by the 6|18 Initiative, can improve coverage and use of evidence-based interventions, such as tobacco cessation and LARC.",
+        "spans": [
+          "Through the 6|18 Initiative, South Carolina’s Medicaid agency, the Department of Health and Human Services (DHHS), and its public health agency, the Department of Health and Environmental Control (DHEC), worked together to improve access to and use of tobacco cessation benefits for its Medicaid population.",
+          "New York focused on unintended pregnancies in its effort with the 6|18 Initiative. The New York State Department of Health’s Office of Health Insurance Programs (Medicaid agency) and the Division of Family Health (public health agency) worked to reduce the state’s unintended pregnancy rate by increasing access to and use of effective contraception, particularly LARC."
+        ]
+      },
+      {
+        "point_number": 17,
+        "point_content": "The 6|18 Initiative provides a framework and technical assistance for states to adopt proven cost-saving strategies in Medicaid programs to improve health outcomes and reduce costs.",
+        "spans": [
+          "The 6|18 Initiative’s practical strategies and technical assistance provide a framework for Medicaid benefit coverage and service delivery options to accelerate the adoption of these proven cost-saving strategies within Medicaid programs."
+        ]
+      }
+    ]
+  }
+}

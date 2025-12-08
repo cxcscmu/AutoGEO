@@ -1,0 +1,161 @@
+{
+  "question": "how does fiscal policy work",
+  "key_points": [
+    {
+      "point_number": 1,
+      "point_content": "Fiscal policy is the use of government spending and taxation to influence the economy, including managing spending and taxation levels to affect economic activity.",
+      "original_point_number": [
+        1,
+        2,
+        15,
+        28,
+        30
+      ]
+    },
+    {
+      "point_number": 2,
+      "point_content": "Fiscal policy influences macroeconomic variables such as inflation, consumer prices, economic growth, national income, GDP, unemployment, interest rates, and trade deficits.",
+      "original_point_number": [
+        4,
+        33
+      ]
+    },
+    {
+      "point_number": 3,
+      "point_content": "Fiscal policy changes can be driven by specific situations like crises or by broad agendas, with examples including the COVID relief programs and the 2017 Tax Cuts and Jobs Act (TCJA).",
+      "original_point_number": [
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    {
+      "point_number": 4,
+      "point_content": "Fiscal policy is generally categorized into three types based on its goal: Neutral (no intended influence), Expansionary (increase spending or decrease taxes to stimulate growth), and Contractionary (decrease spending or increase taxes to slow growth).",
+      "original_point_number": [
+        9,
+        10,
+        11,
+        12,
+        17
+      ]
+    },
+    {
+      "point_number": 5,
+      "point_content": "Expansionary fiscal policy involves increasing government spending and/or reducing taxes to stimulate economic growth and employment, especially during recessions, increasing aggregate demand and output.",
+      "original_point_number": [
+        11,
+        18,
+        21,
+        31,
+        39,
+        42
+      ]
+    },
+    {
+      "point_number": 6,
+      "point_content": "Contractionary fiscal policy involves decreasing government spending and/or increasing taxes to slow economic growth, control inflation, and pay down debt, especially during economic booms, decreasing aggregate demand.",
+      "original_point_number": [
+        12,
+        19,
+        22,
+        32,
+        40,
+        43
+      ]
+    },
+    {
+      "point_number": 7,
+      "point_content": "Fiscal policy affects aggregate demand by shifting the aggregate demand curve right (expansionary) or left (contractionary) through changes in government spending and taxation.",
+      "original_point_number": [
+        20,
+        41
+      ]
+    },
+    {
+      "point_number": 8,
+      "point_content": "In the US, fiscal policy responsibility is shared by the executive and legislative branches; the president requests a budget, but Congress controls government spending and taxation.",
+      "original_point_number": [
+        13,
+        14,
+        36
+      ]
+    },
+    {
+      "point_number": 9,
+      "point_content": "Fiscal policy is administered by government departments dealing with taxation and spending, while monetary policy, dealing with money supply and interest rates, is often administered by central banks; both are used to control the economy.",
+      "original_point_number": [
+        37,
+        38
+      ]
+    },
+    {
+      "point_number": 10,
+      "point_content": "Fiscal policy aims to stabilize the economy throughout the business cycle, promoting strong and sustainable growth, reducing poverty, and avoiding boom and bust cycles, often used alongside monetary policy.",
+      "original_point_number": [
+        29,
+        35,
+        44,
+        49,
+        50
+      ]
+    },
+    {
+      "point_number": 11,
+      "point_content": "Keynesian economics advocates counter-cyclical fiscal policies: running deficits during recessions (expansionary) and surpluses during booms (contractionary) to stabilize the economy.",
+      "original_point_number": [
+        23,
+        53
+      ]
+    },
+    {
+      "point_number": 12,
+      "point_content": "Fiscal policy impacts GDP through fiscal multipliers: government spending multiplier is larger than the tax multiplier because only part of tax cuts is consumed; initial spending increases income and consumption, further increasing GDP.",
+      "original_point_number": [
+        25,
+        26,
+        27
+      ]
+    },
+    {
+      "point_number": 13,
+      "point_content": "Fiscal policy effects can be limited by crowding out, where government spending replaces private sector output or raises interest rates, limiting investment.",
+      "original_point_number": [
+        24
+      ]
+    },
+    {
+      "point_number": 14,
+      "point_content": "Fine tuning fiscal policy involves making incremental changes to spending and taxation to maintain steady economic growth, but is difficult due to time lags, political costs, and forecasting challenges.",
+      "original_point_number": [
+        45,
+        46
+      ]
+    },
+    {
+      "point_number": 15,
+      "point_content": "Automatic fiscal stabilizers work automatically to moderate aggregate demand by changing tax revenues and government spending on benefits depending on economic conditions, while discretionary fiscal stabilizers are deliberate government actions to stabilize the economy.",
+      "original_point_number": [
+        47,
+        48,
+        56
+      ]
+    },
+    {
+      "point_number": 16,
+      "point_content": "Fiscal policy decisions determine whether a government will spend more or less than it receives, traditionally aiming for a balanced budget, but Keynesian theory supports deficit spending during downturns to stimulate the economy.",
+      "original_point_number": [
+        52,
+        54
+      ]
+    },
+    {
+      "point_number": 17,
+      "point_content": "Fiscal policy has evolved to smooth economic cycles, but political constraints and automatic stabilizers limit its effectiveness, especially as a tool against inflation.",
+      "original_point_number": [
+        55
+      ]
+    }
+  ]
+}

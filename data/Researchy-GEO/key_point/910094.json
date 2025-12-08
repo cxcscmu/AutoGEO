@@ -1,0 +1,131 @@
+{
+  "question": "how algorithms shape our world",
+  "key_points": {
+    "clueweb22-en0006-11-05033": [],
+    "clueweb22-en0027-77-08326": [
+      {
+        "point_number": 1,
+        "point_content": "The use of algorithms to filter and present information online is increasingly shaping our everyday experience of the real world.",
+        "spans": [
+          "The use of algorithms to filter and present information online is increasingly shaping our everyday experience of the real world"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Algorithms are central to how information and communication are located, retrieved and presented online, for example in Twitter follow recommendations, Facebook newsfeeds and suggested Google map directions.",
+        "spans": [
+          "Algorithms are central to how information and communication are located, retrieved and presented online, for example in Twitter follow recommendations, Facebook newsfeeds and suggested Google map directions."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Algorithms are not objective instructions but assume certain parameters and values, and are in constant flux, with changes made by both humans and machines.",
+        "spans": [
+          "However, they are not objective instructions but assume certain parameters and values, and are in constant flux, with changes made by both humans and machines."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Algorithms bring about particular ways of seeing the world, reproduce stereotypes, strengthen world views, restrict choices or open previously unidentified possibilities.",
+        "spans": [
+          "Embedded in complex amalgams of political, technical, cultural and social interactions, algorithms bring about particular ways of seeing the world, reproduce stereotypes, strengthen world views, restrict choices or open previously unidentified possibilities."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Algorithms are increasingly telling us what we should be seeing, for example, an algorithm that claims to spot beauty and tell you which selfies to delete implies we should trust technology more than ourselves to make aesthetic choices.",
+        "spans": [
+          "As well as shaping what we see online, algorithms are increasingly telling us what we should be seeing, the study argues.",
+          "For example, an algorithm that claims to spot beauty and tell you which selfies to delete implies we should trust technology more than ourselves to make aesthetic choices."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Algorithm-driven technologies transform biological items and actions into data, a process that is unquestioned, normalised and invisible.",
+        "spans": [
+          "Such algorithm-driven technologies transform biological items and actions into data -- a process that is unquestioned, normalised and invisible."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "By delegating everyday practices to technological processes, algorithms epitomise and encapsulate a growing tendency towards atomisation and fragmentation that resonates more broadly with an increasing emphasis on singularity, quantification and classification in the everyday.",
+        "spans": [
+          "By delegating everyday practices to technological processes, with the resultant need to break down and reduce complex actions into a series of steps and data decision points, algorithms epitomise and encapsulate a growing tendency towards atomisation and fragmentation that resonates more broadly with an increasing emphasis on singularity, quantification and classification in the everyday."
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0017-33-18805": [
+      {
+        "point_number": 1,
+        "point_content": "Algorithms have transitioned from being something we extract from the world to something that shapes the world around us and inside us.",
+        "spans": [
+          "its transition from being something that we extract and derive from the world to something that actually starts to shape it -- the world around us and the world inside us"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Algorithmic trading breaks up large transactions into many small ones to avoid tipping the market, and algorithms both hide and seek these transactions.",
+        "spans": [
+          "algorithmic trading evolved in part because institutional traders have the same problems that the United States Air Force had",
+          "they use algorithms to do this -- to break up that big thing into a million little transactions",
+          "a bunch of algorithms that are basically programmed to hide, and a bunch of algorithms that are programmed to go find them and act"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Algorithms control a significant portion of the stock market, and their malfunction can cause events like the Flash Crash where 9% of the market disappeared in minutes.",
+        "spans": [
+          "that's 70 percent of the United States stock market",
+          "a year ago, nine percent of the entire market just disappears in five minutes, and they called it the Flash Crash"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Algorithms operate without human oversight and can create unpredictable behaviors, as seen in pricing anomalies on Amazon.",
+        "spans": [
+          "algorithms in conflict, algorithms locked in loops with each other, without any human oversight, without any adult supervision"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Netflix algorithms determine 60% of the movies rented by recommending films based on user data.",
+        "spans": [
+          "Pragmatic Chaos, like all Netflix algorithms, determines, in the end, 60 percent of what movies end up being rented"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Story algorithms can predict the financial success of movie scripts, showing algorithms' influence on culture.",
+        "spans": [
+          "a few data scientists from the U.K. are in Hollywood, and they have \"story algorithms\"",
+          "they can tell you, quantifiably, that that's a 30 million dollar movie or a 200 million dollar movie"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Algorithms are embedded in everyday devices like cleaning robots and elevators, optimizing tasks and architecture.",
+        "spans": [
+          "These are two different cleaning robots that have very different ideas about what clean means",
+          "destination-control elevators... uses what's called a bin-packing algorithm"
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Speed is critical for Wall Street algorithms, leading to infrastructure changes like hollowing out buildings and laying fiber optic cables to reduce latency.",
+        "spans": [
+          "algorithms of Wall Street are dependent on one quality above all else, which is speed",
+          "a company called Spread Networks... laid fiber optic cable... to traffic one signal 37 times faster"
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "The physical world is being transformed to accommodate algorithmic efficiency, representing a new co-evolutionary force alongside nature and humans.",
+        "spans": [
+          "we're actually terraforming the Earth itself with this kind of algorithmic efficiency",
+          "there's this third co-evolutionary force: algorithms"
+        ]
+      }
+    ]
+  }
+}

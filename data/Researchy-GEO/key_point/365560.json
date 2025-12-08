@@ -1,0 +1,518 @@
+{
+  "question": "are self driving cars a good or bad idea",
+  "key_points": {
+    "clueweb22-en0016-07-01030": [
+      {
+        "point_number": 1,
+        "point_content": "The main aim of introducing autonomous car concept is not laziness or desires, but is to increase the safety measures of a car.",
+        "spans": [
+          "The main aim of introducing autonomous car concept is not laziness or desires, but is to increase the safety measures of a car."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "A self driving car comes with sensors attached with the calls all around it which help prevent accidents by tracking objects and controlling speed and steering.",
+        "spans": [
+          "A self driving car comes with sensors attached with the calls all around it.",
+          "The sensors keep track of the objects around it, the distance of objects from the car, the speed with which they are approaching the vehicle etc and accordingly the vehicle decides the speed of car movement, the steering direction etc.",
+          "This way the accidents can be prevented."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Fully autonomous cars could eliminate traffic rule violations and improve traffic flow, saving time and money.",
+        "spans": [
+          "If everyone uses fully autonomous cars, there would be no traffic rules violations, no illegal road crossing, no traffic lights jump etc, so there will be smooth traffic flow and much time and money would be saved."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Self driving cars allow productive use of driving time, as people spend a lot of time driving annually.",
+        "spans": [
+          "Self driving cars could provide that too.",
+          "According to a Times of India survey, an average Indian spends about 18 days in a year behind the steering wheel."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Computerized control in self driving cars can increase vehicle life and fuel efficiency by better driving management.",
+        "spans": [
+          "A computerized control would do a better task in these areas and hence a high vehicle life would result.",
+          "This could also increase the fuel efficiency of the vehicle because of steady and identical aerodynamic effects on every car on the road."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Self driving cars would facilitate travel for elderly and disabled people who have difficulty driving.",
+        "spans": [
+          "Self driving cars would facilitate the travel of elderly people and disabled people."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Self driving cars could increase unemployment significantly in India, affecting drivers and traffic police.",
+        "spans": [
+          "If all the vehicles are replaced by driverless vehicles, unemployment would rise up to double of its current value.",
+          "Not only drivers, but traffic police would be jobless."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "There is a potential for technology to go wrong due to bugs or glitches in programming and updates.",
+        "spans": [
+          "Driverless cars are based on programming and machine learning.",
+          "There are possibilities of codes to have some bugs or glitches.",
+          "Even if the vehicle performs well at first, it may happen that there are some bugs in the update the company provides."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Privacy concerns exist as self driving cars can be tracked and hacked despite security measures.",
+        "spans": [
+          "People can track you through GPS and follow you; they can have a track where you are and where you are headed to.",
+          "And if a software drives your car, it becomes easier for the car to get hacked."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Self driving cars are expensive and may not have a large market initially in India due to cost constraints.",
+        "spans": [
+          "Software and hardware for self driving cars would cost a lot to the customer.",
+          "Most people want to have a car under Rs 8 lakh. Hence self driving car won’t have much market in its initial period."
+        ]
+      }
+    ],
+    "clueweb22-en0028-01-04607": [
+      {
+        "point_number": 1,
+        "point_content": "Driverless cars can reduce emissions and improve mobility for those who can't drive themselves.",
+        "spans": [
+          "By reducing road congestion and driving more efficiently, driverless cars will reduce emissions.",
+          "Self-driving cars will improve mobility for those who can’t drive themselves."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Driverless cars offer the promise of a safer transportation system by eliminating human errors like drunk driving, distracted driving, and speeding.",
+        "spans": [
+          "Self-driving cars offer the promise of a safer, more efficient transportation system.",
+          "About half of crashes happen because of drunk driving, distracted driving, and speeding.",
+          "Self-driving cars, which use sensors that see all around and don’t get distracted, eliminate all three of these risk factors."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Most self-driving cars are electric and can contribute to lowering carbon emissions through shared rides.",
+        "spans": [
+          "Even better, most self-driving cars are electric, so they don’t generate emissions that are harmful to the climate.",
+          "And driverless cars will likely be used in services where people can share rides, further contributing to our ability to use less oil and to lower carbon emissions."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Self-driving cars are still in development and currently serve riders in limited areas, representing a chance to improve the American transportation system.",
+        "spans": [
+          "While it will take years of further development before they’re part of everyday life for most Americans, self-driving cars are starting to serve riders in limited areas.",
+          "Self-driving cars represent a chance to rebuild the American transportation system and improve life for millions of our citizens."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Driverless cars are not foolproof; machines can err and such errors can be deadly when lives are at stake.",
+        "spans": [
+          "Software and sensors may curb the need for human skill but seldom (if ever) purge that need entirely.",
+          "Machines are imperfect. They err much like humans do.",
+          "When machines are carrying out tasks that put lives at stake, the results of errors can be deadly."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Examples of deadly errors by self-driving cars have occurred due to sensor and algorithm failures.",
+        "spans": [
+          "In 2016, a 40-year-old man was killed when his car — powered by driverless algorithms — ran into the side of a truck in broad daylight.",
+          "An investigation found that the car’s cameras had failed to spot the truck (colored white) against the bright sky.",
+          "In 2018, a 49-year-old woman was struck and killed by a vehicle also using driverless technology.",
+          "Government investigators blamed her death, in part, on the inability of algorithms to predict pedestrian behavior."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Entrusting driverless cars with control over lives is irresponsible unless the technology is proven faultless.",
+        "spans": [
+          "Unless the technology behind driverless cars is proven faultless (which it isn’t ), entrusting them with control over our lives isn’t just unlikely but also irresponsible."
+        ]
+      }
+    ],
+    "clueweb22-en0031-20-18840": [
+      {
+        "point_number": 1,
+        "point_content": "Supporters of driverless cars say the vehicles will make roads safer by cutting down on the number of crashes caused by distracted driving or other human errors.",
+        "spans": [
+          "Supporters of driverless cars say the vehicles will make roads safer by cutting down on the number of crashes caused by distracted ­ driving or other human errors."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Fewer accidents would reduce traffic and pollution since cars wouldn’t be stuck on congested roadways.",
+        "spans": [
+          "In addition to saving lives, fewer ­ accidents would reduce traffic — and pollution — since cars wouldn’t be stuck on congested roadways as a result ."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Critics say it’s too soon to tell whether automated vehicles will reduce accidents and question their operation in bad weather.",
+        "spans": [
+          "But critics say the advantages of driverless cars have been overblown. They claim that it’s too soon to tell whether automated vehicles will reduce accidents.",
+          "Opponents also question whether driverless cars will be able to operate in bad weather, since heavy rain or snow could interfere with the vehicles’ sensors ."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Each year, 1.3 million people worldwide die in car accidents, 94% due to human error, which self-driving vehicles can help solve.",
+        "spans": [
+          "Each year, 1.3 million people worldwide die in car accidents. Ninety-four percent of those crashes are due to human error. This is a tragedy self-driving vehicles can help solve."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Self-driving cars can drive more safely than humans and will increase ride sharing and reduce car ownership.",
+        "spans": [
+          "As soon as we can show that a self-driving car can drive more safely than a human, we should expect to see many more such vehicles picking up passengers across the country — and eventually around the world .",
+          "Self-driving cars will also help accelerate the shift toward increased ride sharing and reduced car ownership."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Fewer cars overall means reduced road congestion, less pollution, and more space for parks, bike lanes, and businesses.",
+        "spans": [
+          "A future where more of us use ride sharing as our primary mode of transportation means we’ll need fewer cars overall, which comes with key benefits, including reduced road congestion and less time wasted in traffic. Fewer cars also means less pollution and fewer parking spaces. That would make room for more parks, bike lanes, and businesses ."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Uber is testing self-driving cars in Pittsburgh and Tempe to prepare the technology for nationwide use.",
+        "spans": [
+          "Real-world testing is critical to getting this technology ready for nationwide use. That’s why Uber is testing self-driving cars in Pittsburgh, Pennsylvania, and Tempe, Arizona."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "No one knows for sure how many lives could be saved by driverless cars because data on human error in crashes is incomplete.",
+        "spans": [
+          "The truth is, no one knows for sure how many lives could be saved by driverless cars. That’s because data on the role of human error in crashes relies heavily on self-reporting and is therefore incomplete."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "If many driverless cars operate close at high speed, accidents could involve more vehicles and be more deadly.",
+        "spans": [
+          "If many driverless cars are operating in close proximity at high speed, some accidents are likely to involve more vehicles and be even more deadly than the accidents we know today ."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Driverless cars require smooth roads with clearly painted lines, but infrastructure is underfunded and may not meet these standards.",
+        "spans": [
+          "Many driverless cars require smooth roads, with clearly painted lines, to safely position themselves.",
+          "Our infrastructure is already underfunded. Where will the resources come from to maintain and repair roads and bridges to this new, higher standard?"
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Driverless cars might be lighter and more fuel-efficient due to less safety gear, but this is risky if hit by traditional vehicles.",
+        "spans": [
+          "One of the claims made about driverless cars is that they don’t need as much safety gear because there will supposedly be fewer crashes, making the vehicles lighter and more fuel-efficient. That’s great — until an old-school pickup truck rams into your Google car ."
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "Distracted driving risk could be reduced by disabling phones in moving cars, an alternative to driverless cars.",
+        "spans": [
+          "The risk of distracted driving is one of the strongest arguments for driverless cars. But distracted driving could be reduced by disabling phones in moving cars."
+        ]
+      }
+    ],
+    "clueweb22-en0034-20-03953": [
+      {
+        "point_number": 1,
+        "point_content": "Self-driving cars increase safety by reducing human distractions, excessive speed, and drunk driving incidents.",
+        "spans": [
+          "Increasing safety by providing blind-spot assistance to the driver. There are less opportunities for human distractions and excessive speed which cause most of the accidents. Drunk driving incidents would decrease"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Self-driving cars can improve traffic conditions and congestion.",
+        "spans": [
+          "As computers take over the responsability of driving, traffic conditions and congestion would significantly improve"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Self-driving cars allow drivers to devote their time to other activities while commuting.",
+        "spans": [
+          "Drivers could devote their time and attention to other things, such as reading, working or chatting with passengers"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Self-driving cars come at a high cost and are not completely safe initially, with accidents reported.",
+        "spans": [
+          "Coming at a high cost while being imperfect at first",
+          "Driverless cars are not completely safe and there have been a number of accidents involving them"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "There are ethical dilemmas in programming self-driving cars to make decisions in incidents.",
+        "spans": [
+          "An ethical dilemma emerges from computer using algorithms to replace human choices while driving, in particular when it comes to reactions to incidents"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Self-driving cars could lead to loss of driving skills and mixed traffic problems.",
+        "spans": [
+          "By relying on this technology, people may gradually lose the skills to drive cars which they may need in countries or areas where this technology is not operational",
+          "Not everyone prefers self-driving or will adopt it. Mixed traffic can render even further problems"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Self-driving cars could undermine public transport efforts and disrupt the automotive industry, causing job losses.",
+        "spans": [
+          "The popularization of self-driving vehicles could undermine the efforts in big cities to promote public transport to reduce traffic and pollution",
+          "Disruptive effect in the automotive industry which could make many people lose their jobs"
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Self-driving cars pose privacy and security risks due to data collection, hacking, and data sharing requirements.",
+        "spans": [
+          "The computers monitoring self-driving cars could be hacked and their information leaked. Hackers could even take control of self-driving cars. Therefore both privacy and security are would be at risk",
+          "Data collection and data sharing requirements to operate vehicles and reduce accidents may create further problems"
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "NHTSA is working on regulations for data sharing and cybersecurity for self-driving cars but faces resistance from companies.",
+        "spans": [
+          "In response, the American National Highway Traffic Safety Administration,NHTSA,which is part of the Department of Transportation is first ensuring its own, most probably exclusive access to this rich data bank",
+          "Autonomous vehicle companies will be pushed by these federal guidelines to begin sharing data regarding their failures with even rival companies, and also the government",
+          "There is a real chance that the auto vehicle industry will begin pushing against any requirement aimed at making data sharing mandatory"
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Self-driving cars have potential benefits but also raise concerns about data privacy, security, and ethical issues.",
+        "spans": [
+          "Self-driving cars, also known as autonomous or driverless cars, are forecasted to radically change the very nature of commuting and transportation",
+          "Is the entire concept of autonomous cars worth the price of the information poised to be shared about our commuting habits? Is this yet another sector of our privacy to be breached and lost forever?"
+        ]
+      }
+    ],
+    "clueweb22-en0033-90-07640": [
+      {
+        "point_number": 1,
+        "point_content": "Self-driving cars could allow people to spend their time in more pleasant or productive ways while the car drives itself.",
+        "spans": [
+          "Imagine getting into your car in the morning, sipping your coffee and sitting back to relax while your car drives you to work.",
+          "if our cars could drive us autonomously, we could spend the freed-up time in more pleasant or productive ways."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Self-driving cars have the potential to improve road safety by outperforming humans in detecting dangerous situations and always operating at maximum ability.",
+        "spans": [
+          "The high-tech vision system has the potential to outperform humans in detecting dangerous situations.",
+          "Unlike distracted or drunk drivers, self-driving cars always operate at their maximum ability.",
+          "Therefore, they are likely to reduce accidents and lower the huge death toll on our roads."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Self-driving cars can drive more efficiently, find faster routes, and consume less fuel, improving quality of life.",
+        "spans": [
+          "Additionally, the smart algorithms will find faster routes to our destinations, drive more efficiently and consume less fuel.",
+          "We will have the added benefit of spending our time on other tasks while our car is driving for us."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The technology for self-driving cars is basically available but not yet fully ready for all traffic situations, requiring more development and testing.",
+        "spans": [
+          "Given these advantages and the fact that the technology required to build self-driving cars is basically available, why haven’t they entered the market yet?",
+          "Software engineers do not yet trust their programs to correctly assess all the possible situations that can occur in traffic.",
+          "More programming and engineering is required to make cars fully autonomous."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "There are safety and policy concerns that need to be addressed in the development phase of self-driving cars.",
+        "spans": [
+          "While there are safety and policy concerns that need to be addressed in the development phase, the benefits to road safety and quality of life will prevail in the long run.",
+          "policymakers have acted to ensure the public’s safety in the development phase of self-driving cars.",
+          "the US Department of Transportation issued federal guidelines for the safety and testing of autonomous vehicles."
+        ]
+      }
+    ],
+    "clueweb22-en0018-54-05639": [
+      {
+        "point_number": 1,
+        "point_content": "Autonomous vehicles that can move more smoothly through traffic and adjust their routes to bottlenecks could help to ease traffic congestion and improve air quality.",
+        "spans": [
+          "Autonomous vehicles that can move more smoothly through traffic and adjust their routes to bottlenecks could help to ease traffic congestion and improve air quality."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The most efficient, environmentally friendly way to move people is by buses and trains at high utilization, not autonomous vehicles.",
+        "spans": [
+          "“The most efficient, environmentally friendly way to move people is by buses and trains at high utilization,” argued Ognen Stojanovski, research scholar at the Program on Energy & Sustainable Development within Stanford’s Freeman Spogli Institute."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "With autonomous vehicles, people will want to live farther away from where they work, increasing travel distances.",
+        "spans": [
+          "Instead, with autonomous vehicles we'll no longer want to go on CalTrain. We'll want to be by ourselves getting work done, sleeping, whatever. We’ll want to live farther and farther away from where we work."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Driverless cars will result in the rebound effect, causing more people to be driven to more places than before.",
+        "spans": [
+          "Driverless cars will result in the rebound effect, said Stojanovski, who previously helped launch Otto, an autonomous trucking company acquired by Uber.",
+          "“Once you make things easier to move around, you get a lot more of it moving than you had before,” reasoned Stojanovski. “So, we're going to have a lot more people driven to a lot more places than they previously were.”"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The shared autonomous-vehicle model relies on parking in the suburbs at night to recharge, using coal, natural gas or nuclear power.",
+        "spans": [
+          "The shared autonomous-vehicle model is to park in the suburbs at night to recharge. They’ll have to rely on coal, natural gas or nuclear power to do that."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Self-driving cars will eliminate deaths and injuries caused by human errors like drinking, texting, tiredness, and distraction.",
+        "spans": [
+          "“Self-driving cars won't drink, won't text while driving. They won't get tired, won't get distracted,” said Ostrovsky. “Self-driving cars will eliminate all of those deaths and injuries.”"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "The real revolution with self-driving cars will be moving away from 90% of cars on the road containing one person to more convenient carpooling or small-scale public transportation.",
+        "spans": [
+          "“But the real revolution with self-driving cars will be moving away from 90% of cars on the road containing one person,” Ostrovsky said, “to much more convenient carpooling options or small-scale public transportation where you have four to eight people in a minivan.”"
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Autonomous vehicles move more smoothly through traffic and adjust their routes to bottlenecks better than humans do, reducing traffic congestion and improving air quality.",
+        "spans": [
+          "Plus, autonomous vehicles move more smoothly through traffic and adjust their routes to bottlenecks better than humans do. Less traffic congestion will improve air quality and reduce greenhouse gas emissions."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Improving the efficiency of transportation with autonomous vehicles will boost productivity and benefit the economy, and help people who cannot drive today.",
+        "spans": [
+          "Brian Goncher, Ostrovsky’s debate partner and an executive with Deloitte Services, added that improving the efficiency of transportation will boost productivity and greatly benefit the economy. Plus, “a whole spectrum of people in our society who cannot drive today, like the blind and disabled, will have much improved lives from this revolutionary change.”"
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "The traffic-jam-pollution argument applies only to driverless cars versus human-driven cars; autonomous vehicles may undercut public transportation.",
+        "spans": [
+          "Jeff Greenblatt, principal of consulting company Emerging Futures and Stojanovski’s teammate, countered that the traffic-jam-pollution argument applies only to driverless cars versus human-driven cars. The best congestion reducer—public transportation—will be undercut, he said, by autonomous vehicles."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "A driverless car with a person in the back seat is no better for the natural environment than a person driving alone.",
+        "spans": [
+          "A driverless car with a person in the back seat, Greenblatt maintained, is no better for the natural environment than a person driving alone."
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "The debate was about autonomous vehicles, not about shared cars and the electrification of transportation, which are often linked but distinct issues.",
+        "spans": [
+          "Multiple times, the team against the resolution tied autonomy with shared vehicle services like Uber and Lyft, as well as to electric cars running on renewable power. Stojanovski and Greenblatt reminded their rivals that the debate was about autonomous vehicles, not about shared cars and the electrification of transportation."
+        ]
+      },
+      {
+        "point_number": 13,
+        "point_content": "The idea of fleets of solar-powered, driverless, shared cars is a mirage; they will rely on coal, natural gas or nuclear power to recharge.",
+        "spans": [
+          "“The idea that we’re going to have fleets of solar-powered, driverless, shared cars is a mirage,” he explained. “The shared autonomous-vehicle model is to park in the suburbs at night to recharge. They’ll have to rely on coal, natural gas or nuclear power to do that.”"
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0019-93-02210": [
+      {
+        "point_number": 1,
+        "point_content": "Self-driving cars have many advantages such as reducing accidents caused by tiredness, drunk driving, and emotional behavior.",
+        "spans": [
+          "Machines don’t get tired",
+          "No risk of drunk driving",
+          "No accidents due to emotional behavior"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Self-driving cars can improve mobility for people who cannot drive and provide a more convenient driving experience.",
+        "spans": [
+          "Improvements in mobility for people who can’t drive",
+          "More convenient driving experience"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Self-driving cars may lead to economic advantages by reducing accidents and government spending on emergency services.",
+        "spans": [
+          "Economic advantages",
+          "Since the number of car accidents could be significantly reduced, also government spending for the police and ambulance could be significantly lowered."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "There are disadvantages such as higher unemployment for cab drivers, people unlearning manual driving, and high costs for R&D and purchase.",
+        "spans": [
+          "Higher unemployment rate since fewer cab drivers are needed",
+          "People may unlearn how to drive manually",
+          "High R&D costs",
+          "High initial purchase price"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Technical issues like hacking, bad weather sensor problems, and immature technology pose risks to self-driving cars.",
+        "spans": [
+          "Technical errors",
+          "Hacking issues",
+          "Bad weather may prevent technical systems to work properly",
+          "Technology not mature enough yet"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Privacy concerns and moral/ethical issues are significant challenges for the acceptance of self-driving cars.",
+        "spans": [
+          "Privacy concerns",
+          "Moral concerns"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Public acceptance and regulatory restrictions may slow down the adoption of self-driving cars.",
+        "spans": [
+          "People may not be willing to accept this technology",
+          "High regulatory restrictions"
+        ]
+      }
+    ]
+  }
+}

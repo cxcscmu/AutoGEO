@@ -1,0 +1,379 @@
+{
+  "question": "is homework beneficial to students",
+  "key_points": {
+    "null": [],
+    "clueweb22-en0013-77-10312": [
+      {
+        "point_number": 1,
+        "point_content": "Homework is mostly good, especially for the sciences.",
+        "spans": [
+          "It's mostly good, especially for the sciences, but it also can be bad"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Doing homework teaches you how to learn on your own and work independently.",
+        "spans": [
+          "Doing homework teaches you how to learn on your own and work independently."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Homework helps you learn beyond the scope of the class and is critically important in science classes.",
+        "spans": [
+          "Homework helps you learn beyond the scope of the class.",
+          "In science classes, homework problems are critically important."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Homework shows you what the teacher thinks is important to learn, helping you prepare for quizzes or tests.",
+        "spans": [
+          "It shows you what the teacher thinks is important to learn, so you'll have a better idea of what to expect on a quiz or test."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Homework is often a significant part of your grade and not doing it could cost you.",
+        "spans": [
+          "It's often a significant part of your grade. If you don't do it, it could cost you, no matter how well you do on exams."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Homework teaches responsibility, accountability, time management, and helps prevent procrastination.",
+        "spans": [
+          "Homework, however tedious it might be, teaches responsibility and accountability.",
+          "Homework nips procrastination in the bud.",
+          "Homework teaches you time management and how to prioritize tasks."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Homework reinforces the concepts taught in class and can help boost self-esteem or identify problems early.",
+        "spans": [
+          "Homework reinforces the concepts taught in class.",
+          "Homework can help boost self-esteem. Or, if it's not going well, it helps you identify problems before they get out of control."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Too much homework can be bad, leading to burnout, cheating, negative impressions, and taking time away from other activities.",
+        "spans": [
+          "You need a break from a subject so you don't burn out or lose interest.",
+          "Too much homework can lead to copying and cheating.",
+          "Homework that is pointless busywork can lead to a negative impression of a subject (not to mention a teacher).",
+          "It takes time away from families, friends, jobs, and other ways to spend your time."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Homework can hurt your grades if it forces poor time management decisions.",
+        "spans": [
+          "Homework can hurt your grades. It forces you to make time management decisions, sometimes putting you in a no-win situation."
+        ]
+      }
+    ],
+    "clueweb22-en0034-44-09210": [
+      {
+        "point_number": 1,
+        "point_content": "Homework encourages the discipline of practice, helping make concepts more clear and giving students more opportunities when starting their career.",
+        "spans": [
+          "Homework encourages the discipline of practice",
+          "Homework helps make concepts more clear, and gives students more opportunities when starting their career"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Homework can get parents involved in their children’s academic success and allows parents to keep up with what the child is doing in school.",
+        "spans": [
+          "Homework can be something that gets parents involved in their children’s lives",
+          "A parent helping their child with homework makes them take part in their academic success, and allows for the parent to keep up with what the child is doing in school"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Homework teaches time management skills, forcing students to plan their time and make sure assignments are done on time, and also practices problem-solving and independent thinking.",
+        "spans": [
+          "Homework can develop time management skills, forcing students to plan their time and make sure that all of their homework assignments are done on time",
+          "By learning to manage their time, students also practice their problem-solving skills and independent thinking"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Homework creates a connection between the student, teacher, school, and parents, allowing for better targeted educational plans.",
+        "spans": [
+          "Homework creates a connection between the student, the teacher, the school, and the parents",
+          "Homework in turn can allow for a better, more targeted educational plan for the student"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Homework allows for more time to complete the learning process, countering the effects of time shortages in school hours.",
+        "spans": [
+          "Homework allows for more time to complete the learning process",
+          "Homework can counter the effects of time shortages, benefiting students in the long run"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Homework reduces screen time by encouraging better study habits and discouraging time spent watching TV.",
+        "spans": [
+          "Homework encourages better study habits and discourages spending time in front of the TV"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Too much homework encourages a sedentary lifestyle, reducing playtime which is important for social development and learning.",
+        "spans": [
+          "If children are given too much homework, they won’t have enough playtime, which can impact their social development and learning",
+          "Children are already sitting long hours in the classroom, and homework assignments only add to these hours"
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Not all homes provide a healthy environment for homework, and it can create friction between children and their parents.",
+        "spans": [
+          "Not all homes provide a healthy environment, and there may be very little investment from parents",
+          "Homework can create friction between children and their parents"
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Homework adds to an already full-time job for students, preventing time for self-discovery and learning new skills outside school.",
+        "spans": [
+          "School is already a full-time job for students",
+          "Adding on extra hours to all of these demands is a lot for children to manage",
+          "Homework prevents self discovery and having the time to learn new skills outside of the school system"
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Homework has not been proven to provide results and can create a negative attitude towards school.",
+        "spans": [
+          "Homework has not been found to be linked to a higher level of academic success",
+          "Endless surveys have found that homework creates a negative attitude towards school"
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Homework assignments are often overdone, leading to increased stress and burnout, which negatively affects academic success.",
+        "spans": [
+          "Many students are given a lot more homework than the recommended amount",
+          "By giving too much homework, it can increase stress levels and lead to burn out"
+        ]
+      }
+    ],
+    "clueweb22-en0027-17-00037": [
+      {
+        "point_number": 1,
+        "point_content": "Homework provides an opportunity for parents to interact with and understand the content their students are learning so they can provide another means of academic support for students.",
+        "spans": [
+          "Homework provides an opportunity for parents to interact with and understand the content their students are learning so they can provide another means of academic support for students."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Homework helps children develop responsibility, time management, perseverance, and self-esteem, which are important qualities for high-achieving students.",
+        "spans": [
+          "Pryor-Johnson also identifies four qualities children develop when they complete homework that can help them become high-achieving students: Responsibility Time management Perseverance Self-esteem"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Perseverance and self-esteem built through homework contribute to students' mental and physical health and long-term benefits.",
+        "spans": [
+          "perseverance has garnered a lot of attention as an essential skill for successful students. Regular accomplishments like finishing homework build self-esteem, which aids students’ mental and physical health. Responsibility and time management are highly desirable qualities that benefit students long after they graduate."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Students who complete homework benefit from it, as it allows them to engage thoughtfully with texts and write complete essays, which cannot be done fully in class due to time constraints.",
+        "spans": [
+          "Ravitch believes the study’s data only supports the idea that those who complete homework benefit from homework. She also cites additional benefits of homework: when else would students be allowed to engage thoughtfully with a text or write a complete essay? Constraints on class time require that such activities are given as outside assignments."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Five studies show that students who do homework have higher unit test scores than those who do not.",
+        "spans": [
+          "Duke University professor Harris Cooper supports Ravitch’s assessment, saying that, “Across five studies, the average student who did homework had a higher unit test score than the students not doing homework.”"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Homework has a positive correlation with academic achievement, especially after elementary school, but younger students may benefit less due to undeveloped study habits.",
+        "spans": [
+          "Finally, the research team identified 35 studies that found a positive correlation between homework and achievement, but only after elementary school. Dr. Cooper concluded that younger students might be less capable of  benefiting from homework due to undeveloped study habits or other factors."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Recommended homework time varies by grade: junior high students benefit up to about 90 minutes a night, high school students up to 90 minutes to 2.5 hours, after which returns diminish.",
+        "spans": [
+          "Homework for junior high students appears to reach the point of diminishing returns after about 90 minutes a night. For high school students, the positive line continues to climb until between 90 minutes and 2.5 hours of homework a night, after which returns diminish."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Homework is important but should be assigned with discretion to ensure it is useful and students are motivated to complete it.",
+        "spans": [
+          "Dr. Cooper’s conclusion—homework is important, but discretion can and should be used when assigning it—addresses the valid concerns of homework critics. While the act of completing homework has benefits in terms of developing good habits in students, homework must prove useful for students so that they buy in to the process and complete their assignments."
+        ]
+      }
+    ],
+    "clueweb22-en0023-70-05986": [
+      {
+        "point_number": 1,
+        "point_content": "Homework helps to learn beyond the scope of the class.",
+        "spans": [
+          "Homework helps to learn beyond the scope of the class."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Homework strengthens the ideas taught in class.",
+        "spans": [
+          "Homework strengthens the ideas taught in class."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Homework helps to increase self-esteem and helps classify obstacles before they get out of control.",
+        "spans": [
+          "Homework helps to increase self-esteem. Or, if it is not working properly, it helps you to classify obstacles before they get out of control."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Homework teaches time management and how to prioritize important tasks.",
+        "spans": [
+          "School teaches you time management and how to give priority to important tasks."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Homework develops responsibility and liability skills and is a vital part of getting the subject matter.",
+        "spans": [
+          "However, it might be, develop responsibility and liability skills. For many classes, homework is a vital part of getting the subject matter."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Homework is usually an important part of your grade and not doing it could lose you points regardless of exam performance.",
+        "spans": [
+          "It is usually an important part of your grade. If you do not do homework, it could lose you, no matter how well you do on exams."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Homework allows your child to review and practice what has been covered in class and encourages parents to learn more about what their child is learning.",
+        "spans": [
+          "It allows your child to review and practice what has been covered in class",
+          "School encourages parents to learn more about what your child is learning in school."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Homework improves positive study abilities and habits that will help throughout life.",
+        "spans": [
+          "It improves child positive study abilities and habits that will help well throughout life."
+        ]
+      }
+    ],
+    "clueweb22-en0022-59-03294": [
+      {
+        "point_number": 1,
+        "point_content": "The value of doing schoolwork at home has gone in and out of fashion in the United States among educators, policymakers, the media, and, more recently, parents.",
+        "spans": [
+          "The value of doing schoolwork at home has gone in and out of fashion in the United States among educators, policymakers, the media, and, more recently, parents."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Homework has generated enough research so that a study can be found to support almost any position, as long as conflicting studies are ignored.",
+        "spans": [
+          "Homework has generated enough research so that a study can be found to support almost any position, as long as conflicting studies are ignored."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "At best, homework shows only an association, not a causal relationship, with academic achievement.",
+        "spans": [
+          "At best, he says, homework shows only an association, not a causal relationship, with academic achievement."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Much of the current debate over homework is focused less on how homework affects academic achievement and more on time.",
+        "spans": [
+          "much of the current debate over homework is focused less on how homework affects academic achievement and more on time."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Homework overload is turning many of us into the types of parents we never wanted to be: nags, bribers, and taskmasters.",
+        "spans": [
+          "Homework overload is turning many of us into the types of parents we never wanted to be: nags, bribers, and taskmasters."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "More homework doesn't necessarily equal rigor.",
+        "spans": [
+          "More homework doesn't necessarily equal rigor."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Homework has become so engrained in U.S. culture that the word homework is part of the common vernacular.",
+        "spans": [
+          "the concept of homework \"has become so engrained in U.S. culture that the word homework is part of the common vernacular."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Homework isn't limited to those occasions when it seems appropriate and important. Most teachers and administrators aren't saying, 'It may be useful to do this particular project at home,' Rather, the point of departure seems to be, 'We've decided ahead of time that children will have to do something every night (or several times a week).",
+        "spans": [
+          "Homework isn't limited to those occasions when it seems appropriate and important. Most teachers and administrators aren't saying, 'It may be useful to do this particular project at home,' Rather, the point of departure seems to be, 'We've decided ahead of time that children will have to do something every night (or several times a week)."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Homework can help students develop study skills that will be of value even after they leave school.",
+        "spans": [
+          "Homework can help students develop study skills that will be of value even after they leave school."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Homework can teach children how to manage time.",
+        "spans": [
+          "Homework can teach children how to manage time."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "For elementary school students, the average correlation between time spent on homework and achievement hovered around zero.",
+        "spans": [
+          "A review of research by Duke University Professor Harris Cooper found that for elementary school students, \"the average correlation between time spent on homework and achievement \u00133 hovered around zero.\""
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "Homework has to be relevant and helps students practice skills being taught in class, especially for students who are behind and need to catch up.",
+        "spans": [
+          "Still, he says, homework has to be relevant.",
+          "\"Kids need to practice the skills being taught in class, especially where, like the kids I teach at Excel, they are behind and need to catch up,\""
+        ]
+      },
+      {
+        "point_number": 13,
+        "point_content": "Homework should build on what happens in class, consolidating skills and helping students to answer new questions.",
+        "spans": [
+          "Homework should build on what happens in class, consolidating skills and helping students to answer new questions."
+        ]
+      }
+    ]
+  }
+}

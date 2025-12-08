@@ -1,0 +1,63 @@
+{
+  "question": "what microenvironmental factors have affected sony’s performance since 2000?",
+  "key_points": {
+    "null": [],
+    "clueweb22-en0024-92-01759": [
+      {
+        "point_number": 1,
+        "point_content": "Sony has a very good relationship with their suppliers, which helps them to get quality products more reliably, but any shortage or increase in prices affects sales.",
+        "spans": [
+          "Sony has a very good relationship with their suppliers.",
+          "If there is any shortage or increase in the prices of the product, it affects the sale too."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Satisfying the needs and demands of customers is crucial for Sony's success, with a focus on providing better quality products and services at affordable prices.",
+        "spans": [
+          "For the better functioning and existence of the organization, it is the duty of the company to satisfy the needs and demands of the customers.",
+          "The main motive of the company is to provide better quality products and services to the customers at affordable prices"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Sony faces many competitors in different fields and must ensure the uniqueness of its products to stand out.",
+        "spans": [
+          "As Sony is a giant multinational company, it has many competitors in different fields.",
+          "The company must ensure about the uniqueness of the product which make them entirely different from others."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Shareholders invest in Sony and are owners of the company, representing the business they have done.",
+        "spans": [
+          "Shareholders are actually investing in the company, hence they are the owners of the company.",
+          "The value of money added to the company represents the business they have done."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Advertising agencies help Sony in targeting and promoting their products in the market.",
+        "spans": [
+          "Some advertising agencies helps the company in their target and promote their products to the market."
+        ]
+      }
+    ],
+    "clueweb22-en0030-59-11389": [
+      {
+        "point_number": 1,
+        "point_content": "Sony fell behind in technology compared to other companies like Apple, Samsung, Amazon, and Google since 2000.",
+        "spans": [
+          "Sony, fell behind in technology compared to the others. Apple, Samsung, Amazon, and Google started to take over and really boom in the electronic industry."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Sony adhered to successful old technologies rather than embracing new ones since 2000.",
+        "spans": [
+          "Sony also adhered to successful old technologies rather than embracing new ones."
+        ]
+      }
+    ]
+  }
+}

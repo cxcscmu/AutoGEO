@@ -1,0 +1,172 @@
+{
+  "question": "how impactful were late shipments on customer questions?",
+  "key_points": {
+    "clueweb22-en0027-26-01943": [
+      {
+        "point_number": 1,
+        "point_content": "Late shipments have been increasing and are somewhat impactful on customer questions.",
+        "spans": [
+          "% Shipped On Time - -10% -7% -5%",
+          "% Customer Questions - +8% +10% +12%"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The rate of shipments on time has been falling month on month, which correlates with the increase in customer questions.",
+        "spans": [
+          "rate transported on time has been falling month on month"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Late shipments are rated as moderately impactful on customer questions, with a rating of 3 out of 4.",
+        "spans": [
+          "How impactful were late shipments on customer questions? 1 - not impactful to 4 - extremely impactful",
+          "3 Votes"
+        ]
+      }
+    ],
+    "clueweb22-en0028-04-15140": [
+      {
+        "point_number": 1,
+        "point_content": "Late shipments have been increasing and are correlated with an increase in customer questions.",
+        "spans": [
+          "% Shipped On Time - -10% -7% -5%",
+          "% Customer Questions - +8% +10% +12%"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The percentage shipped on time has been falling month on month.",
+        "spans": [
+          "percentage shipped on time has been falling month on month"
+        ]
+      }
+    ],
+    "clueweb22-en0029-51-08599": [
+      {
+        "point_number": 1,
+        "point_content": "Late deliveries significantly reduce customer likelihood to shop again and increase customer questions or concerns.",
+        "spans": [
+          "69% of consumers “are much less or less likely to shop with a retailer in the future if an item they purchased is not delivered within two days of the date promised.”"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Late deliveries cause customers to stop shopping with a retailer, indicating increased customer dissatisfaction and likely more customer questions.",
+        "spans": [
+          "17% of respondents will stop shopping with a retailer after receiving a late delivery one time.",
+          "55% of respondents will stop shopping with a retailer after receiving a late delivery two to three times."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Late deliveries decrease customer retention rate and increase customer acquisition cost due to negative word of mouth and online reviews, implying more customer questions and complaints.",
+        "spans": [
+          "Late deliveries decrease your customer retention rate.",
+          "late deliveries also increase your customer acquisition cost: When you lose customers due to late deliveries, you can expect negative word of mouth and online reviews, which will make it harder (and more expensive) to acquire new customers."
+        ]
+      }
+    ],
+    "clueweb22-en0041-14-11223": [
+      {
+        "point_number": 1,
+        "point_content": "Customer questions for one shipping vendor have increased since the beginning of the promotional campaign and continue even two months after the campaign ended.",
+        "spans": [
+          "Customer questions for one shipping vendor have increased since the beginning of the promotional campaign.",
+          "The campaign ended two months ago, but we are still getting a large number of questions."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Too many products not shipped on time is rated as extremely impactful on the increase in customer questions.",
+        "spans": [
+          "Too many products not shipped on time"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Percentage of products shipped on time decreased by 10% in Month 1 and 7% in Month 2, correlating with increased customer questions.",
+        "spans": [
+          "% Products Shipped on Time -10% -7%",
+          "+8% +10% Customer Questions"
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0011-02-01423": [
+      {
+        "point_number": 1,
+        "point_content": "Late shipments were extremely impactful on customer questions.",
+        "spans": [
+          "If too many products are not shipped on time then it would lead to dissatisfaction and affe"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The percentage of products shipped on time was negative (-10%, -7%, -5%) over the three months, while customer questions increased (+8%, +10%, +12%).",
+        "spans": [
+          "Trailing 3 Months Vendor Performance Metric Month 1 Month 2 Month 3 +8% +10% +12% -10% -7% -5% % Customer Questions % Products Shipped on Time"
+        ]
+      }
+    ],
+    "clueweb22-en0023-24-12532": [
+      {
+        "point_number": 1,
+        "point_content": "Bad news travels far faster and dissatisfied customers are likely to leave for competitors, with 68% going elsewhere after poor service.",
+        "spans": [
+          "Word of mouth spreads tales of poor customer service to twice as many people.",
+          "These dissatisfied customers are also likely to leave you for competitors, as 68% of customers go elsewhere after experiencing poor service"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "95% of unhappy customers would stay if their problems were resolved quickly.",
+        "spans": [
+          "This drain on repeat business is almost entirely avoidable, however, as a mammoth 95% of these unhappy patrons would stick around if their problems were resolved quickly."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Late orders cause considerable customer unhappiness and are particularly frustrating when using third-party shipping.",
+        "spans": [
+          "Late orders are one of many causes of considerable customer unhappiness, and they're particularly frustrating because they can be out of your control when you use a third-party for your shipping."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "How you tell a customer their order will be late is key to keeping customer loyalty.",
+        "spans": [
+          "How you tell a customer their order will be late is key, and can ensure you keep the customer loyal."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Keeping the customer informed with communication and explanations about delays helps manage their expectations and reduces negative impact.",
+        "spans": [
+          "Keep the customer informed",
+          "The more you can communicate, the better.",
+          "Explain why their order is late and do everything you can to give them a best estimate for the new timeline."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Taking responsibility for the late order and being honest helps maintain customer trust.",
+        "spans": [
+          "Take responsibility for the late order",
+          "customers appreciate honesty and transparency.",
+          "Instead, explain what has caused the delay, what you’re doing to rectify it, and how it’ll be prevented in the future."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Making it up to customers with refunds, discounts, and sincere apologies helps rebuild trust after a late shipment.",
+        "spans": [
+          "Make it up to them, and more",
+          "This could involve offering them the chance to cancel their order and receive a refund, or providing them with a discount as a token of apology.",
+          "Make sure these gestures are accompanied by clear and sincere expressions of your regret for the delay and how you’re resolving it"
+        ]
+      }
+    ]
+  }
+}

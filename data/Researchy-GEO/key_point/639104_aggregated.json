@@ -1,0 +1,55 @@
+{
+  "question": "how do american cultural beliefs and values influence the use of medical technology?",
+  "key_points": [
+    {
+      "point_number": 1,
+      "point_content": "American cultural beliefs, characterized by short-term orientation, high time preference, low uncertainty avoidance, high risk-taking, and specific risk attitudes, influence the valuation of health states, the shape of utility functions, and the willingness to trade length of life for quality of life, affecting utility values derived from methods like the standard gamble and thus health technology assessments and cost-utility analyses.",
+      "original_point_number": [
+        1,
+        2,
+        4,
+        5
+      ]
+    },
+    {
+      "point_number": 2,
+      "point_content": "Differences in cultural beliefs and values lead to different utility values for the same health states, affecting the perceived value of medical interventions in the US compared to countries with long-term orientation like Japan.",
+      "original_point_number": [
+        3
+      ]
+    },
+    {
+      "point_number": 3,
+      "point_content": "Western industrialized societies such as the United States, which see disease as a result of natural scientific phenomena, advocate medical treatments that combat microorganisms or use sophisticated technology to diagnose and treat disease, with a medical model that primarily governs health care delivery focusing on illness rather than wellness.",
+      "original_point_number": [
+        6,
+        10
+      ]
+    },
+    {
+      "point_number": 4,
+      "point_content": "Cultural differences affect patients' attitudes about medical care and their ability to understand, manage, and cope with illness, including culture-specific ideas and values related to health and illness concepts, symptom reporting, expectations for health care delivery, beliefs about medication and treatments, patient roles and expectations, information desires about illness and treatment, management of death and dying, bereavement patterns, gender and family roles, and decision-making processes.",
+      "original_point_number": [
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "point_number": 5,
+      "point_content": "A strong belief in capitalism has led to health care being viewed as an economic good or service rather than a public resource, influencing the fee-for-service payment model with uncontrolled utilization, prices, and payments, and fostering the belief that individuals and corporate entities seek to manipulate financial incentives to their own advantage without regard to the system as a whole.",
+      "original_point_number": [
+        11,
+        12
+      ]
+    },
+    {
+      "point_number": 6,
+      "point_content": "Concern for underprivileged classes has led to public programs such as Medicare, Medicaid, and CHIP, while principles of free enterprise and distrust of big government have kept health care delivery largely in private hands.",
+      "original_point_number": [
+        13,
+        14
+      ]
+    }
+  ]
+}

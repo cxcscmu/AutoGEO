@@ -1,0 +1,667 @@
+{
+  "question": "why are housing prices so high",
+  "key_points": {
+    "clueweb22-en0003-79-18190": [
+      {
+        "point_number": 1,
+        "point_content": "Home prices are high because there simply aren’t enough homes to meet the demand, pushing prices up.",
+        "spans": [
+          "There simply aren’t enough homes to meet the demand, pushing prices up to the heavens."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "There is a severe shortfall in new construction, with builders not putting up enough homes to satisfy buyers.",
+        "spans": [
+          "One of the biggest culprits of the housing shortage is the severe shortfall in new construction. Builders simply aren’t putting up enough homes to come anywhere close to satisfying the hordes of buyers"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Housing starts are increasing but still insufficient to meet demand, with builders needing at least 1 million starts to pull the nation out of shortage but expecting only 920,000 in 2020.",
+        "spans": [
+          "builders need at least 1 million starts to begin pulling the nation out of a housing shortage. “That’s still insufficient.”",
+          "He expects starts to increase by only 4% this year and then rise an additional 1% in 2021.",
+          "He anticipates 920,000 single-family housing starts in 2020."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The shortage of new homes is large, with a deficit of 3.84 million new homes and it would take four to five years to build enough to meet demand.",
+        "spans": [
+          "the shortage of 3.84 million new homes the nation is facing",
+          "Even with a ramped-up construction schedule, it would still take four to five years to build enough housing stock to meet buyer demand."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Millennials entering the housing market increase demand, but housing starts per million people are nearly half of what they were in previous decades.",
+        "spans": [
+          "Blame the millennials! This huge generation has definitively entered into the age where they’re looking for homes in which to raise their families.",
+          "There were just 21,288 single-family housing starts per million people from 2010 through 2019—nearly half of what it was in the previous three decades"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Population growth has increased demand for housing, with a nearly 17% population boom from 2000 to 2020.",
+        "spans": [
+          "the population is practically exploding. There were an estimated 329 million U.S. residents as of Jan. 1, 2020—compared with almost 309 million in 2010 and 281 million in 2000",
+          "That’s a nearly 17% population boom."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Fewer affordable units are hitting the for-sale market because most multifamily development is rental housing and many new condos are luxury units.",
+        "spans": [
+          "About 93% of the multifamily development, which includes apartments, condominiums, and co-operatives, is rental housing",
+          "many of the condos going up today are luxury units, well out of the budgets of most middle-class Americans."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Builders are not building more homes due to labor shortages, expensive and limited land, regulatory hurdles, financing difficulties, and rising material costs.",
+        "spans": [
+          "There were still about 311,000 construction labor positions open in October",
+          "there’s a lot less land available in desirable areas. What’s there is more expensive and builders have to jump through a lot of hoops with local regulators and zoning boards to get permission to build",
+          "it’s become a lot harder for builders to get financing for large projects",
+          "rising material costs and shortages"
+        ]
+      }
+    ],
+    "clueweb22-en0036-07-03909": [
+      {
+        "point_number": 1,
+        "point_content": "The improving job market with fewer unemployment claims and high job growth supports housing demand.",
+        "spans": [
+          "The improving job market: Fewer Americans are filing for unemployment benefits, job growth is high and the economy is growing at an annualized rate of almost 7% (after the 2020 slowdown)."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Low-interest rates have attracted investors to residential real estate, increasing demand and prices.",
+        "spans": [
+          "Compounding the demand side is the low-interest environment that has investors who seek a haven from the volatility of equity and commodity markets flocking to residential real estate. Investors poured a record $77 billion in homes in the past six months, according to Redfin. Indeed, corporate investors bought 15% of U.S. homes for sale in the first quarter."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "High lumber costs have increased the price of new homes and suppressed housing starts.",
+        "spans": [
+          "Lumber costs also played a role in suppressing housing starts over the past year, with lumber futures rising to a peak of $1,670.50 in May compared to just over $400 before the pandemic. They recently fell, but still caused an increase to the price of new homes of $34,000 in the past year, according to a Bank of America report."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Underbuilding has created a shortage of homes, with millions of homes 'missing' compared to demand.",
+        "spans": [
+          "Taking a somewhat longer view, underbuilding has created an endemic lack of homes. According to the National Association of Realtors, there are perhaps 6.8 million homes “missing” at present. According to Business Insider, only 1.23 million new homes were built each year on average in the U.S. in the first two decades of this millennium, compared to about 1.5 million new homes a year on average from 1968 to 2000."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Older homeowners are less inclined to downsize, reducing the availability of homes on the market.",
+        "spans": [
+          "People are less inclined than before to scale down their residences once they reach old age. According to Freddie Mac, the 67 million U.S. homeowners who are over the age of 55 collectively own about two-thirds of all U.S. home equity — and about 63% of these homeowners plan to age in place while the rest plan at least one more move."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "The COVID-19 pandemic has increased the value of homes as more people work from home, increasing demand for larger homes with office space.",
+        "spans": [
+          "Alongside these factors is the Covid-19 pandemic, which has caused a once-in-a-lifetime market alteration by surfacing the fact that technology has made it possible for workers to collaborate effectively without congregating in the same physical space. Home is where you shelter, sleep and stay most of the time — and for increasingly many people, it is also the place where they work.",
+          "It is now widely accepted that not all workers will return to pre-pandemic office attendance levels — many companies will not require it. Rather, they will work at least some of the time from home. So, employers are decreasing their office footprint. Instead of having a central office, employers now have many micro-satellite offices in their employees’ homes.",
+          "I predict this will suppress office real estate values (perhaps moving momentum to shared office companies) while raising the value of homes. Homes will need more space and facilities."
+        ]
+      }
+    ],
+    "clueweb22-en0002-05-09581": [
+      {
+        "point_number": 1,
+        "point_content": "An unprecedented shortage of available homes for sale means many properties often see multiple offers, and low mortgage rates have been pushing prices up.",
+        "spans": [
+          "An unprecedented shortage of available homes for sale means many properties often see multiple offers, and low mortgage rates have been pushing prices up."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "New home construction has started to pick up as the weather has improved, but builders can’t keep up with demand.",
+        "spans": [
+          "New home construction has started to pick up as the weather has improved, but builders can’t keep up with demand."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "It’s a basic supply and demand problem. Too many interested buyers and too few available properties are pushing home prices higher.",
+        "spans": [
+          "It’s a basic supply and demand problem. Too many interested buyers and too few available properties are pushing home prices higher."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The National Association of Home Builders estimates that new homes are being constructed at a rate of 1.42 million per year, which is not sufficient to address the current shortage.",
+        "spans": [
+          "The National Association of Home Builders estimates that new homes are being constructed at a rate of 1.42 million per year, which Gay Cororaton, senior economist and the director of housing and commercial research at the National Association of Realtors (NAR), said is not sufficient to address the current shortage."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "In the next three to five years we’re still going to be experiencing tight housing supply.",
+        "spans": [
+          "“In the next three to five years we’re still going to be experiencing tight housing supply,” she said."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "The inventory of homes for sale in January 2021 fell nearly 26 percent compared with January 2020, and there’s just a 1.9-month supply of homes on the market.",
+        "spans": [
+          "The inventory of homes for sale in January 2021 fell nearly 26 percent compared with January 2020, the National Association of Realtors reports.",
+          "Meanwhile, there’s just a 1.9-month supply of homes on the market."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Current homeowners are staying put longer, which means there is less turnover of existing homes.",
+        "spans": [
+          "On top of that, she said, current homeowners are staying put longer, which means there is less turnover of existing homes."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Low supply means high competition, and buyers seem to be willing to pay more to come out ahead in bidding wars, or remove contingencies to make their offers even more attractive.",
+        "spans": [
+          "Low supply means high competition, and buyers seem to be willing to pay more to come out ahead in bidding wars, or remove contingencies to make their offers even more attractive."
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0023-88-03440": [
+      {
+        "point_number": 1,
+        "point_content": "UK house prices are soaring, increasing at their fastest rate for more than a decade despite the pandemic.",
+        "spans": [
+          "UK house prices are soaring. Official figures show they have been increasing at their fastest rate for more than a decade despite the country being gripped by a pandemic."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Many buyers want bigger homes with room to live and work, a garden, and easy access to coast or countryside, but these are in short supply.",
+        "spans": [
+          "Many buyers are engaged in a race for space, according to Nationwide. They want bigger homes with room to live and work, as well as a garden, and easy-to-reach coast or countryside.",
+          "The trouble is they are in short supply."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Family homes are more popular due to reassessed priorities during Covid lockdowns and issues like the cladding crisis making city-centre flats less attractive.",
+        "spans": [
+          "Family homes are more popular, partly because people have reassessed their priorities during Covid lockdowns.",
+          "That, and the cladding crisis, have made some city-centre flats less attractive to buyers."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "High demand for homes is not being matched by supply, pushing up prices.",
+        "spans": [
+          "Any saving may well be eroded for buyers because the demand for homes is not being matched by supply.",
+          "A lack of homes on the market, when demand from buyers is high, is inevitably pushing up prices."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Buyers are borrowing more, maxing out what they can get from lenders, which is affordable due to low borrowing rates but could be risky if interest rates rise.",
+        "spans": [
+          "On top of that, buyers having to pay more are borrowing more. One broker says they are \"maxing out\" on what they can get from lenders.",
+          "That might be affordable when borrowing rates are low.",
+          "The Bank of England may choose to control that by raising interest rates.",
+          "That would make mortgage borrowing more expensive, putting some new property buyers who borrowed to their limit in financial danger."
+        ]
+      }
+    ],
+    "clueweb22-en0024-24-03963": [
+      {
+        "point_number": 1,
+        "point_content": "Home prices in March were 13.2% higher in 2021, compared with March 2020.",
+        "spans": [
+          "Home prices in March were 13.2% higher in 2021, compared with March 2020, according to the S&P CoreLogic Case-Shiller National Home Price Index."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Higher costs for land, labor and building materials have impacted homebuilders.",
+        "spans": [
+          "Higher costs for land, labor and building materials have impacted homebuilders."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Covid encouraged city dwellers to move to the suburbs and families looking for home offices and bigger yards, causing prices to skyrocket.",
+        "spans": [
+          "With Covid encouraging city dwellers to move to the suburbs and families looking for home offices and bigger yards, prices for the American dream home have skyrocketed."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Homeowners unwilling to sell and record low supply of homes for sale has forced buyers into intense bidding wars.",
+        "spans": [
+          "With homeowners unwilling to sell, a record low supply of homes for sale has forced buyers into intense bidding wars."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "At the end of April, there were only 1.16 million houses for sale in the U.S. down 20.5% from the year before.",
+        "spans": [
+          "At the end of April, there were only 1.16 million houses for sale in the U.S. down 20.5% from the year before."
+        ]
+      }
+    ],
+    "clueweb22-en0021-15-08475": [
+      {
+        "point_number": 1,
+        "point_content": "70 years of consistent appreciation in housing values, combined with stagnant real wage growth, has caused a nationwide crisis of affordability in major cities.",
+        "spans": [
+          "70 years of consistent appreciation in housing values, combined with stagnant real wage growth, has caused a nationwide crisis of affordability in major cities"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "In cities such as San Francisco and New York, a consistent 2.5% annual appreciation above inflation in housing prices and rents has resulted in a quadrupling of housing costs since 1950.",
+        "spans": [
+          "a consistent 2.5% annual appreciation above inflation in housing prices and rents has resulted in a quadrupling of housing costs since 1950"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Housing has fallen into a free market trap with inelastic demand, where people will pay almost anything to acquire housing, a basic need.",
+        "spans": [
+          "Housing, like student loans and health insurance, has fallen into a free market trap. There’s an inelastic demand - everyone needs housing, an education and to be healthy - and people will pay almost anything to acquire these basic needs"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Median home prices have risen from 2.2 times the average yearly income in 1950 to 3.7 times in 2013, largely paid for with greater private debt.",
+        "spans": [
+          "In 1950, the median home price was 2.2 times the average yearly income. In 2013, a few years after the worst housing market crash in a century, median home prices had already risen to 3.7 times the average income",
+          "Largely, this inflexible cost has been paid for with greater private debt"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Mortgage debt as a percentage of GDP grew from 15% to 80% between 1949 and 2018.",
+        "spans": [
+          "Between 1949 and 2018, mortgage debt as a percentage of GDP grew from 15% to 80%"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Banks and government have fueled the private housing market, with banks profiting from higher home values and governments benefiting from property tax revenues.",
+        "spans": [
+          "The two institutions with the most to gain from housing appreciation - banks and the government - have fuelled the private housing market since mortgage terms were rewritten following the Great Depression",
+          "Banks have adeptly parlayed the human need for a stable home into trillions of dollars worth of profits",
+          "For banks, the monopoly of the mortgage 9 market has allowed them to create a home-value arms race - the higher the value of the property, the higher the interest payments and potential profit",
+          "Even after the collapse of housing bubbles, government bailouts and favourable bankruptcy rules have limited the risk that banks face from limitless home value appreciation",
+          "Governments, especially local governments, have a vested interest in maximizing property values",
+          "A booming homeownership market means rising net worths of the population and a steady source of tax receipts",
+          "For local and state governments, property tax is more important than income tax"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Restricting redevelopment and converting below-market units to market rate units have increased property tax receipts and housing costs.",
+        "spans": [
+          "By restricting redevelopment, building market rate apartments and condos, and allowing thousands of below-market units to be converted to market rate units, property tax receipts have ballooned"
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Housing development has not kept up with population growth, but appreciation and inflation are powerful drivers of housing costs independent of new units built.",
+        "spans": [
+          "housing development hasn’t been keeping up with population growth at a regional level",
+          "appreciation and inflation alone are such powerful drivers of the cost of housing that San Francisco would need to double the number of new units added per year to keep housing costs flat"
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Extreme income inequality and inflexible rental costs exacerbate housing affordability issues.",
+        "spans": [
+          "Another issue not addressed by market rate housing development is extreme income inequality, which is exacerbated by the relative inflexibility in rental costs"
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Short-term rentals and vacation homes increase housing costs, as shown by a study linking Airbnb growth to rent increases.",
+        "spans": [
+          "Cutting down on short-term rentals and vacation homes also has a dramatic impact on housing affordability",
+          "In a recent study, MIT, UCLA, and USC found that for every 10% growth in Airbnb listings, a zip code’s average rent increased by 0.4%"
+        ]
+      }
+    ],
+    "clueweb22-en0027-83-12396": [
+      {
+        "point_number": 1,
+        "point_content": "House prices have been pushed up by the hundreds of billions of pounds of new money that banks created in the years before the financial crisis.",
+        "spans": [
+          "house prices have also been pushed up by the hundreds of billions of pounds of new money that banks created in the years before the financial crisis"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Banks created money through mortgage lending, which more than quadrupled and was a major driver of the increase in house prices.",
+        "spans": [
+          "banks have the ability to create money every time they make a loan",
+          "the amount of money banks created through mortgage lending more than quadrupled! This lending was a major driver of the massive increase in house prices"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "House prices rise much faster than wages, making houses less affordable and increasing the amount of salary spent on mortgage repayments.",
+        "spans": [
+          "House prices rise much faster than wages, which means that houses become less and less affordable",
+          "This increase in prices led to a massive increase in the amount of money that first time buyers spent on mortgage repayments"
+        ]
+      }
+    ],
+    "clueweb22-en0024-56-10828": [
+      {
+        "point_number": 1,
+        "point_content": "People getting back to work is a factor behind the strength in Canada’s housing market.",
+        "spans": [
+          "One factor behind the strength in Canada’s housing market is people getting back to work."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Lower unemployment is good for the housing market because people are more likely to make mortgage payments.",
+        "spans": [
+          "It goes without saying that lower unemployment is good for the housing market. When people have work, they are more likely to be able to make mortgage payments."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Housing supply is low because Canadians stayed at home and cancelled plans to move, and mortgage deferrals saved homeowners from selling.",
+        "spans": [
+          "A big reason why Canadian housing stayed expensive this year is because supply was low.",
+          "For much of the year, Canadians stayed at home and cancelled plans to move out.",
+          "At the same time, mortgage deferrals saved unemployed homeowners from having to sell."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Lower supply with constant demand results in higher housing prices.",
+        "spans": [
+          "If demand is held constant, a decline in supply will result in a lower price. So, it’s not surprising that housing prices have been rising this year. Even with flat demand, lower supply will have that effect."
+        ]
+      }
+    ],
+    "clueweb22-en0016-65-09495": [
+      {
+        "point_number": 1,
+        "point_content": "High demand driven by Millennials entering the housing market and pandemic-related factors.",
+        "spans": [
+          "Millennials are the largest generation in American history. Having been too financially constrained to buy houses at a normal rate in the previous decade, many of them are now storming into the housing market.",
+          "Some might feel a desperate need to escape their current apartment, basement, or home after the coronavirus pandemic closed much of the world for more than a year and led to an outbreak of mind-numbing cabin fever.",
+          "homebuyers are flush with cash after a year in which the national savings rate soared to its highest level in decades.",
+          "interest rates, having basically declined for most of the past 40 years, recently touched new lows, luring more buyers into the market and encouraging higher bids."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Migration patterns and high-income buyers bidding up prices in certain markets.",
+        "spans": [
+          "the pandemic turned the kaleidoscope of U.S. migration, and many families—especially many high-income families with work-from-wherever jobs—are shopping around for sunny, spacious real estate and bidding up prices wherever they land.",
+          "Just shy of half the buyers are coming from out of state” in the hottest markets of Idaho, Texas, and Florida.",
+          "When people leave multimillion-dollar houses in, say, Los Angeles to plunk down $1 million on a house that was worth $500,000 a year ago, they turn a merely frenzied housing market into a once-in-history, hair-on-fire, what-the-hell-is-happening bonanza."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Low housing supply due to insufficient building, pandemic construction pause, and seniors aging in place.",
+        "spans": [
+          "Years of insufficient building and a construction pause during the pandemic have led to low inventory.",
+          "Seniors, who in previous decades sold their homes to downsize, are now more likely to “age in place,” which is keeping millions of homes off the market.",
+          "some builders are putting their projects on hold because of the sudden tripling of lumber prices, which could delay the construction boom this country so badly needs."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The housing shortage and high demand were predictable due to demographic trends and past construction declines.",
+        "spans": [
+          "The emergence of the huge Millennial generation in the 1980s made strong housing demand in the early 2020s entirely predictable.",
+          "The Great Recession’s clobbering of the construction industry made today’s housing shortage equally foreseeable."
+        ]
+      }
+    ],
+    "clueweb22-en0023-63-05510": [
+      {
+        "point_number": 1,
+        "point_content": "Low interest rates have definitely helped increase house prices.",
+        "spans": [
+          "Low interest rates have definitely helped increase house prices."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Since 1992 interest rates in the UK have fallen from 15% to 0.5%, making the cost of getting a mortgage much lower.",
+        "spans": [
+          "Since 1992 interest rates in the UK have fallen from 15% to 0.5%, making the cost of getting a mortgage much lower."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The era of very low interest rates has been a key factor in pushing up house prices.",
+        "spans": [
+          "Basically, the era of very low interest rates has been a key factor in pushing up house prices."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "There is a reluctance/inability to build houses, with house building at its lowest level since the second world war.",
+        "spans": [
+          "House building is at its lowest level since the second world war."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "There are many constraints on the building of houses including shortage of supply in popular areas, environmental costs, local opposition, and vested interests of existing homeowners.",
+        "spans": [
+          "In the most popular areas, there is a shortage of supply. It is difficult to find new land around greater London",
+          "Environmental cost. The British have a strong attachment to preserving “greenbelt land” Many areas are protected from further housing development.",
+          "Not in my back yard. People are usually in favour of more homes being built, as long as they are not in their local area. Increasing supply of houses leads to more congestion, crowded amenities and loss of greenbelt land.",
+          "Vested interests perhaps most importantly increased supply reduces the value of your existing home. Therefore, existing homeowners have a vested interest in keeping the supply as low as possible in their area."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Demand for housing is growing faster than supply due to population growth and demographic changes increasing the number of households.",
+        "spans": [
+          "UK Households projected to grow from 27.3 million in 2017. to 31.6 million in 2039. (4.3 million increase)",
+          "The UK population continues to grow (52 million in 1960 to 63.23 million in 2012). The forecast is for 71 million by 2033. Also, the number of householders is growing at a faster rate than the population. Demographic changes, such as higher divorce rates, and more single people living alone, have meant an increase in the number of households."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "There is a strong cultural and economic desire to own property, with parents often helping children to buy houses despite high prices.",
+        "spans": [
+          "there is a strong cultural and economic desire to own your property. Increasingly common is for parents to help their children to buy a house, with a deposit or even putting the mortgage in their name."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Housing is seen as a good investment, encouraging buy to let investors and foreign buyers, especially in London, increasing demand further.",
+        "spans": [
+          "housing has increasingly been seen as a good investment.",
+          "This has encouraged a new generation of buy to let investors, this has helped to increase demand further.",
+          "In London, there has been a lot of demand from foreign nationals such as Russians and Arabs."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Renting is also expensive, making buying a house more attractive despite high prices.",
+        "spans": [
+          "The cost of renting has also risen faster than incomes.",
+          "If you are paying £800 a month, it makes sense to try and get a mortgage where you will be paying £900 a month, even if it means borrowing up to 6 or 7 times your income."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "The Covid pandemic has made buying a house more attractive due to increased feasibility of working from home and desire for better living space.",
+        "spans": [
+          "The economics of Covid have even made house prices (outside city centres) more expensive and the feasibility of working from home increases.",
+          "Covid has ironically made buying a house even more attractive.",
+          "There is likely to be a long-term shift towards buying a house. Therefore, a good living space becomes even more desirable."
+        ]
+      }
+    ],
+    "clueweb22-en0020-10-17554": [
+      {
+        "point_number": 1,
+        "point_content": "Home prices are now rising much faster than incomes, studies show.",
+        "spans": [
+          "Home prices are now rising much faster than incomes, studies show"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "During the Covid pandemic, home prices have shot up nearly nationwide while household income fell.",
+        "spans": [
+          "During the Covid pandemic, home prices have shot up nearly nationwide while household income fell."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "In the last decade, the median home price rose roughly 30% and incomes crept up just 11% over the same time period.",
+        "spans": [
+          "In the last decade, the median home price rose roughly 30% and incomes crept up just 11% over the same time period"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Over 50 years, after accounting for inflation, home prices have jumped 118% since 1965, while income has only increased by 15%.",
+        "spans": [
+          "After accounting for inflation, home prices have jumped 118% since 1965, while income has only increased by 15%"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The pandemic-induced run on housing only worsened the affordability crisis for many potential home buyers, even with record-low interest rates on mortgages.",
+        "spans": [
+          "In effect, the pandemic-induced run on housing only worsened the affordability crisis for many potential home buyers, even with record-low interest rates on mortgages."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "After the pandemic caused housing prices to spike, homes now cost 5.4 times more, on average, than a typical buyer's gross income.",
+        "spans": [
+          "After the pandemic caused housing prices to spike, homes now cost 5.4 times more, on average, than a typical buyer's gross income."
+        ]
+      }
+    ],
+    "clueweb22-en0003-13-06457": [
+      {
+        "point_number": 1,
+        "point_content": "Lower interest rates decrease the cost of financing a home, increasing demand and driving up house prices.",
+        "spans": [
+          "Lower Interest Rates",
+          "If interest rates are lower, the cost of financing a home decreases, and more prospective homeowners choose to buy property. Almost often, this rise in demand is the reason why are houses so expensive right now."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Increase in local zoning regulations has led to higher home prices by limiting supply.",
+        "spans": [
+          "Increase in Local Zoning Regulations",
+          "The amendments in this legislation have led directly to price rises for homes, especially in metropolitan regions. Allowance requirements, neighborhood limits, and laws that regulate population density are some types of zoning regulations. Together, they have driven home prices to become more costly, often lowering the potential supply of homes."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Higher building costs due to import prices and tariffs have contributed to rising house prices.",
+        "spans": [
+          "Higher Building Costs",
+          "The prices of certain imports have changed throughout time as a result of political developments and trade agreements. Concerning the housing market, this has helped to boost building costs. Many materials are more expensive than they were once because of tariffs."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Lower builder trust after losses in the Great Recession has reduced new home building, increasing prices.",
+        "spans": [
+          "Lower Builder Trust",
+          "Many builders incurred considerable losses in the new building during the Great Recession. Unfortunately, many building companies and building companies are still cautious of the losses reflected in prices."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Demographic changes, especially millennials entering the market, have increased demand and prices.",
+        "spans": [
+          "Demographic Change",
+          "In the previous few years, this segment began buying property, which led to increased demand for residences."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Increase in land prices due to population growth has directly increased average house prices.",
+        "spans": [
+          "Augmentation of Land Prices",
+          "Over time, population increases have led to fewer land in the country. The growth in land costs is directly linked to average house prices."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "State subsidies have allowed buyers to pay more, indirectly increasing house prices.",
+        "spans": [
+          "State Subsidies",
+          "Although these homeownership initiatives were beneficial to certain people, they also contributed to higher pricing. The idea is that subsidies allow home purchasers to pay more for property, making sellers pay more."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "The supply and demand imbalance, worsened by COVID-19 pandemic effects, has caused house prices to rise sharply recently.",
+        "spans": [
+          "Why Are Houses So Expensive Right Now?",
+          "Following the onset of the COVID-19 pandemic, interest rates were reduced to boost economic health. The drastic drop in interest rates, combined with numerous Americans’ desire to abandon apartments and cities in favor of residential areas and lower prices, created an increased demand. In contrast, many sellers withdrew from the market due to political and economic instability. More buyers than sellers have since entered the real estate market, and total house prices have dramatically increased as a result."
+        ]
+      }
+    ],
+    "clueweb22-en0036-42-08518": [
+      {
+        "point_number": 1,
+        "point_content": "Housing prices in California are very high because demand has long exceeded supply of homes for sale, and wealthier households with money to spend and low interest rates have driven up prices.",
+        "spans": [
+          "Demand has long exceeded supply of homes for sale in California",
+          "wealthier households with money to spend and capitalizing on low interest rates have driven up prices even more"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The cost of building multifamily housing in California has increased significantly due to more expensive materials and a shortage of labor.",
+        "spans": [
+          "Over the last decade, the cost of building multifamily housing in California has spiked by about 25%",
+          "The reasons are many and complicated, but two big ones are more expensive materials and a shortage of labor"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Land value is a major component of housing prices, especially in urban areas where land is scarce and highly desirable.",
+        "spans": [
+          "In most of the state’s major urban areas, the bulk of a single-family house’s price is locked into the land it sits on",
+          "What makes land expensive? When it’s in shortest supply"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Local opposition and regulatory hurdles (NIMBYism) significantly slow down or limit new housing development, contributing to high prices.",
+        "spans": [
+          "land use planning in California is a local process—and one that affords opponents of change ample opportunity to stall, stymie, or scale down",
+          "higher hurdles to development in the state’s most desirable locations mean many cities have failed to add new units fast enough to keep up with population or job growth"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "A lack of stable public funding for affordable housing has reduced the construction of affordable units, exacerbating the housing crisis.",
+        "spans": [
+          "with the end of redevelopment came the end of the single largest source of non-federal money for affordable housing in the state",
+          "Between 2013 and 2018, state investments in affordable housing dropped from an annual average of $1.3 billion to less than $500 million"
+        ]
+      }
+    ]
+  }
+}

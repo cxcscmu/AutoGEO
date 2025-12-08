@@ -1,0 +1,68 @@
+{
+  "question": "why was the election of 2000 controversial?",
+  "key_points": [
+    {
+      "point_number": 1,
+      "point_content": "Neither George W. Bush nor Al Gore won the 270 electoral votes outright; the election hinged on Florida's results, where the vote was extremely close, separated by about 500 votes, leading to a mandatory recount.",
+      "original_point_number": [
+        1,
+        4,
+        5,
+        14
+      ]
+    },
+    {
+      "point_number": 2,
+      "point_content": "The Florida vote was controversial due to questionable ballots caused by sloppy measures such as 'hanging chads', punch card voting machines, butterfly ballots, and other election technology issues, which led to disputes over the accuracy and reliability of the vote count.",
+      "original_point_number": [
+        2,
+        11,
+        15
+      ]
+    },
+    {
+      "point_number": 3,
+      "point_content": "The Florida Supreme Court extended the deadline for the recount and ordered a manual recount, but the Bush campaign appealed, and the US Supreme Court agreed to hear the case.",
+      "original_point_number": [
+        16
+      ]
+    },
+    {
+      "point_number": 4,
+      "point_content": "In Bush v. Gore, the US Supreme Court stopped the recount by a 5-4 vote and awarded Florida's electoral votes to Bush, declaring him president-elect; this decision was controversial due to perceived partisan lines and the fact that Bush's brother was governor of Florida at the time.",
+      "original_point_number": [
+        3,
+        6,
+        7,
+        13,
+        16,
+        17,
+        18
+      ]
+    },
+    {
+      "point_number": 5,
+      "point_content": "Al Gore won the popular vote nationwide, but George W. Bush won the electoral vote due to Florida's electoral votes and the Supreme Court decision.",
+      "original_point_number": [
+        4,
+        8,
+        12,
+        13
+      ]
+    },
+    {
+      "point_number": 6,
+      "point_content": "The election was further complicated by the impact of third party Green candidate Ralph Nader, with some contending his campaign cost Gore votes needed to win Florida, while others argued the election would not have been so close if Gore had not fumbled on his own.",
+      "original_point_number": [
+        9
+      ]
+    },
+    {
+      "point_number": 7,
+      "point_content": "Some votes intended for other candidates were mistakenly counted for George W. Bush.",
+      "original_point_number": [
+        10
+      ]
+    }
+  ]
+}

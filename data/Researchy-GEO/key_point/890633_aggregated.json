@@ -1,0 +1,38 @@
+{
+  "question": "does working from home work? evidence from a chinese experiment",
+  "key_points": [
+    {
+      "point_number": 1,
+      "point_content": "Home working led to a 13% performance increase, of which about 9% was from working more minutes per shift (due to fewer breaks and sick days) and 4% from more calls per minute (attributed to a quieter and more convenient working environment).",
+      "original_point_number": [
+        1,
+        4,
+        7,
+        8,
+        9,
+        13,
+        14
+      ]
+    },
+    {
+      "point_number": 2,
+      "point_content": "Home workers reported improved work satisfaction and experienced less turnover or attrition (attrition rate halved), but their promotion rate conditional on performance fell (almost 50% lower, possibly due to less visibility to managers).",
+      "original_point_number": [
+        2,
+        5,
+        10,
+        12,
+        15
+      ]
+    },
+    {
+      "point_number": 3,
+      "point_content": "CTrip rolled out the option to work from home to the whole firm and allowed employees to re-select between home or office, leading to gains from WFH almost doubling to 22%. Over half of the experimental employees switched to home working.",
+      "original_point_number": [
+        3,
+        6,
+        16
+      ]
+    }
+  ]
+}

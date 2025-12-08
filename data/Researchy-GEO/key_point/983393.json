@@ -1,0 +1,41 @@
+{
+  "question": "which action contributed to the southern belief that their economy was threatened?",
+  "key_points": {
+    "clueweb22-en0034-98-01816": [
+      {
+        "point_number": 1,
+        "point_content": "The approval of protective tariffs on manufactured goods contributed to the Southern belief that their economy was threatened.",
+        "spans": [
+          "d. The approval of protective tariffs on manufactured goods"
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0022-58-10579": [
+      {
+        "point_number": 1,
+        "point_content": "The concept American expansionists used to justify westward territorial growth was called Manifest Destiny.",
+        "spans": [
+          "The concept American expansionists used to justify westward territorial growth was called",
+          "A. Manifest Destiny"
+        ]
+      }
+    ],
+    "clueweb22-en0037-52-12912": [
+      {
+        "point_number": 1,
+        "point_content": "The federal government abolished the international slave trade in 1808, but slavery proliferated nonetheless.",
+        "spans": [
+          "The federal government abolished the international slave trade in 1808, but slavery proliferated nonetheless."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "An antislavery majority in Congress could harm the South's economy.",
+        "spans": [
+          "An antislavery majority in Congress could harm the South's economy."
+        ]
+      }
+    ]
+  }
+}

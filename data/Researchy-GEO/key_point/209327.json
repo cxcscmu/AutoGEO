@@ -1,0 +1,242 @@
+{
+  "question": "which best practices can help defend against social engineering attacks?",
+  "key_points": {
+    "clueweb22-en0037-73-10945": [
+      {
+        "point_number": 1,
+        "point_content": "Three best practices can help defend against social engineering attacks: Educate employees regarding policies, Resist the urge to click on enticing web links.",
+        "spans": [
+          "What three best practices can help defend against social engineering attacks?",
+          "Educate employees regarding policies",
+          "Resist the urge to click on enticing web links."
+        ]
+      }
+    ],
+    "clueweb22-en0039-23-03959": [
+      {
+        "point_number": 1,
+        "point_content": "Set spam filters to high to keep away from spam messages.",
+        "spans": [
+          "Set spam filters to high. Every email program has spam filters. To find out, look closely through your setting options and set them too high. It will help you keep away from spam messages to a large extent."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Never use the same password for different accounts to prevent multiple account hacks.",
+        "spans": [
+          "Never use the same password for different accounts. If the attacker gets hold of one account, they will be able to hack other accounts too."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Use two-factor or multi-factor authentication for additional security layers.",
+        "spans": [
+          "Use two-factor or multi-factor authentication. Just the password is no longer enough to secure your account. Additional layers are just are crucial. It can be a security question, a captcha, fingerprinting, or SMS confirmation codes."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Change passwords immediately if you suspect they have been compromised.",
+        "spans": [
+          "When in doubt, change passwords right away. If you think you gave away your password to a spammer, change all your passwords immediately."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Educate employees about the latest social engineering threats and necessary caution.",
+        "spans": [
+          "Educate employees. Knowledge is key. Keep your employees aware of the latest social engineering threats and help them exercise the necessary caution, whenever needed."
+        ]
+      }
+    ],
+    "clueweb22-en0005-75-03106": [
+      {
+        "point_number": 1,
+        "point_content": "Resist the urge to click on enticing web links.",
+        "spans": [
+          "Resist the urge to click on enticing web links."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Enable a policy that states that the IT department should supply information over the phone only to managers.",
+        "spans": [
+          "Enable a policy that states that the IT department should supply information over the phone only to managers."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Do not provide password resets in a chat window.",
+        "spans": [
+          "Do not provide password resets in a chat window."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Educate employees regarding policies.",
+        "spans": [
+          "Educate employees regarding policies."
+        ]
+      }
+    ],
+    "clueweb22-en0041-32-19298": [
+      {
+        "point_number": 1,
+        "point_content": "Review the entire URL, along with the padlock, before using the website to confirm authenticity.",
+        "spans": [
+          "Review the entire URL, along with the padlock, before using the website. Confirm that you are using a genuine URL with real domain name and verify authenticity of the website."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Think before you click on emails, social media requests, or attachments you are not familiar with or expecting.",
+        "spans": [
+          "Think before you click. Don’t accept emails, social media friend requests, or click on attachments you are not familiar with or expecting. Before clicking, hover over links and check where they lead to or manually type in  the URL address."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Do not share any information without confirming the legitimacy of who is asking.",
+        "spans": [
+          "Do not share any information (e.g.,  schedules, names, agendas, email addresses) over the phone, via email, or in-person without confirming the legitimacy of who is asking."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Log out/sign out or lock your computer when away, especially on public computers.",
+        "spans": [
+          "Remember to log out/sign out or lock your computer when you are away. Especially if you are using a public computer, such as at the library or an Internet cafe, and close the browser."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Keep your operating system and mobile apps updated and patched.",
+        "spans": [
+          "Keep your operating system and mobile apps for email, social media, and online banking updated. Remember to patch!"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Use a password manager and strong passwords with a mix of characters and phrases.",
+        "spans": [
+          "Use a password manager and strong passwords. Use upper- and lower-case letters, numbers and special characters, random numbers and letters. Never use your birthday, hometown, school, university, or only one word in the dictionary.  Think in terms of phrases rather than words to generate passwords."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Enable multi-factor authentication for an extra layer of protection.",
+        "spans": [
+          "Enable multi-factor authentication. It adds an extra layer of protection to your email security."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Enable whole-disk encryption on smartphones, laptops, tablets to protect information if devices are stolen.",
+        "spans": [
+          "Enable whole-disk encryption on smartphones, laptops, tablets. This helps protect your information if one of your devices is stolen."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Do not share accounts or passwords for email, social media, or online banking.",
+        "spans": [
+          "Don’t share accounts or passwords. This includes your email, SNS, or online banking passwords."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Clear your Internet history and cookies after online banking sessions.",
+        "spans": [
+          "Clear your Internet history. For example, cookies used during your online banking session may not expire for hours, weeks, etc."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Avoid sending sensitive information over email or posting on social networking sites.",
+        "spans": [
+          "Avoid sending sensitive information over email or posting on SNS. Remember the Internet is permanent. Do not reveal personal information and be suspicious of anyone who asks for your personal information online."
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "Close old accounts and apps and delete personal information from them.",
+        "spans": [
+          "Close old accounts and apps. Research suggests that fraud conducted via rogue mobile apps exploded by 300 percent in recent months. Don’t risk leaving personal data in old accounts, such as a MySpace page you haven’t used in years or on an online dating site you no longer need. Instead, close the accounts you don’t use and delete as much personal information from them as possible."
+        ]
+      },
+      {
+        "point_number": 13,
+        "point_content": "Give false answers for password recovery options and store them in a password manager.",
+        "spans": [
+          "Give false answers for password recovery options. Store them in a password manager."
+        ]
+      },
+      {
+        "point_number": 14,
+        "point_content": "Do not enable auto login on apps or browsers to prevent automatic access if devices are compromised.",
+        "spans": [
+          "Do not enable auto login. Make sure that you don’t have your apps set to automatically log you in and that you don’t have your computer’s browser “remember” your login and password."
+        ]
+      },
+      {
+        "point_number": 15,
+        "point_content": "Never discard intact removable media or computers containing personal information without physically destroying them.",
+        "spans": [
+          "Never discard intact removable media or computers containing personal information. Physically destroy the media. Shredding CD/DVDs and smashing thumb drives renders them useless to dumpster divers."
+        ]
+      },
+      {
+        "point_number": 16,
+        "point_content": "Avoid using public WiFi connections or use a VPN if necessary.",
+        "spans": [
+          "Avoid using public WiFi connections. If you must do so, use a VPN."
+        ]
+      }
+    ],
+    "clueweb22-en0001-10-14037": [
+      {
+        "point_number": 1,
+        "point_content": "Educate yourself.",
+        "spans": [
+          "Educate yourself."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Be aware of the information you're releasing.",
+        "spans": [
+          "Be aware of the information you're releasing."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Determine which of your assets are most valuable to criminals.",
+        "spans": [
+          "Determine which of your assets are most valuable to criminals."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Write a policy and back it up with good awareness training.",
+        "spans": [
+          "Write a policy and back it up with good awareness training."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Keep your software up to date.",
+        "spans": [
+          "Keep your software up to date."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Give employees a sense of ownership when it comes to security.",
+        "spans": [
+          "Give employees a sense of ownership when it comes to security"
+        ]
+      }
+    ],
+    "null": []
+  }
+}

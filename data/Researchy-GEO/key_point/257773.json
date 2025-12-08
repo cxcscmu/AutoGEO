@@ -1,0 +1,391 @@
+{
+  "question": "how has online shopping grown",
+  "key_points": {
+    "clueweb22-en0043-28-01765": [
+      {
+        "point_number": 1,
+        "point_content": "Global e-commerce sales are expected to hit $5.5 trillion in 2022.",
+        "spans": [
+          "Global e-commerce sales are expected to hit $5.5 trillion in 2022."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The year 2021 saw annual retail e-commerce sales pass $4.9 trillion worldwide, and eMarketer predicts it will grow to over $5.5 trillion by the end of 2022.",
+        "spans": [
+          "The year 2021 saw annual retail e-commerce sales pass $4.9 trillion worldwide, and eMarketer predicts it will grow to over $5.5 trillion by the end of 2022."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "In 2021 there will be around 2.14 billion unique online shoppers around the world.",
+        "spans": [
+          "In 2021 there will be around 2.14 billion unique online shoppers around the world."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "E-commerce revenue in the U.S. passed the $400 billion mark for the first time in 2020, reaching $431.6 billion, about a 20% increase from 2019.",
+        "spans": [
+          "E-commerce revenue in the U.S. passed the $400 billion mark for the first time in 2020, reaching $431.6 billion. This is about a 20% increase from the total revenue in 2019, which was $360.1 billion."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "E-commerce saw a 31% increase in growth from 2019 to 2020, but it returned to a normal level of growth in 2021, with a 14% increase.",
+        "spans": [
+          "e-commerce saw a 31% increase in growth from 2019 to 2020, but it returned to a normal level of growth in 2021, with a 14% increase."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Between the second quarter of 2020 and the first quarter of 2021, e-commerce saw growth of between 32% and 43.8% — over double what would normally be expected.",
+        "spans": [
+          "between the second quarter of 2020 and the first quarter of 2021, e-commerce saw growth of between 32% and 43.8% — over double what would normally be expected."
+        ]
+      }
+    ],
+    "clueweb22-en0034-18-07794": [
+      {
+        "point_number": 1,
+        "point_content": "In 2021, an estimated 2.14 billion people worldwide are expected to purchase goods online. Global ecommerce sales is forecast at $4.891 trillion, projected to grow to $6.4 trillion by 2024.",
+        "spans": [
+          "In 2021, an estimated 2.14 billion people worldwide are expected to purchase goods online (Statista, 2017).",
+          "global ecommerce sales is forecast at $4.891 trillion.",
+          "projections show that ecommerce sales worldwide are going to grow to $6.4 trillion by 2024."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The number of people buying goods and services online has increased more than ever before, making online shopping a multibillion-dollar industry.",
+        "spans": [
+          "Recently the number of people buying goods and services online has increased more than ever before.",
+          "online shopping has gone from being non-existent to becoming a multibillion-dollar industry."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Online shopping is becoming more like shopping in person due to businesses adding new features and services to improve the customer experience.",
+        "spans": [
+          "One of the reasons why online shopping has grown so much over the years is because of the experience that businesses are able to provide to their customers.",
+          "We’re constantly seeing businesses add new features and services for online shoppers, with the intent of providing them the same support and comfort that they would have during an in-person shopping experience.",
+          "The truth is that shopping online is becoming more and more like shopping in person."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "63 percent of shopping occasions begin online, indicating the importance of a strong online presence for businesses.",
+        "spans": [
+          "63 percent of shopping occasions begin online (Thinkwithgoogle, 2018)."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Nearly half of consumers shop more on mobile than in-store, showing the rise of mobile shopping.",
+        "spans": [
+          "Nearly half of consumers shop more on mobile than in-store (Ibotta, 2018)."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "The coronavirus pandemic has significantly increased online shopping, especially for groceries, with 42 percent of the US population purchasing groceries online weekly in March 2020, up from 22 percent two years prior.",
+        "spans": [
+          "With countries across the globe imposing strict lockdown measures in a bid to limit the spread of the virus, the number of consumers shopping online, especially for groceries, has skyrocketed.",
+          "According to a recent study, in March 2020, 42 percent of the US population purchased their groceries online at least once a week (GeekWire, 2020). This marks a stark increase from 22 percent just two years ago."
+        ]
+      }
+    ],
+    "clueweb22-en0045-66-09995": [
+      {
+        "point_number": 1,
+        "point_content": "Online shopping was increasing gradually even before the coronavirus disease 2019 (COVID-19) pandemic began.",
+        "spans": [
+          "Online shopping was increasing gradually even before the coronavirus disease 2019 (COVID-19) pandemic began."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "With stay-at-home orders in place around the country, a huge increase in people ordering everything from groceries to clothing to household supplies online might be expected.",
+        "spans": [
+          "With stay-at-home orders in place around the country, a huge increase in people ordering everything from groceries to clothing to household supplies online might be expected."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Almost two-thirds of the respondents have not changed their online shopping habits since the pandemic began.",
+        "spans": [
+          "almost two-thirds of the respondents have not changed their online shopping habits since the pandemic began."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "About one-quarter are shopping online more, but 13 percent are actually shopping online less.",
+        "spans": [
+          "About one-quarter are shopping online more, but 13 percent are actually shopping online less."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Most of the one-quarter of people doing more online shopping made small increases in their habits.",
+        "spans": [
+          "most of them made small increases in their habits—from shopping online \"never or almost never\" to \"a few times per month,\" or from \"about once a week\" to \"a few times a week.\""
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "People in more-affluent households were more likely to increase their online shopping than those in lower-income households.",
+        "spans": [
+          "People in more-affluent households were more likely to increase their online shopping: More than one-third of households with incomes over $125,000 increased their online shopping, while only 20 percent of households with incomes under $40,000 began shopping more online."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Younger people (under 35) were more likely to increase their online shopping than older people (over 55).",
+        "spans": [
+          "Younger people (those under 35) were more likely to increase their online shopping than older people (those over 55), at 30 percent and 20 percent, respectively."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "People working in service jobs strongly affected by stay-at-home orders shopped online less often.",
+        "spans": [
+          "People working in service jobs that were strongly affected by stay-at-home orders, such as personal care, building maintenance, and food preparation, actually shopped online less often."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "About 20 percent of people never or almost never shop online, either before or during the COVID-19 pandemic.",
+        "spans": [
+          "We also learned that about 20 percent of people never or almost never shop online, either before or during the COVID-19 pandemic."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Younger people were most likely to shop online before the COVID-19 pandemic and increased their frequency during the pandemic.",
+        "spans": [
+          "younger people (those under 35) were most likely to shop online before the COVID-19 pandemic. Almost half were shopping online once per week or more already, and that rose to more than 60 percent after the COVID-19 pandemic began."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Older people are less likely to shop online and their patterns changed less during the COVID-19 pandemic.",
+        "spans": [
+          "The older people are, the less likely they are to shop online. Their patterns of online shopping also changed less during the COVID-19 pandemic."
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "People in urban and rural areas have similar online shopping habits, with only slight increases in urban areas during the pandemic.",
+        "spans": [
+          "people who live in urban and rural areas have similar online shopping habits. Before the COVID-19 pandemic, they were nearly identical. During the pandemic, people in urban areas increased their online shopping only slightly more than did people in rural areas, meaning that the overall rates are still very similar."
+        ]
+      },
+      {
+        "point_number": 13,
+        "point_content": "Gender made very little difference in online shopping rates.",
+        "spans": [
+          "Gender also made very little difference in online shopping rates."
+        ]
+      },
+      {
+        "point_number": 14,
+        "point_content": "Online shopping is highest among younger adults and will continue to grow as they age.",
+        "spans": [
+          "the strongest conclusion from our data is that online shopping is highest among younger adults. If they continue to shop online at the rates that they do now, online shopping will continue to grow, slowly but surely, as they age."
+        ]
+      }
+    ],
+    "clueweb22-en0010-16-06285": [
+      {
+        "point_number": 1,
+        "point_content": "The overall percentage of e-commerce retail sales in the US shot up in Quarter 2 of 2020, accounting for 16% of sales in the US in Q2 2020.",
+        "spans": [
+          "the overall percentage of e-commerce retail sales in the US shot up in Quarter 2 of 2020, accounting for 16% of sales in the US in Q2 2020"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The market share of e-commerce within US retail sales now looks to be settling around 13-14% between Q3 2020 - Q2 2021.",
+        "spans": [
+          "The market share of e-commerce within US retail sales now looks to be settling around 13-14% between Q3 2020 - Q2 2021"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The overall percentage of e-commerce retail sales in the UK rising to over a third of all retail in the UK in November 2020 and January 2021.",
+        "spans": [
+          "overall percentage of e-commerce retail sales in the UK rising to over a third of all retail in the UK in November 2020 and January 2021"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Latin America grew 36.7% in e-commerce in 2021, leading regional e-commerce growth.",
+        "spans": [
+          "Latin America grew 36.7%"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Retail e-commerce sales in the US will grow to 23.6% of all sales by 2025, a change of 13.7% YOY, amounting to a total of US $1.648 in sales, the highest prediction yet.",
+        "spans": [
+          "retail e-commerce sales in the US will grow to 23.6% of all sales by 2025, a change of 13.7% YOY, amounting to a total of US $1.648 in sales, the highest prediction yet"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "In the 1st quarter of 2021, US E-commerce sales made up 12-13% of total sales.",
+        "spans": [
+          "In the 1st quarter of 2021, US E-commerce sales made up 12-13% of total sales"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "UK online retail sales in October 2019 reported year-on-year growth of +6.3%.",
+        "spans": [
+          "UK online retail sales in October 2019 reported year-on-year growth of +6.3%"
+        ]
+      }
+    ],
+    "clueweb22-en0036-97-08010": [
+      {
+        "point_number": 1,
+        "point_content": "The COVID-19 pandemic has forever changed online shopping behaviours.",
+        "spans": [
+          "The COVID-19 pandemic has forever changed online shopping behaviours"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "More than half of the survey’s respondents now shop online more frequently following the pandemic.",
+        "spans": [
+          "Following the pandemic, more than half of the survey’s respondents now shop online more frequently"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Consumers in emerging economies have made the greatest shift to online shopping.",
+        "spans": [
+          "Consumers in emerging economies have made the greatest shift to online shopping"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Online purchases have increased by 6 to 10 percentage points across most product categories.",
+        "spans": [
+          "online purchases have increased by 6 to 10 percentage points across most product categories"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The biggest gainers in online shopping categories are ICT/electronics, gardening/do-it-yourself, pharmaceuticals, education, furniture/household products and cosmetics/personal care.",
+        "spans": [
+          "The biggest gainers are ICT/electronics, gardening/do-it-yourself, pharmaceuticals, education, furniture/household products and cosmetics/personal care categories"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Increases in online shopping during COVID-19 differ between countries, with the strongest rise noted in China and Turkey and the weakest in Switzerland and Germany.",
+        "spans": [
+          "Increases in online shopping during COVID-19 differ between countries, with the strongest rise noted in China and Turkey and the weakest in Switzerland and Germany"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Women and people with tertiary education increased their online purchases more than others; people aged 25 to 44 reported a stronger increase compared with younger ones.",
+        "spans": [
+          "The survey found that women and people with tertiary education increased their online purchases more than others. People aged 25 to 44 reported a stronger increase compared with younger ones."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Small merchants in China were most equipped to sell their products online and those in South Africa were least prepared.",
+        "spans": [
+          "small merchants in China were most equipped to sell their products online and those in South Africa were least prepared"
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Most respondents said they’d continue shopping online and focusing on essential products in the future, suggesting changes are likely to outlast the pandemic.",
+        "spans": [
+          "Most respondents, especially those in China and Turkey, said they’d continue shopping online and focusing on essential products in the future."
+        ]
+      }
+    ],
+    "clueweb22-en0025-51-16871": [
+      {
+        "point_number": 1,
+        "point_content": "Consumers are now buying more things online than in stores, with shoppers making 51% of their purchases online in 2016, compared to 48% in 2015 and 47% in 2014.",
+        "spans": [
+          "shoppers now make 51% of their purchases online, compared to 48% in 2015 and 47% in 2014"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The use of smartphones to make purchases has increased, with 44% of smartphone users making buys through their devices, up from 41% a year ago.",
+        "spans": [
+          "44% of smartphone users made buys through their devices, compared to 41% a year ago"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "About 190 million U.S. consumers—more than half the population—will shop online in 2016.",
+        "spans": [
+          "About 190 million U.S. consumers—more than half the population—will shop online this year"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Amazon's e-commerce revenue rose 15.8% in the last 12 months, reaching $82.7 billion in sales, significantly outpacing Walmart's $12.5 billion.",
+        "spans": [
+          "Amazon’s e-commerce revenue rose 15.8% in the last 12 months",
+          "Amazon posted $82.7 billion in sales, compared with $12.5 billion for Walmart"
+        ]
+      }
+    ],
+    "clueweb22-en0041-55-14707": [
+      {
+        "point_number": 1,
+        "point_content": "The proportion of total sales that took place online has grown by over 10% when comparing the period of the pandemic this year (March to August) against the same period last year.",
+        "spans": [
+          "The proportion of total sales that took pace online has grown by over 10% when comparing the period of the pandemic this year (March to August) against the same period last year."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Clothing, household goods and “other” stores have all seen their proportion of online sales more than double during the pandemic period.",
+        "spans": [
+          "Clothing, household goods and “other” stores have all seen their proportion of online sales more than double during the pandemic period."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Food stores have seen the largest increase in online sales, with August’s sales having nearly doubled, compared with February 2020.",
+        "spans": [
+          "Food stores have seen the largest increase in online sales, with August’s sales having nearly doubled, compared with February 2020."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Large supermarkets reported a huge surge in “click and collect” and delivery orders.",
+        "spans": [
+          "Large supermarkets reported a huge surge in “click and collect” and delivery orders."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The boost in online has been driven by a move from physical stores to their websites, not by online only stores.",
+        "spans": [
+          "The data show that sales at online only stores (in non-store retailing) have stayed flat. This means the boost in online has been driven by a move from physical stores to their websites."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Both department stores and household goods stores reported a 70% increase in online sales during August when compared with pre COVID levels.",
+        "spans": [
+          "However both sectors still reported a 70% increase in online sales during August when compared with pre COVID levels."
+        ]
+      }
+    ],
+    "null": []
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "question": "why is animal testing ineffective",
+  "key_points": [
+    {
+      "point_number": 1,
+      "point_content": "Animals are not good models for human medicine because humans and animals are genetically, metabolically, and anatomically different, and animals do not get many of the human diseases that people do.",
+      "original_point_number": [
+        1,
+        8
+      ]
+    },
+    {
+      "point_number": 2,
+      "point_content": "Genetic engineering techniques on animals have been described as unpredictable and inefficient.",
+      "original_point_number": [
+        2
+      ]
+    },
+    {
+      "point_number": 3,
+      "point_content": "Past scientific discoveries, including the thalidomide disaster and the Opren incident, prove that animal testing failed to predict harmful or toxic effects in humans, causing deaths.",
+      "original_point_number": [
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "point_number": 4,
+      "point_content": "Animal testing is ineffective because it cannot be proven to yield results that aren’t easily falsifiable, and animals are poor test subjects that cannot be trusted in determining long-term effects.",
+      "original_point_number": [
+        6,
+        10
+      ]
+    },
+    {
+      "point_number": 5,
+      "point_content": "Nine out of ten drugs proven successful in animal tests fail in human trials, with approximately 90 percent of pharmaceuticals tested on animals failing to advance to human clinical trials, and of the few that pass animal testing, an estimated 92 percent fail clinical trials.",
+      "original_point_number": [
+        7,
+        12
+      ]
+    },
+    {
+      "point_number": 6,
+      "point_content": "Animal testing is often unsuccessful in assessing the effectiveness of pharmaceuticals for humans, as the vast majority of pharmaceuticals developed using animal testing ultimately prove to be ineffective methods of treatment.",
+      "original_point_number": [
+        11,
+        13
+      ]
+    },
+    {
+      "point_number": 7,
+      "point_content": "The inconsistency between the results of animal testing and those of human clinical trials strongly suggests that animal testing procedures are an unreliable method of research.",
+      "original_point_number": [
+        14
+      ]
+    }
+  ]
+}

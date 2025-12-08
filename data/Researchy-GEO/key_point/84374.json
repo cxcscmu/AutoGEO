@@ -1,0 +1,105 @@
+{
+  "question": "are other providers such as nurse practitioners accepted as primary care providers?",
+  "key_points": {
+    "clueweb22-en0027-92-08082": [
+      {
+        "point_number": 1,
+        "point_content": "About 45% of NPs served as primary care providers with their own patient panel.",
+        "spans": [
+          "About 45% of NPs served as primary care providers with their own patient panel."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "NPs can help meet the increasing demand for primary care by taking responsibilities as primary care providers, and organizations can assign NPs their own patient panels.",
+        "spans": [
+          "NPs can help meet the increasing demand for primary care by taking responsibilities as primary care providers, and organizations can assign NPs their own patient panels."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Supporting NP independent practice within organizations promotes NP role as primary care providers.",
+        "spans": [
+          "Supporting NP independent practice within organizations promotes NP role as primary care providers."
+        ]
+      }
+    ],
+    "clueweb22-en0015-55-07006": [
+      {
+        "point_number": 1,
+        "point_content": "Primary Health Care Nurse Practitioners (NPs) are Registered Nurses with advanced education and training that enables them to provide additional primary health care functions in health promotion, disease and injury prevention, cure, rehabilitation, and other services.",
+        "spans": [
+          "Primary Health Care Nurse Practitioners (NPs) are Registered Nurses with advanced education and training that enables them to provide additional primary health care functions in health promotion, disease and injury prevention, cure, rehabilitation, and other services."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "NPs provide wellness care, diagnose and treat minor illnesses and injuries, screen for the presence of chronic disease and monitor patients with stable chronic disease.",
+        "spans": [
+          "NPs provide wellness care, diagnose and treat minor illnesses and injuries, screen for the presence of chronic disease and monitor patients with stable chronic disease."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "NPs also prescribe drugs (as defined by provincial legislation), and order and interpret the results of screening and diagnostic tests.",
+        "spans": [
+          "NPs also prescribe drugs (as defined by provincial legislation), and order and interpret the results of screening and diagnostic tests."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "NPs work both autonomously, initiating care through monitoring patient outcomes, and collaborating with other health providers in community health centres, nursing outposts, specialty units, clinics, emergency departments, and long-term care facilities.",
+        "spans": [
+          "NPs work both autonomously, initiating care through monitoring patient outcomes, and collaborating with other health providers in community health centres, nursing outposts, specialty units, clinics, emergency departments, and long-term care facilities."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "While NPs perform additional functions, their role within the nursing profession complements (not replaces) other health providers.",
+        "spans": [
+          "While NPs perform additional functions, their role within the nursing profession complements (not replaces) other health providers."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "NPs are not second-level physicians nor are they assistants to physicians.",
+        "spans": [
+          "NPs are not second-level physicians nor are they assistants to physicians."
+        ]
+      }
+    ],
+    "clueweb22-en0001-14-08281": [
+      {
+        "point_number": 1,
+        "point_content": "Primary health care serves a dual function in the health care system: direct provision of first-contact services (by providers such as family physicians, nurse practitioners, pharmacists, and telephone advice lines)",
+        "spans": [
+          "direct provision of first-contact services (by providers such as family physicians, nurse practitioners, pharmacists, and telephone advice lines)"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The key feature of primary health care reform is a shift to teams of providers who are accountable for providing comprehensive services to their clients, including family physicians, nurses, and other professionals working as partners",
+        "spans": [
+          "The key feature of primary health care reform is a shift to teams of providers who are accountable for providing comprehensive services to their clients. There is a growing consensus that family physicians, nurses, and other professionals working as partners will result in better health, improved access to services, more efficient use of resources, and better satisfaction for both patients and providers."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "An adequate supply of health human resources and a team approach focussed on patient needs, so that each service is provided by the most appropriate provider and providers work collectively to optimize outcomes, supports primary health care",
+        "spans": [
+          "an adequate supply of health human resources; a team approach focussed on patient needs, so that each service is provided by the most appropriate provider and providers work collectively to optimize outcomes;"
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0010-05-09246": [
+      {
+        "point_number": 1,
+        "point_content": "A primary care provider is typically a medical doctor but can be a physician assistant or a nurse practitioner specializing in different areas such as family practice, internal medicine, pediatrics, geriatrics, obstetrics, gynecology.",
+        "spans": [
+          "A primary care provider is typically a medical doctor but can be a physician assistant or a nurse practitioner specializing in different areas such as: Family practice Internal medicine Pediatrics Geriatrics Obstetrics Gynecology"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "question": "does rehabilitation reduce crime",
+  "key_points": {
+    "null": [],
+    "clueweb22-en0027-42-09609": [
+      {
+        "point_number": 1,
+        "point_content": "Rehabilitation centers help individuals who are going through physical and mental challenges and are involved in most of the crimes.",
+        "spans": [
+          "Rehabilitation centers help individuals who are going through physical and mental challenges.",
+          "It is an observation that people who suffer from drug addiction, alcoholism, and other mental issues are involved in most of the crimes."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Rehab centers work on building the self-esteem of the patients by motivating them and giving them care and medication.",
+        "spans": [
+          "The rehab centers work on building the self-esteem of the patients by motivating them and giving them care and medication."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Authorities focus on spending the right amount on the rehabilitation of their prisoners to make them better citizens of society.",
+        "spans": [
+          "Authorities are also focusing on spending the right amount on the rehabilitation of their prisoners to make them a better citizen of the society."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Patients at rehab are engaged with productive activities to eliminate stress and anxiety, enhancing their skills and reducing distractions.",
+        "spans": [
+          "The patients at the rehab are engaged with productive activities to eliminate their stress and anxiety level.",
+          "Learning is appreciated, and it also helps to enhance their skills in the programs.",
+          "In short, the structure of the program is so engaging that the patients get no time for distractions."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Professionals create a safe and supportive environment, encouraging interaction and cooperation among patients to reduce peer pressure.",
+        "spans": [
+          "The professionals know how to create a safe and supportive environment for their patients and sustain a better atmosphere.",
+          "Patients are encouraged to interact with each other and share their stories to reduce peer pressure.",
+          "The patients understand that they are going through similar conditions and cooperate."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Group therapy and personal counseling help patients achieve long-term sobriety and provide a support network.",
+        "spans": [
+          "The patients of alcohol and drug rehab take a different line of programs to achieve long-term sobriety.",
+          "Group therapy and personal counseling options are there for the patients, and through this network promises sustenance."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Therapies and treatments are research-based and target patients' mental and physical behavior to reduce relapsing and help patients realize their flaws.",
+        "spans": [
+          "The treatment is research-based and targets the patient’s mental and physical behavior.",
+          "Treatments are useful for reducing relapsing, and many patients who recover appreciate the effect of these sessions.",
+          "Accepting their failures and bad behavior is a positive step towards recovery."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Improved health and consistent medical support, including a healthy diet and exercise, are part of the rehabilitation process.",
+        "spans": [
+          "In the rehab center, patient monitoring is very crucial, and there is a healthy diet.",
+          "On a priority basis, the professionals work on improving their health first, and the staff has 24/7 medical support in case a patient needs quick treatment.",
+          "Exercise is part of their routine."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Rehabilitation centers help individuals restore confidence, receive therapies and counseling, and become better law-abiding citizens.",
+        "spans": [
+          "Rehabilitation centers help these individuals to restore their confidence by engaging them in different activities.",
+          "They receive therapies and counseling sessions.",
+          "The whole structure of the program is well-managed to make the patients a better law-abiding citizen and a good human."
+        ]
+      }
+    ],
+    "clueweb22-en0002-06-02360": [
+      {
+        "point_number": 1,
+        "point_content": "Operation Checkpoint shows a 15% reduction in reoffending rates compared to similar offenders who did not participate.",
+        "spans": [
+          "The first set of results from this programme, recently published, show a 15% reduction in reoffending rates when compared to similar offenders who did not participate."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Non-custodial alternatives can reduce crime according to evidence across England and Wales.",
+        "spans": [
+          "these results are consistent with other evidence across England and Wales indicating that non-custodial alternatives can reduce crime."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Norway's shift to rehabilitation led to large reductions in reoffending rates, with a rate around 25% in five years compared to UK's 50% within a year.",
+        "spans": [
+          "Norway moved its focus from punishment to rehabilitation (including for those who were imprisoned) 20 years ago. This was followed by large reductions in reoffending rates.",
+          "Compared to a reoffending rate of around 50% within a year in the UK, Norway’s is around 25% in five years."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Many offenders have vulnerabilities such as mental health problems, suggesting rehabilitation can be successful.",
+        "spans": [
+          "A lot of people processed within the criminal justice system have vulnerabilities that can make them prone to offending, which might suggest why rehabilitation can be so successful.",
+          "a recent report finds that 90% of the UK’s prison population suffer from metal health problems."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Community sentences reduce property offences more than prison sentences and cost less, indicating rehabilitation is more cost-effective and humane.",
+        "spans": [
+          "sentencing 1% more offenders to prison for property offences (including theft and handling) is estimated to reduce next year’s recorded crimes by 2,693.",
+          "a similar 1% increase in community sentences reduces these offences by 3,590.",
+          "community sentences cost on average a quarter of prison sentences"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Economic analysis shows rehabilitation reduces crime and is cost effective, making punishment not the best solution for reducing crime harm.",
+        "spans": [
+          "There is evidence that rehabilitation (including within prison) reduces crime and can be cost effective.",
+          "Economic analysis therefore, reinforces the idea that punishment is not the best solution for reducing the harmful impact of crime."
+        ]
+      }
+    ],
+    "clueweb22-en0038-71-17233": [
+      {
+        "point_number": 1,
+        "point_content": "rehabilitation programs reduce recidivism by about 10 percentage points",
+        "spans": [
+          "rehabilitation programs reduce recidivism by about 10 percentage points"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "rehabilitation is a much better option than punishment, since it would enable an offender to become a peaceful citizen and live a normal life after prison",
+        "spans": [
+          "rehabilitation is a much better option than punishment, since it would enable an offender to become a peaceful citizen and live a normal life after prison"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "rehabilitation offers the opportunity to learn about his/her debilitating problems and offers the opportunity to learn how to change their behavior",
+        "spans": [
+          "Rehabilitation offers the opportunity to learn about his/her debilitating problems and offers the opportunity to learn how to change their behavior"
+        ]
+      }
+    ],
+    "clueweb22-en0044-65-03889": [
+      {
+        "point_number": 1,
+        "point_content": "Modern jails will cut reoffending and protect the public by giving prisoners the education, skills and addiction support they need to live crime-free lives.",
+        "spans": [
+          "Modern jails will cut reoffending and protect the public by giving prisoners the education, skills and addiction support they need to live crime-free lives."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The Prisons Strategy White Paper sets out a new plan to create the right conditions to reform and rehabilitate offenders and ultimately cut crime.",
+        "spans": [
+          "The Prisons Strategy White Paper, published today (7 December 2021), sets out a new plan to deliver the biggest prison-building programme in more than 100 years – creating the right conditions to reform and rehabilitate offenders and ultimately cut crime, keeping streets safe."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Assessing all prisoners on arrival for drug and alcohol addictions and putting in place a comprehensive plan to support them to properly recover from day one – including abstinence-based treatment.",
+        "spans": [
+          "Getting offenders clean and treating addictions that thwart rehabilitation – assessing all prisoners on arrival for drug and alcohol addictions and putting in place a comprehensive plan to support them to properly recover from day one – including abstinence-based treatment"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Ensuring every single prisoner has a basic level of English and maths so they are equipped for work on release, and a new Prisoner Education Service to train up offenders with vocational skills including construction and coding – improving their job prospects and steering them clear of crime.",
+        "spans": [
+          "Making sure prisoners gain basic standards of numeracy and literacy while inside –ensuring every single prisoner has a basic level of English and maths so they are equipped for work on release, and a new Prisoner Education Service to train up offenders with vocational skills including construction and coding – improving their job prospects and steering them clear of crime"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Introducing a new job-matching service that pairs offenders up with vacancies in the community on release and dedicated employment advisors in prisons to help offenders find work.",
+        "spans": [
+          "New drive to get offenders into work – introducing a new job-matching service that pairs offenders up with vacancies in the community on release and dedicated employment advisors in prisons to help offenders find work"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Providing all prisoners with a personalised passport that brings together all the things offenders need to start looking for work straight away, including a CV, identification and a bank account as well as vital support services in the community.",
+        "spans": [
+          "Resettlement Passports to put proper plans in place for prisoners on release – providing all prisoners with a personalised passport that brings together all the things offenders need to start looking for work straight away, including a CV, identification and a bank account as well as vital support services in the community"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "The government allocated an extra £550 million to reduce reoffending and £3.75 billion to create 20,000 extra prison places across the estate to rehabilitate offenders and keep the public safe.",
+        "spans": [
+          "Last month, the government allocated an extra £550 million to reduce reoffending and £3.75 billion to create 20,000 extra prison places across the estate. These will ensure the right modern, innovative and secure conditions are in place to truly rehabilitate offenders and keep the public safe."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "The 6 new prisons to be built over the next 5 years will have the latest in technology – meaning more in-cell learning so offenders leave prison with the skills they need to move away from crime and into employment.",
+        "spans": [
+          "The 6 new prisons to be built over the next 5 years will have the latest in technology – meaning more in-cell learning so offenders leave prison with the skills they need to move away from crime and into employment."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "New prisons will train prisoners in the skills of the future, help them find a job on release and dramatically reduce their chances of reoffending.",
+        "spans": [
+          "New prisons, such as those currently under construction at Glen Parva, Leicestershire, and HMP Five Wells, Wellingborough, will play a crucial role in cutting crime by training prisoners in the skills of the future, helping them find a job on release and dramatically reducing their chances of reoffending."
+        ]
+      }
+    ]
+  }
+}

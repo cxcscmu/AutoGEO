@@ -1,0 +1,395 @@
+{
+  "question": "why are gas cars bad for the environment",
+  "key_points": {
+    "clueweb22-en0025-87-10411": [
+      {
+        "point_number": 1,
+        "point_content": "Gasoline use contributes to air pollution through toxic vapors and substances produced when burned.",
+        "spans": [
+          "Gasoline use contributes to air pollution",
+          "The vapors given off when gasoline evaporates and the substances produced when gasoline is burned (carbon monoxide, nitrogen oxides, particulate matter, and unburned hydrocarbons) contribute to air pollution."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Burning gasoline produces carbon dioxide, a greenhouse gas that contributes to environmental harm.",
+        "spans": [
+          "Burning gasoline also produces carbon dioxide, a greenhouse gas.",
+          "Burning a gallon of gasoline (that does not contain ethanol) produces about 19 pounds of carbon dioxide (CO 2 )."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Gasoline combustion accounts for a significant portion of U.S. CO2 emissions, impacting the environment.",
+        "spans": [
+          "In 2020, total U.S. CO 2 emissions from aviation and motor gasoline combustion were about 979 million metric tons, or about 21% of total U.S. energy-related CO 2 emissions."
+        ]
+      }
+    ],
+    "clueweb22-en0024-07-12697": [
+      {
+        "point_number": 1,
+        "point_content": "Car exhausts emit a wide range of gases and solid matter, causing global warming, acid rain, and harming the environment and human health.",
+        "spans": [
+          "Car exhausts emit a wide range of gases and solid matter, causing global warming, acid rain, and harming the environment and human health."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Cars and trucks emit carbon dioxide and other greenhouse gases, which contribute one-fifth of the United States' total global warming pollution.",
+        "spans": [
+          "Cars and trucks emit carbon dioxide and other greenhouse gases, which contribute one-fifth of the United States' total global warming pollution."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Greenhouse gases trap heat in the atmosphere, which causes worldwide temperatures to rise.",
+        "spans": [
+          "Greenhouse gases trap heat in the atmosphere, which causes worldwide temperatures to rise."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Burning excessive amounts of fossil fuels, such as gasoline and diesel, has caused an increase of 0.6 degrees Celsius, or 1 degree F, in global temperatures since pre-industrial times.",
+        "spans": [
+          "burning excessive amounts of fossil fuels, such as gasoline and diesel, has caused an increase of 0.6 degrees Celsius, or 1 degree F, in global temperatures since pre-industrial times"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Nitrous oxide contributes to the depletion of the ozone layer, which shields the Earth from harmful ultraviolet radiation from the sun.",
+        "spans": [
+          "Nitrous oxide contributes to the depletion of the ozone layer, which shields the Earth from harmful ultraviolet radiation from the sun."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Sulfur dioxide and nitrogen dioxide mix with rainwater to create acid rain, which damages crops, forests and other vegetation and buildings.",
+        "spans": [
+          "Sulfur dioxide and nitrogen dioxide mix with rainwater to create acid rain, which damages crops, forests and other vegetation and buildings."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Oil and fuel spills from cars and trucks seep into the soil near highways, and discarded fuel and particulates from vehicle emissions contaminate lakes, rivers and wetlands.",
+        "spans": [
+          "Oil and fuel spills from cars and trucks seep into the soil near highways, and discarded fuel and particulates from vehicle emissions contaminate lakes, rivers and wetlands."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Particulate matter, hydrocarbons, carbon monoxide and other car pollutants harm human health.",
+        "spans": [
+          "Particulate matter, hydrocarbons, carbon monoxide and other car pollutants harm human health."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Diesel engines emit high levels of particulate matter, which cause skin and eye irritation and allergies, and very fine particles lodge deep in lungs, where they cause respiratory problems.",
+        "spans": [
+          "Diesel engines emit high levels of particulate matter, which is airborne particles of soot and metal. These cause skin and eye irritation and allergies, and very fine particles lodge deep in lungs, where they cause respiratory problems."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Hydrocarbons react with nitrogen dioxide and sunlight and form ozone, which is harmful at ground level and inflames lungs, causing chest pains and coughing and making it difficult to breathe.",
+        "spans": [
+          "Hydrocarbons react with nitrogen dioxide and sunlight and form ozone, which is beneficial in the upper atmosphere but harmful at ground level. Ozone inflames lungs, causing chest pains and coughing and making it difficult to breathe."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Carbon monoxide interferes with the blood's ability to transport oxygen and is particularly dangerous to infants and people suffering from heart disease.",
+        "spans": [
+          "Carbon monoxide, another exhaust gas, is particularly dangerous to infants and people suffering from heart disease because it interferes with the blood's ability to transport oxygen."
+        ]
+      }
+    ],
+    "clueweb22-en0032-38-17186": [
+      {
+        "point_number": 1,
+        "point_content": "The transport sector is one of the largest sources of CO2 emissions and a major source of air pollution.",
+        "spans": [
+          "The transport sector is one of the largest sources of CO2 emissions and a major source of air pollution."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Cars are a heavy CO2 emitter and air polluter, producing significant amounts of nitrogen oxides, carbon monoxide, and particulate matter.",
+        "spans": [
+          "Cars are a heavy CO2 emitter and air polluter",
+          "cars are a major contributor to air pollution producing significant amounts of nitrogen oxides, carbon monoxide, and particulate matter."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "80-90% of cars’ environmental impact comes from fuel consumption and emissions of air pollution and greenhouse gases.",
+        "spans": [
+          "80-90% of cars’ environmental impact comes from fuel consumption and emissions of air pollution and greenhouse gases."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Particulate matter in the air alone is responsible for up to 30,000 premature deaths every year.",
+        "spans": [
+          "Particulate matter in the air alone is responsible for up to 30,000 premature deaths every year."
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0037-12-05158": [
+      {
+        "point_number": 1,
+        "point_content": "Most cars have a typical combustion engine that burns fuel for energy, which results in the production of a wide variety of harmful chemicals like carbon dioxide, volatile organic compounds and particulate matter.",
+        "spans": [
+          "Most cars have a typical combustion engine that burns fuel for energy, which results in the production of a wide variety of harmful chemicals like carbon dioxide, volatile organic compounds and particulate matter."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Carbon dioxide is the most common greenhouse gas that humans produce; the EPA estimates that carbon dioxide makes up 82 percent of all human greenhouse gas production. It is responsible for trapping heat within the atmosphere and contributes to climate change issues.",
+        "spans": [
+          "Carbon dioxide is the most common greenhouse gas that humans produce; the EPA estimates that carbon dioxide makes up 82 percent of all human greenhouse gas production. It is responsible for trapping heat within the atmosphere and contributes to climate change issues."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Car engines also produce a wide array of particles that are directly harmful to human and animal health. Hydrocarbons and particulate matter can cause breathing difficulties and long-term diseases. Many hydrocarbons are known to be carcinogens, which means they cause cancer.",
+        "spans": [
+          "Car engines also produce a wide array of particles that are directly harmful to human and animal health. Hydrocarbons and particulate matter can cause breathing difficulties and long-term diseases. Many hydrocarbons are known to be carcinogens, which means they cause cancer."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "In cities with high road traffic, smog is often an issue in the summer. Smog is caused by sunlight interacting with ozone and carbon monoxide in warm conditions, which is why smog is worst in the summer. Ozone and carbon monoxide are both produced in substantial amounts by most cars.",
+        "spans": [
+          "In cities with high road traffic, smog is often an issue in the summer. Smog is caused by sunlight interacting with ozone and carbon monoxide in warm conditions, which is why smog is worst in the summer. Ozone and carbon monoxide are both produced in substantial amounts by most cars."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Vehicle fluids like antifreeze, motor oil windshield wiper fluid are dangerous for both people and animals. When these fluids leak, they can drain into water supplies or poison an animal that ingests them.",
+        "spans": [
+          "Vehicle fluids like antifreeze, motor oil windshield wiper fluid are dangerous for both people and animals. When these fluids leak, they can drain into water supplies or poison an animal that ingests them."
+        ]
+      }
+    ],
+    "clueweb22-en0033-17-14776": [
+      {
+        "point_number": 1,
+        "point_content": "Cars and trucks account for nearly one-fifth of all US emissions, emitting around 24 pounds of carbon dioxide and other global-warming gases for every gallon of gas.",
+        "spans": [
+          "cars and trucks account for nearly one-fifth of all US emissions, emitting around 24 pounds of carbon dioxide and other global-warming gases for every gallon of gas"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "More than 19 pounds per gallon of heat-trapping emissions comes right out of a car’s tailpipe.",
+        "spans": [
+          "more than 19 pounds per gallon—comes right out of a car’s tailpipe"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The US transportation sector produces nearly thirty percent of all US global warming emissions, more than almost any other sector.",
+        "spans": [
+          "the US transportation sector—which includes cars, trucks, planes, trains, ships, and freight—produces nearly thirty percent of all US global warming emissions, more than almost any other sector"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Oil-related emissions may rise as the oil industry extracts and refines unconventional oils such as tar sands and tight oil.",
+        "spans": [
+          "oil-related emissions may rise in the coming years as the oil industry extracts and refines “unconventional” oils, such as tar sands and tight oil"
+        ]
+      }
+    ],
+    "clueweb22-en0046-64-01475": [
+      {
+        "point_number": 1,
+        "point_content": "Cars consume a lot of energy before they ever make it to the open road, and automotive production leaves a giant footprint because materials like steel, rubber, glass, plastics, paints, and many more must be created before a new ride is ready to roll.",
+        "spans": [
+          "Cars consume a lot of energy before they ever make it to the open road.",
+          "Automotive production leaves a giant footprint because materials like steel, rubber, glass, plastics, paints, and many more must be created before a new ride is ready to roll."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Most of an automobile's environmental impact, perhaps 80 to 90 percent, will be due to fuel consumption and emissions of air pollution and greenhouse gases that climate scientists say are driving global warming.",
+        "spans": [
+          "most of an automobile's environmental impact, perhaps 80 to 90 percent, will be due to fuel consumption and emissions of air pollution and greenhouse gases that climate scientists say are driving global warming."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Petroleum products raise environmental red flags even before they are burned, as extracting them from the earth is an energy-intensive process that can damage local ecosystems.",
+        "spans": [
+          "Petroleum products raise environmental red flags even before they are burned.",
+          "Extracting them from the earth is an energy-intensive process that can damage local ecosystems."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Shipping fuels can also consume a lot of energy, and creates an occasional environmental disaster such as an oil spill.",
+        "spans": [
+          "Shipping fuels can also consume a lot of energy, and creates an occasional environmental disaster such as an oil spill."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Vehicles are America’s biggest air quality compromisers, producing about one-third of all U.S. air pollution, emitting smog, carbon monoxide, and other toxins directly at street level where humans breathe.",
+        "spans": [
+          "Vehicles are America’s biggest air quality compromisers, producing about one-third of all U.S. air pollution.",
+          "The smog, carbon monoxide, and other toxins emitted by vehicles are especially troubling because they leave tailpipes at street level, where humans breathe the polluted air directly into their lungs."
+        ]
+      }
+    ],
+    "clueweb22-en0038-69-07666": [
+      {
+        "point_number": 1,
+        "point_content": "Automobiles create about 33% of all U.S. air pollutants in the forms of carbon dioxide, smog and several other toxic chemicals and gases.",
+        "spans": [
+          "Automobiles create about 33% of all U.S. air pollutants in the forms of carbon dioxide, smog and several other toxic chemicals and gases."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "These air pollutants are released from the tailpipes, which means that humans immediately breathe in the contaminated air now compromising human health.",
+        "spans": [
+          "These air pollutants are released from the tailpipes, which means that humans immediately breathe in the contaminated air now compromising human health"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The energy footprint that the production of a car leaves on the environment is because of the materials needed to make them, including steel, rubber, glass, plastics, and paints.",
+        "spans": [
+          "The energy footprint that the production of a car leaves on the environment is because of the materials needed to make them. According to National Geographic, these materials include steel, rubber, glass, plastics, and paints."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The average U.S. vehicle (in 2007) required 1129 gallons of gasoline to produce, equivalent to two years worth of gas.",
+        "spans": [
+          "CarBusters.org says “the average U.S. vehicle (in 2007) required 1129 gallons of gasoline to produce…equivalent to two years worth of gas.”"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "When cars are disposed, their remains of plastics and toxic lead battery acids are thrown into landfills instead of being recycled resulting in harmful effects directly onto the environment.",
+        "spans": [
+          "When cars are disposed, their remains of plastics and toxic lead battery acids are thrown into landfills instead of being recycled resulting in harmful effects directly onto the environment."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Automobiles use petroleum products that require much energy to extract them from the ground damaging the world’s ecosystems.",
+        "spans": [
+          "Automobiles use petroleum products that require much energy to extract them from the ground damaging the world’s ecosystems."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Shipping the oils itself actually requires a sacrifice from the environment as well, as machines need to expend scarce resources and release toxic gases to ship them worldwide.",
+        "spans": [
+          "Fuel comes from particular concentrated locations in the world so shipping the oils itself actually requires a sacrifice from the environment as well. Shipping the oil on airplanes, ships, trucks or trains just means that these machines also need to expend scarce resources and release toxic gases in order to ship them to every part of the world."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "There is a risk of oil spills into the ocean or the road which directly affect delicate ecosystems.",
+        "spans": [
+          "We also can’t forget the risk of an occasional accident in which the oils could spill into the ocean or the road and directly effect a delicate ecosystem."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Greenhouse gases from cars trap heat in the atmosphere causing the overall temperature of the Earth to increase.",
+        "spans": [
+          "According to the EIA, greenhouse gases allow sunlight to enter the Earth’s atmosphere more than it naturally should. Sometimes sunlight is reflected off the surface as heat, which greenhouse gasses absorb and trap in the atmosphere that we live in. This in turn causes the overall temperature of the Earth to increase as well."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Cars produce greenhouse gases including benzene, carbon dioxide, carbon monoxide, nitrogen dioxide, hydrocarbons and sulfur dioxide.",
+        "spans": [
+          "These greenhouse gases include: benzene, carbon dioxide, carbon monoxide, nitrogen dioxide, hydrocarbons and sulfur dioxide."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Almost 0.009 metric tons of carbon dioxide are produced for every gallon of gasoline burned, meaning the average American makes about 11.7 tons of carbon dioxide each year from their cars alone.",
+        "spans": [
+          "Fun fact from CarBusters: almost 0.009 metric tons of carbon dioxide are produced for every GALLON of gasoline burned, which means that the average American makes about 11.7 tons of carbon dioxide each year from their cars alone"
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "Particulates and pollutants released by cars can enter soil and waters and then the food chain, compromising biological systems of animals and humans.",
+        "spans": [
+          "Other ways that it can affect the environment at a smaller scale is that particulates and pollutants released by cars can be inputted into the soil and waters and then enter the food chain causing biological systems of animals and humans to be compromised."
+        ]
+      },
+      {
+        "point_number": 13,
+        "point_content": "Acid rain from car emissions changes the acidity of water sources that animals drink from.",
+        "spans": [
+          "Acid rain is also a concern because it changes the acidity of water sources that animals drink from."
+        ]
+      },
+      {
+        "point_number": 14,
+        "point_content": "Chemicals like CFCs from cars create a thinner ozone layer which is meant to protect the Earth from UV rays.",
+        "spans": [
+          "Chemicals, most popularly CFCs (chloroflurocarbons), essentially create a thinner ozone layer which is mean to protect the Earth from UV rays."
+        ]
+      }
+    ],
+    "clueweb22-en0024-22-17697": [
+      {
+        "point_number": 1,
+        "point_content": "Car pollution emits gases and affects the environment.",
+        "spans": [
+          "getting a vehicle from point \"A\" to point \"B\" involves combustion of a fossil fuel, a process that emits gasses and affects the environment"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "More than half of the air pollution in the nation is caused by mobile sources, primarily automobiles.",
+        "spans": [
+          "According to the U.S. Environmental Protection Agency, more than half of the air pollution in the nation is caused by mobile sources, primarily automobiles."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Cars emit several different types of gases and particles that can have detrimental effects on the environment, including carbon dioxide, hydrocarbons, nitrogen oxides, sulfur oxides, and particulate matter.",
+        "spans": [
+          "When a car’s engine is running, several different types of gasses and particles are emitted that can have detrimental effects on the environment.",
+          "Of particular concern to the environment are carbon dioxide, a greenhouse gas; hydrocarbons -- any of more than a dozen volatile organic compounds, some of which are known carcinogens; nitrogen oxides; sulfur oxides; and particulate matter, tiny particles of solids, such as metal and soot."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Vehicle emissions contribute to global warming and can harm animals by entering the food chain and affecting their systems.",
+        "spans": [
+          "Cars emit greenhouse gasses, such as carbon dioxide, which contribute to global warming.",
+          "Some air pollutants and particulate matter from cars can be deposited on soil and surface waters where they enter the food chain; these substances can affect the reproductive, respiratory, immune and neurological systems of animals."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Nitrogen oxides and sulfur oxides from cars contribute to acid rain, which harms waterways and soils.",
+        "spans": [
+          "Nitrogen oxides and sulfur oxides are major contributors to acid rain, which changes the pH of waterways and soils and can harm the organisms that rely on these resources."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Vehicle fluids can be toxic and pollute waterways if leaked or disposed of incorrectly.",
+        "spans": [
+          "Vehicles contain many different fluids, including motor oil, antifreeze, gasoline, air-conditioning refrigerants, and brake, transmission, hydraulic and windshield-wiper fluids.",
+          "In most cases, these fluids are toxic to humans and animals, and can pollute waterways if they leak from a vehicle or are disposed of incorrectly."
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,666 @@
+{
+  "question": "what affects child development",
+  "key_points": {
+    "clueweb22-en0038-23-11626": [
+      {
+        "point_number": 1,
+        "point_content": "The time between pregnancy and age 3, when the brain is most susceptible to environmental influences, is critical for a child’s growth and development.",
+        "spans": [
+          "The time between pregnancy and age 3, when the brain is most susceptible to environmental influences, is critical for a child’s growth and development."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Children need nurturing care and health services to survive and thrive, especially those with disabilities, developmental delays, living in poverty or affected by conflict or displacement.",
+        "spans": [
+          "All children – including those with disabilities and developmental delays, those living in poverty or deprivation, and those affected by conflict or displacement – need nurturing care and health services to survive and thrive."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "In many places, health systems are not equipped to support routine health interactions among children, families and caregivers, leading to missed specialized health services and developmental support.",
+        "spans": [
+          "In many places, health systems are not equipped to support routine health interactions among children, families and caregivers. Without regular monitoring, some children miss out on specialized health services and developmental support that could help them fulfil their potential."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Early interventions are especially crucial to children with developmental delays and disabilities, but many do not have access to primary health care systems that provide them.",
+        "spans": [
+          "Early interventions are especially crucial to children with developmental delays and disabilities, but many do not have access to primary health care systems that provide them."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Children with developmental delays and disabilities are often excluded from policy decisions and receive compromised health services due to limited capacity, inadequate training, or lack of coordination.",
+        "spans": [
+          "Because children with developmental delays and disabilities are more likely to be invisible in government statistics, they are often excluded from policy decisions that could improve their well-being. As a result, the quality of the health services they receive can be severely compromised – largely due to limited capacity, inadequate training of service providers, or lack of coordination between public authorities and community practitioners."
+        ]
+      }
+    ],
+    "clueweb22-en0032-42-09364": [
+      {
+        "point_number": 1,
+        "point_content": "Countless factors, from family and environment to genes and biology, influence a child’s growth and development.",
+        "spans": [
+          "Countless factors, from family and environment to genes and biology, influence a child’s growth and development."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Children with poorer social skills at age 4 behaved more anxiously and aggressively at age 10 and more aggressively at age 14, suggesting early social skills affect later behavior.",
+        "spans": [
+          "children with poorer social skills at age 4 behaved more anxiously and aggressively at age 10 and more aggressively at age 14"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Feeling accepted or rejected by parents affects children's behavior, with rejection linked to aggression, anxiety, trouble in school, and difficulty connecting with others.",
+        "spans": [
+          "children who felt rejected by their parents were more likely to behave aggressively and anxiously, have trouble in school, and have a hard time connecting with others"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Sociodemographic factors such as age, ethnicity, culture, and income level strongly relate to child development and risk for later problems.",
+        "spans": [
+          "Sociodemographic factors are important to study because they often relate strongly to development.",
+          "young girls and boys develop at different rates",
+          "Ethnic and cultural groups are differentially affected by the same experiences",
+          "low-income families are more at risk for later problems than middle- and high-income families"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Mother-child relationships in adoptive families may be less harmonious by age 4 compared to non-adoptive families, despite similar health and adjustment.",
+        "spans": [
+          "mother-child relationships in adoptive families were less harmonious"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Mothers in all 11 countries studied responded to their babies’ cries by picking them up, holding them, and talking to them, indicating a universal maternal response.",
+        "spans": [
+          "mothers in all 11 countries preferentially responded to their babies’ cries by picking them up, holding them, and talking to them"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Babies’ brains respond differently to images of their mothers’ faces than to strangers’ faces as early as 3 months of age, with connections deepening by 6 months.",
+        "spans": [
+          "babies’ brains respond differently to images of their mothers’ faces than to the faces of similar-looking female strangers",
+          "those connections deepen between 3 months and 6 months of age"
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Parental depression, pediatric cancer, preterm birth, autism spectrum disorders, and prenatal nutritional supplementation affect child development.",
+        "spans": [
+          "the effects that pediatric cancer can have on an infant’s development; parental depression and child development; development following preterm birth; autism spectrum disorders; and prenatal nutritional supplementation"
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Early experiences and interventions, such as talking and reading to babies, positively influence development, but over-stimulation should be avoided.",
+        "spans": [
+          "early experiences and interventions are important",
+          "Talking and reading to babies before they can even understand language makes a positive difference",
+          "parents should temper the urge to over-stimulate their children"
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Sensitive parental responses help children learn to trust, providing a foundation for later learning, growth, and development.",
+        "spans": [
+          "parents should learn to respond sensitively to their children",
+          "A child learns to trust the person who sensitively interacts with him or her, and this trust, in turn, provides a firm foundation for all of later learning, growth, and development"
+        ]
+      }
+    ],
+    "clueweb22-en0024-75-17629": [
+      {
+        "point_number": 1,
+        "point_content": "Children’s development and mental health are affected by various factors, including the environments they are raised in, the relationships they build and the experiences they have.",
+        "spans": [
+          "Children’s development and mental health are affected by various factors, including the environments they are raised in, the relationships they build and the experiences they have."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Children’s mental health – their cognitive, behavioural and social wellbeing – is affected by this development, as well as a range of factors, including trauma and abuse.",
+        "spans": [
+          "Children’s mental health – their cognitive, behavioural and social wellbeing – is affected by this development, as well as a range of factors, including trauma and abuse."
+        ]
+      }
+    ],
+    "clueweb22-en0042-57-16446": [
+      {
+        "point_number": 1,
+        "point_content": "Masks may interfere with children's ability to recognize people, emotional expressions, and speech because masks obscure facial features and musculature.",
+        "spans": [
+          "kids under the age of 12 may have difficulty recognizing people, because they often focus on individual features.",
+          "a lot of our emotional information, we display through movement of our facial musculature.",
+          "Because that musculature and therefore that information will be obscured by a mask, he said, children may have issues with “emotional recognition and social interaction.”",
+          "children may have problems with speech recognition"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Babies and young children use visual cues from mouths to learn speech and associate voices with faces, which can be hindered by masks.",
+        "spans": [
+          "babies start to babble, they change the ways that they are looking at people who are speaking to them.",
+          "they spend a lot of time looking at that person’s mouth, trying to master their own native speech, getting not only auditory cues but visual.",
+          "Babies whose caretakers are masked will miss some of these visual cues",
+          "young children may have some trouble sorting out who goes with which voice."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Children can adapt to mask-wearing by using other communication methods such as gestures, tone of voice, and body language, and parents and teachers can help facilitate this adaptation.",
+        "spans": [
+          "parents and teachers could “encourage their kids to communicate more through gestures,” and even make a game of helping children to find ways of communicating with their hands and bodies.",
+          "Voices, gestures and overall body language are all important for children",
+          "children will find ways to communicate, and that parents and teachers can help them.",
+          "children with neurodevelopmental issues such as autism will need special help and special consideration",
+          "With mask wearing now being required in most school settings, children and adults should start practicing being more explicitly verbal by stating their emotions out loud.",
+          "Children will get better at reading people’s eyes, she suggested, and at understanding emotional content from tone of voice.",
+          "parents and teachers may also want to ask children more often what they are feeling as well.",
+          "Parents can focus on the time they have at home — unmasked — with their children, and emphasize face-to-face activities and interactions.",
+          "children are very, very smart,” he said. “They can figure out who a person is by using information still available to them, the shape of the eyes, the eyebrows, voice, posture.",
+          "teachers who are wearing masks should help them along by wearing the same eyeglasses, the same hairstyle, or perhaps by wearing personalized masks, or even characteristic clothing.",
+          "teachers emphasize their gestures, and pay attention to their tones of voice.",
+          "Make your voice more expressive, your gesture more expressive, your eyes more expressive",
+          "I would slow down my speech as a teacher, particularly when interacting with younger ones, so kids can pick up more from the auditory channel."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Children are adaptable and can compensate for the challenges posed by masks due to brain plasticity and cultural exposure to mask-wearing.",
+        "spans": [
+          "I am a huge believer in the importance of plasticity",
+          "Despite the short-term deprivation, because of plasticity, there’s lots of ways to compensate.",
+          "children from cultures with much more extensive face covering are any worse at recognizing faces or emotions.",
+          "In Hong Kong and elsewhere in Asia, it’s standard to wear masks as protection against illness or air pollution.",
+          "culturally, there is not the same level of anxiety — not the urgency to see whether wearing masks interferes with children’s development",
+          "People understand, she said, that children will see the full faces of parents and siblings at home.",
+          "children actually improve their ability to read those other cues.",
+          "Children may end up “more sensitive to tones, more sensitive to someone’s overall body language",
+          "Kids are very, very adaptive, more adaptive than we are — they learn very quickly"
+        ]
+      }
+    ],
+    "clueweb22-en0002-57-17649": [
+      {
+        "point_number": 1,
+        "point_content": "Excessive smart phone use has already started to affect some of the youngest users.",
+        "spans": [
+          "Excessive smart phone use has already started to affect some of the youngest users."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "More than half of children under the age of 11 now own a smartphone.",
+        "spans": [
+          "more than half of children under the age of 11 now own a smartphone."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Smartphones can help children develop digital literacies and research skills earlier than previous generations.",
+        "spans": [
+          "students from elementary school to college can develop digital literacies and research skills earlier than previous generations."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Smartphones in classroom environments can yield benefits such as self-sufficiency, digital literacy, and access to emergency services.",
+        "spans": [
+          "Self-sufficiency: Through early guidance and support, parents and teachers can help children learn how to self-regulate the time they spend on their phones.",
+          "Digital literacy: As children use smartphones, they effectively prepare themselves to engage with future technologies.",
+          "Access to emergency services: In the unfortunate event of an emergency, students with smartphone access can find help more easily."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Routine and frequent use of mobile devices appear to be associated with behavioral problems in childhood.",
+        "spans": [
+          "routine and frequent use of mobile devices appear to be associated with behavioral problems in childhood."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Smartphone use in children is linked to neurological diseases, physiological addiction, cognition, sleep and behavioral problems.",
+        "spans": [
+          "it is of importance that neurological diseases, physiological addiction, cognition, sleep and behavioral problems are considered."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Children between two- and four-years-old should spend no more than an hour a day in front of a screen according to WHO.",
+        "spans": [
+          "children between two- and four-years-old “should spend no more than an hour a day in front of a screen.”"
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Parents' own smartphone usage influences their children's interaction with technology.",
+        "spans": [
+          "parents need to be mindful of their smartphone consumption since that kind of behavior will set the stage for how children will interact with technology."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Devices designed specifically for children can help develop digital literacies responsibly.",
+        "spans": [
+          "devices like a LeapFrog or Amazon Fire Kids Edition have been designed to engage with children specifically."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Parents should keep mealtimes, drivetimes and bedtimes tech-free to foster better family connection and child development.",
+        "spans": [
+          "keep mealtimes, drivetimes and bedtimes tech-free, allowing families to chat about their day or sit quietly and daydream, which can be creative, calming and synthesizing for children."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Parents should introduce smartphone technology after preschool and apply parental guidance screening measures and screen time boundaries.",
+        "spans": [
+          "Introduce smartphone technology after preschool",
+          "Activate parental guidance screening measures",
+          "Apply screen time boundaries"
+        ]
+      }
+    ],
+    "clueweb22-en0038-87-08421": [
+      {
+        "point_number": 1,
+        "point_content": "Child maltreatment (child abuse or neglect) during infancy and early childhood has been shown to negatively affect child development, including brain and cognitive development, and can have lasting effects.",
+        "spans": [
+          "Child maltreatment (child abuse or neglect) during infancy and early childhood has been shown to negatively affect child development, including brain and cognitive development, and can have lasting effects."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Abuse and neglect also affect children and youth’s social and emotional development.",
+        "spans": [
+          "Abuse and neglect also affect children and youth’s social and emotional development."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Child abuse and neglect changes the brain in ways that can lead to psychological challenges later in life.",
+        "spans": [
+          "How Childhood Abuse Changes the Brain",
+          "Holmes (2020)",
+          "Verywell Mind",
+          "Explores how child abuse and neglect changes the brain in ways that can lead to psychological challenges later in life."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Environmental, family, and child factors work in tandem to affect emotional development.",
+        "spans": [
+          "Factors That Influence Children’s Social and Emotional Development",
+          "Center for Early Childhood Mental Health Consultation at Georgetown University",
+          "Discusses environmental, family, and child factors that work in tandem to affect emotional development."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Child maltreatment can be linked to later physical, psychological, and behavioral consequences as well as costs to society as a whole. The outcomes for each child may vary widely and are affected by a combination of factors.",
+        "spans": [
+          "Childhood maltreatment can be linked to later physical, psychological, and behavioral consequences as well as costs to society as a whole. The outcomes for each child may vary widely and are affected by a combination of factors."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Children who experience maltreatment often are affected by other adverse experiences (e.g., parental substance use, domestic violence, poverty), which can make it difficult to separate the unique effects of maltreatment.",
+        "spans": [
+          "Additionally, children who experience maltreatment often are affected by other adverse experiences (e.g., parental substance use, domestic violence, poverty), which can make it difficult to separate the unique effects of maltreatment."
+        ]
+      }
+    ],
+    "clueweb22-en0030-90-04943": [
+      {
+        "point_number": 1,
+        "point_content": "A surprisingly big part of how children develop is determined by the culture they grow up in.",
+        "spans": [
+          "a surprisingly big part of how they develop is determined by the culture they grow up in"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Child development is a dynamic, interactive process influenced by the environment and culture.",
+        "spans": [
+          "Child development is a dynamic, interactive process. Every child is unique in interacting with the world around them, and what they invoke and receive from others and the environment also shapes how they think and behave. Children growing up in different cultures receive specific inputs from their environment."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Language and the way people talk in different cultures affect children's development.",
+        "spans": [
+          "Language is one of the many ways through which culture affects development.",
+          "As early as infancy, mothers from different cultures talk to their babies differently."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Children's self-image and identity are shaped by cultural differences in focus on self or social context.",
+        "spans": [
+          "This early exposure affects the way children attend to themselves or to their relationship with others – forming their self image and identity.",
+          "For example, in Western European and North American countries, children tend to describe themselves around their unique characteristics – such as  “I am smart” or “I am good at drawing”. In Asian, African, Southern European and South American countries, however, children describe themselves more often around their relationship with others and social roles."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Children from different cultures remember and describe events differently based on cultural focus.",
+        "spans": [
+          "Because children in different cultures differ in how they think about themselves and relate to others, they also memorise events differently.",
+          "For example, when preschoolers were asked to describe a recent special personal experience, European-American children provided more detailed descriptions, recalled more specific events and stressed their preferences, feelings and opinions about it more than Chinese and Korean children. The Asian children instead focused more on the people they had met and how they related to themselves."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Parents in different cultures influence children's behavior and thinking patterns, preparing them for societal interaction.",
+        "spans": [
+          "Parents in different cultures also play an important role in moulding children’s behaviour and thinking patterns.",
+          "Typically, parents are the ones who prepare the children to interact with wider society."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Children's conversational style often resembles their parents' and varies by culture.",
+        "spans": [
+          "For example, young children typically develop a conversational style resembling their parents’ – and that often depends on culture.",
+          "European-American children frequently provide long, elaborative, self-focused narratives emphasising personal preferences and autonomy.",
+          "In contrast, Korean and Chinese children’s accounts are usually brief, relation-oriented, and show a great concern with authority."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Cultural differences in parenting styles affect children's social behavior and obedience.",
+        "spans": [
+          "In Chinese culture, where parents assume much responsibility and authority over children, parents interact with children in a more authoritative manner and demand obedience from their children.",
+          "Children growing up in such environments are more likely to comply with their parents’ requests, even when they are reluctant to do so."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Children's development is influenced by cultural context, affecting memory, interaction, and obedience.",
+        "spans": [
+          "While children are unique and develop at their own pace, the cultural influence on their development is clearly considerable.",
+          "It may even affect how quickly children reach different developmental milestones, but research on this complicated subject is still inconclusive."
+        ]
+      }
+    ],
+    "clueweb22-en0012-23-15043": [
+      {
+        "point_number": 1,
+        "point_content": "A surprisingly big part of how children develop is determined by the culture they grow up in.",
+        "spans": [
+          "a surprisingly big part of how they develop is determined by the culture they grow up in"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Child development is shaped by the child's unique interactions with the world and the specific cultural inputs they receive.",
+        "spans": [
+          "Child development is a dynamic, interactive process. Every child is unique in interacting with the world around them, and what they invoke and receive from others and the environment also shapes how they think and behave. Children growing up in different cultures receive specific inputs from their environment"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Language and the way people talk in different cultures affect children's development and thinking.",
+        "spans": [
+          "Language is one of the many ways through which culture affects development. We know from research on adults that languages forge how people think and reason. Moreover, the content and focus of what people talk about in their conversations also vary across cultures. As early as infancy, mothers from different cultures talk to their babies differently"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Children's self-image and identity are influenced by cultural differences in how they attend to themselves or their relationships with others.",
+        "spans": [
+          "This early exposure affects the way children attend to themselves or to their relationship with others – forming their self image and identity"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Children in different cultures describe themselves differently, focusing either on unique characteristics or social roles and relationships.",
+        "spans": [
+          "For example, in Western European and North American countries, children tend to describe themselves around their unique characteristics – such as  “I am smart” or “I am good at drawing”. In Asian, African, Southern European and South American countries, however, children describe themselves more often around their relationship with others and social roles"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Children from different cultures remember and describe personal experiences differently, focusing on different aspects.",
+        "spans": [
+          "Because children in different cultures differ in how they think about themselves and relate to others, they also memorise events differently. For example, when preschoolers were asked to describe a recent special personal experience, European-American children provided more detailed descriptions, recalled more specific events and stressed their preferences, feelings and opinions about it more than Chinese and Korean children. The Asian children instead focused more on the people they had met and how they related to themselves"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Parents in different cultures influence children's behavior and thinking by preparing them to interact with society and modeling socio-cultural rules.",
+        "spans": [
+          "Parents in different cultures also play an important role in moulding children’s behaviour and thinking patterns. Typically, parents are the ones who prepare the children to interact with wider society. Children’s interaction with their parents often acts as the archetype of how to behave around others – learning a variety of socio-cultural rules, expectations and taboos"
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Children develop conversational styles resembling their parents', which vary by culture.",
+        "spans": [
+          "For example, young children typically develop a conversational style resembling their parents’ – and that often depends on culture"
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "European-American children tend to have self-focused, elaborative narratives and reciprocal interaction styles, while Korean and Chinese children have brief, relation-oriented narratives and more passive roles in conversations.",
+        "spans": [
+          "European-American children frequently provide long, elaborative, self-focused narratives emphasising personal preferences and autonomy. Their interaction style also tends to be reciprocal, taking turns in talking. In contrast, Korean and Chinese children’s accounts are usually brief, relation-oriented, and show a great concern with authority. They often take a more passive role in the conversations"
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "In Chinese culture, parents are more authoritative and demand obedience, influencing children to comply with requests even if reluctant.",
+        "spans": [
+          "in Chinese culture, where parents assume much responsibility and authority over children, parents interact with children in a more authoritative manner and demand obedience from their children. Children growing up in such environments are more likely to comply with their parents’ requests, even when they are reluctant to do so"
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Children's behavior can change when they grow up in a different culture, as seen in Chinese immigrant children in England behaving more like English children.",
+        "spans": [
+          "Chinese immigrant children growing up in England behave more similarly to English children, who are less likely to follow parental demands if unwilling"
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "Cultural differences in children's thinking and interaction have practical implications in education and forensic investigations.",
+        "spans": [
+          "knowledge regarding cultural differences in children’s thinking, memory and how they interact with adults has important practical implications in many areas where you have to understand a child’s psychology"
+        ]
+      },
+      {
+        "point_number": 13,
+        "point_content": "Teachers and investigators need to understand cultural differences to better assess and interview children from diverse backgrounds.",
+        "spans": [
+          "teachers may need to assess children who come from a variety of cultural backgrounds. Knowing how children coming from a different culture think and talk differently can help the teacher better interview them as part of an oral academic test, for example",
+          "Being aware that Chinese children tend to recall details regarding other people and be brief in their initial response to questions may enable the investigator to allow more time for narrative practice to prepare the child to answer open-ended questions and prompt them with follow up questions"
+        ]
+      },
+      {
+        "point_number": 14,
+        "point_content": "Chinese children may be more sensitive and compliant to authority figures, requiring interviewers to build rapport and be patient in sensitive cases.",
+        "spans": [
+          "knowing that Chinese children may be more sensitive and compliant to authority figures – and more obedient to a perpetrator within the family – an interviewer may need to spend more time in building rapport to help the child relax and reduce their perceived authority. They should also be prepared to be patient with reluctance in disclosing abuse within families"
+        ]
+      },
+      {
+        "point_number": 15,
+        "point_content": "Cultural influence on child development is considerable and may affect the pace of reaching developmental milestones.",
+        "spans": [
+          "the cultural influence on their development is clearly considerable. It may even affect how quickly children reach different developmental milestones"
+        ]
+      }
+    ],
+    "clueweb22-en0012-98-06759": [
+      {
+        "point_number": 1,
+        "point_content": "More and more kids are using smartphones, and they’re using them much earlier, with 60% of children exposed before age 5 and 31% before age 2.",
+        "spans": [
+          "Compared to even 5 or 10 years ago, more and more kids are using smartphones, and they’re using them much earlier.",
+          "In a 2020 survey by the Pew Research Center, 60% of children were exposed to smartphones before age 5.",
+          "In that group, 31% had been introduced to phones before age 2."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Excessive screen time for babies or uncontrolled, limitless access for teens may cause developmental side effects.",
+        "spans": [
+          "As with most good things, moderation is key. Excessive screen time for babies or uncontrolled, limitless access for teens may cause developmental side effects."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Screen time should be limited for very young children because they aren’t able to process the images they see beyond the colorful pictures and brightness of the screen.",
+        "spans": [
+          "The general belief, though, is that screen time should be limited for very young children.",
+          "At a young age, children aren’t able to process the images they see beyond the colorful pictures and brightness of the screen."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Excessive screen time can mess with sleep hygiene and leave young children sitting still instead of getting up to play or move, which is important for development.",
+        "spans": [
+          "The World Health Organization has emphasized the importance of minimizing screen time because of its relationship to ongoing sedentary states.",
+          "Excessive screen time can mess with sleep hygiene and leave young children sitting still instead of getting up to play or move."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Increased screen time use in elementary school children is correlated with behavioral issues like conduct problems, hyperactivity, and inattention.",
+        "spans": [
+          "A 2018 study of elementary school children found a correlation between increased screen time use and behavioral issues — like conduct problems, hyperactivity, and inattention."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Teens’ sense of self can be skewed or warped when they put too much emphasis on social media or absorb too many of the “wrong” messages online, which can affect mental health.",
+        "spans": [
+          "As kids get older, they develop a better understanding of themselves, how they’re perceived by others, and how they fit into the social structures around them.",
+          "But this sense of self can be skewed or warped when teens put too much emphasis on social media, or absorb too many of the “wrong” messages online."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Younger children are exposed to impossible beauty standards earlier, which may cause anxiety and depression symptoms with excessive screen use.",
+        "spans": [
+          "Younger children are exposed to impossible beauty standards earlier, as well as the anxiety that can come with knowing exactly what their friends are doing at any point.",
+          "This may also be one reason why some teens develop anxiety and depression symptoms with excessive screen use."
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0000-09-07705": [
+      {
+        "point_number": 1,
+        "point_content": "Children can experience trauma from many directions including natural disasters, community violence, neglect, and abuse.",
+        "spans": [
+          "Children can experience trauma from many directions. Natural disasters devastate communities, leaving families homeless. Children are caught in the crosshairs of shootings and community violence. But the biggest emotional storms—neglect and abuse—rage inside the home, where children are supposed to feel safe and loved."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Early-life traumas can alter children's brains and result in developmental and behavioral problems.",
+        "spans": [
+          "For children, early-life traumas can actually alter their young brains and result in developmental and behavioral problems."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Trauma impairs the normal development of the brain and nervous system, the immune system, and the body’s stress response systems.",
+        "spans": [
+          "Trauma impairs the normal development of the brain and nervous system, the immune system, and the body’s stress response systems.*"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Signs of trauma in children include poor verbal skills, memory problems, excessive temper, regressive behaviors, trouble learning or focusing, learning disabilities, verbal abuse, and physical symptoms like stomachaches and headaches.",
+        "spans": [
+          "Children up to 2 years old often:\nDemonstrate poor verbal skills.\nExhibit memory problems.\nDisplay an excessive temper.\nScream or cry excessively.\nExhibit regressive behaviors.\nChildren 3–6 years old often:\nHave trouble learning or focusing in school.\nDevelop learning disabilities.\nDemand attention through positive and negative behaviors.\nAre verbally abusive.\nExperience stomachaches and headaches."
+        ]
+      }
+    ],
+    "clueweb22-en0040-12-13610": [
+      {
+        "point_number": 1,
+        "point_content": "Heredity influences all aspects of physical appearance and can affect growth and development through genes.",
+        "spans": [
+          "Heredity is the transmission of physical characteristics from parents to children through their genes. It influences all aspects of physical appearance such as height, weight, body structure, the colour of the eye, the texture of the hair, and even intelligence and aptitudes. Diseases and conditions such as heart disease, diabetes, obesity, etc., can also be passed through genes, thereby affecting the growth and development of the child adversely."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The environment plays a critical role in the development of children including physical surroundings and social relationships.",
+        "spans": [
+          "The environment plays a critical role in the development of children and it represents the sum total of physical and psychological stimulation the child receives. Some of the environmental factors influencing early childhood development involve the physical surroundings and geographical conditions of the place the child lives in, as well his social environment and relationships with family and peers."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The sex of the child affects physical growth and development, with boys and girls growing differently especially near puberty.",
+        "spans": [
+          "The sex of the child is another major factor affecting the physical growth and development of a child. Boys and girls grow in different ways, especially nearing puberty. Boys tend to be taller and physically stronger than girls. However, girls tend to mature faster during adolescence, while boys mature over a longer period of time."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Exercise through play and sports activities helps children grow well and strengthens the immune system.",
+        "spans": [
+          "Exercise here refers to the normal playtime and sports activities which help the body gain an increase in muscular strength and put on bone mass. Proper exercise helps children grow well and reach milestones on time or sooner. Exercise also keeps them healthy and fights off diseases by strengthening the immune system, especially if they play outside."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Hormones influence body functions and their timely functioning is critical for normal physical growth and development.",
+        "spans": [
+          "Hormones belong to the endocrine system and influence the various functions of our bodies. They are produced by different glands that are situated in specific parts of the body to secrete hormones that control body functions. Their timely functioning is critical for normal physical growth and development in children."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Nutrition is critical for growth; malnutrition and overeating can adversely affect development.",
+        "spans": [
+          "Nutrition is a critical factor in growth as everything the body needs to build and repair itself comes from the food we eat. Malnutrition can cause deficiency diseases that adversely affect the growth and development of children. On the other hand, overeating can lead to obesity and health problems in the long run, such as diabetes and heart disease."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Familial influence profoundly impacts psychological and social development of a child.",
+        "spans": [
+          "Families have the most profound impact in nurturing a child and determining the ways in which they develop psychologically and socially. Whether they are raised by their parents, grandparents or foster care, they need basic love, care and courtesy to develop as healthy functional individuals."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Geographical influences such as community resources and weather affect child development.",
+        "spans": [
+          "Where you live also has a great influence on how your children turn out to be. The schools they attend, the neighbourhood they live in, the opportunities offered by the community and their peer circles are some of the social factors affecting a child’s development."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Socio-economic status determines the quality of opportunities and resources available to a child.",
+        "spans": [
+          "The socio-economic status of a family determines the quality of the opportunity a child gets. Studying in better schools that are more expensive definitely has benefits in the long run. Well-off families can also offer better learning resources for their children and they afford special aid if the kids need it."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Learning and reinforcement are important for mental, intellectual, emotional, and social development.",
+        "spans": [
+          "Learning involves much more than schooling. It is also concerned with building the child up mentally, intellectually, emotionally, and socially so they operate as healthy functional individuals in the society. Reinforcement is a component of learning where an activity or exercise is repeated and refined to solidify the lessons learned."
+        ]
+      }
+    ]
+  }
+}

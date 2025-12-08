@@ -1,0 +1,853 @@
+{
+  "question": "why are tax refunds taking so long",
+  "key_points": {
+    "clueweb22-en0010-22-01397": [
+      {
+        "point_number": 1,
+        "point_content": "The IRS is swamped due to processing issues from the pandemic and last-minute changes from new tax credits, causing delays in tax refunds.",
+        "spans": [
+          "The IRS is swamped. As it struggles to manage processing issues due to the pandemic and last-minute changes from the latest tax credits approved by the Biden administration, there’s one painful consequence for many Americans: a potential delay in receiving their tax refund."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The IRS closed offices in 2020 due to the pandemic, creating a backlog of unprocessed paper tax returns that is still being caught up on.",
+        "spans": [
+          "In 2020, the IRS closed its offices due to the pandemic. This created a backlog of unprocessed paper 2019 tax returns the IRS is still catching up on"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Several IRS services are affected, including a slowdown in reviewing newly filed tax returns, even electronic ones, delaying refunds.",
+        "spans": [
+          "The IRS says that several services are affected by these issues, including a slowdown of reviewing newly filed tax returns— even if they’re filed electronically. This in turn can delay the issuing of refunds."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Refunds for returns claiming the earned income tax credit or additional child tax credit are delayed until mid-February to avoid fraudulent claims.",
+        "spans": [
+          "You are claiming the earned income tax credit (EITC) or additional child tax credit. To help avoid fraudulent claims for these credits, the IRS doesn’t issue refunds for tax returns claiming these credits until mid-February each year."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Paper tax returns take longer to process and are part of the backlog causing delays.",
+        "spans": [
+          "You filed a paper tax return",
+          "the agency is still holding more than 29 million returns for manual processing, including more than 5 million 2019 and 2020 returns that were completed on paper."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "There are no real options to push a refund sooner due to IRS delays caused by COVID-19.",
+        "spans": [
+          "“There aren’t real options to push a refund sooner and there are even fewer options than there were before the covid delays with the IRS,” he says."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "You cannot speed up your refund by calling the IRS; they can only research refund status after certain time periods.",
+        "spans": [
+          "Unfortunately, you won’t be able to speed up your refund by calling and speaking with an IRS employee.The IRS says, “Our phone and walk-in representatives can only research the status of your refund 21 days after you filed electronically; six weeks after you mailed your paper return.”"
+        ]
+      }
+    ],
+    "clueweb22-en0008-17-11202": [
+      {
+        "point_number": 1,
+        "point_content": "IRS tax refunds are taking longer due to processing/validation of past year and amended returns, staffing/budget constraints, and ongoing payment and reconciliation of past stimulus payments and tax credits.",
+        "spans": [
+          "there will likely be longer than usual tax refund payment delays due to processing/validation of past year and amended returns, staffing/budget constraints and the ongoing payment and reconciliation of past stimulus payments and tax credits (like the CTC )"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Amended returns and returns requiring special handling or manual processing face longer delays, up to 120 days due to staffing shortages.",
+        "spans": [
+          "Those who filed for extensions or amended returns, will likely face even longer delays in getting any refunds",
+          "For returns that require special handling or manual processing the IRS has said that due to staffing shortages it is taking up to 120 days to complete processing and notify taxpayers of adjustments or adjudications."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Additional identity or random security checks, especially related to past fraudulent activities, cause delays as returns get flagged for further reviews.",
+        "spans": [
+          "Additional identity or random security checks – especially if fraudulent activities were associated with your filing in the past that means your return gets flagged for further reviews"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Missing or incomplete documentation or information in your return can delay processing, which is why e-filing with tax software is recommended.",
+        "spans": [
+          "Missing or incomplete documentation or information in your return. This is why you should e-file with leading tax software as most online tax filing software checks for this, which is why manually filed returns are more at risk"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Incorrect bank details or account numbers can cause refund deposit failures and delays.",
+        "spans": [
+          "Incorrect bank details or account numbers provided in your return (see below for how to address)"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Using a pre-paid card with a middleman bank can cause refunds not to be deposited due to lack of test deposits to verify account activity.",
+        "spans": [
+          "If you are using a pre-paid card for the first time and were using a middleman bank (SBBT, Republic, Bofi, etc), some people have had their refund not deposited because the middleman bank does not test deposits to ensure the account is active and correct"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Refund offset due to other federal or state obligations can reduce your refund amount and cause confusion about delays.",
+        "spans": [
+          "Refund offset (Tax Topic 203) which reduces your payment due to other federal or state obligations. See section below for more on this."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "PATH act delays affect refunds claiming Earned Income Tax Credit (EITC) or Additional Child Tax Credit (ACTC), usually lifted mid-February.",
+        "spans": [
+          "PATH act delays because you claimed the Earned Income Tax Credit (EITC) or the Additional Child Tax Credit (ACTC ). This constraint was/is normally lifted in mid-February,"
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Manual reviews or corrections to earned-income tax credit and pandemic-related stimulus payments cause delays, visible as code 570/971 on tax transcript.",
+        "spans": [
+          "Manual reviews or corrections are needed to the earned-income tax credit and the pandemic-related stimulus payments (refundable tax credits) claimed in your tax return. You will see this as code 570/971 on your tax transcript."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "IRS is spending more time validating taxpayer identities due to rise in online tax fraud, causing delays; verification can take up to 9 weeks after notification.",
+        "spans": [
+          "IRS is delaying refund processing because they are having to spend a lot more time validating tax payer identities given the rise in online tax related fraud over the last few years.",
+          "After verification it could take up to 9 weeks for you to get a refund."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Paper checks are issued if direct deposit is delayed or rejected, causing a slight delay of about 2 extra days compared to direct deposit.",
+        "spans": [
+          "At times people will change their bank accounts after their return is filed or provide incorrect account numbers. In these instances the IRS will issue a paper check when they cannot send by direct deposit.",
+          "This will delay your refund, but the actually IRS processing time for a paper check  is only 2 extra days more than direct deposit."
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "IRS refund status can be checked via Where's My Refund (WMR) or IRS2Go app, which shows stages: Return Received, Refund Approved, Refund Sent.",
+        "spans": [
+          "Check the IRS tax tool, where’s my refund (WMR) or IRS2Go mobile app, to get the official status of your refund",
+          "The WMR apps displays your tax return processing through three stages: Return Received;  Refund Approved; Refund Sent."
+        ]
+      },
+      {
+        "point_number": 13,
+        "point_content": "IRS expects to issue more than 90% of refunds in less than 21 days; paper filed returns may take more than 6 weeks.",
+        "spans": [
+          "The IRS has announced that it expects to issue more than 90% of refunds to taxpayers in less than 21 days (not business days).",
+          "And if you paper filed, you may need to wait more than 6 weeks before hearing back from the IRS."
+        ]
+      },
+      {
+        "point_number": 14,
+        "point_content": "Errors or missing information in tax returns cause delays; IRS may contact by mail for more information.",
+        "spans": [
+          "If the IRS needs more information specific to your return, they will contact you by mail (be aware of IRS imitation scams). You should follow the instructions in the IRS letter as soon as possible to prevent further delays with receiving your return.",
+          "Review your tax return and make sure there no obvious mistakes like missing names/SSN or forgetting to sign your tax return."
+        ]
+      },
+      {
+        "point_number": 15,
+        "point_content": "IRS refund offset letters explain why refund is less than expected; taxpayers can dispute if they have no federal obligations.",
+        "spans": [
+          "You will get  a letter from the IRS explaining this offset to your federal refund and why it differs from what was estimated in your filed return.",
+          "They will give you an opportunity to dispute this collection, but you will have to prove you had no federal obligations."
+        ]
+      },
+      {
+        "point_number": 16,
+        "point_content": "IRS refund delays are frustrating and caused by multiple factors including backlog, identity verification, manual reviews, and staffing shortages.",
+        "spans": [
+          "I am so aggravated. We lost our vehicle due to a blown transmission and we have been counting on our return to get another vehicle.",
+          "I am beyond frustrated, and now I’ve developed ulcers worrying about the coming winter, where’s my pain and suffering compensation for the mental anguish they’ve caused me?"
+        ]
+      }
+    ],
+    "clueweb22-en0037-82-11429": [
+      {
+        "point_number": 1,
+        "point_content": "The IRS found itself faced with a substantial backlog of unprocessed tax returns right up to the May 17 deadline.",
+        "spans": [
+          "the IRS found itself faced with a substantial backlog of unprocessed tax returns right up to the May 17 deadline"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The delay in processing 2020 tax returns has also resulted in a delay in the issuing of refunds.",
+        "spans": [
+          "The delay in processing 2020 tax returns has also resulted in a delay in the issuing of refunds"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The IRS has had to take on the added responsibility of sending out over $800 billion worth of stimulus payments over the course of three separate rounds of payments, which has likely helped to slow down the overall rate at which the IRS can process tax returns.",
+        "spans": [
+          "the IRS has had to take on the added responsibility of sending out over $800 billion worth of stimulus payments over the course of three separate rounds of payments",
+          "The added responsibility of sending out these payments, however, has likely helped to slow down the overall rate at which the IRS can process tax returns"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The IRS is focused on getting third round stimulus payments sent to those people whose eligibility is dependent on their 2020 returns, which ties up processing resources.",
+        "spans": [
+          "The most recent batches of third round stimulus payments of up to $1,400 have themselves been tied directly to tax returns, with the IRS now focused on getting payments sent to those people whose eligibility for either an initial payment or a supplemental “plus-up” payment is dependent on their 2020 returns"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Some benefits included in the American Rescue Plan require more time for the IRS to process returns, causing delays.",
+        "spans": [
+          "the agency has acknowledged that those people who are looking to take advantage of some benefits included in the American Rescue Plan will likely see their returns take longer to process"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "The IRS has been dealing with staffing shortages and problems with its resources and equipment, complicating its ability to function efficiently and train new hires.",
+        "spans": [
+          "The IRS has also been dealing with staffing shortages and problems with its resources and equipment, with equipment such as printers and copiers either broken or out of ink",
+          "This has complicated the agency’s ability to function efficiently, and has even limited its ability to train new hires to make up for its staffing problems because it cannot print enough training manuals"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "The IRS had to temporarily shut down its tax processing centers because of the pandemic and reopened with limited capacity, causing it to fall behind in processing returns.",
+        "spans": [
+          "Some of the IRS’ problems date back to last year, when the agency had to temporarily shut down its tax processing centers because of the pandemic",
+          "Even when these centers reopened, they did so with only a limited capacity because of the need to maintain social distancing practices",
+          "As a result, the IRS found itself behind in the processing of 2019 tax returns"
+        ]
+      }
+    ],
+    "clueweb22-en0025-74-16869": [
+      {
+        "point_number": 1,
+        "point_content": "The IRS announced it had 8.5 million unprocessed individual returns, including 2020 returns with errors and amended returns that require corrections or special handling.",
+        "spans": [
+          "the IRS announced it had 8.5 million unprocessed individual returns, including 2020 returns with errors and amended returns that require corrections or special handling"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Refunds that usually take around 21 days to process are taking at least 120 days.",
+        "spans": [
+          "refunds that usually take around 21 days to process are taking at least 120 days"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The IRS has also been busy with stimulus checks, child tax credit payments and refunds for tax overpayment on unemployment benefits.",
+        "spans": [
+          "the IRS has also been busy with stimulus checks, child tax credit payments and refunds for tax overpayment on unemployment benefits"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The IRS usually issues tax refunds within three weeks, but some taxpayers have been waiting months to receive their payments.",
+        "spans": [
+          "The IRS usually issues tax refunds within three weeks, but some taxpayers have been waiting months to receive their payments"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "If there are any errors, or if you filed a claim for an earned income tax credit or the child tax credit, the wait could be lengthy.",
+        "spans": [
+          "If there are any errors, or if you filed a claim for an earned income tax credit or the child tax credit, the wait could be lengthy"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "The IRS ran at restricted capacity in 2020, which put a strain on its ability to process tax returns and created a backlog.",
+        "spans": [
+          "Because of the pandemic, the IRS ran at restricted capacity in 2020, which put a strain on its ability to process tax returns and created a backlog"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "The combination of the shutdown, three rounds of stimulus payments, challenges with paper-filed returns and the tasks related to implementing new tax laws and credits created a \"perfect storm.\"",
+        "spans": [
+          "The combination of the shutdown, three rounds of stimulus payments, challenges with paper-filed returns and the tasks related to implementing new tax laws and credits created a \"perfect storm\""
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Limited resources continue to cause delays in processing mail, tax returns, payments, refunds and correspondence.",
+        "spans": [
+          "limited resources continue to cause delays"
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Reasons your income tax refund might be delayed include errors, incomplete returns, suspected identity theft or fraud, claims for earned income tax credit or additional child tax credit, further review needed, or inclusion of Form 8379 (injured spouse allocation).",
+        "spans": [
+          "Here's a list of reasons your income tax refund might be delayed:\nYour tax return has errors.\nIt's incomplete.\nYour refund is suspected of identity theft or fraud.\nYou filed for the earned income tax credit or additional child tax credit.\nYour return needs further review.\nYour return includes Form 8379 (PDF), injured spouse allocation -- this could take up to 14 weeks to process."
+        ]
+      }
+    ],
+    "clueweb22-en0025-30-12199": [
+      {
+        "point_number": 1,
+        "point_content": "There are delays in the processing of tax returns with some refunds taking months to hit people’s banks.",
+        "spans": [
+          "Multiple local tax preparers said they are seeing a delay in the processing of tax returns with some refunds taking months to hit people’s banks."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "This year is highly unusual with processing delays and difficulty contacting the IRS.",
+        "spans": [
+          "This year is highly unusual and unlike any other year he’s seen, said Bill Dardanelli, the owner of Capital District Tax Services, who has been a tax preparer for 35 years.",
+          "Processing delays aren’t the only problem, trying to contact the Internal Revenue Service (IRS) has also been difficult."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "There are long delays in processing more complex returns involving multiple income sources, unemployment, and rental property.",
+        "spans": [
+          "Ed Canty, a certified financial planner with Canty Financial Management said they are not only seeing delays with the processing of federal returns but with state returns also.",
+          "He said there have been long delays in the processing of more complex returns that involve things like multiple sources of income, unemployment, and rental property."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The IRS workload is immense due to regular filings, unemployment amendments, and stimulus payments.",
+        "spans": [
+          "Owner of American Tax Depot, Gary Edwards, said he’s doing his best to keep clients calm.",
+          "He said he understands the immensity of the IRS’s workload but said they could have waited to amend unemployment returns and opted to first take care of regular filings.",
+          "Between more returns, unemployment amendments, issuing stimulus money and processing regular returns, the IRS has had its work cut out for them."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "People who filed early may face delays due to a bottleneck effect from many rushing to file early.",
+        "spans": [
+          "Edwards said people who are just filing their taxes have a better chance of seeing their refunds sooner than people who filed in February.",
+          "He believes this is in part because people rushed to file early creating a bottleneck effect."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Reasons for refund delays include errors, incomplete returns, further review, identity theft or fraud, claims for certain credits, and specific forms that take longer to process.",
+        "spans": [
+          "The IRS website said it could be for one of the following reasons:\nErrors, such as incorrect Recovery Rebate Credit\nBecause it’s incomplete\nIt needs further review in general\nIt’s affected by identity theft or fraud\nIt includes a claim filed for an Earned Income Tax Credit or an Additional Child Tax Credit\nIt includes a Form 8379, Injured Spouse Allocation PDF, which could take up to 14 weeks to process"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Calling the IRS will not speed up the refund process and representatives cannot provide specific refund dates if the return is still processing.",
+        "spans": [
+          "On it’s frequently asked questions wepage, the IRS said calling them will not get people’s refunds to them sooner.",
+          "Q: Will calling you help me get my refund any faster?\nA. No. Unless Where’s My Refund? directs you to call us, our representatives will not be able to provide any additional information.",
+          "If Where’s My Refund? says that we’re still processing your return, our representatives won’t be able to give you a specific refund date."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "If it has been more than two months without a refund, the IRS may be performing a manual review and may send a letter with instructions.",
+        "spans": [
+          "Tretter wants to remind tax payers that the IRS will never call or email them.",
+          "If it’s been more than two months since filing without seeing a refund, he said the IRS could be performing a manual review and may send a letter.",
+          "He said people who receive such a letter from the IRS should follow the instructions as soon as possible and if they are working with a tax preparer to let them know what’s going on too."
+        ]
+      }
+    ],
+    "clueweb22-en0007-66-04879": [
+      {
+        "point_number": 1,
+        "point_content": "The IRS prides itself on paying most refunds within 21 days of filing, but delays can occur.",
+        "spans": [
+          "It prides itself on paying most refunds within 21 days of filing."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "For 2020 tax returns, refunds may take more than 21 days if you claimed a Recovery Rebate Credit incorrectly or applied the lookback rule for EITC or ACTC.",
+        "spans": [
+          "For 2020 tax returns only: The IRS has indicated your refund may take more than the normal 21 days if you:\nclaimed a Recovery Rebate Credit and the amount you claimed does not match what the IRS calculates you are eligible for.\napplied the lookback rule to use your prior-year earned income to calculate your Earned Income Tax Credit (EITC) or the Additional Child Tax Credit."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The IRS manually reviews returns that meet certain criteria, which can add 90 to 120 days to refund time.",
+        "spans": [
+          "If your return meets these criteria, the IRS will manually review your return, and it may take an additional 90 to 120 days to receive your refund."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Congress delayed refunds containing the earned income credit (EIC) and/or the additional child tax credit (ACTC) until after Feb. 15, with refunds expected by the first week of March.",
+        "spans": [
+          "Delayed refunds containing the earned income credit (EIC) and/or the additional child tax credit (ACTC). The IRS can’t release these refunds before Feb. 15, but the IRS is saying to expect your refund by the first week of March."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The IRS takes or offsets refunds if taxpayers owe federal taxes or other debts such as child support or state taxes.",
+        "spans": [
+          "When the IRS issues refunds, it mainly takes or reduces (offsets) refunds when taxpayers have debts to pay.",
+          "The Treasury Offset Program (TOP) allows the IRS to take or reduce your refund if you owe other types of debts, including non-tax debts, such as:\nPast-due child support\nOther federal agency payments\nState taxes\nUnemployment compensation repayments"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "The IRS can hold your refund and request more information in several situations, such as math errors, identity theft suspicion, or challenges to tax credits claimed.",
+        "spans": [
+          "The IRS can hold your refund and request more information from you in several situations.",
+          "You mailed in your return, and the IRS flagged a “math error”:",
+          "The IRS suspects identity theft:",
+          "The IRS is challenging tax credit(s) you claimed:"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "The IRS can delay refunds due to potential ACA health insurance issues if there are discrepancies in reported coverage or tax credits.",
+        "spans": [
+          "The IRS identified potential ACA health insurance issues:"
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "The IRS can freeze refunds if you need to file an old return or if you are under audit from an earlier year.",
+        "spans": [
+          "You need to file an old return:",
+          "You’re under audit from an earlier year:"
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "If the IRS delays your refund, you should investigate the cause, contact the IRS, and respond promptly to any requests to avoid further delays.",
+        "spans": [
+          "If the IRS is delaying your refund, you’ll need to understand why, and navigate the IRS to issue your refund as quickly as possible.",
+          "If you get a notice from the IRS about your refund hold, immediately investigate the cause."
+        ]
+      }
+    ],
+    "clueweb22-en0014-81-01420": [
+      {
+        "point_number": 1,
+        "point_content": "It’s taking us longer than normal to process mailed correspondence and more than 21 days to issue refunds for certain mailed and e-filed 2020 tax returns that require review.",
+        "spans": [
+          "It’s taking us longer than normal to process mailed correspondence and more than 21 days to issue refunds for certain mailed and e-filed 2020 tax returns that require review."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The IRS issues more than 9 out of 10 refunds in less than 21 days. However, it’s possible your tax return may require additional review and take longer.",
+        "spans": [
+          "The IRS issues more than 9 out of 10 refunds in less than 21 days. However, it’s possible your tax return may require additional review and take longer."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "If you requested a refund of tax withheld on a Form 1042-S by filing a Form 1040NR, we will need additional time to process the return. Please allow up to 6 months from the original due date of the 1040NR return or the date you actually filed the 1040NR, whichever is later to receive any refund due.",
+        "spans": [
+          "If you requested a refund of tax withheld on a Form 1042-S by filing a Form 1040NR, we will need additional time to process the return. Please allow up to 6 months from the original due date of the 1040NR return or the date you actually filed the 1040NR, whichever is later to receive any refund due."
+        ]
+      }
+    ],
+    "clueweb22-en0045-50-17491": [
+      {
+        "point_number": 1,
+        "point_content": "The IRS is holding 29 million tax returns for manual processing, delaying tax refunds for many Americans.",
+        "spans": [
+          "The IRS is holding 29 million tax returns for manual processing, delaying tax refunds for many Americans"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The delays are due to a backlog of 2019 paper tax returns that the IRS was unable to process after shuttering its offices during the coronavirus pandemic.",
+        "spans": [
+          "a backlog of 2019 paper tax returns that the IRS was unable to process after shuttering its offices during the coronavirus pandemic"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Some tax returns need correction due to changes made by the Recovery Rebate Credit or to verify income for the Earned Income Tax Credit (EITC) and Additional Child Tax Credit (ACTC), causing longer wait times.",
+        "spans": [
+          "some people may experience a longer than average wait for their payments",
+          "tax returns that need a correction due to changes made by the Recovery Rebate Credit — a tax credit adjustment for people who were owed more stimulus money — or to verify income for the Earned Income Tax Credit (EITC) and Additional Child Tax Credit (ACTC)"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The IRS is taking more than 21 days to issue refunds for returns requiring special handling by an IRS employee.",
+        "spans": [
+          "it is taking the IRS more than 21 days to issue any related refund"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The IRS's ability to help taxpayers is still suffering due to the pandemic, with many Taxpayer Assistance Centers still closed and longer phone wait times.",
+        "spans": [
+          "The IRS' ability to help taxpayers is still suffering a hit from the pandemic",
+          "IRS still hadn't reopened all of its Taxpayer Assistance Centers by last fall",
+          "taxpayers who reach out to the IRS via phone must typically wait 18 minutes to get through, versus 11 minutes before the pandemic"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "The IRS has a large workload including processing over 91 million tax returns and distributing over 161 million stimulus payments, adding to delays.",
+        "spans": [
+          "the tax agency has gone through more than 91 million individual tax returns filed for the 2020 tax year and issued more than 68 million refunds so far",
+          "The IRS has also distributed more than 161 million payments for a third stimulus check over the past several weeks, adding to its workload on top of the current tax season"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Taxpayers report long wait times and difficulty getting updates on their refund status, with the IRS phone lines overwhelmed and answering only about 7% of calls.",
+        "spans": [
+          "6 weeks since IRS accepted my return and still no update",
+          "Calls to the IRS' Accounts Management lines — the primary phone contact for taxpayers — are up 300% this filing season, but IRS employees are answering only about 7% of all such calls"
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "The complexity of tax changes from multiple stimulus packages has made the delays unavoidable, requiring manual corrections and reviews.",
+        "spans": [
+          "The delays in issuing refunds this year are \"unavoidable\" given the complexity of the tax changes authorized by several stimulus packages",
+          "tax returns with this issue must be corrected by hand rather than via computer"
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Returns requiring manual correction are held in 'suspense' until reviewed by an IRS employee, causing delays not evident in IRS systems.",
+        "spans": [
+          "Such returns must be corrected manually and are \"in 'suspense' until an IRS employee can review it\"",
+          "Essentially, the return is in a queue waiting to be reviewed and processed, and during this time, it is not evident on IRS systems why the return is being held"
+        ]
+      }
+    ],
+    "clueweb22-en0031-81-17727": [
+      {
+        "point_number": 1,
+        "point_content": "The IRS expects delays processing returns and sending refunds this year.",
+        "spans": [
+          "the agency expects delays processing returns and sending refunds this year"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The IRS still had 6 million unprocessed individual 2020 returns as of December 23, 2021, mainly with errors and Recovery Rebate Credit corrections, which is more than the typical backlog.",
+        "spans": [
+          "the agency still had 6 million unprocessed individual 2020 returns as of December 23, 2021, comprised mainly of those with errors made by the taxpayer and those with Recovery Rebate Credit amounts being corrected by the IRS",
+          "That's millions more than the typical yearly backlog"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The agency recorded over 2 million amended returns as of Jan. 1, 2022, and is processing corrections for unemployment insurance tax overpayments in 2020.",
+        "spans": [
+          "The agency also recorded over 2 million amended returns as of Jan. 1, 2022, and is still processing some corrections for people who paid too much in unemployment insurance taxes in 2020"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The IRS remains short-staffed and is dealing with Covid-related tax changes like the third economic impact payments and child tax credit payments, which take time to verify.",
+        "spans": [
+          "the agency remains short-staffed, and that staff is dealing with Covid-related tax changes like the third economic impact payments and child tax credit payments",
+          "All of that takes time to verify"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Taxpayers claiming the Recovery Rebate Credit need manual review by an IRS employee, causing processing delays.",
+        "spans": [
+          "One of the most common hiccups during processing last year was taxpayers claiming the Recovery Rebate Credit in order to receive their stimulus money",
+          "Even if taxpayers e-file, these errors need to be manually reviewed by an IRS employee"
+        ]
+      }
+    ],
+    "clueweb22-en0025-91-15392": [
+      {
+        "point_number": 1,
+        "point_content": "The IRS is still working through its massive backlog of unprocessed tax returns and correspondence that have piled up due to the pandemic.",
+        "spans": [
+          "The IRS is still working through its massive backlog of unprocessed tax returns and correspondence that have piled up due to the pandemic."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The IRS is approximately 200 days behind in processing e-filed returns, paper-filed returns, and correspondence.",
+        "spans": [
+          "Based on recent conversations with agents, the IRS is approximately 200 days behind in processing e-filed returns, paper-filed returns, and correspondence."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Reasons your refund could be delayed include paper-filing, errors, suspected identity theft or fraud, filing for earned income tax credit or additional child tax credit, claiming missed recovery rebate credits, IRS reviewing your return, or refund applied to a debt owed.",
+        "spans": [
+          "Your return was paper-filed.",
+          "Your tax return has errors.",
+          "Your return is suspected of identity theft or fraud.",
+          "You filed for the earned income tax credit or additional child tax credit.",
+          "Your return claimed missed recovery rebate credits.",
+          "The IRS is reviewing your tax return.",
+          "Your refund was applied to a debt you owe to the IRS or another federal or state agency."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Sending another copy of the return will add more clutter and slow down processing.",
+        "spans": [
+          "Do NOT send another copy of this return.  That will just add more clutter to the IRS pile and will also trigger a possible duplicate filing or subsequent return filing issue that will only slow down the processing of your return and further delay the issuance of any refund."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The IRS has finally released refunds for taxpayers that filed their returns through April 2021 and is paying interest on delayed refunds.",
+        "spans": [
+          "we are seeing that the IRS has finally released refunds for Taxpayers that filed their returns through April 2021. The IRS is paying interest on these delayed refunds so that helps a little!"
+        ]
+      }
+    ],
+    "clueweb22-en0040-88-08131": [
+      {
+        "point_number": 1,
+        "point_content": "IRS has a backlog of paper tax returns during the pandemic and complications from last-minute changes to tax laws in 2020 causing delays.",
+        "spans": [
+          "IRS has grappled with a backlog of paper tax returns during the pandemic and complications from last-minute changes to tax laws in 2020"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "IRS Commissioner Charles Rettig warned taxpayers to take special care when filing in 2022 to avoid processing delays due to enormous challenges related to the pandemic.",
+        "spans": [
+          "IRS Commissioner Charles Rettig warned taxpayers to take special care when filing in 2022 to avoid experiencing processing delays similar to those seen in previous years, saying the IRS is “facing enormous challenges related to the pandemic”"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Filing electronically with direct deposit usually results in a refund within 21 days if there are no issues; paper returns or errors cause significant delays.",
+        "spans": [
+          "If you file electronically with direct deposit into your bank account, you’ll usually get your refund within 21 days if there aren’t any issues with your return.",
+          "That time frame can expand significantly if you file a paper return or if the information in your return doesn’t pass through the IRS’ electronic filters"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Manual review of returns due to errors or mismatches causes delays.",
+        "spans": [
+          "Anything that requires the IRS to manually look at that return is going to create a delay"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "A prior year's tax return still in IRS backlog can delay the current year's refund.",
+        "spans": [
+          "Your refund may also be delayed this year if your tax return from last year is still tied up in the IRS’ backlog"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Errors on your return such as math errors, missing signatures, or mismatched dependent information can delay your refund.",
+        "spans": [
+          "Your refund may be delayed if you made math errors or if you forgot to sign your return or include your Social Security number. It may also be delayed if your dependents’ information doesn’t match IRS records"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Income reported that doesn’t match IRS records, including stimulus payments and child tax credits, can delay refunds.",
+        "spans": [
+          "If the numbers you report and the information the IRS receives don’t match up, your refund may be delayed while the IRS figures out how to reconcile the discrepancy.",
+          "Two common sources of errors this year: stimulus payments and child tax credits"
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Direct deposit account ownership not matching filing status can delay refunds and cause IRS to send a paper check instead.",
+        "spans": [
+          "Your refund may be delayed if you chose direct deposit but the ownership of the bank account doesn’t match up with the filing status on the return"
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "IRS identity theft filters can delay refunds until taxpayers verify their identities.",
+        "spans": [
+          "The IRS identity theft filters sometimes delay returns and tax refunds until taxpayers verify their identities"
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Filing old tax returns is necessary to release refunds if IRS is pursuing back tax returns.",
+        "spans": [
+          "When the IRS pursues back tax returns, the IRS can freeze any refunds you may be due until you file the old return"
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Paper returns take longer to process and are more likely to have errors identified after filing, causing delays.",
+        "spans": [
+          "It always takes longer for the IRS to process paper returns – especially now.",
+          "If you file a paper return, it’s going to go in that backlog file"
+        ]
+      }
+    ],
+    "clueweb22-en0000-19-00538": [
+      {
+        "point_number": 1,
+        "point_content": "There is a massive backlog at the IRS delaying tax refunds.",
+        "spans": [
+          "Massive backlog at IRS delaying tax refunds",
+          "a U.S. Treasury report details a massive backlog at the IRS. By the end of 2020, 3.5 million individual paper tax returns were waiting to be processed, an 1,800% increase over 2019. An approximate 1.5 million amended returns were also waiting, a 1,200% increase over 2019."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The backlog is due to budget cuts, government shutdowns, and the pandemic closing processing centers.",
+        "spans": [
+          "Rose says the backlog goes back to budget cuts at the IRS over the last decade, various government shutdowns and a pandemic that closed its processing center."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The IRS has had to handle stimulus payments, tax law changes, and unemployment benefit refunds with fewer employees.",
+        "spans": [
+          "The agency has also had to distribute stimulus payments, implement tax law changes and send tax refunds of 2020 unemployment benefits to those who’d already filed returns. It did all those things with 15% fewer employees than it had a decade ago."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "IRS phone lines are overwhelmed, answering only about 27% of calls.",
+        "spans": [
+          "They're only answering about 27% of phone calls,\" said Rose. \"So you have a one in four chance of actually talking to a live person. The other three get the courtesy disconnect."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "IRS now has 18 million unprocessed individual returns in its pipeline including 2020 returns.",
+        "spans": [
+          "The IRS says including 2020 tax returns filed, it now has 18 million unprocessed individual returns in its pipeline."
+        ]
+      }
+    ],
+    "clueweb22-en0028-80-15362": [
+      {
+        "point_number": 1,
+        "point_content": "Normally a refund takes 10 working days to process but can take longer if it has been chosen for additional security checks.",
+        "spans": [
+          "Normally a refund takes 10 working days to process but can take longer if it has been chosen for additional security checks"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "HMRC cannot give a timescale for security checks on the forum; you need to call the self assessment helpline for updates.",
+        "spans": [
+          "we can't give a timescale on that forum for security checks you would need to call the self assessment helpline on 0300 200 3310"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "It may take longer at certain times of the year when more repayments are requested.",
+        "spans": [
+          "it may take longer at this time of year when more repayments are requested"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Repeated requests for forms like R38 can cause delays, but HMRC does not expect to send the same form more than once.",
+        "spans": [
+          "I keep being sent the same form (R38) over and over again; which I know is a delay tactic",
+          "I would not expect you to receive an R38 more than once"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "HMRC cannot check individual records or provide specific updates on the forum; you need to contact them via webchat, telephone, or post for specific departments.",
+        "spans": [
+          "We can't check records from this forum, we can only provide general advice.",
+          "You need to use webchat/telephone or post for the specific department"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Security checks on repayments can cause significant delays, sometimes extending the process by several weeks or months.",
+        "spans": [
+          "It is possible HMRC are carrying out security checks on your repayment",
+          "now being told another 12 weeks",
+          "timescale for my repayment is 4th December because of security checks"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "There is a lack of transparency and accountability in the refund process, causing frustration among taxpayers.",
+        "spans": [
+          "What is most frustrating is the total absence of accountability. No transparency to the process and no sense of responsibility towards the taxpayer"
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "HMRC's customer service can be difficult to reach and may not provide helpful updates, leading to delays and frustration.",
+        "spans": [
+          "I have tried telephoning HMRC but needless to say I have not been able to get through to anyone",
+          "I have called 0300 200 3100 many times, but I may as well call my neighbor as they are no help whatsoever"
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Delays are exacerbated by the pandemic and increased workload on HMRC.",
+        "spans": [
+          "I do appreciate that the pandemic is putting added stress on all organisations",
+          "I know we've all been through a terribly tough 18 months during the pandemic"
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0030-66-10494": [
+      {
+        "point_number": 1,
+        "point_content": "The Canada Revenue Agency's goal is to send your refund within 2 weeks when you file online and 8 weeks when you file a paper return.",
+        "spans": [
+          "The Canada Revenue Agency's goal is to send your refund within: 2 weeks, when you file online 8 weeks when you file a paper return"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Returns may take up to 16 weeks if you live outside Canada and file a non-resident personal income tax return.",
+        "spans": [
+          "Returns may take up to 16 weeks if you live outside Canada and file a non-resident personal income tax return."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The CRA may take longer to process your return if it is selected for a more detailed review.",
+        "spans": [
+          "The CRA may take longer to process your return if it is selected for a more detailed review."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The CRA may keep all or part of your refund if you owe a balance, have a garnishment order, have certain other outstanding government debts, have outstanding GST/HST returns, or have a refund of $2 or less.",
+        "spans": [
+          "The CRA may keep all or part of your refund if you: owe or are about to owe a balance have a garnishment order under the Family Orders and Agreements Enforcement Assistance Act have certain\u0000other outstanding federal, provincial, or territorial government debts, such as student loans, employment insurance and social assistance benefit overpayments, immigration loans, and training allowance overpayments have any outstanding GST/HST returns from a sole proprietorship or partnership have a refund of $2 or less"
+        ]
+      }
+    ],
+    "clueweb22-en0014-65-00463": [
+      {
+        "point_number": 1,
+        "point_content": "The IRS is taking more than 21 days (and up to 90 to 120 days) to issue refunds for tax returns with the Recovery Rebate Credit, Earned Income Tax Credit and Additional Child Tax Credit.",
+        "spans": [
+          "The IRS is taking more than 21 days (and up to 90 to 120 days) to issue refunds for tax returns with the Recovery Rebate Credit, Earned Income Tax Credit and Additional Child Tax Credit."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "If you paper-filed, wait at least 4 weeks before checking Where's My Refund?.",
+        "spans": [
+          "If you paper-filed, wait at least 4 weeks before checking Where's My Refund?."
+        ]
+      }
+    ]
+  }
+}

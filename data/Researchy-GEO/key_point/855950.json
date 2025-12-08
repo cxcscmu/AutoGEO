@@ -1,0 +1,205 @@
+{
+  "question": "how did henry ford affect the automobile industry?",
+  "key_points": {
+    "null": [],
+    "clueweb22-en0038-76-16677": [
+      {
+        "point_number": 1,
+        "point_content": "Henry Ford successfully used the assembly line to produce the Model T.",
+        "spans": [
+          "He successfully used the assembly line to produce the Model T."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Henry Ford developed a successful automobile.",
+        "spans": [
+          "developed a successful automobile"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The invention of interchangeable, or standardized, parts led to the development of factories and assembly lines, which Henry Ford used in automobile production.",
+        "spans": [
+          "The invention of interchangeable, or standardized, parts was the main idea that led to the invention and development of factories.",
+          "This is what led to assembly lines because it easier to have one person making each part to build on top of the last instead of each person building a collection of parts"
+        ]
+      }
+    ],
+    "clueweb22-en0001-95-03361": [
+      {
+        "point_number": 1,
+        "point_content": "Henry Ford's system of production was adopted by many different kinds of companies.",
+        "spans": [
+          "His system was adopted by many different kinds of companies."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Henry Ford's assembly line involved workers adding parts one at a time to make each car.",
+        "spans": [
+          "Workers added parts one at a time in order to make each car."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Henry Ford used interchangeable parts in his assembly lines, differing from past production practices.",
+        "spans": [
+          "Ford used interchangeable parts in his assembly lines."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Before Henry Ford revolutionized the automobile industry, most cars were made one at a time, by hand.",
+        "spans": [
+          "one at a time, by hand."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Henry Ford could hire unskilled employees and teach them one stage of car production due to the assembly line.",
+        "spans": [
+          "He could hire unskilled employees and teach them one stage of car production."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Henry Ford began mass-producing Model T cars in 1909.",
+        "spans": [
+          "1909"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Detroit, Michigan became the center of the auto industry due to Henry Ford's business.",
+        "spans": [
+          "Detroit, Michigan became the center of the auto industry."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Detroit's population drastically increased due to automobile manufacturing.",
+        "spans": [
+          "Detroit's population drastically increased."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Diversity increased in Detroit because Ford hired immigrants from many different countries.",
+        "spans": [
+          "Diversity increased because Ford hired immigrants from many different countries."
+        ]
+      }
+    ],
+    "clueweb22-en0026-25-10540": [
+      {
+        "point_number": 1,
+        "point_content": "Henry Ford created the assembly line at his Highland Park plant, introduced on December 1, 1913, which revolutionized the automobile industry and manufacturing worldwide.",
+        "spans": [
+          "The creation of the assembly line by Henry Ford at his Highland Park plant, introduced on December 1, 1913, revolutionized the automobile industry and the concept of manufacturing worldwide."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Ford's Model T was designed to be sturdy and cheap, aiming to make automobiles accessible to the masses.",
+        "spans": [
+          "Henry Ford had a goal of making automobiles for the multitudes. The Model T was his answer to that dream; he wanted them to be both sturdy and cheap."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Ford built a new plant in Highland Park, Michigan, in 1910 to increase manufacturing capacity and incorporated new production methods including the assembly line.",
+        "spans": [
+          "In 1910, with the aim of increasing manufacturing capacity for the Model T, Ford built a new plant in Highland Park, Michigan.",
+          "on December 1, 1913, the first large-scale assembly line was officially in working order."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The assembly line used interchangeable parts and a conveyor system to speed up production and reduce assembly time per vehicle.",
+        "spans": [
+          "The key to the process, however, was having interchangeable parts.",
+          "The chassis of the car was pulled down the 150-foot line by a chain conveyor and then 140 workers applied their assigned parts to the chassis.",
+          "The assembly line significantly decreased the assembly time per vehicle and increased the profit margin ."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The assembly line allowed for customization of the Model T with different body types and options, despite mechanized production.",
+        "spans": [
+          "Perhaps his most useful and neglected innovation was the development of a way to mechanize production and yet customize the configuration of each Model T as it rolled off the block.",
+          "At peak, there were eleven basic model bodies, with 5,000 custom gadgets that were manufactured by external companies that could be selected by the customers."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "The assembly line drastically increased production efficiency, reducing the time to build a car from over 12 hours to 93 minutes and increasing production volume.",
+        "spans": [
+          "The production time for a single car dropped from over 12 hours to just 93 minutes due to the introduction of the assembly line.",
+          "Ford’s 1914 production rate of 308,162 eclipsed the number of cars produced by all other automobile manufacturers combined."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "The assembly line enabled Ford to lower the cost of the Model T to $260 by 1924, making it affordable for the masses.",
+        "spans": [
+          "These concepts allowed Ford to increase his profit margin and lower the cost of the vehicle to consumers.",
+          "The cost of the Model T would eventually drop to $260 in 1924, the equivalent of approximately $3,500 today."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Ford improved workers' conditions by reducing work hours and increasing wages, which helped workers afford the cars they produced.",
+        "spans": [
+          "The workday was cut from nine hours to eight hours so that the concept of the three-shift workday could be implemented with greater ease.",
+          "Ford nearly doubled the existing industry-standard wage and began paying his workers $5 a day.",
+          "his workers soon used some of their pay increases to purchase their own Model Ts."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "The assembly line innovation by Henry Ford changed manufacturing and the automobile industry forever and remains the primary mode of manufacturing today.",
+        "spans": [
+          "The assembly line is the primary mode of manufacturing in the industry today.",
+          "this 100-year-old innovation by a car manufacturer in Michigan changed the way we live and work forever."
+        ]
+      }
+    ],
+    "clueweb22-en0033-80-08529": [
+      {
+        "point_number": 1,
+        "point_content": "Henry Ford revolutionized the world of automobiles by making cars affordable to the average worker.",
+        "spans": [
+          "Henry Ford revolutionized the world of automobiles for good.",
+          "Henry Ford aimed at manufacturing an automobile that was within the economic reach of the average worker in the US."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Henry Ford introduced the Model T, which was affordable and popular, significantly increasing car ownership.",
+        "spans": [
+          "One of the earliest and most impactful models created by Ford Motor Company was the Model T.",
+          "Ford debuted the Model T in 1908 with a price tag of $825.00.",
+          "The car instantly became popular and broke the records, selling over ten thousand units within the first year.",
+          "Henry Ford was so keen on making his Model T available to the majority that he managed to reduce the price to $575.00 four years later the Model T’s debut; this caused the sales to skyrocket."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Henry Ford's use of mass production techniques lowered the cost of cars and increased production efficiency.",
+        "spans": [
+          "While other manufacturers were pocketing huge profits from putting high price tags on cars for the wealthy, Henry Ford was trying to reduce the final price of its Model T so it wouldn’t be exclusive to the upper-class dwellers."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Henry Ford's impact extended beyond automobiles to improving wages and working conditions, influencing the economy and society.",
+        "spans": [
+          "His influence on helping the working class with more adequate wages cannot be overlooked.",
+          "The standards he provided for the workers in Ford Motor Company and raising their wages attracted a lot of people from Detroit and the cities around.",
+          "Detroit’s population faced a fifty-percent increase within a decade, and its economy started booming like never before."
+        ]
+      }
+    ]
+  }
+}

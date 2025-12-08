@@ -1,0 +1,392 @@
+{
+  "question": "when should agile teams make time for innovation?",
+  "key_points": {
+    "null": [],
+    "clueweb22-en0039-14-01869": [
+      {
+        "point_number": 1,
+        "point_content": "Agile teams should make time for innovation continuously throughout the program increment.",
+        "spans": [
+          "Agile teams should make time for innovation continuously throughout the program increment."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Innovation activities should be conducted throughout the Program Increment (during the 8 to 12 weeks) to ensure innovation and creativity.",
+        "spans": [
+          "The teams on Agile Release Train, therefore, should conduct the innovation activities throughout the Program Increment (during the 8 to 12 weeks) to ensure that there is innovation and creativity when carrying out the PI."
+        ]
+      }
+    ],
+    "clueweb22-en0029-50-03742": [
+      {
+        "point_number": 1,
+        "point_content": "Agile teams should make time for innovation during the Innovation and Planning Iteration, which provides a regular, cadence-based opportunity every Program Increment (PI) for teams to work on activities difficult to fit into continuous incremental value delivery.",
+        "spans": [
+          "Innovation and planning iterations provide a regular, cadence-based opportunity, every Program Increment (PI), for teams to work on activities that are difficult to fit into a continuous, incremental value delivery pattern.",
+          "Only during the Innovation and Planning Iteration"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "A consistent time is provided for all members of the Agile Release Train to pursue innovation especially during the planning and innovation iteration.",
+        "spans": [
+          "A consistent time is provided for all members of the Agile Release Train, offering an opportunity to pursue innovation especially during the planning and innovation iteration."
+        ]
+      }
+    ],
+    "clueweb22-en0042-40-01581": [
+      {
+        "point_number": 1,
+        "point_content": "The Innovation and Planning (IP) Iteration occurs every Program Increment (PI) and provides dedicated time for innovation.",
+        "spans": [
+          "The Innovation and Planning (IP) Iteration occurs every Program Increment (PI) and serves multiple purposes.",
+          "It acts as an estimating buffer for meeting PI Objectives and provides dedicated time for innovation, continuing education, PI Planning, and Inspect and Adapt (I&A) events."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "IP iterations provide a regular, cadence-based opportunity every PI for teams to work on activities difficult to fit into continuous delivery, including time for innovation and exploration.",
+        "spans": [
+          "Innovation and planning iterations provide a regular, cadence-based opportunity, every Program Increment (PI), for teams to work on activities that are difficult to fit into a continuous, incremental value delivery pattern.",
+          "These may include: Time for innovation and exploration, beyond the iterations dedicated to delivery"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Many enterprises use IP iterations for research and design activities such as hackathons to allow time for innovation.",
+        "spans": [
+          "To this end, many enterprises use IP iterations for research and design activities such as hackathons."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "IP iterations are used to perform Inspect & Adapt (I&A) and PI planning events, avoiding reduction in velocity of regular iterations and ensuring regular cadence.",
+        "spans": [
+          "Performing the I&A and PI planning during the IP iteration avoids a reduction in velocity of the regular iterations.",
+          "More importantly, since these events are held on a regular cadence and can be scheduled well in advance, their occurrence is better guaranteed."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Full or partial integration of solutions, especially those including hardware, may only be feasible during the IP iteration.",
+        "spans": [
+          "When a solution includes hardware (and other components), it’s harder to integrate end-to-end continuously and full integration may be feasible only during the IP iteration."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "IP iterations provide time to improve development infrastructure and tooling when teams are not in the midst of critical work.",
+        "spans": [
+          "It’s often more efficient to improve infrastructure or perform a migration at a time when the teams aren’t in the midst of critical work."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "IP iterations are a perfect time for continuous learning and education to master new techniques and skills.",
+        "spans": [
+          "However, it is difficult to find time for this type of growth alongside the drive to constantly deliver new features. IP iterations are a perfect time for this investment."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "The IP iteration offers a buffer to prevent unfinished work from carrying over to the next PI, increasing predictability and allowing time for innovation.",
+        "spans": [
+          "During PI planning, the ART does not plan features or stories for the IP iteration, providing a buffer (extra time) to the teams for responding to unforeseen events, delays resulting from dependencies, and other issues, increasing their ability to meet Team and Program PI Objectives.",
+          "However, routinely using that time for completing work is a failure pattern. Doing so defeats the primary purpose of the IP iteration, and innovation will likely suffer."
+        ]
+      }
+    ],
+    "clueweb22-en0017-53-12092": [
+      {
+        "point_number": 1,
+        "point_content": "SAFe fosters Innovative People through many practices including time and space for innovation, experimenting and feedback, and ‘innovation riptides’.",
+        "spans": [
+          "SAFe fosters Innovative People (another CLC dimension) through many practices including time and space for innovation, experimenting and feedback, and ‘innovation riptides’."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "All SAFe teams engage in relentless improvement including iteration retrospectives, ad hoc process improvements, and ART Inspect and Adapt (I&A) events.",
+        "spans": [
+          "All SAFe teams engage in relentless improvement (see pillar 4 in the Lean-Agile Mindset article and the third dimension in CLC for more information). In addition to iteration retrospectives and ad hoc process improvements, teams also participate in ART Inspect and Adapt (I&A) events, where they identify and prioritize improvement backlog items that are incorporated into the next PI planning sessions."
+        ]
+      }
+    ],
+    "clueweb22-en0043-10-07489": [
+      {
+        "point_number": 1,
+        "point_content": "Innovation and Planning is an example of a Program event where teams make time for innovation.",
+        "spans": [
+          "Innovation and Planning"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Use the Innovation and Planning iteration instead of the PI Planning process is key to successfully implementing the Scaled Agile Framework.",
+        "spans": [
+          "Use the Innovation and Planning iteration instead of the PI Planning process"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Support adding an Innovation and Planning Iteration directly after the current Iteration when a team may miss their Iteration commitment.",
+        "spans": [
+          "Support adding an Innovation and Planning Iteration directly after the current Iteration"
+        ]
+      }
+    ],
+    "clueweb22-en0011-10-16597": [
+      {
+        "point_number": 1,
+        "point_content": "Agile methods offer no particular added value for routine tasks but are useful in product development, marketing, and strategic planning to develop solutions step by step.",
+        "spans": [
+          "Not all divisions are suitable for agile methods. For example, they offer no particular added value for routine tasks. In product development, marketing and strategic planning, on the other hand, they can be used wisely to develop a solution step by step in coordination with customers and partners."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Agile methods can be tested in individual projects to break down prejudices and slowly anchor agility in the corporate culture.",
+        "spans": [
+          "However, it is not necessary to change the entire company at once; agile methods can also be tested in individual projects. This helps to break down prejudices in the workforce and slowly anchor agility in the corporate culture."
+        ]
+      }
+    ],
+    "clueweb22-en0009-56-08605": [
+      {
+        "point_number": 1,
+        "point_content": "Innovation starts with culture. In larger organizations, you may need to rewrite years of habits and defeat, “but we’ve always done it this way” before you can build a culture that supports innovation. So start small.",
+        "spans": [
+          "This is why innovation starts with culture. In larger organizations, you may need to rewrite years of habits and defeat, “but we’ve always done it this way” before you can build a culture that supports innovation. So start small."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Innovation doesn’t have to be something huge. You can start small. Product teams have both the power and trust to solve problems in the way they see fit once the problem is clearly identified.",
+        "spans": [
+          "One suggestion Robin Calhoun shared during our webinar is that innovation doesn’t have to be something huge. It doesn’t have to mean a new product or new direction. You can start small.",
+          "At Jama, she says, product teams have both the power and trust to solve problems in the way they see fit. Once the problem is clearly identified, the team is free to determine the best solution."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Innovation is far less risky when you start small and get feedback as quickly as possible. Teams need access to customers and should feel empowered to make decisions based on customer feedback.",
+        "spans": [
+          "Innovation is far less risky when you start small and get feedback as quickly as possible.",
+          "So teams need access to customers. And they should feel empowered to make decisions based on what customers (not just internal stakeholders) actually say."
+        ]
+      }
+    ],
+    "clueweb22-en0024-12-07355": [
+      {
+        "point_number": 1,
+        "point_content": "Agile teams should make time for innovation during Program Increment Planning sessions when they provide their capacity, accounting for vacation, holidays, and training days.",
+        "spans": [
+          "An organization is conducting their first Program Increment Planning session, and the new teams are asked to provide their capacity.",
+          "Subtract one point for every team member's vacation day, public holiday or training day"
+        ]
+      }
+    ],
+    "clueweb22-en0021-03-06393": [
+      {
+        "point_number": 1,
+        "point_content": "Agile teams should make time for innovation by allowing room for failure, encouraging exploration and learning from mistakes.",
+        "spans": [
+          "Room for failure – rather than shy away from making mistakes, the agile methodology encourages exploration. Ideally, this approach would only lead to brand-new discoveries and solutions. However, with exploration comes potential new failures. Yet, it is only with failure that teams learn something new."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Agile teams should continuously improve and adapt their methods to fit the needs of the business.",
+        "spans": [
+          "Continuous improvements – agile implementations should fit the needs of the business, rather than prescribe processes or practices that don't make sense for the way the business operates."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Agile teams should work with feedback throughout the process to make changes quickly and effectively.",
+        "spans": [
+          "Working with feedback – a crucial part of the agile methodology is implementing stakeholder feedback throughout the process. Thanks to this access, teams more clearly understand their goals and can make requested changes quickly and with minimal impact to the project."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Agile teams should be empowered and have ownership over their work to encourage innovation.",
+        "spans": [
+          "More empowered employees – in an agile organization, there is space for all ideas and a system in place to implement them. When self-organizing teams have more ownership over their work, this sense of autonomy can encourage more original ideas and innovative processes to make them happen."
+        ]
+      }
+    ],
+    "clueweb22-en0033-13-15779": [
+      {
+        "point_number": 1,
+        "point_content": "Agile innovation integrates agility into the innovation process to make it faster and more responsive to changes.",
+        "spans": [
+          "It is necessary to have agile methods of innovation, to integrate the design with the development, the trials with the use and the introduction. Therefore, make innovation processes faster."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Agile companies manage priorities to gain velocity in all processes and apply new resources to innovation.",
+        "spans": [
+          "In this way, the agile company is one that has managed its priorities, first gaining velocity in all processes and secondly applying new resources to innovation."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Agility in innovation requires cultural and organizational change, including clear communication, pilot projects, and education.",
+        "spans": [
+          "Agility in many cases implies a cultural change in the organization.",
+          "To overcome this, clear priorities, roles and responsibilities will be communicated.",
+          "May be interesting to start pilot projects and use the results to learn and facilitate understanding.",
+          "Education is key, and it is very important that is part of each project activity, ensuring that it is directly related and applied in the work environment."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The innovation process should be managed as a continuous flow of projects and programs with necessary resources to bring them to a successful end.",
+        "spans": [
+          "In both cases, innovation is the result of the process of managing a continuous flow of projects and programs that channels the necessary resources to bring them into a successful end."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Agile innovation is based on the fusion of innovation and agility, applying Lean methodologies to accelerate the innovation process.",
+        "spans": [
+          "Agile innovation is based on the active fusion of these two concepts: Innovation + Agility = Agile innovation",
+          "In summary: The innovation process is made agile through “Lean” methodologies."
+        ]
+      }
+    ],
+    "clueweb22-en0008-09-17774": [
+      {
+        "point_number": 1,
+        "point_content": "Agile teams plan continuously throughout the project, making constant adjustments as changes arise.",
+        "spans": [
+          "Instead of planning the entire project up front, Agile teams plan continuously throughout the project, making constant adjustments as changes arise."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Agile teams deliver tested, working software in two- to four-week iterations.",
+        "spans": [
+          "Using methods designed to produce frequent, high-quality, sustainable releases, Agile teams can deliver tested, working software in two- to four-week iterations."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly.",
+        "spans": [
+          "At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "One scheduled time for reflection is the retrospective, typically held right after a development iteration.",
+        "spans": [
+          "One scheduled time for reflection is the retrospective, typically held right after a development iteration."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The most effective teams take this reflection to heart and adjust their behavior accordingly.",
+        "spans": [
+          "The most effective teams take this reflection to heart and adjust their behavior accordingly."
+        ]
+      }
+    ],
+    "clueweb22-en0013-16-13438": [
+      {
+        "point_number": 1,
+        "point_content": "The last sprint of the Program Increment is the Innovation and Planning Sprint.",
+        "spans": [
+          "The last sprint of the Program Increment is the Innovation and Planning Sprint."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Innovation and Planning Sprint is the time when teams can do something cool and innovate.",
+        "spans": [
+          "It is that moment when finally the teams will do something cool."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Innovation and Planning Sprint must help minimize waste and be profitable, while enriching participants.",
+        "spans": [
+          "Whatever you spend the time in this sprint, it must help you to minimize waste and be profitable, but also to enrich the participants."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Innovation and Planning Sprint includes System Demo and setting PI Objectives.",
+        "spans": [
+          "Innovation and Planning Sprint from SAFe What can you do in this sprint? System Demo + Set PI Objectives."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Innovation Sprint aims to allow the team to prepare for the System Demo to show functionalities to clients.",
+        "spans": [
+          "The Innovation and Planning Sprint aims to allow the team to prepare for this moment."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Innovation and Planning Sprint ends with the PI Planning Meeting, preparing for the next Program Increment.",
+        "spans": [
+          "The Innovation and Planning Sprint ends with the PI Planning Meeting."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "During Innovation Sprint, teams prepare to estimate work, identify impediments, and commit to PI objectives.",
+        "spans": [
+          "For the next Program Increment Planning Meeting? You need to be prepared for the next Program Increment for the team to be able to estimate work, identify impediments, and to commit to the following PI objectives."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Innovation Sprint can be used for design thinking, testing functionalities before implementation.",
+        "spans": [
+          "Design thinking — test the functionalities you plan to implement before you implement it."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Innovation Sprint can be used to find solutions to technical issues and research technical solutions.",
+        "spans": [
+          "Finding solutions to technical issues. You can use the time to research and test technical solutions;"
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Innovation Sprint can be used to grow competence inside the team with new technologies and multidisciplinary skills.",
+        "spans": [
+          "Grow competence inside the team: new technologies and multidisciplinary skills are the most common;"
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Innovation Sprint can be used for Product Backlog Refinement for the next Program Increment.",
+        "spans": [
+          "Product Backlog Refinement for the next Program Increment."
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "Innovation Sprint can be used to prepare for the System demo and fine-tune features implemented during the ongoing Program Increment.",
+        "spans": [
+          "Prepare for the System demo; Fine-tune features implemented during the ongoing Program Increment;"
+        ]
+      },
+      {
+        "point_number": 13,
+        "point_content": "Innovation Sprint can be used for Go Live activities, refactoring, improving collaboration between teams, team building, and finishing work.",
+        "spans": [
+          "Go Live activities if the case; Refactoring; Work together with other teams to improve the collaboration between teams; Team building. The most united is a team; the more powerful it is; Finish work."
+        ]
+      }
+    ]
+  }
+}

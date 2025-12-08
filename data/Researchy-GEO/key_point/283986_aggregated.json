@@ -1,0 +1,36 @@
+{
+  "question": "how does the electronic environment impact one’s personal security?",
+  "key_points": [
+    {
+      "point_number": 1,
+      "point_content": "The electronic environment exposes personal information to breaches and availability on the web or dark web, with the integration of everyday and critical technologies into the Internet of Things increasing this exposure.",
+      "original_point_number": [
+        1,
+        2
+      ]
+    },
+    {
+      "point_number": 2,
+      "point_content": "The complexity and ubiquity of information technology infrastructure means personal information is routinely processed, stored, and transmitted through global networks, raising security and privacy concerns.",
+      "original_point_number": [
+        3
+      ]
+    },
+    {
+      "point_number": 3,
+      "point_content": "The increased availability of digital information presents concerns and challenges of privacy, accuracy, intellectual property rights, security, and censorship.",
+      "original_point_number": [
+        4,
+        6
+      ]
+    },
+    {
+      "point_number": 4,
+      "point_content": "Security, as it relates to social media, video surveillance, drones, digital footprint or other topics as they relate to digital privacy.",
+      "original_point_number": [
+        5,
+        7
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "question": "why are public goods a market failure",
+  "key_points": [
+    {
+      "point_number": 1,
+      "point_content": "Public goods are nonexcludable and nonrivalrous goods that cause market failure due to the free rider problem, leading to underproduction and inefficiency in private markets.",
+      "original_point_number": [
+        1,
+        3,
+        4,
+        5,
+        6,
+        7,
+        9,
+        10,
+        15
+      ]
+    },
+    {
+      "point_number": 2,
+      "point_content": "The free rider problem occurs because individuals or firms can consume public goods without paying, preventing producers from charging consumers and resulting in output below the efficient level.",
+      "original_point_number": [
+        6,
+        11,
+        13
+      ]
+    },
+    {
+      "point_number": 3,
+      "point_content": "Market failure arises when the price mechanism fails to account for all costs and benefits, including the characteristics of public goods that make them difficult to supply efficiently in a market.",
+      "original_point_number": [
+        8,
+        17
+      ]
+    },
+    {
+      "point_number": 4,
+      "point_content": "Pure public goods are typically not provided by the private sector because they cannot be supplied profitably due to nonexcludability and nonrivalry, and the market will produce less than the quantity that maximizes net benefit without government intervention.",
+      "original_point_number": [
+        2,
+        14,
+        12,
+        16
+      ]
+    }
+  ]
+}

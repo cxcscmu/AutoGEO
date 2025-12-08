@@ -1,0 +1,409 @@
+{
+  "question": "why do people immigrate illegally",
+  "key_points": {
+    "clueweb22-en0004-07-08357": [
+      {
+        "point_number": 1,
+        "point_content": "Illegal immigration is the act of entering a country by a person or group of people without any possession of formal permission.",
+        "spans": [
+          "Illegal immigration is the act of entering a country by a person or group of people without any possession of formal permission."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "People can be termed illegal immigrants by entering without authorization or inspection, by staying beyond the authorized period after legal entry, or by violating the terms of legal entry.",
+        "spans": [
+          "People can be termed illegal immigrants in one of three ways: by entering without authorization or inspection, by staying beyond the authorized period after legal entry, or by violating the terms of legal entry."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The most common method is the visa overstay, whereby one exceeds the given period of stay, one was entitled to.",
+        "spans": [
+          "The most common method is the visa overstay, whereby one exceeds the given period of stay, one was entitled to."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Others cross the borders through smuggling, handled by individuals informally known as the coyotes.",
+        "spans": [
+          "Others cross the borders through smuggling. This kind of operation is handled by individuals informally known as the coyotes."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The major cause of illegal immigration is the low socioeconomic status of other countries, especially third world countries.",
+        "spans": [
+          "The major cause of illegal immigration is the low socioeconomic status of other countries, paying particular attention to the third world countries."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "The pursuit of greater economic opportunities and quality of life in the destination state motivate immigrants to illegally migrate to other well developed countries.",
+        "spans": [
+          "The pursuit of greater economic opportunities and quality of life in the destination state motivate immigrants to illegally migrate to other well developed countries."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "The neoclassical economic model contributes to the surging desire of many people, since it looks only at the probability of success in immigrating and finding employment, and the increase in real income an illegal immigrant can expect.",
+        "spans": [
+          "More so, the neoclassical economic model contributes to the surging desire of many people, since it looks only at the probability of success in immigrating and finding employment, and the increase in real income an illegal immigrant can expect."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Poverty, lack of resources, poor economy, and slow development of many poor countries urge many people to resort to illegal immigration.",
+        "spans": [
+          "Poverty is another cause that leads most people to indulge in migration in an illegal manner. The lack of resources, poor economy, and slow development of many poor countries urge many people to resort in illegal immigration."
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0009-04-17571": [
+      {
+        "point_number": 1,
+        "point_content": "People immigrate illegally because the legal process is long and there are numerical limits on visas, causing long wait times.",
+        "spans": [
+          "the US immigration laws are strict and people who file petitions to immigrate to the country will have to wait for a long time to get their visas",
+          "there is a numerical limit and only a certain number of foreign nationals will be allowed to immigrate to the country, every year",
+          "due to the numerical limits, foreign nationals will have to file their petitions and wait for years to get into the country"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Many undocumented immigrants are unskilled workers who have no legal way to enter the US and choose illegal immigration for better living conditions and to support their families.",
+        "spans": [
+          "Many undocumented immigrants in the United States are unskilled workers and they choose to get into the country illegally because there is no other way for them to get into America legally",
+          "such people enter into the country illegally as they feel that the living conditions in the United States are better than their native countries and they believe that they can earn well in America and support their poor families"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The legal immigration process is longer and costly, leading some to cross borders illegally to enter sooner.",
+        "spans": [
+          "the legal process through which they can immigrate to America legally is longer and also due to the visa processing fees",
+          "Instead of waiting in queues and immigrating to the country legally, they just cross the borders illegally and get into the country, sooner"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Some people immigrate illegally because they do not have anyone to sponsor them for lawful status and the number of visas issued is insufficient.",
+        "spans": [
+          "Many people get into America illegally, just because they do not have anyone to sponsor them for lawful status in the country",
+          "the number of visas that the United States issues is not sufficient"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Some immigrants overstay their non-immigrant visas because they fear they may not be able to return and remain permanently if they leave.",
+        "spans": [
+          "People who get into the country on non-immigrant visas also overstay their visas as they feel that they may not be able to get into the United States and remain there permanently if they leave the country"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Economic reasons and political oppression drive many Mexicans, Asians, and Central Americans to immigrate illegally to the US.",
+        "spans": [
+          "Many Mexicans, Asians and people from Central America immigrate illegally, due to economic reasons and some immigrate to avoid political oppression"
+        ]
+      }
+    ],
+    "clueweb22-en0013-27-08716": [
+      {
+        "point_number": 1,
+        "point_content": "Most unaccompanied minors crossing illegally into the U.S. from Central America are reportedly fleeing violence and poverty.",
+        "spans": [
+          "most of whom are reportedly fleeing violence and poverty in Central America"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Mexican nationals have migrated across the border for short-term agricultural work routinely since the 19th century due to job scarcity in Mexico and better labor market in the U.S.",
+        "spans": [
+          "Mexican workers would view the more prosperous labor market just next door as attractive",
+          "Mexican nationals have migrated across the border for short-term agricultural work routinely since the 19th century"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The U.S. economy has historically needed Mexican laborers, leading to programs like the Bracero Program which allowed millions of Mexicans to work temporary farm jobs in the U.S.",
+        "spans": [
+          "Between 1942 and 1964, more than 4.6 million Mexicans immigrated legally to the United States to work temporary farm jobs"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Congress restricted the number of immigrant visas for Mexicans despite U.S. demand for labor, leading to increased illegal immigration.",
+        "spans": [
+          "Congress capped the number of immigrant visas available to Mexicans after shutting down the Bracero Program",
+          "The Immigration and Nationality Act of 1965 prohibited unskilled Mexican laborers from receiving Legal Permanent Resident visas",
+          "the number of undocumented Mexicans caught crossing illegally tripled from 1965 to 1970"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Mexico experienced a demographic boom increasing the labor supply, which contributed to migration to the U.S.",
+        "spans": [
+          "Mexico’s birth rate stood at about seven children per mother in 1970",
+          "By 2007, that figure stood at slightly more than two children per mother"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "NAFTA caused loss of low-skilled jobs in Mexico, pushing workers to migrate to the U.S. where such jobs were created.",
+        "spans": [
+          "NAFTA put some two million farmers out of work",
+          "cheap, subsidized U.S. corn imports flooded the Mexican market"
+        ]
+      }
+    ],
+    "clueweb22-en0042-82-05763": [
+      {
+        "point_number": 1,
+        "point_content": "Economic calculations don’t offer a complete account of the decision to migrate illegally.",
+        "spans": [
+          "Economic calculations don’t offer a complete account of the decision to migrate illegally."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The risks of getting arrested, the severity of the sanctions — those are not significant determinants in the decision or intention to migrate illegally.",
+        "spans": [
+          "The risks of getting arrested, the severity of the sanctions — those are not significant determinants in the decision or intention to migrate illegally."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "People’s personal values, and what people believe to be right morally, shape their decisions to violate U.S. immigration laws, to see these violations as moral.",
+        "spans": [
+          "people’s personal values, and what people believe to be right morally, shape their decisions to violate U.S. immigration laws, to see these violations as moral."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Undocumented immigrants believe they’re moral people and that they’re helping the United States by contributing positively to the economy.",
+        "spans": [
+          "They view the violation as resulting in something that’s good for the U.S. economy. They recognize that engaging in work without authorization is illegal, but they focus on the nature of the work they’re doing, which to them is admirable."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Undocumented immigrants see immigration law as occupying a fundamentally different moral sphere from other kinds of laws and see themselves as law-abiding despite violating immigration laws.",
+        "spans": [
+          "What lies underneath is this idea that immigration law occupies a fundamentally different moral sphere from other kinds of laws. They see themselves as law-abiding despite their violation of our immigration laws."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "The long history of U.S. involvement in Mexican economic and political affairs and the previous system of circular migration influence migrants’ values and decisions.",
+        "spans": [
+          "Mexicans constitute the largest unauthorized population in the U.S., and that is due in large part to the long history of U.S. involvement in Mexican economic and political affairs, both the U.S. government and employers — through the bracero program, for example."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Enforcement-only immigration policy does not recognize that migrants’ decisions are embedded in moral values and non-economic factors.",
+        "spans": [
+          "One thing’s been abundantly clear, our enforcement-only approach to immigration policy [doesn’t recognize] that migrants’ decisions are embedded in all sorts of moral values."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Migrants perceive the immigration system as hypocritical because it benefits from their labor but denies them legal status.",
+        "spans": [
+          "More prospective migrants might be willing to wait to enter legally because they recognize that fair policies are in place that will give them an opportunity, rather than the current system, which operates on this very hypocritical basis of [wanting] undocumented immigrants to satisfy our labor needs, and at the same time denying them legal status."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Migrants perceive racial and economic bias in the immigration system, fueling perceptions of illegitimacy of the law.",
+        "spans": [
+          "They see racial bias in our system, that skin color is critical for evading enforcement, and that discriminatory treatment characterizes our system.",
+          "The other is that from their perspective, wealth is a prerequisite to entering the U.S. legally, that our system is biased toward people who can afford to pay their way in."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Migrants believe countries have the right to enforce borders to keep out criminals, but they do not see themselves as criminals or threats to national sovereignty.",
+        "spans": [
+          "Yet the people you surveyed agreed that countries have a right to enforce their borders to keep out criminals; they just think, “That’s not us.”"
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Many migrants want to work temporarily in the U.S. to support their families and then return home, rather than live permanently in the U.S.",
+        "spans": [
+          "For a lot of people in my study, their desire is not to migrate permanently, especially if their families are in their country of origin. Their goal is to be able to work and send money home and return to their families."
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "Migrants hold both their own governments and the U.S. responsible for economic conditions that drive migration, recognizing global economic interconnections.",
+        "spans": [
+          "They hold both governments responsible. Obviously their own government has failed to provide a sustainable economic environment [for] work that pays living wages, to provide them with viable options to stay at home.",
+          "There’s also a recognition that a lot of what’s happened in their economy has been a result of capitalist expansion and trade imbalance, that the U.S. is an intricate part of what’s happening with economies around the world, that are so much more interconnected than they ever have been."
+        ]
+      }
+    ],
+    "clueweb22-en0014-24-15594": [
+      {
+        "point_number": 1,
+        "point_content": "There is no line available for the vast majority of undocumented immigrants.",
+        "spans": [
+          "No “line” is available for the vast majority of undocumented immigrants."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Most undocumented immigrants do not have the necessary family or employment relationships and often cannot access humanitarian protection, so they have no way of achieving legal status.",
+        "spans": [
+          "most undocumented immigrants do not have the necessary family or employment relationships and often cannot access humanitarian protection, such as refugee or asylum status. This means that no matter how long they have been in the United States, most undocumented immigrants have no way of achieving legal status."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Unauthorized undocumented immigrants are generally not eligible to obtain green cards while inside the United States and must leave the country to apply, risking long bars on re-entry.",
+        "spans": [
+          "Unauthorized Undocumented immigrants who entered the United States without being legally admitted and inspected are generally not eligible to obtain green cards while still inside the country.",
+          "Even if there is a visa available, they are barred from “adjusting status” and getting a green card without first leaving the country because of how they entered the United States.",
+          "Any person who has been out of status for more than 180 days, but less than one year, is barred from being re-admitted or re-entering the United States for three years; while anyone who has been out of status for more than one year is barred for 10 years."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Family-based immigration is limited to certain close family relationships and is numerically restricted, making many undocumented immigrants ineligible.",
+        "spans": [
+          "Family-based immigration is limited to certain close family relationships and is numerically restricted.",
+          "A family-based visa is unavailable to any undocumented immigrant who doesn’t have a qualified relative or who fails to meet those eligibility requirements."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Employment-based immigration requires a U.S. employer to sponsor the worker, and most undocumented immigrants are not eligible for these visas.",
+        "spans": [
+          "Employment-based immigration requires a U.S. employer to request specific foreign workers.",
+          "Very few undocumented immigrants are eligible for employment-based visas, and competition for these visas is fierce."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Most people fleeing their home countries cannot access humanitarian protection because of strict eligibility requirements and numerical limits.",
+        "spans": [
+          "Most people fleeing their home countries cannot access humanitarian protection.",
+          "Most undocumented immigrants are ineligible for asylum because the law generally requires that someone file for asylum within one year of entering the United States."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Even those who qualify for legal immigration face long backlogs and waits, sometimes decades, especially for people from countries with high levels of immigration to the U.S.",
+        "spans": [
+          "Even those who can get in line are subject to long backlogs and waits.",
+          "People from countries with high levels of immigration to the United States—Mexico, China, India, and the Philippines—generally have the longest waiting times for immigrant visas.",
+          "For example, the married and unmarried adult children of U.S. citizens from Mexico, and the Filipino siblings of U.S. citizens, must wait between 19 and 24 years for visas to become available."
+        ]
+      }
+    ],
+    "clueweb22-en0002-67-06108": [
+      {
+        "point_number": 1,
+        "point_content": "People immigrate due to push factors such as armed conflict, disaster exposure, gender inequality, lack of job opportunities, political corruption, and lack of access to competent healthcare and education.",
+        "spans": [
+          "Push factors are reasons that compel or push people to leave the area of where they reside and settle someplace else.",
+          "Common factors can include armed conflict, disaster exposure, gender inequality, lack of job opportunities, political corruption, and lack of access to competent healthcare and education."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "People immigrate due to pull factors such as better work opportunities, greater security, and access to adequate healthcare and education.",
+        "spans": [
+          "Pull factors are, on the other hand, the exact opposite of push factors.",
+          "Common pull factors may include better work opportunities, greater security, and access to adequate healthcare and education."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "People from places with high unemployment and poverty often immigrate to escape these conditions and seek better work opportunities.",
+        "spans": [
+          "People from places like Syria (which has a high unemployment rate of 50%) often immigrate to escape poverty and lack of work opportunities.",
+          "In most cases, people are pulled by work opportunities in a certain area which aren’t available in their place of origin."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "War, conflict, oppression, and persecution are major socio-political push factors causing people to immigrate.",
+        "spans": [
+          "A major socio-political factor pushing individuals to leave their place of origin is the presence of war and conflict.",
+          "Oppression because of one’s ethnicity, religion, gender, race, and culture poses a significant risk to quality of life, which increases the odds of an individual settling elsewhere."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Environmental factors such as natural disasters and climate change also push people to immigrate.",
+        "spans": [
+          "Natural disasters and climate change are environmental factors that disproportionately affect impoverished families, especially in less developed countries.",
+          "Individuals that experience regular occurrences of floods, hurricanes, and earthquakes are most likely to immigrate."
+        ]
+      }
+    ],
+    "clueweb22-en0002-36-12349": [
+      {
+        "point_number": 1,
+        "point_content": "People leave their home countries for reasons other than U.S. policy, such as deteriorating economic, political or public safety conditions.",
+        "spans": [
+          "People leave their home countries for reasons other than U.S. policy, such as deteriorating economic, political or public safety conditions."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Push and pull factors include poverty and violence in migrants’ home countries, and economic opportunity in the U.S., family ties and border policies on children and families.",
+        "spans": [
+          "Those “push and pull factors” include poverty and violence in migrants’ home countries, and economic opportunity in the U.S., family ties and border policies on children and families, as the Migration Policy Institute outlined in a 2019 report."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The increase in unaccompanied children is driven by push and pull factors, the coronavirus pandemic-caused economic crisis and recent hurricanes.",
+        "spans": [
+          "The flow is also due to push and pull factors, as well as the coronavirus pandemic-caused economic crisis and recent hurricanes."
+        ]
+      }
+    ],
+    "clueweb22-en0015-53-17150": [
+      {
+        "point_number": 1,
+        "point_content": "Illegal immigration results from the government's excessive control and bureaucratic restrictions on immigration.",
+        "spans": [
+          "When Ronald Reagan faced the issue, he understood that the problem is not with foreigners coming here illegally, but with the government having too much of a hand in the immigration process.",
+          "Everywhere it ever existed, a planned economy has always resulted in a black market. It is not different in the U.S.: we have illegal immigration."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Before 1924, immigration was regulated by the free market, allowing easier movement and work opportunities for immigrants.",
+        "spans": [
+          "Before 1924, foreigners came to America for work.",
+          "Before 1924, immigration was regulated by the free market."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "After 1924, immigration was practically banned and then heavily bureaucratized, limiting legal immigration and creating a black market for illegal immigration.",
+        "spans": [
+          "Then, politicians decided to fix what was not broken by putting their two cents; and, in 1924 practically banned immigration entirely.",
+          "After 1965, immigration to America became a gift provided to some by the U.S. government.",
+          "After 1965, it is a government-run, socialist-style planned economy."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The restrictive and bureaucratic immigration policies do not meet the actual labor market needs, causing people to immigrate illegally.",
+        "spans": [
+          "Before 1924, immigration was regulated by the free market.",
+          "After that the government bureaucrats decide how many immigrants America will need in the years to come.",
+          "This is what we have in our immigration policy. It is a Soviet-style planned economy painstakingly implemented and maintained by the U.S government."
+        ]
+      }
+    ]
+  }
+}

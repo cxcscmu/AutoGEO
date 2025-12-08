@@ -1,0 +1,579 @@
+{
+  "question": "what has caused recent inflation",
+  "key_points": {
+    "clueweb22-en0035-58-00653": [
+      {
+        "point_number": 1,
+        "point_content": "Inflation remains at four-decade highs despite a slight decline in the annual CPI inflation rate in April.",
+        "spans": [
+          "inflation remains at four-decade highs",
+          "Annual CPI inflation declined slightly in April"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Moderating U.S. inflation is partly due to base effects, as the 12-month figures are measured against prices from one year ago when inflation started taking off.",
+        "spans": [
+          "moderating U.S. inflation is partly due to a quirk of statistics: base effects",
+          "The 12-month figures are measured against prices from one year ago—right when inflation started taking off"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Russia’s invasion of Ukraine in February caused a spike in crude oil prices, which contributed to inflation.",
+        "spans": [
+          "Russia’s invasion of Ukraine in February helped to drive a spike in crude prices"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Moderating oil prices had an impact on the April CPI numbers, with the energy index declining by 2.7% compared with March’s 11% spike.",
+        "spans": [
+          "moderating oil prices had an impact on the April CPI numbers",
+          "April’s energy index declining by 2.7% compared with March’s 11% spike"
+        ]
+      }
+    ],
+    "clueweb22-en0007-87-13899": [
+      {
+        "point_number": 1,
+        "point_content": "The main contributing factors to current inflation include the increase in the money supply, worker shortages and rising wages, supply chain disruption, as well as fossil fuel policies.",
+        "spans": [
+          "the main contributing factors include the increase in the money supply, worker shortages and rising wages, supply chain disruption, as well as fossil fuel policies"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The Federal Reserve has printed trillions of dollars over the last two years, which has contributed to the devaluation of U.S. currency and the high inflation rate we’re currently experiencing.",
+        "spans": [
+          "The Federal Reserve has printed trillions of dollars over the last two years, which has contributed to the devaluation of U.S. currency and the high inflation rate we’re currently experiencing"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The money supply has increased faster than the rate of production, which contributes to shortages and spurs greater consumer demand.",
+        "spans": [
+          "the money supply has increased faster than the rate of production, which contributes to shortages",
+          "with more money in circulation, consumers have more to spend—which in turn is spurring greater consumer demand"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Supply chain disruptions due to decreased output during the pandemic, shortages of supplies, and traffic jams at ports have caused goods shortages and empty shelves.",
+        "spans": [
+          "during the height of the pandemic, many companies decreased output because consumers weren’t spending",
+          "shortages in an all-around shortage of supplies to make certain goods",
+          "traffic jams at the various ports throughout the country that have led to a massive amount of goods being stuck for long periods of time"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Government-sponsored unemployment benefits have caused worker shortages as many people are unwilling to return to work for previous wages, leading businesses to raise wages.",
+        "spans": [
+          "government-sponsored unemployment benefits pay workers not to work, which causes a shortage of workers",
+          "businesses having to raise wages above the unemployment benefits"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Poor government policies, especially regarding fossil fuels, have contributed to inflation, with U.S. oil production down and supply constraints causing higher gas prices.",
+        "spans": [
+          "Bad government policies can impact inflation—most specific to our current circumstances are those regarding fossil fuels",
+          "U.S. oil production and refining have been down this year due to several causes including Hurricane Ida",
+          "oil-exporting countries not providing enough, and there are supply constraints on both sides of the equation",
+          "With supply constraints and the current increase in demand for gasoline, prices don’t look to be coming back down in the near future"
+        ]
+      }
+    ],
+    "clueweb22-en0035-91-11202": [
+      {
+        "point_number": 1,
+        "point_content": "Inflation surge is caused by a sudden increase in demand after Covid lockdowns, creating bottlenecks due to high demand and supply system not set up for it.",
+        "spans": [
+          "First, for the past year and a half due to Covid hardly anyone was spending money. Now that the economy is back open, people are spending and traveling and, as such, there is a bottleneck with very high demand. Our system isn’t set up for this high demand level, so that causes inflation in the short term."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Low interest rates since March 2020 have spurred demand in housing, adding to inflation worries.",
+        "spans": [
+          "Second, with interest rates lowered to almost zero since March of 2020, these low interest rates have spurred demand in housing which is experiencing a large backlog as well as adding to inflation worries."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Inflation is due to a perfect storm of supply chain disruption from Covid, government spending, and synchronized global recovery.",
+        "spans": [
+          "It’s largely due to a perfect storm of supply chain disruption from Covid, government spending to fill the economic void and a synchronized global recovery driven by vaccine rollout and economies re-opening."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The pandemic exposed over a decade of underinvestment in global commodity supply chain and vulnerability of just-in-time inventories to supply shock.",
+        "spans": [
+          "The pandemic is probably just the event that exposed over a decade of underinvestment in the global commodity supply chain and the vulnerability of ‘just-in-time’ inventories to this sort of supply shock."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Inflation is caused by a combination of demand pull and cost push inflationary pressures due to strained supply lines and increased demand.",
+        "spans": [
+          "The strained supply lines due to Covid paired with an increase in demand we are seeing now would be one of the main reasons for inflation at the moment."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Inflation is partly due to a 'snapshot-in-time' anomaly caused by deflation during 2020 Covid shutdowns and subsequent price normalization and pent-up demand.",
+        "spans": [
+          "A large portion of what we are experiencing in inflation is due to the deflation which we saw in 2020 during the Covid shutdowns. As prices work to normalize, it is causing inflationary pressure. Add to that the pent-up demand caused by the Covid lockdowns; we are seeing prices rise quickly."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Elevated inflation numbers are influenced by the 'base effect' due to artificially depressed prices one year ago during shutdowns.",
+        "spans": [
+          "Much of the elevated inflation numbers are being attributed to the ‘base effect’ as inflation is commonly quoted on a year-over-year basis. One year ago, global economies were nearly fully shut down so the denominator in the calculation is arguably artificially depressed."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "High demand combined with low supply due to supply chain disruptions and pent-up demand leads to higher prices and inflation.",
+        "spans": [
+          "There is so much built-up demand, which can drive up prices as we’ve seen, as consumers compete for goods and services. Let’s couple that high level of demand with low levels of supply in many areas, such as building supplies and some groceries, due to the supply chains getting disrupted by the pandemic, and anyone who has taken an Economics 101 course knows that high demand and low supply leads to higher prices… and that is what inflation is."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Inflation is also caused by supply and demand mismatch due to pandemic factory and shipping closures, Texas winter storm, and extreme droughts affecting supply of goods.",
+        "spans": [
+          "Prices are increasing simply due to a mismatch in the supply and demand of goods. Over the last 16 months or so, pandemic restrictions closed many factories and shipping routes around the globe, resulting in less availability of products. However, it’s not just pandemic-related supply issues as the Texas winter storm in February of 2021 shut down production of many petroleum-based products that play into multiple industries like foam for furniture or resin for PVC pipes in construction. Additionally, extreme droughts around the world also have the ability to impact the supply of agriculture products."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Stimulus payments increased disposable income, shifting spending to goods with limited supply, increasing inflation.",
+        "spans": [
+          "At the same time as the global supply chain was experiencing large scale disruptions, stimulus payments resulted in many individuals with excess disposable income. Since much of the economy was shut down during that time period, individuals shifted their spending away from services such as eating out or travel to buying physical goods like TVs or materials for home improvement. Since fewer products were available, people had to pay up for these products, resulting in increasing inflation."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Government stimulus and spending have increased demand and contributed to inflation.",
+        "spans": [
+          "The three rounds of stimulus that have taken place, as well as a possible 4th round, and even more proposed spending which may or may not be paid for with funds already allocated to unemployment and Covid stimulus from local governments.",
+          "Legislation from Washington has likely played a role in increasing demand for goods over the last year.",
+          "The CARES Act distributed direct cash payments to individuals and also increased unemployment benefits. These had a direct impact on increasing incomes and savings rates of many individuals.",
+          "Along with these transfer payments, the Act also allowed for those in need to defer payments on mortgages and student loans, ‘freeing up’ more cash for individuals to spend on goods and services.",
+          "To date, the Federal Government has approved and earmarked more than $5 Trillion towards Covid relief bills.",
+          "The latest bill passed (as of 6/29/21) was the American Rescue Plan, which will provide almost $2Trillion of relief to many different areas, ranging from more direct payments to individuals and families, aid to state and local governments, tax incentives, etc.",
+          "Congress is very close and may have framework on a new infrastructure deal, which would be the largest infrastructure deal in our nation’s history, to build and repair roads, bridges, railways, internet broadband, water supplies, etc. Passage of this bill will pump more money into our economy which can certainly create additional inflationary spikes in the short-term."
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "Large government spending and loose monetary policy increase money supply, creating more money chasing fewer goods, increasing inflation.",
+        "spans": [
+          "Injecting large amounts of cash into an economy through stimulus and other spending programs like the proposed trillion+ dollar ‘infrastructure’ bill will ramp up economic growth, and will certainly not decrease inflationary pressures.",
+          "It is a combination of issues, fiscal stimulus, the Federal Reserve’s loose monetary policy and the subsequent increase in money supply that creates more money chasing fewer goods and services."
+        ]
+      },
+      {
+        "point_number": 13,
+        "point_content": "Consumers with extra cash and supply chain shortages lead to higher prices, including wages and gasoline, passed on to consumers.",
+        "spans": [
+          "The U.S. economy is powered by the consumer and we are currently seeing consumers with a lot of extra cash.",
+          "This has led to a greater demand for goods and services without supply chains being able to fully recover from the shortages that were created due to shutdowns over the past year.",
+          "Gasoline prices are still elevated from the shortages that were caused during the Colonial Pipeline shutdown and as businesses try to entice employees back into the workforce, we are finally seeing low-wage workers getting raises, signing bonuses and other benefits whose costs are being passed on to the consumer."
+        ]
+      }
+    ],
+    "clueweb22-en0033-85-09771": [
+      {
+        "point_number": 1,
+        "point_content": "Consumer prices soared in October 2021 and are now up 6.2% from a year earlier – higher than most economists’ estimates and the fastest increase in more than three decades.",
+        "spans": [
+          "Consumer prices soared in October 2021 and are now up 6.2% from a year earlier – higher than most economists’ estimates and the fastest increase in more than three decades."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The Federal Reserve insists inflation will be temporary, largely because it’s tied to the supply chain mess.",
+        "spans": [
+          "The Federal Reserve, which would be responsible for fighting inflation if it stays too high for too long, insisted again on Nov. 3, 2021, that it’ll be temporary, in large part because it’s tied to the supply chain mess bedeviling economies, companies and consumers."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Prices are surging largely because of the severe shortages of both goods and labor in supply chains.",
+        "spans": [
+          "It’s true that prices are surging largely because of the severe shortages of both goods and labor in supply chains"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Demand for goods, mostly ordered online, has soared over the past year, outstripping the market’s capacity to produce or ship what is ordered.",
+        "spans": [
+          "Even though early in the pandemic consumer demand dropped as people hunkered down amid lockdowns and unemployment skyrocketed, it has soared over the past year – not for services like restaurants and travel, but for goods, mostly ordered online.",
+          "Demand for products has significantly outstripped the market’s capacity to produce or ship what is ordered."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Delivery carriers are stretched beyond capacity, with predicted holiday packages exceeding system capacity by 4.7 million packages a day, increasing costs passed to consumers.",
+        "spans": [
+          "These trends have created more demand than the delivery carriers can accommodate, stretching their ability to deliver products.",
+          "For example, the holiday shopping season is predicted to have 4.7 million packages a day beyond what the system can possibly absorb or deliver.",
+          "All these added costs – to hire, store and deliver – are usually passed on to consumers."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Supply chains remain a mess with bottlenecks across Asia and severe global shortages of drivers and workers, limiting capacity expansion and causing product shortages and price increases.",
+        "spans": [
+          "At the same time, supply chains remain a mess – and are only getting worse.",
+          "Bottlenecks have piled up all across Asia, putting great strains on the capacity of supply chains to deliver in a timely fashion.",
+          "And severe global shortages of drivers and other workers are making it difficult to expand capacity or fix other problems plaguing the supply chains, so they can’t break free of the thick mud they’re in.",
+          "This creates a shortage of products getting through that limit competition, causing price increases."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Huge container ships are idling near ports, tying up merchandise and causing delays and increased costs passed to customers.",
+        "spans": [
+          "There are dozens of huge container ships continually idling near ports in Los Angeles, New York and elsewhere around the world, which is tying up large quantities of merchandise waiting to be unloaded.",
+          "There are over 500,000 shipping containers with about 12 million metric tons of goods near Southern California alone.",
+          "Such delays cost money, because businesses choose then to carry more inventory, which they pass on to customers."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Examples of supply chain delays include Nike losing 10 weeks of production due to Vietnam lockdowns and furniture retailers having only 55% of normal inventory due to freight delays, leading to price increases.",
+        "spans": [
+          "Nike, which largely depends on Vietnam for much of its shoe production. It lost 10 weeks of production because of lockdowns within that country.",
+          "Malouf, a Utah-based furniture retailer, which reports that it has only 55% of its normal inventory on hand because of freight delays."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Supply chain disruptions have extended manufacturing times significantly, as illustrated by Bullfrog Spa’s M9 hot tub manufacturing time increasing from six weeks to six months.",
+        "spans": [
+          "Bullfrog Spa’s M9 hot tub. It requires 1,850 separate parts. Supply chain disruptions have pushed manufacturing time from six weeks to six months."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Supply chain problems are ongoing with increasing consumer demand, suggesting inflation will not go away soon and may continue into 2022 and beyond.",
+        "spans": [
+          "There’s no end to the supply chain problems.",
+          "Consumer demand is only going to increase through the holiday season and beyond.",
+          "Corporate executives – who in many ways will determine whether prices keep rising at a fast clip – are already warning that all of these challenges are going to continue into 2022 at the earliest."
+        ]
+      }
+    ],
+    "clueweb22-en0014-11-00836": [
+      {
+        "point_number": 1,
+        "point_content": "The recent rise in inflation is attributable to the same COVID-sensitive categories that declined the most during the onset of the pandemic last spring.",
+        "spans": [
+          "The recent rise in inflation is attributable to the same COVID-sensitive categories that declined the most during the onset of the pandemic last spring."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Much of the increase in inflation comes from two categories: health-care services and used cars and trucks.",
+        "spans": [
+          "Assessing individual categories within the COVID-sensitive component shows that much of the increase in inflation comes from two categories: health-care services and used cars and trucks."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Pandemic-related legislated changes to Medicare payments have led to a 0.6pp increase in the contribution of health-care services to inflation.",
+        "spans": [
+          "A number of pandemic-related legislated changes to Medicare payments have gone into effect over the past year.",
+          "Overall, these factors have led to a 0.6pp increase in the contribution of health-care services, triple its average contribution between 2015 and 2019."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "A shortage of semiconductors and increased demand for cars caused severe upward price pressure for used vehicles, increasing their contribution to inflation.",
+        "spans": [
+          "A steady increase in the demand for cars, in tandem with a shortage of semiconductors—a key production input for new cars—led to severe upward price pressure for used vehicles.",
+          "Overall, the contribution of used vehicles to core PCE inflation has surged to 0.5pp, significantly higher than its pre-pandemic contribution."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Price changes in COVID-sensitive categories are more likely driven by pandemic-related disruptions such as social distancing, government policies, and supply chain bottlenecks.",
+        "spans": [
+          "Price changes in the COVID-sensitive categories are more likely to be driven by disruptions directly related to the pandemic. Such disruptions include mandatory and voluntary social distancing measures, pandemic-related government policies, and supply chain bottlenecks."
+        ]
+      }
+    ],
+    "clueweb22-en0016-06-14631": [
+      {
+        "point_number": 1,
+        "point_content": "The Federal Reserve's loose monetary policy is causing inflationary pressure.",
+        "spans": [
+          "The Fed's monetary policy is very loose and guide even more so after the COVID pandemic hit. They're doing their quantitative easing, which means they're buying bonds at a rate of a $120 billion a month to inject more capital into the system. Interest rates are at near zero levels."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Government stimulus programs have injected a lot of money into the economy, contributing to inflation.",
+        "spans": [
+          "All the CARES Act with the stimulus checks, we've had three rounds of stimulus checks now. People are about to start getting monthly checks for an increased child tax credit. The second half of the year, we had the PPP, which injected billions of dollars into the system."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "High demand during the reopening of the economy is driving prices up due to supply and demand imbalance.",
+        "spans": [
+          "Demand has just gone through the roof lately. In a lot of ways, the reopening is tougher on the economy than shutting down because of the big spike in demand."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Supply chain disruptions are causing shortages and price increases in various goods, including cars and food items.",
+        "spans": [
+          "There is a lot of supply chain disruptions going on in food service right now. You can't get chicken wings in a lot of places.",
+          "There is not one new Chevy car in the Columbia, South Carolina, dealership.",
+          "My Costco was out of wings.",
+          "Due to supply chain limitations, we're out of several items. Apologies for the inconvenience."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Wage pressure due to worker shortages is causing companies to raise wages and prices, contributing to inflation.",
+        "spans": [
+          "The companies especially in the food service and retail industries are really having to raise wages to compete and to get employees.",
+          "Chipotle I mentioned already they just announced they're raising their prices by 5% in order to raise wages to be more competitive and get staff."
+        ]
+      }
+    ],
+    "clueweb22-en0002-95-07754": [
+      {
+        "point_number": 1,
+        "point_content": "Inflation is running rampant in Joe Biden’s America. The Bureau of Labor Statistics (BLS) found that in June, consumer prices increased by 5.4 percent on an annualized basis.",
+        "spans": [
+          "Inflation is running rampant in Joe Biden’s America.",
+          "The Bureau of Labor Statistics (BLS) found that in June, consumer prices increased by 5.4 percent on an annualized basis."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Gasoline and energy prices have increased significantly over the past 12 months, contributing to inflation.",
+        "spans": [
+          "Gasoline has increased 45.1 percent in the past 12 months.",
+          "Energy 24.5 percent in the past 12 months."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Major appliances, furniture, bedding, footwear, airfares, and commodities have all increased in price over the past 12 months.",
+        "spans": [
+          "Major appliances increased 13.7 percent in the past 12 months.",
+          "Furniture and bedding increased 8.6 percent in the past 12 months.",
+          "Footwear increased 6.5 percent in the past 12 months.",
+          "Airfares increased 24.6 percent in the past 12 months.",
+          "Commodities have collectively increased 9 percent in the past 12 months."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Inflation can erode purchasing power if wages do not keep up, and wages have decreased recently.",
+        "spans": [
+          "Inflation can erode purchasing power if wages do not keep up.",
+          "The BLS found that seasonally adjusted real average weekly earnings decreased 0.9 percent in June.",
+          "Seasonally adjusted real average hourly earnings have declined by 1.7 percent over the past year."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Voters believe the causes of inflation include massive government spending, significant money injection by the Federal Reserve, and uncontrollable government deficits.",
+        "spans": [
+          "When asked what causes inflation, the top three answers were “Massive government spending,” “Significant amounts of money being injected in the economy by the Federal Reserve,” and “Uncontrollable government deficits.”"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "President Joe Biden is pushing a multi-trillion dollar budget with high federal spending, which is expected to exacerbate inflation.",
+        "spans": [
+          "President Joe Biden is pushing a multi-trillion dollar budget, taking the U.S. to its highest sustained levels of federal spending since World War II.",
+          "The budget calls for $6 trillion in spending for Fiscal Year 2022, spent on “infrastructure” and “human infrastructure.”",
+          "Flooding the U.S. economy with this kind of spending is bound to exacerbate inflation."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "The Biden administration has proposed trillions of dollars in tax hikes on businesses, which will be passed on to consumers through higher prices.",
+        "spans": [
+          "The Biden administration has also proposed trillions of dollars in tax hikes on businesses.",
+          "Raising the corporate income tax from 21 to 28 percent will certainly have this effect.",
+          "According to a 2020 National Bureau of Economic Research paper, 31 percent of the corporate tax rate is borne by consumers through higher prices of goods and services."
+        ]
+      }
+    ],
+    "clueweb22-en0011-30-11563": [
+      {
+        "point_number": 1,
+        "point_content": "Fuel costs are the biggest contributor to inflation at present.",
+        "spans": [
+          "Fuel costs are the biggest contributor to inflation at present."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Average petrol prices rose 12.6p per litre between February and March, the largest monthly rise since records began in 1990.",
+        "spans": [
+          "Average petrol prices rose 12.6p per litre between February and March, the largest monthly rise since records began in 1990"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Household fuel bills have also soared, with an average increase of £693 on 1 April.",
+        "spans": [
+          "Household fuel bills have also soared: about 18 million households on standard tariffs saw their annual bill jump from £1,277 to £1,971 on 1 April - an average increase of £693"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The rate of VAT has gone up for some businesses, returning to the standard 20% rate on 1 April.",
+        "spans": [
+          "The rate of VAT - the tax paid when buying goods and services - has also gone up for some businesses. The government reduced VAT for hospitality and tourism firms during the pandemic, but on 1 April it returned to the standard 20% rate"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Air passenger duty, vehicle excise duty rates, postage, and water bills in England and Wales have increased.",
+        "spans": [
+          "Air passenger duty and vehicle excise duty rates have also increased, as have the cost of postage, and water bills in England and Wales"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Regulated rail fares have gone up by up to 3.8% in England and Wales, the highest fare rises for nine years.",
+        "spans": [
+          "Regulated rail fares have gone up by up to 3.8% in England and Wales, the highest fare rises for nine years"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Higher interest rates make mortgage payments more expensive for some homeowners.",
+        "spans": [
+          "Higher interest rates also make mortgage payments more expensive for some homeowners"
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Food prices could rise by up to 15% this year.",
+        "spans": [
+          "One food industry boss has warned that food prices could rise by up to 15% this year."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "The Bank of England has warned that UK inflation could reach 10% in the last three months of 2022, largely as a result of rising global energy prices.",
+        "spans": [
+          "The Bank of England has warned that UK inflation could reach 10% in the last three months of 2022, largely as a result of rising global energy prices."
+        ]
+      }
+    ],
+    "clueweb22-en0000-78-11150": [
+      {
+        "point_number": 1,
+        "point_content": "There are two main causes of inflation: demand-pull and cost-push.",
+        "spans": [
+          "There are two main causes of inflation: demand-pull and cost-push."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Demand-pull inflation occurs when consumer demand for goods and services increases so much that it outstrips supply.",
+        "spans": [
+          "Demand-pull inflation is the most common cause of rising prices. It occurs when consumer demand for goods and services increases so much that it outstrips supply."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Cost-push inflation happens when supply decreases, creating a shortage, and producers raise prices to meet the increasing demand.",
+        "spans": [
+          "Cost-pull inflation happens when supply decreases, creating a shortage. Producers raise prices to meet the increasing demand for their goods or services."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Global supply chain disruptions, like the one caused by the pandemic in 2020, can lead to cost-push inflation.",
+        "spans": [
+          "global supply chain disruptions, like the one caused by the pandemic in 2020, can lead to cost-push inflation."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "In November 2021, the Consumer Price Index soared 6.8% from the year prior, the highest increase in over 30 years, due in large part to ongoing supply chain issues.",
+        "spans": [
+          "In November 2021 (the most recently available data), the Consumer Price Index (CPI), which covers gas, food, and rent among other costs, soared 6.8% from the year prior, the highest increase in over 30 years. This was due in large part to ongoing supply chain issues."
+        ]
+      }
+    ],
+    "clueweb22-en0006-05-02466": [
+      {
+        "point_number": 1,
+        "point_content": "In the near term, inflation is being driven by COVID-19 and its impact on everything from oil and gas prices to supply chains.",
+        "spans": [
+          "In the near term, it’s being driven by COVID-19 and its impact on everything from oil and gas prices to supply chains"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "As much as one-third of inflation is due to soaring oil and natural gas prices.",
+        "spans": [
+          "as much as one-third of it is due to soaring oil and natural gas prices"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "In the longer term, the real driver of inflation is climate change.",
+        "spans": [
+          "In the longer term, though, the real driver of inflation is the one conservatives desperately want to avoid talking about: climate change"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Supply chain disruptions and extreme weather events caused by climate change have increased prices of staples including meat, dairy, and groceries.",
+        "spans": [
+          "Many staples including meat, dairy, and groceries have increased in recent months due to macroeconomic shocks, caused by both unfavourable weather patterns in the Northern Hemisphere and logistical challenges due to the global pandemic."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Syrup prices are rising due to a mismatch between demand and supply driven by weather and climate, not government policies.",
+        "spans": [
+          "Syrup prices aren’t surging because of Trudeau’s nefarious policies but instead because of a mismatch between demand and supply driven by weather (and climate)"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Unseasonable frosts damaged coffee production in key South American growing regions, affecting coffee prices.",
+        "spans": [
+          "unseasonable frosts in July damaged production in many key South American growing regions"
+        ]
+      }
+    ],
+    "clueweb22-en0027-27-18578": [
+      {
+        "point_number": 1,
+        "point_content": "The recent acceleration in the rate of inflation appears to be fundamentally different from other inflationary periods that were more closely tied to the regular business cycle.",
+        "spans": [
+          "The recent acceleration in the rate of inflation appears to be fundamentally different from other inflationary periods that were more closely tied to the regular business cycle."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Explanations for the current phenomenon proffered to date include continuing disruptions in global supply chains amid the coronavirus pandemic; turmoil in the labor markets; the fact that today’s prices are being measured against prices during last year’s COVID-19-induced shutdowns; and strong consumer demand after local economies were reopened.",
+        "spans": [
+          "Explanations for the current phenomenon proffered to date include continuing disruptions in global supply chains amid the coronavirus pandemic; turmoil in the labor markets; the fact that today’s prices are being measured against prices during last year’s COVID-19-induced shutdowns; and strong consumer demand after local economies were reopened."
+        ]
+      }
+    ]
+  }
+}

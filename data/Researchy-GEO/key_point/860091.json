@@ -1,0 +1,543 @@
+{
+  "question": "did trump's tax cuts help the middle class",
+  "key_points": {
+    "clueweb22-en0013-69-08650": [
+      {
+        "point_number": 1,
+        "point_content": "The tax cuts have created unprecedented prosperity for the middle class in the form of higher wages, more take-home pay, more jobs and new employee benefits.",
+        "spans": [
+          "the tax cuts have created unprecedented prosperity for the middle class in the form of higher wages, more take-home pay, more jobs and new employee benefits"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "An estimated 90 percent of Americans are seeing a tax cut, meaning the overwhelming number of filers will be better off.",
+        "spans": [
+          "an estimated 90 percent of Americans are seeing a tax cut"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "In the months following passage of the tax cuts, unemployment fell to a 49-year low and key demographics including women, African-Americans and Hispanics have seen record low unemployment rates.",
+        "spans": [
+          "In the months following passage of the tax cuts, unemployment fell to a 49-year low and key demographics including women, African-Americans and Hispanics have seen record low unemployment rates"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Job openings have now hit a record high of 7.3 million and over 300,000 jobs were created last month.",
+        "spans": [
+          "Job openings have now hit a record high of 7.3 million and over 300,000 jobs were created last month"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Year-over-year, wages have grown 3.2 percent and the economy is projected to grow at 3.1 percent over 2018.",
+        "spans": [
+          "Year-over-year, wages have grown 3.2 percent and the economy is projected to grow at 3.1 percent over 2018"
+        ]
+      }
+    ],
+    "clueweb22-en0010-30-00289": [
+      {
+        "point_number": 1,
+        "point_content": "IRS data proves Trump tax cuts benefited middle, working-class Americans most",
+        "spans": [
+          "IRS data proves Trump tax cuts benefited middle, working-class Americans most"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Income data published by the IRS clearly show that on average all income brackets benefited substantially from the Republicans' tax reform law, with the biggest beneficiaries being working and middle-income filers, not the top 1 percent",
+        "spans": [
+          "Income data published by the IRS clearly show that on average all income brackets benefited substantially from the Republicans' tax reform law, with the biggest beneficiaries being working and middle-income filers, not the top 1 percent"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Filers with an adjusted gross income (AGI) of $15,000 to $50,000 enjoyed an average tax cut of 16 percent to 26 percent in 2018",
+        "spans": [
+          "filers with an adjusted gross income (AGI) of $15,000 to $50,000 enjoyed an average tax cut of 16 percent to 26 percent in 2018"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Filers who earned $50,000 to $100,000 received a tax break of about 15 percent to 17 percent",
+        "spans": [
+          "Filers who earned $50,000 to $100,000 received a tax break of about 15 percent to 17 percent"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Those earning $100,000 to $500,000 in adjusted gross income saw their personal income taxes cut by around 11 percent to 13 percent",
+        "spans": [
+          "those earning $100,000 to $500,000 in adjusted gross income saw their personal income taxes cut by around 11 percent to 13 percent"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "No income group with an AGI of at least $500,000 received an average tax cut exceeding 9 percent, and the average tax cut for brackets starting at $1 million was less than 6 percent",
+        "spans": [
+          "no income group with an AGI of at least $500,000 received an average tax cut exceeding 9 percent, and the average tax cut for brackets starting at $1 million was less than 6 percent"
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0016-74-10371": [
+      {
+        "point_number": 1,
+        "point_content": "Income for middle-class Americans is projected to grow at less than half the rate as for the richest 1%.",
+        "spans": [
+          "Over the next two years, income for middle-class Americans is projected to grow at less than half the rate as for the richest 1%"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The country's top-earning households will enjoy a bigger decline in tax rates than all other groups.",
+        "spans": [
+          "The country's top-earning households will also enjoy a bigger decline in tax rates than all other groups."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "After accounting for taxes and government benefits, the middle fifth of households will see their income grow by 6.6% through 2021, compared with a 17% gain for the richest workers.",
+        "spans": [
+          "After accounting for taxes and government benefits, the middle fifth of households will see their income grow by 6.6% through 2021, the CBO forecast — that compares with a 17% gain projected for America's richest workers."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The middle 20% of families will have seen their income grow a total of only $4,400, to $70,300, between 2016 and 2021, while the top 1% is expected to rise nearly $200,000 to nearly $1.4 million.",
+        "spans": [
+          "In dollars and cents, the middle 20% of families will have seen their income grow a total of only $4,400, to $70,300, between 2016 and 2021, the agency estimated.",
+          "Income for the top 1% is expected to rise nearly $200,000 over that same five-year period to nearly $1.4 million"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Top earners are expected to get the biggest overall reduction in taxes over the five-year period studied by the CBO.",
+        "spans": [
+          "Thanks to the Tax Cuts and Jobs Act, top earners are also expected to get the biggest overall reduction in taxes over the five-year period studied by the CBO"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "The tax rate for the top 1% is projected to slide by 3 percentage points over the next two years, versus a dip of only 1 percentage point for the bottom 95% of earners.",
+        "spans": [
+          "their tax rate is projected to slide by 3 percentage points over the next two years, versus a dip of only 1 percentage point for the bottom 95% of earners"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "The findings suggest the lion's share of the gains from the 2017 tax law has gone to the rich and corporations, not the middle class.",
+        "spans": [
+          "The findings may fuel criticism that the lion's share of the gains from the 2017 tax law has gone to the rich and to corporations."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Income for the middle class is growing more slowly than for both top earners and the poor.",
+        "spans": [
+          "Income for middle-class Americans is growing more slowly than for both top earners and the poor"
+        ]
+      }
+    ],
+    "clueweb22-en0011-94-06315": [
+      {
+        "point_number": 1,
+        "point_content": "IRS data proves Trump tax cuts benefited middle, working-class Americans most",
+        "spans": [
+          "IRS data proves Trump tax cuts benefited middle, working-class Americans most"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Income data published by the IRS clearly show that on average all income brackets benefited substantially from the Republicans' tax reform law, with the biggest beneficiaries being working and middle-income filers",
+        "spans": [
+          "Income data published by the IRS clearly show that on average all income brackets benefited substantially from the Republicans' tax reform law, with the biggest beneficiaries being working and middle-income filers"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Filers with an adjusted gross income (AGI) of $15,000 to $50,000 enjoyed an average tax cut of 16 percent to 26 percent in 2018",
+        "spans": [
+          "filers with an adjusted gross income (AGI) of $15,000 to $50,000 enjoyed an average tax cut of 16 percent to 26 percent in 2018"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Filers who earned $50,000 to $100,000 received a tax break of about 15 percent to 17 percent",
+        "spans": [
+          "Filers who earned $50,000 to $100,000 received a tax break of about 15 percent to 17 percent"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Filers earning $100,000 to $500,000 saw their personal income taxes cut by around 11 percent to 13 percent",
+        "spans": [
+          "those earning $100,000 to $500,000 in adjusted gross income saw their personal income taxes cut by around 11 percent to 13 percent"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "No income group with an AGI of at least $500,000 received an average tax cut exceeding 9 percent, and the average tax cut for brackets starting at $1 million was less than 6 percent",
+        "spans": [
+          "no income group with an AGI of at least $500,000 received an average tax cut exceeding 9 percent, and the average tax cut for brackets starting at $1 million was less than 6 percent"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Most middle-income and working-class earners enjoyed a tax cut that was at least double the size of tax cuts received by households earning $1 million or more",
+        "spans": [
+          "most middle-income and working-class earners enjoyed a tax cut that was at least double the size of tax cuts received by households earning $1 million or more"
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "IRS data shows earners in higher income brackets contributed a bigger slice of the total income tax revenue pie following the passage of the tax reform law than they had in the previous year",
+        "spans": [
+          "IRS data shows earners in higher income brackets contributed a bigger slice of the total income tax revenue pie following the passage of the tax reform law than they had in the previous year"
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Every income bracket with filers earning $200,000 or more increased its tax burden in 2018 compared to 2017, and every income bracket with a top limit lower than $200,000 paid a smaller proportion of the total personal tax revenue collected",
+        "spans": [
+          "Every income bracket with filers earning $200,000 or more increased its tax burden in 2018 compared to 2017, and every income bracket with a top limit lower than $200,000 paid a smaller proportion of the total personal tax revenue collected"
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Republicans' tax reform law resulted in the tax code becoming slightly more progressive",
+        "spans": [
+          "Republicans' tax reform law resulted in the tax code becoming slightly more progressive"
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "The tax reform law spurred economic mobility, with every income bracket above $25,000 increasing in size, especially those with a floor of at least $100,000",
+        "spans": [
+          "The IRS data further shows that the tax reform law - which included a variety of business tax cuts, including a large reduction in the corporate income tax rate - spurred economic mobility.",
+          "Every income bracket with a top level lower than $25,000 experienced a reduction in its number of filers, and every income bracket above $25,000 increased in size, with the biggest gains occurring in the brackets with a floor of at least $100,000"
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "Republicans' 2017 tax reform law lowered taxes for all income groups, provided the greatest benefits for middle-income households, and spurred economic growth that helped reduce poverty and improve prosperity",
+        "spans": [
+          "The fact is, Republicans' 2017 tax reform law did exactly what was promised: It lowered taxes for all income groups, provided the greatest benefits for middle-income households, and spurred economic growth that helped reduce poverty and improve prosperity"
+        ]
+      }
+    ],
+    "clueweb22-en0014-61-17608": [
+      {
+        "point_number": 1,
+        "point_content": "Middle-class Americans saw mixed results as most of the benefits accrued to the highest earners.",
+        "spans": [
+          "Middle-class Americans saw mixed results as most of the benefits accrued to the highest earners."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Tax returns showing an AGI of less than $100,000 paid less income tax overall, but returns with an AGI just above $100,000 (many middle-class families) owed more tax, on average.",
+        "spans": [
+          "Tax returns showing an AGI of less than $100,000 paid less income tax overall, but returns with an AGI just above $100,000 (many middle-class families) owed more tax, on average."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "On the whole, low-income families appear to have received the least savings, while high-income families saved the most. Middle-class families saw mixed results.",
+        "spans": [
+          "On the whole, low-income families appear to have received the least savings, while high-income families saved the most. Middle-class families saw mixed results."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "High-income individuals were the most likely to see tax savings, while low-income and middle-class families saw mixed results.",
+        "spans": [
+          "High-income individuals were the most likely to see tax savings, while low-income and middle-class families saw mixed results."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Taxpayers with AGI between $50,000 and $100,000 received 2.5% more refunds but those refunds were worth 1.8% less than in 2017.",
+        "spans": [
+          "Taxpayers with AGI between $50,000 and $100,000 received 2.5% more refunds but those refunds were worth 1.8% less than in 2017."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "The higher standard deduction wasn’t enough to offset the loss of personal exemptions for some families.",
+        "spans": [
+          "The higher standard deduction wasn’t enough to offset the loss of personal exemptions for some families."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Some families may have owed more tax because the expansion of the standard deduction meant the loss of personal exemptions.",
+        "spans": [
+          "some families may have owed more tax because the expansion of the standard deduction meant the loss of personal exemptions."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "The Tax Cuts and Jobs Act of 2017 greatly expanded the child tax credit (CTC). The maximum value of the CTC doubled from $1,000 to $2,000 per child, and it increased the income limits so that more taxpayers could qualify.",
+        "spans": [
+          "The Tax Cuts and Jobs Act of 2017 greatly expanded the child tax credit (CTC). The maximum value of the CTC doubled from $1,000 to $2,000 per child, and it increased the income limits so that more taxpayers could qualify."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Low-income individuals claimed the additional child tax credit (ACTC) less, so they may not have gotten the full value of their CTC.",
+        "spans": [
+          "Low-income individuals claimed the additional child tax credit (ACTC) less, so they may not have gotten the full value of their CTC."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "The tax savings that businesses received from President Trump’s tax plan could offset the benefits of the tax reform to workers.",
+        "spans": [
+          "The tax savings that businesses received from President Trump’s tax plan could offset the benefits of the tax reform to workers."
+        ]
+      }
+    ],
+    "clueweb22-en0024-64-08750": [
+      {
+        "point_number": 1,
+        "point_content": "IRS data proves Trump tax cuts benefited middle, working-class Americans most",
+        "spans": [
+          "IRS data proves Trump tax cuts benefited middle, working-class Americans most"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Income data published by the IRS clearly show that on average all income brackets benefited substantially from the Republicans’ tax reform law, with the biggest beneficiaries being working and middle-income filers",
+        "spans": [
+          "Income data published by the IRS clearly show that on average all income brackets benefited substantially from the Republicans’ tax reform law, with the biggest beneficiaries being working and middle-income filers"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Filers with an adjusted gross income (AGI) of $15,000 to $50,000 enjoyed an average tax cut of 16 percent to 26 percent in 2018",
+        "spans": [
+          "filers with an adjusted gross income (AGI) of $15,000 to $50,000 enjoyed an average tax cut of 16 percent to 26 percent in 2018"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Filers who earned $50,000 to $100,000 received a tax break of about 15 percent to 17 percent",
+        "spans": [
+          "Filers who earned $50,000 to $100,000 received a tax break of about 15 percent to 17 percent"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Filers earning $100,000 to $500,000 saw their personal income taxes cut by around 11 percent to 13 percent",
+        "spans": [
+          "those earning $100,000 to $500,000 in adjusted gross income saw their personal income taxes cut by around 11 percent to 13 percent"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "No income group with an AGI of at least $500,000 received an average tax cut exceeding 9 percent, and the average tax cut for brackets starting at $1 million was less than 6 percent",
+        "spans": [
+          "no income group with an AGI of at least $500,000 received an average tax cut exceeding 9 percent, and the average tax cut for brackets starting at $1 million was less than 6 percent"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Most middle-income and working-class earners enjoyed a tax cut that was at least double the size of tax cuts received by households earning $1 million or more",
+        "spans": [
+          "most middle-income and working-class earners enjoyed a tax cut that was at least double the size of tax cuts received by households earning $1 million or more"
+        ]
+      }
+    ],
+    "clueweb22-en0035-31-05178": [
+      {
+        "point_number": 1,
+        "point_content": "Middle income American families saw the biggest tax cut from the Trump-Republican Tax Cuts and Jobs Act (TCJA).",
+        "spans": [
+          "middle income American families saw the biggest tax cut – measured as the percentage decrease in “total tax liability” between 2017 and 2018 – from the Trump-Republican Tax Cuts and Jobs Act (TCJA)"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Americans with incomes between $50,000 and $100,000 saw their tax liability drop by twice as much as Americans with income above $1 million.",
+        "spans": [
+          "Americans with incomes between $50,000 and $100,000 saw their tax liability drop by twice as much as Americans with income above $1 million"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Americans with adjusted gross income (AGI) of $50,000 to $74,999 saw a 13.2 percent reduction in average tax liabilities between 2017 and 2018.",
+        "spans": [
+          "Americans with adjusted gross income (AGI) of $50,000 to $74,999 saw a 13.2 percent reduction in average tax liabilities between 2017 and 2018"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Americans with AGI of between $75,000 and $99,999 saw a 13.6 percent reduction in average federal tax liability between 2017 and 2018.",
+        "spans": [
+          "Americans with AGI of between $75,000 and $99,999 saw a 13.6 percent reduction in average federal tax liability between 2017 and 2018"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Americans with AGI of $1 million or above saw a 5.8 percent reduction in average federal tax liability between 2017 and 2018, less than half the tax cut seen by Americans with AGI between $50,000 and $100,000.",
+        "spans": [
+          "Americans with AGI of $1 million or above saw a 5.8 percent reduction in average federal tax liability between 2017 and 2018, less than half the tax cut seen by Americans with AGI between $50,000 and $100,000"
+        ]
+      }
+    ],
+    "clueweb22-en0017-47-01309": [
+      {
+        "point_number": 1,
+        "point_content": "The Tax Cuts and Jobs Act of 2017 cut taxes on the middle class and fueled economic growth that brought unemployment rates to half-century lows before the pandemic.",
+        "spans": [
+          "While the Tax Cuts and Jobs Act of 2017 was far from perfect, it did cut taxes on the middle class and fueled the economic growth that brought unemployment rates to half-century lows before the pandemic."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The claim that 83% of Trump's tax giveaway will flow to the top 1% refers to rates in 2027, after most individual income tax cuts expire.",
+        "spans": [
+          "The 83% claim comes from a study by the Urban-Brookings Tax Policy Center and refers to rates in 2027, which is after almost all of the TCJA cuts of individual income taxes are slated to expire."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "In 2025, while the Trump tax cuts are still in place, the top 1% would get 25% of the cut, implying the middle class also benefits.",
+        "spans": [
+          "In 2025, according to the Tax Policy Center, the top 1% would get 25% of the cut."
+        ]
+      }
+    ],
+    "clueweb22-en0020-81-04520": [
+      {
+        "point_number": 1,
+        "point_content": "The Tax Cuts and Jobs Act created a historic tax cut for Main Street businesses and lowered tax rates for job creators of all sizes.",
+        "spans": [
+          "Created a historic tax cut for Main Street businesses.",
+          "Lowered tax rates for job creators of all sizes."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The economy responded with record high small business optimism, record low unemployment rates for various groups, and nearly 5 million jobs added before the pandemic.",
+        "spans": [
+          "Main Street Optimism Reached An All-Time High.",
+          "The unemployment rate reached a generational low, with record low unemployment for women, people\u0000of color,\u0000and workers without high school degrees.",
+          "Since the enactment of TCJA, the economy gained nearly 5 million jobs before the pandemic."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The TCJA simplified tax filing, eliminated the Alternative Minimum Tax for most taxpayers, and expanded savings tools like 529 accounts.",
+        "spans": [
+          "Simplified that tax filing process for millions of workers.",
+          "Eliminated the Alternative Minimum Tax for most taxpayers.",
+          "Expanded popular savings tools, like 529\u0000accounts."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Workers' net worth soared, with low- and middle-class families seeing the largest gains in wealth growth in 2018 and 2019.",
+        "spans": [
+          "Workers\u0000networth soared. Low- and middle-class families saw the largest gains in wealth growth in 2018 and 2019, according to the Federal Reserve. Low-income families saw their net worth increase 37%. Middle-class families saw their net worth increase 40%."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Real median U.S. household income in 2019 rose nearly 50% more than during the eight years of Barack Obama’s Presidency, with significant increases for minorities and foreign-born workers.",
+        "spans": [
+          "Household Income Reached New Highs. Real median U.S. household income in 2019 rose nearly 50% more than during the eight years of Barack Obama’s Presidency. Median household incomes increased\u0000 7.1%\u0000for Hispanics,\u0000 7.9%\u0000for Blacks,10.6%\u0000for Asian Americans and\u00008.5% for foreign-born workers."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Wages for minorities, women, youths, and all levels of educational attainment grew at a faster pace compared to Obama’s second term.",
+        "spans": [
+          "Wages for Minorities Grew at a Faster Pace. Compared to Obama’s second term, wage growth, as a measure of median usual weekly earnings, grew 24% faster for Hispanics, 79% faster for Blacks, and 95% faster for Asian Americans.",
+          "Wages for Women Grew at a Faster Pace. Compared to Obama’s second term, wage growth, as a measure of median usual weekly earnings, grew 60% faster for women.",
+          "Wages for Youths (Ages 16-24) Grew at a Faster Pace. Compared to Obama’s second term, wage growth, as a measure of median usual weekly earnings, grew 70% faster for women.",
+          "Wages for All Levels of Educational Attainment Grew at a Faster Pace. Compared to Obama’s second term, wage growth, as a measure of median usual weekly earnings, more than doubled for those with less than a high school diploma and those with either some college or have an associate degree."
+        ]
+      }
+    ],
+    "clueweb22-en0035-77-19369": [
+      {
+        "point_number": 1,
+        "point_content": "The TCJA reduced effective tax rates for all income groups in 2018.",
+        "spans": [
+          "the TCJA reduced effective tax rates “for all income groups in 2018.”"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "High earners paid more taxes to the government, while everyone else paid less after the TCJA.",
+        "spans": [
+          "as a result of the TCJA, high earners paid more taxes to the government, while everyone else paid less"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "High earners paid a larger percentage of all taxes, while everyone else paid a smaller percentage after the TCJA.",
+        "spans": [
+          "They also paid a larger percentage of all taxes, while everyone else paid a smaller percentage."
+        ]
+      }
+    ],
+    "clueweb22-en0035-09-13358": [
+      {
+        "point_number": 1,
+        "point_content": "Trump’s tax plan does not provide a blanket 30-35% tax cut for all middle-class families; the actual tax savings depend on specific family circumstances such as income, number and age of children, and child care expenses.",
+        "spans": [
+          "Some families could indeed see the cuts to their income tax bills that Trump cites, if they meet certain criteria. But change the criteria, and those tax savings change, too. It’s not a blanket reduction for “middle-class” families or “working people,” as the claims imply."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "A married couple earning $75,000 with two children and $10,000 in child care expenses could see a tax reduction of about 30-35% under Trump's plan if at least one child is under 13.",
+        "spans": [
+          "It is true if that family fits the scenario the Trump camp cited — that is, a married couple earning $75,000 with two kids and $10,000 in child care expenses, which Trump would make tax deductible, and at least one child is younger than 13."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "If the children are older than 13, the tax savings under Trump's plan for the same family could be significantly less, around 14-15%.",
+        "spans": [
+          "If a family earning $75,000 has two kids 13 or older, and therefore not eligible for the child care deduction, the tax savings could be 14.4 percent according to the TPC calculator and 15 percent under the Tax Foundation’s."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Under Clinton’s plan, the same family with two children under 5 could see a tax reduction equal to or greater than under Trump's plan, up to 50-73%.",
+        "spans": [
+          "Under Clinton’s plan, the married couple earning $75,000 with two kids under age 5 and $10,000 in child care expenses could see a reduction in their income taxes of 50 percent, if one spouse worked, and 73.2 percent if both spouses worked."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Trump’s plan eliminates the head of household filing status and personal exemptions, which could increase taxes for some single parents and large families with three or more children.",
+        "spans": [
+          "Trump’s plan eliminates the head of household filing status, which provides a larger deduction than the single deduction. That could increase taxes for some single parents.",
+          "Large families also could pay more in taxes, because Trump’s plan, which raises the standard deduction, eliminates personal exemptions. That could increase taxes for some families with three or more children."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "About 20% of households and more than half of single parents would pay more in taxes under Trump’s plan.",
+        "spans": [
+          "About 20 percent of households and more than half of single parents would pay more in taxes,” she writes in an Oct. 28 paper."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "On average, middle-income taxpayers would see a tax reduction under Trump’s plan, but some middle-class families would see a tax increase.",
+        "spans": [
+          "Simply put, the middle class as a whole would see a tax reduction, but some middle class families would see a tax increase,” Alan Cole, an economist with the Tax Foundation, told us."
+        ]
+      }
+    ]
+  }
+}

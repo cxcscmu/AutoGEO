@@ -1,0 +1,81 @@
+{
+  "question": "what are the main reasons economists give for the increase in inequality of incomes?",
+  "key_points": {
+    "clueweb22-en0010-24-06436": [
+      {
+        "point_number": 1,
+        "point_content": "The main reasons economists give for the increase in inequality of outcomes are changes in household structure and the effect of new information and communications technologies on wages.",
+        "spans": [
+          "what are the main reasons economist give for the increase in inequality of outcomes?",
+          "change in the structure oh households that have led to more two earner couples and single parent families and the effect of new information and communications technologies on wages"
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0003-45-04705": [
+      {
+        "point_number": 1,
+        "point_content": "Economists have focused their explanations for the increasing inequality on two factors that changed more or less continually from the 1970s into the 2000s.",
+        "spans": [
+          "Economists have focused their explanations for the increasing inequality on two factors that changed more or less continually from the 1970s into the 2000s."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "One set of explanations focuses on the changing shape of American households.",
+        "spans": [
+          "One set of explanations focuses on the changing shape of American households."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The other focuses on greater inequality of wages, what some economists call “winner take all” labor markets.",
+        "spans": [
+          "The other focuses on greater inequality of wages, what some economists call “winner take all” labor markets."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Changes in family structure, including the growth of single-parent families who tend to be at the lower end of the income distribution, and the growth of two-career high-earner couples near the top end of the income distribution, account for roughly half of the rise in income inequality across households in recent decades.",
+        "spans": [
+          "These changes in family structure, including the growth of single-parent families who tend to be at the lower end of the income distribution, and the growth of two-career high-earner couples near the top end of the income distribution, account for roughly half of the rise in income inequality across households in recent decades."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Another factor behind the rise in U.S. income inequality is that earnings have become less equal since the late 1970s.",
+        "spans": [
+          "Another factor behind the rise in U.S. income inequality is that earnings have become less equal since the late 1970s."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Winner-take-all labor markets result from changes in technology, which have increased global demand for “stars,”—whether the best CEO, doctor, basketball player, or actor.",
+        "spans": [
+          "Winner-take-all labor markets result from changes in technology, which have increased global demand for “stars,”—whether the best CEO, doctor, basketball player, or actor."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "The most plausible explanation is that while the explosion in new information and communications technologies over the last several decades has helped many workers to become more productive, the benefits have been especially great for high-skilled workers like top business managers, consultants, and design professionals.",
+        "spans": [
+          "The most plausible explanation is that while the explosion in new information and communications technologies over the last several decades has helped many workers to become more productive, the benefits have been especially great for high-skilled workers like top business managers, consultants, and design professionals."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "The new technologies have also helped to encourage globalization, the remarkable increase in international trade over the last few decades, by making it more possible to learn about and coordinate economic interactions all around the world.",
+        "spans": [
+          "The new technologies have also helped to encourage globalization, the remarkable increase in international trade over the last few decades, by making it more possible to learn about and coordinate economic interactions all around the world."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "The rising impact of foreign trade in the U.S. economy has opened up greater opportunities for high-skilled workers to sell their services around the world, and lower-skilled workers have to compete with a larger supply of similarly skilled workers around the globe.",
+        "spans": [
+          "The rising impact of foreign trade in the U.S. economy has opened up greater opportunities for high-skilled workers to sell their services around the world, and lower-skilled workers have to compete with a larger supply of similarly skilled workers around the globe."
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "question": "why is car hire so expensive",
+  "key_points": [
+    {
+      "point_number": 1,
+      "point_content": "Car rental prices in 2021 are higher due to a combination of factors including reduced fleet sizes caused by companies selling off vehicles during the pandemic and inability to purchase new cars due to global shortages, and increased demand driven by pent up travel and changes in travel restrictions.",
+      "original_point_number": [
+        1,
+        2,
+        5,
+        6,
+        9,
+        11,
+        12,
+        16,
+        17,
+        18,
+        21,
+        25,
+        26
+      ]
+    },
+    {
+      "point_number": 2,
+      "point_content": "Increased demand for rental cars is driven by pent up travel demand after lockdowns, changes in travel restrictions such as the UK’s traffic light system, more Americans getting vaccinated and resuming travel, and locals and tourists preferring car hire over public transport.",
+      "original_point_number": [
+        3,
+        7,
+        10,
+        20
+      ]
+    },
+    {
+      "point_number": 3,
+      "point_content": "The supply-demand imbalance caused by reduced fleet sizes and increased demand is causing rental car prices to be extremely high, sometimes exceeding plane ticket costs, with some vehicles costing over $2800 for a week-long rental.",
+      "original_point_number": [
+        8,
+        14,
+        19,
+        23,
+        24
+      ]
+    },
+    {
+      "point_number": 4,
+      "point_content": "Rental car companies need to recoup losses from the pandemic period, which contributes to higher prices.",
+      "original_point_number": [
+        4
+      ]
+    },
+    {
+      "point_number": 5,
+      "point_content": "Moving vehicles to meet regional demand spikes is costly and time-consuming for rental companies.",
+      "original_point_number": [
+        13
+      ]
+    },
+    {
+      "point_number": 6,
+      "point_content": "Car rental prices respond immediately to supply and demand due to dynamic pricing and fixed stock.",
+      "original_point_number": [
+        27
+      ]
+    }
+  ]
+}

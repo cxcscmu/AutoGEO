@@ -1,0 +1,241 @@
+{
+  "question": "why do we need ethical hacking",
+  "key_points": {
+    "null": [],
+    "clueweb22-en0035-08-16698": [
+      {
+        "point_number": 1,
+        "point_content": "Ethical hackers are needed to find vulnerabilities in a company's attack surface so they can be patched before exploitation.",
+        "spans": [
+          "Many companies hire ethical hackers to search their attack surface and find vulnerabilities so they can find patches and solutions to these risks before they're exploited."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Ethical hackers help fight against malicious cybercrime, especially as technology like 5G and IoT devices become more widespread.",
+        "spans": [
+          "Now more than ever, ethical hackers are needed within all sized companies to help fight against malicious cybercrime.",
+          "Once 5G is more popularly used, smart devices and IoT devices will become even more popular and that will lure in more cybercriminals."
+        ]
+      }
+    ],
+    "clueweb22-en0008-48-03964": [
+      {
+        "point_number": 1,
+        "point_content": "Ethical hacking ensures that all the systems are secure and not vulnerable to black hat hackers.",
+        "spans": [
+          "Ethical hacking ensures that all the systems are secure and not vulnerable to black hat hackers."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The demand for ethical hackers is huge due to many hacking attacks.",
+        "spans": [
+          "These days, there are a lot of hacking attacks. That's why the demand for ethical hackers is huge."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Ethical hackers find weaknesses in systems so companies can fix them.",
+        "spans": [
+          "The hackers try to hack their systems. After hacking the system, they tell all the places where they found the weakness so that the company can fix it."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Ethical hacking is used to secure important data from enemies and safeguard computers from exploitation.",
+        "spans": [
+          "Ethical hacking is used to secure important data from enemies.",
+          "It works as a safeguard of your computer from blackmail by the people who want to exploit the vulnerability."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Using ethical hacking, a company or organization can find out security vulnerability and risks.",
+        "spans": [
+          "Using ethical hacking, a company or organization can find out security vulnerability and risks."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Ethical hacking can ensure the safety of the nation by preventing cyber-terrorism and terrorist attacks.",
+        "spans": [
+          "Ethical hacking can ensure the safety of the nation by preventing cyber-terrorism and terrorist attacks."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Hackers can think from an attacker's perspective and find the potential entry point and fix them before any attacks.",
+        "spans": [
+          "Hackers can think from an attacker's perspective and find the potential entry point and fix them before any attacks."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Ethical hacking helps us learn new skills used in many roles like software developer, risk management, quality assurance tester, and network defender.",
+        "spans": [
+          "Ethical hacking helps us learn new skills used in many roles like software developer, risk management, quality assurance tester, and network defender."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "In a company, the trained ethical hackers are the main strength to ensure software functions aptly by applying quick security tests.",
+        "spans": [
+          "In a company, the trained ethical hackers are the main strength.",
+          "To ensure the functions of software aptly, ethical hackers can apply quick security tests under extreme and standard conditions."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Ethical hackers develop many tools and methods to eliminate all the system's vulnerabilities.",
+        "spans": [
+          "Ethical hackers develop many tools and methods and quality assurance tester to eliminate all the system's vulnerabilities."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Ethical hacking can identify the weakness of your software security and fix anomalies before they cause problems.",
+        "spans": [
+          "In an organization, ethical hacking can identify the weakness of your software security.",
+          "Using the hacker's perspective, you can look at your security and fix any anomalies before making a problem in the company's success."
+        ]
+      }
+    ],
+    "clueweb22-en0015-13-18752": [
+      {
+        "point_number": 1,
+        "point_content": "Ethical hackers help to eliminate threats, as well as improving IT systems’ overall security.",
+        "spans": [
+          "Ethical hackers, on the other hand, help to eliminate threats, as well as improving IT systems’ overall security."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Ethical hacking is the process of exploiting an IT system – with the owner’s permission – to determine any vulnerabilities or weaknesses, then using the results to tighten online security.",
+        "spans": [
+          "ethical hacking (or penetration testing) is the process of exploiting an IT system – with the owner’s permission – to determine any vulnerabilities or weaknesses. The results are then used to tighten online security for both the end user and the system owner."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "White hat hackers are typically ethical hackers who look for exploits with permission and do not release or sell data unethically.",
+        "spans": [
+          "White hat hackers are typically of the ethical variety. They look for exploits, and typically ask for permission before getting to work. If sending unprompted bug reports, they’re unlikely to release or sell the data even without a reward for their efforts."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "White hat hackers perform an absolutely critical role in the fight against cybercrime by responsibly reporting vulnerabilities.",
+        "spans": [
+          "We’re releasing this statement in response to the reporting of the data breach and to help protect and encourage white hat security researchers who perform an absolutely critical role in the fight against cybercrime."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "White hat hackers are necessary to keep ‘the bad guys’ at bay, especially as hacking becomes more sophisticated and impacts national security.",
+        "spans": [
+          "White hat hackers are necessary to keep ‘the bad guys’ at bay, and they’re only going to get more sophisticated as countries ramp up their efforts in the constant information war. It’s not just network security, it’s also the wider concept of national security that is regularly put at risk."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Companies should be grateful if someone contacts them to highlight a flaw, as the alternative can be costly due to fines and data breaches.",
+        "spans": [
+          "Companies should be grateful if someone contacts them to highlight a flaw, as the alternative can be costly."
+        ]
+      }
+    ],
+    "clueweb22-en0037-53-03157": [
+      {
+        "point_number": 1,
+        "point_content": "Ethical hacking helps an organization secure its systems from any security breach.",
+        "spans": [
+          "Ethical Hacking is very useful because it helps an organization secure its systems from any security breach."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Ethical hackers test the security measures of a company in a safe and controlled environment to determine what security measures are effective and what need to be updated.",
+        "spans": [
+          "Ethical Hackers are employed in an organization to use the hacking tools and strategies to test the security measures of the company in a safe and controlled environment.",
+          "With the help of these hacking techniques, the ethical hackers are able to determine what all security measures are effective and what all security measures need to be updated."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Ethical hackers identify weak areas and vulnerabilities in the system and report them to the company to implement more secure procedures.",
+        "spans": [
+          "Ethical Hackers perform a complete analysis of the security system of the company after they have completed the task, they submit a detailed report to the company that covers the details of the vulnerabilities and system flaws.",
+          "Therefore, these weaknesses in the system enable the management to implement highly secured procedures to restrict the intruders from exploiting either the computer networks or the mistakes of their own personnel."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Ethical hackers understand and demonstrate hacker techniques to help management prepare to prevent unauthorized access.",
+        "spans": [
+          "Ethical Hackers have complete knowledge of the techniques that can be used by an unethical hacker to penetrate the system security.",
+          "Ethical Hackers demonstrate these strategies and techniques to the management, which can help the management to figure out how unauthorized persons, or terrorists etc can penetrate their system and cause serious damages to their businesses."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Ethical hacking prepares companies for potential hacker attacks by demonstrating vulnerabilities and consequences of cyber invasions.",
+        "spans": [
+          "By using the ethical hacking techniques, the ethical hackers demonstrate the vulnerability level of the company and the devastating consequences of the cyber invasions on it.",
+          "Thus making the company prepared for these sort of attacks."
+        ]
+      }
+    ],
+    "clueweb22-en0029-14-11756": [
+      {
+        "point_number": 1,
+        "point_content": "Ethical Hacking is an authorized practice of bypassing system security to identify potential data breaches and threats in a network.",
+        "spans": [
+          "Ethical Hacking is an authorized practice of bypassing system security to identify potential data breaches and threats in a network."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The company that owns the system or network allows Cyber Security engineers to perform such activities in order to test the system’s defenses.",
+        "spans": [
+          "The company that owns the system or network allows Cyber Security engineers to perform such activities in order to test the system’s defenses."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Ethical hackers aim to investigate the system or network for weak points that malicious hackers can exploit or destroy.",
+        "spans": [
+          "Ethical hackers aim to investigate the system or network for weak points that malicious hackers can exploit or destroy."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "They collect and analyze the information to figure out ways to strengthen the security of the system/network/applications.",
+        "spans": [
+          "They collect and analyze the information to figure out ways to strengthen the security of the system/network/applications."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Ethical hackers are hired by organizations to look into the vulnerabilities of their systems and networks and develop solutions to prevent data breaches.",
+        "spans": [
+          "Ethical hackers are hired by organizations to look into the vulnerabilities of their systems and networks and develop solutions to prevent data breaches."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Ethical hacking is planned, approved, and legal, unlike malicious hacking.",
+        "spans": [
+          "Thus, unlike malicious hacking, this process is planned, approved, and more importantly, legal."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Ethical hackers check for key vulnerabilities including injection attacks, changes in security settings, exposure of sensitive data, breach in authentication protocols, and components used in the system or network that may be used as access points.",
+        "spans": [
+          "They check for key vulnerabilities include but are not limited to:\nInjection attacks\nChanges in security settings\nExposure of sensitive data\nBreach in authentication protocols\nComponents used in the system or network that may be used as access points"
+        ]
+      }
+    ]
+  }
+}

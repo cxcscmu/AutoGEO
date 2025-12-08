@@ -1,0 +1,203 @@
+{
+  "question": "should nasa be privatized",
+  "key_points": {
+    "null": [],
+    "clueweb22-en0024-61-00887": [
+      {
+        "point_number": 1,
+        "point_content": "NASA is opening the International Space Station to private astronauts and allowing companies to bid for new activities, enabling commercial manufacturing and production in space.",
+        "spans": [
+          "Earlier this year NASA announced it would open the International Space Station to private astronauts, with short missions beginning as soon as 2020.",
+          "Additionally, NASA said it would allow companies to bid for new activities on the space station, as the agency unveiled a directive to \"enable commercial manufacturing and production\" in space."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "NASA's partnerships with private companies lower the cost and risk of doing business in space and drive innovation.",
+        "spans": [
+          "After NASA's announcement, agency CFO Jeff DeWit spoke to CNBC about how more companies involved in the space station will \"lower the cost and lower the risk\" of doing business in outer space.",
+          "\"The only outcome for this is a positive, not only for NASA but for the space economy for private companies.\""
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "NASA is replicating the satellite industry's shift from government-owned to commercial to drive innovation and reduce costs.",
+        "spans": [
+          "DeWit pointed to the satellite segment of the industry as an example for how shifting ownership and operations from government-built-and-owned to commercial can drive innovation, such as communications or services like satellite television.",
+          "\"The early satellites were all government-owned, and they were limited in their scope and very expensive. When satellites really took off is when the commercial sector came in,\" DeWit said."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "NASA's 'Tipping Point' awards create public-private partnerships to develop important space technologies while saving NASA money.",
+        "spans": [
+          "A key example of the latter is NASA's \"Tipping Point\" awards, which the agency began issuing in 2014.",
+          "In the past five years, NASA has awarded five groups of tipping point awards, worth more than $120 million combined.",
+          "Broadly speaking, a company or project selected for a tipping point award receives NASA resources up to a fixed amount, with the private side paying for at least 25% of the program's total costs."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "NASA buys services from private companies, exemplified by the Commercial Crew program to end reliance on Russian spacecraft.",
+        "spans": [
+          "Another one of the agency's top focuses is a program called Commercial Crew, which is the agency's solution to end reliance on Russian Soyuz spacecraft to send astronauts to the space station.",
+          "Commercial Crew is representative of a shift within NASA, where the agency buys services rather than hardware from companies."
+        ]
+      }
+    ],
+    "clueweb22-en0010-35-10729": [
+      {
+        "point_number": 1,
+        "point_content": "The private sector has the edge on the government in space technology and capabilities.",
+        "spans": [
+          "the private sector has the edge on the government in space technology and capabilities"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "NASA and NRO have advanced private-sector capabilities through lucrative contracts.",
+        "spans": [
+          "NASA and the National Reconnaissance Organization (NRO) have even advanced private-sector capabilities through lucrative contracts"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The Space Act of 2015 gave corporations and individuals ownership over the resources they extract from space.",
+        "spans": [
+          "the Space Act of 2015, which gave corporations and individuals ownership over the resources they extract from space"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Proponents argue that private companies can reach farther, faster and cheaper than the government, and divvying up the mission is essential for maximizing American interests.",
+        "spans": [
+          "Proponents argue that private companies can reach farther, faster and cheaper than the government, and divvying up the mission is essential for maximizing American interests"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The risk for privatization of national security is greatest in space and it already has begun.",
+        "spans": [
+          "But nowhere is the risk for privatization of national security greater than in space — and it already has begun"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "A majority of Americans want the government to remain in control of launching military satellites, but this majority is smaller among younger people.",
+        "spans": [
+          "a small majority of Americans still want the government to remain in control of launching military satellites",
+          "while 65 percent of respondents over the age of 55 think the government alone should launch military satellites, only 44 percent of respondents under age 34 do"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "The federal government’s neglect of the space program and laws that aren’t sophisticated enough have assured a private-sector monopoly.",
+        "spans": [
+          "The federal government’s benign neglect of the space program, combined with laws that aren’t sophisticated enough to defend the public interest and the private sector’s advanced technical capabilities, have all but assured a private-sector monopoly"
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "The intelligence community has not considered what space with a strong private-sector presence would look like, which is a problem.",
+        "spans": [
+          "the intelligence community hasn’t asked itself: What would space with a strong private-sector presence look like?"
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "The private sector could be an equally dangerous threat to space assets as foreign adversaries.",
+        "spans": [
+          "While foreign adversaries have demonstrated both the intent and capability to wreak havoc on our space assets, the private sector here at home could be an equally dangerous, if somewhat unwitting, threat"
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Privatization risks include monopolies, loss of democratic voice, environmental catastrophes, lack of accountability, and reduced information sharing.",
+        "spans": [
+          "Our track record with privatization hasn’t been meritorious — think monopolies, loss of democratic voice, environmental catastrophes, a lack of accountability, and reduced information sharing"
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Space will be dominated by billionaires advancing their interests rather than America's interests, making it virtually out of government reach.",
+        "spans": [
+          "space will be dominated by billionaires looking to advance their interests, rather than the interests of America",
+          "it will be virtually out of government reach and in the hands of the wealthy few"
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "NRO has done little to publicly demonstrate its presence and worth, which is necessary to counter the privatization trend.",
+        "spans": [
+          "NRO isn’t convincing anyone otherwise",
+          "it has done little to publicly demonstrate its abiding presence and worth"
+        ]
+      },
+      {
+        "point_number": 13,
+        "point_content": "NRO has a long history of providing space-based intelligence and supporting military and disaster relief operations.",
+        "spans": [
+          "NRO has spent over six decades providing space-based intelligence in support of U.S. military capabilities",
+          "It has supported worldwide disaster relief operations, such as those caused by the earthquake in Haiti and Hurricane Katrina in New Orleans"
+        ]
+      },
+      {
+        "point_number": 14,
+        "point_content": "NRO needs to lead the discussion on space privatization and make its findings public to inform the American public.",
+        "spans": [
+          "NRO needs to do some soul-searching and lead the discussion on space privatization within the intelligence community",
+          "Then it needs to make all of those findings public, as much as it can"
+        ]
+      }
+    ],
+    "clueweb22-en0018-94-17640": [
+      {
+        "point_number": 1,
+        "point_content": "James Cameron supports privatized space exploration, suggesting that the president's anemic NASA budget will clear the way for competitive market forces to jump-start the industry.",
+        "spans": [
+          "James Cameron painted a rosy picture of privatized space exploration, suggesting that the president's anemic NASA budget will clear the way for competitive market forces to jump-start the industry."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Some praise Obama's plan to divert national funding to private aeronautics companies, but not everyone supports deprioritizing NASA.",
+        "spans": [
+          "others have come forward to praise Obama's plan to divert national funding to private aeronautics companies",
+          "not everyone is thrilled to see NASA become such a low priority for the government"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Charles Krauthammer worries that the U.S. will fall behind other nations in space if NASA is deprioritized and privatization takes a long time to develop.",
+        "spans": [
+          "Charles Krauthammer is dismayed at the thought of the U.S. falling behind other nations",
+          "Sure, decades from now there will be a robust private space-travel industry. But that is a long time. In the interim, space will be owned by Russia and then China."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "John Logsdon argues that NASA's human spaceflight missions provide intangible but substantial benefits like international prestige and national pride, best produced by federal initiatives.",
+        "spans": [
+          "John Logsdon argues that \"the principal benefits from human spaceflight are intangible, but nevertheless substantial.\"",
+          "The moon missions of the '60s instilled in Americans a sense of \"international prestige and national pride,\" something Logsdon thinks is best produced by initiatives at the federal level."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Esther Dyson supports a combination of public funds and private development, citing the Internet's development as an example where private investment made technology a vibrant public resource.",
+        "spans": [
+          "Esther Dyson thinks Obama's proposed marriage of public funds with private development resources is for the best.",
+          "The U.S. Defense Department may have created the Internet, but had it kept control of the technology, it's unlikely the Web would have become the vibrant public resource it is today. That credit goes to the investment and activity of private citizens and private companies, starting in the late 1980s and early 1990s."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "James Bacchus notes that the president's vision for a private space industry aligns with free private enterprise, not socialism.",
+        "spans": [
+          "James Bacchus dryly points out that the president's vision for a private space industry doesn't square with one of the most common criticisms leveled at him.",
+          "He wants to stake the future of much of the U.S. manned space program on the success of free private enterprise."
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "question": "what were some of the legal and political effects of the dred scott decision?",
+  "key_points": {
+    "clueweb22-en0013-85-18797": [
+      {
+        "point_number": 1,
+        "point_content": "The U.S. Supreme Court’s ruling in the Dred Scott case struck down the Missouri Compromise as unconstitutional, maintaining that Congress had no power to forbid or abolish slavery in the territories.",
+        "spans": [
+          "The U.S. Supreme Court’s ruling in the Dred Scott case struck down the Missouri Compromise as unconstitutional, maintaining that Congress had no power to forbid or abolish slavery in the territories."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The doctrine of popular sovereignty as articulated in the Kansas-Nebraska Act was invalidated by the ruling.",
+        "spans": [
+          "The doctrine of popular sovereignty as articulated in the Kansas-Nebraska Act (1854)—whereby the people of each federal territory would have the power to decide whether the territory would enter the Union as a free or a slave state—was also invalidated by the ruling."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Chief Justice Roger B. Taney declared African Americans were not and could never be citizens of the United States.",
+        "spans": [
+          "The opinion of Chief Justice Roger B. Taney further declared African Americans were not and could never be citizens of the United States."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The Supreme Court’s denial of Scott’s plea became a violently divisive issue in national politics, provoking outrage in the antislavery North and celebration in the South, increasing tensions and pushing the country closer toward the Civil War.",
+        "spans": [
+          "The Supreme Court’s denial of Scott’s plea immediately became a violently divisive issue in national politics. It provoked outrage in the antislavery North. At the same time the ruling was celebrated in the South.",
+          "The Dred Scott decision thus increased tensions and pushed the country closer toward the outbreak of the American Civil War (1861–65)."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The decision destroyed the reputation of Chief Justice Taney, who was denounced and vilified in the North for the proslavery decision and his demeaning comments about African Americans.",
+        "spans": [
+          "The decision also brought about the destruction of the reputation of Chief Justice Taney, who is remembered now almost solely for the blatantly proslavery decision he wrote and for his demeaning comments about African Americans.",
+          "When Taney died in 1864, he was roundly denounced and vilified in the North, with Republican Senator Charles Sumner of Massachusetts predicting that “the name of Taney is to be hooted down the page of history.”"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Many Northern courts and politicians rejected the Dred Scott decision as binding and enacted legislation freeing slaves passing within their borders.",
+        "spans": [
+          "Despite the ruling, many Northern courts and politicians rejected the Dred Scott decision as binding.",
+          "In several states legislatures resolved to prohibit slavery in any form from crossing onto their soil and enacted legislation freeing slaves passing within their borders."
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0018-58-02149": [
+      {
+        "point_number": 1,
+        "point_content": "The Supreme Court's decision incensed abolitionists, gave momentum to the anti-slavery movement and served as a stepping stone to the Civil War.",
+        "spans": [
+          "The case persisted through several courts and ultimately reached the U.S. Supreme Court, whose decision incensed abolitionists, gave momentum to the anti-slavery movement and served as a stepping stone to the Civil War."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The Supreme Court ruled that all people of African descent, free or enslaved, were not United States citizens and therefore had no right to sue in federal court.",
+        "spans": [
+          "Taney became best known for writing the final majority opinion in Dred Scott v. Sandford, which said that all people of African descent, free or enslaved, were not United States citizens and therefore had no right to sue in federal court."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The decision argued that the Missouri Compromise legislation was unconstitutional, meaning Congress had no power to prevent the spread of slavery.",
+        "spans": [
+          "The decision also argued that the Missouri Compromise legislation — passed to balance the power between slave and non-slave states — was unconstitutional. In effect, this meant that Congress had no power to prevent the spread of slavery."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The Dred Scott Decision outraged abolitionists and increased the divide between North and South over slavery, culminating in the secession of southern states and the creation of the Confederate States of America.",
+        "spans": [
+          "The Dred Scott Decision outraged abolitionists, who saw the Supreme Court’s ruling as a way to stop debate about slavery in the territories. The divide between North and South over slavery grew and culminated in the secession of southern states from the Union and the creation of the Confederate States of America."
+        ]
+      }
+    ],
+    "clueweb22-en0018-50-13323": [
+      {
+        "point_number": 1,
+        "point_content": "The Dred Scott decision led to the economic Panic of 1857 and an economic depression because people feared the West would become a disaster area like Kansas and slavery could exist in previously free areas.",
+        "spans": [
+          "One of the immediate effects of the decision was the economic Panic of 1857.",
+          "Many people were afraid that the entire West would turn into a disaster area like Kansas because the 36'30' line was ineffective and slavery could preside in previously free areas.",
+          "This led to an economic depression because nobody wanted to travel westward."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The decision empowered political parties: Democrats were happy to eradicate the 36'30' line, while Northerners and Republicans were outraged and fearful, strengthening the Republican Party.",
+        "spans": [
+          "The political parties of the time were empowered by the decision.",
+          "The Democrats were overjoyed.",
+          "They successfully eradicated the 36'30' line that they hated.",
+          "The Northerners and Republicans thought differently.",
+          "They were outraged, and fearful that their fight to abolish slavery would come to a halt.",
+          "The Dred Scott decision strengthened the opinion of the Republican Party, and they elected Abraham Lincoln three years later."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The decision escalated tensions between North and South, leading to South Carolina's secession and the start of the Civil War.",
+        "spans": [
+          "The same year Lincoln became president, South Carolina seceded from the Union.",
+          "The war was about to begin...",
+          "This escalated tensions in the nation.",
+          "The decision drove the Republicans to elect Abraham Lincoln three years later, and his goal was to preserve the Union.",
+          "However, the tension was so high at that point that South Carolina seceded the same year.",
+          "The Civil War started a year later.",
+          "This shows that the tensions caused by the Dred Scott case caused the Civil War."
+        ]
+      }
+    ]
+  }
+}

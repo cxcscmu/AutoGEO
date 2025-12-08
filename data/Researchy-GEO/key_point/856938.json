@@ -1,0 +1,665 @@
+{
+  "question": "how nursing homes deal with elderly people mental health after covid",
+  "key_points": {
+    "clueweb22-en0017-53-09543": [
+      {
+        "point_number": 1,
+        "point_content": "The pandemic has exacerbated symptoms of anxiety and depression among long-term care facility residents due to isolation and fear of contracting COVID-19.",
+        "spans": [
+          "the effect of the pandemic on exacerbating symptoms of anxiety and depression among long-term care facility residents following the implementation of visitor restriction guidelines",
+          "Residents at that time were reporting an increase in anxiety related to the fear of contracting COVID, anxiety related to witnessing other residents and staff contract COVID, and some contracting COVID themselves and having to isolate",
+          "depressive symptoms have also increased"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "There is a shortage of mental health professionals in long-term care facilities, which has been worsened by the pandemic and facility restrictions.",
+        "spans": [
+          "Before the pandemic, we had a shortage of mental health professionals working in long-term settings",
+          "During the pandemic, this issue has been magnified in that many mental health needs are going unmet",
+          "Psychologists and other mental health professionals have experienced difficulty accessing their patients at the time due to outbreaks in long-term care",
+          "many facilities have been unable to reliably do so resulting in a significant disruption in mental health services for many residents"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Mental health services in nursing homes are often provided by psychiatric consultants on an as-needed basis, which is inadequate to address residents' mental health needs.",
+        "spans": [
+          "psychiatric services were commonly provided by psychiatric consultants who were not members of the nursing home staff, despite recognition by clinicians and administrators that these “as-needed” consultants were not adequate to address the mental health needs of residents"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "A multidisciplinary team approach combined with a 'train the trainer' nurse specialist model is the preferred and effective model for mental health services in nursing homes.",
+        "spans": [
+          "a multidisciplinary team approach, in conjunction with a “train the trainer” nurse specialist model (in which nurse training focused on identifying and addressing mental health needs in nursing home residents), was the preferred model",
+          "The train the trainer model was further linked to improved staff knowledge and performance as well as decreased staff turnover"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "There is a federal mandate to reduce the use of psychiatric medications in nursing homes, which can limit continuity of care for residents who benefit from these medications.",
+        "spans": [
+          "There is a federal mandate to reduce the use of psychiatric medications, anti-psychotic medications in particular",
+          "current regulations incentivize nursing homes to not use these agents even in situations where patients are doing well on them and continuity of care is needed"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Integrated, multidisciplinary teams and improved education of nursing home staff on mental health challenges are needed to adequately care for the mental health of older adults.",
+        "spans": [
+          "a holistic approach utilizing integrated teams is needed to adequately care for the mental health of older adults",
+          "Improving the education of nursing home staff on mental health challenges is also crucial"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Programs like Project ECHO provide virtual educational programs to support nursing home staff in addressing mental health needs, including pandemic-related social isolation issues.",
+        "spans": [
+          "Among the scalable models of education being implemented is an educational nursing home program through Project ECHO",
+          "Project ECHO (Extension for Community Healthcare Outcomes) provides virtual educational programs to underserved and remote areas through telementoring by expert teams"
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Grief due to COVID-19 deaths in long-term care facilities is a significant mental health issue for residents and staff, requiring specific coping strategies and support.",
+        "spans": [
+          "Grief, over the many losses associated with aging, losing loved ones, and nearing one’s own death, is a common experience among older adults",
+          "Calling deaths from COVID-19 in long-term facilities a “tsunami of loss” for residents and staff",
+          "To help both residents and staff of nursing homes grapple with grief, Dr. Miles developed two toolkits – one for staff and one for residents – that offer best practices in coping with death"
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Staff in long-term care facilities face mental health challenges such as compassion fatigue, burnout, anxiety, and depression, which need to be addressed.",
+        "spans": [
+          "Staff who care for residents in long-term care facilities also need to manage their own mental health needs, particularly during the ongoing stress of the pandemic",
+          "Compassion fatigue and burnout are particularly challenging given the impact on staff of seeing so many people getting sick and dying",
+          "Along with fearing for their own health, staff also face anxiety and depression"
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Better measures including hiring, training, and integration of care teams are needed now to address the ongoing mental health needs of older adults in long-term care facilities.",
+        "spans": [
+          "Better measures are needed now to address the ongoing mental health needs of older needs, starting with hiring, training, and the integration of care teams",
+          "By bringing together behavioral and medical treatments, the quality of life for these already vulnerable seniors may be salvaged"
+        ]
+      }
+    ],
+    "clueweb22-en0035-37-13331": [
+      {
+        "point_number": 1,
+        "point_content": "Care homes are where people live and socialise, and staff provide personal care in close contact, which led to quick virus spread.",
+        "spans": [
+          "care homes are above all where people live, not like a hospital. Residents and staff are used to socialising and doing activities together. Providing personal care means that staff have to be in close contact with several residents over a day. All of this close interaction means that the virus spread quickly within the home, even when measures were put in place to help stop this."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "People with dementia in care homes were affected by coronavirus with worsening symptoms, decline in mental and physical health, fear, confusion, and stress.",
+        "spans": [
+          "The ways in which people with dementia have been affected by coronavirus include: deaths from COVID-19 and a higher number from causes not directly related to coronavirus (for example, dementia and diseases of the heart and blood vessels) grief for other residents (close friends) who have died worsening symptoms decline in mental and physical health fear and confusion about their own wellbeing picking up on stress and anxiety in care home staff feeling unsettled because the faces of familiar staff members are hidden by masks struggling to understand or comply with new restrictions within the home impacted by friends and family not being able to visit and not always understanding why."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Reduced social contact and suspended support services had a devastating impact on people affected by dementia after the pandemic.",
+        "spans": [
+          "People affected by dementia are facing the long-lasting effects of the pandemic. Reduced social contact and suspended support services had a devastating impact."
+        ]
+      }
+    ],
+    "clueweb22-en0005-56-14866": [
+      {
+        "point_number": 1,
+        "point_content": "Older adults were reluctant to contact healthcare services due to fear and messages like 'Save the NHS, don’t contact your practice.'",
+        "spans": [
+          "‘Save the NHS, don’t contact your practice.’",
+          "‘Actually, I think you need to be seen,’ they’d say, “I’m not coming in.’ There was a lot of fear, particularly in the older population."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "There has been an increase in older adults experiencing anxiety, depression, and distress during the COVID-19 lockdown, with many managed via telephone consultations.",
+        "spans": [
+          "People dealing with anxiety and depression have talked about a downturn in their mood.",
+          "We have had new cases – people without depression in the past or certainly not recent past, who are talking about anxiety, talking about stress and being depressed and down, and we’re managing most of those on the telephone.",
+          "in the past month, all my colleagues have noted increasing numbers of people consulting because they are distressed."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Older people feel fearful and stigmatised by being labelled 'vulnerable' and worry about safety in public places and hospitals.",
+        "spans": [
+          "I think being labelled ‘vulnerable’ was difficult for some people – that’s quite stigmatising and made them quite fearful.",
+          "‘I’m frightened of going to hospital. I’d rather wait a bit.’",
+          "‘Well, I’m frightened of getting COVID: is the hospital safe?’"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Advice to older adults includes maintaining safety measures, staying connected via phone or video calls, and doing physical and mindfulness exercises at home.",
+        "spans": [
+          "Try and keep safe, so remember to wash your hands, keep your physical distance, wear a mask or a face covering.",
+          "Stay connected to people.",
+          "Even if you’re not able to get out of the house, try and be active in the house: do your stairs, go out in the garden if you’ve got a garden, do some armchair exercises.",
+          "I try and talk to people about breathing exercises, and encourage them to try them, as well as mindfulness exercises."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Telephone consultations are used extensively, with longer calls and more frequent follow-ups to support older adults' mental health.",
+        "spans": [
+          "telephone calls can take longer than a face-to-face consultation",
+          "we are offering follow-up more frequently, when we are aware people are distressed"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Healthcare providers listen for signs of depression, anxiety, sleep issues, eating changes, and thoughts of self-harm during consultations.",
+        "spans": [
+          "I’d be asking them questions about how they feel, what they think their mood’s been like, what have other people said about their mood.",
+          "Have they felt irritable? How are they sleeping? Are they sleeping too much or are they sleeping too little? Do they worry? Do they feel stressed? Are they eating? Are they over-eating? Do they have thoughts that they might harm themselves? Do they have any plans that they might harm themselves?"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Talking therapies and social prescribing are suggested as helpful interventions for older adults experiencing mental health issues.",
+        "spans": [
+          "I will suggest to people that they might wish to be referred to our social prescribing scheme, or to the ‘Improving Access to Psychological Therapies” service.",
+          "I try to emphasise that a ‘talking therapy’ might be helpful for them."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Behavioural activation, such as keeping a diary of pleasurable activities, is used to help older adults improve their mood.",
+        "spans": [
+          "I use a technique called behavioural activation, which is saying to people, ‘Why don’t you keep a diary’, because we know that if you do pleasurable things, that can make you feel better."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Carers have experienced reduced support during lockdown, increasing their burden and affecting their mental health.",
+        "spans": [
+          "carers have perhaps been neglected, because a lot of their support has been withdrawn with the restriction of services.",
+          "It’s fallen on carers to pick up the pieces."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Older people are reassured that healthcare practices are open and encouraged to seek help without fear of being a burden.",
+        "spans": [
+          "I would want to reassure people that practices are open.",
+          "Please don't worry that you are being a burden on the NHS – if you have a worry, do look at NHS 111, talk to your pharmacist or contact your practice."
+        ]
+      }
+    ],
+    "clueweb22-en0011-75-17311": [
+      {
+        "point_number": 1,
+        "point_content": "Mental health conditions in older adults can be exacerbated by the stress and uncertainty of COVID-19, requiring clinical treatment and social support.",
+        "spans": [
+          "Mental health conditions. Often undiagnosed, mental health conditions (either previous or current) can have their first onset in later adulthood. Depression and severe anxiety are not a normal part of aging, and can be addressed with clinical treatment and social support. The stress of COVID-19, the uncertainty it creates, and the potential for older adults to be more susceptible to the virus, can exacerbate any underlying risk for depression or anxiety."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Social isolation due to social distancing can diminish older adults' usual social support and contacts, increasing loneliness and disconnection.",
+        "spans": [
+          "Social isolation, feeling lonely or disconnected. Any regular contact with family, neighbors, clubs, faith communities, and social services (such as meal delivery or home care personnel) can serve as important points of contact. These can be a lifeline for social connection. Social distancing can create further isolation, and the current crisis is affecting almost everyone’s routines, mass transportation, and some “non-essential” social services. This means that the usual social support and contacts older adults have with others may be diminished."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Nursing homes and caregivers should regularly check in on older adults, using calls or video chats, and encourage them to maintain activities that help them cope with stress.",
+        "spans": [
+          "Everyone has a role to play in supporting older adults during the COVID outbreak. Here are some things you can do: Regularly check in on your older adult friends, neighbors and family members. Call or video-chat with them, since texting and social media may not be the best method of connecting. Ask how they are doing during this period of time, how their routines might have had to change, and what kinds of things they are doing to cope with the stress. Encourage them to keep doing the activities that are allowable during COVID for their local area, and that they identify as being most helpful for them, such as daily exercise or a walk, stretching, listening to or playing music, reading, enjoying favorite or humorous shows, puzzles, games, social activities, and meditation or prayer."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Help older adults seek medical advice or care if they show symptoms of physical or mental health decline.",
+        "spans": [
+          "Help them seek medical advice or care if they are experiencing symptoms of physical or mental health decline."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Offer practical support such as bringing meals, running errands, or walking their dog, if allowed, to help older adults during COVID-19.",
+        "spans": [
+          "Offer to bring them a meal, run an errand, or walk their dog, if your town allows for these activities."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Regular communication and expressing support and appreciation are crucial in caring for older adults' mental health during the pandemic.",
+        "spans": [
+          "Most importantly, simply communicate regularly with the older adults in your life, and express support. Let them know you’re there for them and that you care. Make sure they know you are grateful they’re part of your life."
+        ]
+      }
+    ],
+    "clueweb22-en0014-16-07364": [
+      {
+        "point_number": 1,
+        "point_content": "Few older adults seek help from a mental health professional despite experiencing a decline in emotional well-being.",
+        "spans": [
+          "few seek help from a mental health professional",
+          "only one in eight says they have sought help from a mental health professional"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Older adults may not associate emotional well-being decline with the term 'mental health', leading to a disconnect in seeking help.",
+        "spans": [
+          "This disconnect between experiencing a decline in emotional well-being and the likelihood of seeking help from a mental health provider may suggest that older adults don't associate emotional well-being with the term “mental health.”"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Access to mental health treatment must be easy, seamless, and normalized to combat hesitation among older adults.",
+        "spans": [
+          "access to mental health treatment must  be easy, seamless, and normalized"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Ensuring mental health and emotional well-being are addressed during all medical visits is an invaluable step toward comprehensive care for older adults.",
+        "spans": [
+          "Ensuring that mental health and emotional well-being are addressed during all medical visits is an invaluable step toward ensuring older adults receive comprehensive care."
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0009-47-16969": [
+      {
+        "point_number": 1,
+        "point_content": "Facilities are limiting visitors, allowing only essential staff and some exceptions for compassionate care or behavioral needs.",
+        "spans": [
+          "Pretty much across the board, facilities are limiting visitors.",
+          "For the most part, the only people who should be going into nursing homes and assisted living facilities at this point are essential staff.",
+          "There are a few exceptions to that, such as in the case of compassionate care.",
+          "If someone is not expected to live many more days or weeks, a family member may be permitted to visit.",
+          "Also, for some people who have behavioral manifestations of dementia, for example, it may be necessary to permit a familiar one-on-one caregiver to be with that person."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Facilities are providing meals in individual rooms and have canceled group activities to prevent virus spread.",
+        "spans": [
+          "In addition, facilities are providing meals to residents in their individual rooms rather than in group settings, and have canceled group activities."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Older people may experience anxiety or depression due to social isolation during social distancing, requiring creative ways to provide human interaction.",
+        "spans": [
+          "Older people may experience anxiety or even depression due to social isolation during this time of social distancing.",
+          "We need to be creative in safely providing opportunities for human interaction."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Friends and family should consider contacting isolated older people by phone, and volunteers can support residents or families through calls or other remote opportunities.",
+        "spans": [
+          "Friends and family should consider contacting older people who may be isolated by making a friendly phone call.",
+          "People can also think about contacting a local nursing home or assisted living residence and offering to make telephone calls to residents or their family members to provide support during this difficult time.",
+          "There are also a lot of meaningful (including remote) volunteer opportunities available right now through Meals on Wheels, local departments of health, area agencies on aging, nursing facilities, and other organizations that support older people."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "There is increased risk of elder mistreatment, neglect, and self-neglect during this time, and concerns should be reported to Adult Protective Services.",
+        "spans": [
+          "In addition to social isolation and loneliness, we're always concerned about elder mistreatment, neglect, and self-neglect.",
+          "There is an increased risk for those issues right now.",
+          "If older people, their loved ones, or others have concerns about any of these issues, they can contact their local Adult Protective Services Agency for support.",
+          "It's OK to report suspected mistreatment even if you don't know for sure that it's happening."
+        ]
+      }
+    ],
+    "clueweb22-en0012-27-14041": [
+      {
+        "point_number": 1,
+        "point_content": "Nursing home residents face increased loneliness and stress due to COVID-19 restrictions limiting organized activities and visits from friends and family.",
+        "spans": [
+          "Many of the 1.3 million residents in U.S. nursing homes are already at risk for loneliness, which research shows can undermine their physical and mental health.",
+          "Now, during the COVID-19 pandemic, these vulnerable adults are facing even more stress due to fears about contracting the virus — and those fears are exacerbated now that the support they typically rely on, like organized activities and visits from friends and family, are no longer available."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Psychologists are applying research insights and providing resources to improve residents' mental health during the pandemic.",
+        "spans": [
+          "To improve residents’ mental health during this traumatizing time, psychologists are applying their research insights about aging adults and providing resources for residents, families and staff."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Psychologists encourage facilities to identify residents most affected by COVID-19 for targeted psychological support due to high trauma levels.",
+        "spans": [
+          "Barbera says psychologists have a responsibility to encourage facilities to flag residents most seriously affected by the virus so they can receive the care they need.",
+          "There’s an enormous amount of high-level trauma going on."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Family separation due to COVID-19 causes profound loss and grief beyond isolation for nursing home residents.",
+        "spans": [
+          "Psychologist Karen Fingerman, PhD , a professor of human development and family sciences at the University of Texas at Austin, says the kind of family separation COVID-19 is causing isn’t just breeding loneliness, it can instigate grief for residents separated from children or spouses.",
+          "“Being separated from someone you love goes beyond isolation; it’s a loss of something that can’t be substituted,” she says. “The loss of connection is pretty profound.”"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Psychologists and families use creative communication methods like cards, photos, calls to maintain connection and reduce isolation.",
+        "spans": [
+          "Psychologist Lisa Brown, PhD, ABPP , a professor of psychology at Palo Alto University who researches trauma, stress and aging, encourages psychologists to brainstorm with residents’ loved ones to identify ways to connect when face-to-face options are not possible for the foreseeable future.",
+          "She regularly sends cards, old family photos and inexpensive gifts to her father, who lives in an independent senior living community.",
+          "She also calls him a few times a day and encourages her siblings to do the same, so that he has ongoing communication with loved ones."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Mental health care access in nursing homes is limited; telehealth and in-person visits with PPE are used to provide psychological support.",
+        "spans": [
+          "Even though residents are grappling with increased stress, mental health care isn’t always available in nursing homes.",
+          "By using telehealth — or doing in-person visits wearing appropriate personal protection equipment — psychologists can focus on stress reduction, normalizing emotional symptoms and whenever possible, connecting residents with loved ones, says Barbera."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Telepsychology must consider older adults' ability to use technology; audio-only phone services are now covered by Medicare during the pandemic.",
+        "spans": [
+          "If psychologists use telepsychology for nursing home residents, they need to be sure that older adults are not overwhelmed or unable to use it, notes Lisa Lind, PhD, chief of quality assurance at Deer Oaks, a behavioral health provider focused on providing psychological and psychiatric services in long-term care across the U.S.",
+          "As of April 30, the Centers for Medicare and Medicaid Services expanded Medicare coverage for audio-only phone services during the pandemic."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Psychologists need to identify subtle signs of anxiety and depression in residents, as quarantine behaviors may mask symptoms.",
+        "spans": [
+          "It’s also important for psychologists to be vigilant about looking for more subtle signs of anxiety and depression in residents, working with staff to identify potential negative effects of the pandemic and determining the appropriate screening tools, says Lind.",
+          "“For depression, we normally look for isolation or withdrawal as symptoms, but since residents are quarantined and exhibiting these behaviors on a daily basis, mental health providers need to look for signs like increased negative thinking or worrisome thoughts,” she says."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Psychologists should proactively reach out to residents with trauma history or those struggling with isolation or routine changes.",
+        "spans": [
+          "Since facilities may not have the resources to flag patients who need psychological care, psychologists may also want to reach out to patients, both those with a history of trauma and mental illness and those who may simply be struggling with isolation or changes in routines."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Psychologists support nursing home staff by promoting self-care, stress management, and compassionate care training.",
+        "spans": [
+          "Beyond supporting residents and their families, Barbera says psychologists have a unique opportunity to support nursing home staff, who are stretched thin caring for residents.",
+          "The first course of action, she says, is for mental health practitioners to help them address self-care and stress management so they can continue providing necessary care for residents.",
+          "When possible, psychologists should also offer best practices for compassionate care and de-escalation to nursing home staff, who may not be trained in these skills."
+        ]
+      }
+    ],
+    "clueweb22-en0009-26-14611": [
+      {
+        "point_number": 1,
+        "point_content": "Caregivers and care recipients should discuss their preparation plans, including how to stay in touch via phone or email.",
+        "spans": [
+          "Develop intentional caregiver plans. Older adults may be caregivers or may receive care themselves. Caregivers and care recipients should discuss their preparation plans, including how to stay in touch via phone or email."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Determine who can provide you with care if your caregiver gets sick.",
+        "spans": [
+          "Determine who can provide you with care if your caregiver gets sick."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Caregivers and their care recipients will need to work together to make sure they do not expose each other to Covid-19 in the event it has emerged in their community or if either is already showing symptoms.",
+        "spans": [
+          "Caregivers and their care recipients will need to work together to make sure they do not expose each other to Covid-19 in the event it has emerged in their community or if either is already showing symptoms."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "If you are a caregiver for someone living in a care facility, monitor the situation, ask about the health of the other residents frequently, and know the plan if there is an outbreak.",
+        "spans": [
+          "If you are a caregiver for someone living in a care facility, monitor the situation, ask about the health of the other residents frequently, and know the plan if there is an outbreak."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Maintain a healthy lifestyle, which includes engaging in moderate exercise, keeping a healthy diet and getting regular sleep to support a strong mind and body.",
+        "spans": [
+          "it’s always important to remember your health basics for a strong mind and body: maintain a healthy lifestyle, which includes engaging in moderate exercise, keeping a healthy diet and getting regular sleep."
+        ]
+      }
+    ],
+    "clueweb22-en0037-64-02532": [
+      {
+        "point_number": 1,
+        "point_content": "Many seniors are self-quarantining in assisted living homes, nursing homes, or their own living spaces to remain physically safe, but this can greatly affect their mental and emotional health.",
+        "spans": [
+          "For health reasons, many seniors are self-quarantining — either in assisted living homes, nursing homes, or their own living spaces.",
+          "While these practices are vital for keeping the person physically safe, the individual’s mental and emotional health can suffer greatly."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Seniors are at risk of loneliness and isolation, which can worsen mental health during COVID-19 due to social distancing and quarantine measures.",
+        "spans": [
+          "Seniors are already at risk for feeling lonely and isolated.",
+          "The COVID-19 situation only compounds this risk."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Social distancing, self-quarantine, and isolation are necessary to protect seniors from COVID-19 but contribute to mental health challenges.",
+        "spans": [
+          "In the majority of U.S. cities, everyone must socially distance, staying a minimum of six feet away from people they don’t live with.",
+          "Self-quarantine",
+          "Isolation"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Telemedicine and teletherapy services have become important tools for seniors to access medical and mental health care during the pandemic.",
+        "spans": [
+          "In the past several years, more telemedicine options have become available to the general public.",
+          "Telepharmacology and telepathology have existed for decades, allowing doctors to diagnose certain conditions and provide prescription treatments for them.",
+          "In the past few years, teletherapy practices are also allowing greater access to therapists and social workers, which improves mental health for patients.",
+          "Many hospitals, doctors’ offices, and insurance providers offer some level of telehealth services already.",
+          "Seniors with Medicare can use telehealth services to talk to doctors and nurses within minutes of having a question.",
+          "Medicare Part B covers certain telehealth services.",
+          "The federal government has instituted more telemedicine options for medical professionals as of March 6, 2020."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Using technology such as video calls, phone calls, and apps helps seniors stay connected with family and friends to reduce loneliness.",
+        "spans": [
+          "Although having people over to physically socialize is risky and not recommended, technology allows an unprecedented amount of communication with the outside world.",
+          "There are several programs that allow seniors to talk to friends and family through a computer, tablet, or phone.",
+          "Regular communication with loved ones is important to overall health.",
+          "Since seniors are advised to maintain the highest levels of social distancing due to COVID-19, make sure you are visiting with friends and family regularly via other means of communication."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Maintaining physical activity, nutrition, and hobbies can help seniors manage their physical and mental health during the pandemic.",
+        "spans": [
+          "Physical activity",
+          "Nutrition",
+          "Hobbies and activities"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Budgeting and understanding financial resources, including government programs like Medicare and Social Security, can help reduce financial stress for seniors.",
+        "spans": [
+          "Budgeting is important, but access to programs like Medicare can ease financial worries around health care.",
+          "These programs can answer COVID-19 questions, provide access for accurate diagnoses, and offer therapy to manage mental strain and illness.",
+          "You can use telemedicine through Medicare to get referrals for online therapy, if needed."
+        ]
+      }
+    ],
+    "clueweb22-en0044-77-10413": [
+      {
+        "point_number": 1,
+        "point_content": "Black and Hispanic communities of color have faced challenges accessing mental health care and have been disproportionately affected by COVID-19, including in nursing homes.",
+        "spans": [
+          "The pandemic has disproportionately affected the health of communities of color.",
+          "Historically, these communities of color have faced challenges accessing mental health care.",
+          "Black and Hispanic adults have been more likely than White adults to report symptoms of anxiety and/or depressive disorder during the pandemic.",
+          "This disparate mental health impact comes in addition to Black and Hispanic communities experiencing disproportionately high rates of coronavirus cases and deaths (overall as well as among health care workers and in nursing homes )"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Essential workers, including health care providers, have experienced high rates of poor mental health outcomes during the pandemic.",
+        "spans": [
+          "Essential workers during the COVID-19 pandemic, such as health care providers, grocery store employees, and mail and package delivery personnel, have shown high rates of poor mental health outcomes.",
+          "During the pandemic, frontline health care workers have reported feelings of anxiety and depression and thoughts of suicide."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The pandemic has increased mental health challenges among older adults, who are vulnerable to severe illness from COVID-19.",
+        "spans": [
+          "Older adults are also more vulnerable to severe illness from coronavirus and have experienced increased levels of anxiety and depression during the pandemic."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The pandemic has led to increased mental health issues such as anxiety, depression, substance use, and suicidal thoughts among various populations, including young adults, parents, and essential workers.",
+        "spans": [
+          "During the pandemic, about 4 in 10 adults in the U.S. have reported symptoms of anxiety or depressive disorder.",
+          "Young adults have experienced a number of pandemic-related consequences, such as closures of universities and loss of income, that may contribute to poor mental health.",
+          "Women with children are more likely to report symptoms of anxiety and/or depressive disorder than men with children (49% vs. 40%).",
+          "Essential workers are more likely to report symptoms of anxiety or depressive disorder (42% vs. 30%), starting or increasing substance use (25% vs. 11%), and suicidal thoughts (22% vs. 8%) during the pandemic."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Mental health and substance use services have been expanded through federal funding and telehealth during the pandemic.",
+        "spans": [
+          "Congress has addressed some of the acute need for mental health and substance use services through two stimulus bills enacted during the pandemic.",
+          "The Consolidated Appropriations Act, which was signed into law in December 2020, includes about $4.25 billion in funding for mental health and substance use services.",
+          "The Coronavirus Aid, Relief, and Economic Security Act (CARES Act ), a stimulus bill passed in March 2020, also allocated funding for mental health and substance use services, including a $425 million appropriation for use by SAMHSA.",
+          "Other efforts to address mental health needs include substantial increases in the use of telehealth for mental health services, aided early on by the federal government and many states expanding coverage and relaxing regulations for telehealth services."
+        ]
+      }
+    ],
+    "clueweb22-en0004-82-11584": [
+      {
+        "point_number": 1,
+        "point_content": "Nurses routinely ask patients their name and location to monitor post-ICU disorientation and emotional changes.",
+        "spans": [
+          "Nurses would routinely ask his name and if he knew where he was."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Patients discharged to rehabilitation hospitals for recovery from Covid-19 related neurological and physical impairments.",
+        "spans": [
+          "He was discharged to Spaulding Rehabilitation Hospital in nearby Charlestown, Mass., where he spent the balance of his 51-day hospitalization"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Rehabilitation includes physical recovery such as learning to walk again and regaining strength after Covid-19.",
+        "spans": [
+          "From his early days in rehab, when sitting up in bed was exhausting, to learning how to walk again with a walker, to finally going home to Waltham, Mass., Bonfiglio lost 40 pounds — “all muscle.” He’s regained some of his strength, and weight, now."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Isolation from family during ICU stay worsens mental health problems like PTSD, anxiety, and depression.",
+        "spans": [
+          "And then they’re getting isolated. When they’re isolated and away from family, it makes it worse, Ely said. Later, they’re having either post-traumatic stress disorder, anxiety disorder, depression, or cognitive impairment, and some combination of all of that."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Hospitals should open back up to families to help with mental health recovery of Covid-19 patients.",
+        "spans": [
+          "We can open the hospitals back up to the families. That’s important, he said."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Families should be informed about potential mental health problems post-Covid-19 to prepare and support patients.",
+        "spans": [
+          "We can be aware of these problems and tell the families about them so that the families will know that this is coming."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Counseling and psychological help should be provided to patients recovering from Covid-19 to address mental health issues.",
+        "spans": [
+          "And we can do counseling and psychological help on the back end."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Rehabilitation centers are conducting longitudinal studies to identify factors affecting recovery and to develop early interventions.",
+        "spans": [
+          "We’re trying to follow people long term and do a longitudinal study to see what are the comorbid factors, he said. What are the characteristics of people who don’t get back to normal? How can early intervention try to deal with that?"
+        ]
+      }
+    ],
+    "clueweb22-en0041-74-00669": [
+      {
+        "point_number": 1,
+        "point_content": "Many older families living with dementia or other significant illness during COVID-19 have been hit especially hard with closures of adult day programs, reduction of services, and physical distancing.",
+        "spans": [
+          "many older families living with dementia or other significant illness during COVID-19 have been hit especially hard with closures of adult day programs, reduction of services, and physical distancing"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "When people with dementia become disoriented, the presence of family and friends, which is well-known to benefit people experiencing disorientation, is limited, and with masks blocking our facial expressions, it's harder to reassure and soothe people who desperately need comfort and reorientation.",
+        "spans": [
+          "when people with dementia become disoriented, the presence of family and friends, which is well-known to benefit people experiencing disorientation, is limited, and with masks blocking our facial expressions, it's harder to reassure and soothe people who desperately need comfort and reorientation"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Older adults have been, by and large, psychologically quite resilient during the pandemic.",
+        "spans": [
+          "older adults have been, by and large, psychologically quite resilient during the pandemic"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Older adults tend to be really good at coping.",
+        "spans": [
+          "Older adults tend to be really good at coping"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Older adults with depression and anxiety are proving to be resilient during the COVID-19 Pandemic.",
+        "spans": [
+          "Even older adults with depression and anxiety are proving to be resilient during the COVID-19 Pandemic"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Older adults with depression told researchers that coping with chronic depression taught them to be resilient.",
+        "spans": [
+          "They told us that coping with chronic depression taught them to be resilient"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Older adults were more concerned about the risk of contracting the virus than the risks of isolation, worried their mental health will suffer from continued physical distancing, and were outraged by inadequate government response to the pandemic.",
+        "spans": [
+          "older adults were: More concerned about the risk of contracting the virus than the risks of isolation. Worried their mental health will suffer from continued physical distancing. Outraged by inadequate government response to the pandemic"
+        ]
+      }
+    ]
+  }
+}

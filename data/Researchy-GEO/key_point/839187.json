@@ -1,0 +1,127 @@
+{
+  "question": "how does your society view independence and interdependence?",
+  "key_points": {
+    "clueweb22-en0019-39-12331": [
+      {
+        "point_number": 1,
+        "point_content": "Today's society leans in favor of independence over dependence, perceiving dependence upon another person as a weakness.",
+        "spans": [
+          "today’s society leans in favor of independence over dependence",
+          "People perceive dependence upon another person a weakness"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Gaining independence does not mean dependence should stop; fear of becoming overly dependent has caused an imbalance in independence.",
+        "spans": [
+          "Gaining independence does not mean dependence should stop",
+          "Fear of becoming overly dependent has caused an imbalance in independence"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Independence in the archaic sense means competency, but in modern dictionaries it means freedom from control, which cannot safely or realistically happen.",
+        "spans": [
+          "Independence in the archaic sense of the word means competency",
+          "In modern dictionary’s it mean freedom from control",
+          "Freedom from control cannot safely or realistically happen"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Dependence means to trust and rely on someone, and having faith and trusting another person does not mean they lose their independence.",
+        "spans": [
+          "dependence means “The state or fact of being dependent, esp. for support or help”",
+          "dependence also means to trust and rely on someone",
+          "Having faith and trusting another person does not mean they lose their independence"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Living in a world where everyone values independence challenges people to turn to others for help, and people will always need other people.",
+        "spans": [
+          "Living in a world where everyone values independence challenges people to turn to others for help",
+          "No matter how much people want to believe that maturity means independence from others, people will always need other people"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Independence can help people grow and learn but it can also damage community; many jobs require dependence on others, which can cause problems for people to let go.",
+        "spans": [
+          "Independence can help people grow and learn but it can also damage community",
+          "many jobs require dependence on others",
+          "This can cause problem for people to let go"
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0044-87-01937": [
+      {
+        "point_number": 1,
+        "point_content": "In our society, people tend to be in favour of being more independent rather than dependent, but both dependence and independence need to exist in moderation to create a rounded person.",
+        "spans": [
+          "In today’s society, people tend to be in favour of being more independent rather than dependent.",
+          "Although being overly dependent is not a good thing, both dependence and independence need to exist in moderation in order to create a rounded person."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The healthiest way people should interact in society is by being interdependent, where both individuals maintain their independence and consider each other's well-being.",
+        "spans": [
+          "Hence, the healthiest way that people should interact in the society is by being “interdependent.”",
+          "Interdependence means that the relationship between two individuals does not sacrifice or compromise both person’s values (Goldsmith, 2013).",
+          "Both parties in the relationship are strong persons, and have their own independence.",
+          "At the same time, they can also consider the other person’s well-being and maintain the relationship."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "In some cultures, interdependence is valued more over complete independence, with family members expected to help each other, creating interdependent family relationships.",
+        "spans": [
+          "In the society where my family is from, interdependence is valued more over complete independence.",
+          "Family members are expected to help each other out, hence creating an interdependent family relationship."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Independence can be an asset to an individual by demonstrating strong ability, but society-wise interdependence makes relationships more rounded and sociable.",
+        "spans": [
+          "Independence is more of a supportive role to interdependence in this type of society.",
+          "Being independent can be an asset to an individual by demonstrating his/her strong ability.",
+          "However, society-wise interdependence makes people’s relationships more rounded and more sociable."
+        ]
+      }
+    ],
+    "clueweb22-en0017-97-10491": [],
+    "clueweb22-en0017-34-16453": [
+      {
+        "point_number": 1,
+        "point_content": "Interdependent and independent self-construals refer to different cognitive representations of the self that people may hold.",
+        "spans": [
+          "Interdependent and independent self-construals refer to different cognitive representations of the self that people may hold."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Those with an independent self-construal view internal attributes, such as traits, abilities, values, and attitudes as central to their sense of self.",
+        "spans": [
+          "Those with an independent self-construal view internal attributes, such as traits, abilities, values, and attitudes as central to their sense of self."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Those with an interdependent self-construal, in contrast, view their close relationships, social roles, and group memberships as central to their sense of self.",
+        "spans": [
+          "Those with an interdependent self-construal, in contrast, view their close relationships, social roles, and group memberships as central to their sense of self."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Self-construal refers to how individuals view themselves at a fundamental level; whether they view themselves as primarily separate from or integrally connected to others.",
+        "spans": [
+          "Self-construal refers to how individuals view themselves at a fundamental level; whether they view themselves as primarily separate from or integrally connected to others (Markus and Kitayama 1991 )."
+        ]
+      }
+    ]
+  }
+}

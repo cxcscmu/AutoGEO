@@ -1,0 +1,239 @@
+{
+  "question": "how does manufacturing affect the environment",
+  "key_points": {
+    "clueweb22-en0011-52-18991": [
+      {
+        "point_number": 1,
+        "point_content": "Manufacturing has a large impact on worldwide energy use and resource consumption.",
+        "spans": [
+          "Manufacturing has a large impact on worldwide energy use and resource consumption."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Environmental and social impacts of manufacturing need to be better controlled and reduced.",
+        "spans": [
+          "environmental and social impacts of manufacturing need to be better controlled and reduced."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Sustainability strategies and indicators on the manufacturing process level are needed.",
+        "spans": [
+          "Sustainability strategies and indicators on the manufacturing process level are needed"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Abrasive machining processes impact product performance and their sustainability must be discussed thoroughly.",
+        "spans": [
+          "Abrasive machining processes are impacting the product performance heavily because they are usually performed at the end of process chains. Therefore, the sustainability of abrasive processes has to be discussed thoroughly"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Unit process life cycle inventories (UPLCI) provide a powerful means to describe environmental impacts.",
+        "spans": [
+          "Unit process life cycle inventories (UPLCI) provide a powerful means to describe environmental impacts"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Environmental impact of Product-service Systems (PSS) can be assessed through cumulative energy demand over their lifetime including manufacturing and use phase.",
+        "spans": [
+          "The environmental impact of Product-service Systems (PSS) such as wind turbines and machine tools can be assessed through the cumulative energy demand over their life time including manufacturing and use phase"
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0020-69-18870": [
+      {
+        "point_number": 1,
+        "point_content": "Manufacturing causes pollution including air pollution and water pollution due to toxic waste produced and improper disposal.",
+        "spans": [
+          "Pollution: With more companies getting into manufacturing, the amount of toxic waste that is being produced or what to do with the same have been put on the back burner in more ways than one. As a result, companies often cause both air pollution and water pollution as they process various raw materials in order to manufacture one of their products."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Chemical pollution is a concern due to lax waste disposal by manufacturing companies.",
+        "spans": [
+          "Chemical pollution is something else that we have to be concerned about as most of these companies are quite lax when it comes to disposing of their waste."
+        ]
+      }
+    ],
+    "clueweb22-en0034-05-00227": [
+      {
+        "point_number": 1,
+        "point_content": "Manufacturing sector pollution is big news in China and is attracting the government’s attention now like never before.",
+        "spans": [
+          "Manufacturing sector pollution is big news in China and is attracting the government’s attention now like never before."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Many manufacturers have, for too long, been flouting rules and are badly underprepared regarding compliance.",
+        "spans": [
+          "many manufacturers have, for too long, been flouting rules and are badly underprepared regarding compliance."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Anti-pollution inspections in China are increasing rapidly and are being strictly policed.",
+        "spans": [
+          "anti-pollution inspections in China are increasing rapidly and are being strictly policed."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "In 2017, 18,000 polluting companies have been punished, and fines of 870 million yuan ($180 million) issued.",
+        "spans": [
+          "In 2017, 18,000 polluting companies have been punished, and fines of 870 million yuan ($180 million) issued."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Factory closures in China due to environmental concerns are an all-too-real threat for manufacturers today.",
+        "spans": [
+          "factory closures in China due to environmental concerns are an all-too-real threat for manufacturers today."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "More polluting industries, such as mining, chemical production, and smelting, are especially affected by new EPL regulations.",
+        "spans": [
+          "the more polluting industries, such as mining, chemical production, and smelting, to name but a few."
+        ]
+      }
+    ],
+    "clueweb22-en0013-15-03015": [
+      {
+        "point_number": 1,
+        "point_content": "The environmental impact of electronics manufacturing is a critical issue that must be addressed due to the fast-growing global waste stream of electronics.",
+        "spans": [
+          "the environmental impact of electronics manufacturing is a critical issue that must be addressed"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The amount of waste electrical and electronic equipment (e-waste) in Europe alone is over 10 million tonnes per year, with only about 40% collected for recycling.",
+        "spans": [
+          "the amount of waste electrical and electronic equipment (widely known as WEEE or e-waste) in Europe alone is over 10 million tonnes per year",
+          "only 40% of is currently collected for recycling"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The generation of e-waste is expected to continue to increase without improvements in collection systems and consumer awareness.",
+        "spans": [
+          "the generation of e-waste is expected to continue to increase and without improvements in collection systems and improved awareness among consumers we won’t see the necessary increase in recycling"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Built-in obsolescence increases the replacement rate of electronic appliances, contributing to environmental impact.",
+        "spans": [
+          "built-in obsolescence increased the proportions of all units sold to replace defective appliances from 3.5 percent in 2004 to 8.3 percent in 2012"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The environmental impact of electronics manufacturing includes air pollution, water and soil contamination, privacy concerns, and worker exploitation.",
+        "spans": [
+          "The environmental impact of electronics manufacturing is a global ecological issue, which is not just limited to the creation of rubbish. It raises concerns about air pollution, water and soil contamination, privacy concerns, and even worker exploitation"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Air pollution can occur when e-waste is incinerated or burned to retrieve copper; toxic chemicals from e-waste can contaminate soil and water if not properly managed.",
+        "spans": [
+          "Air can be polluted when e-waste is incinerated rather than recovered or when it is burned to retrieve the copper",
+          "If not properly managed, toxic chemicals e-waste can enter the soil and water supplies"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Many electronics contain data storage which could be accessed after disposal, raising privacy concerns.",
+        "spans": [
+          "much of todays electronics contain data storage, which could be accessed after the item has been discarded and exploited by nefarious parties"
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Some regions have regulations on e-waste management, but many goods still end up in landfill or are trashed.",
+        "spans": [
+          "Some regions like the United States, United Kingdom and Europe stipulate how e-waste should be managed, but many goods continue to end up in landfill",
+          "The rest were simply trashed"
+        ]
+      }
+    ],
+    "clueweb22-en0025-67-06089": [
+      {
+        "point_number": 1,
+        "point_content": "Cold weather can cause pipes to freeze and burst, damaging materials and finished goods and delaying production and shipping.",
+        "spans": [
+          "pipes may freeze and burst, which can cause flooding that damages materials and finished goods and delays production and shipping"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Cold weather can inhibit workers' dexterity, leading to mistakes that create material waste and quality defects.",
+        "spans": [
+          "cold weather can affect manufacturing is by inhibiting workers’ dexterity, especially in a factory that isn’t adequately heated",
+          "The mistakes that result usually create material waste and can cause quality defects in the finished product"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Cold weather can cause production machinery to deteriorate or run slowly, lowering production efficiency and causing quality problems.",
+        "spans": [
+          "Production machinery can also be vulnerable to cold weather. Without proper insulation, the equipment involved in making your products may quickly deteriorate or run slowly. This can lower production efficiency and introduce quality problems."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Environmental conditions like cold weather can disrupt logistics and infrastructure, causing delays and economic losses.",
+        "spans": [
+          "Cold weather can disrupt logistics and infrastructure",
+          "blizzards and freezing rain shut major roads and rail lines, grounded flights and caused power blackouts",
+          "the storms caused 22.1 billion yuan in direct economic losses"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Manufacturing contributes significantly to air pollution, which can lead to health issues and government actions like factory shutdowns.",
+        "spans": [
+          "Air pollution in China is blamed for the deaths of 4,400 people every day",
+          "manufacturing is a major contributor for the release of harmful pollutants",
+          "pollution ratings are so poor that cities like Beijing have issued a “ red alert ”, suspending factory production"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Factories can be fined or forced to close due to pollution violations, affecting manufacturing operations.",
+        "spans": [
+          "A local government in Vietnam fined a sugar factory $21,500 for polluting a local river",
+          "Another manufacturer was fined more than $48,000 in Beijing for air pollution",
+          "Factories may even be forced to close down if management can't get pollution under control."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "High humidity can damage products and materials, such as causing wood to warp or electronics to malfunction.",
+        "spans": [
+          "Humidity can affect products and the materials used to manufacture them",
+          "Furniture and wood molding can warp or become misshapen in a high-humidity environment and can crack in a low-humidity one",
+          "Short circuiting due to the buildup of condensation in high humidity"
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Humidity can damage packaging and storage, leading to mold, loss of structural integrity, and damage to goods during transit.",
+        "spans": [
+          "Cardboard shipper cartons stored in a very humid warehouse for too long can become moldy and wet",
+          "They might lose their structural integrity and fall apart during transit, damaging the goods inside."
+        ]
+      }
+    ]
+  }
+}

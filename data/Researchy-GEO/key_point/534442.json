@@ -1,0 +1,576 @@
+{
+  "question": "why are oil prices so high",
+  "key_points": {
+    "clueweb22-en0004-54-18150": [
+      {
+        "point_number": 1,
+        "point_content": "Global oil demand is rapidly recovering back toward pre-pandemic levels due to widespread vaccinations in the largest oil and gas-consuming economies.",
+        "spans": [
+          "Today, we’re in a situation where global oil demand is rapidly recovering back toward pre-pandemic levels due to widespread vaccinations in the largest oil and gas-consuming economies (the U.S., China, Europe)."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "OPEC+ has kept a tight grip on supply since its historic production cut deal in May 2020 to balance supply with demand and restore petroleum inventories to normal levels.",
+        "spans": [
+          "OPEC+ has kept a tight grip on supply since it agreed to its historic production cut deal in May 2020.",
+          "OPEC+’s job has been two-fold over the past 16 months — hold back enough supply to meet demand but not oversaturate the market and make sure that global inventories for both crude oil and refined products drain."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "OPEC+ remains hesitant to add more supply despite prices over $85 a barrel due to concerns about demand, fresh Covid-19 outbreaks, and potential oil surplus in early 2022.",
+        "spans": [
+          "OPEC+ remains hesitant of adding more supply at this time, even though major consuming nations including the U.S., Japan, and India have urged them to.",
+          "Why is OPEC+ not adding more supply despite prices over $85 a barrel? Because it remains wary about demand in the coming months and 2022.",
+          "OPEC+ is also eyeing the early 2022 oil market.",
+          "Adding more supply over the 400,000 barrels per month could result in an oil surplus forming in early 2022."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The recent surge in Brent prices to over $85 has been caused by the global spike in natural gas prices, which could boost oil demand this winter.",
+        "spans": [
+          "OPEC+ also knows that the recent surge in Brent prices to over $85 has been caused by the global spike in natural gas prices.",
+          "At present, the feeling is that some power generators with the capability to switch from expensive gas as feedstock will switch to oil products this winter, which could boost oil demand by 400,000 barrels a day to 1 million barrels a day."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "U.S. oil production is rising but remains below pre-pandemic levels due to investor demands for higher financial returns and ESG concerns.",
+        "spans": [
+          "While U.S. production is rising and will continue through the end of 2022, it remains well below pre-pandemic levels of 13 million barrels a day.",
+          "What is explicitly holding U.S. producers back from drilling and fracking more with prices at $85 and some experts anticipating $100 soon? It’s mainly investor demands for higher financial returns.",
+          "ESG (environmental, social, and governance) concerns have also weighed — and are building as the Biden administration unleashes its climate plan."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "The Biden administration is lobbying OPEC+ for more supply now but also sends mixed signals by promoting climate policies that limit domestic oil production, contributing to high prices.",
+        "spans": [
+          "Why is the Biden administration begging OPEC+ to add more supply when the United States has extensive reserves and remains a top global producer?",
+          "Biden must tackle two somewhat conflicting agendas simultaneously — rising energy prices in the short-term and climate change in the long term.",
+          "On the one hand, the administration is correct to lobby OPEC for more supply NOW because OPEC is sitting on over 6 million barrels a day of spare production capacity that can be brought on quickly.",
+          "But on the other hand, Biden continues to send messages to the industry and world that they wish to increase dependence on OPEC+ and imports — this remains bullish for short- to medium-term commodity prices."
+        ]
+      }
+    ],
+    "clueweb22-en0016-66-09676": [
+      {
+        "point_number": 1,
+        "point_content": "Oil prices have risen due to increased demand as more vaccinated populations are brought out of coronavirus lockdowns, supporting a revival in economic activity.",
+        "spans": [
+          "Prices have risen as more vaccinated populations are brought out of coronavirus lockdowns, supporting a revival in economic activity."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Global commodity prices for fuels like coal and gas have surged, making oil an attractive alternative for power generation, thus increasing demand and pushing prices higher.",
+        "spans": [
+          "At the same time, from Asia to Europe, the global commodity prices, including those used as fuel for power generation such as coal and gas, have also surged.",
+          "This makes oil an attractive commodity for generating power and keep the economic activity steady, and thus the higher demand is pushing crude markets higher."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Crude oil prices have rallied due to strong fundamentals including higher demand from global power shortages and lower supply worries.",
+        "spans": [
+          "Crude oil rallied to seven years high on strong fundamentals on higher demand with global power shortage and lower supply worries."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "OPEC+ has decided to maintain a steady and gradual increase in output, but this increase is unlikely to meet the rising demand, especially with winter months ahead.",
+        "spans": [
+          "To meet the demand in the market, the OPEC and allies, together known as OPEC+, last week decided to maintain a steady and gradual increase in output.",
+          "While the OPEC+ have pledged to return more withheld supplies to market, the increase is unlikely to meet the rising demand in the industrial economies, especially with winter months ahead."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The US Department of Energy is not planning to tap into strategic petroleum reserves for now, keeping the oil market tight and supporting prices.",
+        "spans": [
+          "The news from last week that the (US) Department of Energy is not planning to tap into strategic reserves for now is keeping the oil market tight and is supporting prices."
+        ]
+      }
+    ],
+    "clueweb22-en0035-63-17055": [
+      {
+        "point_number": 1,
+        "point_content": "Positive news on Covid vaccines and decline in U.S. shale production and inventories have initiated a rise in crude oil prices.",
+        "spans": [
+          "the advent of positive news on the Covid front that the vaccines in development were extremely efficacious",
+          "the gradual decline in U.S. shale production and inventories over the same period"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "OPEC+ restraining output and Saudi Arabia removing 1-million BOPD from the market pushed WTI prices above $50.",
+        "spans": [
+          "the move in early January, by OPEC+ to restrain output into mid-2021",
+          "an extra “gift” from Saudi Arabia to remove another 1-million BOPD from the market"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Demand for refined petroleum products is expected to increase as vaccines increase the virus-immune population and business activity resumes.",
+        "spans": [
+          "As implementation of the vaccines increases the pool of the virus-immune population, business activity will resume creating demand for refined petroleum products"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "U.S. production is unlikely to increase due to political and regulatory environment, and re-entry into Paris climate accords will reduce fossil fuel use.",
+        "spans": [
+          "Democrats controlling all three branches of government, will make increases in U.S. production very unlikely",
+          "The anticipated re-entry of the U.S. into the Paris climate accords will only exacerbate this trend"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "OPEC+ is resuming its traditional role of setting crude prices by balancing supply and demand and reducing supply.",
+        "spans": [
+          "OPEC+ has surprised the world with its resolve to finally push prices higher",
+          "Saudi Arabia unilaterally chose to withdraw another 1-million BOPD from global markets beyond its OPEC+ commitments",
+          "OPEC+ really has only one mission-providing the maximum return for its members by balancing supply and demand"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Capital restraint by U.S. shale producers keeps overall supply down, returning pricing power to OPEC+ and supporting higher prices.",
+        "spans": [
+          "The glut we’ve had to deal with over the last few years will continue to dissipate as capital restraint by U.S. shale producers keeps the overall trend down",
+          "The decline of U.S. supplies will return pricing power firmly to OPEC+"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Commodity prices, including crude oil, are expected to rise due to inflationary pressures and large economic stimulus.",
+        "spans": [
+          "crude oil other than scarcity is the fact it’s priced in dollars, which makes it very susceptible to inflationary pressures",
+          "the amount of stimulus that the global economy has unleashed in response to the virus",
+          "Commodity prices rose sharply between, 2008-2011 in the face of the stimulus provided in response to the Financial Crisis of 2008",
+          "a rising or sharply rising price environment for commodities is strongly bullish for higher oil prices"
+        ]
+      }
+    ],
+    "clueweb22-en0028-63-10583": [
+      {
+        "point_number": 1,
+        "point_content": "Oil prices are high, with Brent Crude and West Texas Intermediate closing around $74 a barrel, which is far above break even for most U.S. producers.",
+        "spans": [
+          "Brent Crude and West Texas Intermediate still closed right around $74 a barrel, which – for most producers in the U.S. – is far above break even."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Despite high prices, U.S. oil producers are not drilling as much as they did a couple of years ago due to capital discipline and investor reluctance.",
+        "spans": [
+          "American oil drillers aren’t producing anywhere near what they were a couple of years ago.",
+          "Some of it is definitely due to this emphasis now on paying down debts and return on investment. But also we’re seeing a real reluctance among investors to shell out more money for new drilling"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Institutional investors are reluctant to invest in new drilling because they were burned by the previous decade's focus on growth before prices tanked.",
+        "spans": [
+          "She said many institutional investors got burned over the last decade when the attitude in energy was all about growth – before prices tanked."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Producers are cautious about raising investor capital for new wells.",
+        "spans": [
+          "producers are asking themselves before completing more wells: “Is this, you know, something that we’re going to be able to raise investor capital to do?”"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Regulatory concerns, especially about methane emissions under the Biden administration, make producers cautious about increasing production.",
+        "spans": [
+          "Oil companies have to consider the regulatory ambitions of the Biden administration, said Antoine Halff, a founding partner at the energy consultancy Kayrros – especially when it comes to the methane that leaks out of oil wells.",
+          "There’s probably a concern among producers that they need to be very careful not to ramp up the methane emissions to match and to toe the line and to try to reduce their footprint as much as they can"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "At $74 a barrel, oil prices are tempting for companies, and if prices stay high long enough, production will likely increase.",
+        "spans": [
+          "at around $74 a barrel? Michael Lynch, a fellow at the Energy Policy Research Foundation, said despite all of these issues, that’s still a very tempting number for any oil company.",
+          "So if the price stays up long enough, you will see the financial taps open"
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0016-78-19481": [
+      {
+        "point_number": 1,
+        "point_content": "President Joe Biden said higher gas prices were because OPEC and Russia aren’t increasing production sufficiently.",
+        "spans": [
+          "President Joe Biden said higher gas prices were because OPEC and Russia aren’t increasing production sufficiently."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The U.S. could increase production on its own, but not as quickly or effectively as OPEC and Russia.",
+        "spans": [
+          "The U.S. could increase production on its own, but not as quickly or effectively as OPEC and Russia."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Biden has emphasized decreasing the world’s reliance on fossil fuels, which conflicts with increasing U.S. oil production.",
+        "spans": [
+          "Biden has emphasized decreasing the world’s reliance on fossil fuels. Seeking increased U.S. production would clash with this goal, and it would involve pushing an oil sector that isn’t happy with Biden’s focus on reducing fossil-fuel emissions."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Since the pandemic, demand for gasoline has risen steadily but supply hasn’t recovered as quickly, causing prices to rise.",
+        "spans": [
+          "At the root of the price increases for gasoline, as with so many other products, is the coronavirus pandemic. Since the initial economic wallop from the virus in the spring of 2020, demand for gasoline has risen steadily as business activity has increased. Yet supply hasn’t been able to recover as quickly, thanks to delays in restoring drilling capacity, higher transportation costs, and sluggish production increases."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "OPEC and Russia account for just over half of global production and have been increasing production cautiously, not as fast as desired.",
+        "spans": [
+          "Together, they account for just over half of global production, so experts agree that they can do the most to increase supply, which would result in lower prices at the pump.",
+          "Since July, OPEC and Russia have agreed to raise production by 400,000 barrels per day every month, less than the U.S. and other oil importers like China, India, and Japan have been seeking.",
+          "OPEC and Russia have \"just increased production at a slower, ‘cautious’ pace instead of doing so on the timetable that Biden would like,\" said Patrick De Haan, the head of petroleum analysis at GasBuddy.",
+          "On Nov. 4, two days after Biden’s press conference, OPEC and Russia met and chose not to accelerate production, foiling Biden and the other importers."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "U.S. producers cannot ramp up production quickly due to the need for new drilling and investment decisions, unlike OPEC's spare capacity.",
+        "spans": [
+          "The reason why the administration is asking OPEC and Russia to increase is because they have spare production capacity as the result of their previous cuts, which can be brought to the market quickly,\" Finley said. \"Here in the U.S., producers must decide to increase drilling and completing new wells, which could take months to add appreciable volumes."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Increasing U.S. oil production is a private sector decision and cannot be quickly influenced by the president.",
+        "spans": [
+          "Increasing domestic production isn’t a policy decision. It is a private sector response,\" said James H. Stock, a professor of political economy at Harvard University. \"In principle, yes, it could ramp up quickly to offset quite a bit of the oil price increase, but that is a decision by private entities."
+        ]
+      }
+    ],
+    "clueweb22-en0034-05-10430": [
+      {
+        "point_number": 1,
+        "point_content": "The refusal of Russia or the OPEC nations to pump more oil is a consequence for high oil prices.",
+        "spans": [
+          "refusal of Russia or the OPEC nations to pump more oil"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "OPEC and Russia account for just over half of global production and can do the most to increase supply, which would lower prices.",
+        "spans": [
+          "Together, they account for just over half of global production",
+          "they can do the most to increase supply, which would result in lower prices at the pump"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "OPEC and Russia have been gradually restoring production but at a slower pace than desired by the U.S. and other importers.",
+        "spans": [
+          "OPEC-led group has been gradually, but not fully, restoring production",
+          "OPEC and Russia have agreed to raise production by 400,000 barrels per day every month, less than the U.S. and other oil importers like China, India, and Japan have been seeking",
+          "OPEC and Russia have “just increased production at a slower, ‘cautious’ pace instead of doing so on the timetable that Biden would like"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The U.S. could increase production but not as quickly or effectively as OPEC and Russia due to practical and political difficulties.",
+        "spans": [
+          "It’s theoretically possible for the U.S. to produce more oil, but it would be politically and practically difficult",
+          "U.S. producers can’t ramp up production as quickly as OPEC can",
+          "The reason why the administration is asking OPEC and Russia to increase is because they have spare production capacity as the result of their previous cuts, which can be brought to the market quickly",
+          "Here in the U.S., producers must decide to increase drilling and completing new wells, which could take months to add appreciable volumes"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The coronavirus pandemic caused demand for gasoline to rise steadily while supply has not recovered as quickly, contributing to higher oil prices.",
+        "spans": [
+          "At the root of the price increases for gasoline, as with so many other products, is the coronavirus pandemic",
+          "demand for gasoline has risen steadily as business activity has increased",
+          "supply hasn’t been able to recover as quickly, thanks to delays in restoring drilling capacity, higher transportation costs, and sluggish production increases"
+        ]
+      }
+    ],
+    "clueweb22-en0015-12-00112": [
+      {
+        "point_number": 1,
+        "point_content": "High oil prices are caused by high demand, low supply, OPEC quotas, or a drop in the dollar's value.",
+        "spans": [
+          "High oil prices are caused by high demand, low supply, OPEC quotas, or a drop in the dollar's value ."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Demand for oil and gas typically follow a predictable seasonal swing, rising in spring and summer due to increased driving for vacations.",
+        "spans": [
+          "Demand for oil and gas typically follow a predictable seasonal swing. Demand rises in the spring and summer due to increased driving for summer vacations."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Low supply occurs when war or natural disasters curtail exports from oil-producing countries, causing traders to bid up prices.",
+        "spans": [
+          "Low supply occurs when war or natural disasters curtail exports from oil-producing countries. Traders often bid up prices when they hear of impending disasters or the threat of war."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "OPEC members reduce their output, which can cause high oil prices, as seen in 2017 and 2018.",
+        "spans": [
+          "The third factor is when OPEC members reduce their output. That's what caused high oil prices in 2017 and 2018."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Most oil contracts are traded in dollars, so when the dollar declines, it costs more to buy a barrel of oil, driving prices up.",
+        "spans": [
+          "Most oil contracts around the world are traded in dollars. As a result, when the dollar declines, it costs more to buy a barrel of oil."
+        ]
+      }
+    ],
+    "clueweb22-en0014-99-18790": [
+      {
+        "point_number": 1,
+        "point_content": "Oil prices have risen roughly 50 percent since the start of the year to about $75 per barrel, contributing to sharply higher prices for essential fuels such as gasoline.",
+        "spans": [
+          "Oil prices have risen roughly 50 percent since the start of the year to about $75 per barrel, contributing to sharply higher prices for essential fuels such as gasoline."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "One reason for the price spike is higher demand in North America and Europe, where successful COVID vaccination campaigns are allowing countries to lift their lockdowns and get their economies roaring again.",
+        "spans": [
+          "One reason for the price spike is higher demand in North America and Europe, where successful COVID vaccination campaigns are allowing countries to lift their lockdowns and get their economies roaring again."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "While demand for oil is rising, especially in the US and Europe, globally it's still below pre-pandemic levels due to restrictions on international aviation.",
+        "spans": [
+          "While demand for oil is rising, especially in the US and Europe, globally it's still below pre-pandemic levels.",
+          "restrictions on international aviation remain in place, meaning there's very little demand for jet fuel, one of the main products made from crude oil."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The recent oil price rise has more to do with production restraint from major oil producers, especially the members of the OPEC cartel.",
+        "spans": [
+          "In fact, the recent oil price rise has more to do with production restraint from major oil producers, especially the members of the OPEC cartel."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "OPEC, led by Saudi Arabia, has tried to keep oil prices high enough for producers but not so high as to choke off consumption, acting in concert with non-OPEC producers to maintain balance.",
+        "spans": [
+          "This group, under the de facto leadership of Saudi Arabia, the world's biggest oil exporter, has traditionally tried to strike a balance: keeping oil prices high enough for producers to enjoy strong export revenues but not so high that they cause economic damage around the world that chokes off consumption.",
+          "Since last May, OPEC has acted in concert with non-OPEC producers like Russia and a few Central Asian states to maintain that balance, even as markets have seesawed between bouts of recovery and renewed lockdowns."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "With demand showing signs of sustained improvement, coordination among OPEC members has broken down as members seek to increase production quotas.",
+        "spans": [
+          "But with demand now showing signs of sustained improvement, everyone is seeing dollar signs and coordination among them has broken down.",
+          "Specifically, they are — as usual — arguing over the national production quotas that each OPEC member agrees to as part of the cartel.",
+          "the UAE, OPEC's third biggest producer behind Saudi Arabia and Iraq, wants its current quota of 3.2 million barrels per day (bpd) to be raised by around 500,000 bpd, to reflect its recent investments in new oil production capacity.",
+          "But the Saudis have rejected this demand."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Saudi Arabia worries that increasing one member's quota would lead to all members increasing production, resulting in too much oil and lower prices.",
+        "spans": [
+          "They are worried that if one member is allowed to increase its quota, all the others would want to do the same. That could result in too much oil production, leading to lower prices for everyone."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "If OPEC agrees to produce more oil, prices may drop but could breach $80 per barrel first; if no increase, prices could surge to $100 temporarily before demand falls.",
+        "spans": [
+          "If there's a compromise in the coming weeks within OPEC, in which its members agree to produce more oil, that would bring down prices, but probably not before they breach the $80-per-barrel mark.",
+          "On the other hand if there's no movement from OPEC and no increase in supply, that may lead to a bigger price surge — we wouldn't rule out $100 per barrel.",
+          "That, however, would probably only be a temporary price spike, because at that level there is a serious risk that higher prices would cause demand to fall, particularly in emerging markets which are much more sensitive to higher prices."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "If OPEC's quota system falls apart, members may produce as much as they can, flooding the market and crashing prices.",
+        "spans": [
+          "Finally, there's a slight chance that OPEC's system of agreed upon quotas falls apart entirely: if that happens, they'll all start producing as much as they can, resulting in a wave of unneeded oil hitting the market, crashing prices fast."
+        ]
+      }
+    ],
+    "clueweb22-en0000-40-10930": [
+      {
+        "point_number": 1,
+        "point_content": "Gasoline prices are higher this year, $1.02/gallon higher than a year ago, higher than any time since 2014.",
+        "spans": [
+          "Gasoline prices are indeed higher this year. In fact, the average retail gasoline price is now $1.02/gallon higher than it was a year ago. The price is higher than at any time since 2014."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Few presidential actions can impact gasoline prices in the short term, such as releasing oil from the Strategic Petroleum Reserve, increasing gasoline taxes, or engaging in a war in the Middle East.",
+        "spans": [
+          "The gist of the article is that there are few actions a president can take to impact gasoline prices in the short term. Those few actions historically have been 1). Release oil from the Strategic Petroleum Reserve; 2). Increase gasoline taxes; or 3). Engage in a war in the Middle East."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "President Biden did not take these short-term impactful actions but took actions hostile to the oil and gas industry, which some believe drove up gasoline prices.",
+        "spans": [
+          "President Biden did none of those, but he did take actions that were hostile to the oil and gas industry, thus driving the belief that this drove up gasoline prices."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Biden cancelled the Keystone XL pipeline permit and suspended new oil and gas leasing and drilling permits for federal land and water.",
+        "spans": [
+          "First, immediately upon assuming office, President Biden cancelled the Keystone XL pipeline permit.",
+          "Then, Biden suspended new oil and gas leasing and drilling permits for federal land and water."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "These actions could impact oil supplies in the longer term but not in mere months, so they did not quickly drive up gasoline prices.",
+        "spans": [
+          "I fully understand how these decisions can impact oil and gasoline prices in the longer term — but not in mere months.",
+          "True, but not for years.",
+          "The oil markets don’t react in real time to events like this."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "There is a very high correlation (96.8%) between the price of oil and the average retail price of gasoline over the past 20 years.",
+        "spans": [
+          "This graphic shows a high degree of correlation between the price of oil and the average retail price of gasoline.",
+          "According to my Excel analysis, it’s a whopping 96.8% over the past 20 years."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "The rise in oil and gasoline prices started in May 2020 due to the economy opening back up from Covid-19 shutdowns, which had reduced oil supplies.",
+        "spans": [
+          "Note when oil and gasoline prices began to rise. That rise started in May 2020.",
+          "The reason oil and gasoline prices rose is that the economy started to open back up from the Covid-19 shutdowns.",
+          "Those shutdowns had negatively impacted a couple of million barrels of U.S. oil supplies, and those supplies were slow to bounce back once the economy opened back up."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "The rise in gasoline prices is a global phenomenon and not due to specific U.S. policies like the Keystone XL cancellation.",
+        "spans": [
+          "Keep in mind that the entire world has experienced this.",
+          "Do people honestly believe that cancellation of the Keystone XL pipeline drove up gasoline prices in Tokyo?"
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Higher oil prices have benefited the U.S. oil industry, but this is not due to Biden's policies.",
+        "spans": [
+          "One major irony is that if you are a supporter of the U.S. oil industry, you should cheer higher oil prices.",
+          "Should they thank Biden? No, because he isn’t the reason oil prices rose."
+        ]
+      }
+    ],
+    "clueweb22-en0045-97-00222": [
+      {
+        "point_number": 1,
+        "point_content": "Gas prices in the US have hit a seven-year high due to increased demand and constrained supply.",
+        "spans": [
+          "Gas prices in the US have hit a seven-year high.",
+          "Demand has increased as the economy reopened and Americans have begun driving more.",
+          "Meanwhile, supply has been constrained because of lower US production and OPEC decisions."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Demand for fuel has increased as Americans are driving more after the pandemic.",
+        "spans": [
+          "Demand is up as Americans take to the road again",
+          "By summer 2021, however, Americans were back on the road.",
+          "That increase in the amount of driving Americans are doing also means an increase in demand for fuel for cars."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "US oil production and refining have not kept up with demand, partly due to disruptions like Hurricane Ida.",
+        "spans": [
+          "In addition to that ramp-up in demand, there have been some big supply constraints as well.",
+          "The Energy Information Administration noted in mid-September that Hurricane Ida shut down a large swath of the US's oil drilling and refining capacity in the Gulf of Mexico in late August.",
+          "While rigs and refineries have quickly come back online since, crude oil inventories remain low, suggesting an ongoing lack of supply."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "OPEC and other major oil-exporting countries have limited increases in production, contributing to supply constraints.",
+        "spans": [
+          "OPEC and other major oil-exporting countries have repeatedly agreed to only modest increases in production, despite oil consumers like the US and India pushing for higher exports.",
+          "The cartel most recently agreed to increase production by just 400,000 barrels per day in December, after President Joe Biden directly called for more production to ease rising prices."
+        ]
+      }
+    ],
+    "clueweb22-en0015-19-00474": [
+      {
+        "point_number": 1,
+        "point_content": "President Biden said it's because OPEC and Russia aren’t increasing production sufficiently.",
+        "spans": [
+          "President Biden said it's because OPEC and Russia aren’t increasing production sufficiently."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "OPEC and Russia together account for just over half of global production, so they can do the most to increase supply, which would result in lower prices at the pump.",
+        "spans": [
+          "Together, they account for just over half of global production, so experts agree that they can do the most to increase supply, which would result in lower prices at the pump."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Since July, OPEC and Russia have agreed to raise production by 400,000 barrels per day every month, less than the U.S. and other oil importers have been seeking.",
+        "spans": [
+          "Since July, OPEC and Russia have agreed to raise production by 400,000 barrels per day every month, less than the U.S. and other oil importers like China, India, and Japan have been seeking."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "OPEC and Russia have increased production at a slower, cautious pace instead of on the timetable that Biden would like.",
+        "spans": [
+          "OPEC and Russia have “just increased production at a slower, ‘cautious’ pace instead of doing so on the timetable that Biden would like,” said Patrick De Haan, the head of petroleum analysis at GasBuddy."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The root of the price increases for gasoline is the coronavirus pandemic causing demand to rise steadily while supply hasn’t recovered as quickly.",
+        "spans": [
+          "At the root of the price increases for gasoline, as with so many other products, is the coronavirus pandemic. Since the initial economic wallop from the virus in the spring of 2020, demand for gasoline has risen steadily as business activity has increased. Yet supply hasn’t been able to recover as quickly, thanks to delays in restoring drilling capacity, higher transportation costs, and sluggish production increases."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "The U.S. cannot quickly increase oil production because producers must decide to increase drilling and completing new wells, which could take months.",
+        "spans": [
+          "Here in the U.S., producers must decide to increase drilling and completing new wells, which could take months to add appreciable volumes."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Biden faces political and practical difficulties in increasing U.S. oil production due to environmental pressures and slower production ramp-up compared to OPEC.",
+        "spans": [
+          "One obvious obstacle is the pressure Biden is facing from his allies in the environmental movement.",
+          "Another obstacle is that U.S. producers can’t ramp up production as quickly as OPEC can."
+        ]
+      }
+    ]
+  }
+}

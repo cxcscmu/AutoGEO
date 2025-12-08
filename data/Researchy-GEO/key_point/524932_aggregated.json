@@ -1,0 +1,195 @@
+{
+  "question": "are humans responsible for climate change",
+  "key_points": [
+    {
+      "point_number": 1,
+      "point_content": "There is overwhelming scientific consensus, with over 99% agreement among climate scientists and peer-reviewed studies, that human activities are the primary cause of recent global warming and climate change, with a probability of over 95%.",
+      "original_point_number": [
+        1,
+        2,
+        4,
+        18,
+        27,
+        29,
+        31,
+        42,
+        43,
+        49,
+        54,
+        60,
+        62,
+        64,
+        67,
+        87,
+        89,
+        90,
+        93,
+        94
+      ]
+    },
+    {
+      "point_number": 2,
+      "point_content": "Human activities, primarily the burning of fossil fuels and land use changes such as deforestation, have significantly increased the concentration of greenhouse gases like carbon dioxide, methane, and nitrous oxide in the atmosphere since the Industrial Revolution, leading to an enhanced greenhouse effect and global warming.",
+      "original_point_number": [
+        3,
+        5,
+        6,
+        7,
+        28,
+        36,
+        44,
+        45,
+        46,
+        48,
+        53,
+        55,
+        56,
+        57,
+        58,
+        59,
+        61,
+        83,
+        84,
+        88,
+        94,
+        95
+      ]
+    },
+    {
+      "point_number": 3,
+      "point_content": "Carbon dioxide is the most significant human-emitted greenhouse gas, with its atmospheric concentration rising from about 280 parts per million pre-industrial to nearly 420 ppm today, an increase of nearly 50%, confirmed by chemical and isotopic analysis linking it to fossil fuel burning.",
+      "original_point_number": [
+        5,
+        7,
+        28,
+        30,
+        37,
+        38,
+        39,
+        46,
+        58,
+        69,
+        70,
+        84,
+        91
+      ]
+    },
+    {
+      "point_number": 4,
+      "point_content": "The increase in greenhouse gases from human activities is the main driver of the rise in global average surface temperature, which has increased about 1.1°C (1.8°F) since 1850, with the warming too rapid and large to be explained by natural factors such as solar activity or Earth's orbit changes.",
+      "original_point_number": [
+        1,
+        4,
+        33,
+        34,
+        35,
+        47,
+        48,
+        50,
+        51,
+        52,
+        54,
+        57,
+        71,
+        72,
+        81,
+        85,
+        86
+      ]
+    },
+    {
+      "point_number": 5,
+      "point_content": "Climate models show that observed temperature increases can only be explained when human factors, specifically greenhouse gas emissions, are included; natural factors alone cannot account for recent warming.",
+      "original_point_number": [
+        40,
+        41,
+        32,
+        92
+      ]
+    },
+    {
+      "point_number": 6,
+      "point_content": "Only a small number of fossil fuel companies, about 100 investor and state-owned firms, are responsible for around 70% of the world's historical greenhouse gas emissions, with the top 20 firms contributing 33%.",
+      "original_point_number": [
+        8,
+        12,
+        19
+      ]
+    },
+    {
+      "point_number": 7,
+      "point_content": "Fossil fuel companies have actively worked to mislead the public and block climate action by funding climate science denial, sowing doubt about climate science, and promoting misleading narratives that emphasize individual responsibility over corporate accountability.",
+      "original_point_number": [
+        10,
+        11,
+        13,
+        14,
+        20
+      ]
+    },
+    {
+      "point_number": 8,
+      "point_content": "Fossil fuels are artificially cheapened by large subsidies, creating an uneven playing field for alternative energy sources; removing these subsidies and implementing carbon taxes with consumer rebates are effective steps to address climate change and hold the fossil fuel industry accountable.",
+      "original_point_number": [
+        15,
+        16,
+        17
+      ]
+    },
+    {
+      "point_number": 9,
+      "point_content": "Individual actions have relatively small effects compared to emissions from major fossil fuel producers; average American households produce about 8.1 metric tons of CO2 annually out of over 33 billion tons globally, and individuals have unequal power and responsibility within the larger system influencing climate outcomes.",
+      "original_point_number": [
+        9,
+        21,
+        25,
+        26
+      ]
+    },
+    {
+      "point_number": 10,
+      "point_content": "The world's richest countries and individuals have emitted the majority of greenhouse gases historically and continue to emit disproportionately more than poorer countries, creating an emissions debt and greater responsibility for climate change.",
+      "original_point_number": [
+        22,
+        23,
+        24,
+        21
+      ]
+    },
+    {
+      "point_number": 11,
+      "point_content": "Human-caused global warming is causing significant environmental changes including melting Arctic ice caps, rising sea levels, increasing ocean acidity and temperatures, melting glaciers, and more intense and frequent heat waves, droughts, and changes in precipitation patterns.",
+      "original_point_number": [
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80
+      ]
+    },
+    {
+      "point_number": 12,
+      "point_content": "Human activities such as transportation, electricity production, industrial processes, cement production, land clearing, and agriculture contribute significantly to greenhouse gas emissions, including carbon dioxide and methane from sources like fossil fuel burning, deforestation, rice fields, and livestock.",
+      "original_point_number": [
+        95,
+        96,
+        97,
+        98,
+        99,
+        6,
+        44,
+        36
+      ]
+    },
+    {
+      "point_number": 13,
+      "point_content": "Thawing permafrost in Arctic regions releases carbon dioxide and methane, creating a feedback loop that further accelerates climate warming.",
+      "original_point_number": [
+        100
+      ]
+    }
+  ]
+}

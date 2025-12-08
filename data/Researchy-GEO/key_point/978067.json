@@ -1,0 +1,103 @@
+{
+  "question": "why was practical astronomy so highly cultivated in the arab world?",
+  "key_points": {
+    "null": [],
+    "clueweb22-en0037-52-03738": [
+      {
+        "point_number": 1,
+        "point_content": "The Arabs were many desert-dwelling tribes that used the stars, sun, and moon to navigate from place to place.",
+        "spans": [
+          "the Arabs were many desert- dwelling tribes that used the stars, sun, and moon to navigate from place to place"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Because the religion of Islam is so important in the Arab world, the Arabs had to know the precise time and direction of Mecca for prayer.",
+        "spans": [
+          "Because the religion of Islam is so important in the Arab world, the Arabs had to know the precise time and direction of Mecca for prayer"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Arabic Astronomers updated the methods mathematics for the movements of celestial objects and developed newer models of the cosmos.",
+        "spans": [
+          "Arabic Astronomers updated the methods mathematics for the movements of celestial objects and developed newer models of the cosmos"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "These observations led to new scientific instruments, and improvements of the celestial observation itself.",
+        "spans": [
+          "These observations led to new scientific instruments, and improvements of the celestial observation itself"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Arab astronomy was influenced by Persian and Indian philosophies, leading to better calculations and a more precise calendar system.",
+        "spans": [
+          "But Arab astronomy was also influenced by Persian and Indian philosophies. These teachings made better calculations out Greek ones which ultimately led to a more precise calendar system"
+        ]
+      }
+    ],
+    "clueweb22-en0004-10-13327": [
+      {
+        "point_number": 1,
+        "point_content": "Practical astronomy was highly cultivated in the Arab world because of the specific requirements of Islam, which required the ability to correctly determine the time and direction of Mecca for prayer, the moment of sunrise and sunset for fasting during Ramadan, and for fixing the appearance of the moon that marked the start of a new month.",
+        "spans": [
+          "This body of knowledge was refined in part because of the specific requirements of Islam; the religion required the ability to correctly determine the time and direction of Mecca for prayer, the moment of sunrise and sunset for fasting during Ramadan, and for fixing the appearance of the moon that marked the start of a new month."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The cultivation of practical astronomy led to the refinement of scientific instruments, improvement in methods for making observations, and the creation of new calendrical systems.",
+        "spans": [
+          "This led to the refinement of scientific instruments, an improvement in methods for making observations, and the creation of new calendrical systems."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Local rulers across the Islamic world supported scientific research in astronomy, making cities like Baghdad, Cairo, Rayy, and Isfahan major centers of study.",
+        "spans": [
+          "Between the eighth and tenth centuries, Baghdad was a major center of study under the Abbasid caliphs al-Mansur (r. 754–75) and al-Ma’mun (r. 813–33), but local rulers across the region, in Cairo, Rayy, Isfahan, and other cities, also supported scientific research."
+        ]
+      }
+    ],
+    "clueweb22-en0014-29-12284": [
+      {
+        "point_number": 1,
+        "point_content": "The Islamic culture and religious beliefs largely complimented this course in this Arab world.",
+        "spans": [
+          "The Islamic culture and religious beliefs largely complimented this course in this Arab world."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The major practical contribution of the Arab world to astronomical science included the creation of Calendars which recorded the movement of heavenly bodies such as the sun, moon and heavenly planets.",
+        "spans": [
+          "the major practical contribution of the Arab world to astronomical science included the creation of Calendars which recorded the movement of heavenly bodies such as the sun, moon and heavenly planets."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The Bedouin traditions preserved by Arab communities possessed knowledge on fixed stars, the passage of the moon and the sun as exhibited through the Zodiacal signs, lunar mansions, and other related astronomical phenomena.",
+        "spans": [
+          "the Bedouin traditions preserved by Arab communities possessed knowledge on fixed stars, the passage of the moon and the sun as exhibited through the Zodiacal signs, lunar mansions, and other related astronomical phenomena."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "This cultural and religious cultivation demanded the need to correctly determine the time of direction of Mecca prayer, the time of sunrise and sunset fasting moments during Ramadan, and fixing of the appearance of the moon which marked the beginning of the new month.",
+        "spans": [
+          "This cultural and religious cultivation demanded the need to correctly determine the time of direction of Mecca prayer. This also included the time of sunrise and sunset fasting moments during Ramadan, alongside fixing of the appearance of the moon which marked the beginning of the new month."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The combination of these cultural enforcements along with scientific work conducted by this Arab community during this era highly cultivated improvement of astronomical methods, refinement of space measuring instruments, observations, and creation of space Calendar systems for observing and noting movement behaviors of heavenly bodies.",
+        "spans": [
+          "The combination of these cultural enforcements along with scientific work conducted by this Arab community during this era highly cultivated improvement of astronomical methods, refinement of space measuring instruments, observations, and creation of space Calendar systems for observing and noting movement behaviors of heavenly bodies."
+        ]
+      }
+    ]
+  }
+}

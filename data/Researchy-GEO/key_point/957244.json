@@ -1,0 +1,403 @@
+{
+  "question": "why climate is changing",
+  "key_points": {
+    "clueweb22-en0035-20-04892": [
+      {
+        "point_number": 1,
+        "point_content": "There are many “natural” and “anthropogenic” (human-induced) factors that contribute to climate change.",
+        "spans": [
+          "There are many “natural” and “anthropogenic” (human-induced) factors that contribute to climate change."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Climate change has always happened on Earth, but the rapid rate and magnitude of current climate change is of great concern.",
+        "spans": [
+          "Climate change has always happened on Earth, which is clearly seen in the geological record; it is the rapid rate and the magnitude of climate change occurring now that is of great concern worldwide."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Greenhouse gases in the atmosphere absorb heat radiation and human activity has increased these gases since the Industrial Revolution, leading to more heat retention and increased surface temperatures.",
+        "spans": [
+          "Greenhouse gases in the atmosphere absorb heat radiation.",
+          "Human activity has increased greenhouse gases in the atmosphere since the Industrial Revolution, leading to more heat retention and an increase in surface temperatures."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Atmospheric aerosols alter climate by scattering and absorbing solar and infrared radiation and may change cloud properties.",
+        "spans": [
+          "Atmospheric aerosols alter climate by scattering and absorbing solar and infrared radiation and they may also change the microphysical and chemical properties of clouds."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Land-use changes, such as deforestation, have led to changes in the amount of sunlight reflected from the ground back into space (surface albedo).",
+        "spans": [
+          "Finally, land-use changes, such as deforestation have led to changes in the amount of sunlight reflected from the ground back into space (the surface albedo)."
+        ]
+      }
+    ],
+    "clueweb22-en0016-81-05465": [
+      {
+        "point_number": 1,
+        "point_content": "Some factors that have the power to change global climate are natural, like volcanic eruptions and changes in the amount of solar energy that gets to Earth. Other factors, which are causing climate change today, are caused by humans, like burning fossil fuels which adds greenhouse gases to the atmosphere.",
+        "spans": [
+          "Some factors that have the power to change global climate are natural, like volcanic eruptions and changes in the amount of solar energy that gets to Earth.",
+          "Other factors, which are causing climate change today, are caused by humans, like burning fossil fuels which adds greenhouse gases to the atmosphere."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Changes in the Sun can affect Earth's climate but are too small to be the cause of recent climate change.",
+        "spans": [
+          "Changes in the cycle of solar activity, called the 11-year sunspot cycle, can cause small changes in the amount of solar energy that gets to Earth.",
+          "However the amount of energy only changes 0.15% over the cycle, which has a very minor impact on climate compared with other factors.",
+          "These changes in the Sun are too small to be the cause of recent climate change."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Changes in Earth’s orbit and tilt affect the amount of solar energy Earth receives and have caused large climate changes in the past such as Ice Ages.",
+        "spans": [
+          "The amount of solar energy that gets to Earth is also affected by the way our planet orbits the Sun and the tilt of Earth’s axis.",
+          "The way Earth orbits the Sun changes in regular patterns over tens to hundreds of thousands of years.",
+          "These changes have caused large changes in climate in the past such as the Ice Ages."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Big volcanic eruptions can cause temporary cooling by releasing sulfur dioxide aerosols that reflect solar radiation back to space.",
+        "spans": [
+          "Big Volcanic Eruptions Can Cause Climate to Cool.",
+          "there are also tiny particles (aerosols) of sulfur dioxide that spew from volcanic eruptions.",
+          "They get into the atmosphere and reflect solar radiation back out to space, shading the Earth - causes cooling.",
+          "The cooling is temporary, lasting usually a year or two."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Greenhouse gases warm the climate by trapping heat in the atmosphere, and human activities have increased their amount, causing recent climate change.",
+        "spans": [
+          "Greenhouse gases trap heat in the atmosphere through a process called the greenhouse effect.",
+          "However, the amount of greenhouse gases in our atmosphere has increased over the past 150 years as people burn fossil fuels, like coal, oil and gas, which release carbon dioxide into the atmosphere."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Less snow and ice cause more warming because they reflect sunlight, and their melting leads to more heat being absorbed, creating a feedback loop.",
+        "spans": [
+          "Because snow and ice are light in color, they have the ability to reflect most of the sunlight that hits them out to space.",
+          "When snow and ice melt as Earth’s climate warms, less energy is reflected out to space so more stays in the Earth system, which causes even more warming."
+        ]
+      }
+    ],
+    "clueweb22-en0031-49-18990": [
+      {
+        "point_number": 1,
+        "point_content": "Human activities (primarily the burning of fossil fuels) have fundamentally increased the concentration of greenhouse gases in Earth’s atmosphere, warming the planet.",
+        "spans": [
+          "Human activities (primarily the burning of fossil fuels) have fundamentally increased the concentration of greenhouse gases in Earth’s atmosphere, warming the planet."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Scientists attribute the global warming trend observed since the mid-20th century to the human expansion of the 'greenhouse effect' — warming that results when the atmosphere traps heat radiating from Earth toward space.",
+        "spans": [
+          "Scientists attribute the global warming trend observed since the mid-20 th century to the human expansion of the \"greenhouse effect\" 1 — warming that results when the atmosphere traps heat radiating from Earth toward space."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Certain gases in the atmosphere block heat from escaping and contribute to climate change, including water vapor, carbon dioxide, methane, nitrous oxide, and chlorofluorocarbons.",
+        "spans": [
+          "Certain gases in the atmosphere block heat from escaping. Long-lived gases that remain semi-permanently in the atmosphere and do not respond physically or chemically to changes in temperature are described as \"forcing\" climate change.",
+          "Gases that contribute to the greenhouse effect include: Water vapor. The most abundant greenhouse gas, but importantly, it acts as a feedback to the climate.",
+          "Carbon dioxide (CO 2 ). A minor but very important component of the atmosphere, carbon dioxide is released through natural processes such as respiration and volcano eruptions and through human activities such as deforestation, land use changes, and burning fossil fuels.",
+          "Methane. A hydrocarbon gas produced both through natural sources and human activities, including the decomposition of wastes in landfills, agriculture, and especially rice cultivation, as well as ruminant digestion and manure management associated with domestic livestock.",
+          "Nitrous oxide. A powerful greenhouse gas produced by soil cultivation practices, especially the use of commercial and organic fertilizers, fossil fuel combustion, nitric acid production, and biomass burning.",
+          "Chlorofluorocarbons (CFCs). Synthetic compounds entirely of industrial origin used in a number of applications, but now largely regulated in production and release to the atmosphere by international agreement for their ability to contribute to destruction of the ozone layer. They are also greenhouse gases."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Human activities have increased atmospheric CO2 concentration by 48% since the Industrial Revolution, which is the most important long-lived forcing of climate change.",
+        "spans": [
+          "Humans have increased atmospheric CO 2 concentration by 48% since the Industrial Revolution began. This is the most important long-lived \"forcing\" of climate change."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "On Earth, human activities are changing the natural greenhouse effect primarily through burning fossil fuels and land use changes, increasing greenhouse gas concentrations.",
+        "spans": [
+          "On Earth, human activities are changing the natural greenhouse. Over the last century the burning of fossil fuels like coal and oil has increased the concentration of atmospheric carbon dioxide (CO 2 ).",
+          "To a lesser extent, the clearing of land for agriculture, industry, and other human activities has increased concentrations of greenhouse gases."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "The Intergovernmental Panel on Climate Change concluded there's a more than 95 percent probability that human activities over the past 50 years have warmed our planet.",
+        "spans": [
+          "In its Fifth Assessment Report, the Intergovernmental Panel on Climate Change, a group of 1,300 independent scientific experts from countries all over the world under the auspices of the United Nations, concluded there's a more than 95 percent probability that human activities over the past 50 years have warmed our planet."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "The industrial activities have raised atmospheric carbon dioxide levels from 280 ppm to about 417 ppm in the last 151 years, causing much of the observed increase in Earth's temperatures.",
+        "spans": [
+          "The industrial activities that our modern civilization depends upon have raised atmospheric carbon dioxide levels from 280 parts per million to about 417 parts per million in the last 151 years.",
+          "The panel also concluded there's a better than 95 percent probability that human-produced greenhouse gases such as carbon dioxide, methane and nitrous oxide have caused much of the observed increase in Earth's temperatures over the past 50-plus years."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Changes in the Sun's energy output have not caused the observed global warming trend over the past half-century.",
+        "spans": [
+          "The amount of solar energy that Earth receives has followed the Sun’s natural 11-year cycle of small ups and downs with no net increase since the 1950s.",
+          "Over the same period, global temperature has risen markedly.",
+          "It is therefore extremely unlikely that the Sun has caused the observed global temperature warming trend over the past half-century."
+        ]
+      }
+    ],
+    "clueweb22-en0002-64-08734": [
+      {
+        "point_number": 1,
+        "point_content": "Climate change is a long-term shift in global or regional climate patterns, often referring to the rise in global temperatures from the mid 20th century to present.",
+        "spans": [
+          "Climate change is a long-term shift in global or regional climate patterns. Often climate change refers specifically to the rise in global temperatures from the mid 20th century to present."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Climates change very slowly over hundreds or thousands of years, requiring organisms to adapt, relocate, or risk extinction.",
+        "spans": [
+          "Climates do change, however—they just change very slowly, over hundreds or even thousands of years. As climates change, organisms that live in the area must adapt , relocate, or risk going extinct."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Earth's climate has changed many times due to natural causes such as changes in Earth's axis tilt, orbit, meteor impacts, and plate tectonics.",
+        "spans": [
+          "Natural climate change can also be affected by forces outside Earth’s atmosphere. For instance, the 100,000-year cycles of ice ages are probably related to changes in the tilt of Earth’s axis and the shape of its orbit around the sun.",
+          "The impact of large meteorites on Earth could also cause climate change.",
+          "Plate tectonics also play a role in climate changes. Earth’s continental plates have moved a great deal over time."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Changes in greenhouse gases in the atmosphere, such as carbon dioxide, trap the sun’s heat and cause temperatures to rise.",
+        "spans": [
+          "Changes in greenhouse gases in the atmosphere also have an impact on climate change. Gases like carbon dioxide trap the sun’s heat in Earth’s atmosphere, causing temperatures on the surface to rise."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Human activities such as burning fossil fuels, deforestation, and industrial processes release greenhouse gases, contributing to climate change.",
+        "spans": [
+          "Some human activities release greenhouse gases —burning fossil fuels for transportation and electricity, or using technology \"> agricultural technology that increases meat production, for instance.",
+          "Trees absorb carbon dioxide, so cutting down forests for timber or development contributes to the greenhouse effect.",
+          "So do factories that emit pollutants into the atmosphere."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "The increase in greenhouse gases due to human activity is causing global warming, a rise in Earth's average temperature.",
+        "spans": [
+          "Many scientists are worried that these activities are causing dramatic and dangerous changes in Earth’s climate.",
+          "Average temperatures around the world have risen since about 1880, when scientists began tracking them.",
+          "This warming trend may be a sign that the greenhouse effect is increasing because of human activity. This climate change is often referred to as “ global warming .”"
+        ]
+      }
+    ],
+    "clueweb22-en0023-97-16619": [
+      {
+        "point_number": 1,
+        "point_content": "Climate change always happened on earth, but it happened at a much slower pace.",
+        "spans": [
+          "Climate change always happened on earth, but it happened at a much slower pace."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Our industrial lifestyles and the way we constantly burn fossil fuels is the reason that our climate is changing so rapidly.",
+        "spans": [
+          "Our industrial lifestyles and the way we constantly burn fossil fuels is the reason that our climate is changing so rapidly."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The cause of this quick climate change is the release of greenhouses gasses produced by burning fossil fuels.",
+        "spans": [
+          "The cause of this quick climate change is the release of greenhouses gasses produced by burning fossil fuels."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The CO2 is released into the atmosphere, and it can’t escape the atmosphere the way other gasses can.",
+        "spans": [
+          "The CO2 is released into the atmosphere, and it can’t escape the atmosphere the way other gasses can."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The CO2 acts like a gigantic Earth blanket, trapping heat and preventing the earth from cooling down.",
+        "spans": [
+          "The CO2 acts like a gigantic Earth blanket."
+        ]
+      }
+    ],
+    "clueweb22-en0025-69-06561": [
+      {
+        "point_number": 1,
+        "point_content": "Our climate is changing due to humans.",
+        "spans": [
+          "We know that our climate is changing due to humans"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Greenhouse gases trap heat in the atmosphere and cause warming.",
+        "spans": [
+          "These gases act like a blanket wrapped around the earth, trapping the sun’s heat within our atmosphere.",
+          "The gases that trap the most heat are called greenhouse gases because they allow heat to reach the earth, but do not let it escape – similar to how a greenhouse works."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Human activities release greenhouse gases, leading to climate change.",
+        "spans": [
+          "This means that human activities which release greenhouse gases, like burning fossil fuels, lead to climate change."
+        ]
+      }
+    ],
+    "clueweb22-en0028-72-04536": [
+      {
+        "point_number": 1,
+        "point_content": "The main driver of current climate change is the emission of greenhouse gases, most importantly carbon dioxide and methane.",
+        "spans": [
+          "The main driver of current climate change is the emission of greenhouse gases, most importantly carbon dioxide and methane."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Greenhouse gases trap heat in our atmosphere, causing more heat to be kept near Earth's surface, warming our world.",
+        "spans": [
+          "Greenhouse gases trap heat in our atmosphere.",
+          "This process causes more heat to be kept near Earth's surface, warming our world."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Greenhouse gases are primarily emitted by fossil fuel combustion, meat and dairy production, producing cement and some industrial processes.",
+        "spans": [
+          "These are primarily released when fossil fuels are burnt.",
+          "Meat and dairy production, producing cement and some industrial processes, such as the production and use of fertilisers, also emit greenhouse gases."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Scientific evidence shows that the increase in carbon dioxide is due to burning fossil fuels, supported by oxygen reduction and carbon isotope ratios.",
+        "spans": [
+          "It's also known that greenhouse gases are primarily emitted by fossil fuel combustion.",
+          "'To burn carbon and produce carbon dioxide, you need oxygen. The amount of oxygen that is in the atmosphere is reducing at exactly the right amount for the increase in carbon dioxide to be caused by combusting fossil fuels,' explains Joeri.",
+          "'What we can see is that the ratio of carbon-13 in our atmosphere is going down at exactly the rate you would predict if the carbon dioxide increase was due to burning fossil fuels.'"
+        ]
+      }
+    ],
+    "clueweb22-en0000-90-04787": [
+      {
+        "point_number": 1,
+        "point_content": "Human activities are the primary driver of climate changes observed since the mid-20th century.",
+        "spans": [
+          "Human activities are the primary driver of those changes.",
+          "The current warming trend is of particular significance because it is unequivocally the result of human activity since the mid-20 th century"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Atmospheric CO2 has increased dramatically since the Industrial Revolution, contributing to climate change.",
+        "spans": [
+          "atmospheric CO 2 has increased dramatically since the Industrial Revolution"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The heat-trapping nature of carbon dioxide and other gases causes Earth to warm.",
+        "spans": [
+          "The heat-trapping nature of carbon dioxide and other gases was demonstrated in the mid-19th century.",
+          "There is no question that increased levels of greenhouse gases must cause Earth to warm in response."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Earth’s climate responds to changes in greenhouse gas levels, with current warming occurring much faster than past natural changes.",
+        "spans": [
+          "Ice cores drawn from Greenland, Antarctica, and tropical mountain glaciers show that Earth’s climate responds to changes in greenhouse gas levels.",
+          "This ancient, or paleoclimate, evidence reveals that current warming is occurring roughly ten times faster than the average rate of ice-age-recovery warming."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Carbon dioxide from human activity is increasing more than 250 times faster than it did from natural sources after the last Ice Age.",
+        "spans": [
+          "Carbon dioxide from human activity is increasing more than 250 times faster than it did from natural sources after the last Ice Age."
+        ]
+      }
+    ],
+    "clueweb22-en0003-40-07017": [
+      {
+        "point_number": 1,
+        "point_content": "Scientists have high confidence that global temperatures will continue to rise for decades to come, largely due to greenhouse gases produced by human activities.",
+        "spans": [
+          "Scientists have high confidence that global temperatures will continue to rise for decades to come, largely due to greenhouse gases produced by human activities."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The magnitude of climate change beyond the next few decades depends primarily on the amount of heat-trapping gases emitted globally.",
+        "spans": [
+          "The magnitude of climate change beyond the next few decades depends primarily on the amount of heat-trapping gases emitted globally"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Global sea level rise is the result of added water from melting land ice and the expansion of seawater as it warms.",
+        "spans": [
+          "It is projected to rise another 1 to 8 feet by 2100. This is the result of added water from melting land ice and the expansion of seawater as it warms."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The Earth's average temperature has increased about 2 degrees Fahrenheit during the 20th century, which is unusual and linked to significant environmental changes.",
+        "spans": [
+          "So, the Earth's average temperature has increased about 2 degrees Fahrenheit during the 20th century."
+        ]
+      }
+    ],
+    "clueweb22-en0001-34-08839": [
+      {
+        "point_number": 1,
+        "point_content": "Extra greenhouse gases in our atmosphere are the main reason that Earth is getting warmer.",
+        "spans": [
+          "Extra greenhouse gases in our atmosphere are the main reason that Earth is getting warmer."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Greenhouse gases, such as carbon dioxide (CO 2) and methane, trap the Sun's heat in Earth's atmosphere.",
+        "spans": [
+          "Greenhouse gases, such as carbon dioxide (CO 2) and methane, trap the Sun's heat in Earth's atmosphere."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The burning of fossil fuels like coal and oil increase the amount of CO 2 in our air.",
+        "spans": [
+          "The burning of fossil fuels like coal and oil increase the amount of CO 2 in our air."
+        ]
+      }
+    ],
+    "null": []
+  }
+}

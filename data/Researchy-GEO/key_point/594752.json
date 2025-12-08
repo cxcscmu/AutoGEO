@@ -1,0 +1,70 @@
+{
+  "question": "what motivated you to become an entrepreneur",
+  "key_points": {
+    "clueweb22-en0005-96-09954": [
+      {
+        "point_number": 1,
+        "point_content": "The motivation to become an entrepreneur was not initially a desire to be a founder, but rather a refusal to accept failure and a willingness to do whatever it took not to fail.",
+        "spans": [
+          "I had one last idea. Buy a little of their technology and start our own company. It was born less out of a desire to be a founder, than to not fail. I could not accept failure. Period. I was willing to do anything, whatever it took, not to fail."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The experience of trying to save a failing startup and the inability to fix it motivated the decision to start a new company.",
+        "spans": [
+          "Then … I joined a startup that was failing. Hard, and fast.",
+          "I tried to fix it.",
+          "I couldn’t fix it. It wasn’t my company, but I tried to fix it as if it were."
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0039-87-09375": [
+      {
+        "point_number": 1,
+        "point_content": "The text suggests that money is not the primary motivator for entrepreneurs.",
+        "spans": [
+          "What motivates an entrepreneur? (Hint: It’s not money)"
+        ]
+      }
+    ],
+    "clueweb22-en0031-10-07422": [
+      {
+        "point_number": 1,
+        "point_content": "One of the biggest motivations for becoming an entrepreneur is the unlimited income potential.",
+        "spans": [
+          "One of the biggest motivations for becoming an entrepreneur is the unlimited income potential here"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The thrill of a flexible schedule and work environment motivates some prospective entrepreneurs.",
+        "spans": [
+          "For some prospective entrepreneurs, the thrill of a flexible schedule and work environment is key"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Some entrepreneurs are motivated by the desire to become leaders and make their own decisions.",
+        "spans": [
+          "Some entrepreneurs are thrilled at the notion of becoming a leader; they want to make their own decisions, build their own teams, and call the shots in high-pressure situations"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Entrepreneurship can be motivated by the desire to create something lasting and leave a legacy.",
+        "spans": [
+          "For others, entrepreneurship is more about creating something. They may want their name tied to a great company, or they may want to leave a legacy behind for their children and grandchildren"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Some entrepreneurs are motivated by a vision to change the world, regardless of money or flexibility.",
+        "spans": [
+          "Some entrepreneurs are out to change the world. They don't care about making money or having a more flexible work schedule; they have a vision for the future, and they're out to achieve it"
+        ]
+      }
+    ]
+  }
+}

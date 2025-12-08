@@ -1,0 +1,204 @@
+{
+  "question": "how does minimum wage affect the economy",
+  "key_points": [
+    {
+      "point_number": 1,
+      "point_content": "A minimum wage legally limits how little an employer can pay a worker.",
+      "original_point_number": [
+        1
+      ]
+    },
+    {
+      "point_number": 2,
+      "point_content": "Minimum wages increase wages for some workers but can lead to job losses for others, as higher labor costs may cause businesses to employ fewer workers or replace them with machines or relocate.",
+      "original_point_number": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "point_number": 3,
+      "point_content": "The overall effect of minimum wage increases on employment is debated: some studies find little to no negative impact or even positive effects on employment, while others predict job losses, especially with large increases or in certain regions.",
+      "original_point_number": [
+        7,
+        10,
+        16,
+        21,
+        30,
+        31,
+        46,
+        49
+      ]
+    },
+    {
+      "point_number": 4,
+      "point_content": "Businesses have significant power over wages, often paying workers less than their marginal product; minimum wages increase labor costs but may cut into business profits rather than employment.",
+      "original_point_number": [
+        11,
+        12,
+        13,
+        14
+      ]
+    },
+    {
+      "point_number": 5,
+      "point_content": "Supporters argue minimum wages increase workers' earnings, reduce turnover, increase productivity and spending, and have positive ripple effects on the economy, while opponents worry about job losses and increased costs for businesses.",
+      "original_point_number": [
+        15,
+        20,
+        29,
+        35,
+        60,
+        63
+      ]
+    },
+    {
+      "point_number": 6,
+      "point_content": "Minimum wage increases can cause small increases in prices and inflation due to higher labor costs and increased consumer spending, but the inflationary impact is generally limited and may be absorbed by firms or offset by productivity gains.",
+      "original_point_number": [
+        34,
+        36,
+        37,
+        62,
+        69,
+        70,
+        71,
+        72,
+        76
+      ]
+    },
+    {
+      "point_number": 7,
+      "point_content": "Minimum wages help mitigate employer-worker power imbalances by preventing wages from falling too low, preserving workers' purchasing power, but if not adjusted for inflation, the real value of minimum wages erodes over time.",
+      "original_point_number": [
+        18,
+        19,
+        45
+      ]
+    },
+    {
+      "point_number": 8,
+      "point_content": "Minimum wage increases can improve economic inequality, including racial and gender disparities, by raising wages for disproportionately affected groups such as African American and Latinx workers.",
+      "original_point_number": [
+        39,
+        40,
+        41,
+        42
+      ]
+    },
+    {
+      "point_number": 9,
+      "point_content": "Minimum wage hikes raise overall household consumption, which can offset some inflation caused by the wage increase.",
+      "original_point_number": [
+        43
+      ]
+    },
+    {
+      "point_number": 10,
+      "point_content": "Minimum wage increases can have positive health effects, such as reducing smoking, increasing exercise, decreasing obesity, improving mental health, and avoiding premature deaths.",
+      "original_point_number": [
+        44
+      ]
+    },
+    {
+      "point_number": 11,
+      "point_content": "Federal minimum wage has been unchanged since 2009, leading to a decline in purchasing power for low-wage workers.",
+      "original_point_number": [
+        45
+      ]
+    },
+    {
+      "point_number": 12,
+      "point_content": "Proposals like the Raise the Wage Act of 2021 aim to gradually increase the federal minimum wage to $15 by 2025 and adjust it based on median wage growth thereafter.",
+      "original_point_number": [
+        47
+      ]
+    },
+    {
+      "point_number": 13,
+      "point_content": "Raising the minimum wage to $15 would increase wages for millions, lift some out of poverty, but also cause job losses and reduce income for some business owners.",
+      "original_point_number": [
+        48,
+        46,
+        53,
+        54,
+        55,
+        57,
+        58
+      ]
+    },
+    {
+      "point_number": 14,
+      "point_content": "Raising the minimum wage would affect federal government spending and revenues, increasing spending on healthcare, unemployment, and Social Security, reducing nutrition program spending, increasing tax revenues from payroll and income taxes, but reducing revenues due to lower incomes for some business owners and unemployed individuals, resulting in a net increase in the federal budget deficit.",
+      "original_point_number": [
+        50,
+        51,
+        52
+      ]
+    },
+    {
+      "point_number": 15,
+      "point_content": "Employment changes from minimum wage increases include job losses, workers dropping out of the labor force, and those searching for work, with considerable uncertainty about the size of these effects.",
+      "original_point_number": [
+        56,
+        59
+      ]
+    },
+    {
+      "point_number": 16,
+      "point_content": "A significant increase in minimum wages could lead to higher economic growth through increased consumer spending and aggregate demand, but could also contribute to inflation due to higher costs for firms and higher spending by workers.",
+      "original_point_number": [
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        75,
+        77
+      ]
+    },
+    {
+      "point_number": 17,
+      "point_content": "Minimum wages set regionally make more sense than a federal minimum wage because cost of living varies greatly by location.",
+      "original_point_number": [
+        25
+      ]
+    },
+    {
+      "point_number": 18,
+      "point_content": "Some economists suggest eliminating the minimum wage and letting wages be set by supply and demand, arguing the minimum wage workforce is a small portion of all hourly workers and that earned income tax credits would be more effective in reducing poverty.",
+      "original_point_number": [
+        26,
+        27
+      ]
+    },
+    {
+      "point_number": 19,
+      "point_content": "Minimum wage increases alone do not solve affordability issues like housing costs, which have risen faster than incomes and federal housing assistance has declined.",
+      "original_point_number": [
+        28
+      ]
+    },
+    {
+      "point_number": 20,
+      "point_content": "Some small retailers fear serious threats to their ability to continue operating under a $15 minimum wage, and some restaurants add surcharges to offset rising labor costs, which can affect customer choices.",
+      "original_point_number": [
+        22,
+        23
+      ]
+    },
+    {
+      "point_number": 21,
+      "point_content": "Denmark's high wages are achieved through strong worker power and unionization, not a national minimum wage.",
+      "original_point_number": [
+        38
+      ]
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "question": "why do you think more people give importance to their body than their mind?",
+  "key_points": {
+    "clueweb22-en0044-79-13744": [
+      {
+        "point_number": 1,
+        "point_content": "People give more importance to their bodies than their minds because others judge them based on their physical attributes, not their intellectual capacity.",
+        "spans": [
+          "People give more importance to their bodies than their minds.",
+          "They focus on their physical looks since others judge them based on their physical attributes, not their intellectual capacity."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Intellectual capacity is not easily identified without involving a person in solving a mental problem, so people focus on physical appearance.",
+        "spans": [
+          "Other people cannot easily identify intellectual capacity without involving a person in solving a mental problem."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Most people use cosmetics and other beauty products to take care of their bodies to build a good first impression.",
+        "spans": [
+          "Therefore, most people use cosmetics and other beauty products to take care of their bodies.",
+          "I feel that the first impression is used in judging a person.",
+          "Hence, most people focus on building impression to others by taking care of their bodies more than their mind."
+        ]
+      }
+    ],
+    "clueweb22-en0015-59-14720": [
+      {
+        "point_number": 1,
+        "point_content": "People give more importance to their bodies than their minds because others judge them based on their physical attributes, not their intellectual capacity.",
+        "spans": [
+          "People give more importance to their bodies than their minds.",
+          "They focus on their physical looks since others judge them based on their physical attributes, not their intellectual capacity."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Other people cannot easily identify intellectual capacity without involving a person in solving a mental problem.",
+        "spans": [
+          "Other people cannot easily identify intellectual capacity without involving a person in solving a mental problem."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Most people use cosmetics and other beauty products to take care of their bodies to build a good impression on others.",
+        "spans": [
+          "Therefore, most people use cosmetics and other beauty products to take care of their bodies.",
+          "I feel that the first impression is used in judging a person.",
+          "Hence, most people focus on building impression to others by taking care of their bodies more than their mind."
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0008-72-18027": [
+      {
+        "point_number": 1,
+        "point_content": "People nowadays giving attention to their body than their minds because they see their outer appearance and because for them their body is their asset and by thinking too much of their outer appearance they forget to use their brain",
+        "spans": [
+          "People nowadays giving attention to their body than their minds because they see their outer appearance and because for them their body is their asset and by thinking too much of their outer appearance they forget to use their brain"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "People focus on their physical looks since others judge them based on their physical attributes, not their intellectual capacity",
+        "spans": [
+          "They focus on their physical looks since others judge them based on their physical attributes, not their intellectual capacity."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Other people cannot easily identify intellectual capacity without involving a person in solving a mental problem",
+        "spans": [
+          "Other people cannot easily identify intellectual capacity without involving a person in solving a mental problem."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Most people use cosmetics and other beauty products to take care of their bodies",
+        "spans": [
+          "Therefore, most people use cosmetics and other beauty products to take care of their bodies."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The first impression is used in judging a person, so most people focus on building impression to others by taking care of their bodies more than their mind",
+        "spans": [
+          "I feel that the first impression is used in judging a person. Hence, most people focus on building impression to others by taking care of their bodies more than their mind."
+        ]
+      }
+    ],
+    "clueweb22-en0011-56-06045": [
+      {
+        "point_number": 1,
+        "point_content": "Positive thinking has a powerful effect on the body, including increased immunity and better health outcomes.",
+        "spans": [
+          "In recent years, researchers have found that your mind can have a powerful effect on your body.",
+          "Immunity is one area where your thoughts and attitudes can have a particularly powerful influence.",
+          "In one study, researchers found that activation in brain areas associated with negative emotions led to a weaker immune response to a flu vaccine.",
+          "Researchers Segerstrom and Sephton found that people who were optimistic about a specific and important part of their lives, such as how well they were doing in school, exhibited a stronger immune response than those who had a more negative view of the situation."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Positive thinking helps people cope better with stress and improves overall well-being, which can lead to healthier lifestyles.",
+        "spans": [
+          "When faced with stressful situations, positive thinkers cope more effectively than pessimists.",
+          "By coping better with stress and avoiding unhealthy behaviors, they are able to improve their health and well-being."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Positive thinking contributes to resilience, enabling people to face crises with strength and resolve, which benefits mental and physical health.",
+        "spans": [
+          "Resilience refers to our ability to cope with problems.",
+          "It may come as no surprise to learn that positive thinking can play a major role in resilience.",
+          "Researchers have also found that in the wake of a crisis, such as a terrorist attack or natural disaster, positive thoughts and emotions encourage thriving and provide a sort of buffer against depression among resilient people."
+        ]
+      }
+    ]
+  }
+}

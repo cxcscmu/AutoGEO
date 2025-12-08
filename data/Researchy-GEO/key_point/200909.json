@@ -1,0 +1,389 @@
+{
+  "question": "how is italian culture different from the us",
+  "key_points": {
+    "clueweb22-en0037-63-12252": [
+      {
+        "point_number": 1,
+        "point_content": "Everything in America is huge compared to Italy, including roads, cars, houses, stores, and food portions.",
+        "spans": [
+          "The first thing I noticed in America is that everything is huge! Roads, cars, houses, stores, food portions and more."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Italian towns have small, tight, and winding streets with lower speed limits, while American roads are wide, straight, and have higher speed limits with multiple lanes.",
+        "spans": [
+          "I’m from a really small Italian town with its typical Roman features. Roman pavements, tight and winding streets, 50 km/h (31 mph) speed limit, two-lane highways, and the most common car is a 500 FIAT.",
+          "In the U.S., roads are wide, straight and endless, the speed limit gets up to 70 mph, highways usually have six lines and the most common cars are SUVs and vans."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Traffic laws and driving conditions in the U.S. are very different and more complex compared to Italy.",
+        "spans": [
+          "But the biggest change is that traffic laws are almost unreal. People can pass you on both sides. While you are trying to understand which of the six lines you need to be in, how to change the gear (then you remember it is automatic) and looking for the blinkers in a car where also the gearshift is just on the steering wheel, you also have to look at both sides. Two eyes are not enough."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Food sizes in America are much larger than in Italy.",
+        "spans": [
+          "There’s also the food sizes. You’ll see packages of cereal that would never fit in your home pantry, and snacks that don’t fit in your pocket."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Distances in the U.S. are huge, making spontaneous trips and outdoor activities less feasible compared to Italy.",
+        "spans": [
+          "At home in Italy, I can get in my car and start wandering around until I find an amazing place to stop and have a picnic with my boyfriend.",
+          "I was driving from Las Vegas to the Grand Canyon, and for four and a half hours the only thing I saw was an endless desert — that’s Route 66.",
+          "Distances are huge. You can’t just wake up, realize it’s a beautiful day to go hiking, grab some food, get in your car and go."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "American mealtime schedules are earlier and days seem shorter compared to Italy.",
+        "spans": [
+          "Americans usually have breakfast around 9 a.m., then they have lunch at 11 a.m. or 12 p.m.",
+          "But then they have dinner at 5 p.m., or 6 p.m. maximum. That means that after 8 p.m. everything is closed. Consequently, days seem so much shorter!"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Americans are unexpectedly kind and helpful, contrary to some stereotypes.",
+        "spans": [
+          "When I told my friends that Americans are kind, they thought I making fun of them.",
+          "You’ll be surprised by your peers standing at the door hold it open for you; by people who run after you because you drop your hair tie; by people who offer you help every time they see you, knowing you’re an exchange student and you may be confused or feel lonely; by professors who invite you out for lunch or to do some shopping, because they know you may not have friends to go out with during the weekends."
+        ]
+      }
+    ],
+    "clueweb22-en0003-24-13337": [
+      {
+        "point_number": 1,
+        "point_content": "Italians dress much more formally than Americans, rarely wearing sweatpants and t-shirts.",
+        "spans": [
+          "peoples’ dress- which is much more formal than that of American’s",
+          "whereas here you probably will never see an Italian in sweat pants and a t-shirt"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Italians do not wear shorts unless the temperature is above 70 degrees, unlike Americans who consider 55 degrees and above as shorts weather.",
+        "spans": [
+          "you will probably never see an Italian in shorts under 70 degrees",
+          "Americans (like myself…or maybe it’s just because I’m from Chicago) consider shorts weather 55 degrees and above"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Siesta is a cultural practice in Italy where store owners close their stores for a few hours to rest or eat, unlike in the US where stores are generally always open.",
+        "spans": [
+          "siesta- and no, that’s not a party",
+          "siesta is when store owners take a few hours break and close their store to do things that don’t involve work- like nap or eat",
+          "Most stores are also family owned and therefore prices are usually more, so if you come to Italy, you’re probably not going to find your all-in-one store like Wal-Mart"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Italian coffee is typically small, dark, and has little to no sugar or creamer, which is different from the sweeter, larger coffees common in the US.",
+        "spans": [
+          "The first time I ordered coffee here was a rude awakening when the Starbucks-type coffee I was expecting was as dark and small as an espresso shot",
+          "Most Italian coffee has very little to no sugar and creamer",
+          "being a frequent customer of Dunkin’ Donuts Vanilla Iced Coffees, I wasn’t used to actually tasting the coffee"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Driving styles in Italy are more aggressive and less law-abiding compared to the US, with pedestrians not having the right of way and road signs being treated as suggestions.",
+        "spans": [
+          "The saying “pedestrians have the right away” does not apply here",
+          "the aggressive city driving you see in New York or Chicago is also normal driving style here",
+          "road signs and signals are taken even more as a suggestion, versus law, here than they are in the United States"
+        ]
+      }
+    ],
+    "clueweb22-en0017-56-14679": [
+      {
+        "point_number": 1,
+        "point_content": "In Italy, there is a coperto or cover charge on the bill instead of a tip, and dinner starts later and lasts longer, emphasizing enjoying the meal and company.",
+        "spans": [
+          "in Italy, most of the time there will be a coperto or cover charge already configured in your bill",
+          "Also, unlike dinner in the U.S. which usually starts around 6:00 pm and ends relatively quickly, dinner in Italy does not start until at least 7:00 pm and end at 9:00 pm",
+          "Italians take their time with dinner and enjoy each other's company"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Italians, especially Florentines, take great pride in their appearance and dress well, following the cultural norm of la bella figura, while Americans often dress for comfort.",
+        "spans": [
+          "the Italians in how much pride they take in their appearance, especially Florentines",
+          "In my cross-cultural psychology class I learned about la bella figura and what it means to the Italians",
+          "In the U.S. it is perfectly normal to dress for comfort and not for appearance"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Family is highly valued in both cultures, but Americans value independence and moving out early, while Italians tend to live with their parents longer and prioritize family over career.",
+        "spans": [
+          "For Americans, independence is something that is extremely valued",
+          "Italian men live with their parents for a much longer period than American men do",
+          "But for Italians family comes before everything"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The everyday pace in Italy is slower and more relaxed, valuing being in the present, whereas Americans tend to be faster and more future-oriented.",
+        "spans": [
+          "The pace in Italian culture is extremely slow and low key",
+          "Italians value being in the present while Americans seem to always be thinking about the future"
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0037-53-19866": [
+      {
+        "point_number": 1,
+        "point_content": "Italian culture is not directly mentioned in the text, but the text highlights cultural differences between America and other countries, which implies that cultural practices vary significantly between the US and other nations.",
+        "spans": [
+          "8 Cultural Differences Between America And Other Countries"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The text provides examples of cultural differences such as children in Greece throwing lost teeth on the roof, Norwegians eating burgers with a knife and fork, and Indians avoiding giving gifts with the left hand, illustrating that cultural norms differ from the US.",
+        "spans": [
+          "When kids lose their teeth in Greece (and reportedly other countries), they throw them on the roof.",
+          "Norwegians eat burgers with (gasp!) a knife and fork.",
+          "Indians might avoid giving you a gift or your change with their left hand."
+        ]
+      }
+    ],
+    "clueweb22-en0001-17-05837": [
+      {
+        "point_number": 1,
+        "point_content": "Italians love food so much that it borderlines on fanaticism and idol worship, spending a lot of time talking about recipes, cooking, and eating, whereas Americans basically just like food quantity and don't care much about what they're eating as long as it is a lot.",
+        "spans": [
+          "In Italy you’ll find people who love food so much that it borderlines on fanaticism and idol worship.",
+          "They spend an unhealthy amount of time talking about recipes, cooking, and eating.",
+          "Americans love food too but they basically just like food quantity.",
+          "They don’t really give a shit what they’re eating as long as IT IS A LOT OF IT."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Americans tend to pent up their emotions until they snap, while Italians express their emotions openly and dramatically.",
+        "spans": [
+          "Americans pent up all of their emotions (even small, petty ones) until they eventually snap and lose their minds",
+          "Italians cannot keep any of their emotions inside.",
+          "If they feel something the entire vicinity is going to know about it in one way or another in the form of screaming, crying, slapping, or at minimal dramatic hand gestures, pouting or glaring."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Most Americans speak quietly in public places, while Italians speak loudly and openly even about personal matters.",
+        "spans": [
+          "Most Americans are quiet speakers in closed public places.",
+          "In Italy, you can easily hear a conversation that a woman is having about her yeast infection two restaurants down."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Food quality in the US is abysmal compared to Italy, where food quality is much higher.",
+        "spans": [
+          "The food quality (what you can buy at a normal store) in the US is so abysmal compared to Italy"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Americans use euphemisms and sugar coat things, while Italians are direct and blunt.",
+        "spans": [
+          "Americans fucking love euphemisms.",
+          "In Italy there is no euphemism for anything."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Weight is a sensitive subject in the US but commonly talked about openly in Italy, even by strangers.",
+        "spans": [
+          "Weight is a really sensitive subject in the US",
+          "in Italy it’s something that is talked about all the damn time.",
+          "It’s insanely common for friends, family, (and even strangers) to comment on weight."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Life pace in Italy is slow compared to the fast pace in the US, especially in cities like New York.",
+        "spans": [
+          "Life in Italy is slow.",
+          "In the US people are so worried about efficiency and pace that they pretty much die before they even realize they’re alive."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Italy is inefficient and unpredictable in how things work, unlike the US where things are more common-sense and sequential.",
+        "spans": [
+          "When you move to Italy you have to unlearn everything you’ve ever known about things happening in a common-sense sequential manner and you have to learn the new system of nobody knows how things work, when, or why."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Job security is high in Italy due to unions, leading to less motivation to work, while in the US people can be fired easily and are more anxious about job performance.",
+        "spans": [
+          "Nobody can be fired in Italy because of the unions so you pretty much have to assume that absolutely NOBODY is interested in actually doing their jobs.",
+          "In the US people can be fired for walking funny or smelling weird so we spend every second of every day terrified that our boss hates our outfit and is going to throw us into the streets and our kids will starve to death."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Children in Italy are less pampered and more independent compared to the US where children are more often pampered and pushed in strollers at older ages.",
+        "spans": [
+          "I’ve frequently seen seven year olds being pushed in a stroller in Florence.",
+          "I’ve never seen a seven year old in a stroller in the US unless the kids legs didn’t work for some sad or terrible reason."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Italians generally put more effort into their style and appearance than most Americans, especially in small towns.",
+        "spans": [
+          "In small town USA you’ll frequently see people shopping in sweat pants and you’ll see the occasional pair of overalls on a grown ass man.",
+          "In Italy I’ve seen some horrible outfits but for the most part there is a good amount of effort that goes into appearance even in teeny tiny hillbilly villages."
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "Italy is more dog friendly with dogs allowed in many places, while the US is more restrictive and sterile regarding pets.",
+        "spans": [
+          "Italy is pretty dog friendly.",
+          "Oliver is always treated like part of the family and he’s allowed to go anywhere (including nice restaurants).",
+          "Dogs aren’t allowed inside anywhere because of the US hysteria for hygiene and lawsuits."
+        ]
+      },
+      {
+        "point_number": 13,
+        "point_content": "Family culture in Italy emphasizes close family ties and dependence, while in the US independence is highly valued.",
+        "spans": [
+          "In the US independence is one of the our most valuable qualities.",
+          "In most Italian families, independence isn’t really pushed at all.",
+          "Everyone is an extension of the family and “needing” ones family is normal and healthy."
+        ]
+      },
+      {
+        "point_number": 14,
+        "point_content": "In Italy, people of all ages remain active and social, while in much of the US people conform more to age-related expectations.",
+        "spans": [
+          "People of all ages go out, go drinking, and stay in motion and active.",
+          "People seem more tied to their age and give in to the dull expectations of what a 40 year old should or shouldn’t do which is usually kind of lame."
+        ]
+      },
+      {
+        "point_number": 15,
+        "point_content": "Gender roles in Italy are more traditional with women expected to do most housework and child-rearing, while the US has more equal expectations but also more resentment towards women.",
+        "spans": [
+          "Many parts of Italy still hold true to the belief that housework is only for women and regardless if women have a career or not they’re usually expected to do three times as much as men at home.",
+          "In the US the expectations are a little more equal in terms of career, child-rearing, and household responsibilities.",
+          "While the sexes are getting more and more equal in the US there is a lot of hateful, blind resentment towards women in American culture."
+        ]
+      },
+      {
+        "point_number": 16,
+        "point_content": "Italian culture is very romantic and emotional in relationships, while Americans tend to be more practical.",
+        "spans": [
+          "Italian culture reeks of romance.",
+          "The wining, dining, flattering, is common in both countries but Americans tend to be a little more practical",
+          "whereas Italians are more sort of lofty, emotional, but non-comital during the initial process."
+        ]
+      },
+      {
+        "point_number": 17,
+        "point_content": "Americans are accustomed to having more personal space, while Italians live in closer quarters and are more physically tactile.",
+        "spans": [
+          "The US is enormous so it’s no surprise that Americans are accustomed to space.",
+          "Italy is not gigantic and in most cities the people live packed into a smaller apartment.",
+          "Strangers touched me all the time and nobody bothered to say, “sorry” or “excuse me.”"
+        ]
+      },
+      {
+        "point_number": 18,
+        "point_content": "Italian culture is calmer and less neurotic compared to American culture, which is more anxious and reactive.",
+        "spans": [
+          "Italian culture is so calm compared to American culture.",
+          "Things that would send a typical American into cardiac arrest usually won’t get more than a shrug from an Italian."
+        ]
+      }
+    ],
+    "clueweb22-en0038-40-05947": [
+      {
+        "point_number": 1,
+        "point_content": "Italians are often late and punctuality is less strict compared to the US.",
+        "spans": [
+          "Before coming to Italy, I heard that Italians are often late.",
+          "An Italian said he will pick you up at 7? He really means that at 7:15 he will show up.",
+          "If your train is scheduled to arrive at 5:30, it will probably actually be 10 minutes late."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Italians take food seriously and have a different meal culture compared to the US.",
+        "spans": [
+          "Italians take food seriously.",
+          "Most shops close for two hours in the middle of the day for a lunch break.",
+          "Instead of grabbing Jimmy John’s, Subway, or Wendy’s, they will make something like pasta, which is very common for lunch.",
+          "Pasta for lunch and meat for dinner is a typical pattern.",
+          "When going out to eat, there are three courses, dessert, and then coffee."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Italian food varies greatly by region, unlike the more uniform perception of Italian food in the US.",
+        "spans": [
+          "The food in north Italy and south Italy are so different.",
+          "What we typically think of as Italian food is more similar to the food from the south.",
+          "In the north, they have their own specialties like risotto Milanese."
+        ]
+      }
+    ],
+    "clueweb22-en0018-09-09218": [
+      {
+        "point_number": 1,
+        "point_content": "In Italian culture, people stand much closer to one another when conversing, and Italians may even touch you, which is different from the US and UK.",
+        "spans": [
+          "in Italian culture, people stand much closer to one another when conversation",
+          "Italians, both men and women, may even touch you"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The physical closeness and touching in Italian culture is a sign of warmth and intimacy without sexual connotations, unlike in the US where such behavior might be interpreted differently.",
+        "spans": [
+          "It’s a sort of intimacy, but without any other connotations",
+          "this intimacy does not mean anything, it’s just a sign of the warmth for which Italian culture is known"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Men kissing men on the cheek and walking arm in arm is common and not considered an indication of sexuality in Italy, unlike in the UK or US.",
+        "spans": [
+          "men kiss men here",
+          "men walking arm in arm – this is not considered strange nor is it an indication of sexuality"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Italian culture includes personal touches and courteousness in service, such as small family-run businesses developing good relationships with customers, which may differ from the US experience.",
+        "spans": [
+          "Certain aspects of Italian culture such as the personal touches I really like",
+          "There are still an awful lot of small family run businesses in Italy, and they survive by developing a good relationship with their customers"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Catholicism has a strong cultural influence in Italy, with the Pope frequently in the news, but many Italians have little or no involvement with the church, similar to the UK.",
+        "spans": [
+          "Catholicism is very Italian – the Pope is on the news in Italy almost daily",
+          "many, many people have little or no involvement with the church in Italy",
+          "the influence of the Roman Catholic Church on Italian culture is enormous"
+        ]
+      }
+    ]
+  }
+}

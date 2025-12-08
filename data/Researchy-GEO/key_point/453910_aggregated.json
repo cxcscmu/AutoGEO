@@ -1,0 +1,195 @@
+{
+  "question": "should all vaccines for all diseases be mandatory?",
+  "key_points": [
+    {
+      "point_number": 1,
+      "point_content": "Vaccines help reduce the risk of vaccine-preventable diseases and protect community health through herd immunity; by being vaccinated, a person helps themselves and others around them, reducing the spread of infectious diseases and protecting vulnerable populations.",
+      "original_point_number": [
+        1,
+        2,
+        10,
+        27
+      ]
+    },
+    {
+      "point_number": 2,
+      "point_content": "Vaccines protect individuals and communities from serious or possibly fatal diseases including diphtheria, measles, meningitis, polio, tetanus, whooping cough, and meningitis and septicaemia, helping children grow into strong healthy adults and stay healthy as they grow up.",
+      "original_point_number": [
+        29,
+        30,
+        31,
+        81
+      ]
+    },
+    {
+      "point_number": 3,
+      "point_content": "Vaccination rates have declined in some countries, including England where rates for MMR have fallen below herd immunity threshold leading to loss of measles-free status; social media is blamed for spreading anti-vaccine messages, causing debate about making vaccinations compulsory before school entry.",
+      "original_point_number": [
+        13,
+        15,
+        16
+      ]
+    },
+    {
+      "point_number": 4,
+      "point_content": "Some countries have made certain vaccinations mandatory for schoolchildren, and studies show compulsory vaccination policies increase immunisation rates; examples include the US and Australia where stricter laws or removing exemptions led to higher vaccination rates and lower disease incidence.",
+      "original_point_number": [
+        17,
+        42,
+        76,
+        77
+      ]
+    },
+    {
+      "point_number": 5,
+      "point_content": "Some health experts and international bodies like WHO oppose compulsory vaccination, citing increased controversy, potential negative consequences, and emphasizing balance between individual autonomy and public health; coercive measures may create panic and fail to increase uptake, so governments should focus on awareness and accessibility.",
+      "original_point_number": [
+        18,
+        40,
+        41
+      ]
+    },
+    {
+      "point_number": 6,
+      "point_content": "Alternative approaches to compulsory vaccination include targeted catch-up programmes, better reminders, focusing on low-uptake areas, talking through concerns with trusted health professionals, and making vaccines easy to access to improve uptake among hesitant parents and families with access difficulties.",
+      "original_point_number": [
+        19,
+        79,
+        80
+      ]
+    },
+    {
+      "point_number": 7,
+      "point_content": "Vaccination rates vary regionally, with some areas already achieving herd immunity levels, complicating a UK-wide compulsion policy; enforcing compulsory vaccination in schools would be complex, requiring bureaucracy and respecting religious objections.",
+      "original_point_number": [
+        20,
+        21
+      ]
+    },
+    {
+      "point_number": 8,
+      "point_content": "Libertarian and legal arguments exist against compulsory vaccination as state intervention in family life, violating individual autonomy and the right to informed consent under Article 21 of the Indian Constitution; parents should have the right to make health care choices for their children and not be forced to vaccinate if they strongly oppose it.",
+      "original_point_number": [
+        22,
+        36,
+        59
+      ]
+    },
+    {
+      "point_number": 9,
+      "point_content": "Mandatory vaccination policies assume equitable vaccine availability, which is not the current reality due to shortages and access disparities; such policies will disproportionately affect poor and marginalized communities due to access challenges.",
+      "original_point_number": [
+        34,
+        35
+      ]
+    },
+    {
+      "point_number": 10,
+      "point_content": "There is insufficient data on vaccine risks and effectiveness duration, making informed consent and mandatory vaccination problematic; current vaccines primarily protect individuals from severe disease and death, not necessarily from infection or transmission, so vaccination should be a personal choice.",
+      "original_point_number": [
+        37,
+        38,
+        39
+      ]
+    },
+    {
+      "point_number": 11,
+      "point_content": "Vaccines might entail some small risks, but these are very rare and not a good enough reason against mandatory vaccination; seat belt mandates are widely supported despite small risks because they save many lives, similarly vaccines save many lives despite very small risks, and vaccination mandates are justified for the same reasons seat belt mandates are.",
+      "original_point_number": [
+        11,
+        12,
+        9
+      ]
+    },
+    {
+      "point_number": 12,
+      "point_content": "Vaccines are an important tool for preventing disease and should be mandatory for all people; vaccination is one of the most effective public health interventions in the world for saving lives and promoting good health; vaccination mandates save lives and are comparable to other public health laws that limit individual freedoms for safety; public health and safety justify vaccination mandates despite individual rights.",
+      "original_point_number": [
+        28,
+        69,
+        52,
+        45
+      ]
+    },
+    {
+      "point_number": 13,
+      "point_content": "Refusing vaccination without medical reasons is unfair and dangerous to vulnerable populations; eliminating personal belief exemptions will save lives; vaccines protect individuals and communities; exemptions should be limited to protect those who cannot be vaccinated; philosophical or personal belief exemptions should not exist because unvaccinated children endanger others in public spaces.",
+      "original_point_number": [
+        46,
+        47,
+        49
+      ]
+    },
+    {
+      "point_number": 14,
+      "point_content": "All children should be vaccinated before attending school, except for medical exemptions which should be granted only by a physician; parents do not have the right to send unvaccinated children to public schools as it puts other children at risk; childhood vaccines are mandated to ensure a safe and healthy environment for education and to prevent diseases.",
+      "original_point_number": [
+        48,
+        51,
+        44
+      ]
+    },
+    {
+      "point_number": 15,
+      "point_content": "Some vaccines for non-lethal diseases may not be appropriate to mandate, and government coercion is not favored; vaccination is a government program that has grown out of control and parents should have the fundamental right to make medical decisions for their children; children have the right to get infections and immune systems need to be exposed to viruses; vaccines sterilize society unnaturally.",
+      "original_point_number": [
+        53,
+        56,
+        57
+      ]
+    },
+    {
+      "point_number": 16,
+      "point_content": "No person should be forced by government or societal pressure to receive vaccines against their will; no one has the right or power to immunize individuals against their will and there are legal exceptions to compulsory immunization laws; people should have the legal right to make educated vaccine decisions and not be forced to accept one-size-fits-all mandates; patients have the right to reject or accept medical procedures including vaccines after being informed of risks and benefits.",
+      "original_point_number": [
+        58,
+        64,
+        65,
+        54
+      ]
+    },
+    {
+      "point_number": 17,
+      "point_content": "In free democracies, there are usually provisions for conscientious objections to immunization programs; vaccine mandates are not legally required for school entry in all states and parents have legal exemptions to mandatory injections; parents should be given time and opportunity to discuss vaccine safety concerns with health professionals rather than being coerced; parents have the right to make their own decisions about vaccinating their children and should not be forced.",
+      "original_point_number": [
+        61,
+        60,
+        62,
+        63
+      ]
+    },
+    {
+      "point_number": 18,
+      "point_content": "Mandatory vaccination is a long-debated issue; legislation has had a dramatic effect in other areas of public health and safety, so why not do the same with immunisation; however, there is a lack of evidence that mandatory vaccination actually helps to increase uptake; whether mandatory vaccination is the best way to achieve high uptake remains under debate.",
+      "original_point_number": [
+        66,
+        67,
+        68,
+        82
+      ]
+    },
+    {
+      "point_number": 19,
+      "point_content": "UK officials are preparing groundwork for mandatory vaccination policy due to falling vaccination rates and rising measles cases, but no decision is inevitable yet; if measles cases continue to rise, a major shift towards compulsory vaccination policy may become more likely; other European healthcare systems have implemented compulsory vaccination policies, showing feasibility if politically desired.",
+      "original_point_number": [
+        24,
+        25,
+        23
+      ]
+    },
+    {
+      "point_number": 20,
+      "point_content": "Vaccination for Covid-19 is voluntary as per the Union Ministry of Health and Family Welfare.",
+      "original_point_number": [
+        33
+      ]
+    },
+    {
+      "point_number": 21,
+      "point_content": "If persuasion and accessibility fail to achieve sufficient vaccination rates, more coercive options, including mandates, may be necessary to prevent disease outbreaks.",
+      "original_point_number": [
+        8
+      ]
+    }
+  ]
+}

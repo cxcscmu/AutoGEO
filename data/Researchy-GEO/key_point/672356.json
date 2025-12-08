@@ -1,0 +1,46 @@
+{
+  "question": "what are the different policy tools for dealing with cyclical unemployment?",
+  "key_points": {
+    "null": [],
+    "clueweb22-en0029-63-18823": [
+      {
+        "point_number": 1,
+        "point_content": "The government uses expansionary monetary policy to address cyclical unemployment.",
+        "spans": [
+          "The initial solution taken by the government to solve the issue of climbing a cyclical unemployment rate is to use an expansionary monetary policy."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Central banks create money to buy government securities to lower interest rates and increase the money supply.",
+        "spans": [
+          "Central banks will create money to buy government securities from the market in order to lower interest rates and increase the money supply."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Lower interest rates and increased money supply aim to trigger financial institutions to increase lending and liquidity.",
+        "spans": [
+          "These economic conditions will then, hopefully, trigger financial institutions to promote an increase in lending and to make the money supply more liquid."
+        ]
+      }
+    ],
+    "clueweb22-en0023-46-17903": [
+      {
+        "point_number": 1,
+        "point_content": "Macroeconomic policies that focus on credit and interest rates or controlling the money supply are called monetary policies.",
+        "spans": [
+          "Macroeconomic policies that focus on credit and interest rates or controlling the money supply are called monetary policies."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "A bill was introduced into Congress last year suggesting changes to the income tax code. Congress now passed this new tax reform act in the last session and over the next few years the new laws will begin to impact the nation. This is an example of macroeconomic fiscal policy.",
+        "spans": [
+          "A bill was introduced into Congress last year suggesting changes to the income tax code. Congress now passed this new tax reform act in the last session and over the next few years the new laws will begin to impact the nation. This is an example of what type of policy?",
+          "Macroeconomic fiscal policy"
+        ]
+      }
+    ]
+  }
+}

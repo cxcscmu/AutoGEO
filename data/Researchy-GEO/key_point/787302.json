@@ -1,0 +1,200 @@
+{
+  "question": "compare and contrast prokaryotic and eukaryotic cells and the impact viruses have on them.",
+  "key_points": {
+    "null": [],
+    "clueweb22-en0039-83-05511": [
+      {
+        "point_number": 1,
+        "point_content": "Compare and contrast prokaryotic and eukaryotic cells, and explain the impact that viruses have on them.",
+        "spans": [
+          "Compare and contrast prokaryotic and eukaryotic cells, and explain the impact that viruses have on them."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Discuss selected characteristics of living cells relevant to understanding prokaryotic and eukaryotic cells and viral impact.",
+        "spans": [
+          "Discuss the selected characteristics of living cells."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Use diagrams and/or comparison tables to support commentary on prokaryotic and eukaryotic cells and viral impact.",
+        "spans": [
+          "Using diagrams, explain cell structure and their characteristics and compare eukaryotic/prokaryotic cell with an explanation of the impact viruses have on them (maybe a table to show comparison?)"
+        ]
+      }
+    ],
+    "clueweb22-en0000-03-07964": [
+      {
+        "point_number": 1,
+        "point_content": "The text is about comparing and contrasting prokaryotic cells, eukaryotic cells, and viruses.",
+        "spans": [
+          "Compare and Contrast Prokaryotic Cells, Eukaryotic Cells, and Viruses"
+        ]
+      }
+    ],
+    "clueweb22-en0030-52-04589": [
+      {
+        "point_number": 1,
+        "point_content": "Prokaryotic cells do not have a membrane-bound nucleus or organelles, while eukaryotic cells contain a nucleus and organelles bound by plasma membranes.",
+        "spans": [
+          "Eukaryotic cells contain a nucleus and organelles bound by plasma membranes.",
+          "Prokaryotic cells do not have a membrane-bound nucleus or organelles."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Prokaryotic cells have circular strands of DNA; eukaryotic cells have multiple molecules of double-stranded, linear DNA.",
+        "spans": [
+          "Prokaryotic cells have circular strands of DNA; eukaryotic cells have multiple molecules of double-stranded, linear DNA."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Prokaryotic cells are smaller (0.1-5 μm) compared to eukaryotic cells (10-100 μm).",
+        "spans": [
+          "Cell Size Larger (10-100 μm) Smaller (0.1-5 μm)"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Prokaryotic cells have no mitochondria; nearly every eukaryotic cell has mitochondria.",
+        "spans": [
+          "Prokaryotic cells have no mitochondria; nearly every eukaryotic cell has mitochondria."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Both prokaryotic and eukaryotic cells share some similarities such as carrying out all necessary functions of life, carrying DNA and rDNA, having vesicles and vacuoles, and can be single-celled organisms.",
+        "spans": [
+          "Both types of cells carry on all the necessary functions of life (adaptation through evolution, cellular organization, growth and development, heredity, homeostasis, reproduction, metabolism, and response to stimuli).",
+          "Both cells carry DNA and rDNA (ribosomal DNA)",
+          "Both prokaryotic cells and eukaryotic cells have vesicles.",
+          "Both prokaryotes and eukaryotes may be single-celled organisms.",
+          "Both types of cells have vacuoles, storage units for food and liquid."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Prokaryotic cells have many ways to obtain and use energy including photosynthesis, respiration, nitrogen fixation, denitrification, sulfate reduction, and methanogenesis.",
+        "spans": [
+          "Prokaryotic cells have many more ways to obtain and use energy than eukaryotic cells, performing photosynthesis, respiration in common with eukaryotes but also using nitrogen fixation, denitrification, sulfate reduction, and methanogenesis"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Prokaryotic cells can reproduce exponentially fast by binary fission roughly every 24 hours.",
+        "spans": [
+          "Prokaryotic cells can perform binary fission roughly every 24 24 hours, meaning they can reproduce exponentially fast"
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Eukaryotic cells have organelles such as mitochondria, chloroplasts, endoplasmic reticulum, Golgi apparatus, ribosomes, vacuoles, lysosomes, peroxisomes, and nucleus.",
+        "spans": [
+          "The organelles in eukaryotic cells act as tiny membrane-bound compartments performing all the functions of life in the cell: energy acquisition and transfer, digestion, waste management, reproduction, and cellular respiration.",
+          "Some of these eukaryotic cell organelles are: Mitochondria (cell powerhouses) Chloroplasts (in plants and some algae, for photosynthesis) Endoplasmic reticulum (the cell transport system) Golgi apparatus (protein packagers) Ribosomes (protein synthesis) Vacuoles (water and food storage) Lysosomes (digestive processes) Peroxisomes (metabolic processes) Nucleus (the mind and brain of the cell)"
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Viruses impact prokaryotic cells (bacteria) and eukaryotic cells differently, but the text does not provide specific details on the impact of viruses on these cells.",
+        "spans": [
+          ""
+        ]
+      }
+    ],
+    "clueweb22-en0037-77-05422": [
+      {
+        "point_number": 1,
+        "point_content": "Compare and contrast prokaryotic and eukaryotic cells, and explain the impact that viruses have on them.",
+        "spans": [
+          "Compare and contrast prokaryotic and eukaryotic cells, and explain the impact that viruses have on them."
+        ]
+      }
+    ],
+    "clueweb22-en0028-14-10901": [
+      {
+        "point_number": 1,
+        "point_content": "Prokaryotes have no nucleus and no organelles, are small and simple, all unicellular, have a sticky capsule, all have a cell wall, were the first cells (Archaea), live in a wide variety of environments, and all are bacteria except for Archaea.",
+        "spans": [
+          "no nucleus",
+          "small and simple",
+          "no organelles",
+          "all are unicellular",
+          "cells have a sticky capsule",
+          "all cells have a cell wall",
+          "were the first cells (Archaea)",
+          "live a wide variety of environments",
+          "all are bacteria except for Archaea"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Eukaryotes have cells with a nucleus and organelles, can be unicellular or multicellular, have a cytoskeleton, and some have cilia.",
+        "spans": [
+          "cells have a nucleus",
+          "cells have organelles",
+          "can be unicellular or multicellular",
+          "have a cytoskeleton",
+          "some have cilia"
+        ]
+      }
+    ],
+    "clueweb22-en0041-55-07987": [
+      {
+        "point_number": 1,
+        "point_content": "Prokaryotic cells do not have a nucleus like eukaryotes do. Their DNA is not membrane-bound, just free in the cytoplasm.",
+        "spans": [
+          "Prokaryotes do not have a nucleuslike eukaryotes do. Their DNA is not membrane-bound, just free in the cytoplasm."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Prokaryotic cells lack membrane-bound organelles such as mitochondria and endoplasmic reticulum, unlike eukaryotic cells.",
+        "spans": [
+          "the cytoplasmoverall does not contain membrane-bound organelles such as mitochondria and endoplasmic reticulum"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Prokaryotic ribosomes are smaller (70S) compared to eukaryotic ribosomes (80S).",
+        "spans": [
+          "prokaryotic ribosomesare smaller than their eukaryotic counterparts; due to their size (and the centrifugation level they separate from the cell at) they are termed 70Sribosomes; the bigger eukaryotic ribosomes are 80S"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Prokaryotic DNA is a single circular molecule freely present in the cytoplasm and not associated with proteins such as histones, unlike eukaryotic DNA.",
+        "spans": [
+          "they lack a nucleus; instead, their DNA is a single circular molecule freely present in the cytoplasm and not associated with any proteins such as histones in eukaryotes"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Prokaryotic cells have a cell wall containing murein (peptidoglycan), which is different from eukaryotic cells.",
+        "spans": [
+          "they have a cell wall which contains a special glycoprotein called which contains a special glycoprotein called murein (also known as peptidoglycan)"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Some prokaryotes have plasmids, capsules, and flagella, which are specialized structures not found in eukaryotic cells.",
+        "spans": [
+          "one or more plasmids which are also circular DNA loops but much smaller",
+          "a capsulemade of polysaccharides as their outermost layer (on top of the cell wall on top of the plasma membrane)",
+          "one or more flagella which aid in locomotion."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "The bacterial cell wall composition affects their classification (Gram positive or Gram negative) and their response to antibiotics.",
+        "spans": [
+          "Amongst bacteria, the cell wall composition is a key determinant of what type they belong to.",
+          "Based on different bacteria species’ response to crystal violetstain, Gram positivebacteria are able to take up the stain and appear violet under a microscope, while Gram negativebacteria do not take the stain up and will appear pink if a counterstainis added after washing off the crystal violet stain (this will persist in the Gram positive bacteria)."
+        ]
+      }
+    ]
+  }
+}

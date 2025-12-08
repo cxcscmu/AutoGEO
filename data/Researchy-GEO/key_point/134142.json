@@ -1,0 +1,414 @@
+{
+  "question": "can climate change be fixed",
+  "key_points": {
+    "clueweb22-en0039-86-20236": [
+      {
+        "point_number": 1,
+        "point_content": "We can slow the rate and limit the amount of global warming by reducing human emissions of heat-trapping gases and soot.",
+        "spans": [
+          "Yes.  While we cannot stop global warming overnight, we can slow the rate and limit the amount of global warming by reducing human emissions of heat-trapping gases and soot (“black carbon”)."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "If all human emissions stopped today, Earth's temperature would continue to rise for a few decades due to ocean heat but would then stabilize and gradually decline as natural processes remove excess carbon dioxide.",
+        "spans": [
+          "If all human emissions of heat-trapping gases were to stop today, Earth’s temperature would continue to rise for a few decades as ocean currents bring excess heat stored in the deep ocean back to the surface.  Once this excess heat radiated out to space, Earth’s temperature would stabilize.",
+          "With no further human influence, natural processes would begin to slowly remove the excess carbon dioxide from the atmosphere, and global temperatures would gradually begin to decline."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "It is unlikely to keep global warming below 1.5°C without dramatic action, but it is never too late to take action to reduce negative impacts.",
+        "spans": [
+          "It’s true that without dramatic action in the next couple of decades, we are unlikely to keep global warming in this century below 2.7° Fahrenheit (1.5° Celsius) compared to pre-industrial temperatures—a threshold that experts say offers a lower risk of serious negative impacts.",
+          "But the more we overshoot that threshold, the more serious and widespread the negative impacts will be, which means that it is never “too late” to take action."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Meeting targets to limit greenhouse gas concentrations requires a major departure from business as usual in energy use and production.",
+        "spans": [
+          "Meeting internationally discussed targets for limiting atmospheric greenhouse gas concentrations and associated increases in global average temperatures will require a major departure from business as usual in how the world uses and produces energy."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Transitioning to energy sources that do not emit greenhouse gases can slow climate change, though there are challenges.",
+        "spans": [
+          "Transitioning to energy sources that do not emit greenhouse gases, such as solar, wind, biofuels, and nuclear, can slow the pace of climate change, though these energy sources face hurdles ranging from manufacturing capacity to debates about where to install some facilities."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Geoengineering proposals exist but are controversial and not yet well understood, with potential risks and ethical issues.",
+        "spans": [
+          "Alternative methods to slow or reduce global warming have been proposed that are, collectively, known as \"climate engineering\" or \"geoengineering.\"",
+          "Some geoengineering proposals involve cooling Earth's surface by injecting reflective particles into the upper atmosphere to scatter and reflect sunlight back to space.",
+          "Other proposals involve seeding the oceans with iron to stimulate large-scale phytoplankton blooms, thereby drawing down carbon dioxide out of the atmosphere through photosynthesis.",
+          "Such methods could work, in principle, but many climate scientists oppose undertaking geoengineering until we have a much better understanding of the possible side effects.",
+          "Additionally, there are unresolved legal and ethical issues surrounding geoengineering."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "The American Meteorological Society cautions that geoengineering may have adverse and unpredictable consequences and benefits are not yet determined.",
+        "spans": [
+          "Given these concerns, the American Meteorological Society published a position paper (readopted in January 2013) in which it said: \"...research to date has not determined whether there are large-scale geoengineering approaches that would produce significant benefits, or whether those benefits would substantially outweigh the detriments.",
+          "Indeed, geoengineering must be viewed with caution because manipulating the Earth system has considerable potential to trigger adverse and unpredictable consequences.\""
+        ]
+      }
+    ],
+    "clueweb22-en0023-51-18364": [
+      {
+        "point_number": 1,
+        "point_content": "It is not too late to take action on climate change.",
+        "spans": [
+          "It is not too late to take action on climate change."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "We must take swift action to level off and then decrease the amount of carbon dioxide and other greenhouse gases in the atmosphere.",
+        "spans": [
+          "As a global community, we need to soon level off—and then decrease—the amount of carbon dioxide (CO 2) and other greenhouse gases in the atmosphere."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The fastest way to address the buildup of CO2 is to stop adding more by replacing high-emitting fuels with nearly carbon-free alternatives and updating infrastructure.",
+        "spans": [
+          "The fastest way to address the buildup of CO 2 in the atmosphere is to stop adding more.",
+          "We can replace high-emitting fuels like coal, oil and gas with nearly “carbon-free” alternatives, such as solar power, wind power, or nuclear power.",
+          "We can also update our buildings and infrastructure, so that it takes less energy to build and use them."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Removing CO2 already in the atmosphere can help but will likely not remove it quicker than we are adding it; stopping emissions is essential.",
+        "spans": [
+          "We can add to these efforts by trying to remove some of the CO 2 that is already in the atmosphere: for instance, by reforesting the Earth, by changing our farming practices to store more carbon in the soil, or through “direct air capture” technology.",
+          "However, these methods will likely not be able to remove CO 2 quicker than we are now adding it to the atmosphere. We must begin with stopping our runaway greenhouse gas emissions."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Cutting carbon emissions in half by 2030 and achieving net zero by 2050 can avoid the worst threats of climate change.",
+        "spans": [
+          "If, by 2030, we cut our carbon emissions in about half – and, by 2050, we don’t emit any more carbon emissions than the planet can absorb each year – scientists predict that we can avoid the worst threats of climate change."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "We need to prepare for and adapt to the changes already occurring due to climate change to protect health, food, water, and infrastructure.",
+        "spans": [
+          "We need to prepare for and adapt to these changes, so that we can protect human health, water and food supplies, our cities and towns, and natural habitats."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Urgent action to cut emissions is needed to avoid riskier options like geoengineering.",
+        "spans": [
+          "But unless we also actively cut our greenhouse gas emissions, unchecked climate change could eventually put safe and just adaptation beyond our reach.",
+          "Urgent action is needed to avoid the need for these riskier options."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Great progress can be made with current low-carbon technologies, and all sectors of society must contribute to speeding their adoption.",
+        "spans": [
+          "Great progress can and must be achieved with the low-carbon technologies we have today.",
+          "Individuals can change their behavior and advocate for ambitious new policies.",
+          "Corporations can drive change across whole industries.",
+          "Governments can enact laws to make it easier and cheaper to cut greenhouse gas emissions, and to help communities prepare for new challenges."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "There is no true alternative to fossil fuels that meets all current and future energy needs; new tools and breakthroughs are urgently needed.",
+        "spans": [
+          "At the same time, the world does not have a true alternative to fossil fuels that can meet all our current energy needs, let alone meet an increased demand in the future.",
+          "To take on the hardest challenges in reducing our emissions, in removing CO 2 from the atmosphere, and in adapting to a changing climate, we urgently need new tools."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "An aggressive and pragmatic plan to achieve a net zero carbon global energy system is required, and collective action can create a better world.",
+        "spans": [
+          "The challenge requires an aggressive and pragmatic plan to achieve a net zero carbon global energy system, the sooner the better, for all of humankind.",
+          "If academia, business, government, and citizens act together toward this common goal, we can create a pollution-free energy system; form a prosperous, adaptable and resilient society; keep human, animal, and plant life flourishing; and create a better world for ourselves and generations to come."
+        ]
+      }
+    ],
+    "clueweb22-en0035-39-12917": [
+      {
+        "point_number": 1,
+        "point_content": "If we stopped emitting greenhouse gases today, the rise in global temperatures would begin to flatten within a few years.",
+        "spans": [
+          "if we stopped emitting greenhouse gases today, the rise in global temperatures would begin to flatten within a few years"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Temperatures would then plateau but remain well-elevated for many, many centuries.",
+        "spans": [
+          "Temperatures would then plateau but remain well-elevated for many, many centuries"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Every little bit of avoided future temperature increases results in less warming that would otherwise persist for essentially forever.",
+        "spans": [
+          "every little bit of avoided future temperature increases results in less warming that would otherwise persist for essentially forever"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Without major action to reduce emissions, global temperature is on track to rise by 2.5 ° C to 4.5 ° C by 2100.",
+        "spans": [
+          "Without major action to reduce emissions, global temperature is on track to rise by 2.5 ° C to 4.5 ° C (4.5 ° F to 8 ° F) by 2100"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Responding to climate change will involve a two-tier approach: Mitigation and Adaptation.",
+        "spans": [
+          "Responding to climate change will involve a two-tier approach:\n“Mitigation” – reducing the flow of greenhouse gases into the atmosphere\n“Adaptation” – learning to live with, and adapt to, the climate change that has already been set in motion."
+        ]
+      }
+    ],
+    "clueweb22-en0036-79-08266": [
+      {
+        "point_number": 1,
+        "point_content": "By 2030, your CO2 emissions will be greatly reduced.",
+        "spans": [
+          "By 2030, your CO2 emissions will be greatly reduced."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The air you breathe in the city is cleaner because there are far fewer cars on the streets and the rest are electric – all electricity is green in fact.",
+        "spans": [
+          "The air you breathe in the city is cleaner because there are far fewer cars on the streets and the rest are electric – all electricity is green in fact."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Single-use plastics are a distant memory.",
+        "spans": [
+          "Single-use plastics are a distant memory."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Forests and nature are again spreading across the globe.",
+        "spans": [
+          "Forests and nature are again spreading across the globe."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "To limit global temperature rise to well below 2°C and as close as possible to 1.5°C above pre-industrial levels, it is essential that businesses, policy-makers, and civil society advance comprehensive near- and long-term climate actions in line with the goals of the Paris Agreement on climate change.",
+        "spans": [
+          "To limit global temperature rise to well below 2°C and as close as possible to 1.5°C above pre-industrial levels, it is essential that businesses, policy-makers, and civil society advance comprehensive near- and long-term climate actions in line with the goals of the Paris Agreement on climate change."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "The World Economic Forum's Climate Initiative supports the scaling and acceleration of global climate action through public and private-sector collaboration.",
+        "spans": [
+          "The World Economic Forum's Climate Initiative supports the scaling and acceleration of global climate action through public and private-sector collaboration."
+        ]
+      }
+    ],
+    "clueweb22-en0019-16-14155": [
+      {
+        "point_number": 1,
+        "point_content": "Governments, businesses, and utilities are moving toward cleaner energy.",
+        "spans": [
+          "Governments, businesses, and utilities are moving toward cleaner energy."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The push to trim carbon emissions begins with changing how we live.",
+        "spans": [
+          "But the push to trim carbon emissions begins with changing how we live."
+        ]
+      }
+    ],
+    "clueweb22-en0027-71-02086": [
+      {
+        "point_number": 1,
+        "point_content": "Scientific studies have determined that current technology is sufficient to reduce greenhouse gas emissions enough to avoid dangerous climate change.",
+        "spans": [
+          "Scientific studies have determined that current technology is sufficient to reduce greenhouse gas emissions enough to avoid dangerous climate change ."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Pacala and Socolow (2004) identified 15 current options (stabilization wedges) that could be scaled up to reduce emissions, all already implemented at industrial scale.",
+        "spans": [
+          "Pacala and Socolow (2004) investigated this claim by examining the various technologies available to reduce GHG emissions.  Every technology they examined \"has passed beyond the  laboratory bench and demonstration project; many are already implemented  somewhere at full industrial scale.\"  The study used the concept of a  \"stabilization wedge\", in which \"a wedge represents an activity that  reduces emissions to the atmosphere by a certain amount. The study identifies 15  current options which could be scaled up to produce at least one wedge:"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Implementing between 7 and 14 of these stabilization wedges would be necessary to avoid dangerous climate change.",
+        "spans": [
+          "Implementing somewhere between 7 and 14 wedges would be necessary to avoid dangerous climate change."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "While achieving the necessary GHG emissions reductions will be difficult, it is possible with many solutions and combinations of wedges to choose from.",
+        "spans": [
+          "The  bottom line is that while achieving the necessary GHG emissions  reductions and stabilization wedges will be difficult, it is  possible.  And there are many solutions and combinations of wedges to choose from."
+        ]
+      }
+    ],
+    "clueweb22-en0035-45-12716": [
+      {
+        "point_number": 1,
+        "point_content": "Only a stunning technological breakthrough will allow for reductions in emissions that are sufficiently deep to stop climate change.",
+        "spans": [
+          "only a stunning technological breakthrough will allow for reductions in emissions that are sufficiently deep to stop climate change"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Humanity's opportunity to prevent, stop, or reverse the long-term impacts of climate change has slipped away.",
+        "spans": [
+          "humanity's opportunity to prevent, stop, or reverse the long-term impacts of climate change has slipped away"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Current technologies and efficiency improvements have not stopped the rise in overall greenhouse gas emissions due to economic growth.",
+        "spans": [
+          "while greenhouse gas intensity (emissions per unit of gross domestic product) of both developed and developing economies has decreased significantly over the past decade as a result of greater efficiency measures, overall greenhouse gas emissions have nevertheless continued to rise"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Without a technological or economic miracle, it would take a political miracle to reach an international agreement that would mandate the necessary emissions cuts to reverse climate change.",
+        "spans": [
+          "Without a technological or economic miracle, it would take a political miracle to reach an international agreement that would mandate the necessary emissions cuts to reverse the momentum behind our evolving global climate system"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Even with new energy technologies and green business practices, without meaningful international agreements, emissions cuts will be marginal rather than decisive.",
+        "spans": [
+          "without meaningful international agreements that create both unrealistically tight limits and market mechanisms, the cuts will ultimately be marginal rather than decisive"
+        ]
+      }
+    ],
+    "clueweb22-en0002-69-18868": [
+      {
+        "point_number": 1,
+        "point_content": "We can't stop climate change because it's already here and many catastrophic effects are irreversible.",
+        "spans": [
+          "We can't stop climate change — because it's already here, and it's already too late to reverse many of its catastrophic effects."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Limiting global warming to 1.5 degrees Celsius by 2100 requires rapid and unprecedented changes, including cutting CO2 emissions 45% by 2030 and net zero by 2050.",
+        "spans": [
+          "limiting global warming to the 1.5-degree Celsius (2.6 degrees Fahrenheit) mark by the end of the century — a goal set to stave off the worst impacts of climate change — \"would require rapid, far-reaching and unprecedented changes in all aspects of society.\"",
+          "The IPCC report, which the U.N. climate science body released Oct. 8, 2018, revealed that the best path to limiting warming to an increase of 1.5 C by 2100 involves cutting net human carbon dioxide (CO2) emissions 45% by 2030 (12 years after the report was published) and then cutting emissions further to net zero by 2050."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Delaying emission cuts makes future carbon-capture efforts more difficult and increases the risk of crossing irreversible climate tipping points.",
+        "spans": [
+          "But every year of delay on cutting greenhouse gas emissions means that carbon-capture efforts down the road will have to be even more fantastical and dramatic (including heavy reliance on carbon-capture technologies that may never work). And each year in which we do nothing, the world will cross more climate tipping points that will be difficult to undo, Wollenberg said."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Mitigation (cutting emissions) and adaptation (dealing with warming effects) are both necessary responses to climate change.",
+        "spans": [
+          "To manage all that complexity, researchers tend to break down responses into two broad categories: mitigation and adaptation. Mitigation is, in short, the work of preventing climate change from worsening. Reducing emissions and growing forests fall into this category.",
+          "Adaptation is learning to deal with the warming that's already here and the additional warming that's coming: building sea walls and flood-abating salt marshes around coastal cities; studying changes in precipitation so farmers know when to plant their crops; and engineering crops to better withstand harsh environments."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Mitigating climate change is the best way to reduce many negative impacts, including health issues from mosquito-borne diseases.",
+        "spans": [
+          "With regard to the spread of mosquito-borne diseases, Carlson said, \"We can stop it. Mitigating climate change is truly the silver bullet. Sometimes it is as simple as, 'If we stop climate change, we can stop a lot of the bad health impacts that are coming.'\""
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "The 12-year deadline is a political and activist message to create urgency, not a scientific prediction that climate change can be stopped by then.",
+        "spans": [
+          "Others, meanwhile, took the report as a call to arms, reframing one of its points as a political organizing message: We have only 12 years to stop climate change, and the clock is ticking.",
+          "The notion of a 12-year deadline can be misleading and obscures some of the hedging and nuance scientists like to emphasize. But it also seems to offer climate mobilizers a focal point for their efforts, and people really are getting out into the streets."
+        ]
+      }
+    ],
+    "clueweb22-en0015-74-09063": [
+      {
+        "point_number": 1,
+        "point_content": "There is no one-size-fits-all approach to stopping or slowing global warming, and many strategies working together will be needed.",
+        "spans": [
+          "There is no one-size-fits-all approach to stopping or slowing global warming, and each individual, business, municipal, state, tribal, and federal entity must weigh their options in light of their own unique set of circumstances. Experts say it is likely many strategies working together will be needed."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Switching to renewable energy sources can reduce heat-trapping gas emissions.",
+        "spans": [
+          "Where possible, we can switch to renewable sources of energy (such as solar and wind energy) to power our homes and buildings, thus emitting far less heat-trapping gases into the atmosphere."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Using electric vehicles or mass transit can reduce fossil fuel emissions.",
+        "spans": [
+          "Where feasible, we can drive electric vehicles instead of those that burn fossil fuels; or we can use mass transit instead of driving our own cars."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Conserving energy by better insulation and energy-efficient appliances helps reduce emissions.",
+        "spans": [
+          "Where affordable, we can conserve energy by better insulating our homes and buildings, and by replacing old, failing appliances with more energy-efficient models."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Investing in carbon drawdown methods like planting trees or carbon capture can counterbalance emissions.",
+        "spans": [
+          "Where practicable, we can counterbalance our annual carbon dioxide emissions by investing in commercial services that draw down an equal amount of carbon out of the atmosphere, such as through planting trees or carbon capture and storage techniques."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Supporting local businesses that promote sustainable, climate-smart practices can help mitigate climate change.",
+        "spans": [
+          "Where practical, we can support more local businesses that use and promote sustainable, climate-smart practices such as those listed above."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Placing an upper limit on carbon dioxide emissions can help control emissions.",
+        "spans": [
+          "We can consider placing an upper limit on the amount of carbon dioxide we will allow ourselves to emit into the atmosphere within a given timeframe."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Stabilizing global temperature requires eliminating all heat-trapping gas emissions or achieving carbon neutrality, which requires substantial societal changes beyond individual actions.",
+        "spans": [
+          "Stabilizing global temperature near its current level requires eliminating all emissions of heat-trapping gases or, equivalently, achieving a carbon-neutral society in which people remove as much carbon from the atmosphere as they emit. Achieving this goal will require substantial societal changes in energy technologies and infrastructure that go beyond the collective actions of individuals and households to reduce emissions."
+        ]
+      }
+    ],
+    "null": []
+  }
+}

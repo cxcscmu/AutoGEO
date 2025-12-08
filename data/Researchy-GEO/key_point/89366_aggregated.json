@@ -1,0 +1,131 @@
+{
+  "question": "is politifact biased",
+  "key_points": [
+    {
+      "point_number": 1,
+      "point_content": "PolitiFact has a Lean Left bias, as found by numerous independent reviews by AllSides, and is rated Left-Center Biased based on fact checks that tend to be more favorable for the left.",
+      "original_point_number": [
+        1,
+        3,
+        19,
+        42
+      ]
+    },
+    {
+      "point_number": 2,
+      "point_content": "PolitiFact is run by editors and reporters from the Tampa Bay Times, an independent newspaper in Florida, and the state sites and PunditFact follow the same principles as the national site.",
+      "original_point_number": [
+        34,
+        47,
+        48,
+        49
+      ]
+    },
+    {
+      "point_number": 3,
+      "point_content": "PolitiFact was 2.66 times more likely to rule a claim it viewed as false as \"Pants on Fire\" from a Republican than for a Democrat in 2021, indicating a bias; spikes in the \"Pants on Fire\" bias measure correlate with PolitiFact's reluctance to give Democrats a \"Pants on Fire\" rating, suggesting bias against Republicans; PolitiFact assigns the “Pants on Fire” rating disproportionately to Republicans, especially Donald Trump and Mitt Romney.",
+      "original_point_number": [
+        4,
+        7,
+        23
+      ]
+    },
+    {
+      "point_number": 4,
+      "point_content": "The \"Pants on Fire\" rating represents PolitiFact's subjective opinion rather than an objective measure, and PolitiFact's recent fact checks involve interpretation and analysis, not just stating facts; fact checking sites should not engage in subjective analysis but PolitiFact admits to interpreting meaning for the reader.",
+      "original_point_number": [
+        5,
+        16,
+        17,
+        18
+      ]
+    },
+    {
+      "point_number": 5,
+      "point_content": "PolitiFact's bias fluctuates over time and is influenced by the participation of different state franchises.",
+      "original_point_number": [
+        6
+      ]
+    },
+    {
+      "point_number": 6,
+      "point_content": "PolitiFact got caught protecting a member of the Democratic Party in the Missouri Senate Race fact-check, acknowledged a mistake and changed a rating from False to Half True after receiving more complete video evidence.",
+      "original_point_number": [
+        9,
+        10,
+        35,
+        36
+      ]
+    },
+    {
+      "point_number": 7,
+      "point_content": "PolitiFact incorrectly labeled a true claim about Democratic Senate candidate Kyrsten Sinema protesting troops in a pink tutu as \"mostly false\" in the Arizona Senate Race fact-check; it is an established fact that Sinema wore a pink tutu at one of the multiple anti-war protests she attended in 2003, contradicting PolitiFact's fact-check.",
+      "original_point_number": [
+        11,
+        12,
+        37,
+        38
+      ]
+    },
+    {
+      "point_number": 8,
+      "point_content": "Politifact rated Obama's 2008 claim about Obamacare as True before the election, but rated the same claim as Pants On Fire in 2013 after the election; this change in rating suggests bias, rating statements by Democrats as true during elections but false afterwards.",
+      "original_point_number": [
+        13,
+        14,
+        39,
+        40,
+        41
+      ]
+    },
+    {
+      "point_number": 9,
+      "point_content": "Fact checking sites display bias in what stories they choose to fact check, as well as how they interpret information; PolitiFact leans heavily to the left and often peddles outrageous slant as objective news, damaging Republicans more often than Democrats despite choosing about as many stories dealing with Republicans as Democrats; ideological bias is expressed via unfair harm hitting Republicans rather than Democrats, touching selection bias as well as ideological spin.",
+      "original_point_number": [
+        2,
+        8,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ]
+    },
+    {
+      "point_number": 10,
+      "point_content": "PolitiFact’s aggregate truth metrics show Republicans as less truthful than Democrats; average ratings show Democrats rated between “Mostly True” and “Half True,” Republicans rated between “Half-True” and “Mostly False.”",
+      "original_point_number": [
+        21,
+        22
+      ]
+    },
+    {
+      "point_number": 11,
+      "point_content": "PolitiFact articles on Republicans, especially false ratings, tend to be longer and more explanatory, indicating more subjective calls; PolitiFact rates Republicans more harshly on numerous occasions, contributing to the Left-Center Bias rating.",
+      "original_point_number": [
+        24,
+        46
+      ]
+    },
+    {
+      "point_number": 12,
+      "point_content": "There are frequent complaints about PolitiFact’s bias, especially against conservatives; some believe PolitiFact is more appropriately described as an editorial page or opinion site where personal bias can thwart sincere attempts at objectivity, and that PolitiFact does their readers a disservice when proclaiming immunity from bias; others think PolitiFact is probably not deliberately biased but some specific examples are hard to explain without considering intent.",
+      "original_point_number": [
+        20,
+        31,
+        32,
+        33,
+        45
+      ]
+    },
+    {
+      "point_number": 13,
+      "point_content": "PolitiFact is rated High for factual reporting and is a credible fact-checker that is not without bias; it uses minimally loaded language and sources information from credible media and experts.",
+      "original_point_number": [
+        43,
+        44
+      ]
+    }
+  ]
+}

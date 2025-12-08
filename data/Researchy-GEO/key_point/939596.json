@@ -1,0 +1,304 @@
+{
+  "question": "why have used car prices increased",
+  "key_points": {
+    "null": [],
+    "clueweb22-en0035-65-11975": [
+      {
+        "point_number": 1,
+        "point_content": "Car dealers have been closed during the various lockdowns, which has led to fewer new cars being sold and a decline in the number of used cars being part exchanged.",
+        "spans": [
+          "Car dealers have been closed during the various lockdowns, which has led to fewer new cars being sold and a decline in the number of used cars being part exchanged."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "There is an increase in demand for used cars as people are treating themselves to a used car rather than a holiday, or swapping their expensive lease cars for more affordable used models.",
+        "spans": [
+          "an increase in demand for used cars (people are treating themselves to a used car rather than a holiday, or swapping their expensive lease cars for more affordable used models)"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Certain cars like the Audi Q7 are popular with staycationers, contributing to their price increase.",
+        "spans": [
+          "A car like the Audi Q7 is likely to be popular with staycationers, too – it's a big, comfortable SUV that'll be ideal for driving a family to Scotland or Cornwall."
+        ]
+      }
+    ],
+    "clueweb22-en0021-30-17131": [
+      {
+        "point_number": 1,
+        "point_content": "Post-lockdown demand and semiconductor shortage both contribute to used car prices hitting an unprecedented level.",
+        "spans": [
+          "Post-lockdown demand and semiconductor shortage both contribute to used car prices hitting an unprecedented level"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Pent-up demand from the months in which dealers were closed under Covid-19 lockdown restrictions has been released, with drivers rushing to buy used cars.",
+        "spans": [
+          "Pent-up demand from the months in which dealers were closed under Covid-19 lockdown restrictions has been released, with drivers rushing to buy used cars"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The global semiconductor shortage has resulted in a smaller supply of new cars, leading more buyers to the used car market and causing supply and demand issues.",
+        "spans": [
+          "The key difference this time around, though, is the global semiconductor shortage. This has resulted in a smaller supply of new cars, meaning a higher proportion of those wanting to replace their existing car are heading to the used market. This, in turn, has led to supply and demand issues."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Since forecourts opened on 12 April, dealers have been overrun with people and supply is very low.",
+        "spans": [
+          "Since forecourts opened on 12 April… dealers have been overrun with people",
+          "It does seem to be persisting and it’s not just necessarily that the demand is high - it’s just that the supply is so low."
+        ]
+      }
+    ],
+    "clueweb22-en0043-51-00390": [
+      {
+        "point_number": 1,
+        "point_content": "Second-hand car prices are rising at unprecedented rates due to a low supply of new vehicles.",
+        "spans": [
+          "Second-hand car prices are rising at \"unprecedented rates\", the AA has said, as more people consider buying used cars amid a low supply of new vehicles."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "A global shortage of computer chips and other materials has led to fewer new vehicles being produced.",
+        "spans": [
+          "A global shortage of computer chips used in car production, as well as other materials such as copper, aluminium and cobalt, has led to fewer new vehicles rolling off production lines."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The shortage of new cars has caused more buyers to turn to the used-car market, increasing demand and prices.",
+        "spans": [
+          "That has meant more buyers turning to the used-car market.",
+          "It said a shortage of new cars for sale led many drivers to buy used rather than new, with \"demand pressures pushing up second-hand prices at unprecedented rates\"."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Used-car dealerships have also experienced a shortage of stock as trade-ins have been reduced.",
+        "spans": [
+          "Besides new car supply issues, used-car dealerships have also experienced a shortage of stock as trade-ins have been reduced, according industry figures."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The rise of online dealers has changed the market and contributed to the used-car price surge.",
+        "spans": [
+          "The rise of online dealers with large advertising budgets such as Cinch, Cazoo and We Buy Any Car has also changed the market.",
+          "The used-car price surge along with rising energy, grocery and transport costs has contributed to the UK's higher inflation rate."
+        ]
+      }
+    ],
+    "clueweb22-en0031-18-17241": [
+      {
+        "point_number": 1,
+        "point_content": "Used car prices have risen dramatically because of a shortage of available new cars and a general increase in car demand.",
+        "spans": [
+          "Used car prices have risen dramatically because of a shortage of available new cars and a general increase in car demand."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Because of the chip shortage, there’s a shortage of new inventory, which is causing used car prices to increase.",
+        "spans": [
+          "Because of the chip shortage, there’s a shortage of new inventory."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Decreased supply in fleet sales, repossessions, and off-lease cars entering the used market is shrinking the supply, pushing prices up.",
+        "spans": [
+          "Decreased supply in fleet sales, repossessions, and  off-lease cars entering the used market is shrinking the supply.",
+          "Another reason for climbing used car prices is the short supply in that pool, as well."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Rental companies and others are not selling used cars because they cannot buy new vehicles, reducing used car supply.",
+        "spans": [
+          "rental companies that typically sell hundreds of thousands of units a month. Right now they’re not selling anything, because they cannot buy new vehicles…so you have that shortage of used inventory that pushed prices up on the used side."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Stimulus money and low repo rates have kept cars out of the used car market, reducing supply.",
+        "spans": [
+          "All of the stimulus money with government, it’s good for consumers, has really kept those cars out of the lanes. Repo rates are really low."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "New car prices are also rising due to short supply, which normally caps used car prices, but now both are increasing.",
+        "spans": [
+          "Normally what happens, though, is prices are somewhat capped by new cars,",
+          "But with the new car inventory being so short due to the chip issue, new car prices are rising as well."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Used car prices are expected to stabilize in the fall, but will keep rising in the summer due to ongoing chip shortage and demand.",
+        "spans": [
+          "In the fall, or close to Q4, the chip shortage still being the big question mark, but we do expect stabilization in prices.",
+          "Yurchenko does expect used car prices to keep rising in the summer."
+        ]
+      }
+    ],
+    "clueweb22-en0017-66-13166": [
+      {
+        "point_number": 1,
+        "point_content": "Used car prices have risen during lockdown due to increased consumer interest and fewer cars on sale.",
+        "spans": [
+          "Prices have risen during lockdown and that suggests a greater volume of consumer searches and interest and also that a number of these cars have been selling/being reserved.",
+          "But he warned this is likely to be because of falling numbers on sale."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Sub-£20k petrol cars in the small and medium market sectors are the best performing used cars during lockdown.",
+        "spans": [
+          "It looks like sub-£20k petrol cars that fall into the small and medium market sectors are likely to be the best cars to seek out."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The greatest increase in pricing has been for sub-£10k cars, showing the greatest level of consumer interest.",
+        "spans": [
+          "The greatest increase in pricing at 3.81 per cent has been for sub-£10k cars and this price profile is showing the greatest level of consumer interest at the moment."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Affordable, cheap to run cars under £6k are expected to perform well as buyers may return to public transport or car sharing later.",
+        "spans": [
+          "CAP HPI believes cars under £6k, which cater for those with a budget of around £100-120 a month, will be the best performing used cars.",
+          "These are affordable, cheap to run, and depending on how well they keep them, they shouldn’t lose too much money if the buyer decides to sell in a few months’ time and return to using public transport or car sharing."
+        ]
+      }
+    ],
+    "clueweb22-en0000-98-14872": [
+      {
+        "point_number": 1,
+        "point_content": "Expansion of London's Ultra Low Emission Zone (ULEZ) is causing owners of older diesel cars to sell them at lower prices in London, affecting local used car prices.",
+        "spans": [
+          "the expansion, this October, of the city’s Ultra Low Emission Zone (ULEZ) from central London to much of the North Circular and South Circular roads",
+          "buyers are being put off by it being an older diesel car that is penalised when entering the ULEZ zone.",
+          "The penalty he refers to is the £12.50 daily charge applied to cars that fail to meet the ULEZ emissions standard."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Outside London, demand for older diesel cars and all cars is strong, causing prices to rise.",
+        "spans": [
+          "outside the city, demand for older diesel cars – in fact, all cars – is strong and prices are rising."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Used car prices have risen due to a shortage of used cars, caused by fewer new car sales and delays in new car deliveries due to supply chain issues.",
+        "spans": [
+          "one million fewer new cars were sold in the past 12 months, reducing the number of part-exchanges.",
+          "many are taking longer to arrive due to delays in the supply of semi-conductors and raw materials, also slowing the supply of part-exchanges."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Increased demand for used cars from savings-rich customers, dealers, and rental fleets is pushing up prices.",
+        "spans": [
+          "Add pent-up demand from both savings-rich customers and dealers and rental fleets desperate to restock and, said Martin, there’s an imbalance of supply and demand that is pushing up used car prices."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Certain sectors like sports cars, premium cars, SUVs, and diesels are experiencing the greatest price increases.",
+        "spans": [
+          "Sectors experiencing the greatest increases include sports cars, premium cars and SUVs; diesels, too, especially large premium cars and SUVs."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "There is no clear end in sight for the rise in used car prices, and new car prices are also expected to increase, which will further increase used car prices.",
+        "spans": [
+          "There’s not a tsunami of used car stock coming that will see prices fall off a cliff.",
+          "Looking further ahead, I can see new cars becoming more expensive, which, in turn, will drag up the prices of used ones."
+        ]
+      }
+    ],
+    "clueweb22-en0027-83-13827": [
+      {
+        "point_number": 1,
+        "point_content": "Used car prices have continued to rise for the 57th consecutive week on Auto Trader, up an incredible 9.7 per cent year-on-year.",
+        "spans": [
+          "Used car prices have continued to rise for the 57th consecutive week on Auto Trader, up an incredible 9.7 per cent year-on-year."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Between June 7 and 13, the car classified website has seen demand grow with 15.3m users visiting its platform – a 29 per cent increase on the same week in 2019.",
+        "spans": [
+          "Between June 7 and 13, the car classified website has seen demand grow with 15.3m users visiting its platform – a 29 per cent increase on the same week in 2019."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "According to Auto Trader, supply was down 10.8 per cent last week compared to 2019.",
+        "spans": [
+          "According to Auto Trader, supply was down 10.8 per cent last week compared to 2019."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The company said that there had been a notable increase in sticker prices, following advice from Auto Trader to not forget about updating cars that have been in stock for longer, with 37 per cent rising prices across their entire forecourt.",
+        "spans": [
+          "The company said that there had been a notable increase in sticker prices, following advice from Auto Trader to not forget about updating cars that have been in stock for longer, with 37 per cent rising prices across their entire forecourt."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Auto Trader’s director of data and insight Richard Walker said: ‘After eight weeks of acceleration, we’ve seen another record set for price growth rates. ‘And with consumer demand set to continue, fuelled by a positive sentiment shift towards car ownership, more disposable income, an aversion to public transport. ‘This coupled with the ongoing supply challenges, we don’t see any reason for this growth to ease anytime soon.",
+        "spans": [
+          "Auto Trader’s director of data and insight Richard Walker said: ‘After eight weeks of acceleration, we’ve seen another record set for price growth rates.",
+          "‘And with consumer demand set to continue, fuelled by a positive sentiment shift towards car ownership, more disposable income, an aversion to public transport.",
+          "‘This coupled with the ongoing supply challenges, we don’t see any reason for this growth to ease anytime soon."
+        ]
+      }
+    ],
+    "clueweb22-en0039-86-18301": [
+      {
+        "point_number": 1,
+        "point_content": "The primary supply-chain hiccup responsible for both used car inflation and its impact on the consumer price index data is a shortage of semiconductors used in the manufacturing of new cars.",
+        "spans": [
+          "the primary supply-chain hiccup responsible for both used car inflation and its impact on the consumer price index data is a shortage of semiconductors used in the manufacturing of new cars"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The Covid-19 pandemic shuttered factories around the world and disrupted shipping routes over the past two years, causing a backlog that is the chief suspect behind a massive 25% climb in used car prices in 2021.",
+        "spans": [
+          "the Covid-19 pandemic, which shuttered factories around the world and disrupted shipping routes over the past two years",
+          "Those logistical hurdles are believed the chief suspect behind a massive 25% climb in used car prices in 2021"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The pandemic changed consumers' demand for cars and forced hundreds of thousands to cancel or postpone travel plans in 2020, leading to unprecedented demand for cars in spring 2021 as vaccines and relaxed public-health rules allowed travel.",
+        "spans": [
+          "the pandemic changed consumers' demand for cars and forced hundreds of thousands to cancel or postpone travel plans in 2020",
+          "That one-time mass cancellation led to unprecedented demand for cars in the spring of 2021 as vaccines and relaxed public-health rules allowed entire populations to schedule vacations and other travel at the same time"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Without new vehicles, you can't have used vehicles, indicating supply constraints in new car production affect used car availability and prices.",
+        "spans": [
+          "Simply put: Without new vehicles, you can't have used vehicles."
+        ]
+      }
+    ]
+  }
+}

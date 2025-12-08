@@ -1,0 +1,87 @@
+{
+  "question": "why is air pollution a global issue",
+  "key_points": {
+    "clueweb22-en0023-41-15791": [
+      {
+        "point_number": 1,
+        "point_content": "Air pollution is a global problem because it is located in the atmosphere and is able to travel far off places easily.",
+        "spans": [
+          "Because it is located in the atmosphere, AP is able to travel far off places easily. As a result, air pollution is a global problem"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Air pollution affects human health and natural ecosystems severely, making it a global concern.",
+        "spans": [
+          "The effects of AP are diverse and numerous. AP can have serious consequences for the health of human beings, and also severely affects natural ecosystems."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Human activities have increased the amount of pollutants released into the air, contributing to the global air pollution problem.",
+        "spans": [
+          "humans have been producing increasing amounts of pollutants as time has progressed, and they now account for the majority of pollutants released into the air."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Some areas suffer more from air pollution due to factors like large numbers of automobiles or heavy coal use, indicating the widespread and uneven impact of air pollution globally.",
+        "spans": [
+          "Some areas now suffer more than others from AP. Cities with large numbers of automobiles or those that use great quantities of coal often suffer most severely from problems of AP."
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0015-41-18090": [
+      {
+        "point_number": 1,
+        "point_content": "Air pollution is one of the key global health and environmental concerns and has been ranked among the top five global risk factors of mortality.",
+        "spans": [
+          "Air pollution is one of the key global health and environmental concerns (Nagpure, Gurjar, Kumar, et al. 2016) and has been ranked among the top five global risk factors of mortality by the Health Effects Institute (HEI 2019)."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "More than 80% of population in urban areas is exposed to emissions that exceed the standards set by World Health Organization.",
+        "spans": [
+          "More than 80% of population in urban areas is exposed to emissions that exceed the standards set by World Health Organization (WHO 2016)."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Air pollution causes over 1.1 million premature deaths in India in 2017, indicating its severe health impact.",
+        "spans": [
+          "Air pollution was considered to cause over 1.1 million premature deaths in 2017 in India (HEI 2019), of which 56% was due to exposure to outdoor PM 2.5 concentration and 44% was attributed to household air pollution."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Rising urbanisation, booming industrialisation, and associated anthropogenic activities are the prime reasons that lead to air pollutant emissions and poor air quality.",
+        "spans": [
+          "Rising urbanisation, booming industrialisation, and associated anthropogenic activities are the prime reasons that lead to air pollutant emissions and poor air quality."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "By 2030, around 50% of the global population will be residing in urban areas, increasing exposure to air pollution.",
+        "spans": [
+          "It is expected that by 2030, around 50% of the global population will be residing in urban areas (Gurjar, Butler, Lawrence, et al. 2008)."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Air pollution affects ecosystems, biodiversity, materials, buildings, and human health globally.",
+        "spans": [
+          "The ill-effects could impact human health in a negative way, also affecting the biodiversity, other life forms, heritage, cultural buildings and even climate in the longer term."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Air pollution is a global issue because it causes significant health risks, environmental degradation, and economic losses worldwide.",
+        "spans": [
+          "Air pollution poses serious risks to human health, economic assets, and the overall environment (Gurjar, Butler, Lawrence, et al. 2008)."
+        ]
+      }
+    ]
+  }
+}

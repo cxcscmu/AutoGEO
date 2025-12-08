@@ -1,0 +1,380 @@
+{
+  "question": "should equity and common law be fused",
+  "key_points": {
+    "null": [],
+    "clueweb22-en0000-49-01335": [
+      {
+        "point_number": 1,
+        "point_content": "Law and equity fused administratively in the nineteenth century in most jurisdictions.",
+        "spans": [
+          "Law and equity fused administratively in the nineteenth century in most jurisdictions."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Fusion is a prominent theme in equity today and is the means by which lawyers access fundamental questions presented by equity in common law systems.",
+        "spans": [
+          "fusion is a prominent theme in equity today: it has become the means by which lawyers access the fundamental questions presented by equity in common law systems."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "A wider perspective on fusion is needed than has recently prevailed, and a theory of equity is needed which the evidence lends itself to.",
+        "spans": [
+          "A wider perspecitve on fusion is needed than has recently prevailed, and a theory of equity is needed which the evidence lends itself to."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The practical significance of fusion is discussed with specific reference to relief from forfeiture and modern writing on the law of restitution.",
+        "spans": [
+          "The practical significance of fusion is discussed with specific reference to relief from forfeiture and modern writing on the law of restitution."
+        ]
+      }
+    ],
+    "clueweb22-en0040-90-06009": [
+      {
+        "point_number": 1,
+        "point_content": "There has been a lot of controversy over whether to fuse both equity and common law at a substantive level.",
+        "spans": [
+          "Since the administrative fusion of the Common Law and Equity Courts after the 1873 and 1875 Acts, there has been a lot of controversy over whether to fuse both equity and common law."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Arguments for fusion include the inconsistency created by equity’s intervention in law and the need for consistency in judicial rulings.",
+        "spans": [
+          "Those arguing for the fusion of Equity and Common Law at a substantive level often comment on the inconsistency created by equity’s intervention in law.",
+          "With both Common Law and Equity offering different solutions to the same legal issues, it is argued that for justice there must be consistency with judicial rulings."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Equity allows judges to depart from common law and statutes to create new law, which is seen as undemocratic since Parliament is sovereign.",
+        "spans": [
+          "Another reason for fusion is that Equity allows judges to depart from common law and statutes in order to create new law. With Parliament being sovereign the idea of unelected judges creating law is undemocratic."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Without the power to use Equity to depart from Common Law judges would be more accountable to parliament.",
+        "spans": [
+          "Without the power to use Equity to depart from Common Law judges would be more accountable to parliament."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "If Equity and Common Law were fused, discrepancies between cases would disappear and the same conclusion would be found in each case.",
+        "spans": [
+          "If Equity and Common Law were both fused then the discrepancies between cases would disappear. A mix of Equity and Common Law principles would be applied and the same conclusion would be found in each case."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "The Judicature Acts only fused the administrative aspects of Equity and Common Law, not the substantive law.",
+        "spans": [
+          "Many argue that the purpose of the Judicature Acts was only to fuse the administrative aspects of Equity and Common Law."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Equity has supplemented Common Law where justice and social and economic change arose, and some equitable concepts would be lost if fused.",
+        "spans": [
+          "Equity has often supplemented Common Law where the interests of justice and of social and economic change arose.",
+          "With the fusion of Equity and Common Law would come the destruction of equitable concepts; ‘Equitable concepts like trusts, equitable estates and consequent equitable remedies must continue to exist apart, if not in isolation, from common law rules."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Equity and Common Law are ideologically distinct and one would dominate the other if fused.",
+        "spans": [
+          "The two are so ideologically distinct that one of the two would be dominant over the other."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Equity works on discretion and supplements Common Law where it would operate harshly; fusion would prevent Equity from deviating from strict rules to deliver equitable solutions.",
+        "spans": [
+          "I believe that the two should be kept distinct and separate from one another, Equity’s sole purpose is to supplement the Common Law where it would operate harshly.",
+          "If the two became fused together Equity would no longer be able to deviate from the strict rules of law to deliver an equitable solution for those in need."
+        ]
+      }
+    ],
+    "clueweb22-en0017-35-08331": [
+      {
+        "point_number": 1,
+        "point_content": "The Judicature Act 1873 fused the administration of Common Law and Equity by amalgamating the superior court into the Supreme Court of Judicature having jurisdiction over matters of law and Equity.",
+        "spans": [
+          "the Judicature Act 1873 (“the Act”) fused the administration of Common Law and Equity by amalgamating the superior court into the Supreme Court of Judicature having jurisdiction over matters of law and Equity"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The fusion theory states that the Act codifies both Common Law and Equity into one subject matter and severed the historical roots of the separate concepts of law and Equity.",
+        "spans": [
+          "The other view, often referred to as the “fusion theory” states that the Act codifies both Common Law and Equity into one subject matter and in effect severed the historical roots of the separate concepts of law and Equity"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The Judicature Act 1873 fused the administration of Common Law and Equity but not the substantive laws themselves; the two systems run side by side in the courts.",
+        "spans": [
+          "it is submitted that to talk of the fusion of law and Equity is misleading. This assertion is substantiated by virtue of the Judicature Act 1873, where it was the administration of Common Law and Equity that was fused into a Court and not the substantive laws in themselves. Thus, these two separate systems were not to be fused but rather to run side by side in the courts"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Section 25(11) of the Judicature Act 1873 states that where there is a conflict between Common Law and Equity, Equity should prevail, indicating the systems were not intended to be fully fused.",
+        "spans": [
+          "if indeed Common Law and the doctrines of Equity were intended to be fused by the Act, the need for Section 25(11) which states that were there is a conflict between Common Law and Equity, Equity should prevail, will be of no need"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The Judicature Act 1873 creates for the fusion of the two separate systems to be administered by one court, but both systems have borrowed from each other in furthering the harmonious development of the law as a whole.",
+        "spans": [
+          "the Judicature Act 1873 creates for the fusion of the two separate systems to be administered by one court, however, beyond the cold letters of the law, both systems have indeed borrowed from the other in furthering the harmonious development of the law as a whole"
+        ]
+      }
+    ],
+    "clueweb22-en0007-02-17376": [
+      {
+        "point_number": 1,
+        "point_content": "The enactment of the Judicature Act amalgamated the Chancery and Law courts into one Supreme Court but did not fuse the two jurisdictions.",
+        "spans": [
+          "The debate as to whether the two jurisdictions of law and equity have been fused stems from the enactment of the Judicature Act",
+          "which amalgamated the Chancery and Law courts into one Supreme Court.",
+          "The enactment itself demonstrates the two jurisdictions were not fused"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Equity and common law remain separate because equity supplements law and does not replace it, and the Supreme Court Act re-enacts the Judicature Act provisions implying separation.",
+        "spans": [
+          "equity’s principles developed according to the Chancellor’s discretion",
+          "which did not replace the law",
+          "but assisted it",
+          "The Supreme Court Act also implies equity and law remain separate bodies by “re-enacting the provisions of the Judicature Act.”"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Equity operates on maxims and discretionary rules distinct from common law, supporting the argument against fusion.",
+        "spans": [
+          "The maxims are not specific rules of law, but guidelines to be borne in mind when reaching a decision",
+          "which supports the argument in favour of no fusion."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Equitable remedies are discretionary and cannot be claimed as a right, unlike common law remedies, highlighting distinctions between the two systems.",
+        "spans": [
+          "Equitable remedies, unlike damages, cannot be claimed as a right; they are completely discretionary and will not be granted if damages are sufficient"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Equity acts in personam (against the conscience of a person) whereas common law acts in rem (against the property), indicating two separate systems.",
+        "spans": [
+          "Equity also acts in personam;",
+          "meaning it operates on the conscience",
+          "of the party against whom the relief is sought, as opposed to common law operating in rem"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "The Judicature Act allowed one court to administer both law and equity but did not merge the substantive principles, leading to differing judicial interpretations on fusion.",
+        "spans": [
+          "the Judicature Act itself also implied fusion had occurred",
+          "culminating towards pro-fusion.",
+          "Some judges are of the opinion there is no distinction between law and equity,",
+          "whilst others steadfastly to the contrary."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "The case Tinsley v Milligan shows some merging of equitable principles with common law but also reinforces that law and equity remain distinct.",
+        "spans": [
+          "In Tinsley v Milligan,",
+          "the court held the defendant had a “right in law to assert her equitable ownership”",
+          "confirming “the two strands of authority were moulded”",
+          "and “should be viewed as a consistent whole as there was no logic in making a distinction.”",
+          "In contrast, those opposing this view actually agreed with the outcome but on the basis that the resulting trust could not be rebutted",
+          "indicating equity relied on the intention rather than the form,",
+          "safeguarding the “unclean hands” maxim;",
+          "and reinforcing the two substantive systems of law and equity are not fused."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Some academics argue for fusion of equity and common law into a unified system, but differences in discretion tests preserve separation.",
+        "spans": [
+          "some academic writers believe “equitable doctrines should now take their proper place as part of a unified system of judge made law alongside and integrated with common law and statute”",
+          "whilst others suggest its time they were fully integrated",
+          "It is fair to say that common law also exercises a degree of discretion",
+          "This indicates that the law has “caught up with equity and it is therefore not possible to contrast the two”.",
+          "However the discretion applied in law is an” objective test”",
+          "as opposed to the “subjective test” in equity which applies the equitable maxims. The variance in the discretions, preserve that law and equity remain completely and separately unconnected."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Trusts illustrate the separation of law and equity, as equity creates beneficial interests not recognized by common law, showing anti-fusion.",
+        "spans": [
+          "Equity’s greatest contribution to law is the “trust” formerly known as the “use”.",
+          "It created beneficial interests in land which did not exist in common law",
+          "by splitting rights into legal and equitable interests, which is a prime example of anti-fusion."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "The separate divisions of the High Court for law and equity matters confirm that law and equity remain separate entities.",
+        "spans": [
+          "The separate divisions of the High Court reiterate that law and equity remain separate entities.",
+          "The Chancery deals primarily with matters involving equitable rights and remedies, whereas the Queen’s Bench deals primarily with matters involving rights and remedies at common law;"
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "The author concludes that equity serves to keep common law in check and does not agree that law and equity have been fused.",
+        "spans": [
+          "After much research, the author of this thesis is of the opinion that the “role of equity is a mechanism to keep the power of common law in check”",
+          "and therefore does not agree with the proposition that the two jurisdictions of law and equity have been fused."
+        ]
+      }
+    ],
+    "clueweb22-en0009-33-14517": [
+      {
+        "point_number": 1,
+        "point_content": "There are valid arguments both for and against fusion of equity and common law.",
+        "spans": [
+          "there has been a lot of controversy over whether to fuse both equity and common law",
+          "There are valid arguments both for and against fusion."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Fusion is argued for because equity and common law offer different solutions to the same legal issues, causing inconsistency.",
+        "spans": [
+          "Those arguing for the\u0000 fusion of Equity and Common Law at a substantive level often comment on the inconsistency created by equity\u0019s intervention in law.",
+          "With both Common Law and Equity offering different solutions to the same legal issues, it is argued that for justice there must be consistency with judicial rulings."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The current system creates inconsistencies where equitable remedies can be more valuable than legal remedies.",
+        "spans": [
+          "The current system means that in certain cases the right to an equitable remedy is more valuable.",
+          "An example of inconsistencies between case verdicts due to Equity and Common Law having different principles is that of having legal and equitable title to property."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Fusion would ensure everyone gets the same remedies and remove arbitrary differences in outcomes.",
+        "spans": [
+          "Examples like this reinforce the argument for fusion because everybody would get the same remedies.",
+          "If Equity and Common Law were both fused then the discrepancies between cases would disappear."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Equity allows judges to depart from common law and statutes to create new law, which some see as undemocratic.",
+        "spans": [
+          "Another reason for fusion is that Equity allows judges to depart from common law and statutes in order to create new law.",
+          "With Parliament being sovereign the idea of unelected judges creating law is undemocratic."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "The Judicature Acts only fused the administrative aspects of equity and common law, not the substantive law.",
+        "spans": [
+          "Many argue that the purpose of the Judicature Acts was only to fuse the administrative aspects of Equity and Common Law.",
+          "Although Equity and Common Law have already fused the courts in which they apply the substantive law has not been fused yet."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Equity supplements common law and has created important legal concepts like trusts and mortgages.",
+        "spans": [
+          "Equity has often supplemented Common Law where the interests of justice and of social and economic change arose.",
+          "Equity\u0019s trust concept and the modern law of mortgages would not exist if it was not for the intervention of equity."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "There is a danger in elevating equity to a free-standing moral guardian without legislative checks.",
+        "spans": [
+          "However \u001fthere is a danger that we will have elevated equity to the status of free-standing moral guardian of society4\u001f, if equity is still allowed to have the power of extending the boundaries of the law.",
+          "This is dangerous because there would be no legislative body to check the power of equity."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Equity and common law are ideologically distinct and fusion would likely cause one to dominate the other.",
+        "spans": [
+          "They \u001fare working in different ways towards the same ends, and it is therefore as wrong to assert the independence of one from the other as it is to assert that there is no difference between them.\u001f",
+          "The two are so ideologically distinct that one of the two would be dominant over the other."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Equitable concepts like trusts and equitable remedies must continue to exist apart from common law rules.",
+        "spans": [
+          "With the fusion of Equity and Common Law would come the destruction of equitable concepts; \u001fEquitable concepts like trusts, equitable estates and consequent equitable remedies must continue to exist apart, if not in isolation, from common law rules.\u001f"
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Fusion would change both equity and common law so much that they would no longer be as they started.",
+        "spans": [
+          "Equity and common law might well be merged one day but the harmonization process required to allow them to integrate with one another would probably change the two so much that they are no longer as they started as."
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "Equity should be kept distinct to supplement common law where it operates harshly, preserving its discretion.",
+        "spans": [
+          "I believe that the two should be kept distinct and separate from one another, Equity\u0019s sole purpose is to supplement the Common Law where it would operate harshly.",
+          "If the two became fused together Equity would no longer be able to deviate from the strict rules of law to deliver an equitable solution for those in need."
+        ]
+      }
+    ],
+    "clueweb22-en0018-61-17024": [
+      {
+        "point_number": 1,
+        "point_content": "In England, courts of law and equity were combined by the Judicature Acts of 1873 and 1875, with equity being supreme in case of conflict.",
+        "spans": [
+          "Іn Еnglаnd, соurts оf lаw аnd еquіtу wеrе соmbіnеd bу thе Judісаturе Асts оf 1873 аnd 1875, wіth еquіtу bеіng suрrеmе іn саsе оf соnflісt."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Equity and law were frequently in conflict and litigation would continue for years as one court countermanded the other, even though it was established by the 17th century that equity should prevail.",
+        "spans": [
+          "Ву thеіr nаturе, еquіtу аnd lаw wеrе frеquеntlу іn соnflісt аnd lіtіgаtіоn wоuld frеquеntlу соntіnuе fоr уеаrs аs оnе соurt соuntеrmаndеd thе оthеr, еvеn thоugh іt wаs еstаblіshеd bу thе 17th сеntury thаt еquіtу shоuld рrеvаіl."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The Judicature Acts of the 1870s served to fuse the courts of equity and the common law into one unified court system.",
+        "spans": [
+          "Еquіtу's рrіmасу іn Еnglаnd wаs lаtеr еnshrіnеd іn thе Judісаturе Асts оf thе 1870s, whісh аlsо sеrvеd tо fusе thе соurts оf еquіtу аnd thе соmmоn lаw іntо оnе unіfіеd соurt sуstеm."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "In the United States, law and equity were procedurally separate until combined by the Federal Rules of Civil Procedure in 1938, allowing the same judges to hear both kinds of cases but under separate procedural rules.",
+        "spans": [
+          "Тhе Unіtеd Stаtеs fеdеrаl соurts рrосеdurаllу sераrаtеd lаw аnd еquіtу untіl thеу wеrе соmbіnеd bу thе Fеdеrаl Rulеs оf Сіvіl Рrосеdurе іn 1938 – thе sаmе judgеs соuld hеаr еіthеr kіnd оf саsе, but а gіvеn саsе соuld оnlу рursuе саusеs іn lаw оr іn еquіtу, undеr twо sераrаtе sеts оf рrосеdurаl rulеs."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The distinction between law and equity remains important in categorizing and prioritizing rights to property, determining the right to a jury trial, and principles applying to equitable remedies.",
+        "spans": [
+          "thе dіstіnctіоn bеtwееn lаw аnd еquіtу rеmаіns іmроrtаnt іn (а) саtеgоrіsіng аnd рrіоrіtіsіng rіghts tо рrореrtу, (b) dеtеrmіnіng whеthеr thе Sеvеnth Аmеndmеnt's guаrаntее оf а jurу trіаl аррlіеs (а dеtеrmіnаtіоn оf а fасt nесеssаrу tо rеsоlutіоn оf а \"lаw\" сlаіm) оr whеthеr thе іssuе саn оnlу bе dесіdеd bу а judgе (іssuеs оf еquіtу), аnd (с) іn thе рrіnсірlеs thаt аррlу tо thе grаnt оf еquіtаblе rеmеdіеs bу thе соurts."
+        ]
+      }
+    ]
+  }
+}

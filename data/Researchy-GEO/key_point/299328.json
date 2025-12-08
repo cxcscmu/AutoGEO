@@ -1,0 +1,431 @@
+{
+  "question": "how does texas abortion law work",
+  "key_points": {
+    "clueweb22-en0043-88-01054": [
+      {
+        "point_number": 1,
+        "point_content": "Texas’ six-week abortion ban effectively bans abortions after six weeks of pregnancy, which is before many people realize they are pregnant.",
+        "spans": [
+          "Texas’ six-week abortion ban, which cuts off procedure access before many people realize they are pregnant"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The law empowers private citizens to sue anyone they believe may have aided or abetted someone getting an abortion after six weeks.",
+        "spans": [
+          "The law, which originally took effect at midnight on September 1, empowers private citizens to sue anyone they believe may have “aided or abetted” someone getting an abortion after six weeks"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Patients themselves cannot be sued for seeking an abortion, but providers and anyone who helps them can be sued under the law.",
+        "spans": [
+          "Under the law, Senate Bill 8, patients themselves cannot be sued for seeking an abortion — but providers and anyone who helps them are fair game"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The law provides an exemption for broadly defined medical emergencies but does not include exemptions for rape or incest.",
+        "spans": [
+          "The law provides an exemption for broadly defined medical emergencies, but does not include any exemptions for rape or incest"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "A pregnant person in Texas has about a two-week window to seek abortion care before the six-week ban applies.",
+        "spans": [
+          "A pregnant person in Texas essentially has a two-week window — the luteal phase of pregnancy, in which early symptoms include food cravings, headaches, bloating and breast tenderness — to seek abortion care"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Medication abortion is restricted under Texas’ law since it applies to any abortion after six weeks.",
+        "spans": [
+          "Medication abortion, through pills that must be given by a physician, is restricted under Texas’ law since it applies to any abortion after six weeks"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Miscarriage management is possible if no cardiac activity is found, as the law applies only if cardiac activity is present.",
+        "spans": [
+          "Technically, since Senate Bill 8 applies only if cardiac activity is present, miscarriage management — which often involves procedures similar to an abortion — would be possible if no cardiac activity is found"
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Anyone who helps someone leave Texas to obtain an abortion or send funds directly has low legal risk under the law.",
+        "spans": [
+          "For anyone who helps someone leave Texas to obtain an abortion or send funds directly, the legal risk is low"
+        ]
+      }
+    ],
+    "clueweb22-en0003-01-04183": [
+      {
+        "point_number": 1,
+        "point_content": "The Texas law bans most abortions after about six weeks of pregnancy, when cardiac activity can be detected in the embryo.",
+        "spans": [
+          "A Texas law banning most abortions after about six weeks of pregnancy went into effect on Wednesday",
+          "The law bars abortions once cardiac activity can be detected in the embryo. This typically occurs around the sixth week of pregnancy."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Many women do not know they are pregnant at six weeks, making the law a de facto near-total ban.",
+        "spans": [
+          "That is very early in a pregnancy, and many women do not know they are pregnant at that point.",
+          "It is extremely possible and very common for people to get to the six-week mark and not know they are pregnant."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The law does not make exceptions for rape or incest and has very narrow health exceptions.",
+        "spans": [
+          "Does the law make exceptions for pregnancies resulting from rape or incest, or to protect the life of the mother?",
+          "The law does not make exceptions for rape or incest.",
+          "It does permit abortions for health reasons, but the exceptions are narrowly drawn, allowing a termination only if the pregnancy could endanger the mother’s life or lead to “substantial and irreversible impairment of a major bodily function,”"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The law is designed to be difficult to challenge in court by deputizing private citizens to enforce it instead of state officials.",
+        "spans": [
+          "The Texas law bars state officials from actually enforcing it, a design intended to make it difficult to challenge in the courts.",
+          "Instead, the Texas law deputizes private citizens to sue anyone who performs an abortion or “aids and abets” a procedure."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The Texas law is the most restrictive abortion law in the nation and is the first such law to be implemented despite legal challenges.",
+        "spans": [
+          "A Texas law banning most abortions after about six weeks of pregnancy went into effect on Wednesday, despite the 1973 Supreme Court decision that established a constitutional right to the procedure, making the state the most restrictive in the nation in terms of access to abortion services.",
+          "The Texas law is the first to be implemented."
+        ]
+      }
+    ],
+    "clueweb22-en0011-59-14353": [
+      {
+        "point_number": 1,
+        "point_content": "The Texas abortion law deputizes ordinary citizens to sue those involved in performing abortions and offers them a financial incentive to do so.",
+        "spans": [
+          "deputizing ordinary people to sue those involved in performing abortions and giving them a financial incentive to do so"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The law allows successful plaintiffs to collect $10,000 and legal fees from those they sue, but if they lose, they do not pay defendants' legal costs.",
+        "spans": [
+          "The law establishes a kind of bounty system. If these vigilante plaintiffs are successful, the law allows them to collect cash judgments of $10,000 — and their legal fees — from those they sue. If they lose, they do not have to pay the defendants’ legal costs."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The law effectively bars abortions starting around the sixth week of pregnancy.",
+        "spans": [
+          "which effectively bars abortions starting around the sixth week of pregnancy"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Anyone, even people outside Texas, can file a complaint in any Texas court if they believe an abortion has been performed.",
+        "spans": [
+          "The statute, for example, permits anyone — even people who live outside Texas — to file a complaint in any court in the state if they believe an abortion has been performed."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Nearly everyone involved in the abortion procedure, except the woman receiving it, can be sued under the law.",
+        "spans": [
+          "It also makes nearly everyone involved in the procedure — except for the woman who receives the abortion — liable to suits"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "The law removes enforcement entirely from state jurisdiction and vastly expands who can sue and be sued over abortions.",
+        "spans": [
+          "It removes enforcement entirely from state jurisdiction, and vastly expands who can sue, and who can be sued, over abortions."
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0029-13-18789": [
+      {
+        "point_number": 1,
+        "point_content": "SB 8 allows any private citizen in Texas, or elsewhere, to sue anyone who performs an abortion in the state after an embryo’s cardiac activity can be detected.",
+        "spans": [
+          "SB 8 allows any private citizen in Texas, or elsewhere, to sue anyone who performs an abortion in the state after an embryo’s cardiac activity can be detected."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The law bans abortions upon the detection of cardiac activity in embryos, which usually occurs after six weeks of gestation.",
+        "spans": [
+          "The law bans abortions upon the detection of cardiac activity in embryos, which usually occurs after six weeks of gestation"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The law uses an unusual enforcement mechanism involving civil lawsuits, rather than criminal prosecution, to create liability for anyone who performs, “aids or abets,” or intends to aid or abet such an abortion.",
+        "spans": [
+          "and uses an unusual enforcement mechanism involving civil lawsuits, rather than criminal prosecution, to create liability for anyone who performs, “aids or abets,” or intends to aid or abet such an abortion."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The law does not allow the person who is getting the abortion to be sued.",
+        "spans": [
+          "No. The law specifically exempts the person who is getting the abortion from being sued."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The law cares about the presence of cardiac activity, which is typically detected around six weeks after the embryo has been formed, not gestational age.",
+        "spans": [
+          "Calling the law a six-week abortion ban is a slight misnomer. SB 8 doesn’t look at gestational age; the law cares about the presence of cardiac activity, which is typically detected around six weeks after the embryo has been formed."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Anyone who aids or abets or intends to aid or abet an abortion after cardiac activity is detected can be sued under SB 8.",
+        "spans": [
+          "SB 8 allows any private citizen to sue anyone (in Texas or elsewhere) who “aids or abets” anyone in getting an abortion in Texas after that period or anyone who intends to aid or abet that process."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "The law creates standing for anyone to sue, and it lets the courts decide whether the defendant actually had the intent to aid someone in obtaining an abortion.",
+        "spans": [
+          "The law creates standing for anyone to sue, and it lets the courts decide whether the defendant actually had the intent to aid someone in obtaining an abortion."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "You can be sued for donating to an abortion fund that provides financial or logistical help to Texans seeking abortions.",
+        "spans": [
+          "Could you be sued for donating to an abortion fund that provides financial or logistical help to Texans seeking abortions? Yes."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "You can be sued for planning to donate to an abortion fund but never getting around to mailing the check.",
+        "spans": [
+          "Can you be sued for planning to donate to an abortion fund but never getting around to mailing the check? Yes."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "A ride-hailing app driver who takes someone to an abortion clinic can be sued under SB 8.",
+        "spans": [
+          "Can a ride-hailing app driver who takes someone to an abortion clinic be sued? Yes."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "You cannot be sued for taking someone out of state to get an abortion, only abortions that take place in Texas are subject to the law.",
+        "spans": [
+          "Could you sue a pilot or driver who takes someone out of state to get an abortion? No. The abortion has to take place in Texas to be subject to state law."
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "The law makes an exception if continuing the pregnancy presents a danger to the life of the woman or could lead to substantial and irreversible impairment of a major bodily function.",
+        "spans": [
+          "The law makes an exception if continuing the pregnancy presents a danger to the life of the woman who gets the abortion or if it could lead to “substantial and irreversible impairment of a major bodily function.”"
+        ]
+      },
+      {
+        "point_number": 13,
+        "point_content": "Each lawsuit has a minimum statutory damage amount of $10,000, with no upper limit on the amount for which a defendant can be sued.",
+        "spans": [
+          "Each lawsuit has a minimum statutory damage amount of $10,000, with the damages collected by the plaintiff as a sort of bounty. There’s no upper limit on the amount for which a defendant can be sued."
+        ]
+      },
+      {
+        "point_number": 14,
+        "point_content": "The law allows unlimited lawsuits, which could be filed by anyone anywhere in the country.",
+        "spans": [
+          "The law, as written, allows unlimited lawsuits, which could be filed by anyone anywhere in the country."
+        ]
+      },
+      {
+        "point_number": 15,
+        "point_content": "The person who is sued is still on the hook for attorney fees and court costs, even if the lawsuit is unsuccessful.",
+        "spans": [
+          "What happens if the lawsuit is unsuccessful? The person who is sued is still on the hook for his or her attorney fees and court costs, as well as travel costs if the case is heard far from the defendant’s home, as the law does not specifically allow defendants to pursue reimbursement on those charges."
+        ]
+      }
+    ],
+    "clueweb22-en0030-64-17898": [
+      {
+        "point_number": 1,
+        "point_content": "SB 8 bans abortion after six weeks and allows private citizens to sue anyone who performs, aids, or abets such an abortion for a minimum of $10,000 plus attorneys’ fees.",
+        "spans": [
+          "a new law banning abortion after six weeks took effect in Texas",
+          "it allows anyone to sue any individual who performs, “aids,” or “abets” such an abortion for a minimum of $10,000 plus attorneys’ fees"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "SB 8 is enforced through private lawsuits, not by government officials, to avoid judicial review.",
+        "spans": [
+          "The measure, known as SB 8, will not be enforced by government officials",
+          "Republican lawmakers devised this convoluted structure to insulate the law from judicial review"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "SB 8 does not criminalize abortion; it allows private citizens to sue but does not allow government prosecution.",
+        "spans": [
+          "SB 8 does not allow government officials to prosecute anyone for performing or abetting an abortion",
+          "it allows private citizens to sue anyone who performed or abetted an abortion in Texas"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Patients who have abortions cannot be sued under SB 8, including those who self-induce abortion, but others who aid may be sued.",
+        "spans": [
+          "the bill does not permit lawsuits against patients “on whom an abortion is performed or induced”",
+          "The exemption here appears broad enough to prevent litigation against patients who self-terminate"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Insurance companies can be held liable under SB 8 for paying or reimbursing abortion costs.",
+        "spans": [
+          "The bill bars insurance providers from “paying for or reimbursing the costs of an abortion.”"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "If you bring and win an SB 8 lawsuit, you can collect attorneys’ fees; if you are sued and win, you get nothing.",
+        "spans": [
+          "If you bring a lawsuit under SB 8 and win, you get to collect attorneys’ fees from the defendant",
+          "If you face a lawsuit under SB 8 and win, you get nothing"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "You do not have to live in Texas to file an SB 8 lawsuit; you just need to file in Texas state court.",
+        "spans": [
+          "No. You merely need to file the lawsuit in Texas state court. You can live anywhere."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "If a plaintiff wins an SB 8 suit against an abortion provider, the court must issue an injunction to prevent future violations, likely shutting down the clinic.",
+        "spans": [
+          "If a plaintiff prevailed in an SB 8 suit against a clinic, the court would have to issue an injunction preventing future violations of the law, which Hearron said would probably take the form of a court order shutting down the clinic."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "SB 8 likely does not prohibit Texas residents from traveling out of state to get an abortion, but aiding such travel is ambiguous and could be subject to lawsuits.",
+        "spans": [
+          "SB 8 bars “aiding or abetting” an abortion that’s performed “in violation of” Texas law",
+          "Helping a Texas resident travel elsewhere to terminate a pregnancy thus appears unlikely to fall under the law"
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Out-of-state residents can be sued under SB 8 if they aid or abet a Texas abortion, such as donating to abortion funds, but enforcement is complicated.",
+        "spans": [
+          "The text of the bill does not limit its geographic scope in this regard",
+          "Giving money for the specific purpose of “aiding or abetting” a Texas abortion likely establishes the minimum contacts necessary for a Texas court to assert jurisdiction over an out-of-state resident"
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Texas courts may rule against out-of-state defendants who do not appear, but enforcement of judgments outside Texas is uncertain.",
+        "spans": [
+          "If a defendant in an SB 8 lawsuit fails to appear in court, the judge must automatically rule against them",
+          "Courts might fine these defendants but lack the ability to enforce their decisions"
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "SB 8 has no general exception for rape or incest pregnancies; the person who impregnated the patient through rape or incest cannot sue.",
+        "spans": [
+          "There is no general exception; in virtually all cases, a pregnancy that resulted from rape or incest may not be terminated",
+          "The “person who impregnated the abortion patient through an act” of rape or incest may not file a suit over her abortion"
+        ]
+      },
+      {
+        "point_number": 13,
+        "point_content": "SB 8 allows private citizens to sue and potentially obtain private medical information through court orders, raising HIPAA privacy concerns.",
+        "spans": [
+          "SB 8 allows anyone to collect at least $10,000 if they can prove that (1) someone performed an abortion after six weeks, (2) someone “aided or abetted” a banned abortion",
+          "Presumably, though they would have to file suit first, then ask a judge to make the clinic turn over the paperwork",
+          "Such an order might conflict with HIPAA by forcing the unapproved transmission of private medical information"
+        ]
+      }
+    ],
+    "clueweb22-en0011-83-00370": [
+      {
+        "point_number": 1,
+        "point_content": "Texas has enacted Senate Bill 8 (SB 8) which limits abortion care beyond about 6 weeks of pregnancy.",
+        "spans": [
+          "As of September 1, 2021, the state of Texas has enacted a new abortion restriction. Known as Senate Bill 8 (SB 8), this law limites our ability to provide abortion care in Texas beyond about 6 weeks of pregnancy, and sometimes even earlier."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Planned Parenthood can provide abortion care if within the legal limit, or help connect to out-of-state care if not.",
+        "spans": [
+          "Planned Parenthood is here to provide you with access to health care — no matter what. We can determine if you are within the new legal limit to provide care under this law. If you are not, and we cannot provide abortion care for you in our health center, we can still help connect you with resources to obtain out-of-state care, including financial assistance."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Texas law requires at least two visits to the abortion facility: first for ultrasound, second for procedure and another ultrasound to confirm legal limit.",
+        "spans": [
+          "State law requires all people seeking an abortion to have at least two visits to the abortion facility.",
+          "The first visit is for an ultrasound, and the second visit is for the procedure. Under SB 8, another ultrasound will be required at your second visit to ensure you are still within the new legal limit for abortion care in Texas."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "If the second ultrasound shows the pregnancy is past the legal limit, Planned Parenthood can help access abortion care out of state.",
+        "spans": [
+          "If the second ultrasound shows you are past this new legal limit, we can still help you access abortion care out of state."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Abortion is legal in all 50 states but laws vary; options exist in surrounding states like Louisiana, New Mexico, Colorado, Oklahoma.",
+        "spans": [
+          "Abortion is safe and legal in all 50 states, but different states have different laws about when you can get an abortion there.",
+          "There are options for abortion care in Louisiana, New Mexico, Colorado, Oklahoma, and other surrounding states."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Planned Parenthood can assist with finding out-of-state providers and financial assistance for abortion care.",
+        "spans": [
+          "If you need to get an abortion out of state, we can help you find a provider and resources to get there, including financial assistance."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Texas law assumes all people seeking abortions are minors until proven otherwise and requires proof of identity and age from the physician.",
+        "spans": [
+          "State law assumes all people seeking abortions are minors until they prove otherwise, and places the burden of proof on the physician performing the abortion to request proof of identity and age."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Minors need written permission from a parent or legal guardian to get an abortion in Texas, with some exceptions.",
+        "spans": [
+          "In both Texas and Louisiana, state law requires that the parent or legal guardian provide written permission for unmarried minors (under the age of 18) to have an abortion. There are a few exceptions:"
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Exceptions to parental permission include judicial bypass, emancipation, and medical emergencies.",
+        "spans": [
+          "The minor can go before a judge and receive permission from the judge to have an abortion without the parent’s permission (also known as Judicial Bypass).",
+          "Minors who are legally emancipated do not need to have permission from a parent or guardian.",
+          "If there is a medical emergency and the pregnant minor needs an abortion, the parent does not have to give permission."
+        ]
+      }
+    ]
+  }
+}

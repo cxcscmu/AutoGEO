@@ -1,0 +1,47 @@
+{
+  "question": "how has warby parker’s csr strategy contributed to its success in the marketplace?",
+  "key_points": {
+    "null": [],
+    "clueweb22-en0023-67-13002": [
+      {
+        "point_number": 1,
+        "point_content": "Warby Parker's belief in providing eyewear to impoverished people, ensuring that the company monitors and regulates its carbon footprint, and trying to force companies to reel in the upcharges for eyewear are examples of social responsibility, sustainability, and ethics.",
+        "spans": [
+          "Warby​ Parker's belief in providing eyewear to impoverished​ people, ensuring that the company monitors and regulates its carbon​ footprint, and trying to force companies to reel in the upcharges for eyewear are examples of​ ________.",
+          "social responsibility, sustainability, and ethics"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Warby Parker has a high degree of effectiveness and efficiency in its social responsiveness efforts.",
+        "spans": [
+          "From what you saw in the​ video, which of the following statements is most TRUE regarding Warby​ Parker's social​ responsiveness?",
+          "Warby Parker has a high degree of effectiveness and efficiency in its social responsiveness efforts."
+        ]
+      }
+    ],
+    "clueweb22-en0020-42-03216": [
+      {
+        "point_number": 1,
+        "point_content": "Warby Parker's Buy a Pair, Give a Pair program contributes to its success by addressing a large-scale global problem and appealing to socially conscious consumers.",
+        "spans": [
+          "Similar to TOMS Shoes, Warby Parker was founded on the principle of Buy a Pair, Give a Pair: for every pair of glasses purchased, a pair is distributed to someone in need."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Warby Parker's CSR strategy supports sustainable economic development by funding VisionSpring to empower local entrepreneurs in developing countries.",
+        "spans": [
+          "Warby Parker funds the production of a pair of eyeglasses for non-profit organization VisionSpring. VisionSpring then provides glasses and training to low-income entrepreneurs in developing countries to start their own businesses selling glasses."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Warby Parker's commitment to environmental sustainability as a 100% carbon neutral company enhances its market appeal.",
+        "spans": [
+          "The company 100% carbon neutral, and is one of the only carbon-neutral eyewear brands in the world."
+        ]
+      }
+    ]
+  }
+}

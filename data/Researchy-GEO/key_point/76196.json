@@ -1,0 +1,240 @@
+{
+  "question": "are nuclear hazards any different from other hazards we accept everyday?",
+  "key_points": {
+    "null": [],
+    "clueweb22-en0036-00-01657": [
+      {
+        "point_number": 1,
+        "point_content": "Nuclear energy is subjected to hostile attitudes due to fear of catastrophes like Chernobyl and Fukushima, which affects its acceptance compared to other energy sources.",
+        "spans": [
+          "Fear for Chernobyl and Fukushima-type catastrophes exacerbate the unpopularity of going nuclear."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Nuclear power produces radioactive waste that remains dangerous for long periods, posing storage challenges.",
+        "spans": [
+          "Even in the absence of a nuclear accident, nuclear power inevitably produces dangerous materials: radioactive waste. This waste, composed of mostly unconverted uranium along with intermediate products plutonium and curium, stays radioactive for extremely long periods, too, presenting a major problem in regards to storage."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Fossil fuels produce toxic pollutants causing millions of deaths annually, and coal plants release more radioactive material than nuclear plants under normal operations.",
+        "spans": [
+          "The World Health Organization has stated the urban air pollution, which is a mixture of all of the chemicals just described, causes 7 million deaths annually or about 1 in 8 of total deaths.",
+          "Furthermore, coal power plants release more radioactive material per kWh into the environment in the form of coal ash than does waste from a nuclear power plant under standard shielding protocols."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Nuclear power is statistically less deadly per kWh than coal, oil, gas, and even wind energy.",
+        "spans": [
+          "Remarkably, nuclear power is the benchmark to beat, outranking coal, oil, gas, and even wind by a slight margin as the least deadly major energy resource in application"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Modern nuclear reactors are designed to prevent meltdowns even in complete machinery failure, reducing accident risks.",
+        "spans": [
+          "Newer generations of nuclear reactors, particularly what is called a pebble-bed reactor, are designed so that the nuclear chain reaction cannot run away and cause a meltdown – even in the event of complete failure of the reactor’s machinery."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Nuclear energy does not produce greenhouse gases like fossil fuels, which have been producing them for over a century.",
+        "spans": [
+          "we know that nuclear energy does not produce the greenhouse gases that fossil fuels have been producing for over a century."
+        ]
+      }
+    ],
+    "clueweb22-en0013-89-05720": [
+      {
+        "point_number": 1,
+        "point_content": "Radiation is a natural part of our environment and we are exposed to it daily from natural sources such as the earth, cosmic rays, and even our own bodies.",
+        "spans": [
+          "Radioactivity is a part of our earth - it has existed all along.",
+          "Naturally occurring radioactive materials are present in its crust, the floors and walls of our homes, schools, or offices and in the food we eat and drink.",
+          "There are radioactive gases in the air we breathe.",
+          "Our own bodies - muscles, bones, and tissue - contain naturally occurring radioactive elements.",
+          "Man has always been exposed to natural radiation arising from the earth as well as from outside the earth.",
+          "The radiation we receive from outer space is called cosmic radiation or cosmic rays."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "We are also exposed to man-made radiation from medical procedures, industrial uses, and nuclear power plants, but these exposures are regulated and kept as low as reasonably achievable.",
+        "spans": [
+          "We also receive exposure from man-made radiation, such as X-rays, radiation used to diagnose diseases and for cancer therapy.",
+          "Fallout from nuclear explosives testing, and small quantities of radioactive materials released to the environment from coal and nuclear power plants, are also sources of radiation exposure to man.",
+          "Additionally, we are exposed to varying amounts of radiation from sources such as dental and other medical X-rays, industrial uses of nuclear techniques and other consumer products such as luminized wrist watches, ionization smoke detectors, etc.",
+          "We are also exposed to radiation from radioactive elements contained in fallout from nuclear explosives testing, and routine normal discharges from nuclear and coal power stations.",
+          "The ICRP recommends that any exposure above the natural background radiation should be kept as low as reasonably achievable, but below the individual dose limits."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Radiation protection principles assume any increased level of radiation above natural background carries some risk and aim to protect current and future generations.",
+        "spans": [
+          "Radiation protection sets examples for other safety disciplines in two unique respects:",
+          "First, there is the assumption that any increased level of radiation above natural background will carry some risk of harm to health.",
+          "Second, it aims to protect future generations from activities conducted today."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Society accepts certain risks from radiation and other hazards in everyday life in order to gain benefits, such as energy production and medical uses.",
+        "spans": [
+          "We all face risks in everyday life.",
+          "It is impossible to eliminate them all, but it is possible to reduce them.",
+          "The use of coal, oil, and nuclear energy for electricity production, for example, is associated with some sort of risk to health, however small.",
+          "In general, society accepts the associated risk in order to derive the relevant benefits.",
+          "The use of radiation and nuclear techniques in medicine, industry, agriculture, energy and other scientific and technological fields has brought tremendous benefits to society.",
+          "The benefits in medicine for diagnosis and treatment in terms of human lives saved are enormous.",
+          "Radiation is a key tool in the treatment of certain kinds of cancer.",
+          "Three out of every four patients hospitalized in the industrial countries benefit from some form of nuclear medicine.",
+          "The beneficial impacts in other fields are similar.",
+          "No human activity or practice is totally devoid of associated risks.",
+          "Radiation should be viewed from the perspective that the benefit from it to mankind is less harmful than from many other agents."
+        ]
+      }
+    ],
+    "clueweb22-en0031-69-15494": [
+      {
+        "point_number": 1,
+        "point_content": "Nuclear radiation is an example of a manmade disaster.",
+        "spans": [
+          "Also, for manmade disasters we can give examples such as fires, transport accidents, nuclear radiation, explosions, etc."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Hazards can be natural or manmade and are a feature of our planet and cannot be prevented.",
+        "spans": [
+          "Hazards are natural or manmade phenomenon that are a feature of our planet and cannot be prevented."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Hazards are situations where there is a threat to life, health, environment, or property.",
+        "spans": [
+          "A hazard is a situation where there is a threat to life, health, environment, or property."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Disasters are events that completely disrupt the normal ways of a community and bring losses which the community cannot bear on its own.",
+        "spans": [
+          "A disaster is an event that completely disrupts the normal ways of a community. It brings on human, economical, and environmental losses to the community which the community cannot bear on its own."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Hazards become disasters when they cause widespread destruction of property and human lives.",
+        "spans": [
+          "These hazards are termed as disasters when they cause widespread destruction of property and human lives. Once a hazard becomes active and is no longer just a threat, it becomes a disaster."
+        ]
+      }
+    ],
+    "clueweb22-en0038-03-11020": [
+      {
+        "point_number": 1,
+        "point_content": "Radioactive pollution is a special type of physical pollution which is related to all major life supporting systems like air, water and soil.",
+        "spans": [
+          "Radioactive pollution is a special type of physical pollution which is related to all major life supporting systems like air, water and soil."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Radioactive pollution is discussed separately because its nature of contamination is different from other types of pollution and its effects are also of special kinds.",
+        "spans": [
+          "It is always convenient to discuss radioactive pollution separately because its nature of contamination is different from other types of pollution. Its effects are also of special kinds."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The effects of radioactive pollutants are extremely dangerous and include somatic and genetic damage, cancer, shortening of life span and mutations.",
+        "spans": [
+          "All organisms are affected from radiation pollution, and the effects are extremely dangerous.",
+          "The effects may be somatic (individual exposed is affected) or genetic (future generations) damage.",
+          "The effects are cancer, shortening of life span and genetic effects or mutations."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Radioactivity causes long range effects, affecting the future of man and hence the future of our civilization, which is a significant difference from other hazards.",
+        "spans": [
+          "But the most significant effect of radioactivity is that it causes long range effects, affecting the future of man and hence the future of our civilization."
+        ]
+      }
+    ],
+    "clueweb22-en0039-54-05738": [
+      {
+        "point_number": 1,
+        "point_content": "The risk of accidents in nuclear power plants is low and declining. The consequences of an accident or terrorist attack are minimal compared with other commonly accepted risks.",
+        "spans": [
+          "The risk of accidents in nuclear power plants is low and declining.",
+          "The consequences of an accident or terrorist attack are minimal compared with other commonly accepted risks."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Nuclear power safety depends on intelligent planning, proper design with conservative margins and back-up systems, high-quality components and a well-developed safety culture in operations, similar to other industries.",
+        "spans": [
+          "safety depends on much the same factors as in any comparable industry: intelligent planning, proper design with conservative margins and back-up systems, high-quality components and a well-developed safety culture in operations."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Nuclear power plants have multiple physical barriers and safety systems to prevent radioactive releases, including fuel pellets, sealed zirconium alloy tubes, steel pressure vessel, and reinforced concrete containment structure.",
+        "spans": [
+          "The barriers in a typical plant are: the fuel is in the form of solid ceramic (UO 2) pellets, and radioactive fission products remain largely bound inside these pellets as the fuel is burned. The pellets are packed inside sealed zirconium alloy tubes to form fuel rods. These are confined inside a large steel pressure vessel with walls up to 30 cm thick – the associated primary water cooling pipework is also substantial. All this, in turn, is enclosed inside a robust reinforced concrete containment structure with walls at least one metre thick."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Nuclear power plants operate using a 'defence-in-depth' approach with multiple safety systems, prevention, monitoring, and action to mitigate consequences of failures.",
+        "spans": [
+          "To achieve optimum safety, nuclear plants in the western world operate using a 'defence-in-depth' approach, with multiple safety systems supplementing the natural features of the reactor core.",
+          "These can be summed up as: prevention, monitoring, and action (to mitigate consequences of failures)."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Nuclear power accidents are rare and have caused fewer fatalities compared to other energy sources; for example, coal mining kills hundreds annually.",
+        "spans": [
+          "There have been two major reactor accidents in the history of civil nuclear power – Chernobyl and Fukushima Daiichi.",
+          "Of all the accidents and incidents, only the Chernobyl and Fukushima accidents resulted in radiation doses to the public greater than those resulting from the exposure to natural sources.",
+          "Apart from Chernobyl, no nuclear workers or members of the public have ever died as a result of exposure to radiation due to a commercial nuclear reactor incident.",
+          "Every year several hundred people die in coal mines to provide this widely used fuel for electricity."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Nuclear power plants are designed to be robust against external threats including aircraft impacts and terrorism, with containment structures that are highly resistant.",
+        "spans": [
+          "Various studies have looked at similar attacks on nuclear power plants. They show that nuclear reactors would be more resistant to such attacks than virtually any other civil installations.",
+          "The analyses used a fully-fuelled Boeing 767-400 of over 200 tonnes as the basis, at 560 km/h – the maximum speed for precision flying near the ground.",
+          "In each case no part of the aircraft or its fuel would penetrate the containment.",
+          "Penetrating (even relatively weak) reinforced concrete requires multiple hits by high speed artillery shells or specially-designed \"bunker busting\" ordnance – both of which are well beyond what terrorists are likely to deploy."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Nuclear power safety has improved over decades through learning from accidents and international collaboration, with rigorous safety standards and peer reviews.",
+        "spans": [
+          "No industry is immune from accidents, but all industries learn from them.",
+          "Civil nuclear power has greatly improved its safety in both engineering and operation over its 65 years of experience with very few accidents and major incidents to spur that improvement.",
+          "International cooperation on nuclear safety issues takes place under the auspices of the World Association of Nuclear Operators (WANO) which was set up in 1989.",
+          "The IAEA Convention on Nuclear Safety (CNS) was drawn up during a series of expert level meetings from 1992 to 1994 and was the result of considerable work by Governments, national nuclear safety authorities and the IAEA Secretariat."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "The consequences of a nuclear accident are likely to be much less severe than those from other industrial and energy sources.",
+        "spans": [
+          "the consequences of an accident are likely in fact be much less severe than those from other industrial and energy sources."
+        ]
+      }
+    ]
+  }
+}

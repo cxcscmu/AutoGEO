@@ -1,0 +1,283 @@
+{
+  "question": "how does biology influence our behavior?",
+  "key_points": {
+    "null": [],
+    "clueweb22-en0019-45-05744": [
+      {
+        "point_number": 1,
+        "point_content": "Biology influences decision-making because it provides instincts and predispositions that influence thoughts and actions without knowing it.",
+        "spans": [
+          "Biology influences decision-making because it provides instincts and predispositions that influence thoughts and actions without knowing it."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Biology motivates individuals to participate in activities that would have been beneficial for survival and reproduction, which are more likely to be repeated throughout generations.",
+        "spans": [
+          "Biology motivates individuals to participate in activities that would have been beneficial for survival and reproduction. They are more likely to be repeated throughout generations through the effects of pleasure and purposeful satisfaction."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Biology can influence thought processes by affecting an individual’s identity, encouraging conformity to social norms to maintain consistency in decision making.",
+        "spans": [
+          "Biology can influence thought processes by affecting an individual’s identity, thus encouraging a person to participate in society’s social norms to meet their desire for consistency in decision making."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Humans have instincts and predispositions evolved through natural selection that motivate them towards activities essential for survival under specific circumstances.",
+        "spans": [
+          "Humans evolved through natural selection, so they have instincts and predispositions that motivate them towards certain activities essential for survival under specific circumstances."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Biology supports the categorization of experiences into 'good' or 'bad' and backs emotional reactions with physical reactions, influencing behavior.",
+        "spans": [
+          "This is the way Biology affects human behavior by making us see good and bad everywhere.",
+          "Biology gives us a context upon which to judge everything in very black-and-white terms.",
+          "When emotion surges through our bodies, Biology backs up those emotional reactions with physical reactions."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Biology regulates behavior by using hormones as messengers and encourages conformity to social norms, influencing normative behavior.",
+        "spans": [
+          "Biology regulates behavior by using hormones as messengers to carry signals from the brain to organs and tissues.",
+          "Biology can also influence normative behavior by encouraging people to conform with the norms of their societies, for example, that women are expected to marry and have children."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Biology influences social norms and behaviors by motivating survival and reproduction activities, which are passed through generations.",
+        "spans": [
+          "Biology plays a role in these behaviors because humans are social animals.",
+          "Biology has influenced this by motivating human beings to survive and reproduce throughout history.",
+          "Biology encourages people to participate in activities that would have been beneficial for survival and reproduction so that they are more likely to be repeated throughout generations."
+        ]
+      }
+    ],
+    "clueweb22-en0008-29-01863": [
+      {
+        "point_number": 1,
+        "point_content": "Biological psychology examines the relationship between mind and body, neural mechanisms, and the influence of heredity on behavior.",
+        "spans": [
+          "Biological psychology examines the relationship between mind and body, neural mechanisms, and the influence of heredity on behavior."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The biological approach believes behavior to be as a consequence of our genetics and physiology.",
+        "spans": [
+          "The biological approach believes behavior to be as a consequence of our genetics and physiology."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "All thoughts, feeling & behavior ultimately have a biological cause.",
+        "spans": [
+          "All thoughts, feeling & behavior ultimately have a biological cause."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "A biological perspective is relevant to the study of psychology in three ways: comparative method, physiology, and investigation of inheritance.",
+        "spans": [
+          "A biological perspective is relevant to the study of psychology in three ways:",
+          "1. Comparative method: different species of animal can be studied and compared.",
+          "2. Physiology: how the nervous system and hormones work, how the brain functions, how changes in structure and/or function can affect behavior.",
+          "3. Investigation of inheritance: what an animal inherits from its parents, mechanisms of inheritance (genetics)."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Twin studies provide evidence that genetics play an important role in the expression of particular behaviors.",
+        "spans": [
+          "Twin studies provide geneticists with a kind of natural experiment in which the behavioral likeness of identical twins (whose genetic relatedness is 1.0) can be compared with the resemblance of dizygotic twins (whose genetic relatedness is 0.5).",
+          "if heredity (i.e., genetics) affects a given trait or behavior, then identical twins should show a greater similarity for that trait compared to fraternal (non-identical) twins.",
+          "if concordance rates (which can range from 0 to 100) are significantly higher for identical twins than for fraternal twins, then this is evidence that genetics play an important role in the expression of that particular behavior."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "The brain influences many types of behavior and can be studied through methods such as neuro surgery, EEGs, and brain scans.",
+        "spans": [
+          "The brain can influence many types of behavior.",
+          "In addition to studying brain damaged patients, we can find out about the working of the brain in three other ways.",
+          "1. Neuro Surgery",
+          "2. Electroencrphalograms (EEGs)",
+          "3. Brain Scans"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "The hippocampus is involved in memory, as shown by the case of H.M. who lost the hippocampus and suffered severe anterograde amnesia.",
+        "spans": [
+          "H.M. suffered such devastating epileptic fits that in the end a surgical technique that had never been used before was tried out.",
+          "This technique cured his epilepsy, but in the process the hippocampus had to be removed.",
+          "Afterwards, H.M. was left with severe anterograde amnesia.",
+          "So now we know the hippocampus is involved in memory."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Brain scans like PET scans show which areas of the brain are active during mental activity, helping to understand behavior.",
+        "spans": [
+          "The PET scan (Positron Emission Tomography) which uses a radioactive marker as a way of studying the brain at work.",
+          "The procedure is based on the principle that the brain requires energy to function and that the regions more involved in the performance of a task will use up more energy.",
+          "What the scan, therefore, enables researchers to do is to provide ongoing pictures of the brain as it engages in  mental activity."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Human genes have evolved over millions of years to adapt behavior to the environment, so most behavior has an adaptive/evolutionary purpose.",
+        "spans": [
+          "Human genes have evolved over millions of years to adapt behavior to the environment. Therefore, most behavior will have an adaptive / evolutionary purpose."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Behavior can be largely explained in terms of biology (e.g., genes/hormones).",
+        "spans": [
+          "Behavior can be largely explained in terms of biology (e.g., genes/hormones)."
+        ]
+      }
+    ],
+    "clueweb22-en0001-99-18898": [
+      {
+        "point_number": 1,
+        "point_content": "Humans are biological creatures influenced by millions of years of evolution, which guides our responses to stimuli.",
+        "spans": [
+          "Humans are animals.",
+          "We are the product of millions of years of evolution, our physical make-up changing to make us fitter to survive and reproduce.",
+          "Biology guides our responses to stimuli, based on thousands of generations of ancestors surviving because of their responses."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The combination of biology and society shapes human behavior, with biology providing instinctive responses and society influencing how we carry them out.",
+        "spans": [
+          "The combination of biology and society is what makes us what we are and do what we do.",
+          "Biology guides our responses to stimuli, based on thousands of generations of ancestors surviving because of their responses.",
+          "Our social structures dictate restrictions on and alterations in how we carry out our biological responses."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The three main biological elements contributing to human behavior are self-preservation, reproduction, and greed.",
+        "spans": [
+          "The three main elements biology contributes to human behavior are: 1) self-preservation; 2) the reason for self-preservation, reproduction; and 3) a method to enhance self-preservation and reproduction, greed."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Self-preservation is an instinctive desire to survive physically and psychologically, influencing behavior to seek resources and avoid dangers.",
+        "spans": [
+          "Self-preservation is keeping yourself alive, either physically or psychologically.",
+          "The desire to stay alive is an instinctive one, built into the psyche of the organism.",
+          "The organism will seek those elements of its environment that will enhance its chances for survival.",
+          "Alternately, it will avoid or evade those elements that might reduce its chances for survival."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Survival of the fittest means survival of the fit, where fitness is the ability to exploit an environment's niche effectively.",
+        "spans": [
+          "Survival of the Fittest,\" actually means survival of the fit.",
+          "By fit, I mean an organism has those attributes that allow it to get the most out of its environment: gather food, drink, oxygen, rest, sex."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Organisms adapt to changing environmental niches through physical changes or survival strategies, which can be genetic or learned.",
+        "spans": [
+          "Niches alter through geologic, climatic and, in the present day, man-made changes in land, water and air.",
+          "Such changes in an organism's physical characteristics are, of course, accidental.",
+          "Other changes in an organism can develop over time. These are survival strategies, rather than physical changes, that improve the organism's chances for survival.",
+          "Some survival strategies are learned behaviors."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Humans share the same biological instincts as other animals but have a complex brain that allows conscious alteration of responses to stimuli.",
+        "spans": [
+          "All the above applies to humans as much as any other animal: humans desire personal survival; seek food, drink, rest, sex; fit into niches; must adapt to changing conditions.",
+          "The difference between humans and other animals is that, unlike any other animal (as far as we know), we can and do consciously respond or alter our response to a stimulus."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Human behavior is influenced by biological instincts such as fight or flight, but the conscious mind can modulate these responses.",
+        "spans": [
+          "The genetically dictated instinctive reaction to a threat to self-preservation is the \"fight or flight\" syndrome.",
+          "However, learned responses can mitigate the instinctive, depending on the complexity of the animal's nervous system."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Humans have altered their environment through ingenuity to enhance survival chances, beyond mere biological adaptation.",
+        "spans": [
+          "Humans can alter rather than merely adapt to the environments in which we find ourselves to enhance our chances for survival.",
+          "The invention of agriculture and the domestication of animals improved the food supply; the building of dwellings enhanced shelter from the elements; science and medicine have greatly increased human lifespan and the quality of that life."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Greed is a biological instinct to gather resources to enhance survival and reproduction chances.",
+        "spans": [
+          "Greed has an extremely negative connotation for most people.",
+          "However, it is actually the gathering of resources, the more the better.",
+          "Biologically, for any organism that is successful greed is good.",
+          "Any form of life must gather resources that allow it to survive and reproduce.",
+          "Greed is one organism getting a larger piece of the pie, more of the necessary resources, than other organisms.",
+          "Again, as for self-preservation and sex, greed is an instinctive reaction."
+        ]
+      }
+    ],
+    "clueweb22-en0039-81-15864": [
+      {
+        "point_number": 1,
+        "point_content": "Biology is 100% involved in all the variance in what we think, what we feel, and how we behave.",
+        "spans": [
+          "biology is 100% involved in all the variance in what we think, what we feel, and how we behave"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The capacity for certain behaviors and the tendencies for those behaviors to be shaped by specific environmental events are completely determined by a biological organ: the brain.",
+        "spans": [
+          "The capacity for certain behaviors and the tendencies for those behaviors to be shaped by specific environmental events are completely determined by a biological organ: the brain"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "All learning, every single act of learning from environmental input, occurs only when there are changes in the biological nervous system.",
+        "spans": [
+          "All learning, every single act of learning from environmental input, occurs only when there are changes in the biological nervous system"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "If there can be no environmental influences without specific biological changes within an organism, then it makes no sense to say that certain thoughts, feelings, and behaviors are due to the environment rather than biology.",
+        "spans": [
+          "If there can be no environmental influences without specific biological changes within an organism, then it makes no sense to say that certain thoughts, feelings, and behaviors are due to the environment (whether physical, social, or cultural) rather than biology"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Virtually every measured trait shows at least some heritability, indicating genetic influence on psychological characteristics.",
+        "spans": [
+          "virtually every measured trait showed at least some heritability"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Differences in brain structure depend partially on differences in genes, which affect traits.",
+        "spans": [
+          "differences in brain structure depend partially on differences in genes"
+        ]
+      }
+    ]
+  }
+}

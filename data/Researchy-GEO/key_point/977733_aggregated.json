@@ -1,0 +1,60 @@
+{
+  "question": "why do you think people are so quick to accept “statistics” as true?",
+  "key_points": [
+    {
+      "point_number": 1,
+      "point_content": "Statistics are often accepted as the final word in truth because they provide actual numbers supporting ideas and conclusions, are seen as a prime source of proof, and are accepted quickly due to their appearance as concrete, objective, and scientific evidence, even though methods and interpretations can be subjective and influenced by human factors.",
+      "original_point_number": [
+        1,
+        2,
+        5,
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "point_number": 2,
+      "point_content": "Statistics are based on studies searching for possible connections between facts, often using sets and subsets to represent proportions, and use samples rather than full counts, making sample selection crucial for validity.",
+      "original_point_number": [
+        3,
+        4
+      ]
+    },
+    {
+      "point_number": 3,
+      "point_content": "The phrase 'numbers don't lie' is true, but one must examine who is publishing the numbers and what they are trying to prove, as statistics can be manipulated, massaged, misstated, and misleading, with examples in political debates and common false or misleading statistics including spurious correlations.",
+      "original_point_number": [
+        6,
+        10,
+        12,
+        13,
+        14
+      ]
+    },
+    {
+      "point_number": 4,
+      "point_content": "If bogus statistical information is repeated often enough, it eventually is considered to be true.",
+      "original_point_number": [
+        11
+      ]
+    },
+    {
+      "point_number": 5,
+      "point_content": "Statistics allow evaluation of claims based on quantitative evidence, helping differentiate between reasonable and dubious conclusions, with statistical analyses accounting for uncertainty and error to produce accurate results when used correctly.",
+      "original_point_number": [
+        15,
+        16
+      ]
+    },
+    {
+      "point_number": 6,
+      "point_content": "Statisticians ensure that all aspects of a study follow appropriate methods to produce trustworthy results, helping avoid potential problems and analytical errors, and protecting against manipulation by unscrupulous analysts using incorrect methodology to draw unwarranted conclusions.",
+      "original_point_number": [
+        17,
+        18,
+        19
+      ]
+    }
+  ]
+}

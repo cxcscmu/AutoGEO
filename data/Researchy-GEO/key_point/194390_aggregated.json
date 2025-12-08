@@ -1,0 +1,428 @@
+{
+  "question": "how does global warming affect the environment",
+  "key_points": [
+    {
+      "point_number": 1,
+      "point_content": "Global climate change has caused observable environmental effects including shrinking glaciers, earlier ice break-up on rivers and lakes, shifting plant and animal ranges, and earlier tree flowering.",
+      "original_point_number": [
+        1,
+        15,
+        17,
+        23,
+        38,
+        74,
+        80
+      ]
+    },
+    {
+      "point_number": 2,
+      "point_content": "Predicted effects such as loss of sea ice, accelerated sea level rise, longer and more intense heat waves, stronger storms, more floods and droughts, and more frequent extreme weather events are now occurring.",
+      "original_point_number": [
+        2,
+        10,
+        11,
+        22,
+        48,
+        50,
+        56,
+        57,
+        68,
+        70,
+        74,
+        78,
+        84,
+        97,
+        108
+      ]
+    },
+    {
+      "point_number": 3,
+      "point_content": "The net damage costs of climate change are likely to be significant and increase over time, with varying regional impacts depending on societal and environmental adaptation capabilities.",
+      "original_point_number": [
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "point_number": 4,
+      "point_content": "Global temperatures will continue to rise for decades due to greenhouse gases produced by human activities, with the extent of change depending on emissions and climate sensitivity.",
+      "original_point_number": [
+        4,
+        7,
+        14,
+        24,
+        80,
+        81,
+        98,
+        100
+      ]
+    },
+    {
+      "point_number": 5,
+      "point_content": "The length of frost-free and growing seasons has increased and is projected to continue lengthening, affecting ecosystems and agriculture.",
+      "original_point_number": [
+        8
+      ]
+    },
+    {
+      "point_number": 6,
+      "point_content": "Average precipitation has increased globally with regional variations; heavy precipitation events and droughts are projected to increase, affecting water availability and increasing risks such as wildfires and crop losses.",
+      "original_point_number": [
+        9,
+        20,
+        49,
+        75,
+        88,
+        89
+      ]
+    },
+    {
+      "point_number": 7,
+      "point_content": "Hurricanes and other storms have become stronger and more intense, with increased intensity, frequency, and duration since the early 1980s.",
+      "original_point_number": [
+        11,
+        50,
+        57,
+        84,
+        108
+      ]
+    },
+    {
+      "point_number": 8,
+      "point_content": "Global sea level has risen and is projected to rise another 1 to 8 feet by 2100 due to melting land ice and seawater expansion, threatening coastal infrastructure, communities, and causing flooding and erosion.",
+      "original_point_number": [
+        12,
+        18,
+        44,
+        55,
+        62,
+        64,
+        79,
+        83,
+        90,
+        95,
+        99
+      ]
+    },
+    {
+      "point_number": 9,
+      "point_content": "The Arctic Ocean is expected to become essentially ice free in summer before mid-century, with polar and mountainous regions especially vulnerable due to retreating ice and melting glaciers.",
+      "original_point_number": [
+        13,
+        51
+      ]
+    },
+    {
+      "point_number": 10,
+      "point_content": "Global warming causes melting of ice worldwide including glaciers, ice sheets, and sea ice, contributing to sea-level rise and threatening ice-dependent species like polar bears.",
+      "original_point_number": [
+        17,
+        18,
+        59,
+        101,
+        106,
+        112
+      ]
+    },
+    {
+      "point_number": 11,
+      "point_content": "Rising temperatures affect wildlife and habitats, causing population collapses, species migration to cooler areas, increased extinction risk, and challenges to natural adaptive capacity.",
+      "original_point_number": [
+        19,
+        38,
+        39,
+        40,
+        41,
+        43,
+        87
+      ]
+    },
+    {
+      "point_number": 12,
+      "point_content": "Some species such as mosquitoes, ticks, jellyfish, and crop pests are thriving due to global warming, causing ecological damage including forest devastation by bark beetles and increased spread of diseases.",
+      "original_point_number": [
+        21,
+        46,
+        58,
+        65,
+        71
+      ]
+    },
+    {
+      "point_number": 13,
+      "point_content": "Global warming affects plant life by increasing pests' longevity, herbivory, pesticide resistance, reducing plants' natural defenses, and altering plant chemistry, leading to more damage.",
+      "original_point_number": [
+        28,
+        29,
+        30
+      ]
+    },
+    {
+      "point_number": 14,
+      "point_content": "Global warming increases heat-related disorders and deaths among humans, especially workers exposed to high temperatures and humidity, with more heat-related illness and deaths expected as temperatures rise.",
+      "original_point_number": [
+        31,
+        32,
+        67
+      ]
+    },
+    {
+      "point_number": 15,
+      "point_content": "Global warming will reduce crop growth periods and seed nourishment due to increased temperatures, leading to stunted growth, food insecurity, and adverse effects on food system stability, accessibility, utilization, and availability.",
+      "original_point_number": [
+        33,
+        34,
+        76,
+        88
+      ]
+    },
+    {
+      "point_number": 16,
+      "point_content": "Populations at risk of food shortages include those affected earlier by failing agriculture, resilient pests, crop failure, livestock deaths, lack of quality seeds and equipment, and low income urban populations with weak purchasing power.",
+      "original_point_number": [
+        35,
+        36
+      ]
+    },
+    {
+      "point_number": 17,
+      "point_content": "Climate change will lead to migrations, altering food markets and causing cross-border conflicts and civil unrest due to poor food provisions.",
+      "original_point_number": [
+        37
+      ]
+    },
+    {
+      "point_number": 18,
+      "point_content": "Global warming alters biological systems, influencing ecosystem functioning and biodiversity, with potential for mutations and evolution of species, and challenges to species survival.",
+      "original_point_number": [
+        26,
+        27,
+        38,
+        39,
+        105
+      ]
+    },
+    {
+      "point_number": 19,
+      "point_content": "Surface warming leads to changes in seasonal processes, threatens species dependent on specific habitats like sea ice, and alters disturbance patterns by fires and pests on land.",
+      "original_point_number": [
+        41,
+        42,
+        53,
+        54,
+        114
+      ]
+    },
+    {
+      "point_number": 20,
+      "point_content": "Rising sea levels will destroy many coastal wetlands, salt marshes, and mangrove swamps, leading to loss of habitats for specialist species and threatening coral reefs through bleaching, ocean acidification, and physical damage.",
+      "original_point_number": [
+        44,
+        45,
+        61,
+        78,
+        85,
+        93,
+        113
+      ]
+    },
+    {
+      "point_number": 21,
+      "point_content": "Warmer temperatures affect the spread of infectious diseases by expanding the geographic ranges of carriers such as insects and rodents, increasing risks of diseases like Lyme disease and West Nile virus.",
+      "original_point_number": [
+        46,
+        58,
+        65,
+        71,
+        91
+      ]
+    },
+    {
+      "point_number": 22,
+      "point_content": "Global warming affects water resources by altering surface runoff, water availability, and water quality, impacting agriculture, livestock, and contributing to water shortages.",
+      "original_point_number": [
+        47,
+        75,
+        89
+      ]
+    },
+    {
+      "point_number": 23,
+      "point_content": "Hot days, hot nights, and heat waves have become more frequent globally in the last 50 years, with increasing severe heat waves leading to health risks especially among vulnerable populations.",
+      "original_point_number": [
+        48,
+        67,
+        82,
+        91
+      ]
+    },
+    {
+      "point_number": 24,
+      "point_content": "Drought extent has more than doubled worldwide since the 1970s, contributing to increased risks of wildfires, lost crops, and water shortages.",
+      "original_point_number": [
+        49,
+        53,
+        69,
+        86
+      ]
+    },
+    {
+      "point_number": 25,
+      "point_content": "The strongest U.S. tornadoes have not become more frequent, but the most intense hurricanes have increased in fraction worldwide.",
+      "original_point_number": [
+        50
+      ]
+    },
+    {
+      "point_number": 26,
+      "point_content": "Permafrost is thawing in parts of Canada, Alaska, and Siberia, causing environmental and infrastructural damage.",
+      "original_point_number": [
+        52
+      ]
+    },
+    {
+      "point_number": 27,
+      "point_content": "Forests are moving north into Arctic tundra, and forest fires have increased due to heat and drought, affecting carbon dioxide levels and forest health.",
+      "original_point_number": [
+        53,
+        86,
+        114
+      ]
+    },
+    {
+      "point_number": 28,
+      "point_content": "Global warming causes an increase in sea levels leading to coastal flooding and inundation, threatening human settlements and infrastructure.",
+      "original_point_number": [
+        55,
+        62,
+        64
+      ]
+    },
+    {
+      "point_number": 29,
+      "point_content": "Climate change threatens food safety by lowering nutritional quality of staples, increasing toxins in seafood, and increasing food-borne pathogens.",
+      "original_point_number": [
+        73
+      ]
+    },
+    {
+      "point_number": 30,
+      "point_content": "Global warming causes health issues such as malnutrition, diseases, heat stress, and complications from underlying heart and respiratory conditions due to crop failures, desertification, temperature rise, and poor air quality.",
+      "original_point_number": [
+        63,
+        66,
+        110
+      ]
+    },
+    {
+      "point_number": 31,
+      "point_content": "More frequent heavy rain events will likely increase exposure to water-borne illnesses and outbreaks of aquatic pathogens.",
+      "original_point_number": [
+        72
+      ]
+    },
+    {
+      "point_number": 32,
+      "point_content": "Climate change damages infrastructure and disrupts transportation due to extreme weather events.",
+      "original_point_number": [
+        111,
+        92
+      ]
+    },
+    {
+      "point_number": 33,
+      "point_content": "Global warming causes rising global temperatures, sea level rise, changes in weather patterns like drought and flooding, melting glaciers and sea ice, ocean warming and acidification, bleaching coral reefs, and threatening marine food chains.",
+      "original_point_number": [
+        74,
+        78,
+        85,
+        107
+      ]
+    },
+    {
+      "point_number": 34,
+      "point_content": "Global warming contributes to the extension of drier climatic zones such as deserts, affecting ecosystems and animal life and leading to extinction of species.",
+      "original_point_number": [
+        60
+      ]
+    },
+    {
+      "point_number": 35,
+      "point_content": "Global warming causes the cryosphere to melt, leading to sea level rise and warmer oceans, which threaten crops, wildlife, freshwater supplies, and marine life.",
+      "original_point_number": [
+        59,
+        95,
+        106,
+        107
+      ]
+    },
+    {
+      "point_number": 36,
+      "point_content": "Global warming results from the greenhouse gas effect where heat is trapped in the atmosphere by gases like CO2, CFCs, Nitrous oxide, and Methane, causing the earth's surface to warm.",
+      "original_point_number": [
+        24,
+        25,
+        100,
+        103,
+        104
+      ]
+    },
+    {
+      "point_number": 37,
+      "point_content": "Global warming and related environmental changes lead to decreased biodiversity worldwide, threatening many species with extinction.",
+      "original_point_number": [
+        38,
+        40,
+        43,
+        87,
+        105
+      ]
+    },
+    {
+      "point_number": 38,
+      "point_content": "Climate change impacts human health through heat, stronger hurricanes, wildfires, flooding, expanding ranges of disease-carrying insects, and increased complications from underlying health conditions.",
+      "original_point_number": [
+        31,
+        32,
+        46,
+        58,
+        63,
+        66,
+        67,
+        68,
+        77,
+        91
+      ]
+    },
+    {
+      "point_number": 39,
+      "point_content": "Global warming stresses ecosystems through temperature rises, water shortages, increased fire threats, drought, weed and pest invasions, intense storm damage, and salt invasion.",
+      "original_point_number": [
+        86
+      ]
+    },
+    {
+      "point_number": 40,
+      "point_content": "Climate change threatens agriculture by altering growing conditions, increasing pests and extreme events, reducing food availability, and increasing prices.",
+      "original_point_number": [
+        109,
+        88
+      ]
+    },
+    {
+      "point_number": 41,
+      "point_content": "Global warming causes increased insect herbivory and adverse effects on plant life historically, as seen during the Cenozoic era in the Eocene and Paleocene epochs.",
+      "original_point_number": [
+        30
+      ]
+    },
+    {
+      "point_number": 42,
+      "point_content": "Climate change alters sand temperatures, which then affects the sex of hatchlings.",
+      "original_point_number": [
+        94
+      ]
+    }
+  ]
+}

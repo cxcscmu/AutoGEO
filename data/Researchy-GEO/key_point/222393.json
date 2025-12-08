@@ -1,0 +1,134 @@
+{
+  "question": "how the shape of chemical data can enable data-driven materials discovery",
+  "key_points": {
+    "null": [],
+    "clueweb22-en0006-15-10419": [
+      {
+        "point_number": 1,
+        "point_content": "The MGI approach involves generating, analyzing, and sharing vast materials datasets to identify attributes underpinning materials functionality and accelerate materials discovery.",
+        "spans": [
+          "In this approach, vast materials datasets could be generated, analyzed, and shared; researchers could collaborate across conventional boundaries to identify attributes underpinning materials functionality; and the time for the deployment of new materials could be shortened considerably."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "A scenario illustrating data-driven materials discovery involves high-throughput synthesis and characterization, centralized databases, computational modeling, inverse design, and iterative experimental validation.",
+        "spans": [
+          "This scenario involves a researcher in corner A of the country submitting a query to a user facility that synthesizes and characterizes a new class of polymers in a high-throughput manner using advanced, modular robotics. The results automatically populate a centralized polymer database, reporting successful, and failed, synthetic and processing routes, alongside a set of typical materials properties.",
+          "As these data are published online in a freely available, shareable and standardized data format, a computational researcher in corner B of the country uses the database of experimentally measured properties to calibrate a new computational model that predicts materials properties on the basis of molecular structure.",
+          "Within an inverse-design optimization framework, that researcher submits this high-throughput computation request to a user-facility cloud computing system available on a core/hour basis to identify five chemical structures that optimize the target material property.",
+          "After obtaining these results, the set of all considered molecular structures along with the five candidates, which are flagged to the community, are posted in the online database alongside the experimental results.",
+          "Meanwhile, a researcher at location C with expertise in polymer processing observes both the successful and failed processing routes posted earlier and refines a data-driven model capable of predicting the optimum processing route given an input molecular structure.",
+          "Having seen the flagged molecular structures from the researcher in corner B online, this last individual at location C determines three processing protocols for three of the flagged structures and places these in the database alongside the corresponding molecular structures, and the researcher at location A uses these structures to seed the next phase of their experimental search."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Data-driven approaches have led to breakthroughs in materials discovery by integrating experiment, computation, and theory, exemplified by high-throughput virtual screening and machine learning.",
+        "spans": [
+          "Data-driven approaches have led to breakthroughs in glassy materials 5,6 and a better characterization of the glass genome.",
+          "High-throughput screening, featuring a combination of experimental and computational efforts, has been realized not only in the context of high-performance OLED materials, 4 but also metal-organic framework (MOF)/zeolite-based porous materials, 8,9 lithium ion conductors, 10 photoanodes for solar fuels, 11 and half-Heusler piezoelectric transducer materials. 12",
+          "Data-mining has been used to identify correlations among thermoelectric material properties and home in on promising new regions of design space. 13",
+          "All of these discoveries represent the impact of the MGI’s data-driven, integrated approach to materials discovery, and we are just beginning to observe the fruits of these investments across a variety of sub-disciplines within materials science and engineering, as is outlined throughout the remainder of this document."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The shape and structure of chemical data, such as molecular structures and processing routes, enable the development of computational models and inverse design frameworks to predict and optimize material properties.",
+        "spans": [
+          "a computational researcher in corner B of the country uses the database of experimentally measured properties to calibrate a new computational model that predicts materials properties on the basis of molecular structure.",
+          "Within an inverse-design optimization framework, that researcher submits this high-throughput computation request to a user-facility cloud computing system available on a core/hour basis to identify five chemical structures that optimize the target material property.",
+          "Meanwhile, a researcher at location C with expertise in polymer processing observes both the successful and failed processing routes posted earlier and refines a data-driven model capable of predicting the optimum processing route given an input molecular structure."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Integration of experiment, computation, and theory in a closed-loop manner is essential for interpreting and understanding experimental phenomena and accelerating materials discovery.",
+        "spans": [
+          "Compared to previous geometric or shape-based models, this closed-loop approach, in which physically meaningful simulation parameters are iteratively updated based on experimental feedback, which can be generated concurrently, exemplifies a new paradigm for interpreting and understanding experimental phenomena with the aid of simulation and theory.",
+          "This tightly integrated approach to experiment, computation, and theory is characteristic of the MGI, and represents a stepping-stone for the systematic exploration of organic chemical space in a variety of technological applications.",
+          "All three examples highlight the tremendous potential of the MGI paradigm for materials discovery when experiment, computation, and theory act synergistically to design new materials with targeted properties."
+        ]
+      }
+    ],
+    "clueweb22-en0003-98-01701": [
+      {
+        "point_number": 1,
+        "point_content": "Crystal structure information including atomic positions, space groups, lattice constants, and symmetry are fundamental properties of rechargeable battery materials and are available in materials databases.",
+        "spans": [
+          "Among the most fundamental properties of known rechargeable battery materials, is the crystal structure information. This includes atomic positions, space groups, lattice constants, and symmetry, and these are available in the above databases."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Machine learning models can use descriptors derived from chemical composition and crystal structure to predict properties and discover new materials.",
+        "spans": [
+          "The high-throughput computational materials design is based on the combination of computational quantum-mechanical-thermodynamic approaches and a multitude of techniques rooted in database construction and intelligent data mining"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Descriptors used in machine learning include basic descriptors such as atomic electronegativity, atomic radius, unit cell dimension, and derived descriptors such as bottleneck size, ion radius ratio, polyhedron volume.",
+        "spans": [
+          "The target property of rechargeable battery materials is usually described by many descriptors, including some basic descriptors such as atomic electronegativity, atomic radius and unit cell dimension which describe the elements or structural properties of compounds, and some derived descriptors defined by relevant formulas or empirical rules based on the above descriptors or the crystal structure itself, such as bottleneck size, ion radius radio, polyhedron volume composed of multiple atoms in unit cell."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Crystal graph convolutional neural network (CGCNN) can represent crystal structure preserving the structure topology and provide interpretability in machine learning models.",
+        "spans": [
+          "The successful of the crystal graph convolutional neural network (CGCNN) lies in its ability to appropriately represent the crystal structure which preserves the structure topology by a series of basic descriptors, and the certain interpretability of the model"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Feature engineering including feature extraction and selection is important to identify appropriate features related to property prediction in machine learning models for materials.",
+        "spans": [
+          "Feature engineering, which is being conducted to identify the appropriate features related to property prediction, is an important step in ML model building"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Wrapper and embedded feature selection methods are commonly used in rechargeable battery materials to select relevant features and improve model performance.",
+        "spans": [
+          "Several FS methods have been presented, which can generally be grouped into three categories that include filter, wrapper, and embedded methods. Among them, the wrapper and embedded methods are mostly used in the field of rechargeable battery materials."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Machine learning models establish quantitative structure-activity relationships (QSAR) between descriptors (conditional attributes) and material properties (decision attributes) for property prediction and materials discovery.",
+        "spans": [
+          "The applications of ML in rechargeable battery materials mainly include property prediction and materials discovery. The essence of both is to establish the quantitative structure activity relationship (QSAR) between conditional attributes (descriptors) and decision attributes (the properties of interest) by using ML algorithms."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Descriptors derived from chemical composition and crystal structure enable machine learning models to predict properties such as ionic conductivity, diffusion barrier, migration energy, shear moduli, and elastic constants of solid electrolytes.",
+        "spans": [
+          "It is obvious that in the property prediction of solid electrolyte materials, a good prediction for Li-ion conductivity was achieved by using composition-derived descriptors such as ion radius, electronegativity, structure-derived descriptors such as bond lengths, bond angles whether for the specific type of materials or mixed types of materials."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Machine learning models can predict electrode material properties such as volume changes, voltage, redox potential, capacity, and crystal system by using descriptors including crystal structure, element, composition, and electronic level.",
+        "spans": [
+          "The properties of electrode materials such as volume changes in lithium ion batteries, voltage, redox potential, capacity, layer thickness and so on are of wide concern in the property prediction of electrodes."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Machine learning can be used to discover novel rechargeable battery materials by predicting thermodynamic stability and formation energy from composition and structure descriptors, enabling screening of candidate materials.",
+        "spans": [
+          "In rechargeable battery materials, various descriptors derived from composition and structure information can provide excellent support for the prediction of all kinds of properties as mentioned in section 4.1. Therefore, once the composition and structure which are likely to be able to synthesize new compounds are identified, it is highly possible to discover novel candidate materials with superior properties by coupling with ML models for the property prediction."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Machine learning models use descriptors such as elemental properties, positions in the periodic table, and structural descriptors to predict formation energy and thermodynamic stability of materials.",
+        "spans": [
+          "The previous works also prove that the chemical and physical properties of elements or their positions in the periodic table and other component information can provide ML models with abundant training data, but structural descriptors still need to be fully considered in order to more comprehensively and accurately predict the formation energy and other properties of materials."
+        ]
+      }
+    ]
+  }
+}

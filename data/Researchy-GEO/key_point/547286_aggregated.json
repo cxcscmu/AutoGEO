@@ -1,0 +1,108 @@
+{
+  "question": "is intelligence genetic or environmental",
+  "key_points": [
+    {
+      "point_number": 1,
+      "point_content": "Intelligence is a complex trait influenced by both genetic and environmental factors, with complex interactions between many genes and environmental influences such as home environment, parenting, education, learning resources, nutrition, and socioeconomic status.",
+      "original_point_number": [
+        1,
+        4,
+        6,
+        8,
+        15,
+        18,
+        19,
+        27,
+        29,
+        33
+      ]
+    },
+    {
+      "point_number": 2,
+      "point_content": "Genetic factors account for approximately 50 to 70 percent of the variation in intelligence among individuals, with heritability estimates rising from around 50% in childhood to as high as 75-80% in adulthood and late adolescence.",
+      "original_point_number": [
+        2,
+        17,
+        22,
+        28,
+        42
+      ]
+    },
+    {
+      "point_number": 3,
+      "point_content": "A large number of genes are likely involved in intelligence, each contributing a small effect; certain gene polymorphisms and new mutations, including those associated with advanced paternal age, may influence IQ variability and lower intelligence.",
+      "original_point_number": [
+        3,
+        38,
+        39,
+        40
+      ]
+    },
+    {
+      "point_number": 4,
+      "point_content": "Twin and adoptee studies show that identical (monozygotic) twins have more similar IQ scores than fraternal twins, and identical twins raised apart have very similar IQs, indicating a strong genetic influence on intelligence, though environment also plays a role.",
+      "original_point_number": [
+        7,
+        10,
+        12,
+        16,
+        30,
+        41
+      ]
+    },
+    {
+      "point_number": 5,
+      "point_content": "Environmental factors such as nurturing by a loving mother, school attendance, breastfeeding duration, playing musical instruments early in life, parental attention, and socioeconomic status significantly impact intelligence and IQ scores.",
+      "original_point_number": [
+        13,
+        14,
+        24,
+        25,
+        26,
+        29
+      ]
+    },
+    {
+      "point_number": 6,
+      "point_content": "Shared environment accounts for about one third of the variance in intelligence, with siblings raised together having more similar IQs than adopted children raised together, and environmental influences like schooling and wealth playing a large role.",
+      "original_point_number": [
+        11,
+        12,
+        17,
+        18,
+        31
+      ]
+    },
+    {
+      "point_number": 7,
+      "point_content": "Socioeconomic status influences intelligence by altering genetic and shared environmental effects on IQ, with genetic influences higher in higher-income families and shared environment influences higher in lower-income families; it reflects both genetic differences between parents and environmental differences for children.",
+      "original_point_number": [
+        34,
+        35,
+        36
+      ]
+    },
+    {
+      "point_number": 8,
+      "point_content": "Genetic factors can impact mental ability through mechanisms such as neural information processing speed, brain size, and brain structure, while serious mutations in specific genes can cause mental deficiency.",
+      "original_point_number": [
+        37,
+        38
+      ]
+    },
+    {
+      "point_number": 9,
+      "point_content": "People with average or below average IQ can improve their intelligence through dedication and hard work, though it may be more difficult than for those born with higher intelligence.",
+      "original_point_number": [
+        21
+      ]
+    },
+    {
+      "point_number": 10,
+      "point_content": "Emotional intelligence (EQ) may be more influenced by environmental factors and can be learned better than 'book smart' intelligence, but it also has a genetic component.",
+      "original_point_number": [
+        20
+      ]
+    }
+  ]
+}

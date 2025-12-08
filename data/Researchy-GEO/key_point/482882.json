@@ -1,0 +1,593 @@
+{
+  "question": "why are people not going back to work?",
+  "key_points": {
+    "clueweb22-en0033-74-16981": [
+      {
+        "point_number": 1,
+        "point_content": "Employers blame generous unemployment benefits for workers staying home, but the reality is more complicated as workers still aren't rushing back even after benefits halt.",
+        "spans": [
+          "generous unemployment benefits, which have incentivized workers to stay home",
+          "While many states are halting federal unemployment benefits, employees still aren’t rushing back to work"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Experts suggest increasing wages, ensuring workplace safety, and flexible scheduling to re-engage workers, but workers say a fundamental reimagination of work culture is necessary.",
+        "spans": [
+          "increasing wages (which many companies have ), ensuring workplaces are safe and building more flexible scheduling options will re-engage workers",
+          "the problems run deeper, and that a fundamental reimagination of American work culture is necessary"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The U.S. has low workplace protections and is accused of systematic rights violations; President Biden sees this moment as an opportunity for employees to demand dignity and respect.",
+        "spans": [
+          "The United States has historically ranked low in assessments of workplace protections, accused of a “systematic violation of rights”",
+          "President Biden is declaring that this moment provides an opportunity for employees to “demand to be treated with dignity and respect in the workplace."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Gig economy workers lack protections and collective bargaining rights due to being classified as contractors; international examples show better protections and support.",
+        "spans": [
+          "many gig economy workers are classified as contractors, not employees, limiting opportunities for collective bargaining",
+          "the world’s first collective agreement for a platform company — between a Danish union and Hilfr",
+          "European Union’s establishment of minimum rights for gig economy contractors",
+          "Estonia, Lithuania and Sweden’s facilitation of easier tax payments and income reporting for Uber drivers"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "American women face challenges re-entering the workforce due to pandemic-related caregiving demands; other countries have policies like furlough and subsidized daycare that support re-entry.",
+        "spans": [
+          "American women are struggling to re-enter the workforce after many gave up their jobs in response to the disproportionate demands placed on them during the pandemic",
+          "British women who, thanks to the country’s furlough policy, stayed employed throughout the pandemic",
+          "Sweden, which heavily subsidizes day care and has one of the highest rates of female labor participation in the developed world"
+        ]
+      }
+    ],
+    "clueweb22-en0038-02-01016": [
+      {
+        "point_number": 1,
+        "point_content": "Employees say all they really want are wages that makes the risk worth it",
+        "spans": [
+          "employees say all they really want are wages that makes the risk worth it"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Managers and owners are largely blaming their inability to retain — or even re-hire — staff on expanded unemployment benefits",
+        "spans": [
+          "Managers and owners are largely blaming their inability to retain — or even re-hire — staff on expanded unemployment benefits"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "For servers and bartenders, fewer patrons means less tips — which means that they’re putting their health at risk while making less money than they would on unemployment",
+        "spans": [
+          "For servers and bartenders, fewer patrons means less tips — which means that they’re putting their health at risk while making less money than they would on unemployment"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The dangers are even more acute for back-of-house staff, like line cooks and dishwashers",
+        "spans": [
+          "The dangers are even more acute for back-of-house staff, like line cooks and dishwashers"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Even with vaccinations on the rise, plenty of people remain scared to go back to grueling restaurant jobs",
+        "spans": [
+          "Even with vaccinations on the rise, plenty of people remain scared to go back to grueling restaurant jobs"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "line cooks had the highest mortality rate during the height of the pandemic in the U.S",
+        "spans": [
+          "line cooks had the highest mortality rate during the height of the pandemic in the U.S"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "I haven’t been back because I can’t really trust any restaurant owners to provide a safe environment for their employees",
+        "spans": [
+          "I haven’t been back because I can’t really trust any restaurant owners to provide a safe environment for their employees"
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "the industry, which he described as unsustainable and exploitative, especially in places with a high cost of living",
+        "spans": [
+          "the industry, which he described as unsustainable and exploitative, especially in places with a high cost of living"
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Health care is a big part of this. The total lack of ability to raise a family while working on the line is, too. But there’s also the physical toll",
+        "spans": [
+          "Health care is a big part of this. The total lack of ability to raise a family while working on the line is, too. But there’s also the physical toll"
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "there’s absolutely no safety net, and every day you feel worse and worse",
+        "spans": [
+          "there’s absolutely no safety net, and every day you feel worse and worse"
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "restaurants were laying off and re-hiring their staff cyclically. Fed up by the instability, some restaurant workers found jobs in other industries and didn’t look back",
+        "spans": [
+          "restaurants were laying off and re-hiring their staff cyclically. Fed up by the instability, some restaurant workers found jobs in other industries and didn’t look back"
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "there are more open jobs than there are applicants",
+        "spans": [
+          "there are more open jobs than there are applicants"
+        ]
+      },
+      {
+        "point_number": 13,
+        "point_content": "there’s such a wide selection of restaurants to work at right now",
+        "spans": [
+          "there’s such a wide selection of restaurants to work at right now"
+        ]
+      },
+      {
+        "point_number": 14,
+        "point_content": "If there’s any bright side to the current labor situation, it’s that it’s causing owners and hiring managers to reevaluate everything from wages to company culture",
+        "spans": [
+          "If there’s any bright side to the current labor situation, it’s that it’s causing owners and hiring managers to reevaluate everything from wages to company culture"
+        ]
+      },
+      {
+        "point_number": 15,
+        "point_content": "We’re going to have to raise our prices, because we need to pay our employees more money, and we need to offer them benefits when we can",
+        "spans": [
+          "We’re going to have to raise our prices, because we need to pay our employees more money, and we need to offer them benefits when we can"
+        ]
+      },
+      {
+        "point_number": 16,
+        "point_content": "We want to work, but we also want to be treated like human beings",
+        "spans": [
+          "We want to work, but we also want to be treated like human beings"
+        ]
+      }
+    ],
+    "clueweb22-en0008-14-05017": [
+      {
+        "point_number": 1,
+        "point_content": "Government interventions have changed the elasticity of wages, making it harder for firms to hire workers.",
+        "spans": [
+          "Government interventions have changed the elasticity of wages, making it harder for firms to hire workers."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Generous unemployment benefits and stimulus payments have made workers able to do better or close to as well by not working as by working, especially in entry level service and hospitality jobs.",
+        "spans": [
+          "the generous unemployment benefits and multiple rounds of stimulus payments have meant that workers can do better, or at least close to as well, by not working as they can by working.",
+          "This will be especially true in the entry level jobs in the service and hospitality industries that appear to be having the most difficulties finding workers."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Closing of public schools has forced many secondary earners, mostly women, to withdraw from the labor force to care for children at home, increasing labor supply inelasticity.",
+        "spans": [
+          "Another policy decision with huge implications for the labor market was the closing of public schools, many of which remain closed to one degree or another.",
+          "With children at home all day, many couples had to withdraw their secondary earner from the paid labor force.",
+          "As most secondary earners are women, the labor market effect has mostly been a reduction in the number of working women.",
+          "The (mostly) women in this position are not likely to be enticed back to work with higher wages until the schools are fully open and the need for a parent at home is substantially reduced."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The pandemic policies have made workers less responsive to changes in demand, leading to difficulties firms have faced in filling jobs and higher wages needed to attract labor.",
+        "spans": [
+          "What the pandemic policies have done is move us away from something more like the supply curve on the right to something more like the one on the left.",
+          "Those policies have made workers less responsive to changes in demand, leading to the difficulties firms have faced in filling jobs."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Teenagers' labor supply is more elastic because they did not receive unemployment or stimulus benefits and have more time, so their job market is starting to recover.",
+        "spans": [
+          "Most teenagers did not get unemployment or stimulus checks, nor do they have children of their own in school.",
+          "All of these factors make their labor supply more elastic than that of many adults, making them more likely to respond to the increase in wages coming from higher labor demand."
+        ]
+      }
+    ],
+    "clueweb22-en0010-72-12969": [
+      {
+        "point_number": 1,
+        "point_content": "Extra unemployment benefits are not the reason people aren't going back to work quickly.",
+        "spans": [
+          "Extra unemployment benefits are not encouraging workers to be lazy",
+          "This is not the reason people aren't going back to work as quickly as we think they ought to",
+          "Unemployment benefits gave people flexibility, and \"doesn't make people lazy.\""
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "People may need more time to pick the right job and relocate for work.",
+        "spans": [
+          "People may, in fact, need more time to pick the right job and, in many instances, relocate for a job."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Removing unemployment benefits has not increased workforce participation and sometimes hurt the economy.",
+        "spans": [
+          "in the few weeks since states suspended benefits, it has not increased workforce participation, and in some cases, it hurt the economy by decreasing household spending."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Child care costs and lack of flexible work options hinder women from returning to work.",
+        "spans": [
+          "child care costs burden women more than men",
+          "Many women are forced to stay home, not because they don't want to return to work, but because their jobs do not offer flexible options, don't pay enough to cover child care costs, or they don't have access to child care providers."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The pandemic has highlighted long-standing issues like gender inequality and child care access that affect return to work.",
+        "spans": [
+          "The pandemic has forced society to confront how health and economic fragility are correlated",
+          "gender inequality, unequal access to child care, return to in-person work mandates and vaccine access are among the many pressing issues surrounding return to work"
+        ]
+      }
+    ],
+    "clueweb22-en0027-27-00591": [
+      {
+        "point_number": 1,
+        "point_content": "States said the benefits were keeping people from looking for work. Critics claim Covid-related factors may instead be sidelining workers.",
+        "spans": [
+          "States said the benefits were keeping people from looking for work. Critics claim Covid-related factors may instead be sidelining workers."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The first states to withdraw support didn't see a jump in jobs in the weeks following their withdrawal.",
+        "spans": [
+          "The first states to withdraw support didn't see a jump in jobs in the weeks following their withdrawal, according to an analysis published by Arindrajit Dube, an economics professor at the University of Massachusetts Amherst."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "State withdrawals from pandemic-era unemployment programs aren't speeding up the job recovery.",
+        "spans": [
+          "State withdrawals from pandemic-era unemployment programs aren't speeding up the job recovery, according to a new analysis."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "State governors said the federal funds were keeping recipients from looking for jobs, making it harder for businesses to hire and holding back the economic recovery.",
+        "spans": [
+          "State governors, largely Republicans, said the federal funds were keeping recipients from looking for jobs, making it harder for businesses to hire and holding back the economic recovery."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Census Bureau data suggests recipients didn't rush to find jobs in the weeks following the first batch of state withdrawals.",
+        "spans": [
+          "However, Census Bureau data suggests recipients didn't rush to find jobs in the weeks following the first batch of state withdrawals, according to Arindrajit Dube, an economics professor at the University of Massachusetts Amherst."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "The share of adults receiving unemployment benefits fell sharply in the dozen states that cut federal funding, but there wasn't a corresponding increase in employment among this group.",
+        "spans": [
+          "Specifically, the share of adults receiving unemployment benefits fell sharply (by 2.2 percentage points) in the dozen states that cut federal funding on June 12 or 19, according to Dube.",
+          "But there wasn't a corresponding increase in employment among this group — in fact, the share of adults with a job fell by 1.4 percentage points over the same period, according to Dube."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "There wasn't an immediate job boost following the cuts; more time and information are needed to analyze the longer-term effects.",
+        "spans": [
+          "Together, the data shows there wasn't an immediate job boost following the cuts, Dube said. However, more time and information are needed to analyze the longer-term effects of state policies, he said."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Job-search activity was muted in the states that cut federal benefits, opposite of what would be expected given the policy goal.",
+        "spans": [
+          "His findings are in line with recent analyses published by the job site Indeed, which found job-search activity was muted in the states that cut federal benefits. That's the opposite of what would be expected given the policy goal, company economists said."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Expanded unemployment benefits likely led at least some people to stay home instead of look for work, but many other effects likely play a role as well.",
+        "spans": [
+          "Expanded unemployment benefits likely led at least some people to stay home instead of look for work, he said.",
+          "But many other effects likely play a role as well, said Veuger. He cited that Covid health risks remain; school schedules may make it difficult for parents to find steady work; workers who relocated may not yet have moved back; and decimated industries will likely a take a while to rebuild."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Concern about the coronavirus is the top reason for a lack of urgency in looking for work among the unemployed.",
+        "spans": [
+          "Concern about the coronavirus is the top reason for a lack of urgency in looking for work among the unemployed, according to a recent survey conducted by Indeed."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "States have re-imposed requirements to search for work as a condition of receiving unemployment benefits, making it harder for people to exploit the system.",
+        "spans": [
+          "States have also re-imposed requirements to search for work as a condition of receiving unemployment benefits, which make it harder for people to exploit the system, Houseman said."
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "The Census Bureau data shows an uptick of almost 4 percentage points in self-reported financial hardship in states that ended or reduced pandemic unemployment benefits.",
+        "spans": [
+          "The Census Bureau data also shows an uptick of almost 4 percentage points in self-reported financial hardship in states that ended or reduced pandemic unemployment benefits, Dube found."
+        ]
+      }
+    ],
+    "clueweb22-en0030-71-12309": [
+      {
+        "point_number": 1,
+        "point_content": "Enhanced unemployment benefits ended nationwide on Labor Day, and even sooner in many states. So far, evidence suggests benefits didn't play a big role in sidelining workers.",
+        "spans": [
+          "Enhanced unemployment benefits ended nationwide on Labor Day, and even sooner in many states. So far, evidence suggests benefits didn't play a big role in sidelining workers."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Health risks associated with the ongoing Covid pandemic have clearly played a role in recent months, according to economists.",
+        "spans": [
+          "Health risks associated with the ongoing Covid pandemic have clearly played a role in recent months, according to economists."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Early retirements have also reduced the pool of available workers.",
+        "spans": [
+          "Early retirements have also reduced the pool of available workers."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Care responsibilities have made it tough for some workers — especially those who can't work from home — to come off the sidelines.",
+        "spans": [
+          "Care responsibilities have made it tough for some workers — especially those who can't work from home — to come off the sidelines."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Households across the income scale have been able to amass higher savings relative to pre-pandemic levels.",
+        "spans": [
+          "Households across the income scale have been able to amass higher savings relative to pre-pandemic levels."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Wages have risen more than $1 an hour, or 4.5%, in the past year across all private-sector jobs, but that higher pay may still not be enough to attract workers from the sidelines.",
+        "spans": [
+          "Wages have risen more than $1 an hour, or 4.5%, in the past year across all private-sector jobs, according to the Bureau of Labor Statistics.",
+          "But that higher pay may still not be enough to attract workers from the sidelines, Sojourner said."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "It will take a while to work out some of the frictions that have built up in the labor market in the past year and a half, including mismatches in job expectations and locations.",
+        "spans": [
+          "It will also take a while to work out some of the frictions that have built up in the labor market in the past year and a half, economists said.",
+          "There's also a mismatch between worker and company expectations.",
+          "For example, between one-fourth and one-third of corporate chief financial officers expect their organization to return to in-person work full-time, which is fundamentally inconsistent with the flexibility workers want, according to Tim Glowa, a principal at Grant Thornton, citing company surveys.",
+          "And much of the low-hanging fruit in the labor market has already been plucked, so to speak. Many workers who were temporarily laid off (furloughed) early in the downturn have been recalled to their old jobs or moved on to other work — leaving the tougher proposition of hiring the permanently unemployed or people who fell out of the labor force, Zhao said."
+        ]
+      }
+    ],
+    "clueweb22-en0029-76-02743": [
+      {
+        "point_number": 1,
+        "point_content": "People are quitting their jobs in record numbers since the pandemic started, causing a labor shortage.",
+        "spans": [
+          "Americans are quitting their jobs in record numbers since the pandemic started.",
+          "We absolutely have a labor shortage in this country"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Some workers are not returning due to unsafe working conditions and health concerns.",
+        "spans": [
+          "My employer at the time wasn’t taking any precautions",
+          "They were not sanitizing. They were letting random people come into the building. I’m diabetic and immune-compromised. If I get COVID, it would be ten times worse."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Many applicants are ghosting employers after job offers, wasting employers' time.",
+        "spans": [
+          "What we didn’t count on was people using up our time by going through the motions, applying for a job, getting a job offer and then not calling back.",
+          "Most of them just ghost us"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Retention is a challenge as workers frequently leave jobs quickly or do not show up for shifts.",
+        "spans": [
+          "most typically stay for about two to three months on average",
+          "You’ll have one guy take the trash out and never come back."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Unemployment benefits may be encouraging some people to stay home and not return to work immediately.",
+        "spans": [
+          "Some claim that unemployment benefits, combined with additional assistance from the federal government through pandemic relief funds via programs such as the CARES Act, are encouraging people to stay home and basically earn money for free.",
+          "Folks come in for an interview in order to satisfy their unemployment requirement and then never show up again."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Mismatch of skills and work environment dissatisfaction contribute to people not returning to work.",
+        "spans": [
+          "the labor shortage myth about people not wanting to work is much more about a mismatch in the skill sets employers are looking for and what we as a population can bring to the table",
+          "If employees aren’t satisfied, they’ll just go, ‘You know what? I need a break. Maybe I’ll come back in a year or two.’"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Low wages and high costs of childcare and transportation discourage people from returning to low-paying jobs.",
+        "spans": [
+          "For people who work lower-income jobs, the lack of a livable wage can influence the decision to stay at home even after unemployment benefits run out.",
+          "If the cost of child care is equal to my work paycheck, I could just stay home"
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "The pandemic has caused people to reconsider their work-life balance and seek more fulfilling or flexible jobs.",
+        "spans": [
+          "the pandemic has served as a wake-up call for many people",
+          "Do I want to start my own business? Do I want to start working in the gig economy?"
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Increasing lack of civility and stress in certain jobs, like hospitality, deter workers from returning.",
+        "spans": [
+          "Some also blamed the increasing lack of civility among the general public as another reason why workers might not be too keen on returning to work.",
+          "Do I want to keep doing this job and be the mask police in a restaurant?"
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "The balance of power has shifted to workers who are refusing to settle for low wages or poor conditions.",
+        "spans": [
+          "With more and more people having the same mindset as DeBenedetto and refusing to just settle for a job, the balance of power has shifted toward workers as employers struggle to fill open positions.",
+          "There has never been a more employee-driven environment than right now"
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Employers are increasing wages, bonuses, and perks to attract and retain workers.",
+        "spans": [
+          "In order to hire and keep workers, many companies are ratcheting up their incentives. Common approaches include signing bonuses and higher wages.",
+          "Now we’re paying $50 to everyone from the cook to the dishwasher on top of wages, tips and free meals if they make it through the week"
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "Ending extended unemployment benefits may not significantly change the labor shortage.",
+        "spans": [
+          "Industry watchers expect hiring difficulties to continue even if extended unemployment benefits end this month on Sept. 4.",
+          "There largely hasn’t been a dramatic impact"
+        ]
+      },
+      {
+        "point_number": 13,
+        "point_content": "Employers need to improve workplace culture and support employees emotionally and financially to retain workers.",
+        "spans": [
+          "Employees must feel supported, not just financially but emotionally",
+          "Employers must continue to improve workplace culture and make it worth for older employees to stay"
+        ]
+      }
+    ],
+    "clueweb22-en0028-54-15368": [
+      {
+        "point_number": 1,
+        "point_content": "The pandemic and the public-policy response have caused unprecedented shifts in the world of work, but it’s hard to point to a factor that would have caused a permanent reduction in the willingness of prime-age people to work.",
+        "spans": [
+          "The pandemic and the public-policy response have caused unprecedented shifts in the world of work, but it’s hard to point to a factor that would have caused a permanent reduction in the willingness of prime-age people to work."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "In September, 825,000 prime-age, out-of-work people said they didn’t search for a job due to the pandemic.",
+        "spans": [
+          "In September, 825,000 prime-age, out-of-work people said they didn’t search for a job due to the pandemic"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "About 28% of unemployed workers who weren’t urgently searching for a job said a larger financial cushion was a reason for their lack of urgency.",
+        "spans": [
+          "About 28% of unemployed workers who weren’t urgently searching for a job said a larger financial cushion was a reason for their lack of urgency"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Household savings have risen dramatically since last spring, potentially allowing more people to be more patient about returning to work.",
+        "spans": [
+          "Household savings have risen dramatically since last spring, potentially allowing more people to be more patient about returning to work."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The disease is still holding back many job seekers despite vaccinations.",
+        "spans": [
+          "Vaccinations against Covid-19 may have alleviated some of the worst effects of the disease for those who’ve received the jab, but the disease is still holding back many job seekers."
+        ]
+      }
+    ],
+    "clueweb22-en0026-75-04351": [
+      {
+        "point_number": 1,
+        "point_content": "At least 1.8 million people refused to return to work because they could earn more on welfare benefits than by working.",
+        "spans": [
+          "At Least 1.8 Million People Refused to Return to Work Because of Generous Welfare Benefits, Poll Shows",
+          "About 13 percent openly admitted their reason for not returning to work was “I receive enough money from unemployment insurance without having to work.”",
+          "that equates to 1.8 million Americans who admitted to declining to go back to work because they could earn more on welfare."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Generous unemployment benefits paying more than working wages create a disincentive to return to work.",
+        "spans": [
+          "Congress’s decision to create an unemployment benefits system paying most individuals more on welfare than they earned by working would backfire.",
+          "The system has offered many unemployed households the equivalent of $25/hour in benefits for staying home.",
+          "it was always obviously illogical, based on the work disincentive it creates."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Many unemployed people are not returning to work because the wages offered are not enough compared to welfare benefits.",
+        "spans": [
+          "another 12.1 percent said that they were not offered enough money to return to work. This subjective determination is likely also influenced by the generous benefits as a fall-back option."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The actual number of people refusing to return to work due to welfare benefits is likely higher than reported due to social desirability bias in polling.",
+        "spans": [
+          "the Morning Consult poll results are also, most likely, a wild underestimate.",
+          "Would you admit, if a pollster called you up, that you’re lazily staying on benefits because it pays more than working? Probably not.",
+          "people, quite naturally, skew toward offering answers that are more flattering to them than the unadulterated truth."
+        ]
+      }
+    ],
+    "clueweb22-en0006-33-18684": [
+      {
+        "point_number": 1,
+        "point_content": "US labor secretary Marty Walsh said Americans aren’t going back to work because their jobs aren’t there.",
+        "spans": [
+          "Americans aren’t going back to work \"because their jobs aren’t there,\""
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Marty Walsh said unemployed Americans not returning to work has very little to do with unemployment insurance.",
+        "spans": [
+          "Marty Walsh said unemployed Americans not returning to work has 'very little to do with unemployment insurance'"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Unemployment insurance is a temporary fix, but the main issue is the ongoing global pandemic.",
+        "spans": [
+          "unemployment insurance is a temporary fix… But, you know, we're still dealing with a global pandemic."
+        ]
+      }
+    ]
+  }
+}

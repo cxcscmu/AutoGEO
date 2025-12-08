@@ -1,0 +1,332 @@
+{
+  "question": "how does deforestation cause climate change",
+  "key_points": {
+    "clueweb22-en0021-31-11690": [
+      {
+        "point_number": 1,
+        "point_content": "Deforestation reduces the number of trees that act as carbon sinks, leading to increased carbon dioxide in the atmosphere.",
+        "spans": [
+          "forests all over the globe are, naturally, so-called ‘carbon sinks’, or areas of natural environment such as oceans that can take carbon dioxide from the atmosphere and convert it into oxygen",
+          "By cutting down huge areas of forest, therefore, without replacing the trees that we remove, we are causing an inadvertent change in the amount of carbon dioxide in the atmosphere"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Increased carbon dioxide in the atmosphere contributes to global warming by trapping heat.",
+        "spans": [
+          "Carbon dioxide is a greenhouse gas, which means that it traps infrared rays from the sun and keeps heat in the Earth’s atmosphere",
+          "more and more carbon dioxide in the atmosphere means more and more heat is being trapped, raising the average temperature of the world (otherwise known as global warming)"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Deforestation affects the water cycle by reducing the number of trees that return water vapor to the atmosphere, impacting weather patterns and climate.",
+        "spans": [
+          "Forests ... play a crucial role in water cycle by returning water vapor back into the atmosphere",
+          "deforestation also affects the amount of this in the air",
+          "deforestation has contributed to the amount of water vapor in the air",
+          "By chopping down hundreds of thousands of trees every year and never replacing them, we are affecting the natural water cycle of the world"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Deforestation leads to increased carbon dioxide which also causes ocean acidification, harming marine life.",
+        "spans": [
+          "deforestation has also been directly linked to ocean acidification, or the increase in the average pH of the oceans",
+          "Oceans become more acidic when more carbon dioxide is present",
+          "because fewer trees are converting it into oxygen, but also because the processes involved in deforestation cause a lot of fossil fuels to be burned, it is gradually seeping into the oceans, raising the average pH and killing off many species of plant and animal life"
+        ]
+      }
+    ],
+    "clueweb22-en0043-05-14792": [
+      {
+        "point_number": 1,
+        "point_content": "Trees capture greenhouse gases (GHGs) like carbon dioxide, preventing them from accumulating in the atmosphere and warming our planet.",
+        "spans": [
+          "Trees capture greenhouse gases (GHGs) like carbon dioxide, preventing them from accumulating in the atmosphere and warming our planet."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "When trees are felled, they release into the atmosphere all the carbon they’ve been storing, and further emissions are created by leaving them to rot or burning them.",
+        "spans": [
+          "when trees are felled, they release into the atmosphere all the carbon they’ve been storing",
+          "What the deforesters do with the felled trees—either leaving them to rot on the forest floor or burning them—creates further emissions."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Deforestation on its own causes about 10 percent of worldwide emissions.",
+        "spans": [
+          "All told, deforestation on its own causes about 10 percent of worldwide emissions."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Agriculture is responsible for at least 80 percent of tropical deforestation, which contributes to emissions.",
+        "spans": [
+          "All told, agriculture is responsible for at least 80 percent of tropical deforestation."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Farm emissions are second only to those of the energy sector, responsible for about 13 percent of total global emissions, mainly methane and nitrous oxide.",
+        "spans": [
+          "In 2011, farms were responsible for about 13 percent of total global emissions. Most farm-related emissions come in the form of methane (cattle belching) and nitrous oxide (from fertilizers and the like)."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Deforestation causes a triple-whammy of global warming: loss of carbon capture, emissions from felled trees, and emissions from livestock and crops replacing forests, accounting for a quarter of all emissions worldwide.",
+        "spans": [
+          "All told, deforestation causes a triple-whammy of global warming:",
+          "We lose a crucial ally in keeping excess carbon out of the atmosphere (and in slowing global warming),",
+          "Even more emissions are created when felled trees release the carbon they’d been storing, and rot or burn on the forest floor, and",
+          "What most often replaces the now-vanished forest, livestock and crops, generate massive amounts of even more greenhouse gases. Taken together, these emissions account for a quarter of all emissions worldwide."
+        ]
+      }
+    ],
+    "clueweb22-en0023-99-15318": [
+      {
+        "point_number": 1,
+        "point_content": "Forests store enormous quantities of carbon captured from carbon dioxide, a major greenhouse gas, in the air and turn it into the structure of the tree.",
+        "spans": [
+          "Forests store enormous quantities of carbon. This is captured from carbon dioxide (a major greenhouse gas) in the air and turned into the structure of the tree."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "When trees are cut down and often burned, the carbon stored in them is released back into the atmosphere, contributing to climate change.",
+        "spans": [
+          "But when the trees are cut down (and often burned) the carbon is released back into the atmosphere."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Deforestation removes trees that create their own weather systems by circulating water vapour to create clouds and rain, which can lead to desertification.",
+        "spans": [
+          "As well as storing carbon, forests also create their own weather systems. The trees and other vegetation circulate water vapour to create clouds and rain. Taking the trees away also takes away those weather systems, which can lead to desertification"
+        ]
+      }
+    ],
+    "clueweb22-en0041-73-15893": [
+      {
+        "point_number": 1,
+        "point_content": "Deforestation releases large amounts of CO2 into the atmosphere, contributing significantly to climate change.",
+        "spans": [
+          "In the next 24 hours, deforestation will release as much CO2 into the atmosphere as 8 million people flying from London to New York."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Forests trap carbon, reducing greenhouse gases, so deforestation reduces this carbon trapping ability, increasing greenhouse gases.",
+        "spans": [
+          "OK – we know that forests trap carbon which helps reduce the amount of greenhouse gases in the atmosphere."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Carbon emissions from deforestation far exceed those from planes, automobiles, and factories, making it a major cause of climate change.",
+        "spans": [
+          "Carbon emissions from deforestation far outstrip damage caused by planes and automobiles and factories."
+        ]
+      }
+    ],
+    "clueweb22-en0022-45-01998": [
+      {
+        "point_number": 1,
+        "point_content": "When trees are cut down, tons of carbon dioxide is released into our atmosphere.",
+        "spans": [
+          "When trees are cut down, tons of carbon dioxide is released into our atmosphere."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Trees not only absorb carbon dioxide from our air, they also store carbon in their roots, leaves and trunk.",
+        "spans": [
+          "Trees not only absorb carbon dioxide from our air, they also store carbon in their roots, leaves and trunk."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "So, when trees are cut down, it’s a double whammy on climate change—more carbon dioxide is released and less is absorbed.",
+        "spans": [
+          "So, when trees are cut down, it’s a double whammy on climate change—more carbon dioxide is released and less is absorbed."
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0007-77-06649": [
+      {
+        "point_number": 1,
+        "point_content": "Deforestation and forest degradation can happen quickly, such as when a forest is clear-cut to make way for a palm oil plantation or a new settlement.",
+        "spans": [
+          "Deforestation and forest degradation can happen quickly, such as when a forest is clear-cut to make way for a palm oil plantation or a new settlement."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Deforestation and forest degradation can also happen gradually as a result of ongoing forest degradation as temperatures rise due to climate change caused by human activity.",
+        "spans": [
+          "It can also happen gradually as a result of ongoing forest degradation as temperatures rise due to climate change caused by human activity."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The most common pressures causing deforestation and severe forest degradation are agriculture, unsustainable forest management, mining, infrastructure projects and increased fire incidence and intensity.",
+        "spans": [
+          "The most common pressures causing deforestation and severe forest degradation are agriculture, unsustainable forest management, mining, infrastructure projects and increased fire incidence and intensity."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Conversion of forests for other land uses, including pulp, palm, and soy plantations, pastures, settlements, roads and infrastructure causes deforestation.",
+        "spans": [
+          "Conversion of forests for other land uses, including pulp, palm, and soy plantations, pastures, settlements, roads and infrastructure."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Forest fires cause deforestation and have wide-reaching consequences on biodiversity, climate, and the economy.",
+        "spans": [
+          "Forest fires: Each year, fires burn millions of hectares of forest worldwide.",
+          "The resulting loss has wide-reaching consequences on biodiversity, climate, and the economy."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Illegal and unsustainable logging destroys nature and wildlife, taking away community livelihoods and distorting trade, fueling deforestation.",
+        "spans": [
+          "Illegal and unsustainable logging : Illegal logging occurs in all types of forests across all continents – from Brazil to Indonesia – destroying nature and wildlife, taking away community livelihoods and distorting trade."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Fuelwood harvesting significantly damages forests.",
+        "spans": [
+          "Fuelwood harvesting : Over-harvesting for domestic use or for commercial trade in charcoal significantly damages forests."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Mining impacts tropical forests and is often accompanied by major infrastructure construction, putting further pressure on forests and freshwater ecosystems.",
+        "spans": [
+          "Mining: The impact of mining on tropical forests is growing due to rising demand and high mineral prices.",
+          "Mining projects are often accompanied by major infrastructure construction, such as roads, railway lines and power stations, putting further pressure on forests and freshwater ecosystems."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Forest loss is both a cause and an effect of our changing climate.",
+        "spans": [
+          "Climate change: Forest loss is both a cause and an effect of our changing climate."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Climate change can damage forests by drying out tropical rainforests and increasing fire damage in boreal forests, harming biodiversity.",
+        "spans": [
+          "Climate change can damage forests, for instance by drying out tropical rainforests and increasing fire damage in boreal forests.",
+          "Inside forests, climate change is already harming biodiversity, a threat that is likely to increase."
+        ]
+      }
+    ],
+    "clueweb22-en0015-10-02195": [
+      {
+        "point_number": 1,
+        "point_content": "Forests and trees store carbon. When they are degraded or completely cleared, e.g. by fire – a process referred to as deforestation – this stored carbon has the potential to be released back into the atmosphere as carbon dioxide and contribute to climate change.",
+        "spans": [
+          "Forests and trees store carbon﻿. When they are degraded or completely cleared, e.g. by fire – a process referred to as deforestation – this stored carbon has the potential to be released back into the atmosphere as carbon dioxide﻿ and contribute to climate change﻿."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Deforestation contributes up to 10% of the carbon dioxide emissions caused by human activity, rising to 15% if forest degradation and tropical peatland emissions are included.",
+        "spans": [
+          "Deforestation contributes up to 10% of the carbon dioxide emissions caused by human activity, according to 2013 figures from the Intergovernmental Panel on Climate Change. This figure rises to 15%﻿ if forest degradation (changes that negatively affect a forest’s structure or function but that do not decrease its area), and tropical peatland emissions are included."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Tropical forests now emit more carbon than they capture, due to deforestation and degradation, so that they are no longer a carbon ‘sink’.",
+        "spans": [
+          "Tropical forests now emit more carbon﻿ than they capture, due to deforestation and degradation, so that they are no longer a carbon ‘sink’, according to a study published in 2017 using satellite data from 2003–14."
+        ]
+      }
+    ],
+    "clueweb22-en0019-70-13498": [
+      {
+        "point_number": 1,
+        "point_content": "Deforestation affects climate by adding carbon dioxide to the air and removing the ability to absorb existing carbon dioxide.",
+        "spans": [
+          "In terms of climate change, cutting trees both adds carbon dioxide to the air and removes the ability to absorb existing carbon dioxide."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Trees absorb heat-trapping greenhouse gases that human activities emit, which helps mitigate global warming (climate change).",
+        "spans": [
+          "We need trees for a variety of reasons, not least of which is that they absorb not only the carbon dioxide that we exhale, but also the heat-trapping greenhouse gases that human activities emit."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Tropical tree cover can provide a significant portion of climate mitigation needed to meet international climate goals.",
+        "spans": [
+          "Tropical tree cover alone can provide 23 percent of the climate mitigation needed over the next decade to meet goals set in the Paris Agreement in 2015, according to one estimate."
+        ]
+      }
+    ],
+    "clueweb22-en0007-85-11457": [
+      {
+        "point_number": 1,
+        "point_content": "Deforestation contributes to climate change by releasing stored carbon into the atmosphere when trees are cut down.",
+        "spans": [
+          "When trees are felled, they release all the carbon they have been storing back into the atmosphere, contributing to the global problem of climate change."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Forests act as a major carbon sink, capturing greenhouse gases, so their removal reduces this capacity and worsens climate change.",
+        "spans": [
+          "Forests remain one of the planet’s best defense in the fight against climate change",
+          "When forests are cleared, humans are knocking out one of the planet’s best allies in capturing greenhouse gasses"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Deforestation causes local temperature increases, which is a warming effect contributing to climate change.",
+        "spans": [
+          "areas along the Tropics, where forest had been recently cleared, had local temperature increases by as much as 15 degrees Fahrenheit (or 8.3 degrees Celsius)."
+        ]
+      }
+    ],
+    "clueweb22-en0046-29-13730": [
+      {
+        "point_number": 1,
+        "point_content": "Deforestation influences climate change because trees influence weather directly and absorb carbon dioxide, a greenhouse gas, from the atmosphere.",
+        "spans": [
+          "Climate change is influenced by deforestation because trees influence weather directly.",
+          "Trees have the ability to absorb carbon dioxide from the atmosphere and release oxygen.",
+          "Because carbon dioxide is a greenhouse gas, it causes global warming."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Without trees, the concentration of carbon dioxide in the atmosphere increases, causing global warming and adverse climatic changes.",
+        "spans": [
+          "Without trees, the concentration of carbon dioxide in the atmosphere will be increased.",
+          "Because carbon dioxide is a greenhouse gas, it causes global warming.",
+          "Global warming is a serious environmental issue that causes adverse climatic changes and affects life on earth."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Deforestation leads to natural disasters like floods and storms due to the absence of trees that protect against strong winds and erosion.",
+        "spans": [
+          "Trees usually act to protect against strong winds and erosion but in its absence, natural disasters like floods and storms could be experienced."
+        ]
+      }
+    ]
+  }
+}

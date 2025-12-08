@@ -1,0 +1,222 @@
+{
+  "question": "how does diversity and inclusion differ from equal opportunities",
+  "key_points": {
+    "null": [],
+    "clueweb22-en0008-31-19042": [
+      {
+        "point_number": 1,
+        "point_content": "Equal opportunity means equal job opportunities and fairness for employees and job applicants, ensuring no one is disadvantaged by things they can't change.",
+        "spans": [
+          "Equality in the workplace means equal job opportunities and fairness for employees and job applicants. No one should have poorer life chances because of things they can’t change."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The Equality Act 2010 makes it a legal offence to treat someone unequally by discrimination, ensuring equal access to opportunities possibly through reasonable adjustments for disabilities.",
+        "spans": [
+          "The Equality Act 2010 ensures employers uphold these ideas and beliefs by making it legislation. It prohibits employers from treating someone unequally by making it a legal offence through discrimination.",
+          "The legislation defines these actions as reasonable adjustments, to ensure there is an equal platform. This however, only applies to disabilities."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Diversity is about recognising differences between groups of people and valuing a range of perspectives in the workforce.",
+        "spans": [
+          "Diversity is about recognising the difference between disparate groups of people.",
+          "It’s acknowledging the benefit of having a range of perspectives in decision-making and the workforce representing the organisation’s customers."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Inclusion is about valuing people's differences and enabling everyone to thrive at work, creating a sense of belonging and fair policies.",
+        "spans": [
+          "Inclusion is where people’s differences are valued and used to enable everyone to thrive at work.",
+          "An inclusive working environment is where everyone feels they belong without having to conform. That their contribution matters, and they can perform to their full potential, regardless of background, identity, or circumstances.",
+          "An inclusive workplace will practise fair policies and enables a diverse range of people to work together effectively."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Diversity and inclusion differ from equal opportunities in that diversity is about the mix of people, inclusion is about making that mix work well together, while equal opportunities focus on fairness and non-discrimination in access to jobs and promotions.",
+        "spans": [
+          "Diversity and inclusion often go hand in hand but differ from one another.",
+          "In simple terms: diversity is the mix and inclusion is getting the mix to work well together.",
+          "Equality in the workplace means equal job opportunities and fairness for employees and job applicants."
+        ]
+      }
+    ],
+    "clueweb22-en0042-83-12371": [
+      {
+        "point_number": 1,
+        "point_content": "Equality is about equal opportunities and protecting people from being discriminated against.",
+        "spans": [
+          "Equality is about equal opportunities and protecting people from being discriminated against"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Diversity is about recognizing, respecting and valuing differences in people.",
+        "spans": [
+          "diversity is about recognizing respecting and valuing differences in people"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Inclusion refers to an individual’s experience within the workplace and in a wider society, and the extent to which they feel valued and included.",
+        "spans": [
+          "inclusion refers to an individual’s experience within the workplace and in a wider society, and the extent to which they feel valued and included"
+        ]
+      }
+    ],
+    "clueweb22-en0007-31-13120": [
+      {
+        "point_number": 1,
+        "point_content": "Diversity recognises that, though people have things in common with each other, they are also different many ways.",
+        "spans": [
+          "Diversity recognises that, though people have things in common with each other, they are also different many ways."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Inclusion is where those differences are seen as a benefit, and where perspectives and differences are shared, leading to better decisions.",
+        "spans": [
+          "Inclusion is where those differences are seen as a benefit, and where perspectives and differences are shared, leading to better decisions."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Everyone should have a right to equal access to employment and, when employed, should have equal pay and equal access to training and development.",
+        "spans": [
+          "Everyone should have a right to equal access to employment and, when employed, should have equal pay and equal access to training and development."
+        ]
+      }
+    ],
+    "clueweb22-en0037-27-00078": [
+      {
+        "point_number": 1,
+        "point_content": "Equality is about ensuring everybody has an equal opportunity, and is not treated differently or discriminated against because of their characteristics.",
+        "spans": [
+          "Equality is about ensuring everybody has an equal opportunity, and is not treated differently or discriminated against because of their characteristics."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Diversity is about taking account of the differences between people and groups of people, and placing a positive value on those differences.",
+        "spans": [
+          "Diversity is about taking account of the differences between people and groups of people, and placing a positive value on those differences."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Equality of opportunity is about ensuring everybody has an equal chance to take up opportunities and also to make full use of the opportunities on offer and to fulfil their potential.",
+        "spans": [
+          "Equality of opportunity is about ensuring everybody has an equal chance to take up opportunities and also to make full use of the opportunities on offer and to fulfil their potential."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Diversity is about celebrating and valuing how different we all are, recognising, valuing and taking account of people's different backgrounds, knowledge, skills, and experiences, and encouraging and using those differences to create a productive and effective workforce.",
+        "spans": [
+          "Diversity is about celebrating and valuing how different we all are. This is strongly linked with promoting human rights and freedoms, based on principles such as dignity and respect. Diversity is about recognising, valuing and taking account of people's different backgrounds, knowledge, skills, and experiences, and encouraging and using those differences to create a productive and effective workforce."
+        ]
+      }
+    ],
+    "clueweb22-en0016-20-18167": [
+      {
+        "point_number": 1,
+        "point_content": "Diversity in the workplace means that you employ people from a wide range of backgrounds.",
+        "spans": [
+          "Diversity in the workplace means that you employ people from a wide range of backgrounds."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Equal opportunity means it is unlawful to disadvantage employees and job seekers in any way because of their race, colour, gender, sexual orientation, age, physical or mental disability, marital status, family or carer’s responsibilities, pregnancy, religion, political opinion, national extraction, social origin, or industrial activities.",
+        "spans": [
+          "It's unlawful to disadvantage employees and job seekers in any way because of their:\nrace\ncolour\ngender\nsexual orientation\nage\nphysical or mental disability\nmarital status\nfamily or carer’s responsibilities\npregnancy\nreligion\npolitical opinion\nnational extraction (place of birth or ancestry)\nsocial origin (class, caste or socio-occupational category)\nindustrial activities (such as belonging to a trade union)"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Diversity promotes better business performance, more creative thinking, improved staff wellbeing, and lower risk of discrimination.",
+        "spans": [
+          "Research shows that diversity can be good for business. It promotes:\nbetter business performance and productivity from employees\nmore creative and innovative thinking among staff\nimproved staff health and wellbeing\nlower risk of discrimination and harassment in the workplace"
+        ]
+      }
+    ],
+    "clueweb22-en0046-50-09457": [
+      {
+        "point_number": 1,
+        "point_content": "Diversity describes the level to which a workplace is composed of people of different genders, races, ethnicities, sexual orientations, religion, language, and other characteristics.",
+        "spans": [
+          "Diversity describes the level to which a workplace is composed of people of different genders, races, ethnicities, sexual orientations, religion, language, and other characteristics."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Workplace Equity refers to employees having equal access to opportunities regardless of who they are in terms of job title, gender, race, ethnicity, etc.",
+        "spans": [
+          "Workplace Equity refers to employees having equal access to opportunities regardless of who they are in terms of job title, gender, race, ethnicity, etc."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Equality means treating everyone the same, while equity means recognizing that diverse employees will have diverse needs.",
+        "spans": [
+          "Equality means treating everyone the same, while equity means recognizing that diverse employees will have diverse needs."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Equity policies level the playing field so that employees do not have either unnecessary barriers or disadvantages to opportunities within the organization.",
+        "spans": [
+          "Equity policies level the playing field so that employees do not have either unnecessary barriers or disadvantages to opportunities within the organization."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Diversity ensures that different people can join and participate in the workplace, while equity acknowledges that their differences are not a factor in their advancement.",
+        "spans": [
+          "Diversity ensures that different people can join and participate in the workplace, while equity acknowledges that their differences are not a factor in their advancement."
+        ]
+      }
+    ],
+    "clueweb22-en0026-25-14007": [
+      {
+        "point_number": 1,
+        "point_content": "Diversity in the workplace describes the variation in personal, physical, and social characteristics, such as gender, ethnicity, age, and education.",
+        "spans": [
+          "Diversity in the workplace describes the variation in personal, physical, and social characteristics, such as gender, ethnicity, age, and education."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Inclusion refers to the procedures organizations implement to integrate everyone in the workplace, allowing their differences to coexist in a mutually beneficial way.",
+        "spans": [
+          "Inclusion refers to the procedures organizations implement to integrate everyone in the workplace, allowing their differences to coexist in a mutually beneficial way."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The goal of inclusion strategies is to make everyone feel accepted and comfortable, ready to share their opinions and thoughts without hesitation.",
+        "spans": [
+          "The goal of inclusion strategies is to make everyone feel accepted and comfortable, ready to share their opinions and thoughts without hesitation."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Diversity brings different people into the same territory, while inclusion introduces concrete methods and strategies to make diversity work.",
+        "spans": [
+          "To further clarify the distinction of diversity vs. inclusion, we can look at diversity as a globally accepted concept which brings different people into the same territory. Inclusion, on the other hand, introduces concrete methods and strategies to make diversity work."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Inclusion is the conscious effort organizations exert to support diversity and pull it beyond simple hype.",
+        "spans": [
+          "Inclusion is the conscious effort organizations exert to support diversity and pull it beyond simple hype."
+        ]
+      }
+    ]
+  }
+}

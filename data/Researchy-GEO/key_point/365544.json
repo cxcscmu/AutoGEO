@@ -1,0 +1,37 @@
+{
+  "question": "how has simone biles coped with the pressures of fame?",
+  "key_points": {
+    "null": [],
+    "clueweb22-en0040-78-12642": [
+      {
+        "point_number": 1,
+        "point_content": "Simone Biles has always been very fearless in pursuing gymnastics despite obstacles.",
+        "spans": [
+          "I’ve always been very fearless."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Biles experienced body-shaming early in her career but did not let it define her.",
+        "spans": [
+          "I overheard a coach saying she struggled in a meet because she was “too fat.”",
+          "It was very sad because I feel like I’m a very petite young girl and so hear that at such a very young age, it just kind of shocked me."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Biles believes that challenges and adversity have helped shape her success.",
+        "spans": [
+          "I honestly don’t think that’s the reason that I fell apart and I feel like everything happens for a reason, so that had to happen for me to be where I am today."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "She promotes self-confidence and self-love as a way to cope with criticism and pressure.",
+        "spans": [
+          "I would say everyone was built with a body and they’re blessed, so you have to be confident in whatever God gave you because that’s you and you have to learn to love yourself."
+        ]
+      }
+    ]
+  }
+}

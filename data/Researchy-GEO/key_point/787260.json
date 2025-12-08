@@ -1,0 +1,225 @@
+{
+  "question": "what nursing interventions can be used to improve feeding and eating for the client?",
+  "key_points": {
+    "clueweb22-en0033-57-07651": [
+      {
+        "point_number": 1,
+        "point_content": "Place the patient in high fowlers position to ease access to food and prevent aspiration and choking.",
+        "spans": [
+          "Place the patient in high fowlers position to ease access to food and prevent aspiration and choking"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Evaluate the patient’s risk for aspiration.",
+        "spans": [
+          "Evaluating the patient’s risk for aspiration"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Provide oral hygiene to stimulate and ease swallowing food.",
+        "spans": [
+          "Provide oral hygiene to stimulate and ease swallowing food"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Determine what accommodations your patient may need, such as help opening food packages, cutting their food, or full assistance with feeding.",
+        "spans": [
+          "Determine what accommodations your patient may need, do they need help opening food packages or do they require further assistance such as cutting their food, or do they require full assistance and need the nurse to feed them"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The nurse can palpate the patient's throat while the patient is swallowing food and evaluate whether or not swallowing is impaired.",
+        "spans": [
+          "The nurse can palpate the patient's throat while the patient is swallowing food and evaluate whether or not swallowing is impaired"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "The nurse can determine the best choice of food according to the patient's medical condition and diet to allow easier digestion and lower the risk of aspiration.",
+        "spans": [
+          "The nurse can determine what would be the best choice of food according to the patient's medical condition and diet. This will allow in easier digestion and lower the risk of aspiration."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Assist the patient to sit in an upright position at a table in a dining room, in a chair by the bed or upright in bed if the patient cannot get up to help with swallowing and protect the airway.",
+        "spans": [
+          "Assist the patient to sit in an upright position at a table in a dining room, in a chair by the bed or upright in bed if the patient cannot get up. This helps with swallowing and protects the airway"
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Ask how the patient would like to receive the food to let the patient feel in control of the mealtime.",
+        "spans": [
+          "Ask how the patient would like to receive the food; some may prefer a fork, others a spoon. It is important to let the patient feel in control of the mealtime."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "If the patient uses dentures, ensure they are clean and offer assistance to insert them if necessary, and offer mouth care.",
+        "spans": [
+          "If the patient use dentures ensure they are clean and offer assistance to insert them if necessary. Offer the patient a chance to clean their teeth and dentures or if this is not possible, perform mouth care."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Feed the patient slowly, allow smaller bites, and give plenty of time for each bite to reduce risk of aspiration in patients with dysphagia.",
+        "spans": [
+          "A patient with dysphagia is at risk for aspiration so it is important to feed the patient slowly and allow them to take smaller bites and give them plenty of time for each bite"
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Patients with dysphagia should avoid straws to allow them to swallow slowly.",
+        "spans": [
+          "Patients with dysphagia should avoid straws to allow them to swallow slowly"
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "Patients with dysphagia may need thickeners added to their liquids so that the liquids can be swallowed slowly.",
+        "spans": [
+          "Patients may need thickeners added to their liquids if they have dysphagia so that the liquids can be swallowed slowly."
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0031-38-11289": [
+      {
+        "point_number": 1,
+        "point_content": "The nurse can palpate the patient's throat while the patient is swallowing food and evaluate whether or not swallowing is impaired.",
+        "spans": [
+          "The nurse can palpate the patient's throat while the patient is swallowing food and evaluate whether or not swallowing is impaired."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The nurse can determine what would be the best choice of food according to the patient's medical condition and diet to allow easier digestion and lower the risk of aspiration.",
+        "spans": [
+          "The nurse can determine what would be the best choice of food according to the patient's medical condition and diet. This will allow in easier digestion and lower the risk of aspiration."
+        ]
+      }
+    ],
+    "clueweb22-en0006-11-01176": [
+      {
+        "point_number": 1,
+        "point_content": "Nurses should assist patients to make appropriate meal choices and consult with patients or carers about likes and dislikes.",
+        "spans": [
+          "Nurses should assist patients to make appropriate meal choices; for example, if they can only eat soft food due to poor dentition they should be made aware which foods on the menu are soft and easy to chew.",
+          "Nurses should not choose food for patients without consultation; if they are unable to choose for themselves, their nurse should speak to a carer or relative to find out their likes and dislikes where possible."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Patients with swallowing difficulties may need a texture modified diet to prevent choking.",
+        "spans": [
+          "a patient who has swallowing difficulties (dysphagia) may need a texture modified diet (National Patient Safety Agency, 2011) as giving food that is difficult to swallow may lead to choking."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Protected mealtimes involve stopping non-urgent clinical activity to help patients eat in a relaxed atmosphere.",
+        "spans": [
+          "During protected mealtimes, all non-urgent clinical activity should stop and staff should take the time to help patients to eat and drink in a relaxed, and unhurried atmosphere (Council of Europe, 2003)."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Family and carers are encouraged to assist patients with eating and drinking, especially those with dementia or learning disabilities.",
+        "spans": [
+          "Many organisations encourage family and carers to come in at mealtimes to assist their relative with eating and drinking. This is good practice, particularly for patients with dementia or learning disabilities as they may be more willing to accept help from a person they know."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Use of adapted cutlery and equipment can assist patients with restricted hand use to eat independently.",
+        "spans": [
+          "Adapted cutlery such as easy-grip handles and other equipment such as plate guards and nonslip mats can be useful for patients who have restricted use of their hands or who have had a stroke and can only manage to eat with one hand (Fig 1b)."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Patients should be prepared for mealtime by ensuring they are comfortably seated and have necessary items within reach.",
+        "spans": [
+          "Before mealtime, nurses should ensure all patients are prepared to eat their meal in a dining room or in a chair by their bed. If this is not possible they should be sat up in bed, well-supported with pillows (see checklist in Box 2)."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Encourage patient independence by assessing what help they need, such as unwrapping packets or cutting food into bite size pieces.",
+        "spans": [
+          "Independence should be encouraged and it is important to assess what help the patient needs, for example: Unwrapping packets; Removing yoghurt pot lids; Cutting food into bite size pieces to promote independence."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Assist patients with eating by explaining the process, maintaining hygiene, sitting at eye level, and communicating clearly about the food.",
+        "spans": [
+          "Explain to the patient that you are going to help them to eat their meal.",
+          "Decontaminate your hands to reduce the risk of cross infection and put on an apron (Dougherty and Lister, 2015).",
+          "Assist the patient to sit in an upright position at a table in a dining room, in a chair by the bed or upright in bed if the patient cannot get up.",
+          "Sit down at the patient’s eye level. This aids effective communication but also provides reassurance the patient that you have the time to help the patient to eat (Fig 1c).",
+          "Tell the patient what is on the plate – this is particularly important for those who are are visually impaired or eating a puree diet as food may not be instantly recognisable."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Allow patients to control how they receive food and offer seasoning or sauces as preferred.",
+        "spans": [
+          "Ask whether the patient wants any seasoning or sauces and has a preferred order in which they wish to eat the food.",
+          "Ask how the patient would like to receive the food; some may prefer a fork, others a spoon. It is important to let the patient feel in control of the mealtime."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Feed visually impaired patients by telling them what is on the utensil before bringing it to their mouth and allow time to chew and swallow.",
+        "spans": [
+          "Visually impaired patients should be told what you are putting on the fork or spoon before raising it to their lips.",
+          "Allow plenty of time for the patient to chew and swallow."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Offer sips of fluid regularly during the meal to help with eating.",
+        "spans": [
+          "Offer sips of fluid after every couple of mouthfuls; this can help eating."
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "Encourage patients with small appetite to eat a little of each course and refer to dietitian if at high risk of malnutrition.",
+        "spans": [
+          "When patients have a small appetite, suggest that they try to eat a little of each course for a balanced nutritional intake.",
+          "these patients are at high risk of malnutrition and should be referred to a dietitian to assess their dietary intake."
+        ]
+      },
+      {
+        "point_number": 13,
+        "point_content": "After the meal, ensure the patient is clean, comfortable, and has had enough to eat and drink without pressure.",
+        "spans": [
+          "After the meal ensure the patient is clean and comfortable and has had enough to eat and drink.",
+          "Patients should be encouraged to eat but should not be pressured when they have indicated that they have had enough."
+        ]
+      },
+      {
+        "point_number": 14,
+        "point_content": "Offer mouth care after meals and ensure patients have a drink within reach, assisting with drinking if needed.",
+        "spans": [
+          "Offer the patient a chance to clean their teeth and dentures or if this is not possible, perform mouth care.",
+          "At the end of the meal ensure the patient has a drink to hand but be aware that those who need help with eating will need help with drinking too and regular fluids should be offered."
+        ]
+      },
+      {
+        "point_number": 15,
+        "point_content": "Document the patient’s dietary intake after assisting with meals.",
+        "spans": [
+          "Remove your apron, decontaminate your hands and document the patient’s dietary intake."
+        ]
+      }
+    ]
+  }
+}

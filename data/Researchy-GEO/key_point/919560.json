@@ -1,0 +1,119 @@
+{
+  "question": "what prevents health care from having the same customer satisfaction as amazon?",
+  "key_points": {
+    "null": [],
+    "clueweb22-en0016-49-03623": [
+      {
+        "point_number": 1,
+        "point_content": "What prevents health care from having the same customer satisfaction as Amazon is a lack of focus on the customer experience.",
+        "spans": [
+          "What prevents health care from having the same customer satisfaction as Amazon is a lack of focus on the customer experience."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Health care workers have notoriously been lacking in customer service and giving the impression to patients that they are not important.",
+        "spans": [
+          "Health care workers have notoriously been lacking in customer service and giving the impression to patients that they are not important."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "What prevents health care employees from having the same satisfaction as google employees is a lack of employee engagement.",
+        "spans": [
+          "What prevents health care employees from having the same satisfaction as google employees is a lack of employee engagement."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "In most healthcare systems there are high turnover rates because there is an obvious belief that investing in employee engagement is not a primary focus for those in leadership.",
+        "spans": [
+          "In most healthcare systems there are high turnover rates because there is an obvious belief that investing in employee engagement is not a primary focus for those in leadership."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Health care systems should adapt some of the methods Google used which would help with retention of quality employees.",
+        "spans": [
+          "Health care systems should adapt some of the methods Google used which would help with retention of quality employees."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Leadership has to have to the wherewithal to understand that customers will leave just as soon as they can get a better experience somewhere else.",
+        "spans": [
+          "Leadership has to have to the wherewithal to understand that customers will leave just as soon as they can get a better experience somewhere else."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Leadership should create an environment that employees would want to work in and produce to their greatest capability.",
+        "spans": [
+          "Leadership should create an environment that employees would want to work in and produce to their greatest capability."
+        ]
+      }
+    ],
+    "clueweb22-en0015-72-16648": [
+      {
+        "point_number": 1,
+        "point_content": "Electronic Health Records (EHRs) were supposed to fulfill this promise of more patient-centered care, in reality most focus on documentation, better billing, and increasing revenue.",
+        "spans": [
+          "While Electronic Health Records (EHRs) were supposed to fulfill this promise of more patient-centered care, in reality most focus on documentation, better billing, and increasing revenue."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Improving quality healthcare isn’t a one-time, “set it and forget it” event—it’s an evolving process requiring ongoing evaluation.",
+        "spans": [
+          "Improving quality healthcare isn’t a one-time, “set it and forget it” event—it’s an evolving process."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Close to 15 percent of the population is still uninsured, which dramatically reduces these patients’ access to timely care, making them go without preventive or primary care, and forces them to rely on higher cost (and, therefore, lower value) services.",
+        "spans": [
+          "Unfortunately, close to 15 percent of the population is still uninsured, which dramatically reduces these patients’ access to timely care, makes them go without preventive or primary care, and forces them to rely on higher cost (and, therefore, lower value) services."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Today’s health care system is far too fragmented to serve patients well, and efforts to connect, collaborate, and share information across organizations are needed to make care more convenient and improve patient outcomes.",
+        "spans": [
+          "Many experts have argued that today’s health care system is far too fragmented to serve patients well—and that any efforts to connect, collaborate, and share information across organizations in order to make care more convenient for patients will also improve patient outcomes."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Primary care physicians are better set up to see the patient’s entire healthcare journey than medical professionals who work at hospitals, specialist care centers, or urgent care facilities, enabling them to act as the glue that holds all the different aspects of care together.",
+        "spans": [
+          "Primary care physicians are better set up to see the patient’s entire healthcare journey than medical professionals who work at hospitals, specialist care centers, or urgent care facilities.",
+          "You could say that primary care physicians are in a powerful position when it comes to overall quality of care. They are able to act as the glue that holds all the different aspects of care together and supports the patient through the entire care continuum."
+        ]
+      }
+    ],
+    "clueweb22-en0011-98-03468": [],
+    "clueweb22-en0020-59-06493": [
+      {
+        "point_number": 1,
+        "point_content": "The doctor-patient relationship extends much deeper than a customer relationship, as it centers on restoring health and life.",
+        "spans": [
+          "The doctor-patient relationship extends much deeper than a customer relationship, as it centers on restoring health and life."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "When patients come in for care they’re often in times of great need and vulnerability, requiring deep kindness, compassion, trust, and empathy.",
+        "spans": [
+          "When patients come in for care they’re often in times of great need and vulnerability. The relationship between doctors and patients has a more sacred meaning and requires deep kindness, compassion, trust, and empathy."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Although customers can be well served, the key elements of kindness, compassion, trust, and empathy are not essential for all customer relationships, which differentiates healthcare from typical customer service like Amazon.",
+        "spans": [
+          "Although customers can be well served, the key elements of kindness, compassion, trust, and empathy are not essential for all customer relationships."
+        ]
+      }
+    ]
+  }
+}

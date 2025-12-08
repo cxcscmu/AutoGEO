@@ -1,0 +1,122 @@
+{
+  "question": "how can technology help make roads safer?",
+  "key_points": [
+    {
+      "point_number": 1,
+      "point_content": "New technology such as smart traffic lights, traffic control systems, artificial intelligence, telematics, and automotive technology can help prevent and reduce road accidents and improve road safety.",
+      "original_point_number": [
+        1,
+        15,
+        16
+      ]
+    },
+    {
+      "point_number": 2,
+      "point_content": "Mobile networks and fast data transmission solutions collect data on vehicles and road conditions and provide real-time weather information and warnings to reduce accidents.",
+      "original_point_number": [
+        2
+      ]
+    },
+    {
+      "point_number": 3,
+      "point_content": "Electronic police systems, including automatic detection and measurement technology like speed cameras and smart traffic light cameras, are used in cities like Shanghai and countries like South Korea to catch traffic violations and significantly contribute to traffic management and supervision 24 hours a day.",
+      "original_point_number": [
+        3,
+        4
+      ]
+    },
+    {
+      "point_number": 4,
+      "point_content": "Collaboration between companies and traffic police to analyze accident-prone roads and provide behavioral-analysis-based safety education can effectively reduce road traffic casualty rates.",
+      "original_point_number": [
+        5
+      ]
+    },
+    {
+      "point_number": 5,
+      "point_content": "Technology can inform road users about driving behavior through apps and other tools linked with insurance policies and risk-based pricing, promoting personal responsibility and leading to safer driving and behavior change.",
+      "original_point_number": [
+        6,
+        7
+      ]
+    },
+    {
+      "point_number": 6,
+      "point_content": "Octopus software interfaces with all security systems within an organization, including alarms, fraud prevention, cyber attack alerts, safety, entrance monitoring, and closed-circuit cameras, unifying all means of protection.",
+      "original_point_number": [
+        8
+      ]
+    },
+    {
+      "point_number": 7,
+      "point_content": "Companion apps allow users to choose companions who can track their location during journeys, promoting safety by notifying companions when the user reaches home or if help is needed.",
+      "original_point_number": [
+        9
+      ]
+    },
+    {
+      "point_number": 8,
+      "point_content": "Rudder is a mapping app that finds the shortest and best-lit path between two points using public light data and a smartphone's camera light meter to ensure safer walking routes.",
+      "original_point_number": [
+        10
+      ]
+    },
+    {
+      "point_number": 9,
+      "point_content": "Driver’s Little Helper is an electronic monitoring system syncing with phones to monitor car seat pressure, temperature, and movement, sending alerts to keep children safe in cars.",
+      "original_point_number": [
+        11
+      ]
+    },
+    {
+      "point_number": 10,
+      "point_content": "Speeding enforcement efficiency is enhanced by largely automating the handling of fines for detected violations, and speed enforcement remains essential until structural solutions like road design, engineering measures, and in-vehicle technology solve the speed problem.",
+      "original_point_number": [
+        12,
+        13
+      ]
+    },
+    {
+      "point_number": 11,
+      "point_content": "Police enforcement combined with publicity campaigns can reduce illegal use of mobile phones while driving.",
+      "original_point_number": [
+        14
+      ]
+    },
+    {
+      "point_number": 12,
+      "point_content": "LIDAR guns help law enforcers catch and book vehicles that exceed speed limits by emitting an invisible infrared beam to estimate vehicle speed accurately and quickly.",
+      "original_point_number": [
+        17
+      ]
+    },
+    {
+      "point_number": 13,
+      "point_content": "Speed Indication Displays use radar sensors and LED displays to inform vehicles of their speed relative to the limit, helping prevent speeding.",
+      "original_point_number": [
+        18
+      ]
+    },
+    {
+      "point_number": 14,
+      "point_content": "Speed governors are devices installed in commercial vehicles that cap maximum speed by restricting air and fuel flow to the engine when the speed limit is exceeded.",
+      "original_point_number": [
+        19
+      ]
+    },
+    {
+      "point_number": 15,
+      "point_content": "Variable Message Signs are LED boards displaying important real-time information to commuters about road and traffic conditions.",
+      "original_point_number": [
+        20
+      ]
+    },
+    {
+      "point_number": 16,
+      "point_content": "Inductive loops embedded in roads detect vehicles at junctions and communicate with traffic signals to adjust signal changes based on traffic conditions.",
+      "original_point_number": [
+        21
+      ]
+    }
+  ]
+}

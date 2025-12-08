@@ -1,0 +1,464 @@
+{
+  "question": "how do changes in the exchange rates impact businesses",
+  "key_points": {
+    "clueweb22-en0021-41-02622": [
+      {
+        "point_number": 1,
+        "point_content": "Exchange rate movements can impact businesses that work with international currencies, including those making income from overseas operations, importing or exporting goods and services, paying overseas invoices, or interacting with foreign currencies in any way.",
+        "spans": [
+          "If your business works with international currencies, your business could be impacted by exchange rate movements",
+          "Make income from overseas operations?",
+          "Import or export goods and services from abroad?",
+          "Pay overseas invoices?",
+          "Or interact with foreign currencies in any way?"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Foreign exchange risk is the possibility that a business’s financial position or performance could be negatively impacted by fluctuations in exchange rates in the foreign currency markets.",
+        "spans": [
+          "What is foreign exchange risk?",
+          "It’s exactly what it sounds like: it’s the possibility that a business’s financial position or performance could be negatively impacted by fluctuations in exchange rates in the foreign currency markets."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "A falling domestic exchange rate can increase costs for importers, make domestically produced products more competitive, increase the cost of capital expenditure and servicing foreign currency debt, improve exporter competitiveness, make a business more attractive to foreign investors, and increase the costs of investing in overseas operations.",
+        "spans": [
+          "How does a falling domestic exchange rate affect your business?",
+          "A falling domestic exchange rate can:",
+          "Increase costs for importers and potentially reduce their profitability.",
+          "Make domestically produced products more competitive against imported products.",
+          "Increase the cost of capital expenditure (for example, if it includes the importation of capital equipment).",
+          "Increase the cost of servicing foreign currency debt.",
+          "Improve exporter competitiveness .",
+          "Make a business a more attractive investment proposition for foreign investors.",
+          "Increase the costs of investing in overseas operations."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "A rising domestic exchange rate can make exports less competitive, decrease the value of investment in foreign subsidiaries and monetary assets, reduce foreign currency income from investments, reduce the cost of foreign raw materials, reduce the value of foreign currency liabilities and the cost of servicing them, reduce the cost of capital expenditure, and make a business less attractive to foreign investors.",
+        "spans": [
+          "How does a rising domestic exchange rate impact your business?",
+          "On the other hand, a rising domestic exchange rate can:",
+          "Make exports less competitive, reducing exporter profitability.",
+          "Decrease the value of investment in foreign subsidiaries and monetary assets (when translating the value of such assets into the domestic currency).",
+          "Reduce foreign currency income from investments.",
+          "Reduce the cost of foreign raw materials, giving importers a competitive advantage.",
+          "Reduce the value of foreign currency liabilities and hence the cost of servicing these liabilities.",
+          "Reduce the cost of capital expenditure (for example if it includes the importation of capital equipment).",
+          "Make a business less attractive to foreign investors."
+        ]
+      }
+    ],
+    "clueweb22-en0024-46-13746": [
+      {
+        "point_number": 1,
+        "point_content": "Exchange rate changes directly impact supplier payments, affecting the cost in the business's home currency.",
+        "spans": [
+          "If, for example, you’re contracted to pay a French supplier for a shipment of goods in six months’ time at a cost of €50,000, every percent of change in the EUR/GBP rate will have a direct impact on your bottom line.",
+          "At the time of writing, the EUR/GBP exchange rate sits at 0.91, making your final bill £45,500 if paid today.",
+          "However, should the value of the pound fall by 2.5%, EUR/GBP would rise to over 0.93, lifting your supplier payment to over £46,500 – meaning you’re paying an additional £1,000 for the same shipment of goods.",
+          "Nonetheless, should exchange rates move in your favour (the pound strengthening in this example) then you’d end up forking out less for your euro payment."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Exchange rate fluctuations affect multinational companies' sales forecasts when sales are listed in foreign currencies.",
+        "spans": [
+          "For multinational companies, sales forecasts can be any of the following: headache, hindrance, tailwind or motivator.",
+          "Where they become more complicated is when sales are listed in another currency and what looks like a firm beat on your well thought-out sales forecast turns to pennies when the exchange rate moves against you."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Foreign exchange fluctuations cause balance sheet remeasurements for assets and liabilities held in foreign currencies.",
+        "spans": [
+          "When you’re creating or submitting financial documents, balance sheets can be subject to sharp revisions or remeasurements if the value of an asset or liability has changed due to foreign exchange fluctuations.",
+          "A loan taken out in Japanese yen will look very different on your sterling-denominated balance sheet from one quarter to another if currency markets are volatile, unpredictable and changing."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Exchange rate volatility impacts importers and exporters immediately, affecting trade balances and economic growth.",
+        "spans": [
+          "The same might not be said for importers and exporters – who’ll feel the gains/losses of foreign exchange fluctuations almost immediately – and that’s clear in the monthly trade statistics for the UK:",
+          "During periods where the pound’s weakened, for example from 2008-2012 in the graph above, the volume of goods and services exported from the UK has grown.",
+          "The trouble is, it hasn’t grown sufficiently to outweigh the costs that are incurred through higher import costs – thereby depressing our trade balance figures and preventing a weaker pound from driving economic growth."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Businesses can manage exchange rate risks through spot contracts, forward contracts, and hedging strategies.",
+        "spans": [
+          "Transferring money can be simple – spot contracts and short-term forwards can be a quick, easy and efficient way of moving your funds from one currency to another.",
+          "For some businesses, using hedging strategies or longer-term forwards can trim some of this risk and more complex payment solutions can be more suited.",
+          "A spot transaction is arguably the simplest way to transfer money across borders.",
+          "If you want to secure a rate but aren’t yet ready to make a transfer, you can choose a forward contract to fix a rate today for a specified date in the future.",
+          "The great thing about a forward contract is that you know now exactly how much you’ll get when you’re ready to transfer. It helps you plan and protects you should rates move against you later."
+        ]
+      }
+    ],
+    "clueweb22-en0018-89-00700": [
+      {
+        "point_number": 1,
+        "point_content": "Exchange rates affect international businesses by impacting the cost of transactions and profitability.",
+        "spans": [
+          "How foreign exchange rates affect international businesses"
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0021-31-07402": [
+      {
+        "point_number": 1,
+        "point_content": "Exchange rate is defined as the value of one currency for the purpose of converting into another.",
+        "spans": [
+          "Exchange rate is defined as the value of one currency for the purpose of converting into another."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "A change in the currency valuation of your home country affects your business.",
+        "spans": [
+          "How does a change in the currency valuation of your home country affect your business?"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The valuation of the currency in a country you’re exporting / importing materials or products from affects your business.",
+        "spans": [
+          "How does the valuation of the currency in a country you’re exporting / importing materials or products from affect your business?"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Loans, assets and liabilities must all adhere to the same financial language and the ever-changing nature of foreign exchange rates is not the most helpful thing.",
+        "spans": [
+          "Loans, assets and liabilities must all adhere to the same financial language and the ever-changing nature of foreign exchange rates is not the most helpful thing."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Exporting goods overseas means that your cost of producing goods and the price of selling them will come in two different currencies, leading to serious profits or devastating losses.",
+        "spans": [
+          "Exporting goods overseas means that your cost of producing goods and the price of selling them will come in two different currencies. What this means is that your business is in for some serious profits or equally, some devastating losses."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "If the UK Sterling Pound to Euro rate increases, you will find yourself making more money without altering your prices.",
+        "spans": [
+          "If the UK Sterling Pound to Euro rate increases, you will find yourself making more money without altering your prices."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "If a company exports products, their exports will become more expensive and unprofitable in the long run when the home currency strengthens.",
+        "spans": [
+          "if a company exports products, their exports will become more expensive and unprofitable in the long run."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Businesses that import raw materials are influenced by exchange rate fluctuations.",
+        "spans": [
+          "These principles do not just apply to businesses that import / export finished products. A lot of companies need to import raw materials to produce their products. This is a case where the entire business is influenced."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "If the local currency depreciates, there will be an overall increase in the cost of transportation affecting the transportation of goods.",
+        "spans": [
+          "If the local currency depreciates there will be an overall increase in the cost of transportation meaning that the transportation of goods will take an immediate hit."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Currency depreciation can make a country a favourable destination for tourists, benefiting local businesses.",
+        "spans": [
+          "Once their currency depreciates, they immediately become a favourable destination for travellers since they can now get more value for their money."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Businesses are devalued during currency depreciation and become optimal candidates for mergers or acquisitions.",
+        "spans": [
+          "On periods where currency is depreciated, businesses are devalued and become optimal candidates for a merger or acquisition."
+        ]
+      }
+    ],
+    "clueweb22-en0012-20-09741": [
+      {
+        "point_number": 1,
+        "point_content": "When a currency appreciates or strengthens in relation to other currencies, imports get cheaper.",
+        "spans": [
+          "When a currency appreciates or strengthens in relation to other currencies, imports get cheaper."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "A stronger currency means your dollar will buy more of another foreign currency so that you can purchase foreign goods.",
+        "spans": [
+          "your dollar will buy more of another foreign currency so that you can purchase foreign goods."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "For American companies who import a lot of components and raw materials, a stronger currency lowers costs and often leads to higher profit margins.",
+        "spans": [
+          "This is also great news for American companies who import a lot of components and raw materials to manufacture goods. Lower costs often lead to higher profit margins."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "A stronger exchange rate makes imports cheaper, which puts pressure on domestic firms to keep prices low, leading to lower inflation.",
+        "spans": [
+          "When the exchange rate for a currency strengthens, it makes imports cheaper.",
+          "This means you and I spend less money on foreign goods.",
+          "This in turn puts pressure on American firms to keep their prices low, so they can remain competitive."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "A strong currency can lead to trade deficits because it makes exports more expensive to other countries, lowering demand for domestic goods and reducing GDP.",
+        "spans": [
+          "One of the biggest disadvantages of higher exchange rates or a strong dollar may be that it leads to trade deficits.",
+          "Because strong currencies lead to cheaper imports, a country tends to import more than they export.",
+          "Because our currency is strong, our own goods we look to export appear expensive to other countries; so they buy fewer American goods.",
+          "This lowers demand for American goods and as a result lowers GDP."
+        ]
+      }
+    ],
+    "clueweb22-en0007-53-07519": [
+      {
+        "point_number": 1,
+        "point_content": "An increase in the value of the sterling means one pound can buy an increased amount of foreign currency, meaning you are getting more for the same amount of money.",
+        "spans": [
+          "An increase in the value of the sterling means one pound can buy an increased amount of foreign currency, meaning you are getting more for the same amount of money."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Businesses that import and export goods need to pay close attention to these exchange rates as the value of goods are highly sensitive, chopping and changing with the constant fluctuations.",
+        "spans": [
+          "Businesses that import and export goods need to pay close attention to these exchange rates as the value of goods are highly sensitive, chopping and changing with the constant fluctuations."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Businesses that trade domestically must also be aware of changes in exchange rates as they will have an indirect impact by virtue of the wider economy.",
+        "spans": [
+          "Businesses that trade domestically must also be aware of changes in exchange rates as they will have an indirect impact by virtue of the wider economy."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "If you run a business that sells products or services to a country abroad, then a change in the exchange rate will have a direct impact on your bottom line.",
+        "spans": [
+          "If you run a business that sells products or services to a country abroad, then a change in the exchange rate will have a direct impact on your bottom line."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "If invoices are submitted in the foreign currency, a risk remains where you will receive less money than expected if the exchange rate moves against you from the time the invoice as issued and date of payment.",
+        "spans": [
+          "If invoices are submitted in the foreign currency, a risk remains where you will receive less money than expected if the exchange rate moves against you from the time the invoice as issued and date of payment."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Issuing invoices in your local currency should have a lesser impact, as the overseas buyer must change their local currency into yours to make payment.",
+        "spans": [
+          "Issuing invoices in your local currency should have a lesser impact, as the overseas buyer must change their local currency into yours to make payment."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "The potential risk here is that your prices may become uncompetitive as a result of variations to the exchange rate, leading to lost market share against foreign competitors who do not have to include transactional exchange rate changes.",
+        "spans": [
+          "The potential risk here is that your prices may become uncompetitive as a result of variations to the exchange rate, leading to lost market share against foreign competitors who do not have to include transactional exchange rate changes."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "If your business contracts with a supplier from a foreign country, you become vulnerable to fluctuations in the exchange rate.",
+        "spans": [
+          "if your business contracts with a\u0000supplier from a foreign country,\u0000you become vulnerable to fluctuations in the exchange rate."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "If the exchange rate has moved to 8.8, your invoice would change to £34,090.90, meaning you're paying £239.93 less for the same shipment of goods.",
+        "spans": [
+          "if the exchange rate has moved to 8.8, your invoice would change to \u001634,090.90, meaning you're paying \u0016239.93 less for the same shipment of goods."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "If the exchange rate was to go the other way, you would have to pay more for the same amount of goods.",
+        "spans": [
+          "Of course, if the exchange rate was to go the other way, you would have to pay more for the same amount of goods."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Some businesses put forward contracts that fix exchange rates for a set period in place to help reduce the risk to the business.",
+        "spans": [
+          "Some businesses put forward contracts that fix exchange rates for a set period in place to help reduce the risk to the business."
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "Changes in the exchange rate can also indirectly impact your business, even when you do not buy or sell goods and services overseas.",
+        "spans": [
+          "Changes in the exchange rate can also indirectly impact your business, even when you do not buy or sell goods and services overseas."
+        ]
+      },
+      {
+        "point_number": 13,
+        "point_content": "If you transport products around the country using delivery trucks and the cost of fuel is raised due to changes in the exchange rate, you will end up paying more for your shipments to be delivered.",
+        "spans": [
+          "if you transport products around the country using delivery trucks and the cost of fuel is raised due to changes in the exchange rate, you will end up paying more for your shipments to be delivered."
+        ]
+      },
+      {
+        "point_number": 14,
+        "point_content": "Depreciation of your local currency makes the cost of importing goods more expensive, which could lead to a decreased volume of imports.",
+        "spans": [
+          "Depreciation of your local currency makes the cost of importing goods more expensive, which could lead to a decreased volume of imports."
+        ]
+      },
+      {
+        "point_number": 15,
+        "point_content": "Domestic companies should benefit from this as a result of increased sales, profits and jobs.",
+        "spans": [
+          "Domestic companies should benefit from this as a result of increased sales, profits and jobs."
+        ]
+      }
+    ],
+    "clueweb22-en0034-87-01734": [
+      {
+        "point_number": 1,
+        "point_content": "Changes in exchange rates affect businesses by changing the cost of supplies purchased from a different country and by changing the attractiveness of their products to overseas customers.",
+        "spans": [
+          "changes in exchange rates affect their businesses in two main ways: by changing the cost of supplies that are purchased from a different country, and by changing the attractiveness of their products to overseas customers"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "A fall in the value of the domestic currency relative to a supplier's currency increases the cost of imported supplies for the business.",
+        "spans": [
+          "the U.S. dollar has lost 10% of its value versus the Kiwi",
+          "his supplier now needs 10% more U.S. dollars per pound of wool in order to maintain his same level of profitability"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "If the domestic currency falls relative to the home currencies of customers, the business's products become cheaper for those customers; if it rises, the products become more expensive.",
+        "spans": [
+          "if the price of the U.S. dollar falls relative to the home currencies of some of his customers, his products will essentially become cheaper for them",
+          "if the price of the U.S. dollar rises against some other customers’ home currencies, his products will seem more expensive to them"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Businesses can manage exchange rate effects by staying informed about exchange rates, seeking alternative suppliers, renegotiating contracts, adjusting marketing efforts, or hedging currency risk.",
+        "spans": [
+          "The most important thing to do is to stay informed of the level and direction of the exchange rates that matter to your business",
+          "If you find that a weaker U.S. dollar is driving up the price that you have to pay to foreign suppliers, you may want to look for alternative suppliers",
+          "if the U.S. dollar is getting stronger but your foreign suppliers are not adjusting their prices downward, it may be time for you to renegotiate your contracts",
+          "it may pay to ramp up your marketing efforts in countries whose currencies have appreciated versus the U.S. dollar",
+          "there is the option to hedge the risk of your exposure to fluctuations in foreign currency via the financial markets"
+        ]
+      }
+    ],
+    "clueweb22-en0021-79-03266": [
+      {
+        "point_number": 1,
+        "point_content": "A depreciation (devaluation) will make exports cheaper and exporting firms will benefit.",
+        "spans": [
+          "A depreciation (devaluation) will make exports cheaper and exporting firms will benefit."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Firms importing raw materials will face higher costs of imports due to depreciation.",
+        "spans": [
+          "firms importing raw materials will face higher costs of imports."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "An appreciation makes exports more expensive and reduces the competitiveness of exporting firms.",
+        "spans": [
+          "An appreciation makes exports more expensive and reduces the competitiveness of exporting firms."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Raw materials (e.g. oil) will be cheaper following an appreciation.",
+        "spans": [
+          "at least raw materials (e.g. oil) will be cheaper following an appreciation."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Depreciation in the value of the Pound makes UK exports cheaper and imports more expensive.",
+        "spans": [
+          "If there is a depreciation in the value of the Pound, it will make UK exports cheaper, and it will make imports into the UK more expensive."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Depreciation increases demand for British goods as European consumers find them cheaper.",
+        "spans": [
+          "The 26% depreciation means that European consumers now find British goods much cheaper."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "British firms can either reduce foreign price to increase sales or keep price same to increase profit margin after depreciation.",
+        "spans": [
+          "A British firm has a choice, it can reduce the European price from €7,500 to €5,500; this should lead to an increase in the quantity sold, and increase UK exports.",
+          "Alternatively, the firm could keep the price at €7,500 and just make a bigger profit margin."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Depreciation increases the cost of imported raw materials, reducing profit margins for importers.",
+        "spans": [
+          "The downside of a depreciation is that British firms who import raw materials will see an increase in the cost of buying raw materials."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Depreciation may reduce incentives for exporters to cut costs and boost productivity.",
+        "spans": [
+          "In the long term, it is argued that a depreciation may reduce the incentives for exports to cut costs."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Appreciation makes exports more expensive, reducing demand or profit margins, and makes imports cheaper.",
+        "spans": [
+          "If there is an appreciation in the value of the Pound, e.g. between July 2011 and October 2012 the value of the Pound increased from £1 – €1.1 to £1 = €1.25 The impact will be: Exports will be more expensive. This will lead to lower demand for UK exports or firms will have to reduce their profit margin. Imports will be cheaper."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "The effect of exchange rate changes on business depends on elasticity of demand, economic growth, import percentage, reasons for change, inflation, and fixed contracts.",
+        "spans": [
+          "The effect of the exchange rate on business depends on several factors.",
+          "1. Elasticity of demand.",
+          "2. Economic growth in other countries.",
+          "3. Depends on the percentage of raw materials imported.",
+          "4. It depends why there was an appreciation/depreciation.",
+          "5. Inflation?",
+          "6. Fixed contracts."
+        ]
+      }
+    ]
+  }
+}

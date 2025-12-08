@@ -1,0 +1,483 @@
+{
+  "question": "why do people think covid is a hoax",
+  "key_points": {
+    "clueweb22-en0022-69-09514": [
+      {
+        "point_number": 1,
+        "point_content": "Misinformation about Covid-19 includes false claims about its origin and prevention, which spread widely on social media.",
+        "spans": [
+          "From Facebook to WhatsApp, frequently shared misinformation include everything from what caused the outbreak to how you can prevent becoming ill."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Some people believe Covid-19 is a hoax or man-made, with a significant portion of the population holding these beliefs.",
+        "spans": [
+          "One poll by YouGov and the Economist in March 2020 found 13% of Americans believed the Covid-19 crisis was a hoax, for example, while a whopping 49% believed the epidemic might be man-made."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Even educated and intelligent people, including some with advanced degrees, have fallen for Covid-19 conspiracy theories.",
+        "spans": [
+          "Just consider the writer Kelly Brogan, a prominent Covid-19 conspiracy theorist; she has a degree from the Massachusetts Institute of Technology and studied psychiatry at Cornell University. Yet she has shunned clear evidence of the virus’s danger in countries like China and Italy."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Social media encourages sharing of misinformation because it incentivizes engagement over truth.",
+        "spans": [
+          "Social media doesn’t incentivise truth,” Pennycook says. “What it incentivises is engagement.”"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "People often share misinformation without verifying its accuracy, sometimes disclaiming uncertainty but still sharing it.",
+        "spans": [
+          "many people have been sharing false information with a sort of disclaimer at the top, saying something like “I don’t know if this is true, but…”."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Cognitive biases and a tendency to rely on intuition rather than analytical thinking make people susceptible to believing misinformation.",
+        "spans": [
+          "Cognitive miserliness renders us susceptible to many cognitive biases, and it also seems to change the way we consume information (and misinformation)."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "People who are less reflective and deliberative are more likely to believe and share Covid-19 hoax theories.",
+        "spans": [
+          "When it came to the coronavirus statements, for instance, Pennycook found that people who scored badly on the CRT were less discerning in the statements that they believed and were willing to share."
+        ]
+      }
+    ],
+    "clueweb22-en0039-26-15775": [
+      {
+        "point_number": 1,
+        "point_content": "Some people believe coronavirus is a hoax because they see nurses posting morale-boosting videos online, which they interpret as unprofessional and misleading.",
+        "spans": [
+          "Richard initially believed the virus did exist, and was concerned for the safety of his family, but he says his opinion on the virus changed when he saw nurses posting morale-boosting videos online.",
+          "People dancing on the wards and sharing on Facebook is unprofessional. In the middle of a pandemic this was used to give nurses attention."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Some believe the virus is a hoax because they think medical staff are brainwashed and scared to speak out.",
+        "spans": [
+          "A lot of the nurses are brainwashed and medical staff are brainwashed. Some want to come forward to say things, but they’re scared, so this goes on."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Some people think the restrictive measures like social distancing and mask-wearing are an infringement on their freedom, leading them to believe the virus is a hoax.",
+        "spans": [
+          "Richard Hughes, from Ystalyfera, has become one of the familiar faces at protests across the UK believing the virus is a hoax. He says social distancing and the need to wear a mask is restricting his freedom."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "There is a distrust in the media, government, and healthcare professionals among those who want to avoid a vaccine, which may contribute to the belief that COVID is a hoax.",
+        "spans": [
+          "The research also suggests that those wanting to avoid a vaccine are more distrustful of the media, government, and healthcare professionals."
+        ]
+      }
+    ],
+    "clueweb22-en0006-47-14527": [
+      {
+        "point_number": 1,
+        "point_content": "Beliefs in COVID-19 conspiracy theories are the joint product of the psychological predispositions to reject information coming from experts and other authority figures and to view major events as the product of conspiracies, as well as partisan and ideological motivations.",
+        "spans": [
+          "Our research shows that beliefs in two popular variants of COVID-19 conspiracy theory are the joint product of the psychological predispositions 1) to reject information coming from experts and other authority figures and 2) to view major events as the product of conspiracies, as well as partisan and ideological motivations."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Support for Donald Trump is strongly related to the belief that the COVID-19 threat has been exaggerated, influenced by the President’s early messaging about the virus.",
+        "spans": [
+          "Support for Donald Trump is strongly related to the belief that the COVID-19 threat has been exaggerated, even when accounting for partisanship and ideology. This relationship is strongest among people who regularly pay attention to politics. We surmise that Trump supporters adopted this belief in response to the President’s early messaging about the virus."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Belief that the virus was spread on purpose is most related to conspiracy thinking and is only slightly more concentrated among self-identified Republicans and conservatives than Democrats and liberals.",
+        "spans": [
+          "Belief that the virus was spread on purpose is most related to conspiracy thinking and is only slightly more concentrated among self-identified Republicans and conservatives than Democrats and liberals."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Conspiracy beliefs are widespread and can lead to people ignoring appropriate health-related behaviors, causing negative societal consequences.",
+        "spans": [
+          "Conspiracy beliefs—especially those regarding science, medicine, and health-related topics—are widespread (Oliver & Wood, 2014) and capable of prompting people to eschew appropriate health-related behaviors (Jolley & Douglas, 2014). These (in)actions can result in negative societal consequences that reach beyond the individual conspiracy believer"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The strongest explanatory factors behind COVID-19 conspiracy beliefs are the psychological predisposition to reject expert information (denialism), conspiracy thinking, and partisan motivations.",
+        "spans": [
+          "We find that the psychological predisposition to reject expert, authoritative information (denialism), the tendency to view major social and political events as the product of conspiracies (conspiracy thinking), and partisan motivations are the strongest explanatory factors behind COVID-19 conspiracy beliefs."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Correction of misinformed and conspiratorial beliefs among individuals with high levels of conspiracy thinking and denialism is likely to be difficult because they distrust experts and authority figures.",
+        "spans": [
+          "Because two of these factors—conspiracy thinking and denialism—are founded in a deep distrust of experts and authority figures (e.g., scientists, political leaders), correction of misinformed and conspiratorial beliefs among individuals who exhibit high levels of conspiracy thinking and denialism is likely to be difficult. Conspiracy theorists and denialists are simply unlikely to accept corrective information coming from experts."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Partisan identity can be mobilized to override distrust in experts and correct conspiracy beliefs through elite cueing and motivated reasoning.",
+        "spans": [
+          "Even though conspiracy thinking and denialism may lead one to reject the information and accounts of many experts and authority figures, partisanship supplies trusted authority figures in the form of co-partisan leaders. If, then, partisan identity can be activated and mobilized, it may prove capable of overriding the distrust at the center of conspiratorial and denialist tendencies. A central mechanism by which this mobilization can occur is elite cueing (Zaller, 1992), and the motivated reasoning it engages (Miller et al., 2016)."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "President Trump’s early rhetoric calling COVID-19 a 'hoax' and likening it to the flu likely led his supporters to take the virus less seriously and adopt conspiracy beliefs.",
+        "spans": [
+          "At the outset of the COVID-19 threat, President Trump referred to COVID-19 as “their [Democrats’] new hoax” (Rieder, 2020), and repeatedly likened the threat to the common flu (Brooks, 2020). This likely led his supporters to take COVID-19 less seriously—a proposition we find support for."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Cues from partisan elites can both inflame and reduce conspiracy beliefs among their supporters.",
+        "spans": [
+          "If cues from partisan elites are capable of inflaming conspiracy beliefs among likeminded supporters, they may also capable of reducing conspiracy beliefs and limiting their pernicious effects."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "COVID-19 conspiracy beliefs are widespread, with over 29% agreeing the threat is exaggerated and over 31% agreeing the virus was purposely created and spread.",
+        "spans": [
+          "Indeed, over 29% of respondents agree that the threat posed by COVID-19 is being exaggerated, while more than 31% agree that virus was intentionally created and spread."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "There is no correlation between educational attainment and belief in COVID-19 conspiracy theories, indicating these beliefs are not merely due to deficient health education but also psychological and political motivations.",
+        "spans": [
+          "Perhaps most strikingly, there is no correlation between educational attainment and either conspiracy belief, suggesting that these beliefs are not merely the product of deficient health education, but one of psychological and political motivations."
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "COVID-19 conspiracy beliefs are strongly related to conspiracy thinking, denialism, partisanship, ideology, religiosity, and youth.",
+        "spans": [
+          "Altogether, Figure 2 reveals that conspiracy thinking, denialism, partisanship, ideology, religiosity, and youth are all consistently related to COVID-19 conspiracy beliefs, albeit to vary degrees."
+        ]
+      },
+      {
+        "point_number": 13,
+        "point_content": "The belief that the COVID-19 threat has been exaggerated is more strongly associated with partisanship and denialism, while the belief that the virus was spread on purpose is more strongly associated with conspiracy thinking.",
+        "spans": [
+          "Patterns differ in key ways when it comes to the “threat exaggerated” belief, with partisanship  and denialism exhibiting stronger associations than conspiracy thinking, and ideology also proving to be more strongly related."
+        ]
+      },
+      {
+        "point_number": 14,
+        "point_content": "The connection between support for Trump and belief that the COVID-19 threat is exaggerated increases with attention to politics.",
+        "spans": [
+          "The marginal effects of the interaction on both COVID-19 conspiracy beliefs appear in the right-hand panel of Figure 4. The lines essentially represent the strength of the relationship between feelings toward Trump and conspiracy beliefs at different levels of attention to politics. The greater the marginal effect (y -axis value), the greater the strength of association. In both instances, but most strongly with the “threat exaggerated” belief, the connection between feelings toward Trump and COVID-19 misinformation increases as attention to politics increases."
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0018-74-13490": [
+      {
+        "point_number": 1,
+        "point_content": "An expert virologist, pathologist and former chairman of a prominent medical association in Canada told officials in the province of Alberta that the Wuhan coronavirus (COVID-19) pandemic is a great hoax.",
+        "spans": [
+          "An expert virologist, pathologist and former chairman of a prominent medical association in Canada told officials in the province of Alberta that the Wuhan coronavirus (COVID-19) pandemic is a great hoax."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Hodkinson called the coronavirus pandemic 'the greatest hoax ever perpetrated on an unsuspecting public.'",
+        "spans": [
+          "Hodkinson continued by calling the coronavirus pandemic “the greatest hoax ever perpetrated on an unsuspecting public.”"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Hodkinson stated that COVID-19 was 'just another bad flu' and that positive test results do not necessarily mean clinical infection.",
+        "spans": [
+          "He added that he firmly believes that COVID-19 was “just another bad flu.”",
+          "“Positive test results do not, underlined in neon, mean a clinical infection,” he added,"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Hodkinson argued that there is 'utterly unfounded public hysteria driven by the media and politicians' about COVID-19.",
+        "spans": [
+          "“There is utterly unfounded public hysteria driven by the media and politicians,” said Hodkinson,"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Hodkinson believes face masks are 'utterly useless' and that mask mandates are 'utterly ridiculous.'",
+        "spans": [
+          "Hodkinson went on to talk about how he believes face masks do not work in the way people think they do, saying that policies that promote or require the use of paper or fabric masks “are simply virtue signaling.”",
+          "He continued by saying that face masks are “utterly useless,” that “there is no evidence base for their effectiveness whatsoever” and that any attempts to push mask mandates are “utterly ridiculous.”"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Hodkinson criticized social distancing protocols as useless because coronavirus spreads by aerosols traveling 30 meters or so.",
+        "spans": [
+          "Hodkinson also lambasted social distancing protocols, calling them as useless as face masks because the coronavirus is spread “by aerosols which travel 30 meters or so before landing.”"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Hodkinson said only 'one in 300,000' under 65 have died from coronavirus in Alberta and called lockdowns 'outrageous' for younger demographics.",
+        "spans": [
+          "The expert virologist noted that only “one in 300,000” under 65 have died from the coronavirus in Alberta.",
+          "Based on these statistics, it is “outrageous” for Alberta – and the rest of Canada, for that matter – to lock down their entire economies, especially for a disease that he believes is “just another bad flu” for younger demographics."
+        ]
+      }
+    ],
+    "clueweb22-en0022-69-18484": [
+      {
+        "point_number": 1,
+        "point_content": "People want a scapegoat for the immense suffering and economic fallout caused by COVID-19, and China—a foreign country and a competitor of the U.S.—is an easy target.",
+        "spans": [
+          "People want a scapegoat for the immense suffering and economic fallout caused by COVID-19, and China—a foreign country and a competitor of the U.S.—is an easy target."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Their leaders keep saying it that COVID-19 is no worse than the flu, leading people to believe it.",
+        "spans": [
+          "Their leaders keep saying it."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Early guidance on masks from the CDC and the WHO was confusing and inconsistent, leading some people to believe masks are not needed.",
+        "spans": [
+          "Early guidance on masks from the CDC and the WHO was confusing and inconsistent, suggesting that members of the general public did not need to wear masks unless they had symptoms of an infection."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Wealthy or influential figures such as Gates and Fauci are often the target of conspiracy theories, which leads people to believe COVID-19 related hoaxes.",
+        "spans": [
+          "Wealthy or influential figures such as Gates and Fauci are often the target of conspiracy theories."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Initial reports suggested hydroxychloroquine might be a potentially promising drug, and people are most likely to believe the first things they learn about a topic, a phenomenon called anchoring bias.",
+        "spans": [
+          "Initial reports suggested hydroxychloroquine might be a potentially promising drug, and people are most likely to believe the first things they learn about a topic, a phenomenon called anchoring bias."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "It is logical to wonder whether more cases are simply being detected due to increased testing, leading some to believe increases in cases are just due to more testing.",
+        "spans": [
+          "It is logical to wonder whether more cases are simply being detected—if you look only at total cases and not at the proportion of positive tests or the rates of hospitalization and death."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "People want to get back to normal life, and without a widely available COVID-19 vaccine, the only way to achieve herd immunity is to let a substantial number of people get sick, leading some to believe in herd immunity through spread.",
+        "spans": [
+          "They want to get back to normal life, and without a widely available COVID-19 vaccine, the only way to achieve herd immunity is to let a substantial number of people get sick."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "There is good reason to be cautious about the safety of any new vaccine or treatment, and the politicization of the fda under the Trump administration has raised legitimate concerns that any vaccine approval will be rushed, leading to vaccine safety fears.",
+        "spans": [
+          "There is good reason to be cautious about the safety of any new vaccine or treatment, and the politicization of the fda under the Trump administration has raised legitimate concerns that any vaccine approval will be rushed."
+        ]
+      }
+    ],
+    "clueweb22-en0028-38-05575": [
+      {
+        "point_number": 1,
+        "point_content": "People believed false claims that coronavirus was a hoax, linked to 5G or similar to the flu.",
+        "spans": [
+          "false claims that coronavirus was a hoax",
+          "linked to 5G",
+          "similar to the flu"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The couple did not follow health guidance or seek help when they fell ill because of the false claims they had seen online.",
+        "spans": [
+          "The couple didn't follow health guidance or seek help when they fell ill in early May",
+          "the couple did not follow health guidance at the start of the pandemic because of the false claims they had seen online"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "They came across conspiracy theories on Facebook that made them think the virus was a hoax or linked to 5G.",
+        "spans": [
+          "Brian and Erin both came across conspiracy theories on Facebook",
+          "We thought the government was using it to distract us",
+          "or it was to do with 5G."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Brian said he and his wife didn't have one firm belief about Covid-19, switching between thinking it was a hoax, linked to 5G, or a mild ailment.",
+        "spans": [
+          "Brian said he and his wife didn't have one firm belief about Covid-19",
+          "they switched between thinking the virus was a hoax, linked to 5G technology, or a real, but mild ailment."
+        ]
+      }
+    ],
+    "clueweb22-en0036-75-09603": [
+      {
+        "point_number": 1,
+        "point_content": "The woman claims COVID-19 is a hoax because she walked through a hospital without a mask and was not asked to wear one.",
+        "spans": [
+          "A Kansas woman is facing public backlash after she filmed herself walking through a local hospital without a mask to prove that the coronavirus is a “hoax.”",
+          "The woman, who goes by the name Darbi Blu on social media, took to Facebook on September 18 to claim that the virus is fake.",
+          "Edit: not a SINGLE doctor, nurse, or staff member requested that I wear a mask. Why? Because this whole thing is a HOAX"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "She notes that hospital staff were not wearing PPE or social distancing, and she was allowed into the ICU without a mask.",
+        "spans": [
+          "It is also notable that nurses and doctors were not wearing PPE or social distancing.",
+          "I was allowed into the nearky empty ICU and was not ordered to wear a mask."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "She believes the lack of enforcement of mask-wearing in the hospital indicates the virus is a hoax and encourages people to do their own research and not trust the media.",
+        "spans": [
+          "If that isn’t questionable to you, you may as well carve out your brain and use that unused space as a fanny pack.",
+          "Also. Do your own research. Don’t be a media sheep."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Her Facebook page contains conspiracy theories, including claims that 9/11 was a lie, indicating a general distrust of official narratives and media.",
+        "spans": [
+          "The Kansas woman’s page is littered with conspiracy theories, including claims that the September 11, 2001, terrorist attacks are a lie.",
+          "If you believe everything the media tells you you are a stupid sheep. They lied about 9/11. They will lie about anything else as long as it controls you with fear"
+        ]
+      }
+    ],
+    "clueweb22-en0002-88-02586": [
+      {
+        "point_number": 1,
+        "point_content": "People think Covid is a hoax or exaggerated because they feel manipulated and abandoned by the government, and they encounter conspiracy theories online that question the official narrative.",
+        "spans": [
+          "Feeling abandoned by the government and frustrated by the daily press briefings, Anna and her partner researched the virus online.",
+          "On Facebook, Instagram and YouTube, they came across theories about the origins of coronavirus that the mainstream media weren’t talking about",
+          "Some of it seemed implausible to Anna, but it was enough to convince her that the media wasn’t telling the full story."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Covid sceptics believe that PCR testing leads to false positives and that death rates are exaggerated, which makes them doubt the severity of the pandemic.",
+        "spans": [
+          "She read dense, seemingly scientific material which claimed that PCR testing – the throat and nasal swabs that are considered the gold standard of Covid tests – leads to enormous numbers of false positives.",
+          "She read that the World Health Organization had said that Britain is testing at too high a sensitivity.",
+          "She read about the death rate; 1% didn’t sound that high at all. Looked at another way, 99% survived."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The anti-lockdown and Covid sceptic movement includes a broad range of people who think the pandemic is exaggerated or fabricated, and they often share conspiracy theories about government motives and the virus.",
+        "spans": [
+          "At the most extreme end were outright Covid deniers, those who believed that the virus didn’t exist and the pandemic had been fabricated.",
+          "At the other were Covid sceptics or anti-lockdowners, those who thought that the numbers were exaggerated or that the government had an ulterior motive for restricting freedoms.",
+          "Over the past year, these views have attracted more and more adherents."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Many Covid sceptics distrust mainstream media and official sources, which they see as part of the lie, making it difficult to change their minds with fact-checking.",
+        "spans": [
+          "factchecking is of limited use in changing believers’ minds, because sources such as the BBC or the Office for National Statistics are seen as untrustworthy, part of the lie."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Economic hardship, personal suffering, and frustration with lockdown measures contribute to people's belief that Covid is a hoax or exaggerated.",
+        "spans": [
+          "Anna was convinced that if she caught Covid, she would die.",
+          "She was forced to close her business, a small tattoo studio that she had opened two years earlier.",
+          "She could no longer pay for the weekly counselling that had been helping her deal with her troubled childhood.",
+          "Her partner lost his job.",
+          "Feeling abandoned by the government and frustrated by the daily press briefings, Anna and her partner researched the virus online."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Covid scepticism is fueled by a mix of conspiracy theories, distrust in government, and a desire to protect personal freedoms and livelihoods.",
+        "spans": [
+          "In Britain, Covid scepticism is often framed in terms of our fundamental rights and freedoms: the right to protest, the right to make a living, the right to make our own decisions.",
+          "There is much talk of Magna Carta."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Social media platforms and messaging apps have played a significant role in spreading Covid scepticism and conspiracy theories.",
+        "spans": [
+          "Facebook groups, Instagram accounts and Telegram channels dedicated to downplaying the pandemic attracted thousands of followers.",
+          "Most migrated to Instagram, which, despite being owned by Facebook, was not subject to the same crackdown.",
+          "All the major groups made more use of their channels on Telegram, the largely unmoderated messaging app."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Some people believe that the government is manipulating data, such as artificially increasing PCR test sensitivity to inflate case numbers.",
+        "spans": [
+          "Simon Dolan told me not to “go down the 5G route” as this was a “small minority”. He went on to tell me that “we are being manipulated, without a shadow of a doubt” and that the UK is artificially turning up the sensitivity on PCR tests to give a higher infection rate “to make the government look good”."
+        ]
+      }
+    ],
+    "clueweb22-en0011-32-03298": [
+      {
+        "point_number": 1,
+        "point_content": "People thought COVID-19 was a hoax until they or someone close to them fell ill, which changed their perception of the virus.",
+        "spans": [
+          "They thought COVID-19 was a hoax, until they fell ill",
+          "“The mindset that people have is that it’s not real until it gets close to home.\"",
+          "“Till it hits a family member, then it’s real.”"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Misinformation and skepticism about COVID-19 have been fueled by social media and political polarization, including downplaying the virus by leaders and certain news sources.",
+        "spans": [
+          "President Donald Trump continues to paint a rosy outlook about the nation’s handling of the virus and to downplay its severity.",
+          "The offending video included a clip from Fox News on which the president erroneously claimed that children were “almost immune” to the virus.",
+          "Coronavirus, like the debate about vaccines, has become political.",
+          "An earlier poll conducted by Survey 160 and Gradient Metrics indicated that Fox News watchers were more likely to believe that the threat of the virus had been overblown.",
+          "An analysis conducted from October 2019 to June by the Pew Research Center found that 55 percent of adults in the U.S. “often” or “sometimes” get their news from social media.",
+          "That reliance on social media has been a concern for years."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Distrust in news media and political bias contribute to confusion and skepticism about the virus.",
+        "spans": [
+          "A Gallup/Knight Foundation poll of more than 20,000 adults published this week shows how deeply entrenched American distrust of the news media is.",
+          "A majority of Americans currently see “a great deal” (49 percent) or “a fair amount” (37 percent) of political bias in news coverage, according to the study, and more Americans see bias in news reporting that claims to be objective, with three-quarters calling it “a major problem” (73 percent), compared to 65 percent three years ago.",
+          "This media distrust, combined with national leaders playing down the virus’ seriousness, is arguably resulting in more confusion among Americans, and more American deaths."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "People's personal experiences and social bubbles influence their belief or disbelief in the virus.",
+        "spans": [
+          "Mata, 53, was diagnosed with COVID-19. He subsequently spent five days in a medically induced coma; at one point he was given less than a 40 percent chance of survival.",
+          "Green said that until the family gathering, he had gotten most of his information about the virus online, via a large network of friends from around the country whom he describes as “keyboard warriors,” “armchair doctors” and “conspiracy theorists.”",
+          "“The bubble I was in online made me think it didn’t add up,” he said."
+        ]
+      }
+    ]
+  }
+}

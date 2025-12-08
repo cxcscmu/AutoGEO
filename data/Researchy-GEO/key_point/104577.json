@@ -1,0 +1,609 @@
+{
+  "question": "how does climate change work",
+  "key_points": {
+    "clueweb22-en0015-27-11167": [
+      {
+        "point_number": 1,
+        "point_content": "Climate change is a change in the usual weather found in a place or Earth's climate.",
+        "spans": [
+          "Climate change is a change in the usual weather found in a place.",
+          "Climate change is also a change in Earth's climate."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Earth's climate is getting warmer, with temperature rising about one degree Fahrenheit in the last 100 years.",
+        "spans": [
+          "People who study Earth see that Earth's climate is getting warmer.",
+          "Earth's temperature has gone up about one degree Fahrenheit in the last 100 years."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Burning coal, oil and gas releases gases that cause the air to heat up, changing the climate.",
+        "spans": [
+          "Burning coal, oil and gas to create energy releases gases.",
+          "Burning these things puts gases into the air. The gases cause the air to heat up. This can change the climate of a place. It also can change Earth's climate."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Climate change can cause melting of snow and ice, rising oceans, and changes in plant growth timing.",
+        "spans": [
+          "Warming of Earth's climate has caused some snow and ice to melt.",
+          "The warming also has caused oceans to rise.",
+          "And it has changed the timing of when certain plants grow."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Climate change involves long-term changes in temperature and precipitation patterns, unlike weather which changes daily.",
+        "spans": [
+          "Weather can change in just a few hours. Climate takes hundreds or even millions of years to change."
+        ]
+      }
+    ],
+    "clueweb22-en0021-38-00600": [
+      {
+        "point_number": 1,
+        "point_content": "Climate change describes a change in the average conditions — such as temperature and rainfall — in a region over a long period of time.",
+        "spans": [
+          "Climate change describes a change in the average conditions — such as temperature and rainfall — in a region over a long period of time."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Earth’s average temperature has been increasing much more quickly than they would expect over the past 150 years.",
+        "spans": [
+          "Earth’s average temperature has been increasing much more quickly than they would expect over the past 150 years."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Certain gases in Earth’s atmosphere block heat from escaping. This is called the greenhouse effect.",
+        "spans": [
+          "Certain gases in Earth’s atmosphere block heat from escaping. This is called the greenhouse effect."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Human activities — such as burning fuel to power factories, cars and buses — are changing the natural greenhouse. These changes cause the atmosphere to trap more heat than it used to, leading to a warmer Earth.",
+        "spans": [
+          "Human activities — such as burning fuel to power factories, cars and buses — are changing the natural greenhouse. These changes cause the atmosphere to trap more heat than it used to, leading to a warmer Earth."
+        ]
+      }
+    ],
+    "clueweb22-en0002-78-04493": [
+      {
+        "point_number": 1,
+        "point_content": "Climate change is a long-term shift in global or regional climate patterns.",
+        "spans": [
+          "Climate change is a long-term shift in global or regional climate patterns."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Climate change refers specifically to the rise in global temperatures from the mid-20th century to present.",
+        "spans": [
+          "Often climate change refers specifically to the rise in global temperatures from the mid-20th century to present."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Climate change is the long-term alteration of temperature and typical weather patterns in a place.",
+        "spans": [
+          "Climate change is the long-term alteration of temperature and typical weather patterns in a place."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The cause of current climate change is largely human activity, like burning fossil fuels, like natural gas, oil, and coal.",
+        "spans": [
+          "The cause of current climate change is largely human activity, like\u0000burning fossil fuels, like natural gas, oil, and coal."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Burning these materials releases greenhouse gases into Earth’s atmosphere, which trap heat from the sun’s rays inside the atmosphere causing Earth’s average temperature to rise.",
+        "spans": [
+          "Burning these materials releases what are called greenhouse gases into Earth’s atmosphere. There, these gases trap heat from the sun’s rays inside the atmosphere causing Earth’s average temperature to rise."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "This rise in the planet's temperature is called global warming, which impacts local and regional climates.",
+        "spans": [
+          "This rise in the planet's temperature is called global warming. The warming of the planet impacts local and regional climates."
+        ]
+      }
+    ],
+    "clueweb22-en0032-66-11388": [
+      {
+        "point_number": 1,
+        "point_content": "The greenhouse effect is a natural process that warms the Earth, but it is getting stronger as we add greenhouse gases to the atmosphere, which is warming the climate.",
+        "spans": [
+          "Without the greenhouse effect, Earth’s temperature would be below freezing.",
+          "However, Earth’s greenhouse effect is getting stronger as we add greenhouse gases to the atmosphere.",
+          "That is warming the climate of our planet."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Climate change can be caused by natural factors like volcanic eruptions and changes in solar energy, or by human activities such as adding greenhouse gases to the atmosphere.",
+        "spans": [
+          "Factors that have the power to change global climate can be natural, like volcanic eruptions and changes in solar energy, or caused by humans, like the addition of greenhouse gases to the atmosphere."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The global average temperature has warmed over more than a century due to these factors.",
+        "spans": [
+          "For over more than a century, the global average temperature has warmed."
+        ]
+      }
+    ],
+    "clueweb22-en0031-49-18990": [
+      {
+        "point_number": 1,
+        "point_content": "Human activities (primarily the burning of fossil fuels) have fundamentally increased the concentration of greenhouse gases in Earth’s atmosphere, warming the planet.",
+        "spans": [
+          "Human activities (primarily the burning of fossil fuels) have fundamentally increased the concentration of greenhouse gases in Earth’s atmosphere, warming the planet."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Scientists attribute the global warming trend observed since the mid-20th century to the human expansion of the 'greenhouse effect' — warming that results when the atmosphere traps heat radiating from Earth toward space.",
+        "spans": [
+          "Scientists attribute the global warming trend observed since the mid-20 th century to the human expansion of the \"greenhouse effect\" 1 — warming that results when the atmosphere traps heat radiating from Earth toward space."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Certain gases in the atmosphere block heat from escaping, contributing to the greenhouse effect and climate change.",
+        "spans": [
+          "Certain gases in the atmosphere block heat from escaping."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Gases that contribute to the greenhouse effect include water vapor, carbon dioxide, methane, nitrous oxide, and chlorofluorocarbons (CFCs).",
+        "spans": [
+          "Gases that contribute to the greenhouse effect include:\nWater vapor. The most abundant greenhouse gas, but importantly, it acts as a feedback to the climate. Water vapor increases as the Earth's atmosphere warms, but so does the possibility of clouds and precipitation, making these some of the most important feedback mechanisms to the greenhouse effect.\nCarbon dioxide (CO 2 ). A minor but very important component of the atmosphere, carbon dioxide is released through natural processes such as respiration and volcano eruptions and through human activities such as deforestation, land use changes, and burning fossil fuels. Humans have increased atmospheric CO 2 concentration by 48% since the Industrial Revolution began. This is the most important long-lived \"forcing\" of climate change.\nMethane. A hydrocarbon gas produced both through natural sources and human activities, including the decomposition of wastes in landfills, agriculture, and especially rice cultivation, as well as ruminant digestion and manure management associated with domestic livestock. On a molecule-for-molecule basis, methane is a far more active greenhouse gas than carbon dioxide, but also one which is much less abundant in the atmosphere.\nNitrous oxide. A powerful greenhouse gas produced by soil cultivation practices, especially the use of commercial and organic fertilizers, fossil fuel combustion, nitric acid production, and biomass burning.\nChlorofluorocarbons (CFCs). Synthetic compounds entirely of industrial origin used in a number of applications, but now largely regulated in production and release to the atmosphere by international agreement for their ability to contribute to destruction of the ozone layer. They are also greenhouse gases."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The greenhouse effect works by trapping heat in the atmosphere, warming the Earth’s surface.",
+        "spans": [
+          "Scientists attribute the global warming trend observed since the mid-20 th century to the human expansion of the \"greenhouse effect\" 1 — warming that results when the atmosphere traps heat radiating from Earth toward space.",
+          "Certain gases in the atmosphere block heat from escaping."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Human activities such as burning fossil fuels and land use changes have increased concentrations of greenhouse gases, enhancing the natural greenhouse effect and causing global warming.",
+        "spans": [
+          "On Earth, human activities are changing the natural greenhouse. Over the last century the burning of fossil fuels like coal and oil has increased the concentration of atmospheric carbon dioxide (CO 2 ). This happens because the coal or oil burning process combines carbon with oxygen in the air to make CO 2. To a lesser extent, the clearing of land for agriculture, industry, and other human activities has increased concentrations of greenhouse gases."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "The Intergovernmental Panel on Climate Change concluded there's a more than 95 percent probability that human activities over the past 50 years have warmed our planet.",
+        "spans": [
+          "In its Fifth Assessment Report, the Intergovernmental Panel on Climate Change, a group of 1,300 independent scientific experts from countries all over the world under the auspices of the United Nations, concluded there's a more than 95 percent probability that human activities over the past 50 years have warmed our planet."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "The Sun's energy output has not increased since the 1950s and cannot explain the observed global warming trend.",
+        "spans": [
+          "The amount of solar energy that Earth receives has followed the Sun’s natural 11-year cycle of small ups and downs with no net increase since the 1950s. Over the same period, global temperature has risen markedly. It is therefore extremely unlikely that the Sun has caused the observed global temperature warming trend over the past half-century."
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0043-37-05121": [
+      {
+        "point_number": 1,
+        "point_content": "Climate change is a shift in average weather conditions caused by human activities, specifically the burning of fossil fuels which release greenhouse gases that trap the Sun's heat and cause the planet's temperature to rise.",
+        "spans": [
+          "Climate change is a shift in those average conditions.",
+          "The rapid climate change we are now seeing is caused by humans using oil, gas and coal for their homes, factories and transport.",
+          "When these fossil fuels burn, they release greenhouse gases - mostly carbon dioxide (CO2). These gases trap the Sun's heat and cause the planet's temperature to rise."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The world is now about 1.2C warmer than in the 19th Century due to increased CO2 levels, and temperature rises must slow to avoid severe consequences.",
+        "spans": [
+          "The world is now about 1.2C warmer than it was in the 19th Century - and the amount of CO2 in the atmosphere has risen by 50%.",
+          "Temperature rises must slow down if we want to avoid the worst consequences of climate change, scientists say."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "If no action is taken, global warming could exceed 4C, causing devastating heatwaves, rising sea levels, and loss of species.",
+        "spans": [
+          "If nothing is done, scientists think global warming could exceed 4C in the future, leading to devastating heatwaves, millions losing their homes to rising sea levels and irreversible loss of plant and animal species."
+        ]
+      }
+    ],
+    "clueweb22-en0039-19-14209": [
+      {
+        "point_number": 1,
+        "point_content": "Energy from the Sun drives climate by heating Earth’s surface unevenly.",
+        "spans": [
+          "Energy from the Sun drives climate by heating Earth’s surface unevenly."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Ice reflects incoming sunlight, cooling the poles and setting ocean and atmosphere in motion to distribute heat around the planet.",
+        "spans": [
+          "Ice also reflects incoming sunlight, cooling the poles even more. The temperature difference sets the ocean and atmosphere in motion as they work together to distribute heat around the planet."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Movement of heat by the atmosphere and ocean gives rise to climate and weather.",
+        "spans": [
+          "Movement of heat by the atmosphere and ocean gives rise to climate and weather."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Climate is the average weather over decades or longer, influenced by the interaction of various components of the climate system.",
+        "spans": [
+          "Climate is the average weather over decades or longer."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Earth’s climate system relies on many interrelated pieces working together: cryosphere, atmosphere, lithosphere, biosphere, and hydrosphere.",
+        "spans": [
+          "Earth’s climate system is like a body: it relies on many interrelated pieces working together to function.",
+          "Cryosphere (snow and ice): Cools Earth by reflecting incoming sunlight, limiting how much heat is absorbed by the surface.",
+          "Atmosphere (air): Insulates Earth by trapping heat and transporting heat and water vapor.",
+          "Lithosphere (solid earth): Absorbs solar energy, radiates heat and stores carbon; continents and landforms help direct ocean and wind currents.",
+          "Biosphere (living things): Organisms take up carbon and exchange it with the atmosphere and ocean.",
+          "Hydrosphere (water): The ocean absorbs heat and carbon, transports them around the planet and naturally controls atmospheric CO 2."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "The ocean holds much more CO2 and heat than the atmosphere and acts as a control knob by absorbing or releasing carbon and heat in response to atmospheric changes.",
+        "spans": [
+          "The ocean holds 50 times more CO 2 and 1,000 times more heat than the atmosphere.",
+          "The ocean is also crucial to climate. It acts as a control knob, absorbing or releasing carbon and heat in response to changes in the atmosphere."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Burning fossil fuels releases stored carbon into the atmosphere as CO2, disrupting the natural carbon cycle and climate balance.",
+        "spans": [
+          "Burning fossil fuels releases carbon that has been stored underground for millions of years, instantly adding it to the atmosphere as CO 2.",
+          "Burning fossil fuels releases carbon into the atmosphere more rapidly than natural processes can remove it, disrupting the balance of the carbon cycle."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Earth has seasons because its axis of spin is tilted, causing the amount of solar energy warming each hemisphere to shift during the year.",
+        "spans": [
+          "Earth has seasons because its axis of spin is tilted (see diagram). This causes the amount of solar energy warming each hemisphere to shift based on where the planet is in its yearly orbit."
+        ]
+      }
+    ],
+    "clueweb22-en0019-38-08108": [
+      {
+        "point_number": 1,
+        "point_content": "Climate change refers to long-term shifts in temperatures and weather patterns, primarily driven by human activities since the 1800s, especially burning fossil fuels.",
+        "spans": [
+          "Climate change refers to long-term shifts in temperatures and weather patterns.",
+          "But since the 1800s, human activities have been the main driver of climate change, primarily due to burning fossil fuels like coal, oil and gas."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Burning fossil fuels generates greenhouse gas emissions that trap the sun’s heat and raise temperatures.",
+        "spans": [
+          "Burning fossil fuels generates greenhouse gas emissions that act like a blanket wrapped around the Earth, trapping the sun’s heat and raising temperatures."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Greenhouse gases causing climate change include carbon dioxide and methane, coming from sources like gasoline, coal, land clearing, and landfills.",
+        "spans": [
+          "Examples of greenhouse gas emissions that are causing climate change include carbon dioxide and methane.",
+          "These come from using gasoline for driving a car or coal for heating a building, for example.",
+          "Clearing land and forests can also release carbon dioxide.",
+          "Landfills for garbage are a major source of methane emissions."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Greenhouse gas concentrations are at their highest levels in 2 million years, causing the Earth to be about 1.1°C warmer than in the late 1800s.",
+        "spans": [
+          "Greenhouse gas concentrations are at their highest levels in 2 million years",
+          "As a result, the Earth is now about 1.1°C warmer than it was in the late 1800s."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Climate change causes a range of consequences including droughts, water scarcity, fires, rising sea levels, flooding, melting ice, storms, and biodiversity loss.",
+        "spans": [
+          "The consequences of climate change now include, among others, intense droughts, water scarcity, severe fires, rising sea levels, flooding, melting polar ice, catastrophic storms and declining biodiversity."
+        ]
+      }
+    ],
+    "clueweb22-en0009-09-01133": [
+      {
+        "point_number": 1,
+        "point_content": "Human activity is the main cause of climate change, primarily through burning fossil fuels and converting land from forests to agriculture.",
+        "spans": [
+          "Human activity is the main cause of climate change.",
+          "People burn fossil fuels and convert land from forests to agriculture."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Burning fossil fuels produces carbon dioxide, a greenhouse gas that causes the greenhouse effect, making the earth warmer.",
+        "spans": [
+          "Burning fossil fuels produces carbon dioxide, a greenhouse gas.",
+          "It is called a greenhouse gas because it produces a “greenhouse effect”.",
+          "The greenhouse effect makes the earth warmer, just as a greenhouse is warmer than its surroundings."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Carbon dioxide is the main cause of human-induced climate change and stays in the atmosphere for a very long time.",
+        "spans": [
+          "Carbon dioxide is the main cause of human-induced climate change.",
+          "It stays in the atmosphere for a very long time."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Climate forcers, such as carbon dioxide and other substances, affect the flow of energy into and out of the earth’s climate system, pushing the climate towards being warmer or cooler.",
+        "spans": [
+          "Carbon dioxide and other substances are referred to as climate forcers because they force or push the climate towards being warmer or cooler.",
+          "They do this by affecting the flow of energy coming into and leaving the earth’s climate system."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Since the Industrial Revolution, adding greenhouse gases has been over 50 times more powerful than changes in the Sun's radiance in causing climate change.",
+        "spans": [
+          "But since the Industrial Revolution, adding greenhouse gases has been over 50 times more powerful than changes in the Sun's radiance."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Future emissions of greenhouse gases, particularly carbon dioxide, will determine how much more climate warming occurs.",
+        "spans": [
+          "Future emissions of greenhouse gases, particularly carbon dioxide, will determine how much more climate warming occurs."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Global warming can only be stopped by reducing global emissions of carbon dioxide from human fossil fuel combustion and industrial processes to zero.",
+        "spans": [
+          "Global warming can only be stopped by reducing global emissions of carbon dioxide from human fossil fuel combustion and industrial processes to zero"
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Climate change is a long-term shift in weather conditions caused by changes in energy balance due to natural or human factors.",
+        "spans": [
+          "Climate change is a long-term shift in weather conditions identified by changes in temperature, precipitation, winds, and other indicators.",
+          "Any factor that causes a sustained change to the amount of incoming energy or the amount of outgoing energy can lead to climate change.",
+          "Factors that cause climate change can be divided into two categories ­- those related to natural processes and those related to human activity."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Human activities since the Industrial Revolution have increased greenhouse gases, enhancing the natural greenhouse effect and causing warming.",
+        "spans": [
+          "Since the beginning of the Industrial Revolution, these human influences on the climate system have increased substantially.",
+          "The overall effect of human activities since the Industrial Revolution has been a warming effect, driven primarily by emissions of carbon dioxide and enhanced by emissions of other greenhouse gases.",
+          "The build-up of greenhouse gases in the atmosphere has led to an enhancement of the natural greenhouse effect."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Short-lived climate forcers like methane and black carbon contribute to warming, while others like sulphate aerosols contribute to cooling.",
+        "spans": [
+          "Some short-lived climate forcers have a climate warming effect (‘positive climate forcers')",
+          "This includes methane and tropospheric ozone – both greenhouse gases – and black carbon, a small solid particle formed from the incomplete combustion of carbon-based fuels (coal, oil and wood for example).",
+          "Other short-lived climate forcers have climate cooling effects, most notably sulphate aerosols."
+        ]
+      }
+    ],
+    "clueweb22-en0023-51-18364": [
+      {
+        "point_number": 1,
+        "point_content": "Climate change is caused by the buildup of carbon dioxide (CO2) and other greenhouse gases in the atmosphere.",
+        "spans": [
+          "the amount of carbon dioxide (CO 2) and other greenhouse gases in the atmosphere"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Human activities such as generating electricity, burning oil for transportation, using refrigerants, and manufacturing processes emit large amounts of greenhouse gases.",
+        "spans": [
+          "Many vital parts of our economy emit huge amounts of greenhouse gases: the way we generate electricity and heat for our buildings and industry; the oil we burn to power our cars, trucks and planes; the refrigerants we use to preserve our food and cool our buildings; and the intensive manufacturing processes for making concrete and steel."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Reducing emissions by replacing fossil fuels with carbon-free alternatives and capturing CO2 can help stop the rise in atmospheric CO2.",
+        "spans": [
+          "We can replace high-emitting fuels like coal, oil and gas with nearly “carbon-free” alternatives, such as solar power, wind power, or nuclear power.",
+          "We can capture the CO 2 from fossil fuel power and manufacturing plants and store it underground."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Removing CO2 already in the atmosphere through reforestation, soil carbon storage, or direct air capture is possible but not fast enough to offset current emissions.",
+        "spans": [
+          "We can add to these efforts by trying to remove some of the CO 2 that is already in the atmosphere: for instance, by reforesting the Earth, by changing our farming practices to store more carbon in the soil, or through “direct air capture” technology."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "If carbon emissions are cut in half by 2030 and net zero by 2050, the worst threats of climate change can be avoided.",
+        "spans": [
+          "If, by 2030, we cut our carbon emissions in about half – and, by 2050, we don’t emit any more carbon emissions than the planet can absorb each year – scientists predict that we can avoid the worst threats of climate change."
+        ]
+      }
+    ],
+    "clueweb22-en0038-02-07562": [
+      {
+        "point_number": 1,
+        "point_content": "Climate change is an ongoing process caused by human activities that increase greenhouse gases, leading to global temperature rise and changes in weather patterns.",
+        "spans": [
+          "Though we often think about human-induced climate change as something that will happen in the future, it is an ongoing process.",
+          "Global temperatures rose about 1.98°F (1.1°C) from 1901 to 2020, but climate change refers to more than an increase in temperature.",
+          "The amount of carbon dioxide in the atmosphere has risen by 25% since 1958, and by about 40% since the Industrial Revolution."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Climate change causes a variety of impacts including sea level rise, changes in precipitation patterns, droughts, floods, and impacts on ecosystems and human health.",
+        "spans": [
+          "It also includes sea level rise, changes in weather patterns like drought and flooding, and much more.",
+          "Sea level rise has accelerated from 1.7 mm/year throughout most of the twentieth century to 3.2 mm/year since 1993.",
+          "Flooding is an increasing issue as our climate is changing.",
+          "Conversely, drought is also becoming more common, particularly in the Western United States."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Greenhouse gases like carbon dioxide and methane continue to rise despite economic slowdowns, driving climate change.",
+        "spans": [
+          "Levels of the two most important anthropogenic greenhouse gases, carbon dioxide and methane, continued their unrelenting rise in 2020 despite the economic slowdown caused by the coronavirus pandemic response."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Climate change impacts are interconnected and affect various sectors such as agriculture, human health, ecosystems, and infrastructure.",
+        "spans": [
+          "The impacts of climate change on different sectors of society are interrelated.",
+          "Drought can harm food production and human health.",
+          "Flooding can lead to disease spread and damages to ecosystems and infrastructure.",
+          "Human health issues can increase mortality, impact food availability, and limit worker productivity."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Climate change effects are unevenly distributed, with vulnerable and underserved communities facing greater risks due to socioeconomic inequities.",
+        "spans": [
+          "However, climate change impacts are uneven across the country and the world — even within a single community, climate change impacts can differ between neighborhoods or individuals.",
+          "Long-standing socioeconomic inequities can make  underserved groups, who often have the highest exposure to hazards and the fewest resources to respond, more vulnerable."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Reducing greenhouse gas emissions quickly can limit the most negative outcomes of climate change and has co-benefits like job growth and improved public health.",
+        "spans": [
+          "Experts believe there is still time to avoid the most negative of outcomes by limiting warming and reducing emissions to zero as quickly as possible.",
+          "Reducing our emissions of greenhouse gases will require investment in new technology and infrastructure, which will spur job growth.",
+          "Additionally, lowering emissions will lessen harmful impacts to human health, saving countless lives and billions of dollars in health-related expenses."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Climate change leads to earlier snowmelt and reduced snowpack, affecting freshwater availability especially in regions dependent on snowmelt.",
+        "spans": [
+          "Snowpack is an important source of freshwater for many people.",
+          "But as temperatures warm, there is less snow overall and snow begins to melt earlier in the year, meaning snowpack may not be a reliable source of water for the entire warm and dry seasons."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Climate change affects food production by increasing temperatures, drought, water stress, and diseases, which challenge farmers and livestock health.",
+        "spans": [
+          "Increased temperatures, drought and water stress, diseases, and weather extremes create challenges for the farmers and ranchers who put food on our tables.",
+          "Human farm workers can suffer from heat-related health issues, like exhaustion, heatstroke, and heart attacks.",
+          "Rising temperatures and heat stress can also harm livestock."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Climate change impacts human health through heat stress, stronger hurricanes, wildfires, flooding, and expanded ranges of disease-carrying insects.",
+        "spans": [
+          "Climate change is already impacting human health.",
+          "Heat is one of the most deadly weather phenomena.",
+          "As ocean temperatures rise, hurricanes are getting stronger and wetter, which can cause direct and indirect deaths.",
+          "Dry conditions lead to more wildfires, which bring many health risks.",
+          "Higher incidences of flooding can lead to the spread of waterborne diseases, injuries, and chemical hazards.",
+          "As geographic ranges of mosquitoes and ticks expand, they can carry diseases to new locations."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Climate change causes ocean acidification and sea level rise, threatening marine life and coastal areas.",
+        "spans": [
+          "The ocean absorbs about 30% of the carbon dioxide that is released into the atmosphere from the burning of fossil fuels.",
+          "As a result, the water is becoming more acidic, affecting marine life.",
+          "Sea levels are rising due to thermal expansion, in addition to melting ice sheets and glaciers, putting coastal areas at greater risk of erosion and storm surge."
+        ]
+      }
+    ],
+    "clueweb22-en0028-72-04536": [
+      {
+        "point_number": 1,
+        "point_content": "Climate change is how the characteristics of the weather we experience in a certain place change.",
+        "spans": [
+          "Climate change is how the characteristics of the weather we experience in a certain place change."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Global warming is a term used interchangeably with climate change, but climate change includes more effects than just warming.",
+        "spans": [
+          "Global warming is a term used interchangeably with climate change, although the latter is preferred because the warming atmosphere and oceans are just some of the effects we see."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The main driver of current climate change is the emission of greenhouse gases, primarily from burning fossil fuels.",
+        "spans": [
+          "The main driver of current climate change is the emission of greenhouse gases, most importantly carbon dioxide and methane. These are primarily released when fossil fuels are burnt."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Greenhouse gases trap heat in our atmosphere by absorbing infrared radiation and emitting it in all directions, causing more heat to be kept near Earth's surface.",
+        "spans": [
+          "Energy from the Sun falls on our planet and normally gets reflected back as infrared radiation. But instead of escaping back out into space, this radiation gets absorbed by molecules of greenhouse gases, which then emit them in all directions.",
+          "This process causes more heat to be kept near Earth's surface, warming our world."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "There is clear evidence that temperatures are rising and that greenhouse gases from fossil fuel combustion are causing this change.",
+        "spans": [
+          "There are measuring stations all around the world that keep track of air and sea temperature. From these measurements it's clear that temperatures are rising.",
+          "We know that greenhouse gases are causing change.",
+          "It's also known that greenhouse gases are primarily emitted by fossil fuel combustion."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Climate change causes varied effects including hotter or wetter conditions, longer dry periods, and more extreme weather events like hurricanes and floods.",
+        "spans": [
+          "It can get hotter or wetter on average or have more concentrated rain in a short period, but then get longer dry periods.",
+          "Extreme weather events - such as hurricanes, heatwaves, drought, wildfires and floods - are predicted to become more intense and frequent."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Melting ice and thermal expansion of water due to warming cause sea levels to rise.",
+        "spans": [
+          "When the world warms, ice melts.",
+          "Water expands as it warms - this is known as thermal expansion. This effect means that the ocean takes up more space, causing sea levels to rise."
+        ]
+      }
+    ]
+  }
+}

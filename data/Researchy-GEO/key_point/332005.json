@@ -1,0 +1,85 @@
+{
+  "question": "what processes need to be implemented and authorities notified of discrepancies in trust accounting?",
+  "key_points": {
+    "null": [],
+    "clueweb22-en0034-77-03788": [
+      {
+        "point_number": 1,
+        "point_content": "Licensees under the Property and Stock Agents Act 2002 must hold clients’ funds in a trust account and these funds must be disbursed as the client directs.",
+        "spans": [
+          "Licensees under the Property and Stock Agents Act 2002 (the Act) must hold clients’ funds in a trust account.",
+          "Those funds cannot be used for any purpose other than for that client and must be disbursed as the client directs."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Only a licensee in charge (LIC) may authorise trust account withdrawals and is responsible for reviewing and approving all transactions before they occur.",
+        "spans": [
+          "Only a licensee in charge (LIC) of a business may authorise trust account withdrawals from a trust account.",
+          "This means that LICs are responsible for reviewing and approving all transactions for the trust account before they occur, including electronic fund transfers and payment of trust money by cheque."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "If a licensee allows another person to withdraw funds from the trust account on their behalf, they may still be held liable for any breach or defalcation.",
+        "spans": [
+          "LICs should be aware that if they allow another person to withdraw funds from the trust account on their behalf, they may still be held liable for any breach or defalcation."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Licensees must notify the authorised deposit-taking institution in writing that the account is a ‘trust account’ when opening a trust account.",
+        "spans": [
+          "licensees need to notify the authorised deposit-taking institution in writing that the account is a ‘trust account’ required by the Act"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Licensees must provide the authorised deposit-taking institution with a unique identifying number given by NSW Fair Trading for each trust account opened.",
+        "spans": [
+          "Under the Property and Stock Agents Regulation 2014, a licensee who opens a trust account must provide the authorised deposit-taking institution (bank) with a unique identifying number given by NSW Fair Trading.",
+          "Each trust account must have a unique identifying number."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "A licensee must, within 14 days after closing a trust account, notify Fair Trading online or complete the Green Form and submit it to NSW Fair Trading.",
+        "spans": [
+          "A licensee must, within 14 days after closing a trust account, either: notify Fair Trading online through Service NSW, or complete the Green Form and submit it to NSW Fair Trading."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Licensees must make reasonable efforts to locate the owner of any outstanding money in the trust account and unclaimed trust money must be returned to Revenue NSW.",
+        "spans": [
+          "A licensee must make reasonable efforts to locate the owner of any outstanding money in the trust account.",
+          "Money held in a trust account by a former licensee or the personal representative of a deceased licensee is unclaimed money and must be returned to the Revenue NSW within three months after the person ceased to be a licensee or became a personal representative."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Licensees' records in relation to the handling of trust money must be audited and audits must be submitted to the Secretary within 3 months after the end of the audit period and no later than 30 September of that year.",
+        "spans": [
+          "Licensees' records in relation to the handling of trust money must be audited.",
+          "All audits must be submitted to the Secretary within 3 months after the end of the audit period and no later than 30 September of that year."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "If a trust account audit is not submitted by the due date, licensees could be disqualified from holding or renewing a licence.",
+        "spans": [
+          "If a trust account audit is not submitted by the due date, licensees could be disqualified from holding or renewing a licence."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "If an auditor’s report isn't lodged by the due date or not lodged at all, Fair Trading will contact you and take action based on your circumstances, including possible disciplinary action or fines.",
+        "spans": [
+          "If an auditor’s report isn't lodged by the due date or not lodged at all, and you don't have an acceptable reason. Fair Trading will contact you and take action based on your circumstances.",
+          "Failure to lodge by the due date makes an individual or corporation a disqualified person under the Act and liable to disciplinary action.",
+          "Alternatively, Fair Trading could issue a $550 fine for a late lodged audit by an individual or $1,100 for a corporation."
+        ]
+      }
+    ]
+  }
+}

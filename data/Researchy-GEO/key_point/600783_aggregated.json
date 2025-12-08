@@ -1,0 +1,199 @@
+{
+  "question": "can 100% renewable energy power the world?",
+  "key_points": [
+    {
+      "point_number": 1,
+      "point_content": "The world currently uses 35 billion barrels of oil annually, indicating a massive scale of fossil fuel dependence that pollutes the earth and is unsustainable.",
+      "original_point_number": [
+        1
+      ]
+    },
+    {
+      "point_number": 2,
+      "point_content": "There are abundant renewable energy sources such as sun, water, and wind available, with solar energy radiating about 173 quadrillion Watts at the earth, almost 10,000 times our present energy needs.",
+      "original_point_number": [
+        2,
+        5
+      ]
+    },
+    {
+      "point_number": 3,
+      "point_content": "Renewable energy still provides only about 13% of the world’s energy needs, and other renewable sources like hydroelectric, geothermal, and biomass have limits based on availability and location.",
+      "original_point_number": [
+        4,
+        9
+      ]
+    },
+    {
+      "point_number": 4,
+      "point_content": "To maximize efficiency, solar plants must be located in areas with lots of sunshine year-round, like deserts, which are far from densely populated regions where energy demand is high, requiring a global electrical energy network to transport power, which is expensive and loses 6-8% energy due to resistance.",
+      "original_point_number": [
+        6,
+        7
+      ]
+    },
+    {
+      "point_number": 5,
+      "point_content": "Superconductors could transport electricity without dissipation but currently only work at low temperatures, requiring energy to cool them, which defeats the purpose.",
+      "original_point_number": [
+        8
+      ]
+    },
+    {
+      "point_number": 6,
+      "point_content": "Energy storage is a scientific challenge; lithium-ion batteries store much less energy per kilogram than gasoline, making them less competitive for transport, especially for large vessels like ships and planes.",
+      "original_point_number": [
+        10
+      ]
+    },
+    {
+      "point_number": 7,
+      "point_content": "Converting solar energy into chemical energy is a promising solution but currently has low efficiency and is not market-ready.",
+      "original_point_number": [
+        11
+      ]
+    },
+    {
+      "point_number": 8,
+      "point_content": "Transitioning to 100% renewable energy is a complex problem involving technology, economics, and politics, but there is optimism due to ongoing scientific breakthroughs and investments, with no roadblocks and technical solutions available using today's technology, which are affordable especially given the sinking costs of wind and solar power.",
+      "original_point_number": [
+        3,
+        12,
+        13,
+        14,
+        15
+      ]
+    },
+    {
+      "point_number": 9,
+      "point_content": "Hydrogen or synthetic gas produced with renewable electricity can be used for times when other storage solutions fail during low wind and solar periods.",
+      "original_point_number": [
+        16
+      ]
+    },
+    {
+      "point_number": 10,
+      "point_content": "There are a series of technical solutions for maintaining grid stability, from rotating grid stabilisers to newer electronics-based solutions.",
+      "original_point_number": [
+        17
+      ]
+    },
+    {
+      "point_number": 11,
+      "point_content": "It’s possible to switch to a fully sustainable global energy landscape within the next 30 years, with energy for electricity, transport, building heating or cooling, and industry supplied reliably with 100% or near-100% renewable energy at different locations around the world.",
+      "original_point_number": [
+        18,
+        19
+      ]
+    },
+    {
+      "point_number": 12,
+      "point_content": "Countries responsible for 99.7% of global CO2 emissions can switch to 100% clean, renewable wind, water and solar power no later than 2050, with at least 80% renewables by 2030, and after 2050 to 2052, it’s possible to power the planet entirely by sustainable energy through regional cooperation on grid stability and energy storage.",
+      "original_point_number": [
+        20,
+        21
+      ]
+    },
+    {
+      "point_number": 13,
+      "point_content": "Replacing fossil fuels with mainly wind and solar power is entirely possible by 2030 in North America with a renewables super grid, but requires full support of policymakers and investors.",
+      "original_point_number": [
+        22
+      ]
+    },
+    {
+      "point_number": 14,
+      "point_content": "Saudi Arabia can transition to a 100% renewable energy system by 2040, with solar power accounting for 79% of the country's energy demand by 2050.",
+      "original_point_number": [
+        23
+      ]
+    },
+    {
+      "point_number": 15,
+      "point_content": "The technology exists for the world to transition to a fully sustainable energy system by 2050, which should keep the planet below the 1.5° Paris global warming target.",
+      "original_point_number": [
+        24
+      ]
+    },
+    {
+      "point_number": 16,
+      "point_content": "A new report by LUT University in Finland and the Energy Watch Group (EWG) in Germany outlines a cross-sector, global 100% renewable energy system, backing up the version it released last year, with a full modelling study simulating a total global energy transition in the electricity, heat, transport and desalination sectors by 2050.",
+      "original_point_number": [
+        26,
+        27
+      ]
+    },
+    {
+      "point_number": 17,
+      "point_content": "The study claims that a transition to 100% renewable energy would lead to a system that is economically competitive with the current fossil and nuclear-based system, could reduce greenhouse gas emissions in the energy system to zero by 2050 or earlier without relying on negative CO2 emission technologies, and shows that all countries can and should accelerate the current Paris Climate Agreement targets.",
+      "original_point_number": [
+        28,
+        29,
+        30
+      ]
+    },
+    {
+      "point_number": 18,
+      "point_content": "A transition to 100% clean, renewable energies is highly realistic even today with the technologies currently available, and the report confirms that such a transition is possible across all sectors and is no longer more expensive than the current energy system.",
+      "original_point_number": [
+        31,
+        32
+      ]
+    },
+    {
+      "point_number": 19,
+      "point_content": "The whole world can make the transition to a zero emission energy system, requiring comprehensive electrification in all energy sectors, with electricity consumption in 2050 accounting for more than 90% of the primary energy consumption, and consumption of fossil and nuclear energy resources in all sectors ceasing completely.",
+      "original_point_number": [
+        33,
+        34,
+        35,
+        36
+      ]
+    },
+    {
+      "point_number": 20,
+      "point_content": "The global primary energy generation in the 100% renewable energy system will consist of solar energy (69%), wind power (18%), hydro (3%), bioenergy (6%) and geothermal energy (2%), with wind and solar accounting for 96% of the total power supply of renewable sources by 2050, produced virtually exclusively from decentralised local and regional generation.",
+      "original_point_number": [
+        37,
+        38
+      ]
+    },
+    {
+      "point_number": 21,
+      "point_content": "100% renewables are more cost-effective: the energy costs for a fully sustainable energy system will decrease from €54/MWh in 2015 to €53/MWh in 2050.",
+      "original_point_number": [
+        39
+      ]
+    },
+    {
+      "point_number": 22,
+      "point_content": "The transition in all sectors will reduce the annual greenhouse gas emissions in the energy sector from roughly 30 Gt CO2-equivalent in 2015 to zero by 2050.",
+      "original_point_number": [
+        40
+      ]
+    },
+    {
+      "point_number": 23,
+      "point_content": "A 100%-renewable electricity system will employ 35 million people worldwide, phasing out roughly 9 million jobs in the worldwide coal mining sector from 2015 by 2050, overcompensated by over 15 million new jobs in the renewable energy sector.",
+      "original_point_number": [
+        41,
+        42,
+        43
+      ]
+    },
+    {
+      "point_number": 24,
+      "point_content": "The transition to a global energy system based on 100% renewables can be achieved before 2050 if a strong policy framework is implemented.",
+      "original_point_number": [
+        44
+      ]
+    },
+    {
+      "point_number": 25,
+      "point_content": "The video is titled 'Can 100% renewable energy power the world?'.",
+      "original_point_number": [
+        25
+      ]
+    }
+  ]
+}

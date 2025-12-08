@@ -1,0 +1,321 @@
+{
+  "question": "what human activities affect climate change",
+  "key_points": {
+    "null": [],
+    "clueweb22-en0012-15-11268": [
+      {
+        "point_number": 1,
+        "point_content": "Human activities have increased the abundance of heat-trapping gases in the atmosphere. This increase is mostly due to burning fossil fuels, such as coal, oil, and natural gas.",
+        "spans": [
+          "Human activities have increased the abundance of heat-trapping gases in the atmosphere.",
+          "This increase is mostly due to burning fossil fuels, such as coal, oil, and natural gas."
+        ]
+      }
+    ],
+    "clueweb22-en0034-25-04457": [
+      {
+        "point_number": 1,
+        "point_content": "Human-caused global climate change is primarily due to the release, through our activities, of greenhouse gases.",
+        "spans": [
+          "Human-caused global climate change is primarily due to the release, through our activities, of greenhouse gases"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Burning fossil fuels releases carbon dioxide, a major greenhouse gas, contributing significantly to climate change.",
+        "spans": [
+          "The process of burning fossil fuels releases various pollutants, as well as an important greenhouse gas, carbon dioxide"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Transportation accounts for approximately 14% of total greenhouse gas emissions due to gasoline and diesel use.",
+        "spans": [
+          "We know that the use of gasoline and diesel to power vehicles is a large contributor, but overall transportation only accounts for approximately 14% of total greenhouse gas emissions"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Electricity production by coal, gas, or oil-burning power plants is the single largest source of greenhouse gas emissions, with 20% of all emissions.",
+        "spans": [
+          "The single largest culprit is electricity production by coal, gas, or oil-burning power plants, with 20% of all emissions"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Industrial processes using fossil fuels, including production of synthetic fertilizers, contribute to greenhouse gas emissions.",
+        "spans": [
+          "The various industrial processes that use fossil fuels are also to blame. For example, large quantities of natural gas are needed to produce the synthetic fertilizers used in conventional agriculture"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Extraction and processing of coal, natural gas, or oil release greenhouse gases, making up 11% of total emissions.",
+        "spans": [
+          "Just the process of extracting and processing coal, natural gas, or oil involves the release of greenhouse gases -- those activities make up 11% of the total emissions"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Cement production releases massive amounts of carbon dioxide due to a chemical reaction.",
+        "spans": [
+          "Cement production hinges on a chemical reaction that releases massive amounts of carbon dioxide"
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Land clearing and deforestation release carbon stored in soil and trees, accounting for 10% of all greenhouse gas emissions.",
+        "spans": [
+          "Land clearing (for agriculture or other types of land use) exposes the soil which allows the release of carbon dioxide",
+          "Deforestation, especially associated with burning, allows a lot of the carbon stored in tree roots, branches, and leaves to be released into the atmosphere. It's not a trivial amount: together, land clearing and burning account for 10% of all greenhouse gas emissions"
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Methane is produced in large quantities by microorganisms in rice fields and by cattle and other herbivorous livestock.",
+        "spans": [
+          "Methane (the main constituent in natural gas) is produced in large quantities by microorganisms present in rice fields, making rice production a significant contributor to climate change. And it's not just rice: lots of methane is also produced by cattle and other herbivorous livestock"
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Thawing permafrost in Arctic regions releases carbon dioxide and methane, creating a feedback loop that accelerates warming.",
+        "spans": [
+          "Temperatures are warming especially fast in Arctic regions, and there the thawing permafrost is releasing both carbon dioxide and methane. By 2100, it is estimated that 16 to 24% of the permafrost will have thawed, entering a vicious feedback loop: as permafrost thaws, it releases stored carbon dioxide and methane, which further warms the climate, melts more permafrost and releases more greenhouse gases"
+        ]
+      }
+    ],
+    "clueweb22-en0038-78-01561": [
+      {
+        "point_number": 1,
+        "point_content": "Human activities have increased the concentration of greenhouse gases in the atmosphere since the Industrial Revolution.",
+        "spans": [
+          "Since the Industrial Revolution, human activities have increased the concentration of greenhouse gases in the atmosphere."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Carbon dioxide levels have risen due to deforestation and burning of fossil fuels.",
+        "spans": [
+          "Carbon dioxide levels have risen as a consequence of deforestation and the burning of fossil fuels."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Methane levels have surged as a result of raising livestock and growing rice.",
+        "spans": [
+          "Methane levels have surged as a result of raising livestock and growing rice."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The anthropogenic greenhouse effect has led to a global temperature increase of approximately 1.0°C above pre-industrial levels.",
+        "spans": [
+          "To date, the anthropogenic greenhouse effect has led to a global temperature increase of approximately 1.0°C above pre-industrial levels."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "To limit warming to 1.5°C, we need to reduce our greenhouse gas emissions drastically.",
+        "spans": [
+          "To achieve this, we need to reduce our greenhouse gas emissions drastically."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Anthropogenic aerosols, such as pollutants or smoke, can increase cloud formation and potentially offset global warming.",
+        "spans": [
+          "Aerosols are much more than simply what you find in a hairspray can. They can be natural (such as dust or sea salt) or anthropogenic (such as pollutants or smoke). An increase in anthropogenic aerosols could therefore result in more cloud formation, which (depending on the cloud height) could potentially offset the full extent of global warming."
+        ]
+      }
+    ],
+    "clueweb22-en0005-81-00774": [
+      {
+        "point_number": 1,
+        "point_content": "Human activities driving large scale changes include land and sea use; the hunting and harvesting of organisms; pollution; and invasive species introductions.",
+        "spans": [
+          "Human activities are driving large scale changes through land and sea use; the hunting and harvesting of organisms; pollution; and invasive species introductions"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Greenhouse gases emitted from land use and the escalating use of fossil fuels are elevating Earth’s temperature.",
+        "spans": [
+          "Greenhouse gases emitted from land use and the escalating use of fossil fuels are elevating Earth’s temperature faster than at any point since the dawn of civilization"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Burning of fossil fuels since the industrial era has increased greenhouse gas emissions, mainly carbon dioxide.",
+        "spans": [
+          "Starting around 1750, growing and industrializing populations ramped up the burning of fossil fuels, emitting heat-trapping greenhouse gases—namely carbon dioxide (CO 2 )—into the atmosphere"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Clearing of forests and other natural ecosystems for farming and development releases greenhouse gases and reduces carbon absorption capacity.",
+        "spans": [
+          "Meanwhile, the clearing of forests and other natural ecosystems for farming and development has released additional greenhouse gases while reducing capacity for carbon absorption"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Fossil fuels burning for electricity, heat production, manufacturing, industry, buildings, and transportation are major sources of greenhouse gas emissions.",
+        "spans": [
+          "Close to three-quarters of global greenhouse gas emissions are from fossil fuels",
+          "The majority of these come from electricity and heat production (30%); manufacturing, industry, and buildings (23%); and transportation (16%)"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Agriculture, land use, and forestry contribute close to 20% of all human-caused greenhouse gas emissions.",
+        "spans": [
+          "Tallyed together, global agricultural systems, land use, and forestry contribute close to 20% of all human-caused greenhouse gas emissions"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Deforestation, especially tropical deforestation, is a significant source of CO2 emissions.",
+        "spans": [
+          "Data from Global Forest Watch reveal that tropical deforestation, which is pervasive in many of the world’s low- and middle-income regions, currently accounts for 8% of the world’s annual CO 2 emissions"
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Agricultural practices such as deforestation for cattle grazing and commercial crops, and industrial agriculture contribute to greenhouse gas emissions and environmental degradation.",
+        "spans": [
+          "The leading contributor to global forest loss is agriculture",
+          "Expanding industrial agriculture—large-scale farms and livestock operations—disproportionately contributes to soil degradation, unsustainable water use, biodiversity loss, and waste production"
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Ruminant livestock (cattle, sheep, goats) produce significant methane emissions, a potent greenhouse gas.",
+        "spans": [
+          "About half of those production emissions come from ruminant livestock, namely cattle, sheep, and goats",
+          "These animals are major sources of methane pollution, a greenhouse gas roughly 30 times more potent than carbon dioxide"
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Manure management, soils, and nitrogen fertilizer in industrial agriculture account for a large portion of nitrous oxide emissions, a potent greenhouse gas.",
+        "spans": [
+          "manure management, soils, and nitrogen fertilizer used in industrial agriculture account for roughly two-thirds of nitrous oxide emissions, which carry nearly 300 times the warming potential of carbon dioxide over a century"
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Transportation fueled largely by oil contributes significantly to greenhouse gas emissions, especially in wealthy countries with high car reliance.",
+        "spans": [
+          "Transportation, including cars, buses, airplanes, and ships, is fueled largely by oil",
+          "In the United States, for example, where heavy reliance on cars has encouraged sprawling development, the transportation sector generates 28% of the country’s greenhouse gas emissions"
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "A small number of fossil fuel corporations are responsible for a large share of energy-related carbon dioxide and methane emissions.",
+        "spans": [
+          "just 20 companies are responsible for 35% of energy-related carbon dioxide and methane emissions since 1965",
+          "Close to 70% of emissions can be linked back to just 103 fossil fuel and cement companies"
+        ]
+      }
+    ],
+    "clueweb22-en0000-94-03517": [
+      {
+        "point_number": 1,
+        "point_content": "Human activities increase the abundance of greenhouse gases in the atmosphere, amplifying Earth’s natural greenhouse effect.",
+        "spans": [
+          "human activities are amplifying Earth’s natural greenhouse effect"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Human-emitted heat-trapping gases include carbon dioxide, methane, nitrous oxide, ozone, and various chlorofluorocarbons.",
+        "spans": [
+          "Carbon dioxide, methane, nitrous oxide, ozone, and various chlorofluorocarbons are all human-emitted heat-trapping gases"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Humans put an estimated 9.5 billion metric tons of carbon into the atmosphere each year by burning fossil fuels.",
+        "spans": [
+          "humans are putting an estimated 9.5 billion metric tons of carbon into the atmosphere each year by burning fossil fuels"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Humans put another 1.5 billion metric tons of carbon into the atmosphere each year through deforestation and other land cover changes.",
+        "spans": [
+          "another 1.5 billion through deforestation and other land cover changes"
+        ]
+      }
+    ],
+    "clueweb22-en0031-49-18990": [
+      {
+        "point_number": 1,
+        "point_content": "Human activities (primarily the burning of fossil fuels) have fundamentally increased the concentration of greenhouse gases in Earth’s atmosphere, warming the planet.",
+        "spans": [
+          "Human activities (primarily the burning of fossil fuels) have fundamentally increased the concentration of greenhouse gases in Earth’s atmosphere, warming the planet."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Carbon dioxide is released through human activities such as deforestation, land use changes, and burning fossil fuels.",
+        "spans": [
+          "carbon dioxide is released through natural processes such as respiration and volcano eruptions and through human activities such as deforestation, land use changes, and burning fossil fuels."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Methane is produced by human activities including the decomposition of wastes in landfills, agriculture, rice cultivation, ruminant digestion and manure management associated with domestic livestock.",
+        "spans": [
+          "Methane. A hydrocarbon gas produced both through natural sources and human activities, including the decomposition of wastes in landfills, agriculture, and especially rice cultivation, as well as ruminant digestion and manure management associated with domestic livestock."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Nitrous oxide is produced by soil cultivation practices, especially the use of commercial and organic fertilizers, fossil fuel combustion, nitric acid production, and biomass burning.",
+        "spans": [
+          "Nitrous oxide. A powerful greenhouse gas produced by soil cultivation practices, especially the use of commercial and organic fertilizers, fossil fuel combustion, nitric acid production, and biomass burning."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The burning of fossil fuels like coal and oil has increased the concentration of atmospheric carbon dioxide (CO2).",
+        "spans": [
+          "On Earth, human activities are changing the natural greenhouse. Over the last century the burning of fossil fuels like coal and oil has increased the concentration of atmospheric carbon dioxide (CO 2 )."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "The clearing of land for agriculture, industry, and other human activities has increased concentrations of greenhouse gases.",
+        "spans": [
+          "To a lesser extent, the clearing of land for agriculture, industry, and other human activities has increased concentrations of greenhouse gases."
+        ]
+      }
+    ],
+    "clueweb22-en0014-36-07096": [
+      {
+        "point_number": 1,
+        "point_content": "Humans burn fossil fuels, produce livestock and clear trees, increasing the amount of heat-trapping gases in the atmosphere.",
+        "spans": [
+          "We're the ones who burn fossil fuels, produce livestock and clear trees, increasing the amount of heat-trapping gases in the atmosphere."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Burning carbon-based materials emits carbon dioxide (CO2).",
+        "spans": [
+          "Simple chemistry – When we burn carbon-based materials, carbon dioxide (CO2) is emitted (research beginning in the 1900s)."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Chemical analysis shows the increase in atmospheric CO2 is from burning fossil fuels.",
+        "spans": [
+          "Chemical analysis of the atmospheric CO2 that reveals the increase is coming from burning fossil fuels (research beginning in the 1950s)."
+        ]
+      }
+    ]
+  }
+}

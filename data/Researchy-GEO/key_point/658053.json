@@ -1,0 +1,162 @@
+{
+  "question": "should trial by jury be abolished",
+  "key_points": {
+    "null": [],
+    "clueweb22-en0012-82-01844": [
+      {
+        "point_number": 1,
+        "point_content": "Juries have played a central part of the English legal system for hundreds of years and are described as 'the lamp that shows freedom lives'.",
+        "spans": [
+          "juries have played a central part of the English legal system for hundreds of years",
+          "Lord Devlin famously declared the jury to be “the lamp that show’s freedom lives”"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The jury has three key functions: decide facts and guilt, add certainty to the law without giving reasons, and represent the just face of the criminal justice system.",
+        "spans": [
+          "The jury has long been described as having three key functions: Firstly, to decide the facts and upon those facts determine guilt. Secondly, to add certainty to the law and giving a verdict without reasons. And finally, to represent the just face of the criminal justice system, since it can arrive at its unchallengeable decision on any basis it chooses."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Article 6 of the European Convention on Human Rights requires a trial by an independent and impartial tribunal, but does not state that judge only trials are automatically unfair.",
+        "spans": [
+          "Article 6 of the European Convention on Human Rights (ECHR) requires a trial by an independent and impartial tribunal established by law. There is nothing in this statute which states that a judge only trial automatically renders a trial unfair."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "In a judge only trial, the judge must give reasons for their decision, unlike a jury which does not have to give reasons for their verdict.",
+        "spans": [
+          "In a judge only trial a judge is given all the powers of a jury but must give reasons for their decision. By stark comparison, a jury does not have to give any reasons for their verdict at all."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Diplock Trials in Northern Ireland used a single judge rather than a jury for serious cases but were controversial and eventually abolished except for terrorist cases.",
+        "spans": [
+          "In 1973 the controversial ‘Diplock Trials’ were introduced and used a single judge rather than a jury in around one third of all serious criminal cases in Northern Ireland.",
+          "Diplock trials were used in more than 300 cases a year in Northern Ireland at one point, however, they were eventually abolished in 2007, now only being used for terrorist related cases."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "The UK Government in 1999-2000 attempted to abolish the defendant’s right to jury trials in either way cases but the right to trial by jury was preserved.",
+        "spans": [
+          "Between 1999 and 2000, the UK Government made two abortive attempts to abolish the defendant’s right of election for a jury trials in either way cases.",
+          "The then Select Committee on Home Affairs stated that they believed “the right to trial by jury should be preserved unless there are cogent reasons for ordering a trial without a jury”."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "The backlog of criminal trials has increased significantly due to court closures and legal aid cuts, exacerbated by the Covid-19 pandemic.",
+        "spans": [
+          "Many court buildings have been closed, and a good number of those which remain do so in terrible states of disrepair.",
+          "In 2018/19, only 160 of the initial 250 recorder vacancies were filled due to the Ministry of Justice decision to restrict the number of judges sitting in courts nationwide.",
+          "significant legal aid cuts throughout the profession and particularly in the criminal justice division have meant that even before the Covid-19 crisis the backlog of criminal trials had reached 37,500 cases in December 2019.",
+          "This number has steadily grown since the implementation of lockdown court closures and with only a small percentage of crown courts having resumed jury trials recently the hopes of clearing the ever-increasing backlog is nowhere near in sight."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Removing jury trials may save money but risks eroding public confidence in the criminal justice system.",
+        "spans": [
+          "To remove jury trials may save some much-needed money; in 2012, reform proposals to scrap jury trials in minor triable either-way cases were argued to save the country £30 million a year.",
+          "There is an argument that judge-only trials risks further eroding the confidence the public has in the criminal justice system which promotes as a fundamental principle that justice must not only be done but also be seen to be done."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Judges are less representative of society compared to juries, with low diversity among judges and higher prosecution rates for BAME individuals.",
+        "spans": [
+          "Judicial statistics show that last year of 873 Recorder Judges in the UK only 24 were black and of 127 District Judges in the magistrates’ court, there were only eight black persons appointed.",
+          "The most recent government statistics show that across England and Wales a black person is ten times more likely than a white person to be stopped and searched and BAME (black, Asian and minority ethnic) individuals have an overall higher rate of prosecution."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Defendants often prefer jury trials as juries are more likely to share life experiences with them than judges.",
+        "spans": [
+          "Defendants continue to frequently take their chances with 12 random people, from 12 walks of life, with 12 different life experiences over a single judge or magistrates when they are facing custodial sentences."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "A reduced jury panel of seven is suggested as an alternative to preserve jury trials and help clear backlog while ensuring social distancing.",
+        "spans": [
+          "A widely discussed alternative to the removal of jury trials is the introduction of a reduced jury panel of seven."
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "Juries should see live evidence to observe witnesses' demeanour and body language, which cannot be properly achieved without live jurors.",
+        "spans": [
+          "juries should ‘see the whites of a witnesses eyes’, and be permitted to take from a witnesses demeanour and body language, every smirk, every glance towards the dock that they see fit; this cannot be properly achieved without live evidence and better still, live jurors."
+        ]
+      },
+      {
+        "point_number": 13,
+        "point_content": "The author advises clients to consider electing for a jury trial, believing '12 heads are better than one'.",
+        "spans": [
+          "I shall continue to advise my clients to carefully consider electing for a jury trial, I mean 12 heads are better than one, or at least that’s how I remember the saying."
+        ]
+      }
+    ],
+    "clueweb22-en0015-16-06417": [
+      {
+        "point_number": 1,
+        "point_content": "The court system in England and Wales is approaching collapse with a huge backlog of cases due to Covid.",
+        "spans": [
+          "The Covid pandemic has led to a reported buildup of 457,000 criminal cases, an increase of about 100,000 since the pandemic began. More than half of England and Wales’s 410 courthouses are reported to be “unsafe” or out of use."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Jury trials are archaic and should be abandoned other than in exceptional cases.",
+        "spans": [
+          "Jury trials are archaic, and should be abandoned other than in exceptional cases."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Jury trials are costly, often distort justice, and are a relic of medieval civic duty.",
+        "spans": [
+          "After three terms as a juryman, I am convinced that juries are a costly indulgence. They have nothing to do with justice except often to distort it.",
+          "Few countries any longer use juries, and most of them are former British colonies, such as the US, Canada and Australia. They are a relic of medieval civic duty that once embraced compulsory service as constables, vestrymen and dog-catchers."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The jury system contributes to an obsession with imprisonment as punishment in England and Wales.",
+        "spans": [
+          "I am convinced that a significant reason is that the jury system presents each case as a staged drama enveloped in publicity, an echo of a public hanging. Jurors naturally associate guilt with imprisonment, and judges tend to do likewise.",
+          "Either way, our system is obsessed with imprisonment above all other forms of punishment."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Most substantive disagreements in criminal trials are technical and not clarified by legal rhetoric, and jury verdicts never give reasons, increasing susceptibility to appeals.",
+        "spans": [
+          "Most substantive disagreement in criminal trials is over identity, digital electronics or detailed finance. These issues are usually of technical fact, rather than a balance of observation. They are rarely clarified by legal rhetoric, any more than would be a surgical operation or a scientific experiment.",
+          "In addition, jury verdicts never give reasons, which must increase their susceptibility to being appealed."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Jury trials are waning in use, with plea bargaining covering more than 97% of federal cases in the US, and juries retreating from complex cases in Britain.",
+        "spans": [
+          "In the US, they are waning fast in the face of what is now the overwhelming use of plea bargaining, covering more than 97% of federal cases.",
+          "In Britain, juries have retreated from civil cases and complex frauds, and more recently domestic abuse and where there is a risk of tampering."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "The exclusivity of barristers is on the wane, with solicitor-advocates admitted to courtrooms to improve efficiency.",
+        "spans": [
+          "The exclusivity of the 16,000 barristers in England and Wales is also on the wane. They have seen the admission of some 6,000 specialist “ solicitor-advocates ” into courtrooms, a process that must improve efficiency."
+        ]
+      }
+    ]
+  }
+}

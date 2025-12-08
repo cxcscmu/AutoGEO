@@ -1,0 +1,404 @@
+{
+  "question": "is media bias fact check credible",
+  "key_points": {
+    "clueweb22-en0034-79-08874": [
+      {
+        "point_number": 1,
+        "point_content": "Media Bias Fact Check initially published a review of Just Facts that contained demonstrable falsehoods and simplistic critiques, suggesting Media Bias Fact Check is either inept and/or dishonest.",
+        "spans": [
+          "Those two sentences contain three demonstrable falsehoods:",
+          "The flagrant and simplistic nature of these bogus critiques suggests that Media Bias Fact Check is either inept and/or dishonest."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Media Bias Fact Check declared PolitiFact as the gold standard for political fact checking, but Just Facts documented PolitiFact's extensive record of propagating falsehoods.",
+        "spans": [
+          "As further evidence of its untrustworthiness, Media Bias Fact Check has declared that PolitiFact “is the gold standard for political fact checking.” To the contrary, Just Facts has documented that PolitiFact has an extensive record of propagating falsehoods."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Media Bias Fact Check re-reviewed Just Facts and rated it as Least Biased with high factual reporting but noted a slight rightward bias based on story choices and ownership bias.",
+        "spans": [
+          "Media Bias Fact Check Review of Just Facts as of 5/2/2017",
+          "LEAST BIASED",
+          "Factual Reporting: HIGH",
+          "Our third criteria is Story Choices (do they cover both sides). In this category Just Facts selected a variety of policy topics and the actual research does offer both sides of the story using facts. However, in this category we found a slight rightward bias based on the selection of information presented. This was minimal however and may be due to reviewer bias.",
+          "When added up this website scores 1.5 Right, which falls within the Least Biased category."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Media Bias Fact Check rated Just Facts Daily as having a right-center bias with high factual reporting but noted excessive use of loaded emotional words in headlines favoring conservative causes.",
+        "spans": [
+          "Media Bias Fact Check Review of Just Facts Daily as of 5/2/2017",
+          "RIGHT-CENTER BIAS",
+          "Factual Reporting: HIGH",
+          "The right-center bias designation comes from multiple factors. First, there is excessive use of loaded emotional words in the headlines.",
+          "Overall, the article is well sourced and for the most part is accurate. The bias is conveyed through the author’s attempt to show that Obama and Clinton are mostly responsible for the rise of ISIS, due to abiding to the SOFA agreement signed by former President Bush.",
+          "In summary, this is a factual website from a sourcing standpoint and impressively researched. It does however convey a right leaning bias through story selection that is more favorable toward conservative causes and more negative toward liberal policy. There is also extensive use of loaded negative emotional words when describing the left."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Media Bias Fact Check's initial review of Just Facts was criticized by Just Facts for being misleading and containing falsehoods, leading to a re-review and revision of the article by Media Bias Fact Check.",
+        "spans": [
+          "From Just Facts president Jim Agresti to Media Bias Fact Check",
+          "From Media Bias Fact Check president Dave Van Zandt to Just Facts president Jim Agresti",
+          "I want to apologize for the previous review. The reviewer clearly zeroed in on one issue and did not look at the big picture. I feel in my review I did do that. I removed that review and replaced it with mine."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Despite revisions, Just Facts maintains that Media Bias Fact Check cannot be taken seriously due to ongoing inaccuracies and illogical arguments in their critiques.",
+        "spans": [
+          "In sum, more than enough evidence is presented above and below to show that Media Bias Fact Check cannot be taken seriously."
+        ]
+      }
+    ],
+    "clueweb22-en0005-59-11643": [
+      {
+        "point_number": 1,
+        "point_content": "Media Bias/Fact Check is run by Dave Van Zandt, who has limited formal qualifications and uses a subjective rating system.",
+        "spans": [
+          "Media Bias/Fact Check bills itself as \"The most comprehensive media bias resource.\" It's run by Dave Van Zandt, making it fair to say it's run by \"some guy\" (\" Dave studied Communications in college\" is his main claim to expertise)."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Media Bias/Fact Check uses a subjective 0-10 scale in four categories to rate bias, which lacks objective measures.",
+        "spans": [
+          "The method for (rating bias) is determined by ranking bias  in four different categories. In each category the source is rated on a  0-10 scale, with 0 meaning without bias and 10 being the maximum  bias(worst). These four numbers are then added up and divided by 4. This 0-10 number is then placed on the line according to their Left or  Right bias.",
+          "This system makes PolitiFact's \"Truth-O-Meter\" almost look objective by comparison. An 11-point scale? To obtain objectivity with an 11-point scale would require a very finely-grained system of objective bias measures--something that probably nobody on the planet has even dreamt of achieving.",
+          "Likely Van Zandt regards only the fourth category as subjective. All four are subjective unless Van Zandt has kept secret additional criteria he uses to judge bias.",
+          "There is nothing to go on except for one's own subjective notion of where any observed bias falls on the 0-10 scale.",
+          "A rating scale that fails to base its ratings on quantifiable data is worthless. Van Zandt's ratings are worthless except to tell you his opinion."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Van Zandt's rating of PolitiFact as 'Least-biased' is contradicted by his own poll and other sources.",
+        "spans": [
+          "Media Bias/Fact Check rates PolitiFact as a \"Least-biased\" source of information.",
+          "Van Zandt even has an opt-in poll on his PolitiFact page asking visitors how they rate PolitiFact's bias. Most of the respondents disagree with the site's rating of PolitiFact.",
+          "Over 50 percent of Van Zandt's respondents rated PolitiFact biased to the left."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The author criticizes Media Bias/Fact Check's methodology as subjective and lacking objective backing data, advising caution in trusting its ratings.",
+        "spans": [
+          "Until Dave Van Zandt adds objective markers to the MB/FC rating scales and justifies every rating with real objective data, take the ratings with a boulder of salt. They're worthless without specific backing data."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Media Bias/Fact Check updated PolitiFact's rating to 'Left-Center Bias' in 2021, but the author still questions the objectivity of this rating.",
+        "spans": [
+          "MB/FC updated its rating of PolitiFact to \"Left-Center Bias\" with an update time-stamped 04/28/2021:",
+          "Van Zandt's 2021 update vanishes the 2018 update. It would be better to keep the publication and update dates all intact and link each to an appropriate URL at the Internet Archive.",
+          "The fact that Van Zandt has come around to our position does not mean that either one of us has rendered an objective judgment of PolitiFact's bias."
+        ]
+      }
+    ],
+    "clueweb22-en0024-04-09986": [
+      {
+        "point_number": 1,
+        "point_content": "Media Bias Fact Check (MBFC) is used and recommended by various universities and fact-checking sites, indicating a level of reliability.",
+        "spans": [
+          "I see numerous fact checking sites use or suggest Media Bias Fact Check for people to do their own fact checking.",
+          "I also see it used by MIT, University of Michigan, and others to not only train AI fact checking bots, but also for other uses."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "MBFC publishes their methodology and research on each page, and uses other well-known fact checking sites to do their research.",
+        "spans": [
+          "This site publishes their methodology, includes their research on each page (example ), and uses other well-known fact checking sites to do their research"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "MBFC is generally found to be reliable and closely mirrors other fact checking sites that are considered reliable.",
+        "spans": [
+          "With MBFC generally closely mirroring other fact checking sites that are also found to be reliable (in my Baseline Research above) and the fact that the information is updated moderately regularly, I'd give Media Bias\\Fact Check the thumbs up for being a reliable source."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "MBFC has critics and some criticisms about sample size and methodology, but these are common issues for new fact-checking sites and are being addressed over time.",
+        "spans": [
+          "There's plenty of criticism about MBFC, but mostly from people who think their ratings are wrong.",
+          "The problems she mentions about MBFC (and Ad Fontes) in her article seemingly have been since addressed and hints at a bias against non-professional fact checkers, like herself.",
+          "While MBFC has it's problems and critics, so do all other fact checking sites.",
+          "Some of the problems come from \"too small\" of a sample of a site.",
+          "It just means that more time and effort is needed to get a larger sample size, and with continuing checks of the sites, the ratings will become more accurate over time."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "MBFC's research is done by humans who have biases, but they take steps to address mistakes when made aware of them.",
+        "spans": [
+          "It's research is done by humans who have biases, even if they are unconscious biases.",
+          "However, when they are made aware of mistakes, they take steps to address the issue."
+        ]
+      }
+    ],
+    "clueweb22-en0037-09-07944": [
+      {
+        "point_number": 1,
+        "point_content": "Media Bias/Fact Check site owner admits he is unqualified and misrepresented himself as a seasoned journalist.",
+        "spans": [
+          "MEDIA BIAS/FACT CHECK site owner admits he is unqualified and misrepresented himself as a seasoned journalist.",
+          "Van Zandt Cites No Scientific Qualifications At All",
+          "Van Zandt Was Exposed By WND As A Fraud And A Liar",
+          "Asked for information concerning his expertise in the field of journalism and evaluating news sources, Van Zandt told WND: “I am not a journalist and just a person who is interested in how media bias impacts politics. You will find zero claims of expertise on the website.”"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Media Bias/Fact Check admits its methodology is not a tested scientific method and is subjective.",
+        "spans": [
+          "Disclaimer: The methodology used by Media Bias Fact Check is our own.  It is not a tested scientific method.  It is meant as a simple guide for people to get an idea of a source’s bias.  Media Bias Fact Check will always review and change any factual errors when brought to our attention.  We make every effort to be as factual as possible.  Our goal is to have MBFC rated as least biased by our own criteria.",
+          "Ironically, the self-styled ‘ MEDIA BIAS/FACT CHECK ‘ (MB/FC)  which negatively fact-checked PSI admits it relies on the subjective bias to decide how biased others are. In other words, MB/FC is a pseudoscientific fact checker!"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Media Bias/Fact Check was served with a cease and desist legal notice for publishing unsubstantiated and defamatory claims against Principia Scientific International (PSI).",
+        "spans": [
+          "Discredited, self-styled ‘fact-checker’ website was served with a ‘cease and desist’ legal notice today for publishing unsubstantiated and defamatory claims against Principia Scientific International (PSI).",
+          "Today, PSI has issued Media Bias/Fact Check (MBFC) site owner, Dave Van Zandt with a pre-action legal notice to take down the defamatory and false smear."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Media Bias/Fact Check labels Principia Scientific International as conspiracy-pseudoscience without providing specific evidence.",
+        "spans": [
+          "According to MEDIA BIAS/FACT CHECK, Principia Scientific International CIC is: “CONSPIRACY-PSEUDOSCIENCE Sources in the Conspiracy-Pseudoscience category may publish unverifiable information that is not always supported by evidence. These […]”",
+          "you also fail to cite which specific PSI posts are pseudoscience, you condemn all our members, which compounds your own bias."
+        ]
+      }
+    ],
+    "clueweb22-en0028-63-07177": [
+      {
+        "point_number": 1,
+        "point_content": "Media Bias Fact Check is the most comprehensive media bias resource on the internet with over 4500 media sources and journalists listed in their database.",
+        "spans": [
+          "We are the most comprehensive media bias resource on the internet. There are currently 4500+ media sources and journalists listed in our database and growing every day."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Media Bias Fact Check selects and publishes fact checks from around the world each day.",
+        "spans": [
+          "Each day Media Bias Fact Check selects and publishes fact checks from around the world."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Media Bias Fact Check categorizes sources by bias and trustworthiness, including categories like Conspiracy-Pseudoscience, Right-Center Bias, Right Bias, Left Bias, Questionable Source, and Least Biased.",
+        "spans": [
+          "CONSPIRACY-PSEUDOSCIENCE Sources in the Conspiracy-Pseudoscience category may publish unverifiable information that is not always supported by evidence.",
+          "RIGHT-CENTER BIAS These media sources are slightly to moderately conservative in bias.",
+          "RIGHT BIAS These media sources are moderately to strongly biased toward conservative causes through story selection.",
+          "LEFT BIAS These media sources are moderate to strongly biased toward liberal causes through story selection.",
+          "QUESTIONABLE SOURCE A questionable source exhibits one or more of the following: extreme bias, consistent promotion of...",
+          "LEAST BIASED These sources have minimal bias and use very few loaded words (wording that attempts..."
+        ]
+      }
+    ],
+    "clueweb22-en0022-71-04533": [
+      {
+        "point_number": 1,
+        "point_content": "Factcheck.org is a least biased credible fact-checker that is Very High for factual reporting due to impeccable sourcing of information.",
+        "spans": [
+          "Overall, Factcheck.org is a least biased credible fact-checker that is Very High for factual reporting due to impeccable sourcing of information."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "FactCheck.org has minimal bias and uses very few loaded words, the reporting is factual and usually sourced, making it one of the most credible media sources.",
+        "spans": [
+          "These sources have minimal bias and use very few\u0000loaded words (wording that attempts to influence an audience by using\u0000appeal to emotion or stereotypes).  \u0000The reporting is factual and usually sourced.  \u0000These are the most credible media sources."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "FactCheck.org is a nonprofit website that describes itself as a non-partisan consumer advocate for voters aiming to reduce deception and confusion in U.S. politics, and is a project of the Annenberg Public Policy Center.",
+        "spans": [
+          "FactCheck.org is a nonprofit website that describes itself as a non-partisan \u001consumer advocate for voters that aims to reduce the level of deception and confusion in U.S. politics.\u001c It is a project of the Annenberg Public Policy Center of the Annenberg School for Communication at the University of Pennsylvania."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Factcheck.org provides well-sourced unbiased fact-checking and is used by Media Bias Fact Check as a resource to check claims when reviewing sources, and is on their Top 10 Fact Checker list.",
+        "spans": [
+          "Factcheck.org provides well-sourced unbiased fact-checking. Quite simply, Factcheck.org can be trusted to provide accurate fact checks with minimal bias. Factcheck.org is used by Media Bias Fact Check as a resource to check claims when reviewing sources. They are on our Top 10 Fact Checker list."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "FactCheck.org is funded and owned by the Annenberg Foundation, which receives grants from the Bill and Melinda Gates Foundation.",
+        "spans": [
+          "The Annenberg Foundation owns and funds Factcheck.org. The Annenberg Foundation receives grants from the Bill and Melinda Gates Foundation."
+        ]
+      }
+    ],
+    "clueweb22-en0042-12-01365": [
+      {
+        "point_number": 1,
+        "point_content": "Media Bias/Fact Check rates Rumble as Right Biased and Questionable with Low Credibility.",
+        "spans": [
+          "Overall, we rate Rumble Right Biased and Questionable based on the promotion of right-wing propaganda and conspiracy theories and false information, use of poor sources, and a lack of transparency.",
+          "MBFC Credibility Rating: LOW CREDIBILITY"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Rumble promotes right-wing propaganda, conspiracy theories, false information, and lacks transparency.",
+        "spans": [
+          "Reasoning: Propaganda, Conspiracy, Poor Sourcing, False Information, Lack of Transparency"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Rumble's video content has failed numerous fact checks.",
+        "spans": [
+          "The video content on Rumble has failed numerous fact checks."
+        ]
+      }
+    ],
+    "clueweb22-en0033-79-05333": [
+      {
+        "point_number": 1,
+        "point_content": "Their methodology for rating websites appears sound, and they do explain how they rate each website.",
+        "spans": [
+          "Their methodology for rating websites appears sound, and they do explain how they rate each website."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "There is some degree of bias/subjectivity in rating different criteria, but they themselves recognize this.",
+        "spans": [
+          "There is some degree of bias/subjectivity in rating different criteria, but they themselves recognize this"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "They are up front with their methodology and admitted limitations, which is a strong sign.",
+        "spans": [
+          "They are up front with their methodology and admitted limitations, which is a strong sign."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "They also list reputable fact-checkers here, which gives some credence to their motives.",
+        "spans": [
+          "They also list reputable fact-checkers here, which gives some credence to their motives."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Before submitting, please check that another credible service (Politifact, Snopes, Factcheck.org) has not fact checked the topic.",
+        "spans": [
+          "Before submitting, please check that another credible service (Politifact, Snopes, Factcheck.org) has not fact checked the topic."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "It is accurate to some extent but one has to take the ratings they give with a grain of salt and do your own fact checking.",
+        "spans": [
+          "It is accurate to some extent but one has to take the ratings they give with a grain of salt and do your own fact checking."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Any \"Fact Checker\" that rates  Snopes and Factcheck.org as unbiased can not possibly be unbiased.",
+        "spans": [
+          "Any \"Fact Checker\" that rates  Snopes and Factcheck.org as unbiased can not possibly be unbiased."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Mediabiasfactcheck.com is definitely biased with a hard lean to the left.",
+        "spans": [
+          "Mediabiasfactcheck.com is definitely biased with a hard lean to the left."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "There is little to no transparency in their \"rating\" of these sources.",
+        "spans": [
+          "There is little to no transparency in their \"rating\" of these sources."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "They seem to give low ratings on how factual a source is based on things that I would not consider sound as opposed to just disfavoring a given political leaning.",
+        "spans": [
+          "they seem to give low ratings on how factual a source is based on things that I would not consider sound as opposed to just disfavoring a given political leaning"
+        ]
+      }
+    ],
+    "clueweb22-en0035-58-07484": [
+      {
+        "point_number": 1,
+        "point_content": "Media Bias/Fact Check (MBFC) is an American fact-checking website founded in 2015 by editor Dave M. Van Zandt.",
+        "spans": [
+          "Media Bias/Fact Check (MBFC) is an American fact-checking website founded in 2015 by editor Dave M. Van Zandt."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "It uses a 0-10 scale to rate sites on two areas: bias and factual accuracy.",
+        "spans": [
+          "It uses a 0-10 scale to rate sites on two areas: bias and factual accuracy."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "It has been criticised for its methodology and accuracy.",
+        "spans": [
+          "It has been criticised for its methodology and accuracy."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Van Zandt and his team use a 0–10 scale to rate sites for biased wording, headlines, actuality, sourcing, story choices, and political affiliation.",
+        "spans": [
+          "Van Zandt and his team use a 0–10 scale to rate sites for biased wording, headlines, actuality, sourcing, story choices, and political affiliation."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "There is a criteria for factual accuracy based on failed fact checks.",
+        "spans": [
+          "There is a criteria for factual accuracy based on failed fact checks."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "The site has been used by researchers at the University of Michigan to create a tool called the \"Iffy Quotient\", which draws data from Media Bias/Fact Check and NewsWhip to track the prevalence of \"fake news\" and questionable sources on social media.",
+        "spans": [
+          "The site has been used by researchers at the University of Michigan to create a tool called the \"Iffy Quotient\", which draws data from Media Bias/Fact Check and NewsWhip to track the prevalence of \"fake news\" and questionable sources on social media."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "According to Daniel Funke and Alexios Mantzarlis of the Poynter Institute, \"Media Bias/Fact Check is a widely cited source for news stories and even studies about misinformation, despite the fact that its method is in no way scientific.\"",
+        "spans": [
+          "According to Daniel Funke and Alexios Mantzarlis of the Poynter Institute, \"Media Bias/Fact Check is a widely cited source for news stories and even studies about misinformation, despite the fact that its method is in no way scientific.\""
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "In 2018, the Columbia Journalism Review described Media Bias/Fact Check as an amateur attempt at categorizing media bias and characterized their assessments as \"subjective assessments [that] leave room for human biases, or even simple inconsistencies, to creep in\".",
+        "spans": [
+          "In 2018, the Columbia Journalism Review described Media Bias/Fact Check as an amateur attempt at categorizing media bias and characterized their assessments as \"subjective assessments [that] leave room for human biases, or even simple inconsistencies, to creep in\"."
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,513 @@
+{
+  "question": "should people in prison be allowed to vote",
+  "key_points": [
+    {
+      "point_number": 1,
+      "point_content": "Only Maine and Vermont allow prisoners to vote while incarcerated; the other 48 states bar incarcerated people from voting, with Puerto Rico also allowing it.",
+      "original_point_number": [
+        1,
+        11,
+        40,
+        49
+      ]
+    },
+    {
+      "point_number": 2,
+      "point_content": "Voting rights restoration laws vary widely by state; some states automatically restore voting rights after release, while others require completion of sentence, parole, or probation, and some require a waiting period or individualized review.",
+      "original_point_number": [
+        5,
+        6,
+        48,
+        52,
+        108
+      ]
+    },
+    {
+      "point_number": 3,
+      "point_content": "Democratic presidential candidates have differing views on felon voting rights, with some supporting voting as an inherent right and others suggesting voting rights be restored after sentence completion and proof of rehabilitation.",
+      "original_point_number": [
+        2,
+        106
+      ]
+    },
+    {
+      "point_number": 4,
+      "point_content": "Opponents argue criminals lose the privilege to vote due to disrespecting the law, must prove reform to regain voting rights, and should not vote before completing their sentences and showing remorse.",
+      "original_point_number": [
+        3,
+        21,
+        26,
+        32,
+        46,
+        51,
+        56,
+        58,
+        106
+      ]
+    },
+    {
+      "point_number": 5,
+      "point_content": "Advocates for felon voting rights highlight flaws in the criminal justice system, argue voting restrictions silence millions of citizens, disproportionately impact minorities, and that voting is a fundamental democratic right and an inherent right of citizenship.",
+      "original_point_number": [
+        4,
+        8,
+        13,
+        14,
+        20,
+        41,
+        42,
+        50,
+        53,
+        54,
+        70
+      ]
+    },
+    {
+      "point_number": 6,
+      "point_content": "The debate about prisoner voting rights is influenced by politics and race, with felony disenfranchisement laws disproportionately affecting black Americans and having historical ties to racial discrimination.",
+      "original_point_number": [
+        7,
+        8,
+        54,
+        118,
+        119,
+        121
+      ]
+    },
+    {
+      "point_number": 7,
+      "point_content": "Research shows allowing or disallowing prisoners and ex-felons to vote has little effect on election outcomes, and concerns about prisoners creating a loyal voting bloc for certain political parties are unfounded.",
+      "original_point_number": [
+        9,
+        23,
+        47,
+        66
+      ]
+    },
+    {
+      "point_number": 8,
+      "point_content": "Allowing prisoners and ex-felons to vote may have significant personal and societal benefits, such as fostering citizenship, encouraging criminal justice reform, aiding rehabilitation, improving prison conditions, addressing racial disparities, maintaining community ties, and reducing prison gerrymandering.",
+      "original_point_number": [
+        10,
+        12,
+        15,
+        16,
+        17,
+        33,
+        35,
+        44,
+        50,
+        55,
+        61,
+        62,
+        63,
+        74,
+        75,
+        76,
+        82,
+        105
+      ]
+    },
+    {
+      "point_number": 9,
+      "point_content": "Denying prisoners the right to vote may undermine respect for the rule of law and social ties, damage their dignity and sense of self-worth, and is an unwarranted infringement upon their human rights that does not protect the public.",
+      "original_point_number": [
+        18,
+        27,
+        34,
+        72,
+        75,
+        78,
+        83,
+        84,
+        89,
+        90,
+        93
+      ]
+    },
+    {
+      "point_number": 10,
+      "point_content": "Restrictions on fundamental rights like voting must be justified and are generally retained by inmates unless necessary for prison administration; disenfranchisement is arbitrary, unrelated to the gravity of the offence, and unlikely to deter crime.",
+      "original_point_number": [
+        19,
+        36,
+        37,
+        38,
+        39,
+        45,
+        57,
+        59,
+        94
+      ]
+    },
+    {
+      "point_number": 11,
+      "point_content": "Voting rights for convicted felons vary substantially from state to state; most states do not allow voting while incarcerated but restore rights after release or parole, which is reasonable to ensure rehabilitation before voting rights are restored.",
+      "original_point_number": [
+        52,
+        48
+      ]
+    },
+    {
+      "point_number": 12,
+      "point_content": "Prisoners remain human beings and citizens while incarcerated and should be respected and included in society through enfranchisement; denying them the vote implies civil death and is inappropriate in a modern democratic society.",
+      "original_point_number": [
+        27,
+        28,
+        29,
+        30,
+        31,
+        65,
+        69,
+        71,
+        74,
+        78,
+        83,
+        84,
+        89,
+        90
+      ]
+    },
+    {
+      "point_number": 13,
+      "point_content": "Allowing incarcerated individuals to vote can help them obtain true citizenship, encourage positive societal reintegration, and promote civic responsibility and engagement in the political process.",
+      "original_point_number": [
+        12,
+        33,
+        35,
+        44,
+        63,
+        92
+      ]
+    },
+    {
+      "point_number": 14,
+      "point_content": "Voting encourages prisoners to take an interest in current affairs, which aids their reintegration into society and rehabilitation, which is essential to avoid re-offending after release.",
+      "original_point_number": [
+        33,
+        35,
+        44,
+        92
+      ]
+    },
+    {
+      "point_number": 15,
+      "point_content": "Prisoners are liable for taxation on any earnings and savings they have; therefore, there should be no taxation without representation.",
+      "original_point_number": [
+        31
+      ]
+    },
+    {
+      "point_number": 16,
+      "point_content": "Opponents argue voting is a privilege reserved for those who abide by the social contract, excluding felons who have broken laws, and that prison is meant to be a punishment including loss of democratic rights during the sentence.",
+      "original_point_number": [
+        3,
+        22,
+        24,
+        51,
+        56,
+        57,
+        58,
+        121
+      ]
+    },
+    {
+      "point_number": 17,
+      "point_content": "Allowing felons to vote from prison could create tensions and violence during elections and could harm law-abiding citizens, especially in high-crime, poor, and minority areas.",
+      "original_point_number": [
+        23,
+        25,
+        47
+      ]
+    },
+    {
+      "point_number": 18,
+      "point_content": "Many other countries allow prisoners to vote, with some European countries having no ban or basing disqualification on crime or sentence length; the global trend is towards enfranchisement of prisoners, with countries like South Africa and Ireland allowing prisoner voting without ill effects.",
+      "original_point_number": [
+        14,
+        40,
+        79,
+        80,
+        97
+      ]
+    },
+    {
+      "point_number": 19,
+      "point_content": "International human rights standards, such as Article 25 of the International Covenant of Civil and Political Rights, stipulate that all citizens have the right to vote.",
+      "original_point_number": [
+        91
+      ]
+    },
+    {
+      "point_number": 20,
+      "point_content": "Allowing prisoners to vote by post in their original place of residence can prevent risks to election outcomes and is manageable; remand prisoners are already permitted to vote with no adverse effects, supported by the Electoral Commission.",
+      "original_point_number": [
+        95,
+        96
+      ]
+    },
+    {
+      "point_number": 21,
+      "point_content": "The Fourteenth Amendment allows states to restrict voting rights for participation in crime, and most states restrict voting rights for felons while incarcerated; the Fourteenth Amendment specifically gives states authority to abridge voting rights for rebellion or other crime.",
+      "original_point_number": [
+        45,
+        120
+      ]
+    },
+    {
+      "point_number": 22,
+      "point_content": "Felons lose many other civil rights as well, such as the right to sit on a jury, own a gun, obtain professional licenses, or work in certain public jobs in many states.",
+      "original_point_number": [
+        109
+      ]
+    },
+    {
+      "point_number": 23,
+      "point_content": "The recidivism rate for felons is extremely high, with more than two-thirds of released prisoners rearrested within three years and three-quarters within five years.",
+      "original_point_number": [
+        110,
+        111
+      ]
+    },
+    {
+      "point_number": 24,
+      "point_content": "A three- to five-year waiting period after release gives ex-offenders a real opportunity to start over and establish a track record of responsible behavior, demonstrating effective rehabilitation before voting rights are restored; automatic reinstatement does not allow for this.",
+      "original_point_number": [
+        112,
+        113,
+        114
+      ]
+    },
+    {
+      "point_number": 25,
+      "point_content": "There is debate whether felons should have automatic restoration of voting rights upon release; some argue it is not in the best interests of the felon or public, especially for serious crimes, and that they owe society and victims a debt that can never be repaid.",
+      "original_point_number": [
+        107,
+        115,
+        116,
+        117
+      ]
+    },
+    {
+      "point_number": 26,
+      "point_content": "The claim that felon disenfranchisement provisions are racist is incorrect both factually and historically; most states restricted felon voting before the Civil War when blacks were unable to vote, and such laws applied predominantly to white males.",
+      "original_point_number": [
+        118,
+        119
+      ]
+    },
+    {
+      "point_number": 27,
+      "point_content": "Virginia Governor Terry McAuliffe granted a blanket restoration of voting rights to more than 200,000 felons, likely violating state constitution and previous requirements of waiting period and individualized review, without ensuring who had truly reformed; he refused to restore felons' Second Amendment rights.",
+      "original_point_number": [
+        122,
+        123,
+        124
+      ]
+    },
+    {
+      "point_number": 28,
+      "point_content": "Felons should have the ability and incentive to prove they deserve to exercise their right to vote, serve on a jury, and own a gun, but only after a waiting period and individualized review, as many felons may fail to reintegrate and may reoffend.",
+      "original_point_number": [
+        126,
+        127
+      ]
+    },
+    {
+      "point_number": 29,
+      "point_content": "Denying prisoners the vote implies they are sub-human and damages their dignity and self-worth, undermining rehabilitation efforts; disenfranchisement is a form of civil death with social costs, disproportionately affecting ethnic minorities and leading to inequality and injustice.",
+      "original_point_number": [
+        34,
+        75,
+        103
+      ]
+    },
+    {
+      "point_number": 30,
+      "point_content": "Prisoners' voices are important for advancing a criminal justice system based on rehabilitation and reintegration; denying them the vote marginalizes over-represented populations and excludes their views on issues like prison conditions and policy formation.",
+      "original_point_number": [
+        29,
+        30,
+        74
+      ]
+    },
+    {
+      "point_number": 31,
+      "point_content": "Prisoners have a range of political opinions similar to the outside world; their perspectives on the criminal justice system should be considered in elections, and even despised prisoners have been ruled by courts to have the right to vote, separating contempt for acts from respect for rights.",
+      "original_point_number": [
+        67,
+        68
+      ]
+    },
+    {
+      "point_number": 32,
+      "point_content": "Historically, many groups were denied the right to vote, but over time these exclusions have been remedied; prisoners are the last remaining group denied voting rights and should be enfranchised.",
+      "original_point_number": [
+        69,
+        99
+      ]
+    },
+    {
+      "point_number": 33,
+      "point_content": "The argument that prisoners forfeit their rights because they infringed on others' rights is a gross generalization and does not consider minor or mala prohibita crimes; denying prisoners the right to vote can lead to a dangerous slippery slope as prisoners retain other rights such as free speech and religion.",
+      "original_point_number": [
+        73,
+        72
+      ]
+    },
+    {
+      "point_number": 34,
+      "point_content": "The current campaign for prisoner voting is led by elites and the European Court of Human Rights, which some argue undermines democratic institutions; the vote is sometimes reduced by proponents to a therapeutic tool rather than a means to participate in society.",
+      "original_point_number": [
+        100,
+        101,
+        102
+      ]
+    },
+    {
+      "point_number": 35,
+      "point_content": "Rejecting the European Court of Human Rights ruling on prisoner voting undermines the UK's reputation for human rights and rule of law; the recent EU decision insists that the UK gives the vote to its prisoners.",
+      "original_point_number": [
+        79,
+        98
+      ]
+    },
+    {
+      "point_number": 36,
+      "point_content": "Prisoners are often denied the right to vote because they have been stripped of their rights as citizens and are cut off from civic engagement, yet voting is a democratic right earned with citizenship and represents having a stake in society, which prisoners do not have in the same way as free citizens.",
+      "original_point_number": [
+        83,
+        84
+      ]
+    },
+    {
+      "point_number": 37,
+      "point_content": "Few, if any, people are deterred from crime by the prospect of being unable to vote; deterrence comes from restrictions on movement and separation from loved ones.",
+      "original_point_number": [
+        36
+      ]
+    },
+    {
+      "point_number": 38,
+      "point_content": "Linking a ban on voting to imprisonment is arbitrary; many people who commit serious crimes are not sent to prison due to age, dependents, or likelihood of reoffending.",
+      "original_point_number": [
+        37
+      ]
+    },
+    {
+      "point_number": 39,
+      "point_content": "Currently, anyone serving a custodial sentence at the time of an election is unable to vote, regardless of the crime or sentence length.",
+      "original_point_number": [
+        38
+      ]
+    },
+    {
+      "point_number": 40,
+      "point_content": "By committing crimes, individuals have broken the law and should not benefit from laws during their custodial punishment.",
+      "original_point_number": [
+        39
+      ]
+    },
+    {
+      "point_number": 41,
+      "point_content": "Voting is a fundamental democratic right and a form of speech protected by the First Amendment; banning prisoners from voting disenfranchises them as citizens and disconnects them from their community.",
+      "original_point_number": [
+        41,
+        42
+      ]
+    },
+    {
+      "point_number": 42,
+      "point_content": "Allowing prisoners to vote may help their reintegration into the community and support rehabilitation, creating a sense of connection and community.",
+      "original_point_number": [
+        44
+      ]
+    },
+    {
+      "point_number": 43,
+      "point_content": "Incarcerated individuals in Vermont vote by absentee ballot in their community of residence prior to incarceration and express gratitude for the opportunity to remain involved in local and state matters.",
+      "original_point_number": [
+        43
+      ]
+    },
+    {
+      "point_number": 44,
+      "point_content": "The right to vote is linked to many other significant rights and principles, such as equality and justice, and should not be denied to eligible citizens, including prisoners.",
+      "original_point_number": [
+        70
+      ]
+    },
+    {
+      "point_number": 45,
+      "point_content": "Prisoners are already punished by imprisonment, and further loss of the right to vote is difficult to justify and disproportionate.",
+      "original_point_number": [
+        93
+      ]
+    },
+    {
+      "point_number": 46,
+      "point_content": "Disenfranchisement of prisoners is arbitrary, unrelated to the gravity of the offence, and unlikely to deter crime.",
+      "original_point_number": [
+        94
+      ]
+    },
+    {
+      "point_number": 47,
+      "point_content": "Allowing prisoners to vote might help address dangerous prison conditions by giving inmates political power and humanizing them, potentially improving prison conditions.",
+      "original_point_number": [
+        17,
+        55
+      ]
+    },
+    {
+      "point_number": 48,
+      "point_content": "Participation in the democratic process can promote civic responsibility and encourage prisoners to see themselves as citizens with obligations and benefits.",
+      "original_point_number": [
+        92
+      ]
+    },
+    {
+      "point_number": 49,
+      "point_content": "The concern that prisoners voting would create a 'pro-crime' voting bloc is unfounded and not a threat to public safety.",
+      "original_point_number": [
+        66
+      ]
+    },
+    {
+      "point_number": 50,
+      "point_content": "Prisoners should be allowed the right to vote as it is crucial to democracy and denying it is based on a gross overgeneralization.",
+      "original_point_number": [
+        71
+      ]
+    },
+    {
+      "point_number": 51,
+      "point_content": "Denying ex-prisoners the right to vote after serving their sentence is unnecessarily punitive and inhumane; the debate balances citizenship and redemption, supporting prevention of voting by serving prisoners but restoration for ex-prisoners.",
+      "original_point_number": [
+        87,
+        88
+      ]
+    },
+    {
+      "point_number": 52,
+      "point_content": "Currently, if individuals are convicted of a crime but not given a custodial sentence, they are still allowed to vote; this raises questions about differential treatment of incarcerated versus non-incarcerated convicted criminals.",
+      "original_point_number": [
+        77
+      ]
+    },
+    {
+      "point_number": 53,
+      "point_content": "Many felons will fail to change their ways and reintegrate into civil society and will go back to prison, where an “I voted!” sticker should not be part of the uniform.",
+      "original_point_number": [
+        127
+      ]
+    },
+    {
+      "point_number": 54,
+      "point_content": "The right to vote is considered by some supporters as an inalienable and universal right of all American citizens 18 years and older, regardless of incarceration.",
+      "original_point_number": [
+        53
+      ]
+    }
+  ]
+}

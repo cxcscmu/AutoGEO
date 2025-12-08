@@ -1,0 +1,199 @@
+{
+  "question": "how common are late term abortions in the us",
+  "key_points": {
+    "clueweb22-en0001-95-01556": [
+      {
+        "point_number": 1,
+        "point_content": "Late-term abortions are very rare in the US.",
+        "spans": [
+          "late-term abortions are also very rare"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "In 2015, out of more than 400,000 abortions in the US, only 5,597 (1.3%) happened on or after 21 weeks of pregnancy.",
+        "spans": [
+          "In 2015, more than 400,000 abortions took place in the US. Of those, just 5,597 (or 1.3%) happened on or after 21 weeks of pregnancy"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The vast majority (91%) of abortions take place at or before 13 weeks of pregnancy.",
+        "spans": [
+          "The vast majority (91%) of abortions take place at or before 13 weeks of pregnancy"
+        ]
+      }
+    ],
+    "clueweb22-en0034-27-11703": [
+      {
+        "point_number": 1,
+        "point_content": "Abortion is a relatively common procedure in the United States with about 862,000 abortions in 2017, showing a decline from 2011.",
+        "spans": [
+          "Abortion is a relatively common procedure in the United States. According to the Guttmacher Institute, there were about 862,000 abortions in the U.S. in 2017. This is a 19% decline from 2011 when 1,058,000 were performed."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Late-term abortion is defined as termination of pregnancy during a late stage of gestation, typically ranging from 20 to 28 weeks or around fetus viability.",
+        "spans": [
+          "A late-term abortion, also called a late-termination of pregnancy, refers to the termination of pregnancy by induced abortion during a late stage of gestation. “Late” is not precisely defined and medical publications have stated different thresholds, typically ranging from 20 to 28 weeks or around the fetus reaches viability."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Currently, 43 states prohibit some abortions after a certain point in pregnancy, with various thresholds ranging from 6 to 28 weeks.",
+        "spans": [
+          "Currently, 43 states prohibit some abortions after a certain point in pregnancy. Several states, such as California, Arizona, and New York, use fetus viability as the cutoff, while some other states use the third trimester (around 28 weeks). Other states use a specified number of weeks post-fertilization, after a women’s last menstrual cycle, or after gestation. These weeks range anywhere from six to 20 weeks."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "States that allow late-term abortions with no state-imposed thresholds include Alaska, Colorado, District of Columbia, New Hampshire, New Jersey, New Mexico, Oregon, and Vermont.",
+        "spans": [
+          "States that allow for late-term abortions with no state-imposed thresholds are Alaska, Colorado, District of Columbia, New Hampshire, New Jersey, New Mexico, Oregon, and Vermont."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "All states allow late-term abortions when pregnancy threatens a woman’s health, physical health, and/or life, with varying specific conditions by state.",
+        "spans": [
+          "While other states have threshold restrictions for late-term abortions, all states have exceptions and allow late-term abortions when pregnancy threatens a woman’s health, physical health, and/or life."
+        ]
+      }
+    ],
+    "clueweb22-en0029-63-04811": [
+      {
+        "point_number": 1,
+        "point_content": "The majority of abortions in 2019 took place early in gestation: 92.7% of abortions were performed at ≤13 weeks’ gestation; a smaller number of abortions (6.2%) were performed at 14–20 weeks’ gestation, and even fewer (<1.0%) were performed at ≥21 weeks’ gestation.",
+        "spans": [
+          "92.7% of abortions were performed at ≤13 weeks’ gestation",
+          "a smaller number of abortions (6.2%) were performed at 14–20 weeks’ gestation",
+          "even fewer (<1.0%) were performed at ≥21 weeks’ gestation"
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0009-52-07973": [
+      {
+        "point_number": 1,
+        "point_content": "Seventy-two percent of clinics offered abortions up to 12 weeks’ gestation in 2014, 25% up to 20 weeks and 10% up to 24 weeks.",
+        "spans": [
+          "Seventy-two percent of clinics offered abortions up to 12 weeks’ gestation in 2014, 25% up to 20 weeks and 10% up to 24 weeks."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "In 2016, two-thirds of abortions occurred at eight weeks of pregnancy or earlier, and 88% occurred in the first 12 weeks.",
+        "spans": [
+          "In 2016, two-thirds of abortions occurred at eight weeks of pregnancy or earlier, and 88% occurred in the first 12 weeks."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The proportion of abortion patients who traveled more than 100 miles for services was twice as high among those at or beyond 16 weeks of gestation as among those who were at 12 weeks’ gestation or less (14% vs. 7%).",
+        "spans": [
+          "The proportion of abortion patients who traveled more than 100 miles for services was twice as high among those at or beyond 16 weeks of gestation as among those who were at 12 weeks’ gestation or less (14% vs. 7%)."
+        ]
+      }
+    ],
+    "clueweb22-en0030-35-14869": [
+      {
+        "point_number": 1,
+        "point_content": "Since 1973, when abortion was legalized nationally, around 11 percent of abortions have occurred at or after 13 weeks gestation.",
+        "spans": [
+          "Since 1973, when abortion was legalized nationally, around 11 percent of abortions have occurred at or after 13 weeks gestation."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Percentage distribution of abortions by gestation period shows most occur earlier than 8 weeks, with a small percentage occurring after 21 weeks.",
+        "spans": [
+          "Earlier than 8 weeks: 66%",
+          "9-10 weeks: 14.5%",
+          "11-12 weeks: 8.3%",
+          "13-15 weeks: 6.2%",
+          "16-20 weeks: 3.8%",
+          "After 21 weeks: 1.3%"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Nearly 99 percent of abortions happen before a person is 21 weeks pregnant, and those that happen later almost all happen before 24 weeks.",
+        "spans": [
+          "Nearly 99 percent of abortions happen before a person is 21 weeks pregnant, and those that happen later almost all happen before 24 weeks."
+        ]
+      }
+    ],
+    "clueweb22-en0008-57-13664": [
+      {
+        "point_number": 1,
+        "point_content": "In 2018, 1.0% of all abortions in the United States are third trimester abortions.",
+        "spans": [
+          "In 2018, 1.0% of all abortions in the United States are third trimester abortions. (CDC)"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "If the estimates are correct, then the total number of abortions after 20 weeks’ gestation are 11,500 per year.",
+        "spans": [
+          "If the estimates are correct, then the total number of abortions after 20 weeks’ gestation are 11,500 per year. (Johnston Archive)"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Only 4 doctors are performing this procedure in the United States.",
+        "spans": [
+          "The number of doctors in the United States that openly practice third trimester abortions, after the 2009 murder of Dr. George Tiller: 4. (Mother Jones)",
+          "Only 4 doctors are performing this procedure in the United States."
+        ]
+      }
+    ],
+    "clueweb22-en0027-48-15068": [
+      {
+        "point_number": 1,
+        "point_content": "In the United States, abortion reporting at the national level is incomplete and out of date with the most recent national abortion surveillance report covering data from 2016.",
+        "spans": [
+          "In the United States, abortion reporting at the national level is incomplete and out of date [i] with the most recent national abortion surveillance report covering data from 2016, as published by the U.S. Centers for Disease Control and Prevention (CDC)."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The Charlotte Lozier Institute reviewed the most recent publicly available state abortion reports to get a more accurate and up-to-date count of late-term abortions.",
+        "spans": [
+          "In order to get a more accurate and up-to-date count of late-term abortions, [ii] the Charlotte Lozier Institute (CLI) reviewed the most recent publicly available state abortion reports or reports provided to CLI, upon request, by the various state health and vital statistics departments."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "46 states, New York City, and the District of Columbia make abortion data publicly available, with 43 reporting gestational age with enough granularity to count late-term abortions.",
+        "spans": [
+          "In all, 48 reporting areas (46 states, New York City, and the District of Columbia) make abortion data publicly available. Of these, 46 report the gestational ages at which abortions are performed, and 43 report gestational age with enough granularity to allow for a count of late-term abortions."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The table compiled by CLI shows the number of abortions performed close to or after 20 weeks of gestation in 43 reporting areas.",
+        "spans": [
+          "CLI has compiled a table below showing the number of abortions reported as performed close to or after 20 weeks of gestation in these 43 reporting areas."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The majority of Texas late-term abortions occurred from 17 to 20 weeks PPF (approximately 19 to 21 weeks of gestation), with just 13 abortions occurring after 20 weeks PPF (22 weeks of gestation).",
+        "spans": [
+          "The majority of Texas late-term abortions occurred from 17 to 20 weeks PPF (approximately 19 to 21 weeks of gestation). Just 13 abortions occurred in Texas after 20 weeks PPF (22 weeks of gestation)."
+        ]
+      }
+    ],
+    "clueweb22-en0000-02-03479": [
+      {
+        "point_number": 1,
+        "point_content": "The actual number of surgical abortions performed after 20 weeks in the United States cannot be known due to a lack of national reporting, but CDC projections estimate roughly 1%, or over 15,000, abortions are performed after 20 weeks annually in the U.S.",
+        "spans": [
+          "The actual number of surgical abortions performed after 20 weeks in the United States cannot be known due to a lack of national reporting.",
+          "CDC projections, based largely on voluntary state reporting and abortion provider survey data from the Guttmacher Institute, a former affiliate of Planned Parenthood, estimate that roughly 1%, or over 15,000, abortions are performed after 20 weeks annually in the U.S."
+        ]
+      }
+    ]
+  }
+}

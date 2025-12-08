@@ -1,0 +1,567 @@
+{
+  "question": "why would professional, ethical, legal and social issues be important for it professionals?",
+  "key_points": {
+    "clueweb22-en0028-80-06546": [
+      {
+        "point_number": 1,
+        "point_content": "Legal issues require IT professionals to comply with laws such as the Disability Discrimination Act 1995 and the Data Protection Act 1998 to prevent discrimination and protect data privacy.",
+        "spans": [
+          "Legal issues regarding the Disability Discrimination Act 1995 and the Data Protection Act 1998.",
+          "The Disability Discrimination Act 1995 was introduced to defeat the victimization of people with disabilities.",
+          "It’s now compulsory to implement a range of accessibility and usability functions for people with disabilities, failure to comply can result in the matter being resolved in court."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Copyright and trademark laws protect intellectual property and prevent unauthorized copying, which IT professionals must respect to avoid legal disputes.",
+        "spans": [
+          "©Copyright laws were introduced to restrict other people from copying and reproducing their work and claiming it to be their own e.g. plagiarism.",
+          "â„¢ Trademark laws have been incorporated into various businesses, companies and corporations so that the iconic names, symbols and reputations they have built and developed of time cannot be illegally copied e.g. Coca-Cola, Nike, Sony, Microsoft, Face book, etcâ€¦",
+          "If any person, company, establishment or business fails to acknowledge the law, the matter may result in being resolved in court."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Professional and social issues require IT professionals to consider localisation, globalisation, and internationalisation to accommodate diverse users.",
+        "spans": [
+          "Professional and social issues can be combined to address the constraints of localisation, globalisation and internationalisation.",
+          "As interacting with technology and the Web has become a social occupation in this current era, it can be claimed from a professional point of view that its good practice to consider the scale or magnitude of the service provided to accommodate the vast diversities known in the United Kingdom."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Ethical considerations involve respecting diversity and avoiding offense, ensuring moral standards in IT development.",
+        "spans": [
+          "Ethics looks at the moral standards in which the Web page can be developed, taking into consideration diversity.",
+          "When designing a Web page it’s important to investigate features that may cause offence to others; being polite to their feelings.",
+          "It’s vital to develop, investigate and build a Web page, whilst applying a moral and ethical balance to all proceedings."
+        ]
+      }
+    ],
+    "clueweb22-en0040-27-10018": [
+      {
+        "point_number": 1,
+        "point_content": "Ethical and social issues related to network security, privacy, and data collection that businesses must address.",
+        "spans": [
+          "ethical and social issues related to network security, privacy, and data collection that businesses must address"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Technoethics is an interdisciplinary research area concerned with all moral and ethical aspects of technology in society.",
+        "spans": [
+          "Technoethics (TE) is an interdisciplinary research area concerned with all moral and ethical aspects of technology in society."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Technoethics focuses on discovering the ethical use of technology, protecting against the misuse of technology, and devising common principles to guide new advances in technological development and application to benefit society.",
+        "spans": [
+          "Technoethics views technology and ethics as socially embedded enterprises and focuses on discovering the ethical use of technology, protecting against the misuse of technology, and devising common principles to guide new advances in technological development and application to benefit society."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Technology in the workplace creates various ethical concerns and a need for further analysis of technology in organizations, leading to organizational technoethics.",
+        "spans": [
+          "these implementations of technology in the workplace create various ethical concerns and in turn a need for further analysis of technology in organizations. As a result of this growing trend, a subsection of technoethics known as organizational technoethics has emerged to address these issues."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Technology raises important new issues about the employer-employee relationship, such as privacy of personal emails and employer's right to monitor company assets.",
+        "spans": [
+          "However, as much as technology impacts the way that companies do business, it also raises important new issues about the employer-employee relationship. If you send personal emails from your office computer, do you have the right to expect that they’re private? Does your employer have a legal and ethical right to “cyber-peek” at what you are doing with company assets?"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Employers using technology to screen applicants and verify workforce information raises legal and ethical questions, especially regarding access to social media accounts.",
+        "spans": [
+          "Employers want to use technology to help them screen applicants and verify information about their workforce, which is understandable. ... However, what if the company believes that one of the quickest ways to gather information about an employee is to access their social media accounts?"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Technology has put personal information at the fingertips of businesses, raising ethical concerns about data collection and selling personal data.",
+        "spans": [
+          "The fact is that technology has put our information at the fingertips of businesses—there for the taking and, in some cases, the selling. Is it ethical for a business to collect data about a person and then sell that information to another business?"
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Businesses have a responsibility to protect personal data once it has been collected, highlighting security issues.",
+        "spans": [
+          "We have yet to touch on security issues and the responsibility business has to protect your data once it has been collected."
+        ]
+      }
+    ],
+    "clueweb22-en0015-31-14810": [
+      {
+        "point_number": 1,
+        "point_content": "IT security personnel often have access to confidential data and knowledge about individuals' and companies' networks and systems that give them a great deal of power. That power can be abused, either deliberately or inadvertently.",
+        "spans": [
+          "IT security personnel often have access to confidential data and knowledge about individuals' and companies' networks and systems that give them a great deal of power. That power can be abused, either deliberately or inadvertently."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The education and training of IT professionals, including security specialists, usually focuses on technical knowledge and skills, with little consideration of how those abilities can be misused.",
+        "spans": [
+          "The education and training of IT professionals, including security specialists, usually focuses on technical knowledge and skills. You learn how to perform tasks, but with little consideration of how those abilities can be misused."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Many of the ethical issues that face IT professionals involve privacy, such as reading private e-mail, monitoring web sites visited, and using key loggers or screen capture programs.",
+        "spans": [
+          "Many of the ethical issues that face IT professionals involve privacy. For example:",
+          "Should you read the private e-mail of your network users just because you can? Is it OK to read employees' e-mail as a security measure to ensure that sensitive company information isn't being disclosed? Is it OK to  read employees' e-mail to ensure that company rules (for instance, against personal use of the e-mail system) aren't being violated? If you do read employees' e-mail, should you disclose that policy to them? Before or after the fact?",
+          "Is it OK to monitor the Web sites visited by your network users? Should you routinely keep logs of visited sites? Is it negligent to not monitor such Internet usage, to prevent the possibility of pornography in the workplace that could create a hostile work environment?",
+          "Is it OK to place key loggers on machines on the network to capture everything the user types? What about screen capture programs so you can see everything that's displayed? Should users be informed that they're being watched in this way?"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "As a network administrator or security professional, you have rights and privileges that allow you to access most of the data on the systems on your network, and what you do with those abilities depends on your job duties and personal ethical beliefs.",
+        "spans": [
+          "As a network administrator or security professional, you have rights and privileges that allow you to access most of the data on the systems on your network.",
+          "What you do with those abilities depends in part on your particular job duties (for example, if monitoring employee mail is a part of your official job description) and in part on your personal ethical beliefs about these issues."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The slippery slope concept illustrates how seemingly minor ethical breaches can lead to more serious unethical actions, highlighting the importance of ethical awareness for IT professionals.",
+        "spans": [
+          "A common concept in any ethics discussion is the \"slippery slope.\" This pertains to the ease with which a person can go from doing something that doesn't really seem unethical, such as scanning employees' e-mail \"just for fun,\"  to doing things that are increasingly unethical,  such as making little changes in their mail messages or diverting messages to the wrong recipient."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "IT and security consultants face ethical dilemmas such as conflicts of interest, overcharging clients, accepting kickbacks, and promising more than they can deliver, which require ethical consideration.",
+        "spans": [
+          "IT and security consultants who do work for multiple companies have even more ethical issues to deal with. If you learn things about one of your clients that might affect your other client(s), where does your loyalty lie?",
+          "Is it wrong for you to charge hundreds or even thousands of dollars per hour for your services, or is it a case of \"whatever the market will bear?\"",
+          "Is it wrong for you to mark up the equipment and software that you get for the customer when you pass the cost through? What about kickbacks from equipment manufacturers? Is it wrong to accept \"commissions\" from them for persuading your clients to go with their products? Or what if the connection is more subtle? Is it wrong to steer your clients toward the products of companies in which you hold stock?",
+          "Another ethical issue involves promising more than you can deliver, or manipulating data to obtain higher fees."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Ethical behavior in IT is not codified into law and there is no standard mandatory oversight body, but voluntary professional associations have developed codes of ethics to guide IT professionals.",
+        "spans": [
+          "Unlike older, more established professions such as medicine and law, most ethical issues that IT and security professionals confront have not been codified into law, nor is there a standard mandatory oversight body, such as the national or state medical association or bar association, that has established a detailed code of ethics.",
+          "Voluntary professional associations such as the Association for Computing Machinery (ACM) have developed their own codes of ethics and professional conduct, which can serve as a guideline for individuals and other organizations."
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0038-39-17166": [
+      {
+        "point_number": 1,
+        "point_content": "Information technology benefits from a standard, accepted code of ethics that helps guide behavior in sometimes confusing contexts.",
+        "spans": [
+          "information technology benefits from a standard, accepted code of ethics that helps guide behavior in sometimes confusing contexts"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Ethical choices often seem murky and require professional judgment guided by experiences, laws, policies, and culture.",
+        "spans": [
+          "Ethical choices often seem murky. We live in a human society, subject to less-than-complete information, societal pressures, and multiple interpretations of facts. More often than not, we need to apply professional judgment, which is guided by our own experiences as well as reliance on laws, policies, and culture."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "What is legal is not always ethical, so IT professionals must act ethically to maintain trust.",
+        "spans": [
+          "what is legal is not always ethical",
+          "I believe it is our responsibility as IT professionals to act in an ethical manner in the performance of our work duties. To inadvertently do otherwise risks losing the trust of our students, faculty, staff, communities, and the general public."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "IT professionals have codes of ethics that include commitments to integrity, competence, professional responsibilities, work responsibilities, and societal responsibilities.",
+        "spans": [
+          "IEEE has a code of ethics for its members; the Association of Information Technology Professionals (AITP) has a code of ethics and standards of conduct; and SANS has published an IT code of ethics.",
+          "in general these codes assert that IT professionals need to commit to: Integrity Competence Professional responsibilities Work responsibilities Societal responsibilities"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "IT professionals need to maintain technical competence, avoid injury to others, and reject bribes as part of ethical commitments.",
+        "spans": [
+          "Some common commitments between the three codes are to: Maintain technical competence Avoid injury to others, their property, reputation, or employment Reject bribes, kickbacks, etc."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Familiarity with standards of ethics helps IT professionals navigate complex and confusing contexts and relationships in the workplace and society.",
+        "spans": [
+          "Familiarity with standards of ethics for the profession can help provide guidance on ethical behavior in complex and confusing contexts such as these.",
+          "In order to navigate this complexity, all of us need to understand the ethics for each of these relationships.",
+          "In a broader sense, we need professional ethics because of the impact that our actions have on society as a whole."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Reflecting on ethics is a professional obligation for IT professionals due to their impact in the workplace and society.",
+        "spans": [
+          "Given the impact that IT professionals can have in the workplace and society in general, reflecting on the ethics of how we behave as we carry out our duties should be one of our professional obligations."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Professional ethics help IT professionals decide not just what they can do, but what they should do.",
+        "spans": [
+          "just because you can do something, it is imperative to stop and think about whether you should do it. That’s where professional ethics will serve you well."
+        ]
+      }
+    ],
+    "clueweb22-en0039-65-08069": [
+      {
+        "point_number": 1,
+        "point_content": "Data protection and integrity are crucial to ensure customer information is used correctly and remains accurate without unauthorized alteration.",
+        "spans": [
+          "customers who is purchasing will have to provide information about the company where she/he works for. By doing that the customer will know that PE will use their customer details correctly and it will be data protected",
+          "it assurance that the data given are accurate, no alteration should be changed from the data that the customer’s will be filling in, is very important to maintain the integrity of data for the new store system in PE"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "IT professionals must protect data from unauthorized access and modification to prevent computer crimes such as hacking.",
+        "spans": [
+          "the computer crime has grown. Hackers are gaining unauthorised access to computer systems with intent",
+          "the data controller will be there to protect the data from been modified and make sure that all data are secure out of data leak"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Ensuring availability of information to authorized users is important, requiring protection against attacks like DDoS and maintaining reliable access.",
+        "spans": [
+          "It ensure that authorized parties customers are able to access their information when needed",
+          "Almost every week there are websites being taken down by DDoS attacks",
+          "PE Customers shouldn’t have difficulties in logging in to the system it should be timely and reliable"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Data must be obtained and processed fairly and lawfully, collecting only necessary data to comply with legal and ethical standards.",
+        "spans": [
+          "the data controller needs to make sure the data is obtained and processed fairly and lawfully",
+          "PaintEverything should collect only the data necessary from their customers"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Ethical values help organizations adhere to respectable practices, which is important for acceptance by the community and business success.",
+        "spans": [
+          "Ethical values can have a focal point on organizational concerns which assist the company in adhere to respectable practices within their establishment or corporation",
+          "be accepted by the community, not to mention in order to ensure a successful business"
+        ]
+      }
+    ],
+    "clueweb22-en0001-55-10901": [
+      {
+        "point_number": 1,
+        "point_content": "Professional ethics is important because it dictates to professionals a series of rules related to the way a professional acts towards the people with whom he/she relates professionally.",
+        "spans": [
+          "Professional ethics is important because it dictates to professionals a series of rules related to the way a professional acts towards the people with whom he/she relates professionally."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Professional ethics are important because they serve to create organizations based on moral standards of conduct.",
+        "spans": [
+          "Professional ethics are important because they serve to create organizations based on moral standards of conduct."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Professional ethics organizes a group of professionals from the same profession and contributes to personal growth.",
+        "spans": [
+          "Based on a set of rules, it can organize a group of professionals from the same profession.",
+          "The organization formed contributes to the personal growth of the associated professional."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Professional ethics motivates teamwork and increases bonds between colleagues.",
+        "spans": [
+          "Motivates teamwork and increases the bonds between colleagues."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Professional ethics creates a code of ethics defining duties for each professional.",
+        "spans": [
+          "Creates a system for each profession, called a code of ethics; in which the duties to be fulfilled by each professional are twinned."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Professional ethics provides personal and professional benefits by regulating actions and highlighting virtues.",
+        "spans": [
+          "Provides personal and professional benefits by regulating the actions of a profession and highlighting the virtues of the professional."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Professional ethics is related to morality and seeks to support and improve the service provided by a professional.",
+        "spans": [
+          "It is related to morality.",
+          "Professional ethics seeks to support and improve the service provided by a professional."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Professional ethics pursues moral rectitude and compliance with values in professions.",
+        "spans": [
+          "It pursues the moral rectitude of the professions.",
+          "Professional ethics implies compliance with values."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Professional ethics is based on principles of beneficence, autonomy, non-maleficence and justice which guide professional behavior.",
+        "spans": [
+          "Professional ethics are based on the principles of beneficence, autonomy, non-maleficence and justice."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "There are different types of professional ethics related to specific professions, such as legal, medical, engineering, teaching, military, administrator, and psychologist ethics.",
+        "spans": [
+          "Types of professional ethics",
+          "Legal ethics.",
+          "Medical ethics.",
+          "Engineering ethics.",
+          "Teaching ethics.",
+          "Military ethics.",
+          "Administrator ethics.",
+          "Ethics of the psychologist."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Compliance with professional ethics is shown by professionals acting impartially, respecting confidentiality, and offering respectful treatment to colleagues.",
+        "spans": [
+          "Compliance with professional ethics is evident when:",
+          "A physician who suppresses prejudices and interests to save a life.",
+          "The lawyer who defends his client and respects confidentiality even when it is against his personal ethics.",
+          "The journalist who listens to both sides of the story and disseminates it objectively and impartially.",
+          "Offering respectful treatment to colleagues in the same profession, or to any other professional with whom he/she interacts."
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "Professional, ethical, legal and social issues are important because professionals must act under the principle of not doing wrong voluntarily to another human being and comply with ethics by contributing to collective development and social welfare.",
+        "spans": [
+          "In conclusion, there is a close relationship between ethics and the profession, since professionals in all areas must act under the principle of not doing wrong voluntarily to another human being and comply with ethics by contributing to collective development and social welfare."
+        ]
+      }
+    ],
+    "clueweb22-en0042-99-14900": [
+      {
+        "point_number": 1,
+        "point_content": "Professional, ethical, legal and social issues present significant challenges that must be recognized and negotiated by IT professionals to successfully implement co-creation initiatives.",
+        "spans": [
+          "realizing co-creation in practice means confronting significant professional, political, and ethical challenges. In this paper, we seek to promote critical reflection about some of these challenges. We argue that for co-creation to be successful, these challenges must be recognized, by clinicians in particular, and then negotiated as best as possible."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Ethical challenges include managing diverse interests and perspectives, negotiating roles and responsibilities, and addressing questions of equity, power, and justice.",
+        "spans": [
+          "We suggest that those involved in envisioning and implementing co-creation initiatives pay close attention to significant questions of equity, power, and justice and to the fundamental challenge of securing a common vision of the aims of and agendas for health care systems.",
+          "Challenges of Equity and Justice",
+          "If health care systems are to become genuinely co-creative, attention must be paid to who has opportunities to participate—in both decision making and actions—and on what terms [20].",
+          "Negotiating the processes of participation and representation will therefore be a key challenge for those seeking to foster co-creative systems.",
+          "Here, consideration of the ways and extent to which co-creative health systems can be made to support health equity and social justice will be fundamental to their success."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Professional roles and responsibilities may change, requiring IT professionals to adapt to new ethical and social expectations and to reconsider their accountability.",
+        "spans": [
+          "A key element of co-creative health systems is their potential to usher in new roles for professionals, patients, and stakeholders, creating fresh possibilities for identity and relationships [10].",
+          "Role change may present welcome opportunities but it also raises important ethical questions.",
+          "Role change raises urgent questions about who should be held responsible for co-created decisions. With patients and stakeholders being encouraged to take on additional responsibilities and accountabilities [15], it remains to be seen how far they will be ready, willing, and able to respond [9, 16]."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Power hierarchies and dynamics must be openly addressed to avoid reinforcing existing inequalities and to promote mutual trust and collaboration.",
+        "spans": [
+          "Behind concerns about role changes are questions about the potential redistribution of power in co-creative health care systems.",
+          "While co-creation has the potential to positively disrupt hierarchies and asymmetries between and within groups that have been viewed as unwanted and oppressive, unless issues of power are explicitly addressed, co-creation could operate to reinforce existing power relations [17].",
+          "An effective redistribution of power will depend upon the extent to which issues of power are openly discussed by those involved in the co-creative process.",
+          "Clinicians could see co-creation either as a threat or as an opportunity to replace paternalism with mutual trust [19]—the long sought-after goal of the patient-centered movement."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Legal and social issues influence the context in which IT professionals operate, affecting their roles, responsibilities, and the feasibility of co-creation initiatives.",
+        "spans": [
+          "Equally, the attitudes and behaviors of health professionals and other stakeholders may be influenced by the prevailing norms and expectations that govern the space in which they operate, as well as by the wider legal, political, and economic circumstances that shape their particular roles and responsibilities.",
+          "Conceptions and possibilities of co-creation also depend upon context."
+        ]
+      }
+    ],
+    "clueweb22-en0042-49-03769": [
+      {
+        "point_number": 1,
+        "point_content": "Ethical, legal, and social issues (ELSI) are important to discuss with patients to ensure genetic testing is used safely and appropriately.",
+        "spans": [
+          "For genetic testing to be used safely and appropriately, these issues should be discussed with patients so they are aware of risks and benefits."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Healthcare providers should be aware of ethical, legal, and social issues related to genetics to protect patients from distress.",
+        "spans": [
+          "To protect patients from additional distress, healthcare providers should be aware of the relevant ethical, legal, and social issues related to genetics in healthcare."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Genetic test results must be communicated in an understandable and compassionate manner, respecting patient consent and privacy.",
+        "spans": [
+          "It is critical that genetic test results are discussed with patients in an understandable and compassionate manner.",
+          "Results should be released only to those individuals for whom the test recipient has given consent.",
+          "Under no circumstances should results with personal identifiers be provided to any outside parties, including employers, insurers, or government agencies, without the test recipient’s written consent."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "There is a duty to disclose genetic information to at-risk family members under specific conditions, balancing patient confidentiality and potential harm.",
+        "spans": [
+          "The American Society of Human Genetics suggests that disclosure to at-risk individuals is permissible when the following criteria are met:",
+          "Attempts to encourage disclosure on the part of the patient have failed",
+          "Harm is highly likely, serious, imminent, and foreseeable",
+          "At-risk relatives are identifiable",
+          "Disease is preventable or medically accepted standards for treatment or screening are available",
+          "Harm from failing to disclose outweighs the harm from disclosure"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Genetic discrimination is a major concern; laws like GINA protect individuals from discrimination based on genetic information in health insurance and employment.",
+        "spans": [
+          "On May 21, 2008, President Bush signed the Genetic Information Nondiscrimination Act (GINA) into law.",
+          "GINA protects individuals from discrimination on the basis of genetic information in health insurance and employment.",
+          "GINA prevents health insurers from denying coverage or adjusting premiums on the basis of genetic information or requesting that an individual undergo a genetic test.",
+          "Employers are prohibited from using genetic information to make hiring, firing, or promotion decisions."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Informed consent is essential in genetic testing to ensure patients understand risks, benefits, alternatives, and privacy issues.",
+        "spans": [
+          "To help ensure that patients understand the risks and benefits of healthcare choices, informed consent is an important part of the medical decision-making process.",
+          "For patients considering genetic testing, the following items should be carefully discussed and understood before consent is obtained:",
+          "Risks, limitations, and benefits of testing or not testing",
+          "Alternatives to genetic testing",
+          "Details of the testing process (e.g., what type of sample is required, accuracy of test, and turn-around time)",
+          "Privacy/confidentiality of test results",
+          "The voluntary nature of testing",
+          "Potential consequences related to results, including: (1) impact on health; (2) emotional and psychological reactions; (3) treatment/prevention options; and (4) ramifications for the family"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Privacy of genetic information is a major concern; patients may take steps to protect their genetic data from unauthorized access.",
+        "spans": [
+          "The privacy of that information is a major concern to patients—in particular, who should have or needs access to that information.",
+          "To protect personal genetic information and avoid its inclusion in a patient’s medical record, some patients pay for genetic testing out-of-pocket."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Healthcare professionals should be sensitive to the psychosocial impact of genetic information and provide appropriate support and referrals.",
+        "spans": [
+          "Every individual will respond differently to news of his/her genetic test results, whether negative or positive.",
+          "Healthcare professionals should refrain from judgment and help the patient understand the test results with respect to his/her own health, available interventions or follow-up, and risks to his/her family.",
+          "Referrals to genetic counselors, psychologists, or social workers should be made as needed."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Genetic information influences reproductive decisions and requires nondirective support from healthcare providers.",
+        "spans": [
+          "Genetic information is routinely used to inform reproductive decisions and medical care.",
+          "Providers should take a nondirective stance and support the patients’ decisions."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Genetic information raises societal questions about responsibility, choice, and cultural values; professionals should respect these in patient care.",
+        "spans": [
+          "Genetic information can raise questions about personal responsibility, personal choice versus genetic determinism/fate, and concepts of health and disease.",
+          "Health professionals should be respectful and sensitive to cultural and societal values and work with the patient to define the appropriate course of action for him/her with respect to genetic testing and follow-up care."
+        ]
+      }
+    ],
+    "clueweb22-en0025-05-04821": [
+      {
+        "point_number": 1,
+        "point_content": "Ethics plays a very important role in the professional life and the success or failure of any business depends on how a worker deals with a complex situation ethically.",
+        "spans": [
+          "Ethics plays a very important role in the professional life.",
+          "The success or failure of any business depends on how a worker deals with a complex situation."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Ethics are the moral principles which help to define what is right or wrong and good ethics helps to lead the organisation in the right direction.",
+        "spans": [
+          "Ethics are the moral principle which helps to define what is right or wrong.",
+          "Good ethics does not mean success but it helps to lead the organisation in the right direction."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "There is a strong correlation between work ethics and employee performance, and it helps to improve the skills of individuals.",
+        "spans": [
+          "there is a strong correlation between work ethics and employee performance.",
+          "It helps to improve the skills of the individuals."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Workplace ethics consists of loyalty, respect, integrity, accountability and many more, which are important for professional behavior.",
+        "spans": [
+          "Workplace ethics consists of loyalty, respect, integrity, accountability and many more."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "When employees retain ethical behavior and an ethical working environment, the cost of maintenance decreases and everything works systematically.",
+        "spans": [
+          "When the employees retain an ethical behaviour and ethical working environment in the workplace then the cost of maintenance decreased.",
+          "The employees are aware of their duties and responsibilities.",
+          "They value the organisation property as a result everything works in a systematic manner."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Ethics helps develop teamwork as responsible employees achieve targets and help in achieving organisation goals, aiding company survival in competitive environments.",
+        "spans": [
+          "When the employees are responsible for their work then they achieve the target before the deadline.",
+          "The individual of the company starts working for their teams and helps in achieving the organisation goals.",
+          "With the help of good ethics the organisation develops in the most effective manner, the company can also survive in a competitive environment."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Ethics increases brand value by ensuring companies fulfill responsibilities towards the environment, deliver high-quality products, and avoid harm to society.",
+        "spans": [
+          "Ethics focuses on defining the right things to the individuals and every organisation should fulfil its responsibility towards the environment.",
+          "The company also tries to deliver high-quality products to consumers.",
+          "They also ensure that they do not cause any harm to society.",
+          "The increase in the public image will directly increase the brand value of the company."
+        ]
+      }
+    ]
+  }
+}

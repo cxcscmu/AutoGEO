@@ -1,0 +1,65 @@
+{
+  "question": "how does the electronic environment impact one’s personal security?",
+  "key_points": {
+    "clueweb22-en0016-88-09805": [
+      {
+        "point_number": 1,
+        "point_content": "The electronic environment exposes personal information to breaches and availability on the web or dark web.",
+        "spans": [
+          "Many intrusions into government and private-sector systems have exposed sensitive mission, business and personal information.",
+          "Every day it seems that more and more systems are breached and more and more personal information is made available either on the web or, worse, the dark web."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The integration of everyday and critical technologies into the Internet of Things increases the exposure of personal information.",
+        "spans": [
+          "The “edge” today is the burgeoning and already vast world of the “Internet of Things,” or IoT.",
+          "And as those technologies, both familiar and critical, become increasingly integrated with IoT, so does information, all kinds of information, including intellectual property and your personal information."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The complexity and ubiquity of information technology infrastructure means personal information is routinely processed, stored, and transmitted through global networks, raising security and privacy concerns.",
+        "spans": [
+          "We have built an incredibly complex information technology infrastructure consisting of millions of billions of lines of code, hardware platforms with integrated circuits on computer chips, and millions of applications on every type of computing platform from smart watches to mainframes.",
+          "And right in the middle of all that complexity, your information is being routinely processed, stored and transmitted through global networks of connected systems.",
+          "From a security and privacy perspective, we are not only concerned about the confidentiality, integrity and availability of the data contained in the systems embedded deep in the nation’s critical infrastructure, but also of our personal information."
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0015-12-12838": [
+      {
+        "point_number": 1,
+        "point_content": "The increased availability of digital information presents concerns and challenges of privacy, accuracy, intellectual property rights, security, and censorship.",
+        "spans": [
+          "The increased availability of digital information presents concerns and challenges of privacy, accuracy, intellectual property rights, security, and censorship."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Security, as it relates to social media, video surveillance, drones, digital footprint or other topics as they relate to digital privacy.",
+        "spans": [
+          "Security, as it relates to social media, video surveillance, drones, digital footprint or other topics as they relate to digital privacy."
+        ]
+      }
+    ],
+    "clueweb22-en0039-21-17414": [
+      {
+        "point_number": 1,
+        "point_content": "The increased availability of digital information presents concerns and challenges of privacy, accuracy, intellectual property rights, security, and censorship.",
+        "spans": [
+          "The increased availability of digital information presents concerns and challenges of privacy, accuracy, intellectual property rights, security, and censorship."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Security, as it relates to social media, video surveillance, drones, digital footprint or other topics as they relate to digital privacy.",
+        "spans": [
+          "Security, as it relates to social media, video surveillance, drones, digital footprint or other topics as they relate to digital privacy."
+        ]
+      }
+    ]
+  }
+}

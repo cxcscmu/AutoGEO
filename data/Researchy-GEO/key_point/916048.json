@@ -1,0 +1,436 @@
+{
+  "question": "why did the american revolution occur",
+  "key_points": {
+    "clueweb22-en0018-34-11658": [
+      {
+        "point_number": 1,
+        "point_content": "The colonists did not like the way he ruled, with high taxes and forcing them on one religion.",
+        "spans": [
+          "The colonists did not like the way he ruled, with high taxes and forcing them on one religion."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "They made The Declaration of Independence to get away from the rule of the king.",
+        "spans": [
+          "They made The Declaration of Independence to get away from the rule of the king."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The Boston Massacre started the American Revolution.",
+        "spans": [
+          "The Boston Massacre started the American Revolution."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The colonies were sick and tired of the British.",
+        "spans": [
+          "The colonies were sick and tired of the British."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The First Continental Congress was a meeting between the 13 colonies and became the governing body of the United States during the revolution.",
+        "spans": [
+          "The First Continental Congress was a meeting between the 13 colonies.",
+          "The Continental Congress became the governing body of the United States during the revolution."
+        ]
+      }
+    ],
+    "clueweb22-en0035-31-16060": [
+      {
+        "point_number": 1,
+        "point_content": "The American Revolution began as a disagreement over the way Great Britain governed the colonies and the way the colonies thought they should be treated.",
+        "spans": [
+          "The American Revolution began in 1775 as an open conflict between the United Thirteen Colonies and Great Britain.",
+          "Essentially, it began as a disagreement over the way Great Britain governed the colonies and the way the colonies thought they should be treated."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Americans felt they deserved all the rights of Englishmen, while the British thought the colonies were created to be used in ways that best suited the Crown and Parliament.",
+        "spans": [
+          "Americans felt they deserved all the rights of Englishmen.",
+          "The British, on the other hand, thought that the colonies were created to be used in ways that best suited the Crown and Parliament."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The slogan 'No Taxation Without Representation' embodied the conflict between the colonies and Britain.",
+        "spans": [
+          "This conflict is embodied in one of the rallying cries of the ​ American Revolution: \"No Taxation Without Representation.\""
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The mindset of the founding fathers was influenced by Enlightenment thinkers and ideas such as the social contract, limited government, consent of the governed, and separation of powers.",
+        "spans": [
+          "A number of the revolutionary leaders had studied major writings of the Enlightenment, including those of Thomas Hobbes, John Locke, Jean-Jacques Rousseau, and the Baron de Montesquieu.",
+          "From these thinkers, the founders gleaned such new political concepts as the social contract, limited government, the consent of the governed, and the separation of powers ."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Locke's writings raised questions about the rights of the governed and the overreach of the British government, spurring republican ideology opposing tyranny.",
+        "spans": [
+          "Locke's writings, in particular, struck a chord.",
+          "His books helped to raise questions about the rights of the governed and the overreach of the British government.",
+          "They spurred the \"republican\" ideology that stood up in opposition to those viewed as tyrants."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "The geography of the colonies and their distance from Great Britain created a sense of independence and desire for freedom.",
+        "spans": [
+          "The geography of the colonies also contributed to the revolution.",
+          "Their distance from Great Britain naturally created a sense of independence that was hard to overcome."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "The Proclamation of 1763, which prevented colonization west of the Appalachian Mountains, was largely ignored and left a stain on the relationship between the colonies and Britain.",
+        "spans": [
+          "The Proclamation of 1763 played its own role.",
+          "After the French and Indian War, King George III issued the royal decree that prevented further colonization west of the Appalachian Mountains.",
+          "Despite this concession, the affair left another stain on the relationship between the colonies and Britain."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Colonial legislatures had powers that the British government tried to curtail, leading to conflict over autonomy.",
+        "spans": [
+          "The existence of colonial legislatures meant that the colonies were in many ways independent of the crown.",
+          "The British government had different ideas and attempted to curtail the powers of these newly elected bodies."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Economic troubles arose after the French and Indian War, leading Britain to levy new taxes and increase trade regulations, which were not well received by the colonists.",
+        "spans": [
+          "The French and Indian War led to considerable economic trouble for the British government.",
+          "They levied new taxes on the colonists and increased trade regulations.",
+          "These actions were not well received by the colonists."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "New taxes such as the Sugar Act and the Currency Act increased taxes and restricted economic freedom, fueling colonial discontent.",
+        "spans": [
+          "New taxes were enforced, including the Sugar Act and the Currency Act, both in 1764.",
+          "The Sugar Act increased already considerable taxes on molasses and restricted certain export goods to Britain alone.",
+          "The Currency Act prohibited the printing of money in the colonies, making businesses rely more on the crippled British economy."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Colonists felt underrepresented, overtaxed, and unable to engage in free trade, rallying to the slogan 'No Taxation Without Representation.'",
+        "spans": [
+          "Feeling underrepresented, overtaxed, and unable to engage in free trade, the colonists rallied to the slogan, \"No Taxation Without Representation.\""
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "British officials and soldiers were given more control over the colonists, leading to widespread corruption and abuses such as the Writs of Assistance.",
+        "spans": [
+          "The British government's presence became increasingly more visible in the years leading to the revolution.",
+          "Among the most glaring of these issues were the \"Writs of Assistance.\"",
+          "These were general search warrants that gave British soldiers the right to search and seize any property they deemed to be smuggled or illegal goods.",
+          "However, many abused this power."
+        ]
+      },
+      {
+        "point_number": 13,
+        "point_content": "Forcing colonists to house British soldiers and events like the Boston Massacre infuriated the population and increased tensions.",
+        "spans": [
+          "The Third Amendment was also inspired by the overreach of the British government.",
+          "Forcing colonists to house British soldiers in their homes infuriated the population.",
+          "many also found it a traumatic experience after events like the Boston Massacre in 1770 ."
+        ]
+      },
+      {
+        "point_number": 14,
+        "point_content": "The colonial justice system was corrupt, with political protests suppressed and trials unfair, further fueling colonial grievances.",
+        "spans": [
+          "American colonists also had to endure a corrupt justice system.",
+          "Political protests became a regular occurrence as these realities set in.",
+          "After six British soldiers were acquitted and two dishonorably discharged for the Boston Massacre—ironically enough, they were defended by John Adams—the British government changed the rules.",
+          "From then on, officers accused of any offense in the colonies would be sent to England for trial.",
+          "jury trials were replaced with verdicts and punishments handed down directly by colonial judges.",
+          "judges were known to be chosen, paid, and supervised by the British government."
+        ]
+      },
+      {
+        "point_number": 15,
+        "point_content": "All these grievances led to the American Revolution and influenced the U.S. Constitution to protect against similar loss of freedoms.",
+        "spans": [
+          "All of these grievances that colonists had with the British government led to the events of the American Revolution.",
+          "And many of these grievances directly affected what the founding fathers wrote into the U.S. Constitution."
+        ]
+      }
+    ],
+    "clueweb22-en0007-44-13391": [
+      {
+        "point_number": 1,
+        "point_content": "The American Revolution was caused by British attempts to assert greater control over colonial affairs after a long period of salutary neglect, leading to growing estrangement between the British crown and the colonies.",
+        "spans": [
+          "The war followed more than a decade of growing estrangement between the British crown and a large and influential segment of its North American colonies that was caused by British attempts to assert greater control over colonial affairs after having long adhered to a policy of salutary neglect."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The Intolerable Acts were punitive measures by Parliament in response to the Boston Tea Party, intended to force the population into obedience and were a cause of the revolution.",
+        "spans": [
+          "After the Boston Tea Party (December 16, 1773), Parliament responded with the Intolerable Acts (1774), a series of punitive measures that were intended to cow the restive population into obedience."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The colony of Massachusetts was seen as the hotbed of disloyalty and was placed under military government, escalating tensions leading to the revolution.",
+        "spans": [
+          "The colony of Massachusetts was seen by King George III and his ministers as the hotbed of disloyalty.",
+          "the colony’s elected ruling council was replaced with a military government under Gen. Thomas Gage, the commander of all British troops in North America."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "British attempts to seize colonial weapons and powder stores, such as at Fort William and Mary, provoked open violence and resistance from the colonists.",
+        "spans": [
+          "Beginning in the late summer of 1774, Gage attempted to suppress the warlike preparations throughout New England by seizing stores of weapons and powder.",
+          "Learning of a British plan to secure the weapons cache at Fort William and Mary, an undermanned army outpost in Portsmouth, New Hampshire, Boston’s Committee of Correspondence dispatched Paul Revere on December 13, 1774, to issue a warning to local allies.",
+          "The following day, several hundred men assembled and stormed the fort, capturing the six-man garrison, seizing a significant quantity of powder, and striking the British colours; a subsequent party removed the remaining cannons and small arms."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The Battles of Lexington and Concord were sparked by British attempts to seize colonial military stores, marking the outbreak of armed conflict.",
+        "spans": [
+          "Some 700 British troops spent the evening of April 18, 1775, forming ranks on Boston Common, with orders to seize the colonial armoury at Concord.",
+          "It is unclear who fired “the shot heard ’round the world,” but it sparked a skirmish that left eight Americans dead.",
+          "The colonial force evaporated, and the British moved on to Concord, where they were met with determined resistance from hundreds of militiamen."
+        ]
+      }
+    ],
+    "clueweb22-en0022-40-19120": [
+      {
+        "point_number": 1,
+        "point_content": "The American Revolution was shaped by high principles and low ones, by imperial politics, dynastic rivalries, ambition, greed, personal loyalties, patriotism, demographic growth, social and economic changes, cultural developments, British intransigence, and American anxieties.",
+        "spans": [
+          "The American Revolution was shaped by high principles and low ones, by imperial politics, dynastic rivalries, ambition, greed, personal loyalties, patriotism, demographic growth, social and economic changes, cultural developments, British intransigence, and American anxieties."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "It was shaped by conflicting interests between Britain and America, between regions within America, between families and between individuals.",
+        "spans": [
+          "It was shaped by conflicting interests between Britain and America, between regions within America, between families and between individuals."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "It was shaped by religion, ethnicity, and race, as well as by tensions between rich and poor.",
+        "spans": [
+          "It was shaped by religion, ethnicity, and race, as well as by tensions between rich and poor."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "It was shaped, perhaps above all else, by the aspirations of ordinary people to make fulfilling lives for themselves and their families, to be secure in their possessions, safe in their homes, free to worship as they wished, and to improve their lives by availing themselves of opportunities that seemed to lie within their grasp.",
+        "spans": [
+          "It was shaped, perhaps above all else, by the aspirations of ordinary people to make fulfilling lives for themselves and their families, to be secure in their possessions, safe in their homes, free to worship as they wished, and to improve their lives by availing themselves of opportunities that seemed to lie within their grasp."
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0039-36-16492": [
+      {
+        "point_number": 1,
+        "point_content": "Traditional social science methods have not been very successful in predicting revolutions.",
+        "spans": [
+          "Traditionally, social scientists have looked at factors such as a country’s economic situation or the strength of the government in power to predict where revolutions will happen and why.",
+          "However, such methods have not been very successful in predicting revolutions."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Eric Selbin believes social scientists have overlooked the power of cultural factors such as storytelling and symbolism in understanding revolutions.",
+        "spans": [
+          "Eric Selbin, a political science professor and University Scholar at Southwestern University who studies revolutions, believes social scientists have been overlooking a key indicator: the power of cultural factors such as storytelling and the use of symbolism."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Stories allow people to imagine transformation and make revolution a possibility, overcoming economic and military disadvantages.",
+        "spans": [
+          "Selbin says stories allow us to imagine the transformation of our lives and our world.",
+          "“If you have people who can animate a powerful and compelling story about revolution, then suddenly it becomes a possibility,” he says.",
+          "“Stories…can obviate economic disadvantage, surmount socio-cultural mores and even triumph over military might.”"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Revolutions are more likely where revolution is seen as grand and noble, less likely where it is seen negatively.",
+        "spans": [
+          "“Revolutions are more likely to occur in places where it is lauded as grand, glorious and noble than in places where it is seen as a bad idea and a cause of trouble,” he says.",
+          "In Haiti, for example, he says revolution is regarded negatively because that country witnessed one of the world’s greatest revolutions, but it failed."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Stories help sustain people during the challenges of revolution, inspiring struggle for a better future.",
+        "spans": [
+          "Selbin notes that stories also can help sustain people during the challenging times of a revolution.",
+          "“We can never underestimate how much people are willing to struggle so their children can have a better life,” he says."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Historical revolutionary stories, such as Cuba’s war of independence, can inspire and motivate revolutionary action.",
+        "spans": [
+          "In his book, for example, Selbin recalls how in 1958, when the revolutionary struggle in Cuba still seemed to hang in the balance, revolutionary leader Fidel Castro drew on a story from Cuba’s 1895 war of independence from Spain.",
+          "Castro had two of his lieutenants replicate the famous “incendiary march.”",
+          "“It proved to be a brilliant tactical stroke which succeeded on several levels: militarily, psychologically and culturally,” Selbin says."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Awareness of other successful revolutions can inspire people to resist and rebel.",
+        "spans": [
+          "“Circumstantial evidence suggests that when people do choose to resist, rebel or take up the revolutionary banner, it is in part because they are aware that other people in other places at other times under other circumstances have done so,” Selbin says."
+        ]
+      }
+    ],
+    "clueweb22-en0023-85-09845": [
+      {
+        "point_number": 1,
+        "point_content": "The American Revolution started out as a colonial revolt against the mercantile and economic policies of the British Empire in British North America.",
+        "spans": [
+          "Most historians agree that the American Revolution started out as a colonial revolt against the mercantile and economic policies of the British Empire in British North America."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The revolt was the result of years of growing tension caused by the British government's attempts to assert more control over colonial affairs, specifically over trade and commerce.",
+        "spans": [
+          "This revolt was the result of years of growing tension between the colonists and the British government caused by the government’s attempts to assert more control over colonial affairs, specifically over trade and commerce."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The British government ended its policy of salutary neglect after the Seven Years’ War ended in 1763 and began passing new laws and taxes to pay off war debts, which the colonists resented.",
+        "spans": [
+          "Salutary neglect came to an end when the Seven Years’ War, aka the French and Indian War, ended in 1763 and the government found itself in heavy debt due to the high cost of the war.",
+          "When the government began passing new laws and taxes in an attempt to make money off of the colonies to help pay off these debts, the colonists resented it and began to push back."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The colonists felt they were not represented in the government since they could not vote for Parliamentary officials enacting the new taxes and laws, leading to the motto: No taxation without representation.",
+        "spans": [
+          "Since the colonists couldn’t vote for the Parliamentary officials that were enacting the new taxes and laws, they felt they weren’t being represented in the government, hence their motto: No taxation without representation."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The colonists had become accustomed to self-governing during salutary neglect and felt the government no longer had authority to govern them.",
+        "spans": [
+          "The colonists had become accustomed to self-governing during salutary neglect and felt that the government didn’t have the authority to govern them anymore."
+        ]
+      }
+    ],
+    "clueweb22-en0006-53-18946": [
+      {
+        "point_number": 1,
+        "point_content": "The American Revolution was partially conservative and partially liberal, contributing to the nuance of the issue.",
+        "spans": [
+          "The American Revolution was partially conservative and partially liberal, contributing to the nuance of the issue."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Politically, the revolution was revolutionary because the governmental institutions that resulted from it were radically different than the inherited governmental systems of Great Britain.",
+        "spans": [
+          "Politically, the revolution was revolutionary because the governmental institutions that resulted from it were radically different than the inherited governmental systems of Great Britain."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The Bill of Rights was established in the United States and its ideals of freedom of religion, speech, and press (among others) were dissimilar to those of Britain.",
+        "spans": [
+          "Additionally, the Bill of Rights was established in the United States and its ideals of freedom of religion, speech, and press (among others) were dissimilar to those of Britain."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Economically, the American Revolution was conservative, maintaining the agricultural economies of the South and commerce and industry in the North.",
+        "spans": [
+          "Economically, the American Revolution was conservative. The agricultural economies of the South prevailed while the merchants in the North continued to profit through commerce and industry."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Socially, the American Revolution was conservative, with cultural values and class structures not significantly changing and women's roles remaining domestic.",
+        "spans": [
+          "Socially, the American Revolution was also conservative. Cultural values and class structures did not significantly change. Women’s role in society was not altered – the idea of “Republican Motherhood” persisted and women were expected to stay at home and teach “domestic virtues”."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "The American Revolution occurred in the context of the French and Indian War, which led to increased British authority over the colonies and colonial resistance.",
+        "spans": [
+          "The American Revolution occured in the context of the French and Indian War, a worldwide struggle between the British and French (both formidable European powers), in which both nations were vying for power.",
+          "These factors persuaded many English leaders that a major reorganization of the empire, giving Britain increased authority over the colonies, would be necessary in the aftermath of the war.",
+          "The French and Indian War ultimately helped shape the American response to British imperial policies, a type of resistance that was reflected in the American Revolution."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Americans opposed taxation without representation and desired political autonomy and natural rights, fueling revolutionary ideology.",
+        "spans": [
+          "Opposition to taxation was reflected through the Stamp Act and the Boston Tea Party.",
+          "The Americans insisted that taxation could only be passed if they had a voice in the British parliament.",
+          "The Americans also had an ardent desire for sovereignty, in which they would receive political autonomy – the right of a nation’s government to rule itself and not be commanded by others.",
+          "Natural rights were valued, where man is born with certain rights that no government could take away; these rights are life, liberty, and property."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Despite political changes, elite white men continued to have the majority of voting rights, showing some political conservatism.",
+        "spans": [
+          "However, in some ways the revolution was politically conservative as elite white men continued to have the majority of voting rights in the country."
+        ]
+      }
+    ],
+    "clueweb22-en0035-89-06191": [
+      {
+        "point_number": 1,
+        "point_content": "Parliament had been passing laws placing taxes on the colonists in America, such as the Sugar Act and the Stamp Act, which the colonists did not like.",
+        "spans": [
+          "Parliament (England's Congress) had been passing laws placing taxes on the colonists in America.",
+          "There had been the Sugar Act in 1764, the Stamp Act the following year, and a variety of other laws that were meant to get money from the colonists for Great Britain.",
+          "The colonists did not like these laws."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Great Britain passed these laws to pay off the huge debt from the French and Indian War, claiming it was to protect American subjects, but most Americans disagreed.",
+        "spans": [
+          "Great Britain was passing these laws because of the French and Indian War, which had ended in 1763.",
+          "Parliament said it had fought the long and costly war to protect its American subjects from the powerful French in Canada.",
+          "Most Americans disagreed. They believed that England had fought the expensive war mostly to strengthen its empire and increase its wealth, not to benefit its American subjects."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The colonists felt they were not represented in Parliament and thus Parliament had no right to tax them, leading to the rallying cry 'No taxation without representation'.",
+        "spans": [
+          "Parliament was elected by people living in England, and the colonists felt that lawmakers living in England could not understand the colonists' needs.",
+          "The colonists felt that since they did not take part in voting for members of Parliament in England they were not represented in Parliament.",
+          "So Parliament did not have the right to take their money by imposing taxes.",
+          "\"No taxation without representation\" became the American rallying cry."
+        ]
+      }
+    ]
+  }
+}

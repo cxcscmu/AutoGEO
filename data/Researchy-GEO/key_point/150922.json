@@ -1,0 +1,450 @@
+{
+  "question": "why do you think people believe in fake news",
+  "key_points": {
+    "clueweb22-en0008-95-14045": [
+      {
+        "point_number": 1,
+        "point_content": "Repeated exposure to fake news increases its perceived accuracy, even when there are explicit warnings to alert the reader.",
+        "spans": [
+          "repeated exposure to fake news increases our credulity, even when there are explicit warnings to alert the reader",
+          "repeated exposure to fake news increases its perceived accuracy",
+          "Participants fell victim to the illusory truth effect when faced with fake news - they were more likely to believe false headlines that were presented twice",
+          "Fake news only needed to be shown once again for it to increase in perceived accuracy for participants",
+          "Once again, the more that fake news is repeated, the more likely people are to believe it",
+          "Labelling has an immediate effect on the perception of fake news - it allows people to be more wary. But this tool, used by social media organisations to flag news that has been fact-checked and disputed, is not enough to contain the problem. The more people are exposed to fake news, the more likely they are to believe it, even if they are explicitly warned."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Belief in fake news is influenced by two cognitive processes: analytic thought, which makes people more sceptical, and intuitive thought, which makes them more gullible.",
+        "spans": [
+          "they identify two cognitive processes that may impact belief in fake news - analytic thought, which makes people more sceptical, and intuitive thought, which makes them more gullible",
+          "the authors argue the following: If classical reasoning theory is correct, participants who make more cognitive effort will also be less likely to believe fake news that panders to their opinion",
+          "the more intuitive participants of the group judged fake news to be more accurate than the more analytic participants",
+          "Given that people who use analytic reasoning are better at distinguishing fake news, this kind of reasoning could be promoted and developed to fight the phenomenon of disinformation online",
+          "Mediation allowed the authors to identify the key role of intuitive thinking in believing fake news. This result supports the previous study. Intuitive thinking explains why individuals who scored higher for the three aforementioned psychological dimensions (delusionality, dogmatism and religious fundamentalism) believe more strongly in fake news, on average."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "People who scored highly on delusionality, dogmatism, and religious fundamentalism tests tend to believe fake news more, linked to their use of intuitive thinking.",
+        "spans": [
+          "There is a statistical link between believing fake news and the three dimensions in question: people who scored highly on the delusionality, dogmatism and religious fundamentalism tests tended to have a higher score on the fake news belief test",
+          "Mediation allowed the authors to identify the key role of intuitive thinking in believing fake news. This result supports the previous study. Intuitive thinking explains why individuals who scored higher for the three aforementioned psychological dimensions (delusionality, dogmatism and religious fundamentalism) believe more strongly in fake news, on average."
+        ]
+      }
+    ],
+    "clueweb22-en0002-25-16644": [
+      {
+        "point_number": 1,
+        "point_content": "People rely heavily on social information, or what they think others are thinking, to make judgments when overwhelmed by information.",
+        "spans": [
+          "human judgements also rely upon secondary information that doesn’t come from any external source – and that offers one of the most powerful tools we possess for dealing with the deluge itself. This source is social information. Or, in other words: what we think other people are thinking."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "In situations of uncertainty, people look to others' behavior as a cue for what to believe or do, which can lead to belief in misinformation.",
+        "spans": [
+          "when you don’t possess sufficient information to solve a given problem, or if you just don’t want to or have the time for processing it, then it can be rational to imitate others by way of social proof"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The digital age has increased reliance on social information, creating 'infostorms' that can spread misinformation through rational decision-making rather than human folly.",
+        "spans": [
+          "the information suffusion of digital culture has introduced something new into this ancient psychological equation: a whole new level of reliance upon social information; and a whole new set of hazards and anxieties around errors, manipulation and cascades of influence.",
+          "Danish researchers Vincent F Hendricks and Pelle G Hansen give these tumultuous processes a name – an “information storm”, or infostorm, in the sense of a sudden and tempestuous flow of social information – and suggest an intriguing alternative to the narratives of human folly and unreason so often applied to fake news and tribal divisions online.",
+          "Rather than despairingly deciding that we now live in a post-truth era ruled by irrational forces, they argue in their book Infostorms, many of the digital world’s most fractious sites are in fact the results of perfectly rational decision-making by those involved – and originate not so much in human foolishness as in the nature of information environments themselves."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "When people encounter information they cannot verify themselves, they often rely on what others seem to believe as a shortcut to determine truthfulness.",
+        "spans": [
+          "Assuming they have no first-hand knowledge of the claim, it’s theoretically possible for them to look it up elsewhere – a process of laborious verification that involves trawling through countless claims and counter-claims. They also, however, possess a far simpler method of evaluation, which is to ask what other people seem to think."
+        ]
+      }
+    ],
+    "clueweb22-en0006-96-06602": [
+      {
+        "point_number": 1,
+        "point_content": "People do not consciously desire false information but form beliefs based on information they assume to be correct.",
+        "spans": [
+          "No one deliberately and consciously desires false information. Quite the opposite: people consciously form their beliefs on the basis of information they assume to be correct."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Unconscious motives like the need for certainty and the need for specific outcomes drive belief in fake news.",
+        "spans": [
+          "Apart from the conscious desire for true information, other, unconscious motives drive the belief formation process.",
+          "Two types of motivation are particularly relevant here: the need for certainty (activated especially in times of turmoil and change), and the need for specific outcomes."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "People are attracted to simplistic messages that provide certainty, making fake news with simplistic certainty more likely to be believed.",
+        "spans": [
+          "When the need for certainty is activated, people are attracted to simplistic messages that can deliver it (e.g., immigrants are responsible for all societal ills; that we are good and others are evil).",
+          "So, fake messages phrased with simplistic certainty, are more likely to be believed and accepted without much scrutiny."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Messages asserting specific outcomes consistent with a person's desires are more readily accepted, whether fake or true.",
+        "spans": [
+          "In a similar manner, messages that assert a specific outcome—whether fake or true— may appeal and be readily accepted, if consistent with what a person would like to believe."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "People with stronger motivational bias towards a candidate may be less critical of fake news favorable to that candidate.",
+        "spans": [
+          "Other data (Jasko & Kruglanski, 2017 [MC1] ) suggest that Trump voters were more motivated and more committed to their candidate than Clinton voters were to theirs. A stronger motivational bias by Trump voters may have led them to be less critical of the fake news."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "People reject statements that are too outlandish or out of step with what they know, even if motivationally gratifying.",
+        "spans": [
+          "Statements that are too outlandish (e.g., that Barrack Obama was member of the KKK), too out of step with what we know, are likely to be rejected, even if motivationally gratifying."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "People with little knowledge in a domain are more prone to motivational bias and fake news acceptance.",
+        "spans": [
+          "Often, however, one may have very little knowledge with which to confront new, dis-informative messages. Under this condition, when one simply does not know what to believe, one may be particularly prone to a motivational bias."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "More educated and experienced people are less vulnerable to fake news.",
+        "spans": [
+          "Indeed, recent research on the acceptance of fake news during the 2016 electoral campaign finds that more educated people and older people (who presumably have greater experience) were less vulnerable to fake news."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Declining trust in government and media has reduced reliance on traditional credible information sources.",
+        "spans": [
+          "Trust in the United States government started declining in the 1960’s during the Vietnam war, and has continued to wane ever since.",
+          "Approval ratings of Congress have dropped significantly since 2002.",
+          "Americans, deeply divided along party lines and by philosophy, doubt the media.",
+          "President Trump’s feud with the press has only made matters worse, and public trust in the media is at its all-time nadir."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "The rise of social media and internet bots has transformed the information landscape, reducing dominance of traditional media and government as credible sources.",
+        "spans": [
+          "Moreover, the proliferation of transient and seemingly ad-hoc social media platforms, the appearance of cyborg-like internet bots and similar developments have transformed completely the informational landscape worldwid.",
+          "They have considerably reduced the dominance once enjoyed by media and governmental institutions as credible informational sources."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "In times of confusion and turmoil, people seek information wherever they can, opening the door to sources that tell them what they wish to hear.",
+        "spans": [
+          "In this time of confusion, rapid change and rising turmoil (e.g., the ascendance of Asian powers like China and India, Islamist terrorism, economic instability and the refugee crisis) people clamor for information and get it wherever they can.",
+          "This demand, along with the vacuum created by mistrust of traditional information sources, has opened the door to an influx of new sources, particularly on the internet, motivated to tell people what they wish to hear, and/or trying to sway people’s opinion in a politically desired direction."
+        ]
+      }
+    ],
+    "clueweb22-en0019-26-06787": [
+      {
+        "point_number": 1,
+        "point_content": "People's individual susceptibility to false information is attributed to their belief systems and tribalism.",
+        "spans": [
+          "Introne attributes people’s individual susceptibility to false information to their belief systems and tribalism — a state where the identity of the group becomes more important than the identity of the individual."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Belief systems are pools of interconnected beliefs that influence what information people accept as true.",
+        "spans": [
+          "Josh Introne, Assistant Professor of Information Studies at the iSchool, studies how our belief systems impact the stories and information we choose to accept as true.",
+          "His research examines belief systems — pools of interconnected beliefs that are likely to occur together — within certain populations."
+        ]
+      }
+    ],
+    "clueweb22-en0013-71-02108": [
+      {
+        "point_number": 1,
+        "point_content": "People fall for fake news due to confirmation bias, favoring information that confirms their existing beliefs.",
+        "spans": [
+          "Confirmation bias refers to our favoring of information that confirms our existing beliefs."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "People often fail to evaluate the credibility of news sources, making them susceptible to fake news.",
+        "spans": [
+          "We must first evaluate it.",
+          "Such evaluation involves digging deeper into the article and assessing the sources of the claims, looking for evidence (rather than opinion, anecdotal support, or common belief statements), searching for replication across other news outlets and assessing the credentials of the author, publisher, and/or website."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "People's attention and impatience lead them to skim headlines and not deeply evaluate news, increasing susceptibility to fake news.",
+        "spans": [
+          "We scroll past articles that are unimportant or uninteresting to us; we don’t pay attention to them. Sometimes, we barely read the headlines.",
+          "Are we really attending to what is being said or are we just looking for a quick answer? How deep are we evaluating? Are we patient enough to engage this properly? Are we even evaluating or are we just skimming through before moving on to the next report?"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Cognitive laziness causes people to rely on intuitive decisions rather than critical evaluation, leading to belief in fake news.",
+        "spans": [
+          "humans are cognitively lazy (Kahneman, 2011). Our brains have evolved to conserve energy for \"more important\" tasks; and, so, they don’t very much like expending energy when an intuitive decision can be made that is good enough"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Emotions like fear and anger make people think irrationally and more susceptible to fake news.",
+        "spans": [
+          "Fake news, like propaganda, can evoke and breed emotions like fear and anger in the reader or listener. If you’re emotional, you’re not thinking rationally and are more susceptible to falling for fake news."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "The illusory truth effect causes repeated exposure to fake news to increase belief in it.",
+        "spans": [
+          "the illusory truth effect refers to the phenomenon in which the more we have been exposed to certain information, the more likely we are to believe that information."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Social pressure influences people to believe fake news to conform with their social groups and avoid conflict.",
+        "spans": [
+          "Social pressure plays a much larger role than you think.",
+          "Social pressure plays a much larger role than you think."
+        ]
+      }
+    ],
+    "clueweb22-en0017-52-08886": [
+      {
+        "point_number": 1,
+        "point_content": "People do not deliberately desire false information; they consciously desire the Truth, but unconsciously other motives drive belief formation.",
+        "spans": [
+          "No one deliberately and consciously desires false information.",
+          "Quite the opposite, people consciously form their beliefs on the basis of information they assume to be correct.",
+          "Explicitly, they desire the Truth, the complete Truth and nothing but the Truth."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Unconscious motives such as the need for certainty and the need for specific outcomes make people accept fake news that aligns with their wishes and desires.",
+        "spans": [
+          "Apart from the conscious desire for true information other, unconscious, motives drive the belief formation process.",
+          "Two types of motivation are particularly relevant here, the need for certainty (activated in particular in times of turmoil and change), and the need for specific outcomes.",
+          "When the need for certainty is activated, people are attracted to simplistic messages that promise certainty",
+          "so, when fake messages are phrased in simplistic, certainty affording way—they are likely to be believed and accepted without much scrutiny.",
+          "messages (whether fake or true) that assert a specific outcome ... may be appealing to some, if consistent with what they would like to believe and therefore is readily accepted."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "People with little knowledge in a domain are more prone to believe fake news, while those with more knowledge or expertise are less vulnerable.",
+        "spans": [
+          "Often, however, one may have very little knowledge with which to confront the new possibly dis-informative message; under those conditions, when one simply does not know what to believe, one may be particularly prone to a motivational bias.",
+          "people in the know are less likely to fall prey to fake news in their domain of expertise.",
+          "recent research on the acceptance of fake news during the U.S 2016 electoral campaign finds that more educated people and older people (i.e., who presumably have greater experience) are less vulnerable to fake news."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Loss of trust in traditional reliable sources like government and mass media has led people to seek information from less reliable sources, increasing exposure to fake news.",
+        "spans": [
+          "In most other informational matters about society, politics and the world one used to turn to respectable societal institutions, the government, the mass media.",
+          "In those olden days, government and the media enjoyed a monopoly on trustworthiness, and were therefore pervasively relied upon.",
+          "the proliferation of the transient and seemingly ad hoc social media platforms, the appearance of the cyborg-like internet bots, etc., have transformed completely the informational landscape worldwide and considerably reduced the dominance once enjoyed by media and governmental institutions as credible informational sources.",
+          "This state of affairs and the vacuum created by mistrust of the central informational authorities opened the door to an influx of new sources of information on the internet—motivated either to tell people what they wish to hear, and/or motivated to sway people’s opinion in a politically desired direction."
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0032-41-14895": [
+      {
+        "point_number": 1,
+        "point_content": "People fall for fake news due to cognitive biases, which are gaps in reasoning that lead to mistaken conclusions.",
+        "spans": [
+          "people do fall for these stories, and being shown the facts doesn’t help correct this problem. This is due to a feature of human thinking called cognitive biases. A cognitive bias is a gap in reasoning, remembering, or evaluating something that can lead to mistaken conclusions."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Cognitive biases result from automatic mental shortcuts that conserve mental energy but can cause mistakes in thinking.",
+        "spans": [
+          "Cognitive biases result from the automatic mental shortcuts that humans naturally take on a daily basis. Normally, these shortcuts make our lives easier. You don't need to re-learn your path from home to work or school every day; it’s become so ingrained in your mind that you can follow it almost without thinking. This \"automatic process\" allows us to conserve mental energy that we could use for things that are more complicated"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "People tend to act on headlines without reading the full articles, leading to acceptance of fake news.",
+        "spans": [
+          "First, we tend to act on the basis of headlines and tags without reading the article they’re associated with.",
+          "many people form opinions about news articles without ever having read them.",
+          "many viewers, without reading the article, went right ahead and posted comments in response to the headline, clearly not having read the article",
+          "many comments on the news articles they present come from individuals who are reacting to the headline and not the article itself",
+          "More than half the time, according to computer records, more than half of the users who shared the articles never clicked the link that would have enabled them to read the story."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Popularity cues, like the number of shares or likes, influence acceptance of fake news through the bandwagon effect.",
+        "spans": [
+          "One of the most well-researched cognitive biases that explains how popularity can influence how we think is called the \"bandwagon effect\"",
+          "the bandwagon effect leads us to focus on how many times something has been shared or liked, rather than by the content itself",
+          "shares and like can often come about without anyone reading what's being shared"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Partisanship strongly influences belief in fake news, with political attitudes affecting what people believe regardless of truthfulness.",
+        "spans": [
+          "one’s political attitudes—liberal vs. conservative—has a huge impact on what we readily believe or reject in the news, regardless of its truthfulness",
+          "most politically-oriented fake news during the 2016 election campaigns was consumed by conservatives, with Donald Trump supporters being especially likely to encounter and visit fake news sites"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "False information tends to persist in people's minds even after being corrected, due to belief echoes and poor memory for corrections.",
+        "spans": [
+          "our memory is quite poor when it comes to remembering what’s real and what isn’t, as long as we’ve seen something",
+          "even in the face of information corrections, \"belief echoes\" often remain",
+          "Belief echoes occur when people remember fake news and claim that it was true, even when they were later presented with correct information"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "People often overestimate their ability to detect fake news and underestimate their susceptibility to it, reducing the impact of fact-checking.",
+        "spans": [
+          "The most common way that people evaluate whether information is true or not is to use their own intuition",
+          "People tend to feel more confident about their ability to identify something that isn’t true, than they really are",
+          "people also think that they themselves are less likely to be influenced by media messages than they think other people will be, an illusion commonly called a \"third-person effect\""
+        ]
+      }
+    ],
+    "clueweb22-en0040-63-11709": [
+      {
+        "point_number": 1,
+        "point_content": "Fake news can be fun to spread, like pranking someone without their knowing it.",
+        "spans": [
+          "Fake news can be fun to spread",
+          "It’s sort of like “pranking” someone without their knowing it."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Telling a lie tends to have a slightly hypnotic effect and sparks fun.",
+        "spans": [
+          "when you tell a lie (even if it is just a “little” white lie) it tends to have a slightly hypnotic effect on the person you are telling it to. It somehow sparks fun"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The internet magnifies human incivility and gives individuals a higher perceived voice, leading more people to find it fun to spread false news.",
+        "spans": [
+          "Trolls have been with us since the dawn of time; there will always be some incivility. The typical level of human incivility has been magnified by the internet. The individual’s voice has a much higher perceived value than it has in the past. As a result, there are more people who will find it fun to bring false news to others."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Spreading fake news allows people to feel smart, superior, unique, and in control by having information others do not have.",
+        "spans": [
+          "It allows people to feel smart and superior",
+          "Having information or knowledge that no one else has can naturally make us feel unique, it gives them a sense of control over something, it gives them a feeling of being in on some kind of secret."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "People can say “I told you so” and feel validated by spreading fake news.",
+        "spans": [
+          "And they can say stuff like, “I told you so. You see? I was right all along.”"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Fake news helps people deal with troubled lives by offering a simple distraction.",
+        "spans": [
+          "It helps them deal with a troubled life by offering them a simple distraction."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "People with serious troubles in life may focus on fake news to distract from their problems.",
+        "spans": [
+          "There are many people who have serious troubles in their lives. They cannot find a job they like or cannot keep a job they do like. They cannot get a good lover or are unhappy with their income. Maybe they can’t get out of debt. In other words, they have “troubled lives.” And fake news offers them a simple distraction. It allows them to focus on something else other than their troubles."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Fake news creates chaos and instability in politics, finance, religion, and other areas.",
+        "spans": [
+          "It creates chaos and instability.",
+          "It has created chaos in politics, finance, religion, and many other areas of life."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Fake news is spread efficiently via social media by people with no interest in truth or facts.",
+        "spans": [
+          "The problem with fake news is not that it is untrue, but rather that it is often spread very efficiently via social media by people who have no interest in truth or facts."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Some people spread fake news to cause chaos and mischief or to get rich.",
+        "spans": [
+          "Some people see an opportunity to cause chaos and mischief and they take it. In other cases, it may be that they believe the lies will make them rich."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "The spread of fake news undermines credibility, creates doubt and confusion, and impairs rational decision-making.",
+        "spans": [
+          "Whatever their motive, the net effect of this flood of misinformation is the same: It undermines the credibility of our institutions, creates doubt and confusion, and robs us of our ability to make rational decisions as a society."
+        ]
+      }
+    ],
+    "clueweb22-en0018-74-06862": [
+      {
+        "point_number": 1,
+        "point_content": "Fake news both feeds off of this confirmation bias and serves to intensify it.",
+        "spans": [
+          "Fake news both feeds off of this confirmation bias and serves to intensify it."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "People inclined to dislike those \"on the other side\" will often believe, without question, stories that make those other people look corrupt, incompetent, stupid, or downright evil.",
+        "spans": [
+          "People inclined to dislike those \"on the other side\" will often believe, without question, stories that make those other people look corrupt, incompetent, stupid, or downright evil."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Fake news also feeds the desire that some people have to feel special.",
+        "spans": [
+          "Fake news also feeds the desire that some people have to feel special."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "People who actually believe in conspiracy theories seem to relish the feeling that they are the lucky few who know what is really going on.",
+        "spans": [
+          "People who actually believe in conspiracy theories seem to relish the feeling that they are the lucky few who know what is really going on."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "While it's true that human gullibility makes the spread of fake news possible, naive media consumers are not the biggest bad guys in this story.",
+        "spans": [
+          "While it's true that human gullibility makes the spread of fake news possible, naive media consumers are not the biggest bad guys in this story."
+        ]
+      }
+    ]
+  }
+}

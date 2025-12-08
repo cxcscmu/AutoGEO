@@ -1,0 +1,59 @@
+{
+  "question": "what makes a terrorist",
+  "key_points": {
+    "clueweb22-en0011-23-06012": [
+      {
+        "point_number": 1,
+        "point_content": "Many believe that poverty and lack of education breed terrorism, despite a wealth of evidence showing that most terrorists come from middle-class and often college-educated backgrounds.",
+        "spans": [
+          "Many believe that poverty and lack of education breed terrorism, despite a wealth of evidence showing that most terrorists come from middle-class and often college-educated backgrounds."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Krueger closely examines the factors that motivate individuals to participate in terrorism, drawing inferences from terrorists’ own backgrounds and the economic, social, religious, and political environments in the societies from which they come.",
+        "spans": [
+          "Krueger closely examines the factors that motivate individuals to participate in terrorism, drawing inferences from terrorists’ own backgrounds and the economic, social, religious, and political environments in the societies from which they come."
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0035-86-05395": [
+      {
+        "point_number": 1,
+        "point_content": "Economic deprivation and lack of education are commonly believed to cause terrorism, but evidence rejects this.",
+        "spans": [
+          "A popular explana­tion was that economic deprivation and a lack of education caused people to adopt extreme views and turn to terrorism.",
+          "Despite these pronouncements, however, the available evidence is nearly unanimous in rejecting either material deprivation or inadequate educa­tion as important causes of support for terrorism or participation in terrorist activities."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Better educated and economically better off individuals are more likely to join terrorist groups.",
+        "spans": [
+          "The clear finding was that people with a higher level of education are in general more likely to say that suicide attacks against Westerners in Iraq are justified.",
+          "Support turned out to be stronger among those with a higher level of education.",
+          "Claude Berrebi, now of the RAND Corporation’s Institute for Civil Justice, wrote his dissertation at Princeton on the characteristics of Palestinians from the West Bank and Gaza Strip who were involved in terrorist activities.",
+          "In addi­tion, almost 60 percent of the suicide bombers had more than a high school education, compared with less than 15 percent of the general population.",
+          "These deceased mem­bers of Hezbollah had a lower poverty rate than the Lebanese population: 28 percent versus 33 percent. And Hezbollah members were better educated: 47 percent had a secondary or higher education ver­sus 38 percent of adult Lebanese.",
+          "He found that a high proportion of mem­bers of al-Qaeda were college educated (close to 35 percent) and drawn from skilled professions (almost 45 percent)."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Terrorism is motivated by political grievances and suppression of civil liberties, not poverty.",
+        "spans": [
+          "One set of factors that I examined did consis­tently raise the likelihood that people from a given country will participate in terrorism—namely, the suppression of civil liberties and political rights, including freedom of the press, the freedom to assemble, and democratic rights.",
+          "The evidence suggests that terrorists care about influencing political outcomes. They are often motivated by geopolitical grievances."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Terrorists are people who care fervently about a cause and are willing to die for it, not necessarily the poorest or least educated.",
+        "spans": [
+          "Most terrorists are not so desperately poor that they have nothing to live for. Instead, they are people who care so fervently about a cause that they are willing to die for it."
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "question": "factors that affect psychopathology",
+  "key_points": [
+    {
+      "point_number": 1,
+      "point_content": "Many psychiatric disorders tend to run in families, suggesting potential genetic roots, with high heritability in disorders like schizophrenia and autism, and these disorders are polygenic involving multiple genes.",
+      "original_point_number": [
+        1,
+        14,
+        15
+      ]
+    },
+    {
+      "point_number": 2,
+      "point_content": "Symptoms can overlap among autism, ADHD, bipolar disorder, major depression and schizophrenia, suggesting shared biological similarities, but recent studies have found limited evidence of shared genetic risk factors among some of these disorders.",
+      "original_point_number": [
+        2,
+        3
+      ]
+    },
+    {
+      "point_number": 3,
+      "point_content": "An international research consortium analyzed genome-wide association studies (GWAS) data from the 5 major disorders and found genetic variations significantly associated with all 5 disorders, including variations in genes regulating calcium flow into neurons such as CACNA1C and CACNB2, and illness-linked genetic variation in certain regions of chromosomes 3 and 10, with the region on chromosome 3 having the strongest links.",
+      "original_point_number": [
+        4,
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    {
+      "point_number": 4,
+      "point_content": "Each genetic association accounts for only a small amount of risk for mental illness and cannot yet be used to predict or diagnose specific conditions.",
+      "original_point_number": [
+        9
+      ]
+    },
+    {
+      "point_number": 5,
+      "point_content": "Psychiatric diagnosis relies more on a doctor's human judgment and evaluation of a patient's behavior or appearance than diagnosis in other fields of medicine.",
+      "original_point_number": [
+        10
+      ]
+    },
+    {
+      "point_number": 6,
+      "point_content": "Mental disorders almost always involve more than one gene and vary across family and ethnic groups, with genetic factors interacting with a person's family and cultural environment affecting susceptibility to disorders.",
+      "original_point_number": [
+        11,
+        12
+      ]
+    },
+    {
+      "point_number": 7,
+      "point_content": "Genes influence mental disorders by governing organic causes, abnormalities in development, and susceptibility to various disorders.",
+      "original_point_number": [
+        13
+      ]
+    },
+    {
+      "point_number": 8,
+      "point_content": "Genetic epidemiology uses twin, adoption, and family studies to assess genetic and environmental factors in mental disorders.",
+      "original_point_number": [
+        16
+      ]
+    },
+    {
+      "point_number": 9,
+      "point_content": "Family environment impacts mental disorders through shared genetic material, shared environment, and nonshared environment, with nonshared interactions often more impactful.",
+      "original_point_number": [
+        17
+      ]
+    },
+    {
+      "point_number": 10,
+      "point_content": "Psychological and behavioral vulnerability in adults to disorders like depression, manic depression, PTSD, and anxiety disorders is influenced by genetic factors and environmental interactions.",
+      "original_point_number": [
+        18
+      ]
+    },
+    {
+      "point_number": 11,
+      "point_content": "Behavioral and psychological factors such as physical activity, smoking, cognitive and social engagement, personality, and psychosocial stress play a critical role in health across the lifespan.",
+      "original_point_number": [
+        19
+      ]
+    },
+    {
+      "point_number": 12,
+      "point_content": "Social factors like social relationships and socioeconomic circumstances significantly impact health and well-being, with loneliness and social isolation being risk factors for functional decline and mortality.",
+      "original_point_number": [
+        20
+      ]
+    },
+    {
+      "point_number": 13,
+      "point_content": "Personality traits such as conscientiousness and neuroticism are linked to aging-related health outcomes including longevity and Alzheimer's disease development.",
+      "original_point_number": [
+        21
+      ]
+    },
+    {
+      "point_number": 14,
+      "point_content": "Behavioral and social factors interact with genetic, molecular, and cellular mechanisms to influence health at older ages.",
+      "original_point_number": [
+        22
+      ]
+    },
+    {
+      "point_number": 15,
+      "point_content": "Exposure to adverse social, interpersonal, and physical environments during development can have long-lasting psychological and physical effects impacting adult health and longevity.",
+      "original_point_number": [
+        23
+      ]
+    },
+    {
+      "point_number": 16,
+      "point_content": "Disadvantage and persistent stress throughout life can biologically and psychologically embed risk for disease and distress, affecting aging outcomes.",
+      "original_point_number": [
+        24
+      ]
+    },
+    {
+      "point_number": 17,
+      "point_content": "Psychopathology in developmental disabilities/intellectual disabilities (DD/ID) is influenced by precipitating, predisposing, maintaining, and protective psychosocial and environmental factors.",
+      "original_point_number": [
+        25
+      ]
+    },
+    {
+      "point_number": 18,
+      "point_content": "Risk and protective factors contribute to the causation of mental health problems in people with intellectual disability.",
+      "original_point_number": [
+        26
+      ]
+    },
+    {
+      "point_number": 19,
+      "point_content": "Specific vulnerabilities to mental illness in people with autism spectrum disorders are related to neurobiological and sensory responses to environmental factors such as noise and light.",
+      "original_point_number": [
+        27
+      ]
+    },
+    {
+      "point_number": 20,
+      "point_content": "Psychological factors refer to thoughts, feelings and other cognitive characteristics that affect the attitude, behavior and functions of the human mind, influencing decisions and relations in daily life, and include personality traits, psychodynamic processes and learned cognition, where cognition is learned through daily interaction leading to psychodynamic processes that influence personality traits.",
+      "original_point_number": [
+        28,
+        29,
+        30,
+        31,
+        32
+      ]
+    },
+    {
+      "point_number": 21,
+      "point_content": "Factors that can increase the risk of mental illness include biological factors, chronic medical conditions, family history, feelings of isolation, lack of social support, substance or alcohol use, and traumatic or stressful experiences.",
+      "original_point_number": [
+        33
+      ]
+    },
+    {
+      "point_number": 22,
+      "point_content": "Health and behavioral, psychological, and social variables are related to health and disease.",
+      "original_point_number": [
+        34
+      ]
+    },
+    {
+      "point_number": 23,
+      "point_content": "Stress is linked to cardiovascular disease and other health problems, involving interactions among the central nervous system, endocrine system, and immune system.",
+      "original_point_number": [
+        35
+      ]
+    },
+    {
+      "point_number": 24,
+      "point_content": "Specific behaviors such as tobacco use, alcohol consumption, inadequate physical activity, some sexual practices, and diet are associated with increased risk of diseases.",
+      "original_point_number": [
+        36
+      ]
+    },
+    {
+      "point_number": 25,
+      "point_content": "Socioeconomic status, social networks, employment status, and personal beliefs influence health.",
+      "original_point_number": [
+        37
+      ]
+    },
+    {
+      "point_number": 26,
+      "point_content": "Mental illnesses are caused by a combination of biological, psychological, and environmental factors.",
+      "original_point_number": [
+        38
+      ]
+    },
+    {
+      "point_number": 27,
+      "point_content": "Biological factors involved in mental illness include abnormal brain circuits, genetics, infections, brain injury, prenatal damage, substance abuse, poor nutrition, and exposure to toxins.",
+      "original_point_number": [
+        39
+      ]
+    },
+    {
+      "point_number": 28,
+      "point_content": "Psychological factors contributing to mental illness include severe childhood trauma, early loss, neglect, and poor social relating ability.",
+      "original_point_number": [
+        40
+      ]
+    },
+    {
+      "point_number": 29,
+      "point_content": "Environmental stressors that can trigger mental illness include death or divorce, dysfunctional family life, negative feelings, life changes, social or cultural expectations, and substance abuse.",
+      "original_point_number": [
+        41
+      ]
+    },
+    {
+      "point_number": 30,
+      "point_content": "Age, sex, education, marital status, potentials, personality, perception, attitudes, values, and learning influence individual behavior.",
+      "original_point_number": [
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51
+      ]
+    }
+  ]
+}

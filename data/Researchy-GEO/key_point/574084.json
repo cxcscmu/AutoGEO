@@ -1,0 +1,179 @@
+{
+  "question": "how can technology help make roads safer?",
+  "key_points": {
+    "null": [],
+    "clueweb22-en0031-61-11674": [
+      {
+        "point_number": 1,
+        "point_content": "New technology such as smart traffic light and traffic control systems, artificial intelligence, the use of telematics and automotive technology can contribute to prevent and reduce the number of road related accidents and improve road safety.",
+        "spans": [
+          "Using new technology such as smart traffic light and traffic control systems, artificial intelligence, the use of telematics and automotive technology can contribute to prevent and reduce the number of road related accidents and improve road safety."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Mobile network and fast data transmission solutions can be used to collect data on vehicles and road conditions and provide real-time weather information and warnings to reduce accidents.",
+        "spans": [
+          "Mobile network and fast data transmission solutions can be used, for instance, to collect data on vehicles on the road and condition of roads, as well to provide real-time weather information and warnings."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Electronic police (automatic detection and measurement technology) are used in Shanghai to catch traffic violations and contribute significantly to traffic management and supervision.",
+        "spans": [
+          "Around 40,000 cases of traffic violations are caught in Shanghai each day, and electronic police [automatic detection and measurement technology to catch traffic violations or accidents] contribute a lot to the work,\" Ding said. \"Currently around 38 types of electronic police are in use citywide."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Speed cameras and smart traffic light cameras are widely used in South Korea to monitor drivers' behavior and make roads safer by checking traffic and speed violations 24 hours a day.",
+        "spans": [
+          "Mr. Sangwon Lee, traffic safety instructor at the Education Department of KoRoad in South Korea shared his views on how speed cameras and smart traffic light cameras are widely used in South Korea to monitor drivers' behavior and make roads safer. \"By using the camera, we check the traffic and speed violation for 24 hours and increase the fairness of enforcement,\" he said."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Collaboration between companies and traffic police to analyze accident-prone roads and provide behavioral-analysis-based safety education can effectively reduce road traffic casualty rates.",
+        "spans": [
+          "Mr. Jan Craps, CEO and president of APAC, AB InBev shared about the company’s collaboration with traffic police departments of the Shanghai Public Security Bureau and Tongji University over the past four years to implement a range of programs including 'analysis and improvement of accident-prone roads' and 'behavioral-analysis-based commercial drive safety education' that have led to positive results and to effectively reduced road traffic casualty rates in Shanghai."
+        ]
+      }
+    ],
+    "clueweb22-en0032-24-06009": [
+      {
+        "point_number": 1,
+        "point_content": "Technology can inform road users about driving behavior through apps and other tools, linked with insurance policies and risk-based pricing, which can be a game-changer.",
+        "spans": [
+          "Promote new technologies that inform road users about driving behavior, through apps and other tools. Linked with insurance policies and risk-based pricing, this can be a game-changer."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Risk-based pricing in insurance products promotes personal responsibility by linking the causing of an accident to the economics of paying for those consequences, leading to safer driving and behavior change.",
+        "spans": [
+          "Embed road safety in insurance products and services, such as bonus-penalty mechanisms for insurance. Risk-based pricing is a powerful tool in the promotion of personal responsibility, as it links the causing of an accident to the economics of paying for those consequences, which in turn gradually lead to safer driving and behavior change."
+        ]
+      }
+    ],
+    "clueweb22-en0011-20-18864": [
+      {
+        "point_number": 1,
+        "point_content": "Octopus software can interface with all security systems within an organization, including alarms, fraud prevention, alerts of cyber attacks, safety, entrance monitoring and closed-circuit cameras, unifying all these means of protection.",
+        "spans": [
+          "Octopus software is that it can interface with all security systems within an organization, including alarms, fraud prevention, alerts of cyber attacks, safety, entrance monitoring and closed-circuit cameras. Unifying all these means of protection"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Companion app allows users to choose companions who can track their location as they journey home, promoting safety by notifying companions when the user reaches home or if help is needed.",
+        "spans": [
+          "Companion, a new app for anyone worried about walking home alone, promotes the buddy system by letting users choose “companions” -- people in their contacts who they can choose to track their location as they journey home.",
+          "Companion acts as a tracking app, allowing users to map their starting and ending locations.",
+          "Users can add friends, family or even police officers to be \"companions,\" and these companions follow the user on a map until they reach their destination.",
+          "Once the person reaches home, their companions will be automatically notified, however if something happens they can send help your way."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Rudder is a mapping app that finds the shortest and best-lit path between two points, using public light data and a smartphone's camera light meter to ensure safer walking routes.",
+        "spans": [
+          "Rudder is a mapping app with an emphasis on walking directions.",
+          "The algorithm behind it doesn’t simply calculate the shortest path between two points, it figures out the shortest and best-lit path between the points.",
+          "Rudder does this by comparing routes to a database containing information about a given city's public light data.",
+          "The app will never take you more than a few minutes out of your way, and it even taps into your smartphone's camera to give you a built-in light meter, letting you know how well-lit your route really is."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Driver’s Little Helper is an electronic monitoring system that syncs with your phone to monitor car seat pressure, temperature and movement, sending alerts to keep children safe in cars.",
+        "spans": [
+          "Driver’s Little Helper is an electronic monitoring system that works via an app for iPhone or Android.",
+          "Using wireless Bluetooth technology, the Driver’s Little Helper car seat monitor syncs with your phone to help you keep your most precious cargo safe.",
+          "The car seat monitor pad measures pressure, temperature and movement and will send you alerts through a free app on your phone."
+        ]
+      }
+    ],
+    "clueweb22-en0019-74-04218": [
+      {
+        "point_number": 1,
+        "point_content": "Efficiency of speeding enforcement is enhanced if the handling of fines for detected violations is largely automated.",
+        "spans": [
+          "Efficiency of speeding enforcement is enhanced if the handling of fines for detected violations is largely automated."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Speed enforcement will remain essential as long as the speed problem is not solved in a structural way by road design, engineering measures and in-vehicle technology.",
+        "spans": [
+          "Speed enforcement will remain essential as long as the speed problem is not solved in a structural way by road design, engineering measures and in-vehicle technology."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Police enforcement, combined with publicity campaigns, has the potential to reduce illegal use of a mobile phone while driving.",
+        "spans": [
+          "Police enforcement, combined with publicity campaigns, has the potential to reduce illegal use of a mobile phone while driving."
+        ]
+      }
+    ],
+    "clueweb22-en0017-53-01108": [
+      {
+        "point_number": 1,
+        "point_content": "New transport technologies can have an impact on road safety based on research from around the world.",
+        "spans": [
+          "the impact that new transport technologies can have on road safety based on research from around the world"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Recommendations are provided to government and industry to ensure road safety is enhanced and not compromised by new technologies.",
+        "spans": [
+          "It provides recommendations to government and industry to ensure that road safety is enhanced and not compromised by the introduction of new technologies"
+        ]
+      }
+    ],
+    "clueweb22-en0021-87-15643": [
+      {
+        "point_number": 1,
+        "point_content": "LIDAR guns help law enforcers catch and book vehicles that cross the speed limit by emitting an invisible infrared beam to estimate vehicle speed accurately and quickly.",
+        "spans": [
+          "LIDAR (Light Detection and Ranging) gun is a tool that helps law enforcers to catch and book vehicles that cross the speed limit.",
+          "The gun emits an invisible infrared beam which can target an individual vehicle and estimate whether it is violating the speed limit or not based on variations recorded in the light.",
+          "The device takes less than a second to estimate a vehicle’s speed and is quite accurate."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Speed Indication Displays inform vehicles of their speed relative to the limit using radar sensors and LED displays, helping prevent speeding.",
+        "spans": [
+          "Speed Indication Displays are digital speed boards that are installed on roads to inform vehicles whether they are under the limit or not.",
+          "Most of these types of devices are fitted with a radar sensor which is able to estimate the speed of vehicles and displays this information on a LED display for the vehicles."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Speed governors are devices installed in commercial vehicles that cap the maximum speed by restricting air and fuel flow to the engine when the speed limit is exceeded.",
+        "spans": [
+          "Speed governors are essentially devices which put a cap on the speed that can be achieved that is below the vehicle’s natural maximum speed.",
+          "The device has a series of sensors that can detect how fast a vehicle is going and if this crosses the limit set by it, it restricts the flow of air and fuel to the engine."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Variable Message Signs are LED boards that display important real-time information to commuters about road and traffic conditions.",
+        "spans": [
+          "Variable Message Signs are LED boards which can display important information that needs to be communicated to commuters.",
+          "These can be used to update road users on the real-time road and traffic conditions in the case of major breakdowns, congestions, and so on."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Inductive loops embedded in roads detect vehicles at junctions and communicate with traffic signals to adjust signal changes based on traffic conditions.",
+        "spans": [
+          "When embedded in the surface of the road, induction loops can help in traffic control by detecting when there are vehicles waiting at a junction and sending this information to traffic signals which can then change according to the on-ground situation.",
+          "These loops make use of electromagnetic fields which experience a change in frequency when a vehicle enters the area."
+        ]
+      }
+    ]
+  }
+}

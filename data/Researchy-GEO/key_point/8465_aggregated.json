@@ -1,0 +1,200 @@
+{
+  "question": "how does iot impact our lives",
+  "key_points": [
+    {
+      "point_number": 1,
+      "point_content": "IoT is a network or ecosystem of interconnected digital devices, machines, vehicles, and everyday objects like chairs, beds, cars, and music systems, connected through the internet using sensor devices, enabling data exchange and interaction with the world.",
+      "original_point_number": [
+        1,
+        3,
+        37,
+        38,
+        46,
+        23
+      ]
+    },
+    {
+      "point_number": 2,
+      "point_content": "IoT is being adopted across almost all sectors and aspects of life, impacting homes, healthcare, transportation, agriculture, industry, and urban living, making life more efficient, convenient, and connected.",
+      "original_point_number": [
+        2,
+        12,
+        17,
+        36,
+        46,
+        47,
+        49,
+        42,
+        43
+      ]
+    },
+    {
+      "point_number": 3,
+      "point_content": "IoT enables smart home automation, allowing remote control of lighting, temperature, appliances, gates, curtains, and car functions, enhancing comfort, security, energy savings, and reducing utility bills.",
+      "original_point_number": [
+        7,
+        15,
+        18,
+        27,
+        40
+      ]
+    },
+    {
+      "point_number": 4,
+      "point_content": "In healthcare, IoT has developed wearable sensor gadgets and connected health devices for monitoring fitness, diet, medication management, vital signs, sleep, nutrition, exercise, and helps physically disabled and senior citizens live independently, facilitating better health management and remote patient monitoring.",
+      "original_point_number": [
+        5,
+        21,
+        26,
+        32,
+        41,
+        51
+      ]
+    },
+    {
+      "point_number": 5,
+      "point_content": "IoT is used for monitoring structural vibrations in buildings, monuments, bridges, and dams during natural calamities to help control disasters beforehand.",
+      "original_point_number": [
+        6
+      ]
+    },
+    {
+      "point_number": 6,
+      "point_content": "IoT enabled vehicle management systems predict car breakdowns, communicate maintenance needs, suggest appointment times by integrating with calendars, and notify owners to perform maintenance, saving costs and increasing vehicle life.",
+      "original_point_number": [
+        16,
+        25
+      ]
+    },
+    {
+      "point_number": 7,
+      "point_content": "IoT enabled parking and traffic systems improve daily commute by allowing users to view and book parking spots remotely, providing real-time information about bus locations, seat availability, routes, and enabling communication between traffic systems and cars to improve safety and traffic flow by adjusting to real-time conditions.",
+      "original_point_number": [
+        13,
+        14,
+        20,
+        28
+      ]
+    },
+    {
+      "point_number": 8,
+      "point_content": "IoT devices like smart refrigerators and stores help manage grocery lists and shopping by sensing low supplies and pushing reminders, and smart appliances adjust energy consumption based on price signals and habits to save costs and reduce waste.",
+      "original_point_number": [
+        29,
+        27
+      ]
+    },
+    {
+      "point_number": 9,
+      "point_content": "IoT devices and wearables in sports track performance efficiency and various fitness variables.",
+      "original_point_number": [
+        22
+      ]
+    },
+    {
+      "point_number": 10,
+      "point_content": "Parents can monitor their baby's health remotely through connected devices, and pet monitoring systems allow remote observation of pets.",
+      "original_point_number": [
+        31
+      ]
+    },
+    {
+      "point_number": 11,
+      "point_content": "Sensors detect environmental and contextual factors to adjust device behavior for safety and resource saving.",
+      "original_point_number": [
+        33
+      ]
+    },
+    {
+      "point_number": 12,
+      "point_content": "Consumers expect more personalized interactions with brands in exchange for sharing personal data through IoT devices, with smartphones serving as a central remote control integrating many aspects of daily life and acting as command and control servers for IoT devices.",
+      "original_point_number": [
+        34,
+        35,
+        39
+      ]
+    },
+    {
+      "point_number": 13,
+      "point_content": "Smart objects reduce waste, costs, and inconvenience while increasing efficiency and safety in homes, cars, and lives.",
+      "original_point_number": [
+        24
+      ]
+    },
+    {
+      "point_number": 14,
+      "point_content": "IoT in industry improves logistics, fleet management, operational support, and monitoring of equipment, enhancing workplace collaboration, productivity, and personalization through connected devices and sensors.",
+      "original_point_number": [
+        42,
+        43
+      ]
+    },
+    {
+      "point_number": 15,
+      "point_content": "Security is a major concern and significant barrier to IoT adoption due to the need to encrypt and protect large amounts of data from hackers and privacy challenges, requiring standardized protocols.",
+      "original_point_number": [
+        9,
+        44
+      ]
+    },
+    {
+      "point_number": 16,
+      "point_content": "IoT currently requires expensive sensor-based kits and lacks compatibility in terms of USB connectivity.",
+      "original_point_number": [
+        10
+      ]
+    },
+    {
+      "point_number": 17,
+      "point_content": "IoT leads to massive job losses due to automation, reduces the importance of human intelligence and labor, and encourages over-reliance on technology, reducing trust in human cognitive thinking.",
+      "original_point_number": [
+        8,
+        11
+      ]
+    },
+    {
+      "point_number": 18,
+      "point_content": "AI will drive the next wave of IoT, enabling seamless, personalized, and ambient user experiences.",
+      "original_point_number": [
+        45
+      ]
+    },
+    {
+      "point_number": 19,
+      "point_content": "IoT makes urban life more attractive and efficient through smart water technology, automated street lighting, remote-controlled irrigation, on-demand waste pickups, digital bus routes, and smart parking meters, reducing traffic jams, pollution, and resource usage.",
+      "original_point_number": [
+        47
+      ]
+    },
+    {
+      "point_number": 20,
+      "point_content": "IoT sensor networks help cities improve public health by monitoring air and water pollution and alerting residents when levels are dangerously high.",
+      "original_point_number": [
+        48
+      ]
+    },
+    {
+      "point_number": 21,
+      "point_content": "IoT enables smarter agriculture by helping farmers reduce water and fertilizer use, cut waste, and improve product quality and yield through tools like drone imagery, soil sensors, advanced cameras, sensors, weather stations, and AI to monitor crop health and improve productivity, helping cut food waste.",
+      "original_point_number": [
+        49,
+        50
+      ]
+    },
+    {
+      "point_number": 22,
+      "point_content": "IoT devices can help diagnose diseases earlier, such as the iTBra which tracks temperature changes in breast tissue to detect early stage breast cancer.",
+      "original_point_number": [
+        52
+      ]
+    },
+    {
+      "point_number": 23,
+      "point_content": "The Internet of Things will connect many everyday objects, sending signals to each other and alerts to our phones, creating data that impacts our lives and transforming our world for the better by enabling advanced data analytics.",
+      "original_point_number": [
+        23,
+        46
+      ]
+    }
+  ]
+}

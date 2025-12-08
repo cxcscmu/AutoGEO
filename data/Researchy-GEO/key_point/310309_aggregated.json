@@ -1,0 +1,81 @@
+{
+  "question": "how to mitigate social desirability bias",
+  "key_points": [
+    {
+      "point_number": 1,
+      "point_content": "Multiple strategies to reduce social desirability bias include adopting six specific strategies in qualitative interviews, using implicit measures in questionnaires, having an empathic and non-judgmental approach, assuring confidentiality and trust, collecting data anonymously or after the participant has left, emphasizing anonymity and confidentiality in instructions, including scales for socially desirable responding and statistically controlling their effect, anonymising respondents, assuring confidentiality, using neutral and non-suggestive question wording, and combining different data collection methods.",
+      "original_point_number": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        13,
+        16
+      ]
+    },
+    {
+      "point_number": 2,
+      "point_content": "Careful question wording to reduce social desirability bias involves using neutral and non-suggestive wording, avoiding biased questions, articulating questions well to get accurate results, phrasing questions to explicitly state that answers need not be socially desirable, framing indirect questions about third-party reactions, and avoiding long answers as socially acceptable answers take more effort.",
+      "original_point_number": [
+        7,
+        8,
+        9,
+        10,
+        12,
+        23,
+        24
+      ]
+    },
+    {
+      "point_number": 3,
+      "point_content": "Ensuring participant anonymity and confidentiality increases truthful responses; this includes allowing anonymous responses, assuring confidentiality, complete anonymity where the experimenter never meets the participant, collecting data anonymously or after the participant has left, and presenting information in a judgement-free manner.",
+      "original_point_number": [
+        4,
+        5,
+        7,
+        21,
+        25,
+        26,
+        27
+      ]
+    },
+    {
+      "point_number": 4,
+      "point_content": "Allowing respondents to provide answers to highly sensitive questions after the session via anonymous self-administered mode helps them be calmer and more open, increasing the likelihood of genuine answers.",
+      "original_point_number": [
+        14,
+        15
+      ]
+    },
+    {
+      "point_number": 5,
+      "point_content": "Social desirability bias means respondents answer questions to appear socially acceptable or attractive, leading to exaggeration or misrepresentation of habits, beliefs, personal preferences, demographic information, or avoidance of intolerant associations, especially in sensitive or personal topics.",
+      "original_point_number": [
+        17,
+        18,
+        19,
+        20,
+        22
+      ]
+    },
+    {
+      "point_number": 6,
+      "point_content": "To reduce social desirability bias, researchers should allow anonymous responses, carefully review and word questions neutrally, randomly select questions, and check responses against known customer data.",
+      "original_point_number": [
+        7,
+        21
+      ]
+    },
+    {
+      "point_number": 7,
+      "point_content": "The Randomized Response Technique controls for social desirability bias by randomizing responses, providing an extra layer of safety as the experimenter cannot know which answers are true, helping participants who fear legal repercussions.",
+      "original_point_number": [
+        28,
+        29
+      ]
+    }
+  ]
+}

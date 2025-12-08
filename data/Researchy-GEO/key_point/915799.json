@@ -1,0 +1,741 @@
+{
+  "question": "do humans cause climate change",
+  "key_points": {
+    "clueweb22-en0000-94-03517": [
+      {
+        "point_number": 1,
+        "point_content": "Human activities are amplifying Earth’s natural greenhouse effect by increasing the abundance of greenhouse gases in the atmosphere.",
+        "spans": [
+          "Yes, by increasing the abundance of greenhouse gases in the atmosphere, human activities are amplifying Earth’s natural greenhouse effect."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Virtually all climate scientists agree that the increase in heat-trapping gases is the main reason for the 1.8°F (1.0°C) rise in global average temperature since the late nineteenth century.",
+        "spans": [
+          "Virtually all climate scientists agree that this increase in heat-trapping gases is the main reason for the 1.8°F (1.0°C) rise in global average temperature since the late nineteenth century."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Carbon dioxide, methane, nitrous oxide, ozone, and various chlorofluorocarbons are all human-emitted heat-trapping gases, with carbon dioxide being of greatest concern.",
+        "spans": [
+          "Carbon dioxide, methane, nitrous oxide, ozone, and various chlorofluorocarbons are all human-emitted heat-trapping gases. Among these, carbon dioxide is of greatest concern to scientists because it exerts a larger overall warming influence than the other gases combined."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Humans emit an estimated 9.5 billion metric tons of carbon annually by burning fossil fuels, plus 1.5 billion through deforestation and land cover changes.",
+        "spans": [
+          "At present, humans are putting an estimated 9.5 billion metric tons of carbon into the atmosphere each year by burning fossil fuels, and another 1.5 billion through deforestation and other land cover changes."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "A net 5 billion metric tons of human-produced carbon remain in the atmosphere each year, raising global average carbon dioxide concentrations by about 2.3 parts per million per year.",
+        "spans": [
+          "A net 5 billion metric tons of human-produced carbon remain in the atmosphere each year, raising the global average carbon dioxide concentrations by about 2.3 parts per million per year."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Since 1750, humans have increased the abundance of carbon dioxide in the atmosphere by nearly 50 percent.",
+        "spans": [
+          "Since 1750, humans have increased the abundance of carbon dioxide in the atmosphere by nearly 50 percent."
+        ]
+      }
+    ],
+    "clueweb22-en0012-15-11268": [
+      {
+        "point_number": 1,
+        "point_content": "Human activities are causing Earth to heat up in ways that are different from warm periods in the past.",
+        "spans": [
+          "Human activities are causing Earth to heat up in ways that are different from warm periods in the past."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Since 1900, the average surface air temperature has risen 1.8 degrees Fahrenheit (1 degree Celsius).",
+        "spans": [
+          "Since 1900, the average surface air temperature has risen 1.8 degrees Fahrenheit (1 degree Celsius)."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Scientists know that the warming climate is caused by human activities because they understand how heat-trapping gases like carbon dioxide work in the atmosphere, they know why those gases are increasing in the atmosphere, and they have ruled out other possible explanations.",
+        "spans": [
+          "Scientists know that the warming climate is caused by human activities because: They understand how heat-trapping gases like carbon dioxide work in the atmosphere They know why those gases are increasing in the atmosphere They have ruled out other possible explanations"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Human activities have increased the abundance of heat-trapping gases in the atmosphere, mostly due to burning fossil fuels such as coal, oil, and natural gas.",
+        "spans": [
+          "Human activities have increased the abundance of heat-trapping gases in the atmosphere. This increase is mostly due to burning fossil fuels, such as coal, oil, and natural gas."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Natural changes cannot explain today’s global warming.",
+        "spans": [
+          "Natural changes cannot explain today’s global warming."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "The rapid warming we are experiencing today can only be explained by increasing amounts of carbon dioxide and other heat-trapping gases in the atmosphere.",
+        "spans": [
+          "The rapid warming we are experiencing today can only be explained by increasing amounts of carbon dioxide and other heat-trapping gases in the atmosphere."
+        ]
+      }
+    ],
+    "clueweb22-en0002-25-14941": [
+      {
+        "point_number": 1,
+        "point_content": "Scientists agree that global warming is caused mainly by human activity, specifically the release of heat-trapping gases like carbon dioxide when burning fossil fuels.",
+        "spans": [
+          "Scientists agree that global warming is caused mainly by human activity.",
+          "Specifically, the evidence shows that certain heat-trapping gases, such as carbon dioxide, are warming the world—and that we release those gases when we burn fossil fuels like coal, oil, and gas."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The concentration of CO2 in the atmosphere has increased dramatically since the Industrial Revolution due to human activities.",
+        "spans": [
+          "The concentration of CO 2 in the Earth’s atmosphere has increased dramatically over the last 150 years, from a pre-industrial era concentration of approximately 280 parts per million (ppm) to more than 410 ppm currently.",
+          "Starting around the 1760s, there's a dramatic upward spike that's attributed to the Industrial Revolution."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Earth has undergone unprecedented warming, especially since the 1950s, strongly linked to emissions from burning coal and oil.",
+        "spans": [
+          "Earth has recently undergone unprecedented warming, particularly since the 1950s.",
+          "Analysis of these trends strongly suggests that without the emissions from burning coal and oil, it is very unlikely that 13 out of the 15 warmest years on record would have occurred either on their own or in such quick succession."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The CO2 produced from fossil fuels carries a unique isotopic signature that confirms human fossil fuel emissions are the main contributor to rising CO2 levels.",
+        "spans": [
+          "The CO 2 produced from fossil fuels carries a unique signature that differentiates it from CO 2 produced from other sources.",
+          "Since the 1880s, δ 13 C has changed in a way that could only happen if CO 2 was increasingly coming from fossil fuel sources.",
+          "This information tells scientists that human-caused fossil fuel emissions have been the main contributor to the rise in CO 2 concentrations since the pre-industrial era."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "There is a scientific consensus that human activity is the primary cause of global warming, with at least 97% of scientists agreeing on this.",
+        "spans": [
+          "Multiple studies have shown that at least 97 percent of scientists agree that global warming is happening and that human activity is the primary cause.",
+          "The 2018 US National Climate Assessment ... concludes that “it is extremely likely that human activities, especially emissions of greenhouse gases, are the dominant cause of the observed warming since the mid-20th century.",
+          "Similarly, an authoritative 2014 report by the Intergovernmental Panel on Climate Change ... states unambiguously: “Human influence on the climate system is clear, and recent anthropogenic emissions of green-house gases are the highest in history."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Natural factors alone cannot explain the recent rapid rise in global temperatures; human influences must be included to match observed warming.",
+        "spans": [
+          "Various natural forces can influence the climate—but when we sum those influences up, they can't account for the recent rapid rise in temperatures.",
+          "When climate scientists focus only on natural climate drivers, their models cannot accurately reproduce the observed warming of the past half century.",
+          "But when the models also include human-induced climate drivers, they accurately capture recent temperature increases in the atmosphere and in the oceans."
+        ]
+      }
+    ],
+    "clueweb22-en0014-36-07096": [
+      {
+        "point_number": 1,
+        "point_content": "Tens of thousands of scientists in more than a hundred nations have amassed an overwhelming amount of evidence pointing to a clear conclusion: Humans are the main cause.",
+        "spans": [
+          "Tens of thousands of scientists in more than a hundred nations have amassed an overwhelming amount of evidence pointing to a clear conclusion: Humans are the main cause."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "We're the ones who burn fossil fuels, produce livestock and clear trees, increasing the amount of heat-trapping gases in the atmosphere.",
+        "spans": [
+          "We're the ones who burn fossil fuels, produce livestock and clear trees, increasing the amount of heat-trapping gases in the atmosphere."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "We are as confident that humans cause climate change as we are that smoking causes cancer.",
+        "spans": [
+          "In fact, we are as confident that humans cause climate change as we are that smoking causes cancer."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Scientists have no doubt that humans are causing global warming.",
+        "spans": [
+          "Scientists have no doubt that humans are causing global warming."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The research falls into nine independently studied, but physically related, lines of evidence including chemical analysis of atmospheric CO2 revealing the increase is from burning fossil fuels, and ruling out natural factors like the sun and ocean cycles.",
+        "spans": [
+          "Chemical analysis of the atmospheric CO2 that reveals the increase is coming from burning fossil fuels (research beginning in the 1950s).",
+          "Ruling out natural factors that can influence climate like the sun and ocean cycles (research beginning in the 1830s)."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "97% of scientists say humans are responsible for global warming.",
+        "spans": [
+          "97% of scientists say humans are responsible for global warming"
+        ]
+      }
+    ],
+    "clueweb22-en0018-04-14118": [
+      {
+        "point_number": 1,
+        "point_content": "97 percent or more of actively publishing climate scientists agree: Climate-warming trends over the past century are extremely likely due to human activities.",
+        "spans": [
+          "Multiple studies published in peer-reviewed scientific journals show that 97 percent or more of actively publishing climate scientists agree: Climate-warming trends over the past century are extremely likely due to human activities."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The warming we've seen over the past few decades is too rapid to be linked to changes in Earth's orbit and too large to be caused by solar activity.",
+        "spans": [
+          "But the warming we've seen over the past few decades is too rapid to be linked to changes in Earth's orbit and too large to be caused by solar activity."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Carbon dioxide from human activity is increasing more than 250 times faster than it did from natural sources after the last Ice Age.",
+        "spans": [
+          "Carbon dioxide from human activity is increasing more than 250 times faster than it did from natural sources after the last Ice Age."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Scientists attribute the global warming trend observed since the mid-20th century to the human expansion of the \"greenhouse effect\"—warming that results when the atmosphere traps heat radiating from Earth toward space.",
+        "spans": [
+          "Scientists attribute the global warming trend observed since the mid-20th century to the human expansion of the \"greenhouse effect\"—warming that results when the atmosphere traps heat radiating from Earth toward space."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Over the past century the burning of fossil fuels like coal and oil has increased the concentration of atmospheric carbon dioxide (CO 2 ).",
+        "spans": [
+          "Over the past century the burning of fossil fuels like coal and oil has increased the concentration of atmospheric carbon dioxide (CO 2 )."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "The Intergovernmental Panel on Climate Change (IPCC) concluded there's a more than 95 percent probability that human activities over the past 50 years have warmed our planet.",
+        "spans": [
+          "In its Fifth Assessment Report, the Intergovernmental Panel on Climate Change (IPCC), a group of 1,300 independent scientific experts from countries all over the world under the auspices of the United Nations, concluded there's a more than 95 percent probability that human activities over the past 50 years have warmed our planet."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Human-produced greenhouse gases such as carbon dioxide, methane, and nitrous oxide have caused much of the observed increase in Earth's temperatures over the past 50 years.",
+        "spans": [
+          "The panel also concluded there's a better than 95 percent probability that human-produced greenhouse gases such as carbon dioxide, methane, and nitrous oxide have caused much of the observed increase in Earth's temperatures over the past 50 years."
+        ]
+      }
+    ],
+    "clueweb22-en0031-49-18990": [
+      {
+        "point_number": 1,
+        "point_content": "Human activities (primarily the burning of fossil fuels) have fundamentally increased the concentration of greenhouse gases in Earth’s atmosphere, warming the planet.",
+        "spans": [
+          "Human activities (primarily the burning of fossil fuels) have fundamentally increased the concentration of greenhouse gases in Earth’s atmosphere, warming the planet."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Scientists attribute the global warming trend observed since the mid-20th century to the human expansion of the 'greenhouse effect'.",
+        "spans": [
+          "Scientists attribute the global warming trend observed since the mid-20 th century to the human expansion of the \"greenhouse effect\" 1 — warming that results when the atmosphere traps heat radiating from Earth toward space."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Humans have increased atmospheric CO2 concentration by 48% since the Industrial Revolution began, which is the most important long-lived forcing of climate change.",
+        "spans": [
+          "Humans have increased atmospheric CO 2 concentration by 48% since the Industrial Revolution began. This is the most important long-lived \"forcing\" of climate change."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "On Earth, human activities are changing the natural greenhouse by increasing the concentration of atmospheric carbon dioxide through burning fossil fuels and land clearing.",
+        "spans": [
+          "On Earth, human activities are changing the natural greenhouse. Over the last century the burning of fossil fuels like coal and oil has increased the concentration of atmospheric carbon dioxide (CO 2 ).",
+          "To a lesser extent, the clearing of land for agriculture, industry, and other human activities has increased concentrations of greenhouse gases."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The Intergovernmental Panel on Climate Change concluded there's a more than 95 percent probability that human activities over the past 50 years have warmed our planet.",
+        "spans": [
+          "In its Fifth Assessment Report, the Intergovernmental Panel on Climate Change, a group of 1,300 independent scientific experts from countries all over the world under the auspices of the United Nations, concluded there's a more than 95 percent probability that human activities over the past 50 years have warmed our planet."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "The panel concluded there's a better than 95 percent probability that human-produced greenhouse gases such as carbon dioxide, methane and nitrous oxide have caused much of the observed increase in Earth's temperatures over the past 50-plus years.",
+        "spans": [
+          "The panel also concluded there's a better than 95 percent probability that human-produced greenhouse gases such as carbon dioxide, methane and nitrous oxide have caused much of the observed increase in Earth's temperatures over the past 50-plus years."
+        ]
+      }
+    ],
+    "clueweb22-en0034-25-04457": [
+      {
+        "point_number": 1,
+        "point_content": "Human-caused global climate change is primarily due to the release, through our activities, of greenhouse gases.",
+        "spans": [
+          "Human-caused global climate change is primarily due to the release, through our activities, of greenhouse gases"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Greenhouse gases are released into the air, where they persist for a long period at high altitude and absorb reflected sunlight, warming the atmosphere, land surface, and oceans.",
+        "spans": [
+          "Greenhouse gases are released into the air, where they persist for a long period at high altitude and absorb reflected sunlight. They then warm the atmosphere, the surface of the land, and the oceans."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Burning fossil fuels releases carbon dioxide, a key greenhouse gas, contributing significantly to climate change.",
+        "spans": [
+          "The process of burning fossil fuels releases various pollutants, as well as an important greenhouse gas, carbon dioxide."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Electricity production by coal, gas, or oil-burning power plants is the single largest source of greenhouse gas emissions, accounting for 20% of all emissions.",
+        "spans": [
+          "The single largest culprit is electricity production by coal, gas, or oil-burning power plants, with 20% of all emissions."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Transportation contributes approximately 14% of total greenhouse gas emissions through the use of gasoline and diesel.",
+        "spans": [
+          "We know that the use of gasoline and diesel to power vehicles is a large contributor, but overall transportation only accounts for approximately 14% of total greenhouse gas emissions."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Industrial processes using fossil fuels, including natural gas for synthetic fertilizers, also contribute to greenhouse gas emissions.",
+        "spans": [
+          "The various industrial processes that use fossil fuels are also to blame. For example, large quantities of natural gas are needed to produce the synthetic fertilizers used in conventional agriculture."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Extraction and processing of coal, natural gas, or oil release greenhouse gases, making up 11% of total emissions.",
+        "spans": [
+          "Just the process of extracting and processing coal, natural gas, or oil involves the release of greenhouse gases -- those activities make up 11% of the total emissions."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Cement production releases massive amounts of carbon dioxide due to a chemical reaction.",
+        "spans": [
+          "Cement production hinges on a chemical reaction that releases massive amounts of carbon dioxide."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Land clearing and deforestation release carbon dioxide stored in soil and trees, accounting for 10% of all greenhouse gas emissions.",
+        "spans": [
+          "Land clearing (for agriculture or other types of land use) exposes the soil which allows the release of carbon dioxide.",
+          "Deforestation, especially associated with burning, allows a lot of the carbon stored in tree roots, branches, and leaves to be released into the atmosphere. It's not a trivial amount: together, land clearing and burning account for 10% of all greenhouse gas emissions."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Methane produced by microorganisms in rice fields and by livestock contributes significantly to climate change.",
+        "spans": [
+          "Methane (the main constituent in natural gas) is produced in large quantities by microorganisms present in rice fields, making rice production a significant contributor to climate change. And it's not just rice: lots of methane is also produced by cattle and other herbivorous livestock."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Thawing permafrost in Arctic regions releases carbon dioxide and methane, creating a feedback loop that accelerates warming.",
+        "spans": [
+          "Temperatures are warming especially fast in Arctic regions, and there the thawing permafrost is releasing both carbon dioxide and methane. By 2100, it is estimated that 16 to 24% of the permafrost will have thawed, entering a vicious feedback loop: as permafrost thaws, it releases stored carbon dioxide and methane, which further warms the climate, melts more permafrost and releases more greenhouse gases."
+        ]
+      }
+    ],
+    "clueweb22-en0035-14-16240": [
+      {
+        "point_number": 1,
+        "point_content": "The main cause of climate change is burning fossil fuels such as oil, gas, and coal.",
+        "spans": [
+          "the main cause of climate change is burning fossil fuels such as oil, gas, and coal"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Human activity has quickly become the leading cause of changes to our climate since the Industrial Revolution.",
+        "spans": [
+          "since the Industrial Revolution in the 1800s, the global temperature has increased at a much faster rate",
+          "By burning fossil fuels and changing how we use the land, human activity has quickly become the leading cause of changes to our climate"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Humans cause climate change by releasing carbon dioxide and other greenhouse gases into the air.",
+        "spans": [
+          "Humans cause climate change by releasing carbon dioxide and other greenhouse gases into the air"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Today, there is more carbon dioxide in the atmosphere than there ever has been in at least the past 2 million years.",
+        "spans": [
+          "Today, there is more carbon dioxide in the atmosphere than there ever has been in at least the past 2 million years"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "We produce greenhouse gases in lots of different ways including burning fossil fuels, deforestation, agriculture, and cement production.",
+        "spans": [
+          "Burning fossil fuels – Fossil fuels such as oil, gas, and coal contain carbon dioxide that has been 'locked away' in the ground for thousands of years. When we take these out of the land and burn them, we release the stored carbon dioxide into the air.",
+          "Deforestation – Forests remove and store carbon dioxide from the atmosphere. Cutting them down means that carbon dioxide builds up quicker since there are no trees to absorb it. Not only that, trees release the carbon they stored when we burn them.",
+          "Agriculture – Planting crops and rearing animals releases many different types of greenhouse gases into the air.",
+          "Cement – Producing cement is another contributor to climate change, causing 2% of our entire carbon dioxide emissions."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "The leading cause of climate change is human activity and the release of greenhouse gases, not natural causes.",
+        "spans": [
+          "The leading cause of climate change is human activity and the release of greenhouse gases",
+          "Even though these natural causes contribute to climate change, we know that they are not the primary cause, based on scientific evidence."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "There is a large scientific consensus that humans are the leading cause of climate change.",
+        "spans": [
+          "there is a large scientific consensus that humans are the leading cause of climate change",
+          "the Intergovernmental Panel on Climate Change stated unequivocally that human activity is the cause of global warming"
+        ]
+      }
+    ],
+    "clueweb22-en0041-33-08517": [
+      {
+        "point_number": 1,
+        "point_content": "More than 99.9% of peer-reviewed scientific papers agree that climate change is mainly caused by humans.",
+        "spans": [
+          "More than 99.9% of peer-reviewed scientific papers agree that climate change is mainly caused by humans"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The current survey examines the literature published from 2012 to November 2020 to explore whether the consensus has changed.",
+        "spans": [
+          "The current survey examines the literature published from 2012 to November 2020 to explore whether the consensus has changed"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "We are virtually certain that the consensus is well over 99% now and that it’s pretty much case closed for any meaningful public conversation about the reality of human-caused climate change.",
+        "spans": [
+          "We are virtually certain that the consensus is well over 99% now and that it’s pretty much case closed for any meaningful public conversation about the reality of human-caused climate change"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "In the study, the researchers began by examining a random sample of 3,000 studies from the dataset of 88,125 English-language climate papers published between 2012 and 2020. They found only found four out of the 3,000 papers were skeptical of human-caused climate change.",
+        "spans": [
+          "In the study, the researchers began by examining a random sample of 3,000 studies from the dataset of 88,125 English-language climate papers published between 2012 and 2020. They found only found four out of the 3,000 papers were skeptical of human-caused climate change"
+        ]
+      }
+    ],
+    "clueweb22-en0004-47-16708": [
+      {
+        "point_number": 1,
+        "point_content": "Climate change is caused by an increase of carbon dioxide and other greenhouse gases in Earth’s atmosphere, mostly from fossil fuel emissions.",
+        "spans": [
+          "Climate change is caused by an increase of carbon dioxide and other greenhouse gases in Earth’s atmosphere, mostly from fossil fuel emissions."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Burning fossil fuels can also have direct consequences for human health due to polluted air containing small particles that can induce stroke and heart attacks.",
+        "spans": [
+          "But burning fossil fuels can also have direct consequences for human health. That’s because the polluted air contains small particles that can induce stroke and heart attacks by penetrating the lungs and heart and even traveling into the bloodstream."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Scientists say the science is unequivocal that a global increase of 1.5°C above the pre-industrial average risks catastrophic harm to health.",
+        "spans": [
+          "“The science is unequivocal,” they write. “A global increase of 1.5°C above the pre-industrial average and the continued loss of biodiversity risk catastrophic harm to health that will be impossible to reverse.”"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "World governments cannot wait for the pandemic to pass to rapidly reduce emissions and must treat climate change with the same urgency as COVID-19.",
+        "spans": [
+          "Despite the acute dangers posed by COVID-19, the authors of the joint op-ed write that world governments “cannot wait for the pandemic to pass to rapidly reduce emissions.” Instead, they argue, everyone must treat climate change with the same urgency as they have COVID-19."
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0000-90-04787": [
+      {
+        "point_number": 1,
+        "point_content": "Human activities are the primary driver of climate changes observed on Earth.",
+        "spans": [
+          "Human activities are the primary driver of those changes."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The current warming trend is unequivocally the result of human activity since the mid-20th century.",
+        "spans": [
+          "The current warming trend is of particular significance because it is unequivocally the result of human activity since the mid-20 th century"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "It is undeniable that human activities have warmed the atmosphere, ocean, and land.",
+        "spans": [
+          "It is undeniable that human activities have warmed the atmosphere, ocean, and land"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Carbon dioxide from human activity is increasing more than 250 times faster than it did from natural sources after the last Ice Age.",
+        "spans": [
+          "Carbon dioxide from human activity is increasing more than 250 times faster than it did from natural sources after the last Ice Age."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The planet's average surface temperature rise is largely driven by increased carbon dioxide emissions and other human activities.",
+        "spans": [
+          "The planet's average surface temperature has risen about 2 degrees Fahrenheit (1 degrees Celsius) since the late 19th century, a change driven largely by increased carbon dioxide emissions into the atmosphere and other human activities."
+        ]
+      }
+    ],
+    "clueweb22-en0008-49-01740": [
+      {
+        "point_number": 1,
+        "point_content": "Human and natural factors both influence the earth’s climate, but the long-term trend observed over the past century can only be explained by the effect of human activities on climate.",
+        "spans": [
+          "Human and natural factors both influence the earth’s climate, but the long-term trend observed over the past century can only be explained by the effect of human activities on climate."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Since the Industrial Revolution, human activities have released large amounts of carbon dioxide and other greenhouse gases into the atmosphere, which has changed the earth’s climate.",
+        "spans": [
+          "Since the Industrial Revolution, human activities have released large amounts of carbon dioxide and other greenhouse gases into the atmosphere, which has changed the earth’s climate."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "It is unequivocal that human influence has warmed the atmosphere, ocean and land.",
+        "spans": [
+          "It is unequivocal that human influence has warmed the atmosphere, ocean and land."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "It is extremely likely (> 95%) that human activities have been the dominant cause of that warming since the 1950s.",
+        "spans": [
+          "Rather, it is extremely likely (> 95%) that human activities have been the dominant cause of that warming."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Human activities have contributed substantially to climate change through greenhouse gas emissions and changes in reflectivity or absorption of the sun’s energy.",
+        "spans": [
+          "Human activities have contributed substantially to climate change through:\nGreenhouse Gas Emissions\nReflectivity or Absorption of the Sun’s Energy"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Concentrations of the key greenhouse gases have all increased since the Industrial Revolution due to human activities.",
+        "spans": [
+          "Concentrations of the key greenhouse gases have all increased since the Industrial Revolution due to human activities."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Carbon dioxide, methane, and nitrous oxide concentrations are now more abundant in the earth’s atmosphere than any time in the last 800,000 years.",
+        "spans": [
+          "Carbon dioxide, methane, and nitrous oxide concentrations are now more abundant in the earth’s atmosphere than any time in the last 800,000 years."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Burning fossil fuels changes the climate more than any other human activity.",
+        "spans": [
+          "Burning fossil fuels changes the climate more than any other human activity."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Human activities currently release over 30 billion tons of carbon dioxide into the atmosphere every year.",
+        "spans": [
+          "Human activities currently release over 30 billion tons of carbon dioxide into the atmosphere every year."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Atmospheric carbon dioxide concentrations have increased by more than 40 percent since pre-industrial times.",
+        "spans": [
+          "Atmospheric carbon dioxide concentrations have increased by more than 40 percent since pre-industrial times, from approximately 280 parts per million (ppm) in the 18th century to 414 ppm in 2020."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Human activities increased methane concentrations during most of the 20th century to more than 2.5 times the pre-industrial level.",
+        "spans": [
+          "Human activities increased methane concentrations during most of the 20th century to more than 2.5 times the pre-industrial level, from approximately 722 parts per billion (ppb) in the 18th century to 1,867 ppb in 2019."
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "Nitrous oxide concentrations have risen approximately 20 percent since the start of the Industrial Revolution.",
+        "spans": [
+          "Nitrous oxide concentrations have risen approximately 20 percent since the start of the Industrial Revolution, with a relatively rapid increase toward the end of the 20th century."
+        ]
+      }
+    ],
+    "clueweb22-en0034-52-14723": [
+      {
+        "point_number": 1,
+        "point_content": "The average temperature at the Earth's surface has risen about 1.1C since 1850.",
+        "spans": [
+          "The average temperature at the Earth's surface has risen about 1.1C since 1850."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Multiple independent teams of scientists have reached the same result - a spike in temperatures coinciding with the onset of the industrial era.",
+        "spans": [
+          "Multiple independent teams of scientists have reached the same result - a spike in temperatures coinciding with the onset of the industrial era."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Greenhouse gases - which trap the Sun's heat - are the crucial link between temperature rise and human activities.",
+        "spans": [
+          "Greenhouse gases - which trap the Sun's heat - are the crucial link between temperature rise and human activities."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Burning fossil fuels and chopping down trees lead to the release of this greenhouse gas.",
+        "spans": [
+          "Burning fossil fuels and chopping down trees lead to the release of this greenhouse gas."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The carbon produced by burning fossil fuels has a distinctive chemical signature.",
+        "spans": [
+          "The carbon produced by burning fossil fuels has a distinctive chemical signature."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Tree rings and polar ice both record changes in atmospheric chemistry showing carbon from fossil sources has risen significantly since 1850.",
+        "spans": [
+          "Tree rings and polar ice both record changes in atmospheric chemistry. When examined they show that carbon - specifically from fossil sources - has risen significantly since 1850."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Analysis shows that for 800,000 years, atmospheric CO2 did not rise above 300 parts per million (ppm), but since the Industrial Revolution, it has soared to nearly 420 ppm.",
+        "spans": [
+          "Analysis shows that for 800,000 years, atmospheric CO2 did not rise above 300 parts per million (ppm). But since the Industrial Revolution, the CO2 concentration has soared to its current level of nearly 420 ppm."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Climate models reveal there would have been little global warming without the massive amounts of greenhouse gases released by humans.",
+        "spans": [
+          "They reveal there would have been little global warming - and possibly some cooling - over the 20th and 21st Centuries, if only natural factors had been influencing the climate. Only when human factors are introduced can the models explain increases in temperature."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "A key UN report said it is unequivocal that human influence has warmed the atmosphere, oceans and land.",
+        "spans": [
+          "A key UN report released in 2021 said it \"is unequivocal that human influence has warmed the atmosphere, oceans and land\"."
+        ]
+      }
+    ],
+    "clueweb22-en0022-43-02321": [
+      {
+        "point_number": 1,
+        "point_content": "Only 40% of Americans attribute global warming to human activity, according to a recent Pew Research Center poll.",
+        "spans": [
+          "Only 40% of Americans attribute global warming to human activity, according to a recent Pew Research Center poll"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Michael Ranney says a lack of understanding of the mechanism of global warming is retarding progress on the issue.",
+        "spans": [
+          "Ranney and his team say that a “wisdom deficit” is driving the wedge. Specifically, it’s a lack of understanding of the mechanism of global warming that’s been retarding progress on the issue."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The correct mechanism is that Earth transforms sunlight’s visible light energy into infrared light energy, which leaves Earth slowly because it is absorbed by greenhouse gases, and when people produce greenhouse gases, energy leaves Earth even more slowly—raising Earth’s temperature.",
+        "spans": [
+          "Earth transforms sunlight’s visible light energy into infrared light energy, which leaves Earth slowly because it is absorbed by greenhouse gases. When people produce greenhouse gases, energy leaves Earth even more slowly—raising Earth’s temperature."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "After explaining the correct mechanism behind global warming, acceptance that humans are causing climate change increased among both conservatives and liberals.",
+        "spans": [
+          "In the UC Berkeley study, acceptance rose by 5.4%; in the Mechanical Turk study, it increased by 4.7%. Perhaps most notably, acceptance increased among both conservatives and liberals."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Dan Kahan says the problem is cultural politicization, not a wisdom gap, and that people’s acceptance of human-caused climate change is influenced by cultural identity.",
+        "spans": [
+          "Dan Kahan says that it’s not a wisdom gap that’s preventing acceptance of human’s role in climate change, but the cultural politicization of the topic.",
+          "Declaring a position on the issue becomes more a statement of cultural identity than one of scientific understanding."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Kahan found no correlation between understanding of climate science and acceptance of human-caused climate change; some knowledgeable people still reject it, and some less knowledgeable accept it.",
+        "spans": [
+          "Kahan found no correlation between one’s understanding of climate science and his or her acceptance of human-caused climate change. Some people who knew quite a bit on the topic still didn’t accept the premise of anthropogenic climate change, and vice versa."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "The more knowledgeable a conservative, the more likely they are to not accept human-caused global warming, using their analytical skills to seek evidence that aligns with their political orientation.",
+        "spans": [
+          "Unlike Ranney, Kahan did find strong evidence for polarization. The more knowledgeable a conservative, for example, the more likely they are to not accept human-caused global warming. Kahan suggests that these people use their significant analytical skills to seek evidence that aligns with their political orientation."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Some communities, like in southeast Florida, have taken action to deal with global warming despite disagreement on whether humans are causing it, by keeping politics out of the discussion.",
+        "spans": [
+          "Still, despite many people’s strong reluctance to accept anthropogenic global warming, cities and counties in places like southeast Florida have gone ahead and supported practices to deal with global warming anyway.",
+          "The key, Kahan says, is that they have kept politics out of the room."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Ranney and Kahan agree that both knowledge and culture matter in acceptance of anthropogenic global warming, and increasing acceptance is important for future generations.",
+        "spans": [
+          "Despite their apparent disagreement, Ranney thinks the debate is a bit of a false dichotomy.",
+          "Perhaps Ranney and Kahan are on the same team after all—they would probably agree that, at the end of the day, both knowledge and culture matter, and that we’d be well-served to focus our energy on how to operationally increase acceptance of anthropogenic global warming."
+        ]
+      }
+    ]
+  }
+}

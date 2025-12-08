@@ -1,0 +1,64 @@
+{
+  "question": "what positive things did al capone do for the city of chicago?",
+  "key_points": {
+    "null": [],
+    "clueweb22-en0040-23-09613": [
+      {
+        "point_number": 1,
+        "point_content": "Capone made donations to various charities and was viewed by many as a 'modern-day Robin Hood'.",
+        "spans": [
+          "He made donations to various charities and was viewed by many as a \"modern-day Robin Hood \"."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Capone sponsored a soup kitchen in Chicago during the Depression.",
+        "spans": [
+          "In an effort to clean up his image, Capone donated to charities and sponsored a soup kitchen in Chicago during the Depression."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Capone started one of the first soup kitchens for the unemployed during the Great Depression.",
+        "spans": [
+          "During the Great Depression Al Capone started one of the first \"Soup Kitchens\" for the unemployed"
+        ]
+      }
+    ],
+    "clueweb22-en0032-76-19381": [
+      {
+        "point_number": 1,
+        "point_content": "In the 1920s, Capone managed to cultivate a positive public image. The people of the city saw him as a modern-day Robin Hood as he donated money to various charities; Capone was even cheered when he appeared at ball games.",
+        "spans": [
+          "In the 1920s, Capone managed to cultivate a positive public image.",
+          "The people of the city saw him as a modern-day Robin Hood as he donated money to various charities; Capone was even cheered when he appeared at ball games."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Capone was so grateful for the care he received that he paid for two Japanese weeping cherry trees in 1939. Although both trees were planted on hospital grounds, one was removed to make room for a new wing of the hospital in 1950. The other tree, known as the Capone tree, still stands proudly.",
+        "spans": [
+          "Capone was so grateful for the care he received that he paid for two Japanese weeping cherry trees in 1939.",
+          "Although both trees were planted on hospital grounds, one was removed to make room for a new wing of the hospital in 1950.",
+          "The other tree, known as the Capone tree, still stands proudly."
+        ]
+      }
+    ],
+    "clueweb22-en0003-23-04939": [
+      {
+        "point_number": 1,
+        "point_content": "Al Capone built a reputation as a sharply-dressed Robin Hood of sorts.",
+        "spans": [
+          "built a reputation as a sharply-dressed Robin Hood of sorts"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Al Capone said, \"I'm just a businessman, giving the people what they want,\" indicating he satisfied a public demand for alcohol during Prohibition.",
+        "spans": [
+          "\"I'm just a businessman, giving the people what they want,\" he'd say. \"All I do is satisfy a public demand.\""
+        ]
+      }
+    ]
+  }
+}

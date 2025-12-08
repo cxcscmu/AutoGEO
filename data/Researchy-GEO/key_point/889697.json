@@ -1,0 +1,672 @@
+{
+  "question": "are video games beneficial or harmful",
+  "key_points": {
+    "clueweb22-en0013-05-16590": [
+      {
+        "point_number": 1,
+        "point_content": "Video games improve basic visual processes, including increasing players’ ability to distinguish subtle differences in shades of gray and improving eyesight of the visually impaired.",
+        "spans": [
+          "Video games improve basic visual processes",
+          "playing video games has been shown to increase players’ ability to distinguish subtle differences in shades of gray, a phenomenon known as “visual contrast sensitivity.”",
+          "They may also improve the eyesight of the visually impaired"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Video games can enhance executive functioning such as multitasking, mental flexibility, and reversing mental decline with age.",
+        "spans": [
+          "Video games can enhance executive functioning",
+          "Video games can help improve multitasking, increase mental flexibility and even reverse the mental decline that occurs as people age"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Video games can improve everyday skills like hand-eye coordination, attention spans, working memory, and rapid decision-making abilities.",
+        "spans": [
+          "Video games can improve everyday skills",
+          "Playing video games has been found to enhance hand-eye coordination, lengthen attention spans and improve both working memory and rapid decision-making abilities"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Video games may help ease anxiety and depression, for example, Tetris may ease symptoms of PTSD and help those with social anxiety disorder.",
+        "spans": [
+          "Video games may help ease anxiety and depression",
+          "video games have been shown to reduce symptoms of anxiety and depression",
+          "Scientific American reported that the game Tetris may actually ease the symptoms of post-traumatic stress disorder",
+          "video games may help those who have social anxiety disorder learn how to initiate relationships and learn about social cues"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Video games can make people more violent, especially violent 'shoot-em-up' games.",
+        "spans": [
+          "Video games can make people more violent",
+          "researchers have found a direct link between violent video games and an increase in aggressive behavior",
+          "This applies particularly to “shoot-em-up” games that simulate firearms"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Video games may decrease players’ ability to concentrate and may exacerbate impulsiveness.",
+        "spans": [
+          "Video games may decrease players’ ability to concentrate",
+          "A study published in Psychology of Popular Media Culture found a correlation between the length of time individuals play video games and their ability to remain focused",
+          "playing video games may exacerbate the impulsiveness of individuals who already have this inclination"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Video games can become addictive and cause family, social, school or psychological damage.",
+        "spans": [
+          "Video games can become addictive",
+          "one in 10 youth gamers is “addicted;” their playing habits cause family, social, school or psychological damage",
+          "Treatment programs combating video game addiction have cropped up across the world"
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Video games may increase depression and anxiety in some cases, such as children playing two or more hours a day.",
+        "spans": [
+          "Video games may increase depression and anxiety",
+          "a study in Cyberpsychology, Behavior and Social Networking, for example, found that fifth-graders who play video games two or more hours a day are more likely to have symptoms of depression than those who play less"
+        ]
+      }
+    ],
+    "clueweb22-en0007-88-03846": [
+      {
+        "point_number": 1,
+        "point_content": "Gaming has many upsides but addiction can negatively impact health.",
+        "spans": [
+          "There are many upsides to gaming, but an addiction to the habit could negatively impact your health."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Gaming improves coordination and multitasking skills.",
+        "spans": [
+          "When engaged in a game, a player will need to coordinate their visual, audial and physical movement at the same time."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Gaming improves concentration and problem-solving skills.",
+        "spans": [
+          "Good video games can retain the player’s attention for a long time, harnessing their full concentration on achieving certain objectives set out by the game."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Gaming enhances brain speed and memory.",
+        "spans": [
+          "Playing video games help enhance visual and audial memory."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Gaming is used as a learning tool in education.",
+        "spans": [
+          "In recent years, many modern education institutions incorporate video games as part of their teaching methodology."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Gaming improves team player skills through co-player and multi-player games.",
+        "spans": [
+          "Co-player as well as multi-player online games enable players to work together to achieve a common goal."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Prolonged gaming leads to an unhealthy lifestyle due to inactivity.",
+        "spans": [
+          "Prolonged gaming leads to an unhealthy lifestyle"
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Extended gaming causes vision problems due to eye strain.",
+        "spans": [
+          "extended hours of focus on the screen causes strain to the eyes."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Prolonged sitting while gaming causes backaches.",
+        "spans": [
+          "Being seated in the same position for hours causes stiffness and soreness due to the lack of movement and this could lead to chronic back problems."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Extended gaming can cause migraines due to intense concentration and eye strain.",
+        "spans": [
+          "People who play video games for extended periods of time are more prone to migraines due to the intense concentration required while gaming as well as the strain put on the eyes by staring at a bright screen."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Violent video games are linked to increased aggressive behaviour, especially in children.",
+        "spans": [
+          "Some research has shown that violent video games are linked to increased aggressive behaviour among players. Children are at a higher risk of being affected if they are exposed to violent games since a young age."
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "Gaming addiction is recognized as a disorder by the World Health Organisation.",
+        "spans": [
+          "World Health Organisation (WHO) has classified gaming disorders in its latest list of International Classification of Diseases."
+        ]
+      },
+      {
+        "point_number": 13,
+        "point_content": "Moderation in gaming is key to benefiting from it and avoiding harm.",
+        "spans": [
+          "Ultimately, video gaming can be a good or a bad thing, depending on your gaming habits. Moderation is key."
+        ]
+      }
+    ],
+    "clueweb22-en0018-95-15762": [
+      {
+        "point_number": 1,
+        "point_content": "Most researchers are discovering that games can be good for us.",
+        "spans": [
+          "most researchers are discovering that games can be good for us"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Video games can promote healthy lifestyles, increase social activity, slow the aging process, and make the participant a better decision-maker.",
+        "spans": [
+          "The advantages of gaming include promoting healthy lifestyles, increasing social activity, slow the aging process, and make the participant a better decision-maker"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Video games can have amazingly positive effects, such as helping those suffering from addictions or cravings and potentially helping those with multiple sclerosis.",
+        "spans": [
+          "Yes, video games can have amazingly positive effects. Gaming can help those suffering from addictions or cravings to decrease the intensity of their desires. They can also potentially help those who have multiple sclerosis with balance and improved cognitive function"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Video games engage with different facets of our daily lives and can be beneficial physically, psychologically, and socially.",
+        "spans": [
+          "Video games are beneficial in the way they engage with different facets of our daily lives. Some of the benefits are physical, psychological, and social"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Playing video games can slow down aging by keeping the brain sharper and improving cognitive function.",
+        "spans": [
+          "playing games can do just that",
+          "We’ve shown that 10 hours is enough to slow the decline by several years"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Action video games improve the ability to take sensory data in and translate it into correct decisions, making players better decision-makers.",
+        "spans": [
+          "Action video games are fast-paced, and there are peripheral images and events popping up, and disappearing. These video games are teaching people to become better at taking sensory data in, and translating it into correct decisions."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Playing action video games improves contrast sensitivity function, which helps eyesight.",
+        "spans": [
+          "playing action games improves an ability called contrast sensitivity function"
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Gamers who partake in live social environments are highly social and form stronger relationships than non-gamers.",
+        "spans": [
+          "Gamers aren’t the antisocial basement-dwellers we see in pop culture stereotypes; they’re highly social people",
+          "they formed stronger relationships than non-gamers due to their matching love of games"
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Certain video games can enhance brain flexibility and cognitive function, helping players become better learners.",
+        "spans": [
+          "certain video games can actually enhance our brain flexibility",
+          "leading to enhancements in cognitive flexibility"
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Video games can improve hand-eye coordination, which is beneficial in professions like surgery and driving.",
+        "spans": [
+          "our favorite games can help improve our hand-eye coordination"
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Playing video games improves focus and attention, enhancing cognition and perception.",
+        "spans": [
+          "playing games improves several abilities, including paying attention"
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "Video games like SPARX can be used to treat depression effectively in teenagers.",
+        "spans": [
+          "SPARX is a potential alternative to usual care for adolescents presenting with depressive symptoms in primary care settings"
+        ]
+      },
+      {
+        "point_number": 13,
+        "point_content": "Active video games can help players stay fit by providing exercise comparable to walking on a treadmill.",
+        "spans": [
+          "playing motion-control games was was just as beneficial as walking on a treadmill at a speed of 3.5mph"
+        ]
+      },
+      {
+        "point_number": 14,
+        "point_content": "Couples who play video games together tend to have happier, healthier relationships.",
+        "spans": [
+          "couples who game together tend to have happier, healthier relationships"
+        ]
+      },
+      {
+        "point_number": 15,
+        "point_content": "Video games can inspire interest in history and encourage reading more about historical topics.",
+        "spans": [
+          "The Total War games are rife with historical accuracy and freedom",
+          "gamers pick up the famous book it’s based on, promoting more literacy"
+        ]
+      },
+      {
+        "point_number": 16,
+        "point_content": "Video games can help multiple sclerosis patients improve balance and cognitive functions.",
+        "spans": [
+          "24 MS patients improved their balance and even lessened their risk of falling as a result of playing video games using a Wii balance board"
+        ]
+      },
+      {
+        "point_number": 17,
+        "point_content": "Playing puzzle games like Tetris can reduce cravings for substances like alcohol and tobacco.",
+        "spans": [
+          "players who played the puzzle game Tetris experienced significantly fewer cravings than those who didn’t partake in Tetris"
+        ]
+      }
+    ],
+    "clueweb22-en0000-97-09350": [
+      {
+        "point_number": 1,
+        "point_content": "Physical and mental health problems linked to video games depend on a student’s psychological investment in those games.",
+        "spans": [
+          "The results suggest that physical and mental health problems linked to video games depend on a student’s psychological investment in those games."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Problematic gamers are more at risk of negative health and behavioral outcomes than recreational gamers.",
+        "spans": [
+          "Those who were more deeply invested in the games, deemed “problematic” gamers, were more at risk than “recreational” gamers."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Problematic gamers are more likely to smoke cigarettes, be aggressive, and show symptoms of being depressed.",
+        "spans": [
+          "The survey results show that problematic gamers are much more likely to smoke cigarettes, be aggressive, and show symptoms of being depressed."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Problematic gaming was not linked to a student’s grades, extracurricular activities, or the use of drugs and alcohol.",
+        "spans": [
+          "Interestingly, problematic gaming was not linked to a student’s grades, extracurricular activities, or the use of drugs and alcohol."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Recreational gaming girls were more likely to get into a serious fight or carry a weapon but had a lower risk of depression compared to non-gamers.",
+        "spans": [
+          "Compared to non-gamers, recreational gaming girls were more likely to get into a serious fight or carry a weapon. At the same time, this group had a lower risk of depression."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Recreational gaming boys were no more likely to use alcohol or drugs, be overweight, or show symptoms of depression than non-gaming boys, and were less likely to report being a regular smoker.",
+        "spans": [
+          "Compared to non-gamers, recreational gaming boys were no more likely to use alcohol or drugs, be overweight, or show symptoms of depression than non-gaming boys. They were also less likely to report being a regular smoker."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Video game playing does not lead exclusively to negative outcomes for youth.",
+        "spans": [
+          "This research challenges the popular belief that video game playing leads to exclusively negative outcomes for youth."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "More research is needed to determine safe levels of gaming and how video games could promote positive mental and physical health.",
+        "spans": [
+          "The researchers suggest that future studies should focus on determining safe levels of gaming, identify risk factors for problematic gaming, and develop ways to intervene before the problem takes root.",
+          "What’s more, given video games’ tremendous popularity among kids, the researchers suggest that more research should explore how these games could promote positive mental and physical health."
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0027-14-16089": [
+      {
+        "point_number": 1,
+        "point_content": "Gaming can improve memory and other cognitive abilities by training specific brain regions.",
+        "spans": [
+          "playing video games may also help improve your memory and fine motor skills as it trains specific brain regions"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Gaming helps to ease pain by producing an analgesic response and releasing endorphins.",
+        "spans": [
+          "gaming does more than just distract you.",
+          "It actually helps your brain produce an analgesic (pain-killing) response, which enables your body to release pain-curbing endorphins"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Playing action games helps you make decisions faster by improving probabilistic inference skills.",
+        "spans": [
+          "action games helped to improve a gamer’s probabilistic inference"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Video games may slow down the ageing process by improving memory and attention span in older players.",
+        "spans": [
+          "studies have shown that video games might be able to help.",
+          "The University of California, San Francisco, has designed a video game specially for older players.",
+          "after 12 hours of gaming, the older players managed to improve their performance and were able to beat 20-year-olds at the game"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Video games may improve dyslexia by reducing attention deficit through fast-paced gameplay requiring focus.",
+        "spans": [
+          "playing video games may help with this.",
+          "children improved their reading speed and accuracy after playing 12 hours of action video games"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Excessive gaming can cause insomnia due to increased blood pressure and unnatural light emission from screens.",
+        "spans": [
+          "excessive gaming, especially before bed, can cause you to experience insomnia and sleep deprivation.",
+          "this is mainly due to the increased blood pressure from playing video games",
+          "Unnatural light emission from screens is also another major factor"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Exposure to violent video games is correlated with increased aggressive behavior and decreased empathy.",
+        "spans": [
+          "exposure to violent video games is positively correlated to an increase in aggressive behaviour and a decrease in empathy and prosocial behaviour"
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Action video games could increase the risk of mental health issues by reducing grey matter in the hippocampus.",
+        "spans": [
+          "action video games could increase the risk of mental health issues.",
+          "these action video games could cause a reduction of grey matter in the hippocampus"
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Excessive gaming can negatively impact school performance due to procrastination and neglecting assignments.",
+        "spans": [
+          "being too absorbed with your video games, this will just make things harder for you in the long run. If this goes on, you could end up getting poor grades or even failing an entire subject!"
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Excessive gaming can reduce interaction with people around you and harm relationships.",
+        "spans": [
+          "being too absorbed in your online world could affect your relationships with your loved ones.",
+          "you are locking people out of your life",
+          "you will lose precious engagement with your family members. This can leave them feeling neglected and ultimately, destroy your relationship"
+        ]
+      }
+    ],
+    "clueweb22-en0002-38-04563": [
+      {
+        "point_number": 1,
+        "point_content": "Video games have both good and bad effects.",
+        "spans": [
+          "Video games: good, bad, or other?"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Video games can have adverse effects related to aggression and violence.",
+        "spans": [
+          "Aggression / psychology*",
+          "Video Games / adverse effects*",
+          "Violence / psychology*"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Video games impact adolescent behavior and psychology.",
+        "spans": [
+          "Adolescent Behavior / psychology*",
+          "Video Games / psychology"
+        ]
+      }
+    ],
+    "clueweb22-en0019-58-04997": [
+      {
+        "point_number": 1,
+        "point_content": "Video games can have many benefits, including improving problem solving and decision-making skills.",
+        "spans": [
+          "Benefits of Video Games",
+          "Problem solving and decision-making skills",
+          "Games usually include some puzzles or other problem situations that players need to solve in order to get to the next level.",
+          "Playing a game such as The Incredible Machine, Machinarium, Angry Birds or Cut the Rope, makes for an excellent workout for children’s minds as they have to use their logic skills and creativity in order to achieve a goal; they have to search, plan, and experiment with different approaches in order to solve puzzles and deal with other problems.",
+          "Some scientists believe that video games could be used as training tools to develop quicker decision-making."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Video games improve hand-eye coordination, fine motor and spatial skills.",
+        "spans": [
+          "Hand-eye coordination, fine motor and spatial skills",
+          "Research suggests that people who play video games have better visual-spatial attention skills and are more successful in visual processing of images than non-gamers.",
+          "Meta-analysis studies show that, by playing video games, spatial skills can be acquired in a relatively short time, and that the results are often comparable to formal training designed to enhance the same skills."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Video games may enhance multitasking skills.",
+        "spans": [
+          "Multitasking skills",
+          "It’s been suggested that video games may enhance one’s ability to apprehend and track many shifting variables and manage multiple objectives.",
+          "Some researchers report that children who played video games performed significantly better compared to other children on a version of the multiple-object tracking task."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "There is concern that violent video games promote aggression in children, but research is inconclusive.",
+        "spans": [
+          "Aggression in Children",
+          "It’s a widespread concern that violent video games promote aggression, reduce prosocial behavior, increase impulsivity, and have a negative effect on children’s mood.",
+          "By now, much research has been conducted showing that playing violent video games increases aggression in children, leading to a lack of empathy and prosocial behavior.",
+          "On the other hand, there is also a lot of research that provided evidence of video games having only immediate and short-term effects on aggression, or even that they have the opposite effect – they make children less aggressive, and that, in the long term, video games are not promoting or causing aggression in players in their offline lives.",
+          "It is still unclear if playing aggressive games really does cause the player to become aggressive."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Video games can be addictive and interfere with daily life.",
+        "spans": [
+          "Gaming Addiction",
+          "There is no doubt that video games can indeed be highly addictive, as they can lead to behavioral dependency characterized by an excessive or compulsive use of computer or video games, which can interfere with one’s everyday life.",
+          "The World Health Organization (WHO) officially recognized “a pattern of persistent or recurrent gaming behavior” as a disorder in June, 2018.",
+          "Gaming Disorder is manifested by: Impaired control over gaming, Increasing priority given to gaming, Continuation or escalation of gaming despite the occurrence of negative consequences."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Excessive video game playing can lead to poor academic performance and adverse health effects.",
+        "spans": [
+          "Poor academic performance. This is one of the negative consequences of extended and reckless engagement in video games.",
+          "If children are devoting a lot of their time to playing video games, their school performance can be affected as they’ll have less time for their school obligations.",
+          "Adverse effects on health. Video games also have an indirect effect on physical health, if children are choosing video games over physical activity.",
+          "Children who are too invested in games can easily skip meals or even sleep in order to play the games they like."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Video games are neither inherently good nor bad; their impact depends on appropriate and moderate use.",
+        "spans": [
+          "What’s the Verdict? Are Video Games Good or Bad?",
+          "Video games are neither good nor bad.",
+          "They can be used as powerful teaching and skill-honing tools but can also be over-used and have an overwhelming effect on a child’s life if they frequently get angry and frustrated while playing games.",
+          "It all comes down to appropriate and moderate use."
+        ]
+      }
+    ],
+    "clueweb22-en0013-19-12295": [
+      {
+        "point_number": 1,
+        "point_content": "Video games can be used to help improve test scores, teach life and job skills, improve brain function, and encourage physical exercise.",
+        "spans": [
+          "Video games can be used to help improve test scores, teach life and job skills, improve brain function, and encourage physical exercise."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Most popular video games and apps are addictive by design.",
+        "spans": [
+          "Most popular video games and apps are addictive by design"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Because video game addiction can negatively impact social and physical health, parents should be aware of the symptoms.",
+        "spans": [
+          "Because video game addiction can negatively impact social and physical health, parents should be aware of the symptoms."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Video games have been shown to help us improve our ability to reason and solve problems, make split-second decisions, process information more quickly, and multitask effectively.",
+        "spans": [
+          "Video games have been shown to help us improve our ability to reason and solve problems. They help us make split-second decisions, process information more quickly, and multitask effectively."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Video games teach kids how to delegate, work as a team, and prioritize.",
+        "spans": [
+          "Many video games teach kids how to delegate, work as a team, and prioritize."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Video games can improve hand-eye coordination and boost auditory perception.",
+        "spans": [
+          "Games can also improve hand-eye coordination and boost auditory perception."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Video games can be addictive because playing releases dopamine which gives a feeling of pleasure and encourages repetition.",
+        "spans": [
+          "Playing releases dopamine into our systems, which gives us a feeling of pleasure and tells our brain to “do it again.”"
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Children playing violent video games show decreased activity in areas of the brain dedicated to self-control and an increase in emotional arousal.",
+        "spans": [
+          "children playing violent video games show decreased activity in areas of the brain dedicated to self-control and an increase in emotional arousal."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Video game addiction can lead to negative social and physical health impacts, including neglect of hygiene, irritability, anxiety, and disinterest in other activities.",
+        "spans": [
+          "Neglect of hygiene",
+          "Irritability when not playing video games",
+          "Increased anxiety",
+          "Disinterest in other activities"
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Video games should occupy less time than exercising, socializing, studying, and sleeping to maintain balance.",
+        "spans": [
+          "even though video games have their place, they should occupy less time than what kids need to devote to exercising, socializing, studying, and sleeping."
+        ]
+      }
+    ],
+    "clueweb22-en0027-03-00481": [
+      {
+        "point_number": 1,
+        "point_content": "Video games have both positive and negative effects on players.",
+        "spans": [
+          "Video games have both positive and negative effects on players."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Benefits from gaming come only from well-designed video games.",
+        "spans": [
+          "according to the data, it does appear that the benefits associated with gaming come only from well-designed video games."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Video games have been demonstrated to have a beneficial effect on human memory, especially 3D action games.",
+        "spans": [
+          "Gaming Improves Recognition Memory",
+          "video games have been demonstrated to have a beneficial effect on human memory.",
+          "older adults between 60 and 80 years of age showed marked improvement in recognition memory after four weeks of gaming.",
+          "study participants playing Angry Birds or Super Mario (i.e. 3D action games) showed greater improvements than those playing 2D games."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Violent content in video games may lead to increased aggression, but the link is tenuous and depends on predisposition.",
+        "spans": [
+          "violent content in video games did, in fact, lead to increased aggression by players in the real world.",
+          "it's all but impossible to tie violent video game content to aggressive behaviors.",
+          "participants predisposed to moral disengagement were the only ones who showed an increase in aggression after playing violent video games."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Games with prosocial content lead to more positive behaviors after long periods of playing, assuming no predisposition to negative behavior.",
+        "spans": [
+          "a meta-analysis of three studies of games with so-called prosocial content (helpful behaviors like collaborating on building, farming, etc.) found that players exhibited more positive behaviors after long periods of playing such games."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Video games are excellent teachers, improving motor skills, visual acuity, and executive function, especially well-designed educational games.",
+        "spans": [
+          "video games, for better or worse, are excellent teachers.",
+          "They've been demonstrated to be quite effective at improving motor skills, visual acuity, and executive function.",
+          "games that are trying to teach you something (and are made for the task) often succeed.",
+          "One study even tested a purpose-built game called NeuroRacer's ability to improve the multi-tasking skills of the elderly."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "The effect of video games depends on the game design and the player's predisposition.",
+        "spans": [
+          "If you build a game to be beneficial, it probably will be.",
+          "If you build a game to be negative or violent, it's certainly not going to have many positive effects.",
+          "the audience matters, too.",
+          "as long as you're not predisposed to aggression, you'd be ok.",
+          "as long as you're not antisocial, you'll likely learn some useful positive behaviors from it."
+        ]
+      }
+    ]
+  }
+}

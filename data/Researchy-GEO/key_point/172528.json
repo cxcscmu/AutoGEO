@@ -1,0 +1,297 @@
+{
+  "question": "how climate change affects natural disasters",
+  "key_points": {
+    "clueweb22-en0009-53-05050": [
+      {
+        "point_number": 1,
+        "point_content": "Increasing global surface temperatures lead to more droughts and increased intensity of storms.",
+        "spans": [
+          "With increasing global surface temperatures the possibility of more droughts and increased intensity of storms will likely occur."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "More water vapor evaporated into the atmosphere fuels more powerful storms.",
+        "spans": [
+          "As more water vapor is evaporated into the atmosphere it becomes fuel for more powerful storms to develop."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "More heat in the atmosphere and warmer ocean surface temperatures can increase wind speeds in tropical storms.",
+        "spans": [
+          "More heat in the atmosphere and warmer ocean surface temperatures can lead to increased wind speeds in tropical storms."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Rising sea levels expose higher locations to the power of the sea and erosive forces of waves and currents.",
+        "spans": [
+          "Rising sea levels expose higher locations not usually subjected to the power of the sea and to the erosive forces of waves and currents."
+        ]
+      }
+    ],
+    "clueweb22-en0033-61-02156": [
+      {
+        "point_number": 1,
+        "point_content": "Climate change impacts the risk of natural disasters.",
+        "spans": [
+          "The impacts of climate change on the risk of natural disasters"
+        ]
+      }
+    ],
+    "clueweb22-en0015-57-07634": [
+      {
+        "point_number": 1,
+        "point_content": "Scientists agree that climate change in general is and will continue to lead to more extreme weather events—from droughts to flooding to hurricanes.",
+        "spans": [
+          "scientists agree that climate change in general is and will continue to lead to more extreme weather events—from droughts to flooding to hurricanes"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Scientists are increasingly looking at the role climate change is playing in specific disaster events.",
+        "spans": [
+          "scientists are increasingly looking at the role climate change is playing in specific disaster events"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The frequency of billion-dollar weather and climate disaster events in the United States is generally increasing over time.",
+        "spans": [
+          "the frequency of billion-dollar events is generally increasing over time"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Climate change contributed to the severity of the flooding during Hurricane Harvey and to the intensity of the 2017 California wildfires.",
+        "spans": [
+          "climate change contributed to the severity of the flooding during the hurricane",
+          "climate change is part of California’s perfect recipe for intense wildfire"
+        ]
+      }
+    ],
+    "clueweb22-en0004-28-01735": [
+      {
+        "point_number": 1,
+        "point_content": "Climate change is linked to an increase in the frequency of the most powerful and destructive hurricanes.",
+        "spans": [
+          "The current consensus holds that while a warmer world will not necessarily mean more hurricanes, it will see a rise in the frequency of the most powerful, and therefore more destructive, variety."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Climate change may increase the frequency of bigger storm systems like Pacific typhoons and mid-latitude storms, which tend to be the most destructive.",
+        "spans": [
+          "As with hurricanes, Pacific typhoons and the mid-latitude storms that periodically batter the UK and Europe are forecast to follow a similar pattern in an anthropogenically warmed world. Storm numbers may not rise, but there is likely to be an escalation in the frequency of the bigger storm systems, which tend to be the most destructive."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Climate change interacts with the solid Earth (geosphere) in complex ways that can increase the risk of earthquakes and volcanic activity.",
+        "spans": [
+          "the thin layer of gases that hosts the weather and fosters global warming really does interact with the solid Earth – the so-called geosphere — in such a way as to make climate change an even bigger threat."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Reduced atmospheric pressure from typhoons can allow earthquake faults to move more easily and release accumulated strain.",
+        "spans": [
+          "Liu and his colleagues provided convincing evidence for a link between typhoons barrelling across Taiwan and the timing of small earthquakes beneath the island.",
+          "the reduced atmospheric pressure that characterises these powerful Pacific equivalents of hurricanes is sufficient to allow earthquake faults deep within the crust to move more easily and release accumulated strain."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Heavy rains from tropical cyclones may be linked to earthquakes by lubricating fault planes or reducing weight on faults through erosion of landslides.",
+        "spans": [
+          "the huge volume of rain dumped by tropical cyclones, leading to severe flooding, may also be linked to earthquakes.",
+          "It is possible that floodwaters are lubricating fault planes, but Wdowinski has another explanation. He thinks that the erosion of landslides caused by the torrential rains acts to reduce the weight on any fault below, allowing it to move more easily."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Rainfall influences earthquake activity patterns, with lower activity during wet summer monsoon seasons and higher activity during drier winter months.",
+        "spans": [
+          "rainfall also influences the pattern of earthquake activity in the Himalayas, where the 2015 Nepal earthquake took close to 9,000 lives, and where the threat of future devastating quakes is very high.",
+          "This annual rainwater loading and unloading of the crust is mirrored by the level of earthquake activity, which is significantly lower during the summer months than during the winter."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Heavy rains and seasonal sea level changes can trigger volcanic eruptions by affecting the pressure on the Earth's crust.",
+        "spans": [
+          "On the Caribbean island of Montserrat, heavy rains have been implicated in triggering eruptions of the active lava dome that dominates the Soufrière Hills volcano.",
+          "Alaska’s Pavlof volcano appears to respond not to wind or rain, but to tiny seasonal changes in sea level.",
+          "The volcano seems to prefer to erupt in the late autumn and winter, when weather patterns are such that water levels adjacent to this coastal volcano climb by a few tens of centimetres. This is enough to bend the crust beneath the volcano, allowing magma to be squeezed out, according to geophysicist Steve McNutt of the University of South Florida, “like toothpaste out of a tube”."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Past rapid warming events caused geological activity such as earthquakes and volcanic eruptions due to melting ice sheets and rising sea levels.",
+        "spans": [
+          "The last time our world experienced serious warming was at the end of the last ice age when, between about 20,000 and 10,000 years ago, temperatures rose by six degrees centigrade, melting the great continental ice sheets and pushing up sea levels by more than 120m.",
+          "These huge changes triggered geological mayhem. As the kilometres-thick Scandinavian ice sheet vanished, the faults beneath released the accumulated strain of tens of millennia, spawning massive magnitude eight earthquakes.",
+          "Across the Norwegian Sea, in Iceland, the volcanoes long buried beneath a kilometre of ice were also rejuvenated as the suffocating ice load melted away, prompting a “volcano storm” about 12,000 years ago that saw the level of activity increase by up to 50 times."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Current climate change is causing ice loss and crustal uplift, increasing seismic activity and landslides in some regions.",
+        "spans": [
+          "Now, global average temperatures are shooting up again and are already more than one degree centigrade higher than during preindustrial times.",
+          "In southern Alaska, which has in places lost a vertical kilometre of ice cover, the reduced load on the crust is already increasing the level of seismic activity.",
+          "In high mountain ranges across the world from the Caucasus in the north to New Zealand’s southern Alps, longer and more intense heatwaves are melting the ice and thawing the permafrost that keeps mountain faces intact, leading to a rise in major landslides."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Climate change may bring forward the timing of earthquakes or volcanic eruptions where faults or volcanoes are already primed to erupt.",
+        "spans": [
+          "Where an earthquake fault or volcano is primed and ready to go, however, climate change may provide that extra helping hand that brings forward the timing of a quake or eruption that would eventually have happened anyway."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Melting glaciers and ice loss in places like Iceland and Greenland are causing crustal uplift and may lead to increased volcanic activity and earthquakes.",
+        "spans": [
+          "As the world continues to heat up, any geological response is likely to be most obvious where climate change is driving the biggest environmental changes – for example, in areas where ice and permafrost are vanishing fast, or in coastal regions where rising sea levels will play an increasing role.",
+          "Freysteinn Sigmundsson of the Nordic Volcanological Centre observes that the centre of Iceland is now rising by more than three centimetres a year in response to shrinking glaciers.",
+          "Studies undertaken by Sigmundsson and his colleagues forecast that the reduced pressures that result will lead to the formation of significant volumes of new magma deep under Iceland.",
+          "Recent findings by a research team led by Shfaqat Khan of Denmark’s Technical University reveal a staggering loss of 272bn tonnes of ice a year over the last decade.",
+          "GPS measurements show that, like Scandinavia at the end of the last ice age, Greenland and the whole of the surrounding region is already rising in response to the removal of this ice load."
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "Ice melting on volcanoes can destabilize them, increasing volcanic activity and landslide risk.",
+        "spans": [
+          "climate change is driving rapid melting of ice on many volcanoes worldwide, triggering unloading as ice is removed.",
+          "As well as encouraging magma to rise to the surface, leading to increased volcanic activity, removal of ice can also destabilise steep volcano flanks, making hazardous landslides more likely."
+        ]
+      },
+      {
+        "point_number": 13,
+        "point_content": "Loss of ice cover in mountain ranges increases the risk of large slope failures and landslides, posing serious risks in populated regions.",
+        "spans": [
+          "The potential for more landslides is also likely to be a problem in high mountain ranges as the ice cover that stabilises rock faces vanishes.",
+          "in densely populated and developed regions such as the European Alps, serious consequences have to be considered from [future] large slope failures."
+        ]
+      },
+      {
+        "point_number": 14,
+        "point_content": "Earthquakes triggered by ice loss and crustal uplift in Greenland could potentially cause undersea landslides and tsunamis.",
+        "spans": [
+          "future ice loss may trigger earthquakes of intermediate to large magnitude if the crust underneath the modern ice cap contains faults prone to failure.",
+          "About 8,200 years ago, an earthquake linked to the uplift of Scandinavia, triggered the Storegga Slide; a gigantic undersea sediment slide that sent a tsunami racing across the North Atlantic.",
+          "The submerged margins of Greenland are currently not very well mapped, so the likelihood of a future earthquake triggering a landslide capable of generating a major tsunami in the North Atlantic is unknown."
+        ]
+      }
+    ],
+    "clueweb22-en0016-35-19114": [
+      {
+        "point_number": 1,
+        "point_content": "Natural disasters are occurring more frequently with increased ferocity.",
+        "spans": [
+          "Natural disasters are occurring more frequently with increased ferocity, UN says"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Extreme weather events have increased dramatically in the past 20 years, taking a heavy human and economic toll worldwide.",
+        "spans": [
+          "Extreme weather events have increased dramatically in the past 20 years, taking a heavy human and economic toll worldwide, and are likely to wreak further havoc, the United Nations warned."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Heatwaves and droughts will pose the greatest threat in the next decade, as temperatures continue to rise due to heat-trapping gases.",
+        "spans": [
+          "Heatwaves and droughts will pose the greatest threat in the next decade, as temperatures continue to rise due to heat-trapping gases, experts said."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "In the last 20 years, 7,348 major disaster events were recorded globally, claiming 1.23 million lives and causing $2.97 trillion in economic losses.",
+        "spans": [
+          "In the last 20 years, 7,348 major disaster events were recorded globally, claiming 1.23 million lives.",
+          "These events cost $2.97 trillion in economic losses"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Drought, floods, earthquakes, tsunamis, wildfires and extreme temperature events caused major damage.",
+        "spans": [
+          "Drought, floods, earthquakes, tsunamis, wildfires and extreme temperature events caused major damage."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Global temperatures will continue to warm over the next five years, and may even temporarily rise to more than 1.5 degrees Celsius above pre-industrial levels.",
+        "spans": [
+          "Global temperatures will continue to warm over the next five years, and may even temporarily rise to more than 1.5 degrees Celsius above pre-industrial levels, the World Meteorological Organization (WMO) said in July."
+        ]
+      }
+    ],
+    "clueweb22-en0014-83-14949": [
+      {
+        "point_number": 1,
+        "point_content": "The steady rise in global surface temperatures is having a significant impact on the number, frequency and duration of natural hazards.",
+        "spans": [
+          "There is also growing evidence that the steady rise in global surface temperatures is having a significant impact on the number, frequency and duration of natural hazards."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Climate-related disasters have tripled in the last 30 years, forcing more than 20 million people from their homes each year.",
+        "spans": [
+          "Oxfam estimates the number of climate-related disasters has tripled in the last 30 years, and that more than 20 million people are being forced from their homes by climate change each year."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Rising surface temperatures are connected to the likelihood and severity of droughts and wildfires in hot, arid regions.",
+        "spans": [
+          "On land, rising surface temperatures are connected to the likelihood and severity of droughts and wildfires in hot, arid regions."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The oceans are heating up, reaching record high temperatures, contributing to natural hazards.",
+        "spans": [
+          "The oceans too are heating up: the 0-2,000-meter layer of the global ocean reached a record high temperature in 2019, with a preliminary analysis of the 2020 data suggesting that it has surpassed that record."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Rising temperatures and warmer seas increase water vapor in the atmosphere, fueling hurricanes, typhoons, and torrential rain.",
+        "spans": [
+          "Rising temperatures and warmer seas mean that more water vapor is evaporating into the atmosphere, providing the ‘fuel’ for hurricanes, typhoons, and torrential rain."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Hurricanes and storms are becoming more intense and causing more severe flooding due to global warming.",
+        "spans": [
+          "One of the most dangerous consequences of rising quantities of evaporated sea water in the atmosphere is the increasing intensity of storms and hurricanes.",
+          "We can see now from the empirical data, that hurricanes are behaving differently, they are going further inland where they then become rainstorm and flooding events. They dump a lot more water on the land because they’ve picked up more water [due to global warming] while they’ve been over the ocean."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Climate change influences the behavior of the jet stream, causing prolonged weather events like rainfall, drought, frost or heat.",
+        "spans": [
+          "There is evidence that the changing climate is influencing the behavior of the jet stream, which has the effect of localizing weather systems for weeks at a time, causing prolonged rainfall, drought, frost or heat."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Climate change will exacerbate chaotic severe weather events, making tropical storms more impactful with higher wind-speeds and greater aerial extent.",
+        "spans": [
+          "Most climate scientists agree that over time, climate change will exacerbate chaotic severe weather events. Tropical storms will likely become more impactful, with higher wind-speeds, greater aerial extent, changing their typical paths and becoming extra tropical storms or rainstorm flooding events when they eventually hit land."
+        ]
+      }
+    ],
+    "null": []
+  }
+}

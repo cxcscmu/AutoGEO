@@ -1,0 +1,108 @@
+{
+  "question": "describe the roles of government bodies that determine fiscal policy",
+  "key_points": {
+    "null": [],
+    "clueweb22-en0025-20-08585": [
+      {
+        "point_number": 1,
+        "point_content": "Fiscal policy is directed by both the executive and legislative branches of the government.",
+        "spans": [
+          "Actually, both the President and Congress do. In the United States, fiscal policy is directed by both the executive and legislative branches."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "In the executive branch, the President and the Secretary of the Treasury, often with economic advisers' counsel, direct fiscal policies.",
+        "spans": [
+          "In the executive branch, the two most influential offices in this regard belong to the President and the Secretary of the Treasury, although contemporary presidents often rely on a council of economic advisers as well."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "In the legislative branch, the U.S. Congress passes laws and appropriates spending for any fiscal policy measures, involving both the House of Representatives and the Senate.",
+        "spans": [
+          "In the legislative branch, the U.S. Congress passes laws and appropriates spending for any fiscal policy measures. This process involves participation, deliberation, and approval from both the House of Representatives and the Senate."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The U.S. Constitution authorizes Congress to levy taxes under the Taxing and Spending Clause.",
+        "spans": [
+          "The so-called \"Taxing and Spending Clause\" of the U.S. Constitution, Article I, Section 8, Clause 1, authorizes Congress to levy taxes."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The judicial branch, particularly the Supreme Court, can impact fiscal policy by legitimizing, amending, or declaring unconstitutional measures taken by the executive or legislative branches.",
+        "spans": [
+          "The judicial branch of the government, though not normally involved, has a role to play too. The Supreme Court, or even lesser courts, can have an impact on fiscal policy by legitimizing, amending or declaring unconstitutional certain measures taken by the executive or legislative branches to affect the national economy ."
+        ]
+      }
+    ],
+    "clueweb22-en0010-37-15150": [
+      {
+        "point_number": 1,
+        "point_content": "In most governments, taxes and spending are controlled by legislative bodies, and in the United States, that legislative body is Congress.",
+        "spans": [
+          "In most governments, taxes and spending are controlled by legislative bodies, and in the United States, that legislative body is Congress."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Congress makes the ultimate decisions about who pays how much for taxes, and where tax revenues are spent, but they are influenced by special interests, lobbyists and politics.",
+        "spans": [
+          "While Congress makes the ultimate decisions about who pays how much for taxes, and where tax revenues are spent, they are influenced by special interests, lobbyists and politics."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The Employment Act of 1946 created the Council of Economic Advisers, which advises the president on economic policy and helps appoint members to the Joint Economic Committee, a standing committee of the U.S. Congress that reports on the economic condition and makes suggestions.",
+        "spans": [
+          "After the war ended in 1946, the government enacted the Employment Act of 1946 in an effort to keep the economy from plunging back into a depression.",
+          "While the act was revised many times over the following years, its primary effect was the creation of the Council of Economic Advisers, which had the job of advising the president on economic policy and helping to appoint members to the Joint Economic Committee.",
+          "This committee, which still exists today as a standing committee of the U.S. Congress, reports on the current economic condition of the country and makes suggestions for how to improve it."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Spending and taxes in the United States are largely controlled by Congress, although the Executive Branch has significant influence on fiscal policies in a particular administration.",
+        "spans": [
+          "Spending and taxes in the United States are largely controlled by Congress, although the Executive Branch does have a significant influence on the fiscal policies put into place in a particular administration."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Congressional spending comes in two types: discretionary spending authorized annually through appropriations, and mandatory spending on entitlement programs authorized by statute.",
+        "spans": [
+          "Congressional spending comes in two different types: discretionary and mandatory.",
+          "Discretionary spending is authorized by Congress through annual appropriations that are included in the yearly budget.",
+          "Mandatory or direct spending is spending on entitlement programs and direct payments to state and local governments as well as people and businesses. This type of spending is generally authorized by statute."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Taxes in the United States are paid by citizens through income and capital gains taxes and by corporations through corporate tax; tax rates are determined by the Internal Revenue Service.",
+        "spans": [
+          "Taxes in the United States are paid by every-day citizens through income and capital gains taxes and by corporations through corporate tax.",
+          "Tax rates are determined by the Internal Revenue Service."
+        ]
+      }
+    ],
+    "clueweb22-en0006-38-01875": [
+      {
+        "point_number": 1,
+        "point_content": "Fiscal policy's two main areas are tax rates and government spending.",
+        "spans": [
+          "Fiscal policy's two main areas are tax rates and government spending."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Along with monetary policy controlled by central banks, fiscal policy is the main way that governments impact a nation's economy.",
+        "spans": [
+          "Along with monetary policy controlled by central banks, fiscal policy is the main way that governments impact a nation's economy."
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,541 @@
+{
+  "question": "is it good for children to learn arts",
+  "key_points": {
+    "clueweb22-en0012-19-15095": [
+      {
+        "point_number": 1,
+        "point_content": "Art has a lot of positive effects on a child’s character and personality.",
+        "spans": [
+          "Art has a lot of positive effects on a child’s character and personality."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Children learning art achieve real benefits including mental, emotional, and psychological development.",
+        "spans": [
+          "children learning art actually achieve real benefits",
+          "It does help with the mental, emotional, and psychological development."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Art enhances creativity and independence in children and helps them reach their potential.",
+        "spans": [
+          "It enhances the sense of creativity and independence in a child and helps him to reach its potential."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Art improves neurological and motor skills in children.",
+        "spans": [
+          "In addition to improving the neurological and motor skills, art has a lot of positive effects on a child’s character and personality."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Art promotes creativity by allowing children to express their interpretations in unique ways.",
+        "spans": [
+          "Art allows children to process the world around them and express their interpretations in a creative way."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Art promotes confidence by helping children overcome fear and take pride in their work.",
+        "spans": [
+          "Children who participate in drama classes get the chance to stand in front of an audience to deliver a message.",
+          "Other forms of art like music and painting also give the child a chance to take pride in their work, show off their talent and talk about it to others."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Art promotes problem solving skills by encouraging children to create and express feelings in various art forms.",
+        "spans": [
+          "Art is about creating something out of nothing.",
+          "A child will ask himself how to express a certain feeling through a dance or a facial expression, how to bring a lifeless piece of clay into life by creating a sculpture and how to use their feelings to create a piece of music that would tell a story."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Art promotes patience and determination through continuous practice required in activities like ballet or music.",
+        "spans": [
+          "Children who practice ballet or learn a new music instrument learn how hard and much time it takes to achieve a slight progress.",
+          "The only way to master the dance or the instrument is through continuous practice."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Art promotes accountability as children realize their actions affect others in group performances.",
+        "spans": [
+          "Through art, children realise that their actions affect others.",
+          "Through dance recitals or drama rehearsals, children can see how the overall performance is affected when they are not ready or doing their best."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Art promotes focus on teamwork and attention to detail.",
+        "spans": [
+          "Through art, children realise the importance of team work that involves a lot of focus and concentration.",
+          "Art trains children not just to focus on themselves but also on others so that the whole performance works out.",
+          "Even in individual art work, art helps children to pay attention to different details."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Art promotes the ability to give and receive positive feedback as a normal part of learning.",
+        "spans": [
+          "Children learn that receiving and giving positive feedback is an essential way of learning art.",
+          "Art helps children to understand that giving and receiving feedback is a normal part of the learning process."
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "Art promotes dedication, discipline, and good habits through practice and effort.",
+        "spans": [
+          "Children who practice art understand that practice makes perfect.",
+          "They learn to appreciate dedication and discipline.",
+          "They develop habits like keeping their tools, cleaning them, arriving to rehearsals ready and on time and appreciating the efforts of others."
+        ]
+      }
+    ],
+    "clueweb22-en0002-71-12952": [
+      {
+        "point_number": 1,
+        "point_content": "Art appreciation and art history are the most inter-disciplinary modes of learning, as they link not only to the art work and the artist but to the science, language, politics and society at that particular point in time.",
+        "spans": [
+          "Art appreciation and art history are the most inter-disciplinary modes of learning, as they link not only to the art work and the artist but to the science, language, politics and society at that particular point in time."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Art appreciation is helping our children become more sensitive to others’ point of view, and to visual expression and imagery around them.",
+        "spans": [
+          "Art appreciation is also not about spewing facts and figures about an artwork. Rather it is helping our children become more sensitive to others’ point of view, and to visual expression and imagery around them."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Knowing about art history can have immense benefits for a child’s development. It teaches them that art is an integral part of our lives, and that it is all around us. It also fosters a love of art and culture from an early age.",
+        "spans": [
+          "Knowing about art history can have immense benefits for a child’s development. It teaches them that art is an integral part of our lives, and that it is all around us. It also fosters a love of art and culture from an early age."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Looking at artwork helps child’s observation skills and creates a more mindful approach to life from a young age, which extends into other areas of their learning.",
+        "spans": [
+          "Looking at artwork helps child’s observation skills. By focussing on an inquiry-based learning rather than skills-based learning, we can encourage children to look more closely and observe visual cues and symbols. It also creates a more mindful approach to life from a young age, where children take time to look around them. When children learn to visualise through careful observation, and imagine, this can extend into other areas of their learning."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Art encourages reflective questioning, motivating deeper thought, consideration of different points of view, and confidence in their own likes and dislikes.",
+        "spans": [
+          "By asking open-ended questions, children can be encouraged to reflect on their own emotional response to the artwork. This motivates deeper thought and consideration of different points of view, as well as encouraging confidence in their own likes and dislikes."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Looking at artwork and artist’s motivations helps children understand how visual images are shaped by context, aiding their understanding of images in print and social media.",
+        "spans": [
+          "Looking at artwork, and artist’s motivations and context helps children understand how visual images are shaped by the context that they are set in. This will help them understand and respond to the images around them in print and on social media."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Talking about art helps children learn vocabulary, express themselves more articulately, and connect words to emotions and feelings.",
+        "spans": [
+          "By encouraging children to talk about art, they learn vocabulary around art, and gain fluency in expressing themselves more articulately. By describing a piece of art, children expand their word power and it translates to everything around them, including the ability to be able to talk about their emotions and feelings."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Talking about art teaches children negotiation and discussion skills, listening to others’ points of view, and working collaboratively.",
+        "spans": [
+          "Talking about art is a good way to teach children important negotiation and discussion skills. Listening to others’ point of view, and contributing our own is a difficult skill to learn. It also provides an opportunity for children to learn to work collaboratively, and use language effectively to express clearly to others what they see, how they feel, and why."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Learning about art enables children to create their own versions of the past, present, and visualise their future.",
+        "spans": [
+          "Learning about art enables children to create their own versions of the past, and present, and visualise what they want their future to be."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Art appreciation can develop children's motor, social, emotional, and cognitive skills, counteracting the instant gratification of technology.",
+        "spans": [
+          "It does not allow the opportunity for children to take their time and observe slowly. This is why it is so important that we engage our children in activities that develop not only their motor skills, but also social, emotional and cognitive skills. Art appreciation can do this."
+        ]
+      }
+    ],
+    "clueweb22-en0007-43-15487": [
+      {
+        "point_number": 1,
+        "point_content": "Making art can drastically improve your child’s fine motor skills and enhance their creative problem-solving abilities.",
+        "spans": [
+          "Making art can drastically improve your child’s fine motor skills and enhance their creative problem-solving abilities."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Studies have shown that building these skills translates into better academic outcomes for kids in other subjects including writing, literacy, mathematics, and science.",
+        "spans": [
+          "Over time, studies have shown that building these skills translates into better academic outcomes for kids in other subjects including writing, literacy, mathematics, and science."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Children often use art to help them process their experiences and deal with overwhelming emotions.",
+        "spans": [
+          "Children often use art to help them process their experiences and deal with overwhelming emotions."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Art encourages creativity and imaginative thinking, two skills that are increasingly linked with long-term professional success.",
+        "spans": [
+          "Art encourages creativity and imaginative thinking, two skills that are increasingly linked with long-term professional success."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "By making their own independent choices to express what they are thinking/feeling children build confidence in themselves and their abilities.",
+        "spans": [
+          "By making their own independent choices to express what they are thinking/feeling children build confidence in themselves and their abilities, and learn to feel more comfortable expressing their feelings."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Creating art in small group settings encourages cooperative behavior in children, giving them opportunities to practice crucial social skills like sharing, taking turns and working together.",
+        "spans": [
+          "Creating art in small group settings encourages cooperative behavior in children, giving them opportunities to practice crucial social skills like sharing, taking turns and working together."
+        ]
+      }
+    ],
+    "clueweb22-en0029-48-19494": [
+      {
+        "point_number": 1,
+        "point_content": "Art exploration is not only fun and entertaining, but also educational.",
+        "spans": [
+          "Art exploration is not only fun and entertaining, but also educational."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Art is a natural activity to support free play in children, allowing exploration and experimentation which is educational.",
+        "spans": [
+          "Art is a natural activity to support this free play in children. The freedom to manipulate different materials in an organic and unstructured way allows for exploration and experimentation. These artistic endeavors and self-directed explorations are not only fun, but educational as well."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Art allows youth to practice a wide range of skills useful for life and learning.",
+        "spans": [
+          "Art allows youth to practice a wide range of skills that are useful not only for life, but also for learning."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Skills youth practice when participating in art activities include fine motor skills, cognitive development, math skills, and language skills.",
+        "spans": [
+          "Skills youth practice when participating in art activities include: Fine motor skills. Grasping pencils, crayons, chalk and paintbrushes helps children develop their fine motor muscles. This development will help your child with writing, buttoning a coat and other tasks that require controlled movements.",
+          "Cognitive development. Art can help children learn and practice skills like patterning and cause and effect (i.e., “If I push very hard with a crayon the color is darker.”). They can also practice critical thinking skills by making a mental plan or picture of what they intend to create and following through on their plan.",
+          "Math skills. Children can learn, create and begin to understand concepts like size, shape, making comparisons, counting and spatial reasoning.",
+          "Language skills. As children describe and share their artwork, as well as their process, they develop language skills."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Free expression through art is good for overall health and well-being, helping relieve stress and work through life events.",
+        "spans": [
+          "In addition to helping youth develop important skills, free expression is also good for overall health and well-being. Giving your child a creative outlet can help relieve stress and work through things happening in their lives."
+        ]
+      }
+    ],
+    "clueweb22-en0000-42-12149": [
+      {
+        "point_number": 1,
+        "point_content": "Art can be good for kids in many ways.",
+        "spans": [
+          "Art can be good for kids in many ways."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Art is key to children's development and helps them communicate and build confidence.",
+        "spans": [
+          "While a child needs to learn science, math, and reading, art is also key to their development.",
+          "In school, it’s a way for them to communicate and build confidence."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Statistics show that art benefits children’s academic achievements and other positive outcomes.",
+        "spans": [
+          "Statistics show that art benefits children’s academic achievements. Those students actively involved in the arts are:",
+          "Four times more likely to take part in a math or science fair.",
+          "Three times more likely to have good school attendance and win an award for it.",
+          "Four times more likely to be recognized and acknowledged for academic achievements.",
+          "Three times more likely to stand for and be elected to class office.",
+          "Likely to have higher SAT scores.",
+          "Less likely to drop out of school.",
+          "More likely to gain employment after school due to their creativity."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Art activities help develop motor skills including gross motor skills, fine motor skills, and hand-eye coordination.",
+        "spans": [
+          "Art activities such as painting, drawing, crafts, and scribbling encourage the connections between the brain and these muscles.",
+          "Try activities like drawing — even if it’s just scribbling, cutting with scissors, finger painting for little ones, face painting, or origami for older kids.",
+          "Playing with different shapes, tracing, connecting the dots, and even coloring within lines, help hand-eye coordination."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Art helps develop language skills, comprehension skills, and literacy in children.",
+        "spans": [
+          "Art gives kids an opportunity to talk about colors, shapes, and what they are doing.",
+          "They can describe what they have painted, scribbled, or created, helping them to communicate and expand their vocabulary.",
+          "Arts and crafts can help kids understand the world around them in many ways.",
+          "Art can help develop writing, reading, listening, and speaking skills, making a child more literate."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Art boosts brain power by improving problem-solving, critical thinking, creativity, imagination, and concentration.",
+        "spans": [
+          "Improve problem-solving and critical thinking skills: Give two kids the same challenge and see how they will each approach it differently.",
+          "Improve creativity and individual craftsmanship: Kids will learn to be original and innovative when using art as a medium from a young age.",
+          "Imagination: Art in all its forms encourages a child to use their imagination.",
+          "Improve concentration: Arts and crafts often lead to an end product. Following steps in sequence to complete a drawing or craft project can help a child focus and concentrate."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Art helps children develop world and cultural awareness and acceptance of differences.",
+        "spans": [
+          "Using arts and crafts can help develop an awareness in children of the different traditions and cultures around the world.",
+          "It will help them understand and accept those who are different from them."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Art helps develop life and social skills such as teamwork, following directions, social skills, responsibility, conflict resolution, handling criticism, and improving behavior.",
+        "spans": [
+          "Teamwork and collaboration: Whether it’s creating or appreciating art forms, it gives kids a chance to connect with their peers or adults who might not share the same interests.",
+          "Ability to follow directions: Crafts often have specific instructions to complete a project.",
+          "Improved social skills: Joining an art group, or even just collaborating on an art project in school, helps kids communicate.",
+          "A sense of responsibility: Participating in arts or crafts as part of a group can help give kids a sense of responsibility.",
+          "Ability to resolve conflicts: Art can help kids understand there is more than one way of looking at something.",
+          "Handling criticism: Although there is no right or wrong with art, constructive criticism is a way that can help kids accept there is another point of view.",
+          "Improving behavior: Participating in various arts, like music, drama, creative writing, and others, might help kids who are “at risk” to find motivation."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Art can influence academic performance positively and helps children with different learning styles.",
+        "spans": [
+          "Academic performance can be influenced by taking part in the arts.",
+          "Art can reach students with different learning styles: Kids with special needs, like ADHD, dyslexia, and sensory disorders, might not learn in the same way as other children when it comes to core subjects.",
+          "Fosters regular school attendance: When kids have art as part of their curriculum, school becomes more fun to attend.",
+          "Reduces school dropout rate: Students who take part in the arts, whether in school or outside, have a much lower dropout rate than those who don’t."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Art benefits personality and identity by boosting confidence, teaching perseverance and patience, emotional intelligence, reflection, self-expression, and healthy risk-taking.",
+        "spans": [
+          "Confidence boosting: No doubt, you praise your child’s achievements and help them gain a sense of self-worth.",
+          "Teaches perseverance: Whether it’s visual art, music, dance, or theater, art can help a child stick to something and see it through to the end.",
+          "Teaches patience: Waiting for things to happen can be challenging for kids.",
+          "Emotional intelligence: The highs and lows that a kid experiences when creating can help them control their own emotions and be empathetic with others.",
+          "Encourages reflection and introspection: Life is busy, even for kids.",
+          "Promotes self-expression: Art can give a kid an outlet to express themselves.",
+          "Allows for exploration and healthy risk-taking: Experimenting during arts and crafts is a great way for kids to learn what works and what doesn’t."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Art benefits emotional well-being by giving a sense of purpose, bonding opportunities, reducing stress, anxiety, and depression, and providing relaxation.",
+        "spans": [
+          "Gives a sense of purpose: Practicing arts and crafts can make kids more enthusiastic about other aspects of their lives.",
+          "Bonding opportunity: Not only do kids form friendships and connect with their peers through art, but they also bond with their family.",
+          "Reduces stress, anxiety, and depression: Arts and crafts of all kinds can help people feel happier and calmer.",
+          "Relaxation: Taking time out to concentrate on nothing else apart from creating what’s in front of you can be a great way to relax."
+        ]
+      }
+    ],
+    "clueweb22-en0012-47-00315": [
+      {
+        "point_number": 1,
+        "point_content": "The arts help kids develop creativity, allowing them to express themselves better than math or science.",
+        "spans": [
+          "the arts allow kids to express themselves better than math or science"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Participation in the arts improves academic performance and increases the likelihood of academic recognition and awards.",
+        "spans": [
+          "young people who participate regularly in the arts (three hours a day on three days each week through one full year) are four times more likely to be recognized for academic achievement, to participate in a math and science fair or to win an award for writing an essay or poem than children who do not participate"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Arts activities help younger children develop fine motor skills.",
+        "spans": [
+          "Simple things like holding a paintbrush and scribbling with a crayon are an important element to developing a child’s fine motor skills"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Participating in the arts builds children's confidence as they improve and see their own progress.",
+        "spans": [
+          "Getting up on a stage and singing gives kids a chance to step outside their comfort zone. As they improve and see their own progress, their self-confidence will continue to grow"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Art education helps children develop visual-spatial skills and the ability to interpret and use visual information.",
+        "spans": [
+          "drawing, painting, and sculpting in art class help develop visual-spatial skills",
+          "Art education teaches students how to interpret, criticize, and use visual information"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "The arts strengthen problem solving and critical thinking skills, including decision making.",
+        "spans": [
+          "The arts strengthen problem solving and critical thinking skills"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Learning arts teaches perseverance and the value of hard work.",
+        "spans": [
+          "After practicing hard, I learned that hard work and perseverance pay off"
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Arts activities require and develop focus, which is vital for studying and working later in life.",
+        "spans": [
+          "focus is imperative"
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Many arts activities require collaboration, teaching kids to work together and share responsibility.",
+        "spans": [
+          "Many of the arts such as band, choir, and theater require kids to work together. They must share responsibility and compromise to achieve their common goal"
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Kids in the arts learn accountability for their contributions and how to handle mistakes.",
+        "spans": [
+          "kids in the arts learn that they are accountable for their contributions to the group. If they drop the ball or mess up, they realize that it’s important to take responsibility for what they did"
+        ]
+      }
+    ],
+    "clueweb22-en0004-38-17545": [
+      {
+        "point_number": 1,
+        "point_content": "Artmaking at a young age has many benefits to kids’ physical, emotional and mental well being.",
+        "spans": [
+          "artmaking at a young age has many more benefits to kids’ physical, emotional and mental well being"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Art activities promote motor skill development which aids in daily activities.",
+        "spans": [
+          "Motor skill development",
+          "Scribbling with markers and crayons is a skill that sets the foundation for learning to write. Holding a paintbrush, stringing beads, and cutting with scissors all hone fine motor skills, which aids in things like learning to tie shoes, fastening buttons, holding utensils and many more daily activities."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Art helps kids gain confidence, perseverance, patience, focus, and longer attention spans.",
+        "spans": [
+          "Self-esteem and self-expression",
+          "Mastering skills, completing art projects and learning to express themselves in new ways helps kids gain confidence and perseverance.",
+          "Time-dependent projects, like waiting for paint and glue to dry, encourage patience, which is tough for most kids.",
+          "Concentrating on a project for long periods also develops focus and longer attention spans."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Art activities develop visual-spatial skills, executive function, working memory, mental flexibility and self-control, which are essential to academic success.",
+        "spans": [
+          "Visual processing and memory",
+          "Painting, drawing and sculpting help develop visual-spatial skills, especially in toddlers.",
+          "Creating arts and crafts projects also assists with developing executive function, which includes working memory, mental flexibility and self-control.",
+          "These traits guide your child’s ability to plan his or her behavior, which is essential to academic success."
+        ]
+      }
+    ],
+    "clueweb22-en0025-87-15013": [
+      {
+        "point_number": 1,
+        "point_content": "Early exposure to visual art, music, or drama promotes activity in the brain.",
+        "spans": [
+          "It’s been proven that early exposure to visual art, music, or drama promotes activity in the brain."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Art helps children understand other subjects much more clearly—from math and science, to language arts and geography.",
+        "spans": [
+          "Art helps children understand other subjects much more clearly—from math and science, to language arts and geography."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Art nurtures inventiveness as it engages children in a process that aids in the development of self-esteem, self-discipline, cooperation, and self-motivation.",
+        "spans": [
+          "Art nurtures inventiveness as it engages children in a process that aids in the development of self-esteem, self-discipline, cooperation, and self-motivation."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Participating in art activities helps children to gain the tools necessary for understanding human experience, adapting to and respecting others’ ways of working and thinking, developing creative problem-solving skills, and communicating thoughts and ideas in a variety of ways.",
+        "spans": [
+          "Participating in art activities helps children to gain the tools necessary for understanding human experience, adapting to and respecting others’ ways of working and thinking, developing creative problem-solving skills, and communicating thoughts and ideas in a variety of ways."
+        ]
+      }
+    ],
+    "clueweb22-en0000-90-17882": [
+      {
+        "point_number": 1,
+        "point_content": "Kids who doodle, finger paint, or design bead jewelry aren’t just making art—they’re boosting their brainpower.",
+        "spans": [
+          "Kids who doodle, finger paint, or design bead jewelry aren’t just making art—they’re boosting their brainpower."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Making a masterpiece—or just a stick-figure drawing—is actually a problem-solving project for kids.",
+        "spans": [
+          "Making a masterpiece—or just a stick-figure drawing—is actually a problem-solving project for kids: First a child looks at the materials and decides what they want to make and how they’ll make it. Then they’ll engage motor skills by manipulating tools to make and adjust their art until they’re happy with their creation … or not. (Dealing with disappointment is good life practice too.)"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Creating art can increase introspection and empathy in children, making them kinder friends.",
+        "spans": [
+          "Neurologists have found that creating art at least once a week can increase introspection and empathy because the act strengthens the brain’s default mode network, regions that are active when thinking about others and your own actions."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Creating art can reduce stress in children by lowering cortisol levels.",
+        "spans": [
+          "In one study, professor Girija Kaimal of Drexel University and the president-elect of the American Art Therapy Association, discovered that creating art for 45 minutes had a significant reduction in cortisol, the main stress chemical in our bodies."
+        ]
+      }
+    ]
+  }
+}

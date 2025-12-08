@@ -1,0 +1,325 @@
+{
+  "question": "how climate change affect people",
+  "key_points": [
+    {
+      "point_number": 1,
+      "point_content": "Climate change will affect certain groups more than others, particularly those located in vulnerable areas and the poor, young, old, sick, immigrant communities, and indigenous tribes, who may face difficulties coping with impacts.",
+      "original_point_number": [
+        1,
+        3,
+        5,
+        6,
+        7,
+        8,
+        10,
+        29,
+        104,
+        106,
+        108,
+        109,
+        110,
+        111,
+        136,
+        103,
+        89
+      ]
+    },
+    {
+      "point_number": 2,
+      "point_content": "Climate change affects human health, infrastructure, transportation systems, energy, food, and water supplies, impacting well-being and causing health problems including respiratory diseases, mental health issues, heat-related illnesses, and spread of diseases by mosquitoes and ticks.",
+      "original_point_number": [
+        2,
+        16,
+        20,
+        28,
+        72,
+        124,
+        125,
+        130,
+        139,
+        137,
+        90,
+        91,
+        92,
+        85,
+        86,
+        94,
+        95,
+        99,
+        100,
+        129,
+        51,
+        52,
+        53,
+        54,
+        55,
+        68,
+        88,
+        89,
+        103,
+        136,
+        138
+      ]
+    },
+    {
+      "point_number": 3,
+      "point_content": "Where people live influences their vulnerability to climate change, with city residents, urban infrastructure, farming communities, tourism, recreation, and insurance industries having distinct sensitivities and impacts.",
+      "original_point_number": [
+        4,
+        9,
+        15,
+        117,
+        115,
+        116,
+        118,
+        119,
+        120,
+        105,
+        63
+      ]
+    },
+    {
+      "point_number": 4,
+      "point_content": "Climate change causes rising sea levels and increased flooding, threatening homes, freshwater supplies, coastal communities, and causing displacement, erosion, storm surge damage, and sewage overflows in cities.",
+      "original_point_number": [
+        17,
+        31,
+        44,
+        57,
+        123,
+        131,
+        143,
+        65
+      ]
+    },
+    {
+      "point_number": 5,
+      "point_content": "Climate change impacts ecosystems and biodiversity, including Arctic warming, glacier melting, invasive species spread, ocean acidification, coral reef damage, shifting plant and animal ranges, and overwhelmed ecosystem capacity to buffer extreme events.",
+      "original_point_number": [
+        30,
+        33,
+        34,
+        126,
+        133,
+        145
+      ]
+    },
+    {
+      "point_number": 6,
+      "point_content": "Climate change is an ongoing process caused mainly by human activities such as burning fossil fuels, livestock production, and deforestation, leading to global warming, melting ice, and rising sea levels, with effects happening now and projected to worsen.",
+      "original_point_number": [
+        14,
+        19,
+        32,
+        36,
+        39,
+        46,
+        58,
+        59,
+        62,
+        146,
+        147
+      ]
+    },
+    {
+      "point_number": 7,
+      "point_content": "Climate change leads to increased frequency and intensity of extreme weather events such as heat waves, droughts, floods, hurricanes, and wildfires, which threaten human health, infrastructure, ecosystems, and cause costly disruptions.",
+      "original_point_number": [
+        24,
+        42,
+        43,
+        47,
+        48,
+        59,
+        66,
+        87,
+        98,
+        134,
+        142,
+        46,
+        143,
+        144
+      ]
+    },
+    {
+      "point_number": 8,
+      "point_content": "Climate change affects food production and nutrition by shifting crop climates northward, increasing water needs, reducing nutritional value, harming farm workers and livestock, and causing food price increases and undernutrition.",
+      "original_point_number": [
+        11,
+        18,
+        25,
+        27,
+        49,
+        73,
+        118,
+        140
+      ]
+    },
+    {
+      "point_number": 9,
+      "point_content": "Climate change affects water supplies and quality through earlier snowmelt, reduced snowpack, droughts, contamination, saltwater intrusion, and algal blooms, stressing rural and urban populations and potentially affecting nearly a billion people by 2050.",
+      "original_point_number": [
+        26,
+        56,
+        74,
+        132,
+        113
+      ]
+    },
+    {
+      "point_number": 10,
+      "point_content": "Climate change increases health risks for vulnerable groups including children, elderly, people with preexisting conditions, outdoor workers, people of color, low income, and indigenous tribes, with impacts on physical, mental, and community health.",
+      "original_point_number": [
+        29,
+        55,
+        68,
+        103,
+        104,
+        111,
+        89,
+        90,
+        136,
+        85,
+        127,
+        81,
+        79
+      ]
+    },
+    {
+      "point_number": 11,
+      "point_content": "Climate change impacts mental health through trauma from floods, droughts, heat waves, stress, anxiety, depression, social disorder, and other psychological effects.",
+      "original_point_number": [
+        52,
+        121,
+        127,
+        102
+      ]
+    },
+    {
+      "point_number": 12,
+      "point_content": "Climate change increases health risks including heat-related illnesses, respiratory and cardiovascular diseases, spread of vector-borne diseases, and worsened air quality due to wildfires, pollen, mold, and ground-level ozone.",
+      "original_point_number": [
+        16,
+        71,
+        72,
+        86,
+        94,
+        95,
+        96,
+        97,
+        129,
+        51,
+        53,
+        54,
+        99,
+        100,
+        137
+      ]
+    },
+    {
+      "point_number": 13,
+      "point_content": "Climate change causes economic impacts including increased home insurance costs or unavailability in high-risk areas, higher electricity demand and bills, potential municipal tax increases, and costly damages from floods, wildfires, and extreme weather.",
+      "original_point_number": [
+        13,
+        67,
+        69,
+        70,
+        65,
+        66,
+        134
+      ]
+    },
+    {
+      "point_number": 14,
+      "point_content": "Climate change threatens social and environmental determinants of health such as clean air, safe drinking water, sufficient food, secure shelter, livelihoods, equality, and access to healthcare and social support, potentially undoing progress in development and widening health inequalities.",
+      "original_point_number": [
+        77,
+        81,
+        83,
+        79,
+        84,
+        80
+      ]
+    },
+    {
+      "point_number": 15,
+      "point_content": "Climate change will have varied regional effects in the U.S., including heat waves, heavy downpours, sea level rise, infrastructure and ecosystem challenges in the Northeast; water supply and wildfire threats in the Northwest; sea level rise and extreme heat in the Southeast; extreme heat and flooding in the Midwest; and increased heat, drought, wildfires, and health impacts in the Southwest.",
+      "original_point_number": [
+        46
+      ]
+    },
+    {
+      "point_number": 16,
+      "point_content": "Climate change affects human health by increasing deaths and illnesses from extreme heat, poor air quality, extreme weather events, and changing prevalence and distribution of food-, water-, and vector-borne diseases.",
+      "original_point_number": [
+        78,
+        93,
+        94,
+        95,
+        98,
+        137,
+        139
+      ]
+    },
+    {
+      "point_number": 17,
+      "point_content": "Climate change impacts human activities such as outdoor exercise, recreational sports, and travel, making them more difficult or dangerous due to hotter temperatures, reduced snowfall, extreme heat affecting airplane performance, flooding of airports, increased turbulence, and damage to destinations.",
+      "original_point_number": [
+        75,
+        76,
+        119
+      ]
+    },
+    {
+      "point_number": 18,
+      "point_content": "Climate change causes shifts in growing seasons and frost-free periods, affecting ecosystems and agriculture, with some beneficial impacts in certain regions but overall net annual costs increasing over time.",
+      "original_point_number": [
+        40,
+        61,
+        38
+      ]
+    },
+    {
+      "point_number": 19,
+      "point_content": "Climate change causes droughts and flooding that harm food production, human health, ecosystems, infrastructure, and spread disease, increasing mortality and limiting productivity.",
+      "original_point_number": [
+        21,
+        24,
+        56,
+        98
+      ]
+    },
+    {
+      "point_number": 20,
+      "point_content": "Climate change increases occupational hazards such as heatstroke risk, especially among farmers and construction workers, leading to shifts in labor to cooler times of day.",
+      "original_point_number": [
+        50,
+        68
+      ]
+    },
+    {
+      "point_number": 21,
+      "point_content": "Climate change causes significant and increasing net damage costs over time, with effects varying by region and depending on mitigation and adaptation efforts.",
+      "original_point_number": [
+        35,
+        37,
+        38,
+        39
+      ]
+    },
+    {
+      "point_number": 22,
+      "point_content": "Climate change is the single biggest health threat facing humanity, with health professionals worldwide responding to the harms caused by this crisis.",
+      "original_point_number": [
+        80
+      ]
+    },
+    {
+      "point_number": 23,
+      "point_content": "Reducing emissions will lessen harmful impacts to human health, saving lives and health-related expenses.",
+      "original_point_number": [
+        23
+      ]
+    }
+  ]
+}

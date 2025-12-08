@@ -1,0 +1,90 @@
+{
+  "question": "is illiteracy a disability",
+  "key_points": {
+    "clueweb22-en0041-86-12433": [
+      {
+        "point_number": 1,
+        "point_content": "Illiteracy itself doesn’t qualify for disability benefits.",
+        "spans": [
+          "Illiteracy itself doesn’t qualify for disability benefits"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Illiteracy might help qualify for disability benefits when used with age and residual functional capacity (RFC) under medical-vocational allowance.",
+        "spans": [
+          "if you don’t qualify for disability using medical criteria, so you are using the medical-vocational allowance to be approved, you might qualify with the help of illiteracy being used in conjunction with your age and your residual functional capacity (RFC)"
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0001-15-17722": [
+      {
+        "point_number": 1,
+        "point_content": "Illiteracy means an inability to read or write.",
+        "spans": [
+          "Illiteracy means an inability to read or write."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "An illiterate person cannot read or write a simple message such as instructions or inventory lists even though they can sign their name.",
+        "spans": [
+          "We consider someone illiterate if the person cannot read or write a simple message such as instructions or inventory lists even though the person can sign his or her name."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Generally, an illiterate person has had little or no formal schooling.",
+        "spans": [
+          "Generally, an illiterate person has had little or no formal schooling."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "We consider an individual illiterate if he or she cannot read or write a simple message, such as instructions or inventory lists, even though the individual can sign his or her name.",
+        "spans": [
+          "We consider an individual illiterate if he or she cannot read or write a simple message, such as instructions or inventory lists, even though the individual can sign his or her name."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "We will assign an individual to the illiteracy category only if the individual is unable to read or write a simple message in any language.",
+        "spans": [
+          "We will assign an individual to the illiteracy category only if the individual is unable to read or write a simple message in any language."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Illiteracy is an education category used in disability determinations under Social Security rules.",
+        "spans": [
+          "This Social Security Ruling (SSR) explains how we determine an individual's education category in adult initial disability decisions, determinations, redeterminations, and continuing disability reviews under titles II and XVI of the Social Security Act."
+        ]
+      }
+    ],
+    "clueweb22-en0019-77-16723": [
+      {
+        "point_number": 1,
+        "point_content": "Illiteracy and learning disabilities can impair the ability to analyze instructions or synthesize information and incorporate it into a behavior task.",
+        "spans": [
+          "In addition to illiteracy, some have learning disabilities that impede their ability to learn.",
+          "Implications of illiteracy and learning disabilities include an impaired ability to analyze instructions or synthesize information and incorporate it into a behavior task."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Patients who cannot read are considered disabled until they can change the situation.",
+        "spans": [
+          "The non-English speaking and the ones who cannot read are also disabled until they can change the situation."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The ability or inability to read and understand health information affects the degree to which patients follow health practices.",
+        "spans": [
+          "The “ability or inability to read and understand health information also can affect the degree to which patients follow health practices” (Falvo, 2004, p.200)."
+        ]
+      }
+    ]
+  }
+}

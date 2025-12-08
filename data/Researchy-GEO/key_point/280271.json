@@ -1,0 +1,487 @@
+{
+  "question": "what makes people believe in conspiracies",
+  "key_points": {
+    "clueweb22-en0039-05-13305": [
+      {
+        "point_number": 1,
+        "point_content": "People who believe in conspiracy theories tend to have a greater need for cognitive closure and to be unique.",
+        "spans": [
+          "people who believe in conspiracy theories tend to have a greater need for cognitive closure 1 (the desire to find an explanation when explanations are lacking) and to be unique. 2"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "They are more likely to have a cognitive bias called hypersensitive agency detection or teleologic thinking.",
+        "spans": [
+          "They're more likely to have a cognitive bias called hypersensitive agency detection 3 or teleologic thinking 4 (whereby events are overattributed to hidden forces, purposes, and motives)."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Conspiracy beliefs are associated with lower levels of education and analytic thinking.",
+        "spans": [
+          "Some research has also found that conspiracy beliefs are associated with lower levels of education 3 and analytic thinking. 5"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Belief in conspiracy theories is far more normal than many might think, with half of the US population believing in at least one political or medical conspiracy theory.",
+        "spans": [
+          "studies have also revealed that half of the US population believes in at least one political or medical conspiracy theory. 6,7 So belief in conspiracy theories is far more “normal” than many of us might think."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The internet has democratized knowledge and devalued expertise, making it harder to distinguish between reliable information and misinformation, which can increase belief in conspiracy theories.",
+        "spans": [
+          "One result has been that expertise is now devalued and knowledge has been democratized.",
+          "With something like the belief that vaccines cause autism, it’s harder to distinguish between reliable information and misinformation when you’re trying to find answers from social media."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Search algorithms and confirmation bias reinforce exposure to conspiracy theories online.",
+        "spans": [
+          "The nature of search algorithms is such that once you click on something related to a conspiracy theory, you’re more likely to see something else related to a conspiracy theory.",
+          "All of us are susceptible to confirmation bias —the tendency to reinforce pre-existing beliefs when we look for information."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Belief in one conspiracy theory predicts belief in others, indicating a shared psychological make-up among conspiracy believers.",
+        "spans": [
+          "research has shown that belief in one conspiracy theory predicts belief in others. 8 The general psychological make-up of those who believe in conspiracies therefore appears to be shared across different conspiracy theories."
+        ]
+      }
+    ],
+    "clueweb22-en0031-43-10281": [
+      {
+        "point_number": 1,
+        "point_content": "Believers in conspiracy theories are likely to see apparent connections between disparate events that others do not notice.",
+        "spans": [
+          "a study led by Vrije Universiteit Amsterdam showed that this tendency is heightened among believers in conspiracy theories",
+          "they are likely to see apparent connections between disparate events that the rest of us just don’t notice"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Believers in conspiracy theories are less likely to have had the kind of education or critical thinking skills necessary to see the flaws in their theories.",
+        "spans": [
+          "believers in the theories are not only more likely to see illusory connections, research shows they are also less likely to have had the kind of education or have the critical thinking skills necessary to help them see the glaring holes in their wild theories"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Believers tend to have an inflated sense of their own intellectual competence and are lower in intellectual humility.",
+        "spans": [
+          "believers tend to be lower in ‘intellectual humility’",
+          "Ignorance combined with overconfidence creates a fertile ground for unsubstantiated beliefs to take hold"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Believing in conspiracy theories can satisfy some people’s need to feel special and be part of a community.",
+        "spans": [
+          "Believing in a widely discredited theory – and feeling part of a community of fellow believers – can help to satisfy some people’s need to feel special"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Believers are more prone to anxiety and a sense of lacking control, feelings alleviated by subscribing to conspiracy theories.",
+        "spans": [
+          "believers are also more prone to anxiety and a sense that they lack control – feelings alleviated by subscribing to a conspiracy theory being spread with such apparent conviction by others"
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0009-21-12007": [
+      {
+        "point_number": 1,
+        "point_content": "People are drawn to conspiracy theories to satisfy three psychological motives: epistemic (need for knowledge and certainty), existential (need to feel safe and in control), and social (need to feel good about oneself and one's group).",
+        "spans": [
+          "people are drawn to conspiracy theories in order to satisfy or in an attempt to satisfy three important psychological motives",
+          "epistemic motives really just refer to the need for knowledge and certainty",
+          "The second set of motives, we would call existential motives. And really they just refer to people's needs to be or to feel safe and secure in the world that they live in",
+          "The final set of motives we would call social motives and those refer to people's desire to feel good about themselves as individuals and also feel good about themselves in terms of the groups that they belong to"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Belief in conspiracy theories is not new and has always been present, especially during times of crisis and social upheaval.",
+        "spans": [
+          "conspiracy theories have ways being with us",
+          "people have always believed in conspiracy theories",
+          "conspiracy theories have always been there",
+          "conspiracy theories have always been there and to some extent, people are all, I guess you could call everybody a conspiracy theorist if you want to use that term at one point or another"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "People with lower levels of education tend to be more drawn to conspiracy theories because they may lack the tools to differentiate credible from non-credible sources.",
+        "spans": [
+          "people with lower levels of education tend to be drawn to conspiracy theories",
+          "they haven't been given access to the tools to allow them to differentiate between good sources and bad sources or credible sources and non-credible sources"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "People who feel powerless and disillusioned tend to gravitate more towards conspiracy theories.",
+        "spans": [
+          "people who do feel powerless and disillusioned do tend to gravitate more towards conspiracy theories"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Narcissism and a need for uniqueness are associated with belief in conspiracy theories, as they provide a feeling of superiority and special knowledge.",
+        "spans": [
+          "narcissism at an individual level has been associated in quite a few studies now with belief in conspiracy theories",
+          "need for uniqueness and a need to have, I guess, stand out from others is associated with belief in conspiracy theories"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Younger people tend to believe in conspiracy theories more than older people; no consistent gender differences have been found in general conspiracy belief.",
+        "spans": [
+          "older people believe in conspiracy theories less than younger people do",
+          "we've never found any gender differences in terms of conspiracy belief"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "People who believe in one conspiracy theory are more likely to believe in others, even contradictory ones, due to an underlying belief that something is being covered up.",
+        "spans": [
+          "people who believe in one conspiracy theory are more likely to believe in others, even when those theories directly contradict each other",
+          "the relationship between the contradictory beliefs was explained by the, I guess, underlying belief that just something is being covered up"
+        ]
+      }
+    ],
+    "clueweb22-en0046-48-17861": [
+      {
+        "point_number": 1,
+        "point_content": "Unhappy, unsuccessful, and socially awkward people are more likely to think conspiracies explain the injustice they see in the world.",
+        "spans": [
+          "Unhappy, unsuccessful, and socially awkward people are more likely to think conspiracies explain the injustice they see in the world."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "People who believe in conspiracies are often poorly educated and unsuccessful in their careers, using conspiracy theories to find meaning in difficulties.",
+        "spans": [
+          "People who believe in conspiracies are often poorly educated and unsuccessful in their careers. Conspiracy theories are a way for these individuals to find a sense of meaning in the face of the difficulties they experience"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Conspiracy thinkers see bad things happening to good people and conclude the world is an unfair place, leading them to look for hidden reasons for events as an illusion of control.",
+        "spans": [
+          "conspiracy thinkers see bad things happening to good people and conclude the world is an unfair place.",
+          "This leads some on society’s margins to look for patterns in the injustice, and identify what they think are hidden or secret reasons for events. It is an illusion of control over something that cannot be controlled"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Conspiracy thinkers may suffer from personality disorders, being odd, eccentric, self-centred, socially awkward, and distrustful of society and authorities.",
+        "spans": [
+          "conspiracy thinkers may suffer from some well-known personality disorders.",
+          "They are typically odd or eccentric people, and often self-centred. They believe it is the world that is wrong or out of line, rather than themselves. In addition to a general distrust of society and authorities they are often socially awkward and tend to withdraw from other people"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Poor education and lack of understanding of complex subjects contribute to belief in conspiracies; educated people tend to be more skeptical.",
+        "spans": [
+          "Poor education and a lacking understanding of complex subjects doesn’t help. Educated people in general tend to be more skeptical and less attracted to popular theories"
+        ]
+      }
+    ],
+    "clueweb22-en0039-24-15233": [
+      {
+        "point_number": 1,
+        "point_content": "Conspiracy theories often take flight during unsettling times, such as a pandemic, close elections, or after terrorist attacks, as people seek alternative ways to make sense of shocking or painful situations.",
+        "spans": [
+          "Conspiracy theories often take flight during unsettling times.",
+          "Painful and uncertain times might lead many people to find alternative ways to make sense of such a shocking or painful situation."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Certain personality traits and cognitive styles are common among people who believe in conspiracy theories, including paranoid thinking, eccentricity, low trust, need to feel special, and seeing patterns where none exist.",
+        "spans": [
+          "people who believe in conspiracy theories tend to show personality traits and characteristics such as: paranoid or suspicious thinking eccentricity low trust in others stronger need to feel special belief in the world as a dangerous place seeing meaningful patterns where none exist"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The strongest predictor of belief in conspiracy theories is having a personality that falls into the spectrum of schizotypy, which includes traits like magical thinking and disorganized thinking patterns.",
+        "spans": [
+          "The strongest predictor of belief in conspiracy theories, according to the study, is having a personality that falls into the spectrum of schizotypy.",
+          "Schizotypy is a set of personality traits that can range from magical thinking and dissociative states to disorganized thinking patterns and psychosis."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Belief in conspiracy theories is linked to the need for uniqueness; the higher the need to feel special and unique, the more likely a person is to believe a conspiracy theory.",
+        "spans": [
+          "Preliminary research also suggests that belief in conspiracy theories is linked to people’s need for uniqueness. The higher the need to feel special and unique, the more likely a person is to believe a conspiracy theory."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Suspicious thoughts and paranoia may have an evolutionary advantage, making people prone to conspiracy theories as a safer strategy than carefree trust.",
+        "spans": [
+          "Having the capacity to imagine and anticipate that other people might form coalitions and conspire to harm one’s clan would confer a clear adaptive advantage: a suspicious stance toward others, even if mistaken, would be a safer strategy than carefree trust.",
+          "The paranoia that drives individuals to constantly scan the world for danger and suspect the worst of others probably once provided a similar survival edge."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Illusory pattern perception, or seeing meaningful connections between unrelated events, is linked to belief in conspiracy theories.",
+        "spans": [
+          "Illusory pattern perception refers to perceiving meaningful or coherent connections between nonrelated events.",
+          "A 2018 study tested this theory and found that distortions of normal cognitive processes were repeatedly associated with conspiracy and irrational beliefs."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Lacking control in a situation increases the likelihood to perceive nonexistent patterns, leading to belief in conspiracies.",
+        "spans": [
+          "A 2008 study found that lacking control in a situation increased a person’s likelihood to perceive nonexistent patterns, including developing superstitions and believing in conspiracies."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Apophenia, the tendency to perceive meaningful connections in random situations, contributes to belief in conspiracy theories.",
+        "spans": [
+          "There’s actually a name for this phenomenon: apophenia. This is the tendency to perceive a meaningful connection within random situations."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Confirmation bias, or seeking information that supports a belief while disregarding disconfirming information, supports belief in conspiracy theories.",
+        "spans": [
+          "Confirmation bias, or the “my way bias,” refers to the process of disregarding information that might disprove a belief while seeking information that supports it."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "The thrill of solving mysteries, feeling special, and being part of a community can make conspiracy theories like QAnon appealing.",
+        "spans": [
+          "QAnon might be convincing because its theories often play on: people’s fears the need to feel one is an empathetic person (e.g., saving the children) a natural thrill to solve mysteries a desire to be part of a like-minded group"
+        ]
+      }
+    ],
+    "clueweb22-en0016-16-19283": [
+      {
+        "point_number": 1,
+        "point_content": "Successful conspiracies always have the right villain, often blaming groups that are viewed with suspicion or as threatening by the population.",
+        "spans": [
+          "successful conspiracies always have the right villain",
+          "the way it portrayed upper-class women and slaves, who powerful male elites found threatening",
+          "High-status women were generally viewed with suspicion",
+          "Slaves, on the other hand, had been known to murder their masters from time to time – and there was a long-standing paranoia that they sometimes acted as spies, and so couldn’t be trusted"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Conspiracy theories generally tap into a society's collective anxieties and obsessions related to cultural and historical events.",
+        "spans": [
+          "popular conspiracies tend to concern themes such as alien life, religious minorities, powerful elites, rival nations, mysterious technologies and the destruction of the environment",
+          "Across the world, people generally believe in theories that are related to the cultural and historical events that have happened in particular places",
+          "Successful conspiracy theories generally tap into them"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Conspiracy theories often make people feel good about their own social group and put down rival groups, reinforcing tribalism.",
+        "spans": [
+          "they make us feel good about our own social group, often while putting down those we see as our rivals",
+          "By emphasising the distinctions between “ingroups” and “outgroups”, conspiracy theories may also lead to stronger social bonds"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "People turn to conspiracy theories more when confronted with crisis situations or uncertainty.",
+        "spans": [
+          "people turn to conspiracy theories more when they're confronted with crisis situations",
+          "Conspiracy theories tend to emerge quite quickly when something important happens",
+          "They come out of the blue when there's some kind of crisis or conflict that people really want to explain and want to have answers for"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Conspiracy theories provide a story with villains, plots, and moral lessons that help people make sense of the world and feel more in control.",
+        "spans": [
+          "Conspiracy theories have all the elements of a good story – terrifying villains, creative plots, and moral lessons",
+          "Some psychologists have compared conspiracy theories to religious beliefs, in the way that they help us to feel more in control, by taking unpredictable or random events and making them seem somehow predestined or shaped by human hands"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Knowledge gaps and mistrust in authorities drive people towards conspiracy theories that claim to have answers.",
+        "spans": [
+          "leading conspiracy theories often address some kind of ambiguity or mystery",
+          "Where the authorities either can’t or won’t provide more information, these knowledge gaps combine with a general mistrust – driving the public straight into the arms of those who claim they have the answers"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "The rise of social media and global communication has increased the spread and visibility of conspiracy theories.",
+        "spans": [
+          "the advent of social media and the rise of new technologies have been big moments in the history of conspiracy theories",
+          "the way that we communicate with people now and the way we consume information is much more global than it was before, so some conspiracy theories are just very, very well-known across the world"
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Political polarization and manipulation by powerful figures contribute to the spread of conspiracy theories.",
+        "spans": [
+          "Since the Covid-19 pandemic began, numerous world leaders have announced their public support for related conspiracy theories",
+          "many countries, such as the United States, are experiencing record levels of political polarisation at the moment",
+          "There’s this effort by politicians to erase facts and evidence and remake the world into something more conducive to their goals"
+        ]
+      }
+    ],
+    "clueweb22-en0022-60-00254": [
+      {
+        "point_number": 1,
+        "point_content": "There is an infinite number of conspiracy theories out there, so everybody is going to believe a few.",
+        "spans": [
+          "there is an infinite number of conspiracy theories out there",
+          "If we were to poll on all of them, everybody is going to check a few boxes"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Belief in conspiracies cuts across social class, gender, and age, and is not limited to a stereotypical demographic.",
+        "spans": [
+          "belief in conspiracies cuts across social class, it cuts across gender and it cuts across age"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Both political left and right are equally likely to believe in conspiracy theories, with different theories appealing to each side.",
+        "spans": [
+          "The two sides are equal in terms of conspiracy thinking",
+          "People who believe that Bush blew up the Twin Towers were mostly Democrats, people who thought that Obama faked his own birth certificate were mostly Republicans - but it was about even numbers within each party."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Humans are good at recognizing patterns but sometimes over-interpret coincidences as meaningful, leading to conspiracy theories.",
+        "spans": [
+          "We are very good at recognising patterns and regularities. But sometimes we overplay that - we think we see meaning and significance when it isn't really there"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "We assume events happen because someone or something made it happen for a reason, leading to conspiracy theories with 'goodies' and 'baddies'.",
+        "spans": [
+          "We also assume that when something happens, it happens because someone or something made it happen for a reason",
+          "That story becomes a conspiracy theory because it contains \"goodies\" and \"baddies\" - the latter being responsible for all the things we don't like."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "People blame politicians for bad events even when those events are beyond their control, which feeds conspiracy thinking.",
+        "spans": [
+          "We often blame politicians for bad events, even when those events are beyond their control"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Conspiracy theories reflect group identity and antagonism, as seen in political groups like Remainers and Leavers in the UK.",
+        "spans": [
+          "People feel they belong to their group but it also means that people feel a certain sense of antagonism towards people in the other group",
+          "Conspiracy theories are just another part of this"
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "People construct beliefs to support what they want to be true, and having more information does not necessarily reduce conspiracy beliefs.",
+        "spans": [
+          "we're constructing our beliefs in ways that support what we want to be true",
+          "having more information is little help"
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "There is no cost for people to be wrong about their political views, so they may prefer beliefs that make them feel good.",
+        "spans": [
+          "There is no cost for me to be wrong about my political views",
+          "If it makes me feel good to think that Woodrow Wilson should have been able to prevent the shark attacks, then the psychological pay-off from holding those views is likely to be much greater than any penalty that I might suffer if the views are wrong."
+        ]
+      }
+    ],
+    "clueweb22-en0017-18-00485": [
+      {
+        "point_number": 1,
+        "point_content": "Conspiracy theories exploit some of the basic characteristics of being human, such as the human mind always trying to find patterns and make sense of its environment.",
+        "spans": [
+          "Conspiracy theories exploit some of the basic characteristics of being human. The human mind is always trying to find patterns and make sense of its environment."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Conspiracy theories tap into human traits and offer explanations that can make us feel safer and help make sense of the world.",
+        "spans": [
+          "Conspiracy theories tap into those human traits and offers us explanations that can make us feel safer.",
+          "They Help Make Sense of the World"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "A conspiracy theory provides an explanation for overwhelming events and quenches curiosity when there is insufficient data available about something.",
+        "spans": [
+          "A conspiracy theory provides an explanation for overwhelming events. It allows for the quenching of curiosity when there is insufficient data available about something."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Conspiracy theories are more likely when there is minimal or conflicting information about a topic and when an event is very impactful and significant in many people’s lives but the public is offered relatively mundane or incomplete explanations.",
+        "spans": [
+          "It makes sense, then, that conspiracy theories are more likely when there is minimal or conflicting information about a topic.",
+          "Conspiracies are also more prevalent when an event is very impactful and significant in many people’s lives, but the public is offered relatively mundane or incomplete explanations."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Conspiracy theories offer a way for people to feel safe and have some sort of autonomy or control within random events, acting as a coping mechanism for those who feel at the mercy of fate.",
+        "spans": [
+          "They Offer Control Amid Uncontrollable Events",
+          "Conspiracy theories offer a way for people to feel safe and have some sort of autonomy or control within random events. It is a coping mechanism for those who feel at the mercy of fate."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "People are more susceptible to conspiracy theories when they are anxious, feel powerless, or unable to predict outcomes in a given situation.",
+        "spans": [
+          "People are more susceptible to them when they are anxious and feel powerless. Those who feel unable to predict outcomes in a given situation are more likely to rely on them for affirmation."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Those who feel ostracized or lack a sense of belonging, or who feel their status is threatened or have lower income, are more likely to believe in conspiracies.",
+        "spans": [
+          "Who Is Most Likely to Believe Conspiracy Theories?",
+          "Those who feel ostracized or lack a sense of belonging are more likely to believe in conspiracies. Those who feel that they are of a status that is threatened or who have lower income also are prone to conspiracies."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Evolutionary psychology suggests that conspiracy theories may have been advantageous for early humans to manage fears and anticipate threats from powerful and potentially hostile coalitions.",
+        "spans": [
+          "It would be an evolutionary advantage if early humans found ways to manage their fears about things that posed a risk in their environment and to even anticipate threats. Conspiracy theories accomplish this.",
+          "In the ancestral environment, it would pay to be suspicious of powerful and potentially hostile coalitions. Our history primes us to come up with and believe conspiracies even in the face of little supporting evidence."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Conspiracy theories satisfy the human desire to belong and validate a self-image, often associating the in-group as moral and the out-group as wrong.",
+        "spans": [
+          "A conspiracy theory also seems to satisfy the human desire to belong. The theories circulate among a group of people who come to feel almost like a family. The theory is the basis of the bond.",
+          "It also allows for validation of a self-image. Built into a conspiracy is the notion that one’s group and the associated belief system is right and others are wrong. The assumption is that the coalition is moral and good and being sabotaged by those outside the group."
+        ]
+      }
+    ]
+  }
+}

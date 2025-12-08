@@ -1,0 +1,70 @@
+{
+  "question": "how is public opinion about american institutions measured?",
+  "key_points": [
+    {
+      "point_number": 1,
+      "point_content": "Public opinion is measured accurately through polls using statistical techniques developed by George Gallup and Elmo Roper in the 1930s.",
+      "original_point_number": [
+        1
+      ]
+    },
+    {
+      "point_number": 2,
+      "point_content": "Scientific polling requires a representative sample where every possible respondent has the same probability of participating, achieved by random telephone dialing and random selection within households.",
+      "original_point_number": [
+        2,
+        11,
+        14,
+        15
+      ]
+    },
+    {
+      "point_number": 3,
+      "point_content": "Polls typically survey between 1,000 and 1,500 people to give an accurate picture of national opinion, with a margin of error indicating the expected variation; larger samples yield more accurate responses.",
+      "original_point_number": [
+        3,
+        8,
+        16
+      ]
+    },
+    {
+      "point_number": 4,
+      "point_content": "Polls can be biased by question wording and interviewer influence, so questions must be neutral and interviewers must avoid injecting their own views; poll errors can also arise from sampling error, selection effects, measurement error, question types, inaccurate timing, lack of participant knowledge, and participant deception.",
+      "original_point_number": [
+        4,
+        9
+      ]
+    },
+    {
+      "point_number": 5,
+      "point_content": "Public opinion about American institutions is measured by public approval ratings and opinion polls rather than by questions of choice between positions or candidates.",
+      "original_point_number": [
+        5,
+        12,
+        18
+      ]
+    },
+    {
+      "point_number": 6,
+      "point_content": "Public opinion is measured using polls, election outcomes, and voting.",
+      "original_point_number": [
+        6
+      ]
+    },
+    {
+      "point_number": 7,
+      "point_content": "Public opinion polling involves sampling a cross-section of the public to predict election results or estimate public attitudes on issues; polls are carefully designed and results are analyzed by statisticians and social scientists to measure public opinion.",
+      "original_point_number": [
+        7,
+        13
+      ]
+    },
+    {
+      "point_number": 8,
+      "point_content": "Public opinion is measured using polls that collect opinions from a sample of the population.",
+      "original_point_number": [
+        10
+      ]
+    }
+  ]
+}

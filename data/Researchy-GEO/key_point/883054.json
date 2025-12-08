@@ -1,0 +1,691 @@
+{
+  "question": "what can this organization do to increase your satisfaction and productivity as an employee?",
+  "key_points": {
+    "clueweb22-en0015-69-16866": [
+      {
+        "point_number": 1,
+        "point_content": "Celebrate employee milestones to make employees feel valued and appreciated, which increases satisfaction and loyalty.",
+        "spans": [
+          "Celebrate Employee Milestones",
+          "make that employee feel special and valued by celebrating them and their contributions to the company",
+          "showing that employees that their loyalty and dedication to their roles and the company is appreciated"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Recognize employees for their work to boost engagement and job satisfaction.",
+        "spans": [
+          "Recognize Employees for Their Work",
+          "reward your employees or implement employee appreciation days so that your team consistently feels recognized for their hard work",
+          "If an employee feels valued and appreciated, they’re much more likely to be more engaged with their work and sustain a high level of job satisfaction"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Reward employees for high performance to retain top talent and motivate employees.",
+        "spans": [
+          "Reward Employees for High Performance",
+          "rewarding your high performers is a great way to motivate employees and keep employee satisfaction levels elevated",
+          "Rewarding employees for impressive performance helps to both retain your top talent and keep them motivated to strive for the next win"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Promote social connection to create a supportive and happier work environment.",
+        "spans": [
+          "Promote Social Connection",
+          "Social connection is not just an employee engagement initiative, it also creates more satisfied employees as well",
+          "encourage your team to get out there, get to know each other, and make the most of their social connections in the workplace"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Provide a roadmap to growth to help employees visualize career development and increase loyalty.",
+        "spans": [
+          "Provide a Roadmap to Growth",
+          "It’s crucial to have a clear roadmap to growth for each and every one of your employees",
+          "Providing a clear career growth roadmap for employees allows them to easily picture a long-term future at the company resulting in employee retention and loyalty"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Implement a flexible work schedule to give employees autonomy and improve satisfaction and productivity.",
+        "spans": [
+          "Implement a Flexible Work Schedule",
+          "Implementing a flexible work schedule provides your employees with the ability to create a schedule that works best for them and their lifestyle",
+          "By providing flexibility, employees have autonomy over their schedule and work, resulting in happier and more productive employees"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Create a transparent culture to build trust and keep employees informed and involved.",
+        "spans": [
+          "Create a Transparent Culture",
+          "A transparent work culture creates an environment where employees are comfortable communicating and exchanging ideas without fear of being unheard or dismissed",
+          "Companies that have successfully created a strong culture of transparency have high levels of employee satisfaction because their employees feel informed and heard"
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Prioritize wellness to improve overall happiness and job satisfaction.",
+        "spans": [
+          "Prioritize Wellness",
+          "Prioritizing your own and your employee’s wellness is essential to keeping job satisfaction levels high",
+          "Encourage your employees to make time for themselves and their health"
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Empower employees to make decisions to foster autonomy and trust, enhancing job satisfaction.",
+        "spans": [
+          "Empower Employees to Make Decisions",
+          "Empowering your employees to make decisions allows your team to showcase their unique skills and shows that you trust and respect their opinions",
+          "By empowering employees to make their own decisions, you’re encouraging employees to be autonomous and allowing their critical thinking skills to flourish"
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Cultivate a positive work environment where employees feel comfortable and respected to boost engagement and reduce turnover.",
+        "spans": [
+          "Cultivate a Positive Work Environment",
+          "It’s crucial to cultivate a positive work environment where employees are comfortable and treated with respect",
+          "Companies that create a positive work environment have happier employees who start their workday with a positive mindset"
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Encourage creativity to help employees feel fulfilled and satisfied with their job.",
+        "spans": [
+          "Encourage Creativity",
+          "Encouraging creativity allows employees to use their imagination and strategically think about the business",
+          "An employee who is empowered to unleash their creative side in the workplace will feel more fulfilled and satisfied with their job"
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "Survey employees for honest feedback to identify what works best to boost job satisfaction.",
+        "spans": [
+          "Survey Your Employees for Honest Feedback & Suggestions",
+          "Surveying your employees for their candid feedback and suggestions is a vital step in measuring employee engagement",
+          "Go straight to the source and ask your employees what they need and what is and isn’t working for them"
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0031-27-08510": [
+      {
+        "point_number": 1,
+        "point_content": "Communication is essential for high employee engagement and productivity.",
+        "spans": [
+          "Communication means two way talking. So you need to talk as well as listen, not just dictate.",
+          "This is will result in high employee engagement.",
+          "By communicating you can eradicate misconceptions, misunderstandings, and clearly define your requirements.",
+          "When you communicate you understand the employees. You observe them and know if they are motivated or not.",
+          "Likewise, the employees are relaxed knowing that if they face a problem they can clarify it by asking questions.",
+          "This overcomes barriers and employees rather than spending more time on understanding work by themselves can concentrate on their main roles."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Setting SMART goals provides clear direction and improves productivity.",
+        "spans": [
+          "If you need your targets to be achieved it is important to set SMART goals.",
+          "Smart goals give a direction to both you and your employees.",
+          "According to set criteria, you form specific, measurable, achievable, realistic, and timely goals.",
+          "You can track and evaluate your employees' performance and so can they form their list of targets to achieve.",
+          "If goals are generalized or seem impossible to attain they would lead to ambiguity.",
+          "With unclear job roles or un-SMART employee goals, your personnel would remain confused, unable to finish the timely tasks."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Omitting unnecessary meetings can increase employee productivity.",
+        "spans": [
+          "Unnecessary meetings every day for conveying smaller messages or so can greatly decrease employees productivity.",
+          "Use emails to convey shorter updates if important. Help them focus so they give you better outputs."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Training and development enhance employee skills, motivation, and productivity.",
+        "spans": [
+          "Training and development is a critical feature that smooths the way for high efficiency.",
+          "Well trained employees become experts in their field.",
+          "With training they get their skills polished which boost's their morale.",
+          "A survey conducted by Udemy revealed that 79% of workers believe training enhances staff productivity.",
+          "Furthermore, research tells training motivates employees.",
+          "Motivated employees are more committed to their work. This eventually reduces the turnover rate too, bringing a good name to your organization."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Allowing remote working can increase productivity.",
+        "spans": [
+          "Allow remote working as it increases productivity",
+          "Surprisingly, in Mexico, 72% of employees reported high productivity, while working from home.",
+          "Analyzing closely, working from home can be extremely beneficial for both you and your employees."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Trusting employees and delegating responsibilities increases their efforts and productivity.",
+        "spans": [
+          "It is better to trust and assigns duties. Let them do what they're good at while you focus on the bigger picture.",
+          "Employees when entrusted with important tasks would make extra efforts to not let you down."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Taking actions to reduce burnout improves employee productivity.",
+        "spans": [
+          "Take actions to reduce burnout",
+          "Rather, carry out fun sessions to prevent burnout.",
+          "You can also offer paid time off (PTO) or mandatory vacations so they could just sit back and relax. More than 60% of Gen Z worldwide reported these benefits would make them more productive."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Providing proper ergonomic supplies improves employee comfort and productivity.",
+        "spans": [
+          "Provide proper ergonomic supplies",
+          "Ergonomic refers to the comfortable design of the work environment.",
+          "Make sure, your office has a good physical design.",
+          "For better performance, make sure the room has proper furniture, lights, clean drinking water, and the likes."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Providing incentives encourages employees to be more efficient.",
+        "spans": [
+          "Provide incentives",
+          "Offering incentives and other perks to encourage employees to be more efficient are one of the most effective ways to improve employee efficiency."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Celebrating achievements motivates employees to maintain high performance.",
+        "spans": [
+          "Celebrate achievements",
+          "Investing in some opportunity to compliment your colleagues on their great work will assist them with feeling esteemed and can urge them to stay predictable and perform profoundly in their future projects."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Being a good leader supports and motivates employees to be more productive.",
+        "spans": [
+          "Be a good leader for your employees to be more productive",
+          "Employees will feel safe knowing that they have your support.",
+          "Learn to forgive mistakes to promote innovations.",
+          "These traits along with many others will motivate employees towards productive performance."
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "Giving regular feedback helps employees improve and stay motivated.",
+        "spans": [
+          "Give regular feedback",
+          "Make sure you provide regular feedbacks every week.",
+          "It is reported by a survey that 43% of highly engaged employees get weekly feedback.",
+          "Additionally, 65% of employees want more often feedback."
+        ]
+      }
+    ],
+    "clueweb22-en0003-22-07186": [
+      {
+        "point_number": 1,
+        "point_content": "Recognize and appreciate excellent work to increase employee satisfaction and productivity.",
+        "spans": [
+          "Recognize and Appreciate Excellent Work",
+          "recognizing and appreciating your team when they accomplish a crucial task"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Set realistic expectations to avoid overwhelming employees and maintain work-life balance.",
+        "spans": [
+          "Set Realistic Expectations",
+          "Don’t assign too many tasks to employees. Remember that work-life balance is essential for improving employee satisfaction levels."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Ensure clear and frequent communication to prevent confusion and improve job satisfaction.",
+        "spans": [
+          "Communication is an Essential Part Of The Employee Satisfaction Model",
+          "conduct stand-up meetings every morning to ensure that everyone is well informed about the tasks they need to finish each day",
+          "Clear communication is one of the best ways to increase job satisfaction."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Involve all employees in brainstorming and decision-making to enhance belonging and engagement.",
+        "spans": [
+          "Involve Everyone While Brainstorming Strategies",
+          "The best way to improve job satisfaction is to involve everyone while deciding workflows and brainstorming strategies."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Offer better learning opportunities such as education sponsorship, conferences, and training to improve morale and productivity.",
+        "spans": [
+          "Offer better learning opportunities to your employees",
+          "you should sponsor employee education to help them gain experience and significantly improve their productivity",
+          "arranging for conferences, webinars, and training sessions that help employees develop their skills."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Prioritize employee well-being with benefits for physical, mental, financial health and work-life balance.",
+        "spans": [
+          "Keep Employee Well-being at the Top of the List",
+          "You can offer various benefits to increase employee well-being, such as: a. Physical health benefits like sick leaves and health insurance b. Work-life balance benefits like sabbaticals and paid leaves c. Financial benefits like income protection plans and pension plans d. Mental health benefits like counseling, meditation, and yoga sessions"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Measure job satisfaction and engagement regularly through surveys to identify areas for improvement.",
+        "spans": [
+          "Measure Job Satisfaction and Engagement",
+          "you must conduct surveys to get a comprehensive understanding of your employees"
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Provide frequent and specific feedback to employees to help them improve and feel valued.",
+        "spans": [
+          "Provide Feedback More Often",
+          "As a manager, you must share constructive feedback frequently."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Build strong, trustworthy relationships among employees to increase productivity and reduce stress.",
+        "spans": [
+          "Build Fruitful Relationships",
+          "As a manager, you should try building excellent employee relationships."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Provide autonomy to employees to increase their sense of achievement and attract talent.",
+        "spans": [
+          "Provide Autonomy to Employees",
+          "As a manager, you must make efforts to provide as much autonomy to your employees as possible."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Offer perks such as flexible hours, free lunch, and remote work to increase motivation and satisfaction.",
+        "spans": [
+          "Perks are the Way Forward",
+          "You can offer various types of perks to significantly increase motivation and job satisfaction, such as: a. Free lunch b. Company retreats c. Flexible working hours d. Gym membership e. Professional development opportunities f. Remote work"
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "Map employee career goals and provide development programs to increase job satisfaction.",
+        "spans": [
+          "Map Employee Career Goals",
+          "As a manager, you should design a goal-setting framework and map employee career goals."
+        ]
+      },
+      {
+        "point_number": 13,
+        "point_content": "Define and share the company’s vision, mission, and values to instill a unified vision and commitment.",
+        "spans": [
+          "Define and Share What Your Company Stands for",
+          "As a manager, you should share the company’s vision, mission, and values with your team"
+        ]
+      },
+      {
+        "point_number": 14,
+        "point_content": "Break routine with practices like job rotation to reduce boredom and increase creativity.",
+        "spans": [
+          "Break the Routine",
+          "As a manager, you should implement practices like job rotation that allow employees to learn interdisciplinary skills and kill boredom."
+        ]
+      },
+      {
+        "point_number": 15,
+        "point_content": "Encourage employees to follow their passion by allowing time for personal projects, like Google's 20 percent rule.",
+        "spans": [
+          "Encourage Your Team to Follow their Passion",
+          "Google allows employees to follow their passion and work on their dream project for about 20% of their workweek."
+        ]
+      }
+    ],
+    "clueweb22-en0008-11-05549": [
+      {
+        "point_number": 1,
+        "point_content": "Conduct an Employee Survey to discover roadblocks and issues pertaining to employee productivity and understand what motivates them.",
+        "spans": [
+          "Conduct an Employee Survey",
+          "Discover the roadblocks and the issues pertaining to the employee’s productivity",
+          "Understand what motivates them"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Consider Offering Flexible Working Hours to boost employee productivity.",
+        "spans": [
+          "Consider Offering Flexible Working Hours",
+          "allowing employees to have flexible work hours or allowing employees to work from home at least part of the day helps boost their productivity"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Update Technology and Tools to ensure employees have the right tools to work efficiently.",
+        "spans": [
+          "Technology and Tool Updates",
+          "if those talented people don’t have the right tools, it can severely hurt their productivity",
+          "updating necessary tools has become extremely important"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Increase Employee Engagement through rewards visibility, shadowing, and working towards philanthropy.",
+        "spans": [
+          "Increase Employee Engagement",
+          "Rewards visibility",
+          "Shadowing",
+          "Work Towards Philanthropy"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Make the Environment Suitable For Working by reducing noise levels, adjusting lighting, and setting the right temperature.",
+        "spans": [
+          "Make the Environment Suitable For Working",
+          "Reduce noise levels",
+          "Adjust lighting to the optimum productivity level",
+          "Set the right temperature"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Encourage Healthy Life Choices such as daily physical activities and healthy eating options.",
+        "spans": [
+          "Encourage Healthy Life Choices",
+          "Encourage your employees to have daily physical activities",
+          "healthy eating options available in the cafeteria"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Reward Employees Based on Their Performance with monetary and non-monetary rewards.",
+        "spans": [
+          "Reward Employees Based on Their Performance",
+          "Bonuses",
+          "Salary raise",
+          "Gifts",
+          "Promotion",
+          "Information",
+          "Public appreciation and recognition",
+          "Trust/ empowerment"
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Improve Employee Communication by having open channels of communication to build trust and increase productivity.",
+        "spans": [
+          "Employee Communication",
+          "open channels of communication",
+          "open communication saves time and allows employees to be more productive"
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Focus on Bottom Level Employees as they play a critical role in determining the productivity of the enterprise.",
+        "spans": [
+          "Focus on Bottom Level Employees Too",
+          "bottom level employees also play a critical role in determining the productivity of the enterprise"
+        ]
+      }
+    ],
+    "clueweb22-en0026-93-07466": [
+      {
+        "point_number": 1,
+        "point_content": "Leaders can improve motivation within their organizations by following the PRIDE process.",
+        "spans": [
+          "To show supervisors and managers how to build a more productive work environment, I’ve created a five-step process called the PRIDE system. Leaders can improve motivation within their organizations by following this process:"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Provide a positive working environment to increase job satisfaction.",
+        "spans": [
+          "Provide a positive working environment"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Reward and recognition are powerful tools in building morale and motivation.",
+        "spans": [
+          "Reward and recognition"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Involve and increase employee engagement to give employees a sense of ownership and pride in their work.",
+        "spans": [
+          "Involve and increase employee engagement"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Develop the skills and potential of your workforce through training and education to motivate people and make them more productive and innovative.",
+        "spans": [
+          "Develop the skills and potential of your workforce"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Evaluate and measure job satisfaction continuously to identify problem areas and implement improvement plans.",
+        "spans": [
+          "Evaluate and measure job satisfaction"
+        ]
+      }
+    ],
+    "clueweb22-en0011-23-18747": [
+      {
+        "point_number": 1,
+        "point_content": "Employees must feel respected by their managers and colleagues to increase satisfaction.",
+        "spans": [
+          "employees must feel respected by their managers and colleagues"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Managers should maintain an open door policy and encourage staff to share ideas and voice concerns.",
+        "spans": [
+          "Managers should maintain an open door policy, and encourage staff to approach them to ask questions, share ideas, and voice concerns."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Minimise day-to-day hassles such as housekeeping, admin, and tech issues to improve employee satisfaction.",
+        "spans": [
+          "Try to minimise the day-to-day hassles that can make working in a modern office a real ballache."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Accept mistakes and allow employees to learn from them.",
+        "spans": [
+          "Accept mistakes (at least to begin with)",
+          "We all make errors from time to time. No big deal. Smart people will learn from them."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Be transparent with employees about business matters to build respect and trust.",
+        "spans": [
+          "Be transparent",
+          "Few things are as important in modern business as transparency.",
+          "It makes sense to tell it like it is, when you’re able to do so."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Make space for creativity to make mundane jobs more interesting.",
+        "spans": [
+          "Make space for creativity",
+          "Are there ways of making mundane jobs a bit more interesting?"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Encourage personality and allow staff to communicate like humans.",
+        "spans": [
+          "Encourage personality",
+          "I think it makes sense to allow staff to communicate like humans via your service / content / social channels."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Provide training and skills development to improve morale and career prospects.",
+        "spans": [
+          "Training / skills development",
+          "The development of skills is good for business and good for morale, if done in the right way."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Minimise bureaucracy and red tape to reduce frustration.",
+        "spans": [
+          "Beware of bureaucracy",
+          "Do what you can to minimise red tape."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Create a wonderful physical environment to positively impact company culture and staff happiness.",
+        "spans": [
+          "Create a wonderful environment",
+          "Don’t underestimate the physical environment’s impact on your company culture, and staff happiness levels ."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Offer pay, perks, benefits, and bonuses carefully to maintain satisfaction.",
+        "spans": [
+          "Rewards",
+          "Pay, perks, benefits, bonuses. Be very careful about taking away small perks."
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "Promote staff on merit and provide visibility on career development options.",
+        "spans": [
+          "Promotions",
+          "Staff should be bumped up the ladder on merit. It is also important to give them some visibility on their career development options."
+        ]
+      },
+      {
+        "point_number": 13,
+        "point_content": "Help staff bond with one another through social activities and mentoring.",
+        "spans": [
+          "Help staff to bond with one other",
+          "Pub lunches, team days out, mentoring, messing about on boats… all of these things can help employees forge the bonds that they need to enjoy work."
+        ]
+      },
+      {
+        "point_number": 14,
+        "point_content": "Give recognition and credit to employees for their achievements.",
+        "spans": [
+          "Give recognition",
+          "If an employee has done something remarkable / innovative / valuable / useful / clever then be sure to thank them"
+        ]
+      },
+      {
+        "point_number": 15,
+        "point_content": "Be polite in business interactions to foster a positive environment.",
+        "spans": [
+          "Be polite",
+          "there’s nothing wrong with ‘please’ and ‘thank you’ in a business environment."
+        ]
+      },
+      {
+        "point_number": 16,
+        "point_content": "Embrace remote working to reduce commuting hassles and increase productivity.",
+        "spans": [
+          "Embrace remote working",
+          "Remote working minimises commuting costs and hassles, and can actually help to increase productivity."
+        ]
+      },
+      {
+        "point_number": 17,
+        "point_content": "Avoid requiring employees to wear unnecessary uniforms that do not fit their role.",
+        "spans": [
+          "Banish stupid uniforms",
+          "Did it make me have “a more business-like attitude”, as they said it would? Absolutely not!"
+        ]
+      },
+      {
+        "point_number": 18,
+        "point_content": "Be tolerant and understanding of employees' commuting challenges.",
+        "spans": [
+          "Be tolerant",
+          "a manager’s understanding of the hassles of commuting is as important as an employee’s commitment to being punctual."
+        ]
+      },
+      {
+        "point_number": 19,
+        "point_content": "Avoid micromanagement and trust employees to do their jobs.",
+        "spans": [
+          "Beware of micromanagement",
+          "Why not simply hire bright people, point them in the right direction, and let them get on with things?"
+        ]
+      },
+      {
+        "point_number": 20,
+        "point_content": "Introduce mentoring and coaching programs to support employee development and wellbeing.",
+        "spans": [
+          "Mentoring and coaching",
+          "Consider introducing both, in a formal way, for those who want it."
+        ]
+      },
+      {
+        "point_number": 21,
+        "point_content": "Conduct annual anonymous staff surveys to measure employee satisfaction and take action.",
+        "spans": [
+          "Launch (and act on) in-company surveys",
+          "An annual, anonymous staff survey is a good way of taking the pulse of your business, and will help you to measure employee satisfaction."
+        ]
+      },
+      {
+        "point_number": 22,
+        "point_content": "Never pay staff late; timely payment is critical to employee satisfaction.",
+        "spans": [
+          "Never pay staff late",
+          "It is appalling business practice to pay staff late."
+        ]
+      },
+      {
+        "point_number": 23,
+        "point_content": "Create a fear-free environment where employees can share ideas openly.",
+        "spans": [
+          "Banish fear",
+          "Brainstorming meetings where people are afraid to speak up and contribute are utterly pointless."
+        ]
+      },
+      {
+        "point_number": 24,
+        "point_content": "Address issues with employees privately and never undermine them in public.",
+        "spans": [
+          "Never undermine staff in public",
+          "If you need to have words then it’s best to do it behind closed doors."
+        ]
+      },
+      {
+        "point_number": 25,
+        "point_content": "Provide solid leadership and a clear vision to retain key staff and align goals.",
+        "spans": [
+          "Lack of vision",
+          "Solid leadership is absolutely essential if you want to retain your key staff.",
+          "Employees need to get behind a clear vision in order to achieve their personal objectives to meet a company’s goals."
+        ]
+      }
+    ]
+  }
+}

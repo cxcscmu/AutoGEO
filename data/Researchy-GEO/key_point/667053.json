@@ -1,0 +1,114 @@
+{
+  "question": "what might happen if the business strategy was not the driver?",
+  "key_points": {
+    "null": [],
+    "clueweb22-en0029-63-18435": [
+      {
+        "point_number": 1,
+        "point_content": "The text does not explicitly state what might happen if the business strategy was not the driver.",
+        "spans": [
+          "What might happen if the business strategy was not the driver?"
+        ]
+      }
+    ],
+    "clueweb22-en0038-24-10854": [
+      {
+        "point_number": 1,
+        "point_content": "Strategy helps to define factors such as how the IS strategy manages the hardware/software/data/etc. within the organization.",
+        "spans": [
+          "strategy helps to define factors such as how the IS strategy manages the hardware/software/data/etc. within the organization."
+        ]
+      }
+    ],
+    "clueweb22-en0032-36-12564": [
+      {
+        "point_number": 1,
+        "point_content": "Organisation strategy plays a pivotal role for any business.",
+        "spans": [
+          "Organisation strategy plays a pivtol role for any business."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Every business need to have a strong organizational strategy if it wants to grow and survive for long lasting.",
+        "spans": [
+          "Every business need to have a strong organizational strategy if it wants to grow and survive for long lasting."
+        ]
+      }
+    ],
+    "clueweb22-en0015-11-13857": [
+      {
+        "point_number": 1,
+        "point_content": "If the business strategy was not the driver, businesses might spend vast amounts of time and money developing a strategy, a business plan, and a detailed marketing strategy – and then nothing happened.",
+        "spans": [
+          "We are all too familiar with businesses and managers who have spent vast amounts of time and money developing a strategy, a business plan, and a detailed marketing strategy – and then nothing happened."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "If the business strategy is not the driver, the products or services might not be in demand, customers might not be happy, the business might be the wrong size for the market, pricing might be incorrect, and the market might lose interest.",
+        "spans": [
+          "It might be because they are on the wrong end of the strategy. For example, are their products or services in demand? Are their customers happy? Are they the right size for the market they are in? Are they priced correctly? And are they doing enough to keep the market interested?"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "If the business strategy is not the driver, the strategy might be based on other motivations like being environmentally conscious or socially responsible, but the organization needs to ensure these motivations are truly driving the organization.",
+        "spans": [
+          "The strategy might be based on another motivation to be more environmentally conscious or socially responsible. Now, if you are going to look for a strategy based on this kind of motivation, then those are all valid. But before that happens, the organization needs to make sure that if it is based on these, this is what is driving the organization."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "If the business strategy is not the driver, the strategy might not reflect the true driver of the organization, leading to misalignment and potential failure.",
+        "spans": [
+          "If a transparent and honest business model is the driver for the strategy, the strategy should reflect that. In the end, this strategy should guide the business."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Without the business strategy driving the IS strategy, IT is unlikely to do what is needed to support the business strategy, leading to failure in achieving business goals.",
+        "spans": [
+          "But unless the IT strategy is thoughtfully linked to the business strategy, it is unlikely that IT will do what is needed to support the business strategy."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "If the primary business strategy is flawed or not the driver, such as aiming to increase size without a clear plan, it sets the business up for disaster.",
+        "spans": [
+          "So, if your primary business strategy is to increase your size, then you're setting yourself up for disaster."
+        ]
+      }
+    ],
+    "clueweb22-en0015-84-06397": [
+      {
+        "point_number": 1,
+        "point_content": "The business strategy provides the backbone for the entire organization’s operations and goals/objectives.",
+        "spans": [
+          "The business strategy provides the backbone for the entire organization’s operations and goals/objectives."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "If the business strategy is not the driver, the organizational and IS strategies may not align properly, risking failure of the business strategy.",
+        "spans": [
+          "Conversely, if the organizational strategy is not in line with the business strategy, for example if a company is unable to gather metrics that provide responses to how customers are responding to a new initiative to help differentiate a product, then the business strategy is at risk to fail."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "If the business strategy is to follow a cost-leadership strategy but IS continually has to replace hardware raising expenditures, it contradicts the business strategy and is not conducive to offering the lowest-cost product.",
+        "spans": [
+          "If the business strategy is to follow a cost-leadership strategy, but IS continually has to replace hardware and ultimately raising their expenditures, it is not conducive to ensuring that the company is able to offer the lowest-cost product."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "A failure in IT strategy can negatively impact the business strategy and overall customer experience, as shown by an example where an IT error caused a poor customer experience and became a PR issue.",
+        "spans": [
+          "A situation in which IT improperly impacted the business strategy comes from a previous technology-oriented company I worked for. The focus of the company revolved around providing a unique and memorable customer experience while providing exceptional customer support. One day, a customer’s email platform became unresponsive due to an IT error related to networking issue that communicated with the hardware and the customer’s device. The error should have been quickly resolved and the customer ended up having a very poor experience and it reflected on the entire business strategy because it became a PR issue."
+        ]
+      }
+    ]
+  }
+}

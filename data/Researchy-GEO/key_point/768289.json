@@ -1,0 +1,607 @@
+{
+  "question": "why do sole traders fail in their first year",
+  "key_points": {
+    "clueweb22-en0039-93-19214": [],
+    "clueweb22-en0008-45-01273": [
+      {
+        "point_number": 1,
+        "point_content": "Sole traders have full personal liability for any debts, which can lead to failure if the business incurs significant liabilities.",
+        "spans": [
+          "You have full personal liability for any debts.",
+          "The main disadvantage is that you, as the owner of the business, are solely liable for any consequences of business failure or any other liability."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Sole traders may find it difficult to bid and accept larger contracts, limiting business growth and success.",
+        "spans": [
+          "It may be difficult to bid and accept larger contracts.",
+          "It may also be quite difficult to get larger jobs."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The business stops if the sole trader is unable to work due to illness or accident, affecting business continuity.",
+        "spans": [
+          "There's no staff to deligate to if you have an accident or fall ill.",
+          "The Business Stops if You are Unable to Work",
+          "You may also need to think about what would happen if you as the business owner were to become sick or had an accident so you couldn't work."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Sole traders find it difficult to scale a business on their own, which can lead to failure in the first year.",
+        "spans": [
+          "It's difficult to scale a business on your own."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Sole traders can't leverage buying power due to their small size, which can impact competitiveness and survival.",
+        "spans": [
+          "You can't leverage buying power due to your small size."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Sole traders have to buy-in knowledge and expertise if they don't have it themselves, which can be a challenge.",
+        "spans": [
+          "You have to buy-in knowledge and expertise if you don't have it yourself."
+        ]
+      }
+    ],
+    "clueweb22-en0040-39-00687": [
+      {
+        "point_number": 1,
+        "point_content": "Poor cash flow remains one of the main causes of problems leading to small business failure.",
+        "spans": [
+          "Poor cash flow a major problem",
+          "‘A small business can fail for many reasons of course, but poor cash flow remains one of the main causes of problems,’ says Campbell."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Poor cash flow is mostly caused by late payment of invoices.",
+        "spans": [
+          "Poor cash flow is mostly caused by late payment of invoices and this is certainly something that can be addressed by any small business."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Small businesses can reduce risk of failure by being strict and upfront about payment terms and using the right tools to manage customer payments.",
+        "spans": [
+          "Measures include being strict and upfront about payment terms initially and using the right tools to provide insight into how they should trade with customers and what action to take to reduce risk of non-payment."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "UK small companies that regularly credit check their customers are around 30 per cent less likely to experience business failure in their first 12 months.",
+        "spans": [
+          "UK small companies that regularly credit check their customers are around 30 per cent less likely to experience business failure in their first 12 months than businesses which don’t credit check, according to Ormsby Street data from last year."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "A business can fail due to targeting too narrow a market and being too early in the market cycle.",
+        "spans": [
+          "‘We failed because our model was too narrowly targeted at a market that was dominated by three or four big players,’ he says. ‘We were aiming for too narrow a market with a proposition that had very limited appeal. More importantly we were also far too early in the market cycle, a lesson that many start-up technology companies perhaps fail to appreciate until it’s too late.’"
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0012-43-14510": [
+      {
+        "point_number": 1,
+        "point_content": "The most common reason small businesses fail is that the market simply doesn’t need their products or services.",
+        "spans": [
+          "The most common reason small businesses fail is that the market simply doesn’t need their products or services."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "29% of businesses fail because they run out of cash.",
+        "spans": [
+          "29% of businesses fail because they run out of cash."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "71% of small businesses in Canada fail due to management issues, including financial and general management problems.",
+        "spans": [
+          "71% of small businesses in Canada fail due to management issues."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Business owners under 30 years of age are more likely to fail due to less experience.",
+        "spans": [
+          "Business owners under 30 years of age are more likely to fail."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "23% of businesses fail because they don’t assemble a good enough team.",
+        "spans": [
+          "23% of businesses fail because they don’t assemble a good enough team."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "14% of small businesses fail because they ignore their customers’ needs, while the same number fail because of poor marketing skills.",
+        "spans": [
+          "14% of small businesses fail because they ignore their customers’ needs, while the same number fail because of poor marketing skills."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "19% of small businesses fail because their competition out-performs them.",
+        "spans": [
+          "19% of small businesses fail because their competition out-performs them."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "13% of businesses fail due to disagreements between workforce, owners, and investors.",
+        "spans": [
+          "For 13% of businesses, disagreements between the workforce, owners, and investors leads to failure."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "13% of small businesses collapse because they lose focus, while 7% are doomed by their failure to pivot.",
+        "spans": [
+          "13% of small businesses collapse because they lose focus, while 7% are doomed by their failure to pivot."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "18% of companies fail because of pricing issues.",
+        "spans": [
+          "According to small business failure statistics, 18% of companies fail because of pricing issues."
+        ]
+      }
+    ],
+    "clueweb22-en0029-29-14427": [
+      {
+        "point_number": 1,
+        "point_content": "Entrepreneurs fail because they do not understand the market that will accept or reject the idea.",
+        "spans": [
+          "Many entrepreneurs understand their idea, but not the market that will accept or reject the idea."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Entrepreneurs fail because they cannot identify the right people such as good accountants, legal counsel, co-founders, employees, and investors.",
+        "spans": [
+          "Entrepreneurs often fail because they cannot separate friends from enemies.",
+          "They cannot identify EIQ from fluff or bluff.",
+          "They cannot find a good part-time accountant and they have no idea how to assess the skills and experience of legal counsel.",
+          "They also fail because they cannot recognize smart loyal co-founders and employees or how to optimize their contributions.",
+          "They fail because they cannot separate dumb Angel investors from disciplined ones."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Entrepreneurs fail because they cannot raise the right kind of funding at the right time and do not know how to value their company or phase investments.",
+        "spans": [
+          "Entrepreneurs often fail because they cannot raise the right kind of funding at the right time at the right valuation.",
+          "They use too much of their own money and way too much money from friends and family – which becomes a distraction every time a friend or family member asks about how the company – and their investment – is doing.",
+          "Entrepreneurs fail because they do not know how to value their company or phase investments along timelines designed to optimize valuations.",
+          "They fail to appreciate how much money it takes to meet milestones."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Entrepreneurs fail because they have grandiose expectations and are self-delusional about their success.",
+        "spans": [
+          "Entrepreneurs who fail often do so because they believe they will change the world and if the world doesn’t welcome their authority, it’s the world’s fault, not theirs.",
+          "Entrepreneurs fail because they’re often self-delusional and greedy believing that they’re just a sale away from revolutionizing an industry and becoming filthy rich."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Entrepreneurs fail because of horrible soft skills such as inability to listen, insecurity, short temper, intolerance of opposing opinions, and blaming others for mistakes.",
+        "spans": [
+          "Entrepreneurs often fail because they’re not housebroken, because they speak their minds no matter how inappropriate or inopportune the situation may be.",
+          "If an entrepreneur cannot listen, is insecure, short-tempered and intolerant of opposing opinions, he or she will fail.",
+          "The worst entrepreneurs are the ones who cannot accept responsibility for anyone and spend their days and nights looking for someone – anyone – to blame for their mistakes."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Entrepreneurs fail because they have bad partners who are not worth their time.",
+        "spans": [
+          "Entrepreneurs often fail because they hang out with the wrong people.",
+          "Good entrepreneurs have a purpose-filter through which they pass their time: is this partner really worth my time? Entrepreneurs who fail do not have this filter."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Entrepreneurs fail because they cannot sell effectively to the right clients at the right time for the right price.",
+        "spans": [
+          "Entrepreneurs often fail because they cannot sell to the right clients at the right time for the right price.",
+          "Entrepreneurs who fail shortchange sales in favor of competing activities, especially R&D."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Entrepreneurs fail because their companies are invisible to the market due to lack of marketing and PR.",
+        "spans": [
+          "Entrepreneurs often fail because their companies are invisible to the world because they cannot bear to spend money on marketing and PR.",
+          "Smart entrepreneurs get the word out early and often via all available media, especially digital media: if they cannot find you, they cannot buy you."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Entrepreneurs fail because they cannot adapt or pivot when necessary.",
+        "spans": [
+          "Entrepreneurs often fail because they cannot adapt to unpredictable events and conditions (as if any entrepreneurial events or conditions are predictable).",
+          "Unsuccessful entrepreneurs cannot pivot. Instead, they stay their own courses – even when the entire world believes they’re severely off course and about to crash into the side of a large mountain."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Entrepreneurs fail because they have no sense of the inevitable exit strategy.",
+        "spans": [
+          "Entrepreneurs often fail because they cannot gauge their ultimate exit relatively early in their journey.",
+          "Good entrepreneurs have a sense of how an exit will occur (if one occurs at all) within a year of their launch."
+        ]
+      }
+    ],
+    "clueweb22-en0046-28-01230": [
+      {
+        "point_number": 1,
+        "point_content": "Not investigating the market can lead to failure from the start because the business may enter a saturated market or one with low demand.",
+        "spans": [
+          "Not Investigating the Market",
+          "your desire to open the agency blinds you to the fact that the economy is in a down housing market and the area where you want to work in is already saturated with agencies, making it very difficult to break in",
+          "This is a mistake that will result in failure from the start"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Having business plan problems, such as not having a solid and realistic plan or not following the plan, increases the chance of failure.",
+        "spans": [
+          "Business Plan Problems",
+          "A solid and realistic business plan is the basis of a successful business",
+          "Once you have the plan, you must follow it",
+          "If you start doubling your spending or changing your strategies, you are asking for failure"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Too little financing at the start can cause the business to fail because it may never get off the ground and still have debts to repay.",
+        "spans": [
+          "Too Little Financing",
+          "Trying to stretch your finances at the beginning may mean that your business never gets off the ground, and you'll still have a lot of cash to repay"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "A bad location, poor internet presence, and ineffective marketing can cause a business to fail by limiting customer reach and visibility.",
+        "spans": [
+          "Bad Location, Internet Presence, and Marketing",
+          "A bad location is self-explanatory if your business relies on location for foot traffic",
+          "Just as dangerous, however, is a poor Internet presence",
+          "An online presence will let people know that they can give you their business",
+          "Not only must you make sure that marketing reaches people, but it must also reach the right people"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Remaining rigid and not adapting to market changes can lead to failure as the business may no longer meet customer needs.",
+        "spans": [
+          "Remaining Rigid",
+          "Once you've done the planning, established your business, and gained a customer base, don't become complacent",
+          "Monitor the market and know when you may need to alter your business plan"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Expanding too fast without proper research, strategy, and planning can financially drain the business and cause failure.",
+        "spans": [
+          "Expanding Too Fast",
+          "When a business expands too fast and doesn't take the same care with research, strategy, and planning, the financial drain of the failing business(es) can sink the whole enterprise"
+        ]
+      }
+    ],
+    "clueweb22-en0033-99-03034": [
+      {
+        "point_number": 1,
+        "point_content": "Many traders fail for the same reasons that investors fail in other asset classes.",
+        "spans": [
+          "Many traders fail for the same reasons that investors fail in other asset classes."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Not Maintaining Trading Discipline is a major reason for failure.",
+        "spans": [
+          "Not Maintaining Trading Discipline: The largest mistake any trader can make is to let emotions control trading decisions."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Trading Without a Plan leads to failure.",
+        "spans": [
+          "Trading Without a Plan: Whether one trades forex or any other asset class, the first step in achieving success is to create and follow a trading plan."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Failing to Adapt to the Market causes failure.",
+        "spans": [
+          "Failing to Adapt to the Market: Before the market even opens, you should create a plan for every trade."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Learning Through Trial and Error is an expensive and inefficient way to learn, leading to failure.",
+        "spans": [
+          "Learning Through Trial and Error: Without a doubt, the most expensive way to learn to trade the currency markets is through trial and error."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Having Unrealistic Expectations causes traders to fail.",
+        "spans": [
+          "Having Unrealistic Expectations: No matter what anyone says, trading forex is not a get-rich-quick scheme."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Poor Risk and Money Management is a key reason for failure.",
+        "spans": [
+          "Poor Risk and Money Management: Traders should put as much focus on risk management as they do on developing strategy."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "High leverage increases risk and can lead to failure.",
+        "spans": [
+          "The significant amount of financial leverage afforded forex traders presents additional risks that must be managed.",
+          "The forex market allows traders to leverage their accounts as much as 400:1, which can lead to massive trading gains in some cases - and account for crippling losses in others.",
+          "The reason many forex traders fail is that they are undercapitalized in relation to the size of the trades they make."
+        ]
+      }
+    ],
+    "clueweb22-en0045-51-12814": [],
+    "clueweb22-en0014-29-04252": [
+      {
+        "point_number": 1,
+        "point_content": "Sole traders are not limited companies and are providing you a service under the IR35 regulations. If they are under what HMRC defines as Supervision, Direction or Control in your outlet, then it is deemed as false self-employment and you may be liable for tax, national insurance and other contributions, as well as the trader themselves.",
+        "spans": [
+          "Sole traders are not limited companies and are providing you a service under the IR35 regulations.",
+          "If they are under what HMRC defines as Supervision, Direction or Control in your outlet, then it is deemed as false self-employment and you may be liable for tax, national insurance and other contributions, as well as the trader themselves."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The tax man is desperate to clamp down on false self-employment and this is an area that is being tightened up with every budget statement.",
+        "spans": [
+          "The tax man is desperate to clamp down on false self-employment and this is an area that is being tightened up with every budget statement."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "If you’re using someone you do not employ, did you know they should have insurances?",
+        "spans": [
+          "If you’re using someone you do not employ, did you know they should have insurances?"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "It is your responsibility to ensure that they have the correct insurance for the service they provide (especially when it comes to food service and the public).",
+        "spans": [
+          "It is your responsibility to ensure that they have the correct insurance for the service they provide (especially when it comes to food service and the public)."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "There is an obligation to check and prove that someone has the right to work in the UK, including holding a verified copy of their proof of identification and their address.",
+        "spans": [
+          "Did you know that there is an obligation to check and prove that someone has the right to work in the UK? That includes holding a verified copy of their proof of identification and their address."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Best practice is to follow a minimum of 2 references to ensure someone’s CV is accurate and to get an idea of how they might fit into your existing team.",
+        "spans": [
+          "Best practice is to follow a minimum of 2 references as well, so that you can ensure someone’s CV is accurate and to get an idea of how they might fit into your existing team."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "The risk of fines and back charges for NI contributions and taxes if someone is found to be ‘falsely’ self employed is a problem facing those who currently use freelance staff.",
+        "spans": [
+          "So, the risk of fines and back charges for NI contributions and taxes if someone is found to be ‘falsely’ self employed- and you’ll have to spend time proving that the worker isn’t under SDC to make your point, following up proof of insurance, right to work, residence, and company status and making sure that references are in fact ‘the real deal’. Just a few problems facing those who currently use freelance staff."
+        ]
+      }
+    ],
+    "clueweb22-en0007-84-07058": [
+      {
+        "point_number": 1,
+        "point_content": "Leaving everything to last minute is a common mistake that can lead to failure.",
+        "spans": [
+          "Leaving everything to last minute – it’s essential that you prepare and put away a sum each month to pay for your taxes."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Not separating personal and business finances can cause problems for sole traders.",
+        "spans": [
+          "One account – open a  business account to avoid getting your personal and business finances mixed up."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Failing to keep receipts and proper records can negatively impact the business.",
+        "spans": [
+          "Not keeping the receipts – you may think that the receipts for coffee with clients may not be worth keeping, but these small expenditures can add up."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Regular bank reconciliation is necessary to ensure financial accuracy and avoid issues.",
+        "spans": [
+          "Bank reconciliation – is when you check all your incomings and outgoings of your account to ensure that everything is as it should be. This needs to be a regular occurrence."
+        ]
+      }
+    ],
+    "clueweb22-en0028-74-16069": [
+      {
+        "point_number": 1,
+        "point_content": "Living a lifestyle beyond your supposed means can trigger HMRC investigations.",
+        "spans": [
+          "Living a lifestyle beyond your supposed means"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Regular mistakes on tax returns can cause HMRC to grow suspicious and trigger investigations.",
+        "spans": [
+          "if you regularly make mistakes on your returns, submitting inaccurate figures or information year-on-year, HMRC will quickly grow suspicious"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Large fluctuations in business numbers year-on-year can trigger HMRC investigations.",
+        "spans": [
+          "Numbers fluctuate by large margins",
+          "if your business suddenly dropped to just £200,000",
+          "HMRC is going to notice"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Years of unprofitability can cause HMRC to wonder how the business is still operating and trigger investigations.",
+        "spans": [
+          "Years of unprofitability",
+          "if year after year you are handing HMRC a nice, fresh tax return that claims you don’t owe a penny of tax, investigators are going to wonder why and how you are still operating"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Figures inconsistent with industry standards can raise eyebrows and trigger HMRC investigations.",
+        "spans": [
+          "Your figures are inconsistent with industry standards",
+          "if your figures vary from the industry standard wildly, eyebrows will be raised and HMRC tax investigations are unlikely to be far behind"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Directors earning less than employees can appear suspicious and trigger HMRC investigations.",
+        "spans": [
+          "Directors earn less than employees",
+          "A director taking less pay than employees, or even the same amount, appears to pulling profits out of the business through avoidance schemes"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Omission of income in tax returns can lead to discrepancies and trigger HMRC investigations.",
+        "spans": [
+          "Omission of income",
+          "Many business owners are tempted to miss off payments here and there; to omit certain things from their tax returns",
+          "If you fail to declare you were paid interest, for example, and it comes up during an investigation from the company which paid you said interest, HMRC is going to flag this"
+        ]
+      }
+    ],
+    "clueweb22-en0025-66-15675": [
+      {
+        "point_number": 1,
+        "point_content": "Most traders fail because they lack an edge and don’t have a trading plan.",
+        "spans": [
+          "The biggest reasons why traders fail usually are that they lack an edge and don’t have a trading plan."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Not having a trading plan leads to lack of direction and switching strategies, which harms trading performance.",
+        "spans": [
+          "Not Having a Trading Plan",
+          "Trading is an endeavor that requires a long term outlook and a solid action plan. It’s necessary that you know in advance what you’re going to trade, when you’re going to trade, and what you’re going to trade. Otherwise, you won’t have a general direction and will find yourself switching methodology, market, and strategy all the time, which will have devastating effects on your trading performance."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Not having an edge means the strategies used do not have a real advantage in the market, leading to failure.",
+        "spans": [
+          "Not Having an Edge",
+          "According to us, this is the single biggest reason why most traders fail.",
+          "Many traders are unaware that the strategies they use to trade their money don’t have an edge or a real advantage in the market."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Being undisciplined and not following the trading strategy rules causes failure.",
+        "spans": [
+          "Being Undisciplined",
+          "You need to take the trades that are signaled by your trading strategy, regardless of what you believe about the current market conditions and where you are with your trading.",
+          "The one thing you should be concerned with as a trader is to not stray away from your trading strategy rules."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Using too big position sizes can wipe out a trader during losing streaks.",
+        "spans": [
+          "Too Big Position Size",
+          "Even a trader who has a working strategy and manages to place all the trades right could become a losing trader if he sizes his trades too heavily, and gets wiped out during a streak of losing trades."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Random reinforcement causes traders to attribute success to skill when it may be luck, leading to risky behavior and failure.",
+        "spans": [
+          "Random Reinforcement",
+          "In trading, random reinforcement can result in habits that build up over long periods of time, which are very hard to break.",
+          "The traders that are hurt the most by random reinforcement in the markets, generally are those who act on intuition."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Not recognizing that markets change and failing to adapt strategies leads to failure.",
+        "spans": [
+          "Not Recognizing that Markets Change",
+          "Many new traders believe that if they only find the one strategy that works for them, then they’ll be set for the rest of their trading career.",
+          "No trading strategy will survive forever. Markes constantly change, and as your strategies fall out of sync with the markets, you’ll have to abandon old concepts that don’t work that well anymore."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Not keeping a trading journal prevents traders from identifying mistakes and areas for improvement.",
+        "spans": [
+          "Not Keeping a Trading Journal",
+          "Although you might not recognize it as you’re beginning to trade, keeping a trading journal is essential to your success as a trader."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Having unrealistic expectations about returns can cause traders to quit profitable ventures.",
+        "spans": [
+          "Having Unrealistic Expectations",
+          "The internet is littered with fake trading gurus who tell you that returns of several hundred percent, or even a thousand percent on an annual basis are possible and easy to achieve.",
+          "Achieving these kinds of returns on a consistent basis is not possible, even for the best traders out there."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Not coping with psychological pressure during drawdowns causes irrational trading decisions and failure.",
+        "spans": [
+          "Not Coping With the Psychological Pressure",
+          "It’s common to see that some people: Don’t take the trades that their strategy signals since they believe they too will end in losses.",
+          "Attempt to take trades that are not signaled by their trading strategy.",
+          "Let losing trades run, since they believe that the market will turn around if it’s just given some more time.",
+          "Cut winning trades too soon, in order to lock in profits and at least make some money."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Not putting in the hard work required to develop and maintain trading strategies leads to failure.",
+        "spans": [
+          "Not Putting in the Hard Work That’s Required",
+          "Creating a trading strategy that’s worth trading and has a chance of lasting going forward takes many failed attempts and countless hours spent by the computer."
+        ]
+      }
+    ]
+  }
+}

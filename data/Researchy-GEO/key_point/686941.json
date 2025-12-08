@@ -1,0 +1,827 @@
+{
+  "question": "is eating meat ethical",
+  "key_points": {
+    "clueweb22-en0006-15-07427": [
+      {
+        "point_number": 1,
+        "point_content": "Eating meat can be ethical, but only when it does not violate rights.",
+        "spans": [
+          "Eating meat can be ethical, but only when it does not violate rights."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The ways in which meat is produced and prepared for human consumption must satisfy certain standards for eating meat to be ethical.",
+        "spans": [
+          "This requires that the ways in which meat is produced and prepared for human consumption satisfies certain standards."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Many current practices of meat production may fall short of ethical standards, but this does not mean eating meat can never be ethical.",
+        "spans": [
+          "While many current practices may fall short of this standard, this does not justify the position that eating meat cannot be ethical under any circumstances"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "There should be no principled objection to the possibility that eating meat can be ethical.",
+        "spans": [
+          "there should be no principled objection to its possibility."
+        ]
+      }
+    ],
+    "clueweb22-en0015-44-01602": [
+      {
+        "point_number": 1,
+        "point_content": "People are torn about this. Some have moral arguments for why it treats the environment, animals, and humans better. Others say eating meat is unethical, since it harms animals.",
+        "spans": [
+          "Is it ethical to eat meat? People are torn about this. Some have moral arguments for why it treats the environment, animals, and humans better. Others say eating meat is unethical, since it harms animals."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The meat industry keeps its practices under wraps and behind factory walls, and the public doesn’t ask many questions.",
+        "spans": [
+          "The meat industry understands that the more people know about the slaughter of animals for food, the less meat they’re likely to eat. So the industry keeps its practices under wraps and behind factory walls, and the public doesn’t ask many questions."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "There are signs of a broader backlash against eating animals, including hunting falling out of favor, vegetarianism gaining popularity, and the animal rights movement becoming more mainstream.",
+        "spans": [
+          "But there are signs of a broader backlash against eating animals: Hunting is falling out of favor, perhaps because of the idea of anyone taking pleasure from killing an animal is resisted. Vegetarianism is gaining in popularity. The animal rights movement is becoming more mainstream."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "One moral argument for eating animals is that we have the right to use animals for our own ends because they are less intelligent than humans, but ethically we don’t discriminate against people on the basis of differing intelligence.",
+        "spans": [
+          "One moral argument for eating animals is that we have the right to use animals for our own ends because they are less intelligent than humans. Yet we believe all humans are morally equal although some are less intelligent than others. Ethically, we don’t discriminate against people on the basis of differing characteristics or interests."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Another ethical argument for eating animals is that animals eat other animals too, but basing our moral code on the laws of nature is problematic.",
+        "spans": [
+          "Another ethical argument for eating animals is that animals eat other animals too. But it would be problematic to base our moral code on the laws of nature, where murder and rape take place too. Also, unlike humans, animals must kill to survive."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Animals suffer, and the suffering they experience at our hands is a problem, creating an ethical conflict around eating meat.",
+        "spans": [
+          "If humans differ from animals morally speaking, they also have interests in common with animals, especially the interest of avoiding pain. The question is whether animals suffer, not whether they can talk or reason the way we do. They do suffer, and the suffering they experience at our hands (greater today than at any time in history) is a problem.",
+          "Our choice to inflict a lifetime of suffering on animals so we can eat meat (which we don’t actually need for survival) creates an ethical conflict around eating meat."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "To resolve the ethical conflict, people either ignore and deny how we treat animals, or stop eating them.",
+        "spans": [
+          "To resolve it, we typically either ignore and deny how we treat animals, or we stop eating them."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Vegetarianism has challenges including requiring others to accommodate dietary preferences, alienation from traditions, and suppressing our biological design to eat meat.",
+        "spans": [
+          "Vegetarianism requires others to accommodate our dietary preferences.",
+          "It alienated him from valued traditions around eating meat, for instance holiday meals.",
+          "We’re biologically designed to be able to eat meat (via our teeth, jaws, and digestive system).",
+          "Not eating meat suppresses our inheritance as hunter-gatherers, as well as our own animal side. The human desire to eat meat is built into our genes."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Whether our interest in eating animals trumps their interest in living hinges on the question of suffering, with debate on animals' capacity for suffering.",
+        "spans": [
+          "Whether our interest in eating animals trumps their interest in living hinges on the question of suffering.",
+          "One philosopher on the ethics of eating meat argues there’s a difference between pain, which animals experience, and suffering, which require a self-consciousness, which few animals possess. Suffering is pain accompanied by feelings such as self-pity and dread. But the consensus among scientists is that higher animals are wired much as we are."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "CAFOs treat animals as machines incapable of pain, causing stress behaviors and further pain through practices like clipping beaks and docking tails.",
+        "spans": [
+          "However CAFOs treat animals as machines incapable of pain.",
+          "For example, in response to the stress created when their instincts are blocked, the confined animals resort to cannibalism, self-mutilation, and other stress behaviors.",
+          "CAFOs in turn treat stress as an economic problem, and clip beaks and dock tails in response, which creates further pain and stress for the animals.",
+          "A CAFO defines animal life as protein production."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Animals on other kinds of farms live according to their instincts, and a good moral life for domestic animals requires association with humans who care for them.",
+        "spans": [
+          "Yet animals on other kinds of farms live differently; animals at Polyface Farm live according to their instincts.",
+          "A good, moral life for a domestic animal actually requires association with humans who feed, protect, and care for them, and advance their interests (and ours) through breeding."
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "Killing some animals can benefit a species and is natural, but animal rights advocates focus on individuals rather than species interests.",
+        "spans": [
+          "Killing some animals can benefit a species. Eliminating weak individuals, as wolves do, strengthens a species by improving the gene pool.",
+          "Predation is natural and has been good for many species, whether the predators are other animals or humans.",
+          "Animal rights advocates look only at what’s good for individual animals, and therefore oppose killing them. But they fail to consider the entire species’ interest in survival and in the health of its habitat."
+        ]
+      },
+      {
+        "point_number": 13,
+        "point_content": "Saving individuals has less impact long term than saving an endangered species or restoring habitat, so in this lens, it is ethical to eat meat.",
+        "spans": [
+          "Saving individuals has less impact long term than saving an endangered species or restoring habitat.",
+          "In this lens, it is ethical to eat meat."
+        ]
+      },
+      {
+        "point_number": 14,
+        "point_content": "The human idea of individual rights isn’t applicable to nature.",
+        "spans": [
+          "The human idea of individual rights isn’t applicable to nature."
+        ]
+      },
+      {
+        "point_number": 15,
+        "point_content": "Accepting an animal rights ideology requires denying our human impact on nature and assuming that it’s not ethical to eat meat.",
+        "spans": [
+          "Accepting an animal rights ideology requires denying our human impact on nature and assuming that it’s not ethical to eat meat."
+        ]
+      },
+      {
+        "point_number": 16,
+        "point_content": "Even a vegan’s interests morally conflict with those of animals because farm equipment and other human activities kill animals.",
+        "spans": [
+          "Even a vegan’s interests morally conflict with those of animals. Farm equipment harvesting grain kills mice, woodchucks and fawns; pesticides, windmills, tall buildings, and cars kill songbirds or animals."
+        ]
+      },
+      {
+        "point_number": 17,
+        "point_content": "Killing animals is probably unavoidable no matter what we choose to eat.",
+        "spans": [
+          "Killing animals is probably unavoidable no matter what we choose to eat."
+        ]
+      },
+      {
+        "point_number": 18,
+        "point_content": "If the goal is to avoid killing animals we should probably eat only the largest possible animal that can live on the least cultivated land: grass-fed beef.",
+        "spans": [
+          "If the goal is to avoid killing animals we should probably eat only the largest possible animal that can live on the least cultivated land: grass-fed beef."
+        ]
+      },
+      {
+        "point_number": 19,
+        "point_content": "Eating animals is ethical if our concern is the health of nature because sustainable agriculture requires animals to improve grass and soil.",
+        "spans": [
+          "If our concern is the health of nature, then eating animals is ethical because: You can’t have sustainable agriculture without animals to improve the grass and soil."
+        ]
+      },
+      {
+        "point_number": 20,
+        "point_content": "Vegetarianism would make us completely dependent on the industrial food chain.",
+        "spans": [
+          "Vegetarianism would make us completely dependent on the industrial food chain."
+        ]
+      },
+      {
+        "point_number": 21,
+        "point_content": "It’s not the principle of eating animals that’s the problem — it’s the practice that violates the ethics of eating animals.",
+        "spans": [
+          "It’s not the principle of eating animals that’s the problem — it’s the practice that violates the ethics of eating animals."
+        ]
+      },
+      {
+        "point_number": 22,
+        "point_content": "People who care about animals should work to ensure a swift and painless death, so that they don’t suffer, and work for animal welfare rather than animal rights.",
+        "spans": [
+          "People who care about animals should work to ensure a swift and painless death, so that they don’t suffer. They should work for animal welfare rather than animal rights."
+        ]
+      }
+    ],
+    "clueweb22-en0042-22-07088": [
+      {
+        "point_number": 1,
+        "point_content": "Eating small quantities of meat that was grown organically in a sustainable way might be morally justifiable.",
+        "spans": [
+          "Eating small quantities of meat that was grown organically in a sustainable way might be morally justifiable."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Most ethics theories would agree that large-scale animal farming as it is practiced today is morally wrong.",
+        "spans": [
+          "Most ethics theories would agree that large-scale animal farming as it is practiced today is morally wrong."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Utilitarianism would consider both animal suffering in the process of meat production and the environmental impact of animal farming.",
+        "spans": [
+          "Utilitarianism would consider both animal suffering in the process of meat production and the environmental impact of animal farming."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Utilitarianism would particularly oppose eating industrially farmed meat but might allow very little, very high quality meat consumption.",
+        "spans": [
+          "Utilitarianism, the most common way to approach this question, would particularly oppose eating industrially farmed meat.",
+          "All in all, it seems that only very little, very high quality meat consumption might be permissible. Today’s industrial meat farming certainly is not."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Kantian ethics focuses on treating humans as ends and sustainability, and might be inconclusive about eating meat due to sustainability concerns.",
+        "spans": [
+          "Kant would not particularly care about animal rights.",
+          "Treating humans (meat consumers) as ends might require us to respect their choices, so Kant would say that we have to do that.",
+          "On the other hand, meat is probably not sustainable in the form we farm it today (see global warming), so Kant would probably be inconclusive about that."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Virtue ethics suggests that compassion, temperance, and respect for life are virtues, and killing animals without good reason is not virtuous, so abstaining from meat is more virtuous except for medical necessity.",
+        "spans": [
+          "Aristotle would say that we have to look at the virtues involved: compassion is a virtue (in the right amount), as is temperance and respect for all life.",
+          "Killing and inflicting suffering for no good reason are probably not virtues.",
+          "Otherwise, it seems more virtuous to abstain from meat."
+        ]
+      }
+    ],
+    "clueweb22-en0013-32-16346": [
+      {
+        "point_number": 1,
+        "point_content": "Christine Korsgaard stresses another important consideration that receives much less public attention: the ethics of eating animals.",
+        "spans": [
+          "Christine Korsgaard, the Arthur Kingsley Porter Professor of Philosophy at Harvard University, stresses another important consideration that receives much less public attention: the ethics of eating animals."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Korsgaard argues that humans do not have a right to kill animals.",
+        "spans": [
+          "But she further argues that humans do not have a right to kill animals."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The fallacy that human beings make is thinking that our differences from animals justify our killing them.",
+        "spans": [
+          "The fallacy that human beings make, Korsgaard argues, is thinking that our differences from animals justify our killing them."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The loss of a non-human animal's life is the loss of everything that is good for her, so it has value.",
+        "spans": [
+          "I don’t think it follows that a non-human animal’s life is of no value to her: after all, the loss of her life is the loss of everything that is good for her."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Non-human animals may not be sacrificed to human interest generally despite differences between species.",
+        "spans": [
+          "that non-human animals may be sacrificed to human interest generally."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Humans are not superior to other species just because different standards apply to us.",
+        "spans": [
+          "You are not superior to someone when altogether different standards apply"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Eating other animals may negatively impact human beings and harming fellow creatures cannot be a good way to live.",
+        "spans": [
+          "It’s even possible that eating other animals negatively impacts human beings.",
+          "we have “a certain sense of solidarity” with other sentient beings, and harming fellow creatures cannot be a good way to live."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Factory farming involves a bloodbath of cruelty and is unethical even if killing animals can be justified.",
+        "spans": [
+          "the whole human enterprise will be supported by a bloodbath of cruelty, hidden away behind the closed walls of those farms.",
+          "Even those who can justify killing animals cannot justify factory farming, Korsgaard says."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "If the way food is raised is unethical, people may have a moral obligation not to eat it.",
+        "spans": [
+          "If people believe that the way their food is raised is unethical, do they have a moral obligation not to eat it?"
+        ]
+      }
+    ],
+    "clueweb22-en0026-96-16702": [
+      {
+        "point_number": 1,
+        "point_content": "Eating meat does not have to be unethical if sourced from humane sources.",
+        "spans": [
+          "If meat is sourced locally from humane sources, this argument loses its foothold in the reason not to eat meat.",
+          "Eating meat does not have to be unethical."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Eating meat provides nutrients and flavor that people enjoy and focusing on it as unethical wastes time.",
+        "spans": [
+          "eating meat provides nutrients and flavor that people enjoy.",
+          "There are so many unethical things in the world that focusing on meat as one of them wastes our time and energy as humans."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Humans eating animals is part of the circle of life, similar to animals that eat meat and those that do not.",
+        "spans": [
+          "Humans eating animals is part of the circle of life. Just like there are animals who eat meat and animals that do not, there are humans that eat meat and humans that do not."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Benjamin Franklin accepted eating fish as a way of life despite being a vegetarian, showing ethical flexibility.",
+        "spans": [
+          "Even as a vegetarian, Benjamin Franklin accepted eating fish as a way of life.  In his autobiography, he stated: “I balanced some time between principle and inclination, till I recollected that, when the fish were opened, I saw smaller fish taken out of their stomachs; then thought I, “If you eat one another, I don’t see why we mayn’t eat you” (from The Autobiography of Benjamin Franklin)."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Factory slaughter is inhumane but does not make all meat eating unethical.",
+        "spans": [
+          "Some argue that it is unethical to eat meat because animals have conscious thoughts and emotions, granting them rights to their own lives. They also argue that the factory slaughter of animals is an unnecessary cruelty that alone should convince people to give up eating meat.",
+          "While anyone can agree that factory slaughter is a horrible invention and is inhumane towards the animals forced through it, it does not necessarily mean that eating any meat is unethical."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Consumers cannot control producers' methods; humane sourcing is ideal but not always possible.",
+        "spans": [
+          "Besides, consumers cannot control what producers do. Even if all meat consumers sourced from humane places, there will still be producers using inhumane methods."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Animals lack moral status, so eating meat is not morally wrong even if animals feel pain.",
+        "spans": [
+          "In his academic paper, Professor of Philosophy Timothy Hsiao argues that “sentence is not sufﬁcient for moral status.” He puts eating an animal in the same bucket as cutting a flower from his garden, explaining that “although animals experience pain as it is physically bad, their experience of it is not in itself morally bad. They are harmed in feeling pain, but this harm is not of a moral kind … Since animals lack moral status, it is not wrong to eat meat, even if this is not essential to nutrition.”"
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Killing animals for sport without consumption is cruel and unethical.",
+        "spans": [
+          "Now, if someone kills an animal just for sport without intending to consume the meat for nourishment, that is cruel and should not be tolerated."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Livestock industry causes environmental harm, which is an ethical concern against eating meat.",
+        "spans": [
+          "Others may point to the environmental harm caused by the livestock industry, such as water pollution and greenhouse gas emissions."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Meat production is environmentally harmful, inefficient, and worse for health than a vegetable diet according to a Harvard philosophy professor.",
+        "spans": [
+          "In an article from Harvard University, a philosophy professor is quoted as saying “that meat production is environmentally harmful, inefficient for a growing population and worse for our health than a vegetable diet.”"
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Feeding livestock grains is less efficient than humans consuming plants directly, raising ethical questions about resource use.",
+        "spans": [
+          "It is argued that feeding livestock grains, soy, and corn is less efficient than if humans were to consume those plants themselves, as well as the amount of water it takes to sustain this farming."
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "Farming plants for humans or livestock both have environmental impacts; balance is key.",
+        "spans": [
+          "Farming for vegetables and grains for humans can be just as harmful for the environment as farming these products for livestock. It still requires the land to be farmed and the methods of that farming is unlikely to change between the two.",
+          "Finding the balance between feeding livestock (and still being able to consume the meat from them) and consuming plants ourselves is the key."
+        ]
+      },
+      {
+        "point_number": 13,
+        "point_content": "Humane farming practices, such as free-range and chemical-free feeding, are essential for ethical meat consumption.",
+        "spans": [
+          "Finding humane ways of farming livestock is the biggest key to consuming meat. By allowing animals free reign without being locked in cages or such, animals have space to live and reduces the stress they are put through.",
+          "Feeding animals pure vegetation without animal by-products or harmful chemicals is another step to take to make eating meat healthier and more humane."
+        ]
+      },
+      {
+        "point_number": 14,
+        "point_content": "Taking care of animals humanely from birth to slaughter allows ethical meat consumption without harming humans or the environment.",
+        "spans": [
+          "Taking care of the animals in a humane way from birth to slaughter (without the fear and cruelty factory slaughter brings) allows humans to ethically consume meat without being harmful to our own species or the environment."
+        ]
+      }
+    ],
+    "clueweb22-en0031-77-08806": [
+      {
+        "point_number": 1,
+        "point_content": "Eating meat raised in specific circumstances is ethical; eating meat raised in other circumstances is unethical in regard to environmental usage.",
+        "spans": [
+          "eating meat raised in specific circumstances is ethical; eating meat raised in other circumstances is unethical"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Higher non-human animals have rights and eating animals is therefore wrong because it uses them as a means to human gratification, not treating them respectfully as ends in themselves.",
+        "spans": [
+          "Higher non-human animals have rights. ... Raising and killing animals for food uses them as a means to human gratification, it does not treat them respectfully as ends in themselves. Eating animals is therefore wrong."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Eating meat contributes to the unnecessary suffering of sentient beings, to a decline in the quality of human health, and to the degradation of the environment, so it can be concluded that eating meat is unethical.",
+        "spans": [
+          "eating meat contributes to the unnecessary suffering of sentient beings, to a decline in the quality of human health, and to the degradation of the environment, it can only be concluded that to do so is unethical."
+        ]
+      }
+    ],
+    "clueweb22-en0003-86-14178": [
+      {
+        "point_number": 1,
+        "point_content": "The moral or ethical case for not eating meat is a potent motivator among vegetarians.",
+        "spans": [
+          "a far more potent motivator among vegetarians–ranging from idealistic college students, to social and environmental activists, to adherents of Eastern spiritual traditions like Buddhism and Yoga–is the moral or ethical case for not eating meat"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The meat industry causes animal suffering and environmental harm, which is considered immoral.",
+        "spans": [
+          "In order to feed modern society’s enormous appetite for meat, animals endure unimaginable suffering in conditions of extreme filth, crowding and confinement.",
+          "Meat animals are fed anywhere from five to fifteen pounds of vegetable protein for each pound of meat produced–an unconscionable practice in a world where many go hungry.",
+          "The meat industry accounts for half of US water consumption–2500 gallons per pound of beef, compared to 25 gallons per pound of wheat.",
+          "1.6 million tons of livestock manure pollutes our drinking water."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "There are alternative ways of raising animals that are environmentally sustainable and do not involve animal suffering.",
+        "spans": [
+          "there are other ways of raising animals for food, ways that make livestock an environmental asset rather than a liability, and in which animals do not lead lives of suffering.",
+          "Consider, for example, a traditional mixed farm combining a variety of crops, pasture land and orchards.",
+          "In a farm that is not just a production facility but an ecology, livestock has a beneficial role to play."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The current meat industry maximizes profit, not sustainable production, leading to environmental inefficiency.",
+        "spans": [
+          "our current meat industry seeks to maximize production. Actually it seeks to maximize profit, which means maximizing not “production” but “productivity”–units per dollar."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Vegetarianism is also motivated by the belief that killing animals is inherently wrong.",
+        "spans": [
+          "vegetarianism existed before the days of factory farming, and it was inspired by a simple, primal conviction that killing is wrong. It is just plain wrong to take another animal’s life unnecessarily; it is bloody, brutal, and barbaric."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Killing plants is not morally equivalent to killing animals due to animals' greater sentience and capacity for suffering.",
+        "spans": [
+          "few would argue that animals are not a more highly organized form of life, with greater sentience and greater capacity for suffering."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "The ethical question of eating meat involves the significance of life and death and the moral implications of killing.",
+        "spans": [
+          "It is impossible to fully address the moral implications of eating meat without thinking about the significance of life and death.",
+          "The physical and social distance from slaughterhouse to dinner table insulates us from the fear and pain the animals feel as they are led to the slaughter, and turns a dead animal into just “a piece of meat.”"
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Modern society's fear of death and dualistic worldview affect attitudes towards killing and ethics of eating meat.",
+        "spans": [
+          "our society, unprecedented in its wealth, has also developed a fear of death equally unprecedented in history.",
+          "the root of this fear, I think, lies in our culture’s dualistic separation of body and soul, matter and spirit, man and nature."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "An animistic and holistic worldview sees all things as soul and life in the material world as sacred, influencing the ethics of eating meat.",
+        "spans": [
+          "Other cultures, more ancient and wiser cultures, did not see it like this. They believed in a sacred world, of matter infused with spirit.",
+          "In an animistic and holistic world view, the moral question to ask oneself about food is not “Was there killing?” but rather, “Is this food taken in rightness and harmony?”"
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Eating meat can be ethical if the animal lived a good life and its death is consistent with a beautiful world.",
+        "spans": [
+          "When a cow lives the life a cow ought to live, when its life and death are consistent with a beautiful world, then for me there is no ethical dilemma in killing that cow for food."
+        ]
+      }
+    ],
+    "clueweb22-en0014-73-02393": [
+      {
+        "point_number": 1,
+        "point_content": "Animals eating animals is a fact of life and always has been—it’s the food chain at work—and humans eating other animals is no less ethical than a lion or a shark or a venus fly trap doing so.",
+        "spans": [
+          "Animals eating animals is a fact of life and always has been—it’s the food chain at work—and humans eating other animals is no less ethical than a lion or a shark or a venus fly trap doing so."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Animals lack moral status, so it is not wrong to eat meat, even if this is not essential to nutrition.",
+        "spans": [
+          "Since animals lack moral status, it is not wrong to eat meat, even if this is not essential to nutrition."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Pain and suffering animals endure is close to or even just as real as that felt by humans and that we should feel a similar compassion for a pig as we do for a mentally-disabled human with the same cognitive capacity.",
+        "spans": [
+          "People in this camp believe that the pain and suffering animals endure is close to or even just as real as that felt by humans and that we should feel a similar compassion for a pig as we do for a mentally-disabled human with the same cognitive capacity."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "If we’re justified in eating less intelligent animals because they have less cognitive capacity than we do, would we also argue that it’s perfectly moral and okay for the smarter-than-us aliens to lock humans in cages and then usher them to the slaughterhouse to serve us as dishes at their restaurants?",
+        "spans": [
+          "If we’re justified in eating less intelligent animals because they have less cognitive capacity than we do, would we also argue that it’s perfectly moral and okay for the smarter-than-us aliens to lock humans in cages and then usher them to the slaughterhouse to serve us as dishes at their restaurants?"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The environmental harm caused by the livestock industry—its significant contribution to water pollution and greenhouse gas emissions, among other concerns.",
+        "spans": [
+          "Others point to the environmental harm caused by the livestock industry—its significant contribution to water pollution and greenhouse gas emissions, among other concerns."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Some protest the poor treatment of animals in the livestock industry but are fine with the actual practice of eating meat, if the raising of the meat was done humanely.",
+        "spans": [
+          "Some protest the poor treatment of animals in the livestock industry but are fine with the actual practice of eating meat, if the raising of the meat was done humanely."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Eating meat is probably not ethical, especially given the barbaric norms in the livestock industry.",
+        "spans": [
+          "Eating meat is probably not ethical, especially given the barbaric norms in the livestock industry"
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Eating meat is natural—after all, many of the animals we eat are carnivores themselves or would fall prey to other carnivores out in the wild.",
+        "spans": [
+          "But eating meat is only natural—after all, many of the animals we eat are carnivores themselves or would fall prey to other carnivores out in the wild."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "It is possible to eat meat ethically, the trouble is most people don’t do it.",
+        "spans": [
+          "It is possible to eat meat ethically, the trouble is most people don’t do it."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Meat eating is a luxury that comes with suffering of animals.",
+        "spans": [
+          "meat eating is a luxury that comes with suffering of animals"
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "The more 'sentient', the less ethical it is to kill for food.",
+        "spans": [
+          "The more \"sentient\", the less ethical it is to kill for food."
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "Animals ARE sentient and they feel pain and suffer just like us.",
+        "spans": [
+          "The fact is that animals ARE sentient and they feel pain and suffer just like us."
+        ]
+      },
+      {
+        "point_number": 13,
+        "point_content": "Humans are designed to be omnivores hence why we have teeth , a gut for dissolving solids, an appendix for grass eating when we were primates.",
+        "spans": [
+          "humans were designed to be omnivores hence why we have teeth , a gut for dissolving solids, an appendix for grass eating when we were primates."
+        ]
+      },
+      {
+        "point_number": 14,
+        "point_content": "Eating meat is neither healthy for humans or environmentally sustainable, making it a lose, lose, lose.",
+        "spans": [
+          "eating meat is neither healthy for humans or environmentally sustainable, making it a lose, lose, lose."
+        ]
+      },
+      {
+        "point_number": 15,
+        "point_content": "Eating meat is natural for carnivores, which humans are not.",
+        "spans": [
+          "Eating meat is natural for carnivores, which humans are not."
+        ]
+      },
+      {
+        "point_number": 16,
+        "point_content": "Meat has all the nine essential amino acids that forms protein.",
+        "spans": [
+          "Meat has all the nine essential amino acids that forms protein."
+        ]
+      },
+      {
+        "point_number": 17,
+        "point_content": "Eating meat is probably not ethical, especially given the barbaric norms in the livestock industry—but meat is delicious, and my current move in life is to kind of just selfishly detach from the whole thing and hope it goes in a better direction in the future while making no personal sacrifice in the present to do anything about it.",
+        "spans": [
+          "Eating meat is probably not ethical, especially given the barbaric norms in the livestock industry—but meat is delicious, and my current move in life is to kind of just selfishly detach from the whole thing and hope it goes in a better direction in the future while making no personal sacrifice in the present to do anything about it"
+        ]
+      }
+    ],
+    "clueweb22-en0015-70-13978": [
+      {
+        "point_number": 1,
+        "point_content": "Cutting down on our consumption of meat and animal products is one of the easiest things we can do to live more ethically.",
+        "spans": [
+          "cutting down on our consumption of meat and animal products is \"one of the easiest things we can do to live more ethically\""
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Livestock farming has a vast environmental footprint and contributes significantly to climate change, which poses multiple risks to health and well-being.",
+        "spans": [
+          "Livestock farming has a vast environmental footprint. It contributes to land and water degradation, biodiversity loss, acid rain, coral reef degeneration and deforestation.",
+          "Nowhere is this impact more apparent than climate change – livestock farming contributes 18% of human produced greenhouse gas emissions worldwide.",
+          "Climate change alone poses multiple risks to health and well-being through increased risk of extreme weather events – such as floods, droughts and heatwaves – and has been described as the greatest threat to human health in the 21st century."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Meat production is highly inefficient in terms of grain, water, and land use, representing an inefficient use of scarce resources.",
+        "spans": [
+          "Meat production is highly inefficient – this is particularly true when it comes to red meat. To produce one kilogram of beef requires 25 kilograms of grain – to feed the animal – and roughly 15,000 litres of water.",
+          "The scale of the problem can also be seen in land use: around 30% of the earth’s land surface is currently used for livestock farming. Since food, water and land are scarce in many parts of the world, this represents an inefficient use of resources."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Feeding grain to livestock increases global demand and drives up grain prices, making it harder for the world’s poor to feed themselves.",
+        "spans": [
+          "Feeding grain to livestock increases global demand and drives up grain prices, making it harder for the world’s poor to feed themselves.",
+          "If all grain were fed to humans instead of animals, we could feed an extra 3.5 billion people."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Industrial livestock farming causes unnecessary animal suffering by largely ignoring animal welfare.",
+        "spans": [
+          "Industrial livestock farming falls well short of this minimal standard. Most meat, dairy and eggs are produced in ways that largely or completely ignore animal welfare – failing to provide sufficient space to move around, contact with other animals, and access to the outdoors.",
+          "In short, industrial farming causes animals to suffer without good justification."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Industrial livestock farming relies heavily on antibiotic use, contributing to antibiotic resistance, and high meat consumption is linked with poor health outcomes.",
+        "spans": [
+          "At the production level, industrial livestock farming relies heavily on antibiotic use to accelerate weight gain and control infection – in the US, 80% of all antibiotics are consumed by the livestock industry.",
+          "This contributes to the growing public health problem of antibiotic resistance.",
+          "High meat consumption – especially of red and processed meat – typical of most rich industrialised countries is linked with poor health outcomes, including heart disease, stroke, diabetes and various cancers."
+        ]
+      }
+    ],
+    "clueweb22-en0020-46-01833": [
+      {
+        "point_number": 1,
+        "point_content": "The claim that 'ethical' meat is becoming popular but lacks substantial evidence.",
+        "spans": [
+          "A recent article in the Evening Standard, titled Why ethical meat is taking over London,speaks of how ‘ethical’ meat has been a hit in London – though it doesn’t really give any figures to back up this claim."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The 'ethical' claim for meat includes rare breeds, whole animal use, grass-fed cattle with no hormones or antibiotics, and stress-reducing slaughter methods.",
+        "spans": [
+          "the ‘ethical’ claim to this meat is: the cows are ‘rare’ breeds and every part of the cow is sold (‘from nose to tail’).",
+          "Buyacow.uk connects you to your local, ethical farmers who rear grass-fed cattle with no hormones, chemicals or preventative antibiotics…All our cows are happy. They enjoy long and contented lives, with plenty of space to roam and graze.",
+          "Your cow will be slaughtered by way of captive bolt at a small-scale artisan butcher. Because we care about our animals’ well-being, your cow will be given three days to get to know its butcher’s voice, behaviour and touch, and adjust to its surroundings so slaughter takes place without stress."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Environmental research shows grass-fed beef has higher negative impacts than plant-based foods, and a vegan diet greatly reduces environmental impact.",
+        "spans": [
+          "Research published earlier this year by Oxford University found that grass-fed beef was still responsible for higher negative environmental impacts than plant-based food.",
+          "Poore also states: “A vegan diet is probably the single biggest way to reduce your impact on planet Earth, not just greenhouse gases, but global acidification, eutrophication, land use and water use.”"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Switching to grass-fed beef is not a solution; reducing meat consumption is necessary for environmental benefits.",
+        "spans": [
+          "Dr. Tara Garnett, co-author of the report (entitled ‘ Grazed and Confused? ’) said: “Ultimately, if high-consuming individuals and countries want to do something positive for the climate, maintaining their current consumption levels but simply switching to grass-fed beef is not a solution. Eating less meat, of all types, is.”",
+          "From an environmental perspective, the only real solution is to reduce meat production, and ergo consumption, ideally to zero."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Ethical issues exist in breeding and eating rare breed animals, questioning the morality of slaughtering sentient beings for unnecessary products.",
+        "spans": [
+          "I am yet to see someone demonstrate how breeding and taking ownership of another sentient being’s life, and slaughtering them for products that we do not need can be ethical.",
+          "Animals will fight until their last breath to escape the slaughterhouse, and to live free from harm. Much like us, they seek to avoid harm and experience pleasure."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Investigations reveal that animal mistreatment and abuse occur in slaughterhouses of all sizes, challenging claims of humane slaughter.",
+        "spans": [
+          "investigations into small family-run abattoir/butcher operations have shown that regardless of whether the abattoir is a small family-run operation, or a large industrial operation, illegal abuse and mistreatment can happen.",
+          "In May 2017, Animal Aid released a damning dossier of evidence entitled Britain’s Failing Slaughterhouses. This revealed that 93 percent of slaughterhouses filmed by Animal Aid and others had been found to be breaking animal welfare laws."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "The captive bolt gun method is not without problems, with documented cases of prolonged suffering during slaughter.",
+        "spans": [
+          "In 2009, Animal Aid investigated Pickstock abattoir in Derbyshire. Over the course of the investigation – which consisted of placing hidden cameras inside the abattoir over three days – 2.5 percent of the cows who we filmed were shot in the head more than once with a captive bolt gun.",
+          "One cow in particular ducked his head away from the slaughterer, the suffering was prolonged as the stun floored him but did not render him unconscious, and he suffered on the floor for 35 seconds before the slaughterer was able to suspend himself upside down and shoot him again."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "No slaughterhouse was found in full compliance with animal welfare regulations in audits, indicating systemic issues.",
+        "spans": [
+          "an analysis of slaughterhouse audit reports in 2016 found that not a single one was in full compliance with regulations when audited by the Food Standards Agency; this included 4,000 serious breaches of animal welfare laws."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "It is difficult to see how any farming system involving breeding and slaughtering animals can be ethical or humane from animal or environmental perspectives.",
+        "spans": [
+          "To conclude, it is difficult to see how any farming system that relies on the breeding and slaughter of animals can be deemed ‘ethical’ or ‘humane’ – whether from an animal perspective or an environmental one."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "A plant-based diet is better for animals and the environment than any form of meat production.",
+        "spans": [
+          "As the research shows, a plant-based diet is not only better for animals, it is also much better for the environment."
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0026-77-11200": [
+      {
+        "point_number": 1,
+        "point_content": "The mass slaughter of another species for the benefit and enjoyment of our own is unethical, but until it becomes less of a necessity, it is unfair to simply label meat-eaters as immoral.",
+        "spans": [
+          "Ultimately, the mass slaughter of another species for the benefit and enjoyment of our own is unethical.",
+          "But until it becomes less of a necessity, and other alternatives are made more readily available, it is unfair to simply label meat-eaters as immoral."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Factory farming keeps animals in poor conditions causing stress and harm, raising ethical concerns about eating meat from such sources.",
+        "spans": [
+          "In our modern world, much of the meat which we consume is produced in factory farms.",
+          "In these farms, animals generally kept indoors at high densities as the aim of factory farming is to produce as much meat, eggs or milk at as low cost as possible.",
+          "These animals live in poor conditions, with animals such as chicken living in spaces less than an A4 sheet of paper.",
+          "As you can imagine, they are under great stress and have the tendency to attack one another.",
+          "As a result, animals often have their beaks, tails and teeth removed, even though these are supposed to be last resort options."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Eating meat contributes significantly to greenhouse gas emissions and climate change.",
+        "spans": [
+          "It is estimated that agriculture is responsible for 14% of the world’s greenhouse gases.",
+          "Believe it or not, cows cause pollution comparable to that of cars.",
+          "They emit many litres of methane through belching and a lower amount through flatulence.",
+          "Thus, by eating meat, you are contributing to the amount of greenhouse gases in the atmosphere and in turn, climate change."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Meat is not necessary for survival or health as nutrients can be obtained from plant-based sources and meat substitutes.",
+        "spans": [
+          "Despite what many people think, the consumption of meat is no longer necessary for survival or health today.",
+          "Meat may provide nutrients including protein and iron, but these nutrients can also be found in non-meat substances such as nuts, beans, tofu and seeds.",
+          "For those who enjoy the taste of meat, there are also many meat substitutes which are just as delicious and nutritious but without the guilt."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Humans are omnivores and can obtain all necessary nutrients from plant-based sources without harming animals.",
+        "spans": [
+          "We are not carnivores, we are omnivores.",
+          "We can get every single nutrient and vitamin we need from a plant-based source that doesn't involve harming animals."
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "question": "evaluate the extent to which the government has contributed to housing",
+  "key_points": {
+    "null": [],
+    "clueweb22-en0029-94-14632": [
+      {
+        "point_number": 1,
+        "point_content": "The government houses people using the following projects: Government subsidy housing, Community Residential Units, Upgrading of Informal Settlements Programme, Emergency Housing Programme, Finance Linked Individual Subsidy Programme, Social Housing.",
+        "spans": [
+          "The government houses people using the following projects: (1) Government subsidy housing (2) Community Residential Units (3) Upgrading of Informal Settlements Programme (4) Emergency Housing Programme (6) Finance Linked Individual Subsidy Programme. (5) Social Housing"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Government subsidy housing (RDP houses) are built by the government and given to low-income families, owned by beneficiaries, with specific qualification criteria.",
+        "spans": [
+          "Government subsidy housing (commonly known as RDP houses) These are houses that have been built by the government and are given to low-income families. Government Subsidy houses are owned, not rented, by beneficiaries. To qualify for an RDP house you must meet the National Housing Subsidy Scheme criteria."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Community Residential Units (CRU) housing is for rent, aimed at households earning less than R3,500 per month, refurbishing inner-city buildings and hostels.",
+        "spans": [
+          "Community Residential Units and Housing Programme (CRU) This housing programme is also aimed at households who earn less than R3,500 per month. CRU housing units are for rent and not for sale. This project is aimed at refurbishing inner-city buildings and hostels."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Upgrading of Informal Settlements Programme (UISP) provides running water, sanitation, electricity and roads to informal settlements, but not necessarily houses.",
+        "spans": [
+          "Upgrading of Informal Settlements Programme (UISP) This programme tries to provide running water, sanitation, electricity and roads to informal settlements, but not necessarily houses."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Finance Linked Individual Subsidy Programme (FLISP) helps people earning between R3,500 and R22,000 per month to buy a house for the first time by providing a grant to reduce loan amount or deposit.",
+        "spans": [
+          "Finance Linked Individual Subsidy Programme (FLISP) FLISP helps people who qualify for a home loan to buy a house for the first time. FLISP gives you a grant which can be used to reduce the initial loan amount. This will make your monthly repayments lower. It can also be used as a deposit."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Social Housing Programme (SHP) subsidises companies to develop new housing projects with affordable rental housing, mainly for households earning between R3,500 and R7,500 per month.",
+        "spans": [
+          "Social housing programme (SHP) Municipalities and provincial governments can subsidise companies to develop new housing projects if some of the houses are rented as affordable housing. This makes the building and planning of the projects cheaper, which makes rent lower."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Allocation of government-built houses is complex, with different systems in each municipality or province, and waiting lists can be very long, sometimes decades.",
+        "spans": [
+          "allocation of government-built houses is complex. Each municipality or province has different systems for housing allocation, and so the information here is only a guide of what is available and how to apply.",
+          "Many people have been on waiting lists for decades, and we frequently receive allegations of corruption in the allocation of houses."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "It is illegal to sell or rent out an RDP house before living in it for eight years.",
+        "spans": [
+          "It is illegal to sell an RDP house before you’ve lived in it for eight years. It is illegal to rent out an RDP house."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "There are allegations and reports of irregularities and unfairness in the allocation of government houses, including people receiving houses out of order and renting them out.",
+        "spans": [
+          "1996-99 RDP housing beneficiaries are still waiting",
+          "In Khutsong, one person owns two RDP houses - has the approval letter for one and the title deed for the other.",
+          "In Wedela, the owner of the RDP is renting somewhere else while his house has been occupied by a person connected to an ANC councillor.",
+          "My daughter applied for a house in 1996 but she still hasn't received it while people who applied after her have received houses.",
+          "People who applied long after me has got the property.",
+          "There are a lot of people that is getting a house and than they don't live in the house. They go back to the province and rent the house out."
+        ]
+      }
+    ]
+  }
+}

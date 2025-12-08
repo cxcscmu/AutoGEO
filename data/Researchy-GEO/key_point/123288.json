@@ -1,0 +1,173 @@
+{
+  "question": "how does climate change affect seals",
+  "key_points": {
+    "clueweb22-en0035-69-00476": [
+      {
+        "point_number": 1,
+        "point_content": "Lighter ice cover and lower NAO values result in higher mortality of young-of-the-year harp seals.",
+        "spans": [
+          "negative correlations between both ice cover and NAO conditions and seal mortality, indicating that lighter ice cover and lower NAO values result in higher mortality"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Harp seals rely on seasonal sea ice as a breeding platform, and changes in ice quality and quantity affect their populations.",
+        "spans": [
+          "Harp seals (Pagophilus groenlandicus) have evolved life history strategies to exploit seasonal sea ice as a breeding platform.",
+          "significant changes in the quality and quantity of ice habitat, and the timing of ice availability for breeding seals may have serious consequences for their populations"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Sea ice cover in all harp seal breeding regions has been declining by as much as 6 percent per decade from 1979 to 2011.",
+        "spans": [
+          "sea ice cover in all harp seal breeding regions has been declining by as much as 6 percent per decade over the time series of available satellite data"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Reduced ice cover and rapid ice melting cause significant neonatal mortality in harp seals due to interrupted nursing, starvation, cold stress, and crushing by shifting ice.",
+        "spans": [
+          "In years with reduced ice cover and rapid ice melting, harp seals reportedly suffer significant neonatal mortality",
+          "harp seals were forced to prematurely vacate whelping patches in the Gulf of St. Lawrence during the winter of 1966",
+          "thousands of seals were crushed in moving ice, or were prematurely forced to vacate whelping patches during rapid ice breakup",
+          "thousands of dead seals washed ashore on the beaches of Cape Breton"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The North Atlantic Oscillation (NAO) influences sea ice conditions and thus affects harp seal mortality and population dynamics.",
+        "spans": [
+          "the NAO can greatly effect the quantity and quality of ice available to seals",
+          "negative NAO values result in higher mortality",
+          "NAO-related changes in sea ice may have contributed to the depletion of seals",
+          "NAO conditions greatly affect sea ice dynamics in harp seal breeding regions"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Harp seal populations have fluctuated in synchrony with NAO trends and associated ice conditions, affecting reproductive success and mortality.",
+        "spans": [
+          "harp seal populations across the Atlantic appear to have fluctuated in synchrony with NAO trends and associated ice conditions",
+          "changing ice conditions may have contributed to the population dynamics of harp seals across the North Atlantic, most likely through periods of sustained reproductive failure or success"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Harp seals may not be well adapted to absorb the cumulative effects of human influences, short-term climate variability, and global warming.",
+        "spans": [
+          "they are well suited to deal with natural shifts in climate",
+          "these animals may not be well adapted to absorb the cumulative effects of human influences (primarily hunting and to a lesser extent by-catch), short-term climate variability and global warming"
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0007-70-04348": [
+      {
+        "point_number": 1,
+        "point_content": "The climate crisis is limiting the availability of krill during summer in some areas of the Antarctica, decreasing food abundance for female Antarctic fur seals and their reproductive success.",
+        "spans": [
+          "The climate crisis is limiting the availability of krill -- small crustaceans that are vital in the marine food chain -- during summer in some areas of the Antarctica.",
+          "This involves a decrease in the food abundance for female Antarctic fur seals in summer and a decrease in their reproductive success."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Predation of pups by the leopard seal has increased due to a lower abundance of penguins, the main prey of the leopard seal.",
+        "spans": [
+          "Moreover, the predation of pups by the leopard seal has also increased due to a lower abundance of penguins, the main prey of this voracious Antarctic predator."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Male Antarctic fur seals remain in Antarctic waters during winter, adapting their distribution and diving behavior to follow krill and ice conditions.",
+        "spans": [
+          "the scientific monitoring via satellite tracking focused on juvenile and sub-adult males since they represent more than the 80% of the seals that remain in Antarctic waters during winter, while females leave the Antarctica during this period.",
+          "Males spend most of the winter time in the Antarctic Ocean, without going to the main land, and they preferentially select areas of less than 1000 meters deep, located about 200 kilometres from the ice borders and with high levels of chlorophyll and a surface temperature below 2ºC,",
+          "Due to the seasonal dynamics of ice, the krill-friendly habitat moves north during winter and so do the fur seals. As winter progresses, krill migrate deeper into the water and males dive deeper to eat, sometimes up to 180 meters deep,"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Sexual dimorphism affects thermoregulatory skills and diving performance, influencing how males and females adapt to environmental changes.",
+        "spans": [
+          "These different habitats occupied by males and females during the austral winter could be related to the sexual dimorphism of the species: adult females can reach 20-50 kg and adult males 140 kg.",
+          "An increased body mass involves more capacity to store oxygen, which allows adult males to dive deeper when searching for food,"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Decrease in krill abundance leads to increased fish intake by fur seals but reduces reproductive success and population abundance.",
+        "spans": [
+          "When this food source decreases, fur seals increase their fish intake but the reproductive success decreases. Therefore, the species can survive without krill but the population of the Antarctic fur seal is less abundant, like in the Kerguelen Islands,"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Climate crisis causes higher pup predation by leopard seals and slow southward movement of fur seal colonies as adaptation.",
+        "spans": [
+          "In some colonies, the climate crisis causes a higher predation of pups by the leopard seal.",
+          "To adapt to the external changes, the colonies of the Antarctic fur seal should move south across the Antarctic peninsula, but this is an extremely slow process,"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Proper management of krill fishing is needed considering consumption by both female and male fur seals throughout the year.",
+        "spans": [
+          "in the future, we will need to manage properly the krill fishing activities in these areas, and this will require to consider not only the female consumption during summer but also the consumption associated with males of all ages during the four seasons of the year,"
+        ]
+      }
+    ],
+    "clueweb22-en0009-06-05179": [
+      {
+        "point_number": 1,
+        "point_content": "Global warming is melting sea ice the pups need for survival.",
+        "spans": [
+          "Global warming is melting sea ice the pups need for survival."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Ice-busting storms and warmer waters fueled by rising temperatures are diminishing the ice cover that harp seals need to survive during their first vulnerable weeks of life.",
+        "spans": [
+          "Ice-busting storms and warmer waters fueled by rising temperatures are diminishing the ice cover that harp seals need to survive during their first vulnerable weeks of life."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Without thick, solid ice expanses, seal babies drown or are crushed by broken-up chunks of ice.",
+        "spans": [
+          "Without thick, solid ice expanses, seal babies drown or are crushed by broken-up chunks of ice."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Ice cover in the sub-Arctic and North Atlantic Ocean has declined about 6 percent per decade since the 1970s.",
+        "spans": [
+          "ice cover in the sub-Arctic and North Atlantic Ocean has declined about 6 percent per decade since the 1970s."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "As climate change continues to degrade the amount of good ice, the average pup survival rate is likely to drop over the years.",
+        "spans": [
+          "And as climate change continues to degrade the amount of good ice, the average pup survival rate is likely to drop over the years, experts say."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "In 2007, for example, more than 75 percent of pups in Canada perished because of poor ice conditions—in 2010, almost none survived.",
+        "spans": [
+          "In 2007, for example, more than 75 percent of pups in Canada perished because of poor ice conditions—in 2010, almost none survived, Johnston said."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Seal-pup deaths rose and fell with sea ice loss driven by fluctuations in the North Atlantic Oscillation, which are in turn caused by climate change.",
+        "spans": [
+          "Their results revealed that seal-pup deaths rose and fell with sea ice loss driven by fluctuations in the North Atlantic Oscillation, which are in turn caused by climate change."
+        ]
+      }
+    ]
+  }
+}

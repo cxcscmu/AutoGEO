@@ -1,0 +1,279 @@
+{
+  "question": "what risks and safeguards are associated with wireless communication?",
+  "key_points": {
+    "clueweb22-en0014-73-02330": [
+      {
+        "point_number": 1,
+        "point_content": "Changing default passwords and ensuring a higher level of encryption such as WPA2 are important safeguards in wireless communication.",
+        "spans": [
+          "Some of the safeguards which should be taken when using wireless communication on a particular device include things such as changing default passwords and also ensuring that there is a higher level of encryption.",
+          "One of the most exceptional encryption technique in the current times is known as WPA2, which is considered as one of the standard effective methods.",
+          "The other thing is to ensure that one changes the default passwords can also be an adequate safeguard."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Wardriving or war flying is a risk involving searching for wireless networks from a moving vehicle using devices like smartphones or PDAs.",
+        "spans": [
+          "“Wardriving” or “war flying” is defined as the act of searching for a wireless network by an individual in a moving vehicle, he/she may do this through the use of a smartphone, portable computer or with the aid of a personal digital assistant (PDA)."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Using public wireless hotspots can be insecure unless the hotspot is hosted through one's own device.",
+        "spans": [
+          "I am not much comfortable with the use of a public hotspot unless this hotspot is hosted through my device.",
+          "I feel quite insecure when I am using an open hot spot as compared to my device"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Safeguards when accessing unprotected public wireless communications include turning off file sharing and avoiding logging into unfamiliar websites.",
+        "spans": [
+          "Some of the safeguard techniques which I would tend to take when accessing unprotected wireless communications include things such as turning off any form of file sharing to avoid any loss of sensitive or personal data which might be stored in my laptop or mobile device.",
+          "The other measure that I would tend to take is to avoid logging into websites that am not familiar with"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Both laptops and smartphones are at risk when using wireless connections, and encryption reduces the risk of data loss if the device is stolen.",
+        "spans": [
+          "I believe that one is at risk with both.",
+          "The risk is on whether the device is either encrypted or not.",
+          "For instance, both your phone and the laptop can be stolen, but in case one has encryption on both, this risk of data loss can be minimal."
+        ]
+      }
+    ],
+    "clueweb22-en0025-44-05401": [
+      {
+        "point_number": 1,
+        "point_content": "Risks associated with wireless communication include piggybacking, wardriving, evil twin attacks, wireless sniffing, unauthorized computer access, shoulder surfing, and theft of mobile devices.",
+        "spans": [
+          "Piggybacking. If you fail to secure your wireless network, anyone with a wireless-enabled computer in range of your access point can use your connection.",
+          "Wardriving.",
+          "Evil Twin Attacks.",
+          "Wireless Sniffing.",
+          "Unauthorized Computer Access.",
+          "Shoulder Surfing.",
+          "Theft of Mobile Devices."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Security risks include data interception, cracking, and transmission jamming.",
+        "spans": [
+          "Data interception: the practice of listening to the transmissions of various wireless network users.",
+          "Cracking: an attempt to access a local network or the Internet.",
+          "Transmission jamming: sending out radio signals so as to interfere with traffic."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Wireless networks are less secure than wired ones and can be compromised by intruders hooking up to the network or through backdoors.",
+        "spans": [
+          "Wireless networks are less secure than wired ones; in many offices intruders can easily visit and hook up their own computer to the wired network without problems, gaining access to the network, and it is also often possible for remote intruders to gain access to the network through backdoors like Back Orifice."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Disadvantages of wireless include difficulty in setup, risk of outsiders accessing the network without robust security, slower speed, and less stability.",
+        "spans": [
+          "It’s a bit more difficult to setup properly.",
+          "Risk of ‘outsiders’ accessing your network unless robust security protocols are enabled (eg WPA, WPA2)",
+          "Significantly slower than a wired network (2 – 50 times slower, see below).",
+          "The network can be less stable."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Safeguards for accessing unprotected public wireless communications include verifying the network, using a VPN, using HTTPS, keeping the firewall enabled, and using antivirus.",
+        "spans": [
+          "Verify the Network; Configure and Turn off Sharing. Remember that hackers are very clever, so its better to surf and play smart.",
+          "Use a VPN. A VPN (Virtual Private Network) is the most secure option to surf on public networks.",
+          "Use HTTPS.",
+          "Keep the Firewall Enabled.",
+          "Use Antivirus."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "To protect information when using wireless technology, make your network invisible, rename your wireless network, encrypt your network traffic, change your administrator password, be cautious with file sharing, and keep your access point software up to date.",
+        "spans": [
+          "Make Your Network Invisible.",
+          "Rename Your Wireless Network.",
+          "Encrypt Your Network Traffic.",
+          "Change Your Administrator Password.",
+          "Be Cautious with “File Sharing”",
+          "Keep Your Access Point Software Up to Date."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Wireless security is important to prevent unauthorized users from accessing your wireless network and stealing data.",
+        "spans": [
+          "Wireless security is the prevention of unauthorized users from accessing your wireless network and stealing the data using your Wi-Fi network."
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0012-22-15468": [
+      {
+        "point_number": 1,
+        "point_content": "Wireless networks introduce additional security risks such as piggybacking, wardriving, evil twin attacks, wireless sniffing, unauthorized computer access, shoulder surfing, and theft of mobile devices.",
+        "spans": [
+          "Wireless networks introduce additional security risks.",
+          "Some of the risks include: Piggybacking",
+          "Wardriving",
+          "Evil Twin Attacks",
+          "Wireless Sniffing",
+          "Unauthorized Computer Access",
+          "Shoulder Surfing",
+          "Theft of Mobile Devices"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Piggybacking risk: unauthorized users can use your wireless connection if it is unsecured, potentially conducting illegal activity or stealing personal files.",
+        "spans": [
+          "Piggybacking If you fail to secure your wireless network, anyone with a wireless-enabled computer in range of your access point can use your connection."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Wardriving is the practice of searching for unsecured wireless networks by driving around with a wireless-equipped computer.",
+        "spans": [
+          "Wardriving is a specific kind of piggybacking.",
+          "This practice is known as “wardriving.”"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Evil twin attacks involve an adversary impersonating a public network access point with a stronger signal to intercept user data.",
+        "spans": [
+          "In an evil twin attack, an adversary gathers information about a public network access point, then sets up their system to impersonate it.",
+          "The adversary uses a broadcast signal stronger than the one generated by the legitimate access point; then, unsuspecting users connect using the stronger signal."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Wireless sniffing risk: unencrypted public access points can expose sensitive information to malicious actors using sniffing tools.",
+        "spans": [
+          "Many public access points are not secured and the traffic they carry is not encrypted.",
+          "malicious actors could use sniffing tools to obtain sensitive information such as passwords or credit card numbers."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Unauthorized computer access can occur on unsecured public wireless networks combined with unsecured file sharing.",
+        "spans": [
+          "An unsecured public wireless network combined with unsecured file sharing could allow a malicious user to access any directories and files you have unintentionally made available for sharing."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Shoulder surfing risk: malicious actors can steal sensitive information by looking over your shoulder in public areas.",
+        "spans": [
+          "In public areas malicious actors can simply glance over your shoulder as you type."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Theft of mobile devices risk: physical theft can give attackers access to data; encryption and password protection can safeguard data.",
+        "spans": [
+          "By physically stealing your device, attackers could have unrestricted access to all of its data, as well as any connected cloud accounts.",
+          "Most mobile devices, including laptop computers, now have the ability to fully encrypt their stored data",
+          "configure your device’s applications to request login information before allowing access to any cloud-based information.",
+          "individually encrypt or password-protect files that contain personal or sensitive information."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Safeguards include changing default passwords, restricting access via MAC filtering, using guest accounts, encrypting data with WPA3, protecting SSID, installing firewalls, maintaining antivirus software, cautious file sharing, updating access point software, checking provider security options, and using VPNs.",
+        "spans": [
+          "Change default passwords.",
+          "Restrict access.",
+          "Encrypt the data on your network.",
+          "Protect your Service Set Identifier (SSID).",
+          "Install a firewall.",
+          "Maintain antivirus software.",
+          "Use file sharing with caution.",
+          "Keep your access point software patched and up to date.",
+          "Check your internet provider’s or router manufacturer’s wireless security options.",
+          "Connect using a Virtual Private Network (VPN)."
+        ]
+      }
+    ],
+    "clueweb22-en0017-21-06295": [
+      {
+        "point_number": 1,
+        "point_content": "Wi-Fi networks and Bluetooth connections can be vulnerable points of access for data or identity theft.",
+        "spans": [
+          "Wi-Fi networks and Bluetooth connections can be vulnerable points of access for data or identity theft."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Encryption is the best way to keep your personal data safe by scrambling the data so only intended recipients can read it.",
+        "spans": [
+          "Encryption is the best way to keep your personal data safe. It works by scrambling the data in a message so that only the intended recipients can read it."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The strongest commonly available encryption for Wi-Fi is WPA2, which should be used if available.",
+        "spans": [
+          "The two most common types of encryption are Wired Equivalent Privacy (WEP), and Wi-Fi Protected Access (WPA). The strongest one commonly available is WPA2, so use that if you have the option."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Public Wi-Fi can be risky as hackers may access your connection and compromise sensitive information.",
+        "spans": [
+          "But the convenience of public Wi-Fi can be risky.  If you're not careful, hackers may quickly access your connection and compromise sensitive information stored on your device and in online accounts."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Check the validity of Wi-Fi hotspots to avoid connecting to imposter hotspots.",
+        "spans": [
+          "Check the validity of available Wi-Fi hotspots. If more than one hotspot appears claiming to belong to an establishment that you're in, check with the staff to avoid connecting to an imposter hotspot."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Ensure websites have 'https' to confirm data encryption during transmission.",
+        "spans": [
+          "Make sure all websites you exchange information with have \"https\" at the beginning of the web address. If so, your transmitted data will be encrypted."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Use browser add-ons that force encryption when connecting to websites.",
+        "spans": [
+          "Install an app add-on that forces your web browsers to use encryption when connecting to websites -- even well-known sites that may not normally encrypt their communications."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Adjust smartphone settings to prevent automatic connection to nearby Wi-Fi networks for more control.",
+        "spans": [
+          "Adjust your smartphone's settings so it does not automatically connect to nearby Wi-Fi networks. This gives you more control over where and when you connect."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Consider using a virtual private network (VPN) to encrypt all transmissions when using public Wi-Fi.",
+        "spans": [
+          "If you use public Wi-Fi hotspots on a regular basis, consider using a virtual private network, which will encrypt all transmissions between your device and the internet."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Using cellphone data plans instead of Wi-Fi may be more secure when transmitting sensitive information.",
+        "spans": [
+          "When transmitting sensitive information, using your cellphone data plan instead of Wi-Fi may be more secure."
+        ]
+      }
+    ]
+  }
+}

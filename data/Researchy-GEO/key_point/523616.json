@@ -1,0 +1,43 @@
+{
+  "question": "how did the gilded age force americans to confront traditional understandings of freedom",
+  "key_points": {
+    "null": [],
+    "clueweb22-en0021-75-12731": [
+      {
+        "point_number": 1,
+        "point_content": "Social Darwinism justified the rapid growth of poverty and low employment and was supported by the Supreme Court, which reinterpreted the 5th and 14th amendments to protect corporations, affecting traditional understandings of freedom.",
+        "spans": [
+          "Social Darwinism is a social theory which states that only the fittest, wealthy and ‘chosen’, can survive competitions in the society and are crucial for a social progress.",
+          "the Supreme Court supported the Social Darwinism. They ruled many state laws that regulate working conditions and minimum wages as unconstitutional by reinterpreting the fifth and the 14th amendments which banned the federal and state governments to deprive persons (corporations) of “life, liberty, or property, without due process of law.”"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Jim Crow Laws legally enforced racial segregation and denied African Americans equal rights, challenging traditional understandings of freedom as equal citizenship.",
+        "spans": [
+          "The Democrats later enacted laws called the Jim Crow Laws (1877-1964).",
+          "This law stated the segregation of schools, transportation, libraries, restrooms, restaurants, and drinking fountains for the whites and blacks.",
+          "Jim Crow Laws are the most significant and devastating social issue that America had during the Reconstruction."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The Populist movement and William Jennings Bryan's 'Cross of Gold' speech reflected economic struggles of common people and challenged the gold standard, questioning traditional economic freedoms.",
+        "spans": [
+          "The People’s Party, also known as the “Populists”, was a short lived political party from 1891 to 1908.",
+          "William Jennings Bryan, who served as a member of the House from Nebraska, made the “Cross of Gold” speech in the Democratic National Convention in Chicago, claiming that bimetallism, usage of both gold and silver as the monetary standard, will bring wealth to United States.",
+          "The rise of the Populism and Free Silver Movement was a reflection of the social problems American had, mainly around the topic of the distribution of wealth."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The Yellow Peril and related laws like the Chinese Exclusion Act reflected racial fears and discrimination against Asian immigrants, restricting their freedoms and challenging traditional American ideals of liberty.",
+        "spans": [
+          "The Yellow Peril occurred during the 1870s to 1920s.",
+          "The Chinese Exclusion Act denied Chinese laborers from entering the country.",
+          "The Chinese exclusion act in 1882 even restricted them to certain jobs."
+        ]
+      }
+    ]
+  }
+}

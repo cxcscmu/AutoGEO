@@ -1,0 +1,319 @@
+{
+  "question": "how has technology changed jobs",
+  "key_points": {
+    "null": [],
+    "clueweb22-en0035-17-04216": [
+      {
+        "point_number": 1,
+        "point_content": "Technology has always fueled economic growth, improved standards of living, and opened up avenues to new and better kinds of work.",
+        "spans": [
+          "Technology has always fueled economic growth, improved standards of living, and opened up avenues to new and better kinds of work."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Recent advances in artificial intelligence and machine learning mark the beginning of a seismic shift in the world as we know it.",
+        "spans": [
+          "Recent advances in artificial intelligence and machine learning, which brought us Watson and self-driving cars, mark the beginning of a seismic shift in the world as we know it."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "General purpose technologies (GPTs) have changed the course of history by making humans more productive and increasing standards of living, and opening avenues to new kinds of work.",
+        "spans": [
+          "From the first metal tools, to the wheel and the printing press, these innovations (dubbed general purpose technologies, or GPTs¹ ) have changed the course of history. GPTs “interrupt and accelerate the normal march of economic progress”. 1 In other words, they make humans more productive and increase standards of living. They also help open avenues to new kinds of work."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Technology increases labor productivity, which is the single most important determinant of increased living standards.",
+        "spans": [
+          "The average American today has better medical care, better access to information and education, and better ways to communicate and travel than the richest people in the world in the not-very-distant past. We have experienced a dramatic increase in living standards, whose “single most important determinant […] across countries and over time” is labor productivity. 10 Productivity—equal to output divided by inputs (such as capital, labor, energy, materials, and services)—increases when we deploy technology. 11"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Automation has decreased production costs and made goods and services more affordable, while also shifting labor from agriculture to industrial and service sectors.",
+        "spans": [
+          "By producing more output, given the same value of inputs, agricultural machines decreased production costs. As a result, food became more affordable and people became less likely to die of starvation. In addition, the increased productivity from the automation of agricultural work led farm workers to migrate to cities, where they then helped the industrial economy develop and grow. New goods and services were created, and consumption increased. Productivity rose even more as automation drove down costs, thereby making transportation, healthcare, education, and government more affordable. 13"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Automation can substitute for human labor when tasks are routine and codifiable, but complements labor when it enhances productivity without fully replacing workers.",
+        "spans": [
+          "Thus, it is important to remind ourselves that automation does not have a universal effect on employment; a machine can be either a substitute or a complement to human labor.",
+          "A machine can substitute for human labor when it has the ability to produce more than the worker for the same cost (such as his or her wages), or as much as the worker for a fraction of the price. This is most likely to occur when a worker’s tasks are routine and codifiable—that is, when the instructions for the tasks can be translated into code for a computer to carry out. In addition, automation is more able to replace workers in simplified, controlled environments. While computers can perform the most complex calculations in milliseconds, it is much more difficult to get a machine to write novels or care for children as effectively as humans do.",
+          "Machines complement labor when they allow workers to be more productive, but cannot—at least cannot fully —replace the worker. In other words, automation that complements human labor makes it easier for people to do their jobs and concentrate on what humans excel in, such as idea generation, problem solving, pattern recognition, and complex communication—all of which constitute computers’ weaknesses. 16"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Technology has historically led to job creation alongside increased labor productivity, but recent decades show stagnation in private employment despite productivity growth.",
+        "spans": [
+          "Throughout history, machines have helped workers to produce more output. In spite of concerns that automation would get rid of jobs or cause mass unemployment, technology has continually led to the creation of new jobs. In fact, history has proven that as labor productivity grew, so too did job growth. (This has not been the case recently however, a point we will return to). 18",
+          "So, even as labor productivity has increased—an effect usually accompanied by job growth—private employment has essentially remained stagnate since 2000. 35 (See Figure 2.)"
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Technology has contributed to job polarization, with growth in low-skill and high-skill jobs, but a decline in middle-skill jobs.",
+        "spans": [
+          "Thus, we have ended up with a polarized workforce—an effect that’s been occurring around the world. 58 As Autor has observed, job growth has increasingly become concentrated on the two opposite sides of the skill spectrum, while medium-skill jobs are shrinking. 59 Indeed, the share of US workers in low-skill and high-skill jobs both increased from 1979 to 2016. 60 (See Figure 3.) On the other hand, although just over 61% of US workers were employed in middle-skill jobs in 1979, this share fell to 43% in 2016. 61"
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "The gig economy and alternative work arrangements have grown as technology changes the nature of jobs, offering flexibility but also instability.",
+        "spans": [
+          "Lawrence Katz and Alan Krueger discovered that on top of the slowdown in employment, 94% of the net job growth from 2005 to 2015 was simply in temporary or unsteady work—as opposed to the previous decade, during which there was almost no growth in such “alternative work”. 37",
+          "Because jobs are no longer as stable as they have been, people have been turning to the “gig economy” to seek alternate forms of work. Thanks to two-sided platforms such as Uber, Lyft, Airbnb, Etsy, Samasource, Postmates, and TaskRabbit, people can now work whenever they want, as often as they’d like, more easily than ever. This benefits people young and old who do low-skill to high-skill work.",
+          "Clearly, the advantages of the gig economy go beyond providing cost-savings to firms and offering some sort of employment to workers. The gig economy offers “choice, autonomy, flexibility, and control”, that which full-time jobs don’t. 43"
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "To adapt to technological changes, workers should continuously update skills, focusing on tech literacy, manual and abstract skills, and seek complementary roles with machines.",
+        "spans": [
+          "Whether we like it or not, change is coming, and the worst move of all would be to ignore it.",
+          "Instead, as Brynjolfsson and McAfee like to say, we should continuously be investing in new skills to race with the machines. 63",
+          "Davenport and Kirby, as well as Autor recommend that people focus on becoming tech-literate and on improving their manual and abstract skills. 64 Learning how to code in various computer languages and knowing how to collect and analyze data, for example, would be immensely helpful in the race with machines. Manual skills such as dexterity and flexibility will also still be valuable in the near future, and further developing innate human qualities (i.e., abstract skills that machines aren’t good at—such as creativity, persuasion, empathy, pattern recognition, and complex communication) would certainly be beneficial. 65"
+        ]
+      }
+    ],
+    "clueweb22-en0045-70-01744": [
+      {
+        "point_number": 1,
+        "point_content": "Technology has created more jobs than it has displaced over the last century.",
+        "spans": [
+          "Over the last century, technology has created more jobs than it has displaced."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Technology and innovation are changing the nature of work, leading to demand for advanced cognitive skills and greater adaptability among workers.",
+        "spans": [
+          "technology and innovation are changing the nature of work, leading to demand for advanced cognitive skills and greater adaptability among workers."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Technology replaces some workers but also raises labour demand, creating more jobs than it displaces.",
+        "spans": [
+          "while technology replaces some workers, it also raises labour demand. Overall, technology that replaces routine work is estimated to have created more than 23 million jobs across Europe from 1999 to 2016"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The digital economy has expanded firm boundaries and changed the nature of firms, enabling companies to provide online services and profit from intangible assets.",
+        "spans": [
+          "The digital economy has expanded firm boundaries and driven a fundamental shift in the nature of firms. Physical presence is no longer a prerequisite to doing business: companies provide online services from abroad or profit from intangible assets such as software and intellectual property"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The demand for less-advanced skills that can be replaced by technology is declining, while demand for advanced cognitive and socio-behavioural skills and adaptability is rising.",
+        "spans": [
+          "The demand for less-advanced skills that can be replaced by technology is declining. At the same time, the demand for advanced cognitive skills (Krueger and Kumar 2004), socio-behavioural skills (Cunningham and Villaseñor 2016), and skill combinations associated with greater adaptability arerising (Hanushek et al. 2017)."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "The rise of platform marketplaces (gig economy) is changing the way people work and the terms on which they work.",
+        "spans": [
+          "The rise of platform marketplaces is also changing the way people work and the terms on which they work, through the so-called ‘gig economy’."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "The gig economy workforce is still a small proportion of the overall workforce globally, less than 0.5%.",
+        "spans": [
+          "The best estimate is that, globally, less than 0.5% of the active labour force participates in the gig economy."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Technology shifts the demand for workers’ benefits from employers towards directly demanding welfare benefits from the state, challenging traditional social protection systems.",
+        "spans": [
+          "Technology shifts the demand for workers’ benefits from employers towards directly demanding welfare benefits from the state."
+        ]
+      }
+    ],
+    "clueweb22-en0033-73-10275": [
+      {
+        "point_number": 1,
+        "point_content": "Technology enables managers to better formulate plans, make faster decisions, define jobs clearly, and monitor work activities efficiently.",
+        "spans": [
+          "With quick information from today’s technology managers can better formulate plans, make faster decisions, more clearly define the jobs that workers need to perform and monitor work activities."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Technology allows managers to supervise employees remotely, reducing the need for face-to-face interaction.",
+        "spans": [
+          "Through the advent of technological advancements, managers are able to supervise employees in remote locations, and the need for face-to-face interaction has decreased dramatically."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Telecommuting allows employees to work from anywhere, enabling businesses to hire workers globally and reduce labor costs.",
+        "spans": [
+          "Telecommuting capabilities that exist today made it possible for employees to be located anywhere on the globe.",
+          "With this potential employers no longer have to consider locating a business near its workforce.",
+          "Moreover, telecommuting offers an opportunity for a business in a high labor cost area to have its work done in an area where lower wages prevail."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Managers face challenges in communicating and ensuring performance in remote work settings, requiring new management approaches focusing on output rather than hours worked.",
+        "spans": [
+          "Effectively communicating with individuals in remote locations and ensuring that performance objectives are being met have become challenges.",
+          "Traditional face time is removed in decentralized work sites and managers need to control the work will have to change.",
+          "Instead more employees involvement becomes important, allowing workers to make decisions that affect them.",
+          "The emphasis then, will be on output, not means."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Technology allows employees to work at their own pace and location, maintaining connectivity with managers through devices like laptops.",
+        "spans": [
+          "Technology has changed the manager’s job, as today’s employees can perform their work at their own pace and from nearly any location.",
+          "Because technology like laptop computers enables connectivity between managers and employees, employees can efficiently and effectively complete their tasks even at the beach."
+        ]
+      }
+    ],
+    "clueweb22-en0035-73-05922": [],
+    "clueweb22-en0017-03-14584": [
+      {
+        "point_number": 1,
+        "point_content": "Technology has changed the workplace in an extraordinary way, allowing some jobs to be mobile that were previously desk-bound, and enabling many workers to do their jobs from almost any location at any time.",
+        "spans": [
+          "Technology has changed the workplace in an extraordinary way. It has allowed some jobs to be mobile that were previously desk-bound, and enabled many workers to do their jobs from almost any location at any time."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Technology evolves and replaces traditional ways of doing work, changing the nature of work, tools, practices, processes, and impacting required skills.",
+        "spans": [
+          "As technology evolves and replaces traditional ways of doing work, it not only changes the very nature of the work, including tools, practices and processes, it also impacts the skills required to adapt to this paradigm shift."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Jobs created or enhanced by technology, such as telemarketers and contact center agents, are being phased out as technology evolves, with users preferring self-care through technology-based support.",
+        "spans": [
+          "Jobs that were created or enhanced by technology, such as telemarketers and contact center agents, will soon find themselves phased out as technology evolves.",
+          "Telemarketing applications are already beginning to replace the physical person making outbound calls, and soon it may replace the contact center agent who answers inbound calls.",
+          "In fact, studies now show that modern technology users prefer to “self-care ” if given robust technology-based support, seeking human intervention only if those resources are inadequate to meet their needs."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Millennium Trends (SMIC) - Social platforms, Mobile applications, Information (Big Data), and Cloud computing - are transforming business and work interaction, driven by enabling technologies like M2M communications, mobile device penetration, and broadband speed evolution.",
+        "spans": [
+          "There is a lot of talk in the press about the “Millennium Trends” – also referred to as SMIC, an acronym for S ocial platforms, M obile applications, I nformation (“Big Data”) and C loud computing – which are transforming the way we define business, the way we do business and the way we interact with each other and deliver work.",
+          "Embedded in these trends are the associated underlying enabling technologies which are bringing about major advances toward digitization.",
+          "For example, the rate of change in terms of machine to machine (M2M) communications, mobile device penetration, and the evolution of broadband speeds in recent years has been extraordinary."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Cognitive systems, robotics, and the Internet of Things (connected machines) are technologies having the most dramatic impact on the evolution of the workplace.",
+        "spans": [
+          "Amongst the advances, a few technologies are having the most dramatic impact on the evolution of the workplace. These are cognitive systems, robotics and the “internet of things”, or connected machines."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Cognitive systems use natural language processing and machine learning to emulate human capabilities and are interconnected with Big Data and analytics, changing how business is done from historical analysis to real-time and predictive analytics.",
+        "spans": [
+          "Cognitive systems – the computing technology which focuses on how to emulate human capabilities, and uses both natural language processing and machine learning – go hand in hand with Information, or “Big Data”, and analytics; they are fundamentally interconnected and are here to stay.",
+          "The dynamics of doing business has dramatically changed in just a few years. We have moved from a situation where we focus on analysing past business performance and seek to correct mistakes using historical data, to one where we chart where the business is today based on real-time sales data, determine what opportunities will exist tomorrow by interpreting constantly updated market trends, and forecast the future based on analysing predictive patterns."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Robotics can perform many routine, repeatable activities, driving efficiencies and freeing workers for more complex tasks, and is becoming more pervasive in the workplace.",
+        "spans": [
+          "Robotics is another area of remarkable advancement. Many routine, repeatable activities can be learned and performed well by machines today – think of the automated vacuum cleaner that guides itself around the floors of your home - and sophisticated robotics have long had a place on the factory floor production line.",
+          "Robotics in the workplace is likely to become more pervasive, driving greater efficiencies and freeing workers to do more complex, interactive tasks."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Connected machines and M2M technology enable automation and remote management in various fields, such as agriculture and smart cities, improving efficiency and quality of life.",
+        "spans": [
+          "As micro-robotics has ever more connected systems, connected machines - where all machines in a system can be connected to operate as an integrated whole- have potential applications and benefits that go well beyond the factory floor thanks to M2M developments and the Internet of Things (IoT).",
+          "Orange is working with a Dutch company named Dacom which is using M2M technology to transform traditional farming into connected agriculture systems.",
+          "Connected systems automate data gathering and analysis so that the farmer no longer needs to go out into the field to check whether it needs to be irrigated – they can do so via M2M connected sensors using an App on their smartphone.",
+          "Similarly, smart cities are examples of how these technologies can be put to work to create high-performing connected environments which learn and adapt to people’s life patterns - turning lights or power on and off at specific times or optimizing water flow, for example."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "The skills required in the workforce must evolve with new technologies and business models, requiring new IT skills and skills from outside traditional IT fields.",
+        "spans": [
+          "As in previous workplace revolutions, the skills required to deliver the same work or deliver new services must change and adapt to new technologies and new business models.",
+          "With the advent of the Millennium Trends (SMIC) and their associated enabling technologies, the skills of IT professionals must evolve too.",
+          "IT professionals have always been at the forefront with innovative skills, but with the advance of technologies such as cognitive systems, robotics, and connected machines (IoT), not only are the required IT skill sets changing more than ever and at a rapidly accelerating rate, such as social media skills and more, but there will also be skills required from outside the field of traditional IT, such as those of gaming experts who now develop new user interfaces."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Jobs of the future will require technology-savvy people who can engage flexibly with customers and partners and adapt quickly as business becomes more nimble.",
+        "spans": [
+          "Jobs of the future will require people to be technology-savvy, to engage with customers and partners in flexible and dynamic ways, and to be capable of quickly adapting as business becomes more nimble and optimizes for each new opportunity."
+        ]
+      }
+    ],
+    "clueweb22-en0021-60-07735": [
+      {
+        "point_number": 1,
+        "point_content": "StepStone GMBh acquired conversational AI technology Mya on May 21, 2021, indicating the integration of AI technology in job-related processes.",
+        "spans": [
+          "StepStone GMBh acquired conversational AI technology Mya on May 21, 2021."
+        ]
+      }
+    ],
+    "clueweb22-en0038-76-16480": [
+      {
+        "point_number": 1,
+        "point_content": "Automation, digital platforms, and other innovations are changing the fundamental nature of work.",
+        "spans": [
+          "Automation, digital platforms, and other innovations are changing the fundamental nature of work."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Many activities that workers carry out today have the potential to be automated, affecting almost all occupations to a greater or lesser degree.",
+        "spans": [
+          "Many activities that workers carry out today have the potential to be automated.",
+          "partial automation (where only some activities that make up an occupation are automated) will affect almost all occupations to a greater or lesser degree."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Digital talent platforms improve matching between workers and jobs, creating transparency and efficiency in labor markets, and potentially raising GDP.",
+        "spans": [
+          "Digital talent platforms have the potential to improve the ways workers and jobs are matched, creating transparency and efficiency in labor markets, and potentially raising GDP."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Digitally-enabled independent work is on the rise, with platforms like Uber and Etsy enabling new forms of work and income generation.",
+        "spans": [
+          "The proportion of independent work that is conducted on digital platforms, while only about 15 percent of independent work overall, is growing rapidly, driven by the scale, efficiency, and ease of use for workers and customers that these platforms enable.",
+          "Such platforms include Uber, Etsy, Didi, and others."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Technology creates new jobs and income possibilities, including jobs that did not exist before, such as IT development and data analysis.",
+        "spans": [
+          "Even while technologies replace some jobs, they are creating new work in industries that most of us cannot even imagine, and new ways to generate income.",
+          "One-third of new jobs created in the United States in the past 25 years were types that did not exist, or barely existed, in areas including IT development, hardware manufacturing, app creation, and IT systems management."
+        ]
+      }
+    ]
+  }
+}

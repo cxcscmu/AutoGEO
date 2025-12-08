@@ -1,0 +1,131 @@
+{
+  "question": "why centers of excellence fail",
+  "key_points": {
+    "null": [],
+    "clueweb22-en0020-22-07993": [
+      {
+        "point_number": 1,
+        "point_content": "Leadership’s mental bandwidth is occupied with Globalization transition management",
+        "spans": [
+          "Leadership’s mental bandwidth is occupied with Globalization transition management"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Leadership and senior management spend time and energy on logistics and other tactical operations instead of technology and product development",
+        "spans": [
+          "Leadership and senior management spend time and energy on logistics and other tactical operations instead of technology and product development"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Lack of on-ground support in the selection and management of vendors (legal, entity incorporation, hiring, real estate, technology experts)",
+        "spans": [
+          "Lack of on-ground support in the selection and management of vendors (legal, entity incorporation, hiring, real estate, technology experts)"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Challenges around selecting the right location due to lack of knowledge and insights on the local ecosystems and capabilities",
+        "spans": [
+          "Challenges around selecting the right location due to lack of knowledge and insights on the local ecosystems and capabilities"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Difficulty in the identification of the right project/product to transition",
+        "spans": [
+          "Difficulty in the identification of the right project/product to transition"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Long waiting time before the center is set up, resulting in a delay in starting actual technology development",
+        "spans": [
+          "Long waiting time before the center is set up, resulting in a delay in starting actual technology development"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Lack of infrastructure to get started with the hiring process, which leads to substandard hiring experience for candidates",
+        "spans": [
+          "Lack of infrastructure to get started with the hiring process, which leads to substandard hiring experience for candidates"
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Lack of maturity in new centers",
+        "spans": [
+          "Lack of maturity in new centers."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Lack of flexibility in scaling operations, which includes ramping up beyond the initially estimated office space capacity or the sunk cost of ‘unused real estate or other infrastructure’ as you ramp up",
+        "spans": [
+          "Lack of flexibility in scaling operations, which includes ramping up beyond the initially estimated office space capacity or the sunk cost of ‘unused real estate or other infrastructure’ as you ramp up"
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Complex regulatory and compliance mandates in some geographies and lack of local support to manage the regulatory expectations can hinder the center setup process",
+        "spans": [
+          "Complex regulatory and compliance mandates in some geographies and lack of local support to manage the regulatory expectations can hinder the center setup process"
+        ]
+      }
+    ],
+    "clueweb22-en0027-63-16204": [
+      {
+        "point_number": 1,
+        "point_content": "CoEs are typically established when there is a need to develop expertise and standards in an area/component used by multiple products and solutions in the organization.",
+        "spans": [
+          "CoEs are typically established in one of the following two scenarios: When there is a need to develop expertise and standards in an area/component used by multiple products and solutions in the organization."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "CoEs are also established when there is a need for a new skill in the organization that must be developed organically through an incubation CoE.",
+        "spans": [
+          "When there is a need for a new skill in the organization that must be developed organically through an incubation CoE."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "CoEs are not impacted by the day to day business of an organization and do not have to deal with immediate revenue pressures, allowing them to focus on a single business activity, process, or capability.",
+        "spans": [
+          "CoEs are not impacted by the day to day business of an organization. They do not have to deal with immediate revenue pressures and are free to channel their expertise and focus on a single business activity, process, or capability."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "CoEs have the flexibility to innovate fast and fail fast, as they are not limited by all the process overheads that typical product teams may have to deal with.",
+        "spans": [
+          "CoEs are not limited by all the process overheads that typical product teams may have to deal with. They have the flexibility to innovate fast and fail fast."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "To stand out, organizations must make sure that they have the right ingredients to establish an effective and successful CoE.",
+        "spans": [
+          "To stand out, organizations must make sure that they have the right ingredients to establish an effective and successful CoE."
+        ]
+      }
+    ],
+    "clueweb22-en0025-58-04518": [
+      {
+        "point_number": 1,
+        "point_content": "The text does not provide information on why centers of excellence fail.",
+        "spans": [
+          "Centers of Excellence | Homeland Security",
+          "Welcome to the Centers of Excellence",
+          "The DHS S&T Centers of Excellence (COEs) develop multidisciplinary, customer-driven, homeland security science and technology solutions and help train the next generation of homeland security experts.",
+          "Providing Practical Homeland Security Solutions",
+          "The Office of University Programs (OUP) makes it easy to access academia to conduct basic and applied research. COEs are university-led research and education assets that provide rigorous, objective research to help anticipate and combat challenges facing the Homeland Security Enterprise. The COEs develop countermeasures, mitigation, and prevention approaches and technologies relevant to DHS missions. The COEs are designed to (a) work with and complement DHS research and development programs, including federal laboratories’ homeland security research; (b) take advantage of other related federally-sponsored research; and (c) provide outcomes useful to federal, state, and local governments, private sector, and international partners. The COEs leverage extensive public and private networks, provide individualized services to DHS Components, assist with finding needed research and development (R&D) capabilities, and promote technology transfer, transition, and commercialization. COE partners include academic institutions; industry; national laboratories; DHS operational Components; S&T divisions; other federal agencies; state, local, tribal and territorial homeland security agencies; and first responders.",
+          "Active Centers of Excellence",
+          "Emeritus Centers of Excellence",
+          "Centers of Excellence Successes"
+        ]
+      }
+    ]
+  }
+}

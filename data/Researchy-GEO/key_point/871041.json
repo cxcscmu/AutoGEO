@@ -1,0 +1,842 @@
+{
+  "question": "how does cell phone change our life?",
+  "key_points": {
+    "null": [],
+    "clueweb22-en0039-88-06529": [
+      {
+        "point_number": 1,
+        "point_content": "Cell phones have enabled multitasking by allowing communication with the office while doing other tasks like grocery shopping or caring for a sick child.",
+        "spans": [
+          "Cell phones have brought a whole new meaning to the term multitasking.",
+          "Twenty years ago, it was not possible to talk to the office while you were at the grocery store picking up some necessary items.",
+          "You could never have had a three-way business conference while you were fixing dinner or been able to deal with a business client from home while caring for a sick child.",
+          "Cell phones have enabled us to do various tasks all at the same time."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Cell phones help families keep in closer touch and provide safety features like GPS to monitor children.",
+        "spans": [
+          "Cell phones have also enabled families to keep in closer touch with each other.",
+          "Children can contact you if they have missed their ride form soccer practice and your spouse can call while he is stuck in traffic to let you know that he is going to be late for supper.",
+          "Teenagers are able to call to ask permission to go somewhere, and with GPS features that are now available on some cell phones, you are able to check to make sure that they are where they are suppose to be."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Cell phones have made life more convenient by allowing quick access to information and help, such as calling home for a grocery list or calling for help if the car breaks down.",
+        "spans": [
+          "Many of these advantages we do not even notice.",
+          "Have you ever arrived at the grocery store and realized that you have forgotten your grocery list?",
+          "The first thing you would probably do is to call home and have one of your children read the list off to you.",
+          "In the same situation in past years, you may have forgotten things or have had to drive all the way back home to get it.",
+          "If your car breaks down, you automatically call for help instead of having to walk to find a pay phone.",
+          "Cell phones have certainly made our lives much more convenient."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Cell phones have changed social interactions by allowing spontaneous communication and renegotiation of appointment times.",
+        "spans": [
+          "Cell phones have also changed the way that people interact with each other.",
+          "When we call someone, we are actually calling the person and not a place.",
+          "This enables us to be more spontaneous when making plans as you rarely get a busy signal and unlike a land line telephone, someone is always home.",
+          "Cell phones also enable us to call if we are going to be late for an appointment, although this has led to cell phone users running late more often than those who do not have cell phones.",
+          "These users seem to have adopted the attitude that appointment times are not concrete and use their cell phones to renegotiate their arrival time."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Cell phones have reduced face-to-face interactions with strangers and neighbors, leading to a loss of social contact.",
+        "spans": [
+          "One of the greatest disadvantages of the cellular phone is the fact that we do not talk to strangers when traveling anymore.",
+          "In the past, several people waiting for a bus would engage in a conversation while they were waiting.",
+          "People who traveled the same routes every day might develop friendships along the way.",
+          "This situation does not happen anymore.",
+          "Today when people are waiting for a bus, they just pull out their cell phones and speak with old friends, missing out on the opportunity to make new ones.",
+          "In large cities, many people do not know their neighbors, even though they may have lived in the same neighborhood for years.",
+          "As a society, we are beginning to lose the face-to-face contact that was such an important part of our lives in the past."
+        ]
+      }
+    ],
+    "clueweb22-en0003-08-20048": [
+      {
+        "point_number": 1,
+        "point_content": "Cell phones are now a primary way of communicating and keeping one’s social life in tact.",
+        "spans": [
+          "Cell phones are now a primary way of communicating and keeping one’s social life in tact."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Young adults rely on text messaging to be their primary way of communicating with friends.",
+        "spans": [
+          "Young adults send text messages much more often than older groups",
+          "This is because young adults rely on text messaging to be their primary way of communicating with friends."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Expectations in relationships have shifted due to attachment to phones and quick response times.",
+        "spans": [
+          "Expectations in relationships have shifted. Because people are attached to their phone and can virtually text from anywhere, people expect quick response times."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Communication skills are suffering because of reliance on text messaging and less face-to-face conversation.",
+        "spans": [
+          "some researchers are finding that communication skills are suffering.",
+          "we’ve actually moved away from conversation in a way that my research was showing is hurting us."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Cell phones can hurt face-to-face conversations as many people use phones during interactions.",
+        "spans": [
+          "89% of Americans took out a phone in their last conversation with someone and 82% said it hurt the conversation they were actually having."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Cell phones provide constant connection, allowing communication across time zones at any time.",
+        "spans": [
+          "With a cell phone, you are always connected to people. You can send a message at any time and contact people easily across time zones."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Cell phones provide limitless access to education, information, and accessibility.",
+        "spans": [
+          "Cell phones provide a limitless resource in terms of education, information, and accessibility in the palm of your hands."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Cell phones save time and increase efficiency by allowing many tasks to be done on the go.",
+        "spans": [
+          "Cell phones allow you to do so much on the go, which can save you time."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Social networking apps on cell phones have changed how people make and maintain friendships and share memories.",
+        "spans": [
+          "Social networking apps have changed how people make friends, maintain friendships, and share memories."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Cell phones pose security risks due to storing personal information and potential hacking or theft.",
+        "spans": [
+          "We store so much of our information on our cell phones.",
+          "people are always at risk of being hacked or the phone being stolen."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Heavy reliance on cell phones limits personal memory and knowledge of phone numbers.",
+        "spans": [
+          "We rely so heavily on our phones for directions and information that we are limiting the power of our personal memory."
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "Cell phones have decreased live communication skills and may enable anti-social behaviors.",
+        "spans": [
+          "they have also hurt live interactions because people are constantly on their phones or checking them which detracts from the present moment.",
+          "They also may enable anti-social behaviors because people get buried in their phones."
+        ]
+      },
+      {
+        "point_number": 13,
+        "point_content": "Cell phone addiction can reduce time spent in nature and outdoor activities.",
+        "spans": [
+          "When you give a child a cell phone, for example, they may spend more time with technology and less time playing outside."
+        ]
+      },
+      {
+        "point_number": 14,
+        "point_content": "Many people have an addiction to their cell phones and can’t function without them.",
+        "spans": [
+          "A lot of people have an addiction to their cell phones and can’t function without them."
+        ]
+      },
+      {
+        "point_number": 15,
+        "point_content": "Use of text lingo and emojis on cell phones has changed writing and communication, sometimes at the expense of proper grammar.",
+        "spans": [
+          "Since people abbreviate and use text lingo when on their phones, it has changed the way people write and communicate.",
+          "The use of emojis has become a language in itself, and this is sometimes at the expense of proper grammar usage."
+        ]
+      },
+      {
+        "point_number": 16,
+        "point_content": "Cell phones reduce empathy by losing important aspects of communication like body language, tone, and eye contact.",
+        "spans": [
+          "More often than not, the ability for true understanding and, in turn, empathy relies on body language, tone of voice, and eye contact.",
+          "With cell phones, we often lose these important aspects of communication, such that empathy may suffer."
+        ]
+      },
+      {
+        "point_number": 17,
+        "point_content": "Cell phones have changed how we learn, enabling digital learning and online degrees.",
+        "spans": [
+          "We are able to learn so much digitally.",
+          "Just look at online universities as a primary depiction of this."
+        ]
+      },
+      {
+        "point_number": 18,
+        "point_content": "Cell phones can both help and hurt memory by offloading information and reducing observational skills.",
+        "spans": [
+          "Cell phones can both help and hurt our memory.",
+          "relying on GPS rather than memory to navigate means that you are less observant of your surroundings.",
+          "phones are our memory partner. Since they can save so much information for us, it may offload from our brain and give us the space we need to remember the important things."
+        ]
+      },
+      {
+        "point_number": 19,
+        "point_content": "Cell phones have reshaped communication in both good and bad ways, depending on how humans use them.",
+        "spans": [
+          "Cell phones have reshaped communication in both good and bad ways.",
+          "because a cell phone is a tool, it depends on how we as humans use them to determine if they are ultimately serving us or hurting us."
+        ]
+      }
+    ],
+    "clueweb22-en0039-70-00224": [
+      {
+        "point_number": 1,
+        "point_content": "The cell phone has become a large part of our American culture and is used for both personal and business demand.",
+        "spans": [
+          "The cell phone, or mobile phone, has become a large part of our American culture.",
+          "They are used for both personal and business demand"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Cell phones have dramatically changed our lives with both good and arguably bad results.",
+        "spans": [
+          "Our lives have changed quite dramatically with the invention of the cell phone, with both good and arguably bad results."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Cell phones allow business users to rely heavily on email functions and new technologies like GPS and breathalyzer functions.",
+        "spans": [
+          "The business user of today relies heavily on the email functions built into cell devices, like the Blackberry and the Treo.",
+          "One very new technology is the ability to use your cell phone as a global positioning unit to help speed you through daily traffic.",
+          "LG, a large manufacturer of cell phones in Korea, is working on a new mobile phone that will also work as a breathalyzer."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Cell phones have a dark side including health risks and causing traffic accidents.",
+        "spans": [
+          "Even with all the great technology used in cell phones, it can be argued that mobile technology also has a dark side.",
+          "Cell phones have been blamed for brain tumors, radiation sickness, electromagnetic interference, and electromagnetic sensitivity sicknesses, along with many other illnesses and conditions.",
+          "Another negative aspect of cell phones to consider is that these devices can also lead to traffic accidents."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Cell phone use has exploded in today's society, with people obsessed and centering everything around their cell phones.",
+        "spans": [
+          "Today’s society is a generation that is being raised on conveniences, and with this generation, cell phone use has exploded.",
+          "Millions of people are obsessed with their cell phones and literally will not leave their house without it.",
+          "People center everything they do around their cell phone."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Cell phones have changed society by allowing constant communication and connecting individuals to social media and new marketplaces.",
+        "spans": [
+          "Cell phones have changed our society by allowing constant communication.",
+          "Cell phones, or smart phones have affected the lives of many individuals in our country by providing a direct line of communication, access to social media, and connect individuals to new marketplaces and jobs."
+        ]
+      }
+    ],
+    "clueweb22-en0024-05-02419": [
+      {
+        "point_number": 1,
+        "point_content": "Cell phones have changed the way human beings socialize, transact businesses and communicate in general.",
+        "spans": [
+          "The invention of mobile phones changed the way human beings socialize, the way they transact businesses and communicate in general."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Cell phones represent a complete transformation in communication compared to landlines.",
+        "spans": [
+          "Cell phones represent a complete transformation in the way human beings communicate. Unlike landlines which relied on cables to convey messages from one person or one end to the other, cell phones rely on signals."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Social media on cell phones has significantly increased access to information and social interaction.",
+        "spans": [
+          "Social media sites, particularly Facebook and Twitter, have significantly increased cell phone users’ access to information.",
+          "Today, a cell phone user can register on mobile phone social site applications such as Facebook, Twitter or Instagram and instantly get access to profiles of thousands of other users.",
+          "He can then chat with others, share photos, and share information instantly.",
+          "In the modern world, a social media user can see live pictures of an event happening thousands of miles away right on their mobile phone.",
+          "A Facebook user in remote parts of Vietnam can post live videos of an event occurring in his village and the entire world gets access to it before traditional media sources such as television or radio air such events."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Cell phones allow people to watch live events remotely, increasing family interaction time.",
+        "spans": [
+          "Additionally, people no longer have to go to sports events or rely on television to get live access to such events as football or rugby matches.",
+          "The same is accessible via smartphone mobile application subscriptions.",
+          "Consequently, users can stay with their families and watch matches live on their cell phones.",
+          "Families now have more time to interact."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Cell phones strengthen connections among family members and friends, especially those far apart.",
+        "spans": [
+          "Cell phones have not only made life easier but they have also strengthened connections, mostly among family members and friends.",
+          "For family members who are far away from one another, probably in different continents, cell phones give them an opportunity to stay in touch on regular basis.",
+          "It is also economical to call someone who is in distant places than to travel there.",
+          "For instance, a son in Germany can call his father in the United States on daily basis, which ensures that each of them is updated on the family members’ progress."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Text messages are a convenient, cheap, and effective way of communication among young mobile users.",
+        "spans": [
+          "Furthermore, the use of text messages is widely accepted among young mobile users as a convenient way of communicating.",
+          "They are cheap and effective.",
+          "Unlike traditional written communication such as letters, texts are delivered instantly and provide for immediate feedback."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Mobile and online banking through cell phones make life more convenient and strengthen family bonds.",
+        "spans": [
+          "Human life has been made more convenient with the introduction of mobile and online banking services.",
+          "Family members can now send and receive money through mobile phones.",
+          "Finance is at the center of most family’s stability hence financial transactions effected through mobile and online banking strengthen family bonds."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Smartphones have advanced game applications that enable users to interact and keep busy.",
+        "spans": [
+          "Furthermore, smartphones have advanced game applications which enable users to keep themselves busy, while at the same time interacting with one another.",
+          "Online games, such as Pokemon are tension-filled and challenge a user’s mental and emotional capability as they interact with other users online."
+        ]
+      }
+    ],
+    "clueweb22-zh_chs0006-77-13991": [],
+    "clueweb22-en0029-39-07397": [
+      {
+        "point_number": 1,
+        "point_content": "Cell phones became integral to identity and everyday life, proving their usefulness by users' dependence on them.",
+        "spans": [
+          "Portable devices like the pager and cell phone, through both mundane use and tragedies like September 11, became anytime, anywhere companions, integral to identity itself.",
+          "The cell phone has proved this many times over."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Cell phones changed communication during emergencies, such as on September 11, 2001.",
+        "spans": [
+          "On September 11 of that year, terrorists hijacked airplanes and launched attacks in New York, Washington, and Pennsylvania. On at least one of the hijacked planes, passengers used cell phones to communicate with family members on the ground.",
+          "In the North Tower of the World Trade Center, pagers were the principal source of news for those trying to get out. Long lines formed at pay phones around Manhattan."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Cell phones have become more widespread and accessible than many other utilities, like flush toilets.",
+        "spans": [
+          "What surprised even me was the speed and scope of adoption. I did not imagine that more people in the world would eventually have access to cell phones than flush toilets."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Cell phones have evolved from simple portable phones to smartphones, becoming computers in their own right.",
+        "spans": [
+          "But we certainly didn’t imagine that the cell phone would become a smartphone, a computer in its own right."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Cell phones have replaced wired phones and car phones due to their portability and practicality.",
+        "spans": [
+          "By 2000 it was difficult to buy a car phone; the handheld had taken over.",
+          "By the 2000s, the collapse of wired telephone subscribers had started."
+        ]
+      }
+    ],
+    "clueweb22-en0043-36-10032": [
+      {
+        "point_number": 1,
+        "point_content": "Cell phones have changed the way world citizens communicated and expressed themselves.",
+        "spans": [
+          "Cell phones have changed the way world citizens communicated and expressed themselves."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Cell phones have made communication simple, affordable, and efficient, making the world a smaller place.",
+        "spans": [
+          "Cheaper calls have made communication more affordable and efficient.",
+          "The World Has Become a Smaller Place"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Cell phones allow people to keep in touch easily without being tied to a location like with landlines.",
+        "spans": [
+          "Going back to the ‘days of landlines’ where to attend an important call we had to cancel our plans and wait back home instead. That is not the case anymore. A cell phone has made communication so feasible that you can actually talk to or at least say a “Hi” to almost all your friends every single day."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Cell phones provide easy access to knowledge and information through the internet.",
+        "spans": [
+          "The Internet which was previously limited to a computer, then graced the laptop and now phones, has made spread of knowledge and information easy and quick."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Cell phones have replaced traditional letters with texts and emails, making communication faster.",
+        "spans": [
+          "It will not be wrong to say that writing letters today has become an ancient practice. What people now do is to simply send texts or emails through their phones."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Smartphones combine many functions such as music, reading, social networking, games, payments, and more, changing our ways of life.",
+        "spans": [
+          "Cell phones, especially Smart Phones have everything you need! You can listen to songs, read books, access news, social networking sites and play games – all on your phone. It has in fact changed our very ways of life."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Cell phones have become an essential source of spending time and companionship.",
+        "spans": [
+          "Phones have practically become an essential source of spending time. When you have nothing to do or no one is with you, all you need is your phone to be your companion or the special unit you can do an activity with."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Phone numbers have become personal identities used by companies and organizations to communicate directly.",
+        "spans": [
+          "Companies, institutions, and organizations who once needed to take a customer’s or a client’s full address to communicate with them, now only need their phone numbers."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Excessive use of cell phones can lead to laziness, reduced physical activity, and less face-to-face interaction.",
+        "spans": [
+          "Now, we don’t need to go out to buy groceries to pay our bills, and to go out and play. All we need is a cell phone and we can get the groceries delivered at home, our bills are paid on the dial of a number and we now love to play soccer and pool on our phones.",
+          "Not meeting your friends or family face to face, is an easy possibility. Because you interact with them every day on Facebook."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Cell phones have caused a cultural shift in social etiquette and traditional practices.",
+        "spans": [
+          "A cultural shift has been observed in ethics, and the traditional ways followed. For example: talking while eating was considered as bad manners. However, today it has become a common habit because so much is dependent on cell phones that its untimely and unrestricted use has been accepted worldwide."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Cell phones are shifting young minds away from reality, reducing time spent on books, sports, and nature.",
+        "spans": [
+          "A recent survey has shown that cell phones are shifting the young minds away from reality. This is because most of their time is spent in texting, chatting or talking on the phone, not allowing them to spend time with books, playing sports, with nature and with the real life."
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "Excessive texting and cell phone use can cause health problems like repetitive stress injuries, sleep disorders, and other diseases.",
+        "spans": [
+          "There have been reports of people facing health problems like thumb pain i.e. repetitive stress injuries (RSI) and sleep disorders (like insomnia) because of constant and untimely texting.",
+          "Excessive usage of cell phones can also contribute to the following diseases: Parkinson’s, Heart Diseases, Brain Tumors, Cancer, Blood Pressure, Headaches and Fatigue, Weak Memory or Memory Loss Problem, Bad Posture"
+        ]
+      }
+    ],
+    "clueweb22-en0019-47-12562": [
+      {
+        "point_number": 1,
+        "point_content": "Mobile phones have become a multi-featured gadget and a necessity for all, evolving from simple hand-held devices to 3G or 4G mobiles with unique features.",
+        "spans": [
+          "from simple hand-held mobile phones it has now become a multi-featured gadget, a necessity for all",
+          "Initially, those phones were referred to as OG mobile phones (Zero Generation Mobile Phones) which now-a-days has turned into 3G or 4G mobiles with lots of new, unique features"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Mobile phones keep us connected with loved ones regardless of distance through calls, texts, emails, video calls, and social media.",
+        "spans": [
+          "The main purpose of mobile phones is to keep us connected with our loved ones regardless of the distance",
+          "It helps us to stay connected with our family, friends, loved ones and society as well in variety of ways including: Calling, Text/Messages, E-mail, Video calling, Public or Social media"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Mobile phones serve as a storehouse of knowledge, providing access to the internet and learning apps for education and skill development.",
+        "spans": [
+          "A mobile phone can be considered as an important learning tool",
+          "With the help of the internet, we can find a suitable solution to each problem, satisfactory answers to each question and clarification of every doubt immediately",
+          "Mobile phones with several learning apps prove beneficial for the students also to carry on their learning in an effective and interesting way to sharpen their skill and to upgrade their knowledge as well"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Mobile phones have multiple utilities beyond communication, such as calculations, reminders, torch, and file transfer.",
+        "spans": [
+          "Besides calling or staying in touch with others, one can easily use mobile for making calculations, setting reminders for some occasion, birthday, meetings or activities",
+          "It can be easily used as a torch whenever required",
+          "With the help of ‘WhatsApp’, ‘Emails’, ‘Bluetooth’ files and documents can be transferred from one device to another"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Mobile phones provide a sense of security by enabling emergency calls and location tracking through GPRS.",
+        "spans": [
+          "Mobile phones are important tools for emergency services also",
+          "It’s a safety gadget which helps us to track exact locations through GPRS",
+          "In emergency situations like accidents, car breakdown, physical illness or medical emergencies, you can always call for rescue or help"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Mobile phones offer entertainment through videos, music apps, games, movies, and cartoons.",
+        "spans": [
+          "Mobile phones, now-a-days, has become a source of entertainment for all its users by providing — Videos for meditation/ different exercises — Access to internet — Apps for listening music — Thousands of online and offline games application — Apps for watching movies or videos — Opportunity for children to watch videos and cartoon on mobile devices"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Mobile phones allow capturing memorable moments anytime and anywhere with high definition cameras.",
+        "spans": [
+          "Through the help of high definition cameras, mobile helps us to capture our memorable moments throughout our life",
+          "This picture can be clicked any time, anywhere to be remembered forever"
+        ]
+      }
+    ],
+    "clueweb22-en0013-97-17244": [
+      {
+        "point_number": 1,
+        "point_content": "Cell phones have become ubiquitous and are no longer just luxury goods, with more than 4 billion people owning one, changing the way life is lived globally.",
+        "spans": [
+          "More than 4 billion of the 6 billion people on earth now have a cell phone",
+          "many are using them, in a giant global experiment, to change the way life is lived"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Cell phones provide convenience and connectivity, allowing people to communicate quickly instead of traveling long distances.",
+        "spans": [
+          "Before, these farmers, if they wanted to check on a sick relative elsewhere, had to walk three hours in each direction. Now they just make a call."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Cell phones enable financial transactions and banking in areas with limited banking infrastructure.",
+        "spans": [
+          "In Kenya, the main service, M-Pesa, moves millions of dollars per day by text message.",
+          "the ability to SMS means that Masai farmers can bank the money from the sale of a cow instead of carrying the cash."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Cell phones help distribute medicine by reporting stock-outs in real time, improving healthcare delivery.",
+        "spans": [
+          "Activists send a simple text message to a central number reporting which drugs are out of stock. The information is collated in a virtually real-time map"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Cell phones impact political and social movements by enabling secret communication and reporting in oppressive regimes.",
+        "spans": [
+          "Iranian protesters to organize in secret",
+          "Cell phones present a problem for oppressive regimes everywhere",
+          "people are able to report violent incidents and government oppression in a way they couldn't before."
+        ]
+      }
+    ],
+    "clueweb22-en0045-13-01779": [
+      {
+        "point_number": 1,
+        "point_content": "Americans touch their mobile devices more than 2,600 times a day on average.",
+        "spans": [
+          "Americans touch their mobile devices more than 2,600 times a day"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Excessive smartphone use could result in profound changes to our brains and to society.",
+        "spans": [
+          "Excessive smartphone use could result in profound changes to our brains and to society"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "A child's brain may develop differently with heavy use of digital devices.",
+        "spans": [
+          "Initial data from a $300-million study by the National Institutes of Health, for example, now provides evidence that a child's brain may indeed develop differently with heavy use of digital devices."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The more tethered we are to our phones, the harder it is to think deeply, attentively and conceptually, and to remember basic information.",
+        "spans": [
+          "The more tethered we are to our phones, studies show, the harder it is to think deeply, attentively and conceptually — not to mention remember basic information."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The mere presence of a smartphone reduces the quality of conversations and lowers scores on tests of short-term memory and problem solving.",
+        "spans": [
+          "The mere presence of a smartphone seemed to reduce the quality of conversations in one study.",
+          "Another study found a link between having a smartphone within sight, even if turned off, with lower scores on tests of short-term memory and problem solving."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Smartphones inhibit people from offering help to strangers, reduce smiling at unfamiliar faces, and lessen trust of strangers and people of other religions or nationalities.",
+        "spans": [
+          "Research suggests that smartphones can inhibit people from offering help to strangers on the street, reduce how much we smile at unfamiliar faces in a waiting room and even lessen our trust of strangers, neighbors and people of other religions or nationalities."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Smartphone use is linked to weakened social skills, including inability to read emotions or initiate casual conversations.",
+        "spans": [
+          "researchers have also begun to link weakened social skills, including the inability to read emotions or initiate casual conversations, to smartphone use."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Smartphones correlate with a decline in in-person social interaction and a rise in mental health problems among teens and young adults.",
+        "spans": [
+          "Twenge noticed a troubling correlation between when smartphones became popular and when rates of mental health problems among teens and young adults began skyrocketing.",
+          "It's also when the decline of in-person social interaction began to accelerate."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Smartphones contribute to societal polarization by amplifying negative trends and pushing information that reinforces existing points of view.",
+        "spans": [
+          "It clearly adds to the polarization of society and people getting more and more extreme in their views.",
+          "Now, thanks to Facebook, Twitter and other smartphone apps whose makers push us information that they think will appeal to us, we no longer need to search for that confirming information; it simply pours out of our phones, Carr said."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "People are less deliberate and more raw in their online posts when composing them on smartphones, leading to more trolling and polarization.",
+        "spans": [
+          "We are likely to be less deliberate in our tweets and online posts when composing them on our phones compared to our laptops.",
+          "We will be more glib, more raw and less sugar-coated in our commentary, leading to more trolling and polarization in online spaces."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Smartphones have practical benefits such as easier navigation, dating, and keeping up with friends and news.",
+        "spans": [
+          "It's harder now to get lost, but easier to find a date and keep up with friends, kids and the news."
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "Smartphones can reduce casual social interactions which are important for human connection and happiness.",
+        "spans": [
+          "People don't talk about or realize that we actually get quite a lot from casual social interactions.",
+          "Even when phones are at their most useful — such as when we're bored to death in the waiting room — there might be other things we're missing out on.",
+          "Whether it's someone you've never met or it's friends and family, spending time with people face to face is linked with happiness."
+        ]
+      },
+      {
+        "point_number": 13,
+        "point_content": "Some interventions like turning off notifications, not sleeping with the phone nearby, and using grayscale screens can help reduce negative effects of smartphone use.",
+        "spans": [
+          "Veissiere's lab is now testing simple interventions for smartphone users, such as turning off instant notifications, not sleeping with the phone next to you and switching the screen to gray scale to make it less attractive."
+        ]
+      },
+      {
+        "point_number": 14,
+        "point_content": "Reducing smartphone use can improve productivity, social interactions, and mood.",
+        "spans": [
+          "In early 2017, Veissiere became concerned enough about the consequences of his own smartphone use to make a bold move: He swapped out his latest greatest iPhone for an old flip phone with no internet connectivity.",
+          "I have been more productive at work. My social interactions are great. My mood is great, said Veissiere"
+        ]
+      }
+    ],
+    "clueweb22-en0024-09-08214": [
+      {
+        "point_number": 1,
+        "point_content": "Smartphones have become a vital part of our lives and without them we feel like only half a person.",
+        "spans": [
+          "Smartphones have become a vital part of our lives and without them we feel like only half a person."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Most of us use their smartphone every day, to surf the internet and social media platforms, check emails, manage calendars, listen to music, play games, watch videos, take photos, read the news, write text messages and also, every now and then we use them for their original purpose, to make phone calls.",
+        "spans": [
+          "Most of us use their smartphone every day, to surf the internet and social media platforms, check emails, manage calendars, listen to music, play games, watch videos, take photos, read the news, write text messages and also, every now and then we use them for their original purpose, to make phone calls."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Smartphones have changed the way we live quite drastically.",
+        "spans": [
+          "Consequently, smartphones have changed the way we live quite drastically."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Today we can access any kind of information 24/7, wherever we are.",
+        "spans": [
+          "Today we can access any kind of information 24/7, wherever we are."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Our smartphone offers us several ways of communication: calls, text messaging, instant messaging, email, social media, blogs, etc.",
+        "spans": [
+          "Our smartphone offers us several ways of communication: calls, text messaging, instant messaging, email, social media, blogs, etc."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "We are constantly connected and expected to have a mobile phone with us at all times.",
+        "spans": [
+          "We are constantly connected and expected to have a mobile phone with us at all times."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Being available 24/7 is tiring, it’s a blessing and a curse.",
+        "spans": [
+          "Of course, that’s convenient, but being available 24/7 is tiring, it’s a blessing and a curse."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "The mobile industry developed one device that made several others obsolete.",
+        "spans": [
+          "Taking this fact into account the mobile industry developed one device that made several others obsolete."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Sales dropped for landline phones, desktop computers, digital cameras, mp3 players, gps devices, etc.",
+        "spans": [
+          "Sales dropped for landline phones, desktop computers, digital cameras, mp3 players, gps devices, etc."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "The desktop computer used to be the most irreplaceable tech piece in our lives, but during the last months the smartphone has taken its place.",
+        "spans": [
+          "The desktop computer used to be the most irreplaceable tech piece in our lives, but during the last months the smartphone has taken its place."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Our smartphone is our personal assistant that helps us mastering our everyday life.",
+        "spans": [
+          "Our smartphone is our personal assistant that helps us mastering our everyday life."
+        ]
+      }
+    ],
+    "clueweb22-en0006-40-15492": [
+      {
+        "point_number": 1,
+        "point_content": "Software updates are the lifeblood of a smartphone and introduce new features and fix bugs and security issues.",
+        "spans": [
+          "software updates are the lifeblood of a smartphone",
+          "The big Android software updates always introduce new features, while the point update generally just fix bugs and security issues."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Most Android phones only get software updates for 2 to 3 years, which is less than iPhones that get updates for 5 to 6 years.",
+        "spans": [
+          "most Androids only get software updates for 2 to 3 years–including security updates",
+          "Android’s competitor, the iPhone, gets software updates for 5 to 6 years–double the time Android phones get updates."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "If you want the latest OS, you need to upgrade your Android phone at least every three years.",
+        "spans": [
+          "If you’re the type of person that likes their phone to have the latest OS, then you’re gonna need to upgrade your Android phone at least every three years"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Even outdated Android phones can still function for basic tasks like calls, texts, web browsing, and app downloads.",
+        "spans": [
+          "there are Android phones that still only run Android 4.4, yet they work just fine",
+          "You can still make and receive calls, send texts, browse the web, and download many apps on them"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Outdated hardware lacking modern features like 5G and advanced cameras can be a reason to upgrade your phone.",
+        "spans": [
+          "it won’t have 5G support, moderns dual or triple-lens cameras, or other such modern improvements"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "With good care, an Android phone can last a decade or more, but network changes may eventually limit its functionality.",
+        "spans": [
+          "If you don’t drop it, causing physical damage, and treat it well, it could last for a decade or more",
+          "While cellular networks still offer 3G today, in the future they may not. If that happens, and if your Android phone is only 3G-compatible, it’ll eventually lose the ability to access mobile data."
+        ]
+      }
+    ],
+    "clueweb22-en0013-71-06179": [
+      {
+        "point_number": 1,
+        "point_content": "Cell phones allow for digital transactions that are both cheaper and safer than paying with cash, or saving cash under the proverbial mattress, making saving and spending money easier.",
+        "spans": [
+          "Cell phones allow for digital transactions that are both cheaper and safer than paying with cash, or saving cash under the proverbial mattress."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Cell phones enable mobile health (mHealth) programs that connect remote communities with healthcare services and expertise, helping save lives.",
+        "spans": [
+          "mHealth programs connect remote communities with healthcare services and expertise, all conducted using cell phones."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Cell phones connect people globally and facilitate communication between citizens and local governments.",
+        "spans": [
+          "Cell phones are also connecting people with their local governments."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Access to cellular technology helps farmers make more informed decisions about planting, harvesting, and selling crops, aiding economic success in rural communities.",
+        "spans": [
+          "The availability of cell phones to farmers helps them make more informed decisions about what to plant, when to harvest, and how much to sell crops for."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Cell phones create new marketplaces like CellBazaar, enabling people in developing countries to place or respond to ads for products and services.",
+        "spans": [
+          "CellBazaar is a bit like Craigslist for the developing world."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Cell phones help people find jobs more quickly and increase wages, as seen with Souktel's JobMatch service in Palestine.",
+        "spans": [
+          "In Palestine, Souktel's JobMatch service is helping young people find jobs."
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,290 @@
+{
+  "question": "why are information systems vulnerable to destruction, error, and abuse?",
+  "key_points": {
+    "clueweb22-en0037-56-11801": [
+      {
+        "point_number": 1,
+        "point_content": "Information systems are vulnerable because digital data are vulnerable to destruction, misuse, error, fraud, and hardware or software failures.",
+        "spans": [
+          "Digital data are vulnerable to destruction, misuse, error, fraud, and hardware or software failures."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The Internet's open design increases vulnerability to external attacks such as denial-of-service and network penetration by hackers.",
+        "spans": [
+          "The Internet is designed to be an open system and makes internal corporate systems more vulnerable to actions from outsiders.",
+          "Hackers can unleash denial-of-service (DoS) attacks or penetrate corporate networks, causing serious system disruptions."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Wi-Fi networks can be easily penetrated by intruders using sniffer programs to access network resources.",
+        "spans": [
+          "Wi-Fi networks can easily be penetrated by intruders using sniffer programs to obtain an address to access the resources of the network."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Computer viruses and worms can disable systems and websites, contributing to vulnerability.",
+        "spans": [
+          "Computer viruses and worms can disable systems and Web sites."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The dispersed nature of cloud computing complicates tracking unauthorized activity and applying controls remotely.",
+        "spans": [
+          "The dispersed nature of cloud computing makes it difficult to track unauthorized activity or to apply controls from afar."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Software bugs and vulnerabilities can be exploited by hackers and malicious software, increasing system vulnerability.",
+        "spans": [
+          "Software presents problems because software bugs may be impossible to eliminate and because software vulnerabilities can be exploited by hackers and malicious software."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "End users often introduce errors, adding to the vulnerability of information systems.",
+        "spans": [
+          "End users often introduce errors."
+        ]
+      }
+    ],
+    "clueweb22-en0011-74-15684": [
+      {
+        "point_number": 1,
+        "point_content": "Information system is vulnerable to destruction, error and abuse because it is one type of digital data.",
+        "spans": [
+          "Information system is vulnerable to destruction, error and abuse because it is one type of digital data."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Digital data are vulnerable to destruction, misuse, error, fraud, and hardware or software failures.",
+        "spans": [
+          "Digital data are vulnerable to destruction, misuse, error, fraud, and hardware or software failures."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "When large amounts of data are stored in electronic form, they are vulnerable to many more kinds of threats than when they existed in manual form.",
+        "spans": [
+          "When large amounts of data are stored in electronic form, they are vulnerable to many more kinds of threats than when they existed in manual form."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The Internet is designed to be an open system and makes internal corporate systems more vulnerable to actions from outsiders.",
+        "spans": [
+          "The Internet is designed to be an open system and makes internal corporate systems more vulnerable to actions from outsiders."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "It also are more vulnerable because it virtually open to anyone.",
+        "spans": [
+          "It also are more vulnerable because it virtually open to anyone."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Hackers can unleash denial-of-service (DoS) attacks or penetrate corporate networks, causing serious system disruptions.",
+        "spans": [
+          "Hackers can unleash denial-of-service (DoS) attacks or penetrate corporate networks, causing serious system disruptions."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Wi-Fi networks also can easily be penetrated by intruders using sniffer programs to obtain an address to access the resources of the network.",
+        "spans": [
+          "Wi-Fi networks also can easily be penetrated by intruders using sniffer programs to obtain an address to access the resources of the network."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Computer viruses and worms can disable systems and Web sites.",
+        "spans": [
+          "Computer viruses and worms can disable systems and Web sites."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Software presents problems because software bugs may be impossible to eliminate and because software vulnerabilities can be exploited by hackers and malicious software.",
+        "spans": [
+          "Software presents problems because software bugs may be impossible to eliminate and because software vulnerabilities can be exploited by hackers and malicious software."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Therefore, end users often introduce errors.",
+        "spans": [
+          "Therefore, end users often introduce errors."
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0022-02-16665": [
+      {
+        "point_number": 1,
+        "point_content": "Information systems are vulnerable to destruction, error and abuse because of a lot of factors mainly caused by unauthorized users gaining access to company networks.",
+        "spans": [
+          "Information systems are vulnerable to destruction, error and abuse because of a lot of factors mainly caused by unauthorized users gaining access to company networks."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Common threats against contemporary information systems occur at client, communication lines, corporate servers, and corporate systems levels.",
+        "spans": [
+          "Threats can occur on the client communication lines corporate servers and corporates systems level."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Threats on the client level involve unauthorized access and errors.",
+        "spans": [
+          "On the client level, threats involve unauthorized access and errors."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Threats originating from communication lines may involve wire-tapping, sniffing, message modifications, theft/fraud, and radiation.",
+        "spans": [
+          "Threats originating from communications lines may involve wire-tapping and sniffing message modifications, theft/fraud and radiation"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Threats on corporate servers may include hacking, planting viruses and worms, theft/fraud, and denial-of-service attacks.",
+        "spans": [
+          "Threats on corporate servers may include hacking of the servers planting of viruses and worms, theft/fraud and denial- of-service attacks."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Threats on corporate systems may include stolen, copied, and manipulated company data and crashes in hardware and software.",
+        "spans": [
+          "Threats on the corporate systems may include stolen copied and manipulated company data and crashes in hardware and software."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Malware, including viruses, worms, and Trojan horses, are malicious software that contribute to vulnerabilities.",
+        "spans": [
+          "Malware is the name used when talking about malicious software.",
+          "Malware may be represented in the form of a computer virus a worm or a Trojan horse."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Viruses attach to software or data files and can erase programs or data without the user's knowledge.",
+        "spans": [
+          "A virus is a rogue software program that piggybacks onto software programs that are already on computer.",
+          "It may also attach itself to data file.",
+          "Viruses plant themselves without the user’s knowledge and can either display message and images onto the screen or erase programs or data from the hard drive."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Worms copy themselves to many computers on a network and spread quickly without human action.",
+        "spans": [
+          "Worms are computer programs that copy themselves to many computer on a network.",
+          "They spread more quickly than viruses because they do not need to act a result from human actions."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Trojan horses appear nonthreatening but later perform unexpected harmful actions, allowing malware entry.",
+        "spans": [
+          "Trojan horses are software programs that appear to be nonthreatening but later do something that is unexpected.",
+          "They present sneaky way for malware to enter a system and are not actually considered to be virus."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Hackers are unauthorized users who exploit security weaknesses and can cause security problems and damage systems.",
+        "spans": [
+          "Hackers are unauthorized users to a computer system who have bad intentions.",
+          "They create security problems because they essentially find weak sport in the security features that are used by web sites and computer systems.",
+          "They can also damage systems by sealing important and even confidential information."
+        ]
+      }
+    ],
+    "clueweb22-en0004-93-01553": [
+      {
+        "point_number": 1,
+        "point_content": "Information systems are vulnerable due to accessibility to electronic data, increasingly complex software and hardware, network access points, wireless vulnerability, and the Internet.",
+        "spans": [
+          "Accessibility to electronic data",
+          "Increasingly complex software, hardware",
+          "Network access points",
+          "Wireless vulnerability",
+          "Internet"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Threats to computerized information systems include hardware failure, software failure, personnel actions, terminal access penetration, theft of data, services, equipment, fire, electrical problems, user errors, unauthorized program changes, and telecommunication problems.",
+        "spans": [
+          "Hardware failure",
+          "Software failure",
+          "Personnel actions",
+          "Terminal access penetration",
+          "Theft of data, services, equipment",
+          "Fire",
+          "Electrical problems",
+          "User errors",
+          "Unauthorized program changes",
+          "Telecommunication problems"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Systems are vulnerable to attacks such as hackers, Trojan horses, denial of service (DoS) attacks, computer viruses, and worms.",
+        "spans": [
+          "Hacker",
+          "Trojan horse",
+          "Denial of service (DoS) attacks",
+          "Computer viruses",
+          "Worms"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "System quality problems arise from software and data issues including bugs and defects, incomplete testing, high maintenance costs due to organizational change, software complexity, and faulty system analysis and design.",
+        "spans": [
+          "Bugs and Defects",
+          "Complete testing not possible",
+          "The Maintenance Nightmare",
+          "Maintenance costs high due to organizational change, software complexity, and faulty system analysis and design"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Data quality problems are caused by errors during data input or faulty information system and database design.",
+        "spans": [
+          "Data Quality Problems",
+          "Caused by errors during data input or faulty information system and database design"
+        ]
+      }
+    ],
+    "clueweb22-en0002-87-03242": [
+      {
+        "point_number": 1,
+        "point_content": "Information systems are vulnerable to destruction, error, and abuse because of a lot of factors mainly caused by unauthorized users gaining access to company networks.",
+        "spans": [
+          "Information systems are vulnerable to destruction, error, and abuse because of a lot of factors mainly caused by unauthorized users gaining access to company networks."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "On the client (user) level, threats involve unauthorized access and errors.",
+        "spans": [
+          "On the client (user) level, threats involve unauthorized access and errors."
+        ]
+      }
+    ]
+  }
+}

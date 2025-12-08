@@ -1,0 +1,31 @@
+{
+  "question": "how is value created from dubai's resources and capabilities?",
+  "key_points": {
+    "null": [],
+    "clueweb22-en0017-98-07405": [
+      {
+        "point_number": 1,
+        "point_content": "The text does not provide explicit information on how value is created from Dubai's resources and capabilities.",
+        "spans": [
+          "How is value created from Dubai resources and capabilities?"
+        ]
+      }
+    ],
+    "clueweb22-en0008-94-14024": [
+      {
+        "point_number": 1,
+        "point_content": "Dubai's economy is mainly dependent on the revenues from oil reserves, trade, tourism, aviation, real estate and financial services.",
+        "spans": [
+          "The economy is mainly dependent on the revenues from oil reserves, trade, tourism, aviation, real estate and financial services."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Dubai is a global city and business hub of UAE, which contributes to value creation from its resources and capabilities.",
+        "spans": [
+          "It is a global city and business hub of UAE."
+        ]
+      }
+    ]
+  }
+}

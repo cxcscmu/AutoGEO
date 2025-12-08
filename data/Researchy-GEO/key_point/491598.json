@@ -1,0 +1,106 @@
+{
+  "question": "what would enhance the application of skepticism in the field?",
+  "key_points": {
+    "null": [],
+    "clueweb22-en0026-34-03275": [
+      {
+        "point_number": 1,
+        "point_content": "Creating a culture of consultation may enhance the appropriate application of skepticism in the field.",
+        "spans": [
+          "Glover and Prawitt (2014) suggest that creating a “culture of consultation” may enhance the appropriate application of skepticism in the field."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Consultation with superiors during the exercise of skepticism can reduce the outcome effect bias in evaluations.",
+        "spans": [
+          "One potential solution to debias superiors' evaluations of skeptical auditors would be to involve the evaluator in the decision-making process in order to reduce the perceived inevitability of the outcome should the outcome be negative. Auditors can do this through informal consultations with their superior before engaging in the skeptical action."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Outcome effects in evaluations may discourage auditors from exercising skepticism when the identification of misstatement is uncertain.",
+        "spans": [
+          "Our results indicate that outcome effects will result in evaluators penalizing skeptical behavior when no misstatement is found. The immediacy of this negative consequence may affect staff behavior in the face of uncertain outcomes. An auditor in the field may perceive that they would be better off not being skeptical when the likelihood of detecting a misstatement is uncertain."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Internal firm-level training to make evaluators aware of outcome bias may be more effective than subordinate-driven solutions to enhance skepticism.",
+        "spans": [
+          "it is clear that the outcome effect in the context of evaluating skepticism is very robust. Consequently, an internal, firm-level training that makes evaluators aware of this bias (and its potential consequences) may be more effective than a subordinate-driven solution (e.g., increased consultations, documenting skepticism in the budget)."
+        ]
+      }
+    ],
+    "clueweb22-en0030-60-08144": [
+      {
+        "point_number": 1,
+        "point_content": "Without proper application of professional skepticism, the effectiveness of audit procedures is diminished.",
+        "spans": [
+          "Without proper application of professional skepticism, the effectiveness of audit procedures is diminished."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Regulatory bodies have suggested that auditors’ enhanced professional skepticism will contribute significantly to improving the quality of audits and that firms should prioritize efforts in this area.",
+        "spans": [
+          "Regulatory bodies have suggested that auditors’ enhanced professional skepticism will contribute significantly to improving the quality of audits and that firms should prioritize efforts in this area."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "A question then is whether the auditing standards themselves could better address the application of professional skepticism?",
+        "spans": [
+          "A question then is whether the auditing standards themselves could better address the application of professional skepticism?"
+        ]
+      }
+    ],
+    "clueweb22-en0002-13-04986": [
+      {
+        "point_number": 1,
+        "point_content": "Professional skepticism is a skill developed over time and a skill that auditors should constantly build and refine.",
+        "spans": [
+          "Nor is it something that is cultivated overnight. It is a skill developed over time and a skill that auditors should constantly build and refine."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "There is an inevitable tug of war between professional skepticism and audit efficiency, as more skepticism typically takes more time to complete the audit.",
+        "spans": [
+          "There is an inevitable tug of war between professional skepticism and audit efficiency. The more skeptical the auditor, typically, the more time it takes to complete the audit."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Audit committees, management, and investors should ask how fee pressures affect audit quality, as concerns with time budgets may reduce professional skepticism and audit quality.",
+        "spans": [
+          "Therefore, as the white paper notes, audit committees, management, and investors should be asking “How hard do our auditors get pushed on fees, and what effect does that have on the quality of the audit?” If your auditor is overly concerned with completing the audit within a fixed time budget, professional skepticism and, ultimately, the quality of the audit, may suffer."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Other audit stakeholders should apply an impartial and diligent mindset, similar to professional skepticism, to their work and the information they review.",
+        "spans": [
+          "rather than audit stakeholders applying professional skepticism as such, these other stakeholders should apply an impartial and diligent mindset to their work and the information they review."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Management should critically assess financial statements and estimates by asking questions that auditors would ask, to help prevent or detect flaws in financial reporting.",
+        "spans": [
+          "Specific to the financial statement reporting function, these stakeholders should be assessing the financial statements and ask questions that can help prevent or detect flaws in the financial reporting process.",
+          "For example, when considering significant estimates, management should ask: are we considering all relevant information? Are our estimates unbiased? Are there alternative accounting treatments we haven’t considered? Can we justify our selected accounting treatment? Essentially, management should start by asking itself: what questions would we expect our auditor to ask us?"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Critically reviewing one’s own work, considering both supporting and contradictory evidence, enhances skepticism and error detection.",
+        "spans": [
+          "It is also important to be critical of your own work, and never become complacent.",
+          "However, critically reviewing one’s own work, essentially as an informal first level of review, will allow you to take a step back and consider it from a different vantage point, which may in turn help detect errors otherwise left unnoticed.",
+          "Essentially, you should both consider evidence that supports the initial conclusion and evidence that may be contradictory to that conclusion."
+        ]
+      }
+    ]
+  }
+}

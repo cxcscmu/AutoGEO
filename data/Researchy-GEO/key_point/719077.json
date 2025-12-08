@@ -1,0 +1,194 @@
+{
+  "question": "why are healthcare workers quitting",
+  "key_points": {
+    "clueweb22-en0017-29-11043": [
+      {
+        "point_number": 1,
+        "point_content": "Health-care workers are quitting because they are overwhelmed by the scale of death and trauma caused by COVID-19, leading to psychological distress and burnout.",
+        "spans": [
+          "death on a scale I had never seen before",
+          "I am the miracle. I’m the only person keeping your loved one alive",
+          "Nothing like feeling strongly suicidal at a job where you’re supposed to be keeping people alive.",
+          "diagnosed with post-traumatic stress disorder, and she left her job"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Many health-care workers have left due to poor treatment by their institutions, including salary cuts, increased workload, and lack of support.",
+        "spans": [
+          "their hospitals cut salaries, reduced benefits, and canceled raises; forced staff to work more shifts with longer hours; offered trite wellness tips, such as keeping gratitude journals, while denying paid time off or reduced hours; failed to provide adequate personal protective equipment; and downplayed the severity of their experiences",
+          "Many workers left because they were poorly treated or compensated, forcing hospitals to hire travel nurses at greater cost"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The pandemic has caused moral distress among health-care workers, who feel unable to provide the care they know is right due to overwhelming conditions.",
+        "spans": [
+          "moral distress —the anguish of being unable to take the course of action that you know is right",
+          "Health-care workers aren't quitting because they can’t handle their jobs. They’re quitting because they can’t handle being unable to do their jobs."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The ongoing surges, high patient loads, and difficult working conditions have led to exhaustion, depression, and a high rate of consideration to quit among health-care workers.",
+        "spans": [
+          "18 percent of health-care workers have quit since the pandemic began",
+          "31 percent of the remaining health-care workers have considered leaving their employer",
+          "66 percent of acute and critical-care nurses have thought about quitting nursing entirely",
+          "bone-weary, depressed, irritable, and (unusually for them) unable to hide any of that"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Health-care workers face hostility and resistance from some COVID-19 patients, adding to the stress and difficulty of their work.",
+        "spans": [
+          "COVID patients are also becoming harder to deal with",
+          "Others have assaulted nurses, thrown trash around their rooms, and yelled for hydroxychloroquine or ivermectin"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "The loss of experienced health-care workers and the resulting staff shortages are causing a decline in the quality of care and increasing workload for remaining staff.",
+        "spans": [
+          "Many older nurses and doctors have retired early",
+          "things are being missed",
+          "The care feels frantic and sloppy even though we’re not overrun with COVID right now",
+          "Each resignation saddles the remaining staff with more work, increasing the odds that they too might quit"
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0010-06-01703": [
+      {
+        "point_number": 1,
+        "point_content": "Covid has made it harder to be a health-care worker, leading many to consider quitting.",
+        "spans": [
+          "Covid has made it harder to be a health-care worker. Now, many are thinking of quitting"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Excessive workload, failed leadership and emotional trauma caused anxiety and PTSD among health-care workers, prompting some to leave their jobs.",
+        "spans": [
+          "Excessive workload, failed leadership and emotional trauma left Williams facing anxiety and post-traumatic stress disorder, and in July 2020, she left her nursing job"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Between 20% and 30% of frontline U.S. health-care workers are considering leaving the profession due to Covid-19 pressures.",
+        "spans": [
+          "According to recent studies, between 20% and 30% of frontline U.S. health-care workers say they are now considering leaving the profession."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "A British Medical Association report found thousands of U.K. doctors plan to leave the NHS after the pandemic due to exhaustion and mental health concerns.",
+        "spans": [
+          "A recent report by the British Medical Association found that thousands of U.K. doctors plan to leave the National Health Service after the pandemic due to exhaustion and concerns over their mental health."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Chronic underfunding, long hours, staff shortages, and emotional and mental toll have long affected health-care workers, worsened by the pandemic.",
+        "spans": [
+          "Chronic underfunding, long hours, staff shortages — not to mention the emotional and mental toll of frontline medical work — have, for years, chipped away at global health-care systems and their crucial workers."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Many clinicians were already considering career changes before the pandemic due to extreme workloads, burnout, and pessimism about medicine's future.",
+        "spans": [
+          "one U.S. survey conducted in 2018, prior to the pandemic, found that almost half (48%) of clinicians said they planned on changing careers due to extreme workloads (80%), burnout (78%) and pessimism about the future of medicine (62%)."
+        ]
+      }
+    ],
+    "clueweb22-en0016-93-02217": [
+      {
+        "point_number": 1,
+        "point_content": "Healthcare workers are quitting or being fired due to refusal to comply with COVID-19 vaccine mandates.",
+        "spans": [
+          "Hundreds of health care workers across the country are being fired or suspended in droves for not complying with COVID-19 vaccine mandates."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Vaccine mandates have led to staff shortages and concerns in hospitals already burdened by COVID-19 cases.",
+        "spans": [
+          "But there are brewing concerns over staff shortages at already-overburdened hospitals still grappling with COVID-19 cases."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Some healthcare workers choose to leave their jobs rather than get vaccinated.",
+        "spans": [
+          "While some health care workers may qualify for exemptions for either medical or religious reasons, it is possible that some health care workers may choose to leave their employment rather than get vaccinated."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Hospitals have fired or suspended employees who failed to meet vaccine deadlines.",
+        "spans": [
+          "In North Carolina, the Novant Health hospital system... fired around 175 of its workers for failing to get vaccinated",
+          "In Texas, Houston Methodist Hospital... saw 153 employees quit or fired over the vaccine requirement",
+          "In Delaware, 150 employees left ChristianaCare... after they failed to meet the Sept. 21 deadline to get vaccinated",
+          "Northwell... let go “a few hundred employees” who refused to get vaccinated"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Some employees have been given suspensions or unpaid leave periods to comply with vaccine mandates.",
+        "spans": [
+          "Approximately 375 team members were noncompliant with the vaccine mandate last week and were given a five-day suspension period to get a COVID-19 shot.",
+          "Unvaccinated workers have been placed on unpaid leave but can return once they get their shot.",
+          "Those who have not gotten their shots are put on a 30-day period of unpaid leave, but if they get vaccinated they can return.",
+          "Albany Medical Center suspended 204 employees of its over 11,000-member workforce for one week starting Tuesday for not complying with the vaccine"
+        ]
+      }
+    ],
+    "clueweb22-en0033-95-01912": [
+      {
+        "point_number": 1,
+        "point_content": "Healthcare sector has more than 8% of positions open, indicating a high quit rate in healthcare.",
+        "spans": [
+          "more than 8% in health care"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Americans are burnt out and quitting jobs because they feel it may not be worth it, reflecting a 'take this job and shove it' attitude.",
+        "spans": [
+          "Americans are burnt out",
+          "it's a, \"Take this job and shove it,\" measure"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Workers are demanding better pay, benefits, autonomy, and flexibility, especially in work schedules.",
+        "spans": [
+          "Workers want better pay and benefits, of course, but they're also demanding autonomy and flexibility, particularly in their work schedules."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The pandemic caused many to reflect on their work and life priorities, leading to resignations.",
+        "spans": [
+          "the pandemic brought that moment of reflection for everyone. \"What do I wanna do? What makes my heart sing?\""
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "When unemployment benefits ended, workers did not rush back to work, indicating quitting is not solely due to benefits.",
+        "spans": [
+          "when these benefits were turned off, when workers were no longer getting the benefits, they did not rush back to work."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Many workers are quitting to find other careers or opportunities that fit their lifestyle better.",
+        "spans": [
+          "They're not sitting at home. They found other careers, other opportunities, that fit their lifestyle better."
+        ]
+      }
+    ]
+  }
+}

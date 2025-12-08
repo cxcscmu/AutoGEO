@@ -1,0 +1,279 @@
+{
+  "question": "how have embedded computers and the iot impacted your daily life?",
+  "key_points": {
+    "clueweb22-en0023-98-02339": [
+      {
+        "point_number": 1,
+        "point_content": "Embedded systems are used in home security and alarm systems to keep you, your family, and your possessions safe.",
+        "spans": [
+          "Embedded systems are used in home security and alarm systems to keep you, your family, and your possessions safe."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Embedded systems control the temperature of your home via thermostat, activating or deactivating your home's furnace or air conditioning system automatically.",
+        "spans": [
+          "If you slept well, you can thank the embedded systems that control the temperature of your home via thermostat.",
+          "the embedded system works to activate or deactivate your home's furnace or air conditioning system automatically."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Embedded systems in laundry machines initiate the soak, wash, rinse, and spin cycles based on user settings and sensor data.",
+        "spans": [
+          "you can thank the embedded systems in your laundry machines for the fresh, clean clothes you put on.",
+          "the embedded systems in your washing machine initiate the soak, wash, rinse, and spin cycles."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Vehicles contain embedded systems that monitor fuel levels, manage lighting, deploy airbags, and provide GPS navigation.",
+        "spans": [
+          "A sensor monitors fuel levels in your vehicle and a visual display tells you in real-time how much gas you have left and how far you can travel with it.",
+          "Embedded systems manage all of the lighting on your vehicle - running lights, 4-way flashers, brake lights, and headlights are all managed by embedded systems.",
+          "Airbags in cars are controlled by an accelerometer, a special type of sensor that detects rapid changes in acceleration that happen during collisions.",
+          "The GPS system in your car also works like an embedded system - it interfaces with satellites or a downloaded map of your area and processes information about your speed and location to give you directions."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Traffic lights are controlled by embedded systems that may use sensors to detect vehicles and adjust timing to optimize traffic flow.",
+        "spans": [
+          "Even traffic lights are controlled by embedded systems.",
+          "They may change on a particular schedule, or use sensors to detect the presence of vehicles and adjust their timing to optimize the flow of traffic."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Embedded systems optimize elevator movement based on button presses to move people efficiently between floors.",
+        "spans": [
+          "The elevator that you take to your office floor contains an embedded system that optimizes the movement of the elevator based on what buttons are pressed."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Calculators and printers contain embedded systems that perform their specific functions based on user input or file contents.",
+        "spans": [
+          "Calculators are one of the oldest and most commonly known types of embedded systems.",
+          "Printers are often considered a peripheral or accessory for a general computing system, but printers contain their own embedded systems that perform a special function - reading the contents of files and printing them onto paper."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Digital cameras use embedded systems to capture, store, and represent image data, and can include features like face detection and image correction algorithms.",
+        "spans": [
+          "The systems embedded in digital cameras serve three essential functions: Capturing Images/Data - This happens when you take a picture! Storing Image Data - Memory systems present in cameras allow today's models to store hundreds and even thousands of images at once. Representing Image Data - Most cameras have digital screens where photographers can view images right away - there's no need to produce and develop film.",
+          "Today's smart cameras can even detect humans, faces, eyes, and other features in images, allowing the user to initiate algorithms that fix red-eye or change the appearance of lighting in the image."
+        ]
+      }
+    ],
+    "clueweb22-en0015-50-16012": [
+      {
+        "point_number": 1,
+        "point_content": "Embedded systems are used in home security and alarm systems to keep you, your family, and your possessions safe.",
+        "spans": [
+          "Embedded systems are used in home security and alarm systems to keep you, your family, and your possessions safe."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "We sleep well because of the embedded system that controls the temperature of your home via thermostat.",
+        "spans": [
+          "We sleep well because of the embedded system that controls the temperature of your home bia thermostat."
+        ]
+      }
+    ],
+    "clueweb22-en0012-13-10029": [
+      {
+        "point_number": 1,
+        "point_content": "Embedded computers and the IoT have brought ease in performing daily tasks by using remote controls and sensors.",
+        "spans": [
+          "this technology has brought ease in terms of performing daily tasks by using remote controls and sensors in performing routine tasks"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Smart technology allows seamless transfer of data and messages, increasing productivity and saving time.",
+        "spans": [
+          "Smart technology has allowed ease and seamless transfer of data and messsges which increases productivity and saves time"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Embedded computers enable automation capabilities in devices, while IoT enables communication between devices over the internet.",
+        "spans": [
+          "embedded computers enable the things with the automation capabilities, while the IoT empowers those things with the communication abilities"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Smart washing machines use embedded computers and IoT to wash clothes efficiently, save energy, money, resources, and time by remote control and notifications.",
+        "spans": [
+          "Nowadays, we have smart washing machines that not only be able to rinse, wash and dry clothes automatically, economically and efficiently —thanks to the embedded computers—but they can also be controlled remotely or can also send a notification to a mobile phone by the virtue of the IoT. It saves our energy (by automatically washing the clothes), our money (by efficiently using the detergent), resources (by rinsing and washing the clothes with the amount of water required—water conservation) and our time (by being controlled remotely or by sending a notification on a mobile phone when it’s done instead of us checking up its progress every ten minutes or so)"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "GPS navigation systems with embedded computers and IoT allow easy booking and tracking of cabs and buses via mobile apps.",
+        "spans": [
+          "Finding a nearby cab is now in the palm of our hands. Modern cab service providers, via their mobile applications, share the location of their cabs, in which the GPS navigation system (consists of GPS module and the embedded computer(s), connected with the internet)"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Smart door locking systems and security cameras with embedded computers and IoT can notify owners or authorities remotely in case of intrusion, enhancing security.",
+        "spans": [
+          "Smart door locking systems and smart security cameras inside or outside homes are able to notify the authorities or to the owners in the case of intrusion"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "IoT based smart-bands or watches with embedded computers monitor health metrics like blood pressure and heart rate in real time and can notify emergency contacts.",
+        "spans": [
+          "The IoT based smart-bands or watches can continuously monitor the blood pressure and heart rate in real time through the IoT based devices with embedded computers connected with the sensors. In the case of emergency, those IoT based devices send a notification to the emergency contacts"
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Embedded computers and IoT have meaningfully and constructively impacted daily life.",
+        "spans": [
+          "embedded computers and the IoT have impacted our daily lives in a meaningful and constructive way"
+        ]
+      }
+    ],
+    "clueweb22-en0003-65-16052": [
+      {
+        "point_number": 1,
+        "point_content": "Embedded computers enable devices to perform specific tasks automatically and efficiently.",
+        "spans": [
+          "Embedded computers are the programmable controllers (or loosely speaking, chips) designed to perform specific or dedicated tasks within a device."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The IoT allows devices to communicate with each other over the internet, enhancing their functionality.",
+        "spans": [
+          "The IoT, on the other hand, is the Internet of Things. It is the system of interconnected things that can communicate with one another directly over the network (internet)."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Smart washing machines use embedded computers and IoT to wash clothes efficiently and can be controlled remotely, saving energy, money, resources, and time.",
+        "spans": [
+          "Nowadays, we have smart washing machines that not only be able to rinse, wash and dry clothes automatically, economically and efficiently—thanks to the embedded computers—but they can also be controlled remotely or can also send a notification to a mobile phone by the virtue of the IoT. It saves our energy (by automatically washing the clothes), our money (by efficiently using the detergent), resources (by rinsing and washing the clothes with the amount of water required—water conservation) and our time (by being controlled remotely or by sending a notification on a mobile phone when it’s done instead of us checking up its progress every ten minutes or so)."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "GPS navigation systems with embedded computers and IoT enable easy booking and tracking of cabs and buses via mobile apps.",
+        "spans": [
+          "Finding a nearby cab is now in the palm of our hands. Modern cab service providers, via their mobile applications, share the location of their cabs, in which the GPS navigation system (consists of GPS module and the embedded computer(s), connected with the internet). Hence, without any hassle, a nearby cab can be arranged and also at any time. The same applies on the most, modern bus services."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Smart door locks and security cameras with embedded computers and IoT can notify owners or authorities remotely in case of intrusion, enhancing security.",
+        "spans": [
+          "Smart door locking systems and smart security cameras inside or outside homes are able to notify the authorities or to the owners in the case of intrusion, and, thus, making lives and possessions safe and secure."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "IoT based smart-bands or watches with embedded computers monitor health metrics in real time and can notify emergency contacts automatically.",
+        "spans": [
+          "Embedded computers and the IoT is revolutionising the quality of life in terms of health. The IoT based smart-bands or watches can continuously monitor the blood pressure and heart rate in real time through the IoT based devices with embedded computers connected with the sensors. In the case of emergency, those IoT based devices send a notification to the emergency contacts."
+        ]
+      }
+    ],
+    "clueweb22-en0021-56-10475": [
+      {
+        "point_number": 1,
+        "point_content": "Embedded computers are present in everyday devices such as smart refrigerators that use sensors to detect when you are running low on milk and send reminders via wireless networks.",
+        "spans": [
+          "A smart refrigerator can use _____ to detect when you are running low on milk, and then send a reminder to you on a wireless network.",
+          "B. sensors"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Mobile health (mHealth) technology allows doctors to monitor patients remotely and send reminders for medication and health checks via smartphones.",
+        "spans": [
+          "His doctor has recently started using mobile health (mHealth).",
+          "D. He will receive text reminders to take his medications and check his insulin."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Technology such as captioning software helps people with disabilities, like deaf individuals, to communicate and compete in a hearing world.",
+        "spans": [
+          "Captioning software can be used to transcribe what is being said."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Virtual reality technology is used in flight simulators to train astronauts in a safe environment.",
+        "spans": [
+          "Before going into space, astronauts spend many hours training on flight simulators allowing them to learn how to fly without life and death consequences.",
+          "B. It is using virtual reality."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Delivery drivers use GPS technology to avoid traffic delays and meet delivery timelines.",
+        "spans": [
+          "How are delivery drivers able to meet the delivery timelines selected by customers when purchasing products?",
+          "B. They use a GPS to avoid traffic delays."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Handheld computers/scanners are used by delivery companies to track packages efficiently.",
+        "spans": [
+          "How do delivery companies track packages?",
+          "B. They use code-scanning technology."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Embedded computers are present in household devices such as coffeemakers that can be programmed to operate automatically.",
+        "spans": [
+          "Her coffeemaker that she has set to turn on and make coffee every morning at the same time."
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0006-03-00545": [
+      {
+        "point_number": 1,
+        "point_content": "Embedded systems are electronic devices with hardware and software used to perform user applications and tasks, and they are integral to many gadgets in daily life such as Digital Watches, Smart TVs, Radio, video games, CD players, kitchen appliances, and workspace devices.",
+        "spans": [
+          "An embedded system is an electronic device, it is having both hardware and software, that device is used to perform a user application or user is given task.",
+          "We are surrounded by many embedded products and our daily life largely depends on the functionalities of these gadgets such us Digital Watches, Smart TVs, Radio, video games, CD player of your living room, Rice cooker, Combo washer dryer or Microwave Oven in your kitchen, Card Readers, Palm devices, pen cameras of our workspace enable us to do many of your tasks very effectively."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Embedded controllers manage many activities such as car operations including adaptive cruise control and collision warning, and mission critical systems like nuclear reactor plants and flight control systems.",
+        "spans": [
+          "Apart from all these, many embedded controllers in your life will take care of many activities like car operations adaptive cruise control and collision warning, the embedded system takes care of Mission Critical Systems (MCS) like nuclear reactor plant, production divisions, a flight control like weather detecting and collision avoidance etc."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Embedded systems are an integral part of all aspects of modern life and are widely used in consumer electronics, household appliances, medical equipment, automobiles, industrial applications, aerospace, and communications.",
+        "spans": [
+          "Nowadays Embedded Systems are an integral part of all aspects of modern life",
+          "The Embedded Systems are widely used in all our daily applications around the world. Here, some applications are Consumer electronics – Mobile phones, video game consoles, printers, Blu-Ray players, home entertainment systems, televisions, digital cameras, music players. Household appliances – Washing machines, microwave ovens, refrigerators, dishwashers, air conditioners Medical equipment – CT Scanners, Electrocardiogram (ECG), MRI Scanners, blood pressure monitors, heartbeat monitors Automobiles – Electronic fuel injection systems, Car navigation system, Anti-lock braking systems(ABS), Pre-crash safety system, in-vehicle entertainment systems, air-conditioner controls. Industrial applications – Assembly lines, multiple parameter monitoring systems, feedback systems, data collection systems Aerospace – Navigation systems, guidance systems, GPS Communications – Routers, network hubs, satellite phones."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Embedded systems enable technology benefits while minimizing cost and power consumption, impacting daily life significantly and are becoming more important with the rise of IoT, smart homes, and vehicles.",
+        "spans": [
+          "Embedded systems are vital to the society, that they enable designing and gives the benefits from the technology while minimizing the cost and power consumption.",
+          "As technologies and movements like the internet of Things, industrial applications, Smart homes and vehicles will become more and more important."
+        ]
+      }
+    ]
+  }
+}

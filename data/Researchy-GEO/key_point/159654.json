@@ -1,0 +1,312 @@
+{
+  "question": "why are people taking ivermectin for covid",
+  "key_points": {
+    "clueweb22-en0000-90-11436": [
+      {
+        "point_number": 1,
+        "point_content": "A five-day course of ivermectin for the treatment of COVID-19 may reduce the duration of illness",
+        "spans": [
+          "A five-day course of ivermectin for the treatment of COVID-19 may reduce the duration of illness"
+        ]
+      }
+    ],
+    "clueweb22-en0029-52-04472": [
+      {
+        "point_number": 1,
+        "point_content": "Ivermectin is widely discussed in Facebook groups, peddled by shady websites, and even mentioned by Fox News hosts. Swaths of people are now convinced that ivermectin both treats and prevents covid-19.",
+        "spans": [
+          "Ivermectin, a long-used antiparasitic treatment for both humans and animals, has recently usurped hydroxychloroquine as the “do your own research” internet crowd’s go-to panacea for covid-19.",
+          "It’s widely discussed in Facebook groups, peddled by shady websites, and even mentioned by Fox News hosts.",
+          "Swaths of people are now convinced that ivermectin both treats and prevents covid-19."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Early research showed ivermectin was very potent at killing the virus in a lab setting, which led some to believe it would be an effective treatment for covid-19.",
+        "spans": [
+          "And sure enough, there was some early research showing that it was very potent at killing the virus in a lab setting",
+          "The trouble started when these early results were perceived as concrete proof that ivermectin would be a sure-fire effective treatment for covid-19 by some scientists and many self-proclaimed experts on the pandemic."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Ivermectin isn’t easily absorbed by the human body and the dosage needed to kill the coronavirus safely in humans is likely much higher than safe levels.",
+        "spans": [
+          "Even at the time, many researchers cautioned against overhyping these results, since ivermectin isn’t that easily absorbed by the human body.",
+          "But translating the dosage used in the lab to kill the coronavirus over to the real world, some scientists have argued, would probably require a much higher dose than could ever be safely used in people."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Most studies claiming ivermectin benefits for covid-19 are low quality or based on fraudulent data, and the largest trials show little to no effect.",
+        "spans": [
+          "Unfortunately, most studies in the past year that claim to show a benefit from the drug in treating or preventing covid-19 seem to be very low quality, while some have turned out to be based on fraudulent or otherwise suspect data and subsequently withdrawn.",
+          "And when you look at the largest trials or the overall evidence, you find little to no effect for ivermectin."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Ivermectin has become popular among certain groups who believe its effectiveness is being suppressed and promote its use despite lack of evidence.",
+        "spans": [
+          "Despite these developments, the drug has become wildly popular among certain groups, particularly on social media.",
+          "These groups, often right-leaning and dismissive of the pandemic otherwise, will argue that the truth about ivermectin has been suppressed and that it’s now kept away from the public at the behest of Big Pharma."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Some proponents profit by selling ivermectin and encourage people to buy it from animal supply stores and self-administer it, leading to poisonings.",
+        "spans": [
+          "many of the leading proponents of ivermectin have themselves been accused of profiting off the gullible and desperate by pushing them to buy ivermectin and other supposed preventive treatments via their own  businesses.",
+          "When ivermectin isn’t available through unscrupulous grifters, these online groups will tell people to buy it from animal supply stores and self-administer it.",
+          "And in Mississippi at least, that bad advice has led to a rash of poison control calls from people who followed it and took the drug."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Health authorities warn against using ivermectin without prescription due to risks of overdose and serious side effects.",
+        "spans": [
+          "The Centers for Disease Control and Prevention recently issue d a warning to people to not use ivermectin without a prescription, citing two serious cases where people ended up in the hospital with hallucinations and confusion.",
+          "Last week, the Food and Drug Administration did the same in a memorable tweet reminding us that: “You are not a horse. You are not a cow. Seriously, y’all. Stop it.”"
+        ]
+      }
+    ],
+    "clueweb22-en0028-77-11101": [
+      {
+        "point_number": 1,
+        "point_content": "People outside the medical community insist that ivermectin works against COVID-19 because of a laboratory study that showed ivermectin caused a 5,000-fold reduction in SARS-CoV-2 in a lab setting.",
+        "spans": [
+          "Much of the argument for ivermectin from people outside the medical community seems to stem from a laboratory study published in the journal Antiviral Research in June.",
+          "That study detailed the effect of ivermectin on SARS-CoV-2, the virus that causes COVID-19, in a lab setting, and found that one treatment of ivermectin in a cell culture caused a 5,000-fold reduction in SARS-CoV-2 at 48 hours."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The lab study used very high doses of ivermectin that are toxic to humans, so the results do not translate to safe or effective treatment in people.",
+        "spans": [
+          "This particular lab study also used “very high doses [of ivermectin] that are toxic to humans,” explains Richard Watkins, M.D., an infectious disease physician and professor of internal medicine at the Northeast Ohio Medical University."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "A randomized clinical trial found no significant difference in symptom duration between ivermectin and placebo in mild COVID-19 patients, not supporting its use for treatment.",
+        "spans": [
+          "There was also a randomized clinical trial of ivermectin in patients with mild forms of COVID-19 that was published in JAMA in March 2021.",
+          "That study analyzed 476 patients and found that the duration of symptoms of those who received a five-day course of ivermectin and those who were given a placebo “was not significantly different” between the two groups.",
+          "“The findings do not support the use of ivermectin for treatment of mild COVID-19,” the researchers concluded."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The NIH states there is insufficient evidence to recommend for or against ivermectin for COVID-19 treatment and calls for more well-conducted clinical trials.",
+        "spans": [
+          "The National Institutes of Health (NIH) has also weighed in on ivermectin, saying that “there is insufficient evidence for the COVID-19 Treatment Guidelines Panel to recommend either for or against the use of ivermectin for the treatment of COVID-19."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The use of ivermectin for COVID-19 has been politicized, leading people to believe in its effectiveness regardless of scientific evidence.",
+        "spans": [
+          "The use of ivermectin as a so-called COVID-19 treatment has been “politicized,” Dr. Adalja points out.",
+          "“Now, people are going to believe that it works no matter what the scientific data shows,” he says."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Some people take ivermectin intended for animals, which is dangerous and can cause poisoning.",
+        "spans": [
+          "Some people have resorted to ordering animal formulations of ivermectin, prompting the Food and Drug Administration (FDA) to issue a warning against the practice.",
+          "“People are taking veterinary doses, which are different in terms of potency and strength,” says infectious disease expert Amesh Adalja, M.D.",
+          "“People are misusing it and that’s why we’re seeing an increase in ivermectin poisonings."
+        ]
+      }
+    ],
+    "clueweb22-en0033-31-16437": [
+      {
+        "point_number": 1,
+        "point_content": "People are taking ivermectin for COVID-19 because of a laboratory study that showed ivermectin caused a 5,000-fold reduction of the virus in a lab setting, leading to the belief it might be effective against COVID-19.",
+        "spans": [
+          "Much of the argument for ivermectin from people outside the medical community seems to stem from a laboratory study published in the journal Antiviral Research in June.",
+          "That study detailed the effect of ivermectin on the virus that causes COVID-19 in a lab setting and found that one treatment of ivermectin in a cell culture caused a 5,000-fold reduction after 48 hours."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "The lab study used very high doses of ivermectin that are toxic to humans, so the results do not translate to safe or effective treatment in people.",
+        "spans": [
+          "This particular lab study also used “very high doses that are toxic to humans,” explained Richard Watkins, M.D., an infectious disease physician and professor of internal medicine at the Northeast Ohio Medical University."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Clinical trials have not found ivermectin effective for treating COVID-19 in humans.",
+        "spans": [
+          "There was also a randomized clinical trial of ivermectin in patients with mild forms of COVID-19 that was published in JAMA in March 2021.",
+          "The study analyzed 476 patients and found that the duration of symptoms of those who received a five-day course of ivermectin and those who were given a placebo “was not significantly different” between the two groups.",
+          "“The findings do not support the use of ivermectin for treatment of mild COVID-19,” the researchers concluded."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The National Institutes of Health states there is insufficient evidence to recommend ivermectin for COVID-19 treatment and calls for more well-designed clinical trials.",
+        "spans": [
+          "The National Institutes of Health has also weighed in on ivermectin, saying that “there is insufficient evidence for the COVID-19 Treatment Guidelines Panel to recommend either for or against the use of ivermectin for the treatment of COVID-19."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Ivermectin use for COVID-19 has been politicized, leading people to believe in its effectiveness despite lack of scientific evidence.",
+        "spans": [
+          "The use of ivermectin as a so-called COVID-19 treatment has been “politicized,” Adalja said.",
+          "“Now, people are going to believe that it works no matter what the scientific data shows,” he says. “But it’s not a belief that’s based on evidence."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Some people take veterinary formulations of ivermectin, which are not safe for humans and can cause poisoning.",
+        "spans": [
+          "Some people have resorted to ordering animal formulations of ivermectin, prompting the Food and Drug Administration to issue a warning against the practice.",
+          "“People are misusing it and that’s why we’re seeing an increase in ivermectin poisonings. They shouldn’t be taking ivermectin for COVID-19 anyway, but they definitely shouldn’t be taking ivermectin intended for animals.”"
+        ]
+      }
+    ],
+    "clueweb22-en0028-39-03454": [
+      {
+        "point_number": 1,
+        "point_content": "Ivermectin could be capable of treating COVID-19 patients and potentially ending the pandemic.",
+        "spans": [
+          "Ivermectin, a controversial drug used commonly as a horse dewormer as well as a treatment for parasitic infections in humans, could be capable of treating COVID-19 patients and potentially ending the pandemic"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Ivermectin not only prevents people from contracting COVID, but also defeats the virus and saves lives.",
+        "spans": [
+          "Their findings reveal the drug not only prevents people from contracting COVID, but also defeats the virus and saves lives."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Treating COVID-19 patients with ivermectin resulted in large drops in coronavirus deaths and reduced recovery time and virus clearance time.",
+        "spans": [
+          "Those findings reveal treating COVID-19 patients with ivermectin resulted in large drops in coronavirus deaths. The recovery time from an infection and the time it takes to clear COVID from someone’s system also saw significant reductions among patients on ivermectin."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Using ivermectin noticeably reduces the risk of contracting COVID-19.",
+        "spans": [
+          "three randomized controlled trials and five observational controlled trials which included nearly 2,500 healthy participants discovered using ivermectin noticeably reduces the risk of contracting COVID-19."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Several countries have approved ivermectin’s use during the pandemic as a powerful vaccine and treatment for COVID-19.",
+        "spans": [
+          "The countries of South Africa, Zimbabwe, Slovakia, the Czech Republic, Mexico, and India have all approved ivermectin’s use during the pandemic"
+        ]
+      }
+    ],
+    "clueweb22-en0015-00-10984": [
+      {
+        "point_number": 1,
+        "point_content": "Ivermectin is not FDA approved to treat COVID-19 patients and should only be used in a research setting, as part of a clinical trial.",
+        "spans": [
+          "Ivermectin is not FDA approved to treat COVID-19 patients.",
+          "Ivermectin should only be used in patients for COVID-19  treatment in a research setting, as part of a clinical trial."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Ivermectin products approved for animals should not be taken by humans because they contain far higher levels of ivermectin than products approved for human use.",
+        "spans": [
+          "Ivermectin products that are approved for use in animals should NOT be taken by humans.",
+          "Veterinary products are formulated to treat large animals and contain far higher levels of ivermectin than products approved for human use."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Clinical trials have been conducted to test ivermectin against COVID-19 but there is low certainty whether it helps and more studies are needed.",
+        "spans": [
+          "Clinical trials have been conducted on people to test how well ivermectin works against COVID-19.",
+          "Currently there is a low level of certainty whether ivermectin helps treat COVID-19 and more studies are needed."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "The WHO recommends ivermectin should not be used in COVID-19 patients unless in a research setting due to high uncertainty about its benefits or harms.",
+        "spans": [
+          "Their recommendation is that ivermectin should not used in patients with COVID-19 unless it is in a research setting, as part of a clinical trial.",
+          "they believe that there is a high degree of uncertainty on whether ivermectin is helpful or harmful in treating COVID-19."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The NIH states there is insufficient evidence to recommend for or against ivermectin for COVID-19 treatment due to incomplete information and methodological limitations in studies.",
+        "spans": [
+          "Their recommendation is there is insufficient evidence to recommend either for or against the use of ivermectin for the treatment of COVID-19.",
+          "The panel noted most of these studies had: incomplete information significant methodological limitations (small sample size, inconsistent dosing and dose schedules, open label studies, other medications taken at the same time, severity of COVID-19 not described, and outcome measures not clearly defined)."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Ivermectin is thought to work against COVID-19 by blocking a cargo transporter that viral proteins use to enter the cell nucleus, potentially allowing the body to fight the infection normally.",
+        "spans": [
+          "Ivermectin may block the cargo transporter, so the viral proteins would not be able to get into the nucleus.",
+          "By taking Ivermectin, it is thought that the body can fight the infection like normal, because its antiviral response will not have been reduced by the viral proteins."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "People might be taking ivermectin for COVID-19 because it is an FDA approved medicine for other uses and there is some interest in its potential antiviral effects, but current evidence does not support its use outside clinical trials.",
+        "spans": [
+          "Ivermectin tablets are currently a FDA approved medicine for treatment of intestinal parasitic worms, parasitic diseases, Strongyloides stercoralis and Onchocerca volvulus.",
+          "Recently ivermectin has also been studied to treat a range of viruses.",
+          "Ivermectin tablets are FDA approved medicine for some types of intestinal worms and ivermectin cream is FDA approved for rosacea treatment."
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0034-81-00244": [
+      {
+        "point_number": 1,
+        "point_content": "People are taking ivermectin for Covid-19 because researchers showed ivermectin could kill SARS-CoV-2 in the laboratory, sparking interest in whether it would work in humans.",
+        "spans": [
+          "Ever since researchers showed ivermectin could kill SARS-CoV-2 (the virus that causes Covid-19) in the laboratory, there has been interesting in whether the drug would also work to kill the virus in the human body."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "There is no clinical evidence that ivermectin works to treat or prevent Covid-19, and major health organizations recommend against its use for Covid-19 outside clinical trials.",
+        "spans": [
+          "So far, there is no clinical evidence it works to treat or prevent Covid-19. And there is widespread consensus people should not take ivermectin at home for Covid-19.",
+          "Organisations that recommend against it include the World Health Organization, Australia’s National Covid-19 Clinical Evidence Taskforce and NPS Medicinewise, the United State’s Food and Drug Administration, and the Cochrane Library."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Despite lack of evidence, demand for ivermectin has increased as people seek it as a possible Covid treatment, sometimes obtaining it illegally or using veterinary formulations.",
+        "spans": [
+          "Despite this, community pharmacists have reported increased demand for ivermectin, with people seeking the drug as a possible Covid treatment.",
+          "Of most concern are reports from Australia and overseas of people buying and taking ivermectin products intended for animal use. People may be resorting to these types of products where they have been unable to access a script for human formulations of ivermectin."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Ivermectin is approved to treat parasite infections in humans and animals, but is prescription-only for humans due to potential harmful side effects.",
+        "spans": [
+          "In Australia, ivermectin is approved to treat parasite infections in humans. It’s also widely used in veterinary medicine to treat and prevent parasite infections.",
+          "However, as a prescription-only human medicine (known as schedule 4 ), you can only access ivermectin legally in Australia after approval from a doctor.",
+          "This is because, like all medicines, ivermectin is not 100 percent safe. It does have possible harmful side effects and a doctor’s judgment is necessary to decide if ivermectin is safe and appropriate for each patient."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Ivermectin can cause side effects ranging from mild to life-threatening, including seizures and coma, especially in overdose.",
+        "spans": [
+          "Other known ivermectin side-effects range from mild to life-threatening, including seizures and coma.",
+          "In higher doses and overdose cases, these side effects can be more severe. These include low blood pressure, problems with balance, seizures, liver injury, and it can even induce comas."
+        ]
+      }
+    ]
+  }
+}

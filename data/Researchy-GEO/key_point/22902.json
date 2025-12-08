@@ -1,0 +1,458 @@
+{
+  "question": "how humans contribute to climate change",
+  "key_points": {
+    "clueweb22-en0034-25-04457": [
+      {
+        "point_number": 1,
+        "point_content": "Human-caused global climate change is primarily due to the release, through our activities, of greenhouse gases.",
+        "spans": [
+          "Human-caused global climate change is primarily due to the release, through our activities, of greenhouse gases"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Greenhouse gases are released into the air, where they persist for a long period at high altitude and absorb reflected sunlight, warming the atmosphere, land surface, and oceans.",
+        "spans": [
+          "Greenhouse gases are released into the air, where they persist for a long period at high altitude and absorb reflected sunlight. They then warm the atmosphere, the surface of the land, and the oceans."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Burning fossil fuels releases carbon dioxide, a major greenhouse gas, with electricity production by coal, gas, or oil-burning power plants being the largest source of emissions.",
+        "spans": [
+          "The process of burning fossil fuels releases various pollutants, as well as an important greenhouse gas, carbon dioxide.",
+          "The single largest culprit is electricity production by coal, gas, or oil-burning power plants, with 20% of all emissions."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Transportation contributes approximately 14% of total greenhouse gas emissions through the use of gasoline and diesel to power vehicles.",
+        "spans": [
+          "We know that the use of gasoline and diesel to power vehicles is a large contributor, but overall transportation only accounts for approximately 14% of total\u0000greenhouse gas emissions."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Industrial processes using fossil fuels, including production of synthetic fertilizers and extraction of coal, natural gas, or oil, release greenhouse gases and account for 11% of total emissions.",
+        "spans": [
+          "The various industrial processes that use fossil fuels are\u0000also to blame.",
+          "Just the process of extracting and processing coal, natural gas, or oil involves the release of greenhouse gases -- those activities make up 11% of the total emissions."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Cement production releases massive amounts of carbon dioxide through a chemical reaction.",
+        "spans": [
+          "Cement production hinges on a chemical reaction that releases massive amounts of carbon dioxide."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Land clearing and deforestation release carbon dioxide stored in soil and trees, accounting for 10% of all greenhouse gas emissions.",
+        "spans": [
+          "Land clearing (for agriculture or other types of land use) exposes the soil which allows the release of carbon dioxide.",
+          "Deforestation, especially associated with burning, allows a lot of the\u0000carbon stored in tree roots, branches, and leaves to be released into the atmosphere.",
+          "It's not a trivial amount: together, land clearing and burning account for 10% of all greenhouse gas emissions."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Methane is produced in large quantities by microorganisms in rice fields and by cattle and other herbivorous livestock, contributing significantly to climate change.",
+        "spans": [
+          "Methane (the main constituent in natural gas) is produced in large quantities by microorganisms present in rice fields, making rice production a significant contributor to climate change.",
+          "And it's not just rice: lots of methane is also produced by cattle and other herbivorous livestock."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Thawing permafrost in Arctic regions releases carbon dioxide and methane, creating a feedback loop that accelerates climate warming.",
+        "spans": [
+          "Temperatures are warming especially fast in Arctic regions, and there the thawing permafrost is releasing both carbon dioxide and methane.",
+          "By\u00002100, it is estimated that 16 to 24% of the permafrost will have thawed, entering a vicious feedback loop: as permafrost thaws, it releases stored carbon dioxide and methane, which further warms the climate, melts more permafrost and releases more greenhouse gases."
+        ]
+      }
+    ],
+    "clueweb22-en0031-49-18990": [
+      {
+        "point_number": 1,
+        "point_content": "Human activities (primarily the burning of fossil fuels) have fundamentally increased the concentration of greenhouse gases in Earth’s atmosphere, warming the planet.",
+        "spans": [
+          "Human activities (primarily the burning of fossil fuels) have fundamentally increased the concentration of greenhouse gases in Earth’s atmosphere, warming the planet."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Carbon dioxide is released through human activities such as deforestation, land use changes, and burning fossil fuels, increasing atmospheric CO2 concentration by 48% since the Industrial Revolution.",
+        "spans": [
+          "carbon dioxide is released through natural processes such as respiration and volcano eruptions and through human activities such as deforestation, land use changes, and burning fossil fuels. Humans have increased atmospheric CO 2 concentration by 48% since the Industrial Revolution began."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Methane is produced by human activities including decomposition of wastes in landfills, agriculture, rice cultivation, ruminant digestion and manure management associated with domestic livestock.",
+        "spans": [
+          "Methane. A hydrocarbon gas produced both through natural sources and human activities, including the decomposition of wastes in landfills, agriculture, and especially rice cultivation, as well as ruminant digestion and manure management associated with domestic livestock."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Nitrous oxide is produced by soil cultivation practices, especially the use of commercial and organic fertilizers, fossil fuel combustion, nitric acid production, and biomass burning.",
+        "spans": [
+          "Nitrous oxide. A powerful greenhouse gas produced by soil cultivation practices, especially the use of commercial and organic fertilizers, fossil fuel combustion, nitric acid production, and biomass burning."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The burning of fossil fuels like coal and oil has increased the concentration of atmospheric carbon dioxide (CO2).",
+        "spans": [
+          "On Earth, human activities are changing the natural greenhouse. Over the last century the burning of fossil fuels like coal and oil has increased the concentration of atmospheric carbon dioxide (CO 2 )."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "The clearing of land for agriculture, industry, and other human activities has increased concentrations of greenhouse gases.",
+        "spans": [
+          "To a lesser extent, the clearing of land for agriculture, industry, and other human activities has increased concentrations of greenhouse gases."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "The Intergovernmental Panel on Climate Change concluded there's a more than 95 percent probability that human activities over the past 50 years have warmed our planet.",
+        "spans": [
+          "In its Fifth Assessment Report, the Intergovernmental Panel on Climate Change, a group of 1,300 independent scientific experts from countries all over the world under the auspices of the United Nations, concluded there's a more than 95 percent probability that human activities over the past 50 years have warmed our planet."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Human-produced greenhouse gases such as carbon dioxide, methane and nitrous oxide have caused much of the observed increase in Earth's temperatures over the past 50-plus years.",
+        "spans": [
+          "The panel also concluded there's a better than 95 percent probability that human-produced greenhouse gases such as carbon dioxide, methane and nitrous oxide have caused much of the observed increase in Earth's temperatures over the past 50-plus years."
+        ]
+      }
+    ],
+    "clueweb22-en0000-94-03517": [
+      {
+        "point_number": 1,
+        "point_content": "Human activities increase the abundance of greenhouse gases in the atmosphere, amplifying Earth’s natural greenhouse effect.",
+        "spans": [
+          "Yes, by increasing the abundance of greenhouse gases in the atmosphere, human activities are amplifying Earth’s natural greenhouse effect."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Virtually all climate scientists agree that the increase in heat-trapping gases is the main reason for the 1.8°F (1.0°C) rise in global average temperature since the late nineteenth century.",
+        "spans": [
+          "Virtually all climate scientists agree that this increase in heat-trapping gases is the main reason for the 1.8°F (1.0°C) rise in global average temperature since the late nineteenth century."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Carbon dioxide, methane, nitrous oxide, ozone, and various chlorofluorocarbons are all human-emitted heat-trapping gases, with carbon dioxide being of greatest concern.",
+        "spans": [
+          "Carbon dioxide, methane, nitrous oxide, ozone, and various chlorofluorocarbons are all human-emitted heat-trapping gases.",
+          "Among these, carbon dioxide is of greatest concern to scientists because it exerts a larger overall warming influence than the other gases combined."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Humans emit an estimated 9.5 billion metric tons of carbon annually by burning fossil fuels, and another 1.5 billion through deforestation and land cover changes.",
+        "spans": [
+          "At present, humans are putting an estimated 9.5 billion metric tons of carbon into the atmosphere each year by burning fossil fuels, and another 1.5 billion through deforestation and other land cover changes."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Forests and vegetation absorb around 3.2 billion metric tons of carbon per year, oceans absorb about 2.5 billion metric tons, leaving a net 5 billion metric tons of human-produced carbon in the atmosphere annually.",
+        "spans": [
+          "Of this human-produced carbon, forests and other vegetation absorb around 3.2 billion metric tons per year, while the ocean absorbs about 2.5 billion metric tons per year.",
+          "A net 5 billion metric tons of human-produced carbon remain in the atmosphere each year, raising the global average carbon dioxide concentrations by about 2.3 parts per million per year."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Since 1750, humans have increased the abundance of carbon dioxide in the atmosphere by nearly 50 percent.",
+        "spans": [
+          "Since 1750, humans have increased the abundance of carbon dioxide in the atmosphere by nearly 50 percent."
+        ]
+      }
+    ],
+    "clueweb22-en0012-15-11268": [
+      {
+        "point_number": 1,
+        "point_content": "Human activities have increased the abundance of heat-trapping gases in the atmosphere, mostly due to burning fossil fuels.",
+        "spans": [
+          "Human activities have increased the abundance of heat-trapping gases in the atmosphere. This increase is mostly due to burning fossil fuels, such as coal, oil, and natural gas."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Carbon dioxide levels have increased from 280 parts per million to more than 410 parts per million today, mostly since the late 1950s, due to human activities.",
+        "spans": [
+          "Carbon dioxide has increased from a pre-industrial level of 280 parts per million to more than 410 parts per million today. Most of the increase of carbon dioxide in the atmosphere has occurred since the late 1950s."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "The rapid warming today can only be explained by increasing amounts of carbon dioxide and other heat-trapping gases in the atmosphere caused by humans.",
+        "spans": [
+          "The rapid warming we are experiencing today can only be explained by increasing amounts of carbon dioxide and other heat-trapping gases in the atmosphere."
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0041-33-08517": [
+      {
+        "point_number": 1,
+        "point_content": "More than 99.9% of peer-reviewed scientific papers agree that climate change is mainly caused by humans.",
+        "spans": [
+          "More than 99.9% of peer-reviewed scientific papers agree that climate change is mainly caused by humans"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Human activities are altering Earth’s climate.",
+        "spans": [
+          "human activities are altering Earth’s climate"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "It’s critical to acknowledge the principal role of greenhouse gas emissions.",
+        "spans": [
+          "It’s critical to acknowledge the principal role of greenhouse gas emissions"
+        ]
+      }
+    ],
+    "clueweb22-en0005-49-01344": [
+      {
+        "point_number": 1,
+        "point_content": "The number of cars and trucks in the world and their production rates contribute to climate change.",
+        "spans": [
+          "Number of cars in the world today – 1 billion",
+          "Estimated number of cars in the world in 2050 – 3 billion",
+          "Number of trucks, buses in the world today – 350 million",
+          "Heavy trucks produced per year – 4 million",
+          "Light vehicles (cars, SUVs) produced per year – 95 million"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Air travel and airfreight contribute significantly to fuel consumption and emissions.",
+        "spans": [
+          "International commercial flights (105,000/day) per year – 38 million",
+          "Airline passengers per year – more than 3 billion",
+          "Airfreight volume per year – 50 million tons",
+          "Liters of fuel per year – 273 billion"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Human population growth increases the impact on climate change.",
+        "spans": [
+          "Estimated human population 1350 – 370 million",
+          "Estimated human population year 1804 – 1 billion",
+          "Estimated human population 2019 – 7.7 billion",
+          "Estimated human population 2050 – 9.77 billion"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Fuel burning of coal, oil, and natural gas is a major contributor to climate change.",
+        "spans": [
+          "Annual world coal production – 3.9 trillion tons oil equivalent",
+          "Annual world oil production – 36.4 trillion barrels",
+          "Annual world natural gas production – 3.156 trillion tons equivalent"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Deforestation and forest burning contribute to climate change and reduce oxygen production.",
+        "spans": [
+          "Forest being replanted average every year – 20,000 square miles",
+          "Forest being cut or burned average every year – 50,200 square miles",
+          "Siberian forest burned this year – 46,000 square miles",
+          "Amazon rain forest area burning this year – 1 million square miles",
+          "Number of Amazon fires this year – 72,843",
+          "Increase in Amazon fires since last year – 83%",
+          "Percent of world’s oxygen produced by the Amazon rainforest – 20%"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Human activities release large amounts of CO2 into the atmosphere, contributing to climate change.",
+        "spans": [
+          "CO2 humans released in the atmosphere in 2017 – 53.5 gigatons (53.5 billion tons)"
+        ]
+      }
+    ],
+    "clueweb22-en0014-36-07096": [
+      {
+        "point_number": 1,
+        "point_content": "Humans are the main cause of climate change by burning fossil fuels, producing livestock, and clearing trees, which increases heat-trapping gases in the atmosphere.",
+        "spans": [
+          "Humans are the main cause.",
+          "We're the ones who burn fossil fuels, produce livestock and clear trees, increasing the amount of heat-trapping gases in the atmosphere."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Chemical analysis shows the increase in atmospheric CO2 is coming from burning fossil fuels.",
+        "spans": [
+          "Chemical analysis of the atmospheric CO2 that reveals the increase is coming from burning fossil fuels (research beginning in the 1950s)."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "There is a 40% increase in carbon dioxide in the atmosphere since the Industrial Revolution due to human activities.",
+        "spans": [
+          "40% more carbon dioxide in the atmosphere since the Industrial Revolution"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Humans add 70 million metric tons of carbon dioxide to the atmosphere daily.",
+        "spans": [
+          "70 million metric tons of carbon dioxide we add to the atmosphere daily"
+        ]
+      }
+    ],
+    "clueweb22-en0008-49-01740": [
+      {
+        "point_number": 1,
+        "point_content": "Human activities have released large amounts of carbon dioxide and other greenhouse gases into the atmosphere since the Industrial Revolution, changing the earth’s climate.",
+        "spans": [
+          "Since the Industrial Revolution, human activities have released large amounts of carbon dioxide and other greenhouse gases into the atmosphere, which has changed the earth’s climate."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "It is unequivocal that human influence has warmed the atmosphere, ocean and land.",
+        "spans": [
+          "It is unequivocal that human influence has warmed the atmosphere, ocean and land."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Human activities have been the dominant cause of warming observed since the 1950s.",
+        "spans": [
+          "Rather, it is extremely likely (> 95%) that human activities have been the dominant cause of that warming."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Human activities have contributed substantially to climate change through greenhouse gas emissions and changes in reflectivity or absorption of the sun’s energy.",
+        "spans": [
+          "Human activities have contributed substantially to climate change through:\nGreenhouse Gas Emissions\nReflectivity or Absorption of the Sun’s Energy"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Concentrations of key greenhouse gases have increased since the Industrial Revolution due to human activities, causing the earth’s surface temperature to rise.",
+        "spans": [
+          "Concentrations of the key greenhouse gases have all increased since the Industrial Revolution due to human activities.",
+          "These greenhouse gas emissions have increased the greenhouse effect and caused the earth’s surface temperature to rise."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Burning fossil fuels changes the climate more than any other human activity.",
+        "spans": [
+          "Burning fossil fuels changes the climate more than any other human activity."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Human activities currently release over 30 billion tons of carbon dioxide into the atmosphere every year, increasing atmospheric carbon dioxide concentrations by more than 40 percent since pre-industrial times.",
+        "spans": [
+          "Carbon dioxide: Human activities currently release over 30 billion tons of carbon dioxide into the atmosphere every year.",
+          "Atmospheric carbon dioxide concentrations have increased by more than 40 percent since pre-industrial times, from approximately 280 parts per million (ppm) in the 18th century to 414 ppm in 2020."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Human activities increased methane concentrations during most of the 20th century to more than 2.5 times the pre-industrial level.",
+        "spans": [
+          "Methane: Human activities increased methane concentrations during most of the 20th century to more than 2.5 times the pre-industrial level, from approximately 722 parts per billion (ppb) in the 18th century to 1,867 ppb in 2019."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Nitrous oxide concentrations have risen approximately 20 percent since the start of the Industrial Revolution due to human activities.",
+        "spans": [
+          "Nitrous oxide concentrations have risen approximately 20 percent since the start of the Industrial Revolution, with a relatively rapid increase toward the end of the 20th century."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Activities such as agriculture, road construction, and deforestation can change the reflectivity of the earth's surface, leading to local warming or cooling.",
+        "spans": [
+          "Activities such as agriculture, road construction, and deforestation can change the reflectivity of the earth's surface, leading to local warming or cooling."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Human-generated aerosols have a net cooling effect on the earth but are a result of human activities.",
+        "spans": [
+          "Overall, human-generated aerosols have a net cooling effect on the earth."
+        ]
+      }
+    ],
+    "clueweb22-en0009-09-01133": [
+      {
+        "point_number": 1,
+        "point_content": "Human activity is the main cause of climate change, including burning fossil fuels and converting land from forests to agriculture.",
+        "spans": [
+          "Human activity is the main cause of climate change.",
+          "People burn fossil fuels and convert land from forests to agriculture."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Burning fossil fuels produces carbon dioxide, a greenhouse gas that causes warming by producing a greenhouse effect.",
+        "spans": [
+          "Burning fossil fuels produces carbon dioxide, a greenhouse gas.",
+          "It is called a greenhouse gas because it produces a “greenhouse effect”."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Carbon dioxide is the main cause of human-induced climate change and stays in the atmosphere for a very long time.",
+        "spans": [
+          "Carbon dioxide is the main cause of human-induced climate change.",
+          "It stays in the atmosphere for a very long time."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Other greenhouse gases such as nitrous oxide also stay in the atmosphere for a long time and contribute to climate change.",
+        "spans": [
+          "Other greenhouse gases, such as nitrous oxide, stay in the atmosphere for a long time."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Human activities since the Industrial Revolution have increased emissions of greenhouse gases substantially, leading to a warming effect.",
+        "spans": [
+          "Since the beginning of the Industrial Revolution, people have burned more and more fossil fuels and changed vast areas of land from forests to farmland.",
+          "The overall effect of human activities since the Industrial Revolution has been a warming effect, driven primarily by emissions of carbon dioxide and enhanced by emissions of other greenhouse gases."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Fossil fuel combustion, industrial processes, agriculture, and forestry-related activities emit substances that influence the climate by affecting incoming and outgoing energy, causing warming and cooling effects.",
+        "spans": [
+          "Climate change can also be caused by human activities, such as the burning of fossil fuels and the conversion of land for forestry and agriculture.",
+          "These activities change the land surface and emit various substances to the atmosphere. These in turn can influence both the amount of incoming energy and the amount of outgoing energy and can have both warming and cooling effects on the climate."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Short-lived climate forcers like methane, tropospheric ozone, and black carbon contribute significantly to human enhancement of the greenhouse effect after carbon dioxide.",
+        "spans": [
+          "A number of short-lived climate forcers have climate warming effects and together are the most important contributors to the human enhancement of the greenhouse effect after carbon dioxide.",
+          "This includes methane and tropospheric ozone – both greenhouse gases – and black carbon, a small solid particle formed from the incomplete combustion of carbon-based fuels (coal, oil and wood for example)."
+        ]
+      }
+    ]
+  }
+}

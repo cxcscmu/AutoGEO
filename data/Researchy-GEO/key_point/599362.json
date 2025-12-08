@@ -1,0 +1,90 @@
+{
+  "question": "how do the competitors interact with each other and suppliers and customers?",
+  "key_points": {
+    "null": [],
+    "clueweb22-en0014-51-16856": [
+      {
+        "point_number": 1,
+        "point_content": "Competitors offer identical services or products and charge the going rate, with no ability to charge more without losing customers.",
+        "spans": [
+          "faced stiff competition from other competitors who offered identical services",
+          "All of you charged the “going rate.” If you tried to charge more, your customers would simply buy from someone else."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Firms in perfect competition are price takers and must accept the prevailing market price determined by supply and demand.",
+        "spans": [
+          "A perfectly competitive firm is called a price taker, because the pressure of competing firms forces them to accept the prevailing equilibrium price in the market.",
+          "The market price is determined solely by supply and demand in the entire market and not the individual farmer."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "If a firm raises its price even slightly above the market price, it will lose all sales to competitors.",
+        "spans": [
+          "If a firm in a perfectly competitive market raises the price of its product by so much as a penny, it will lose all of its sales to competitors, since no rational consumer would pay a higher price for an identical product."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Firms can enter and leave the market freely, with many competitors and many customers, producing identical products with full information.",
+        "spans": [
+          "(1) the industry has many firms and many customers; (2) all firms produce identical products; (3) sellers and buyers have all relevant information to make rational decisions about the product being bought and sold; and (4) firms can enter and leave the market without any restrictions—in other words, there is free entry and exit into and out of the market."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Firms face competition from thousands of others selling identical products, and it is easy for them to switch crops or products if prices change.",
+        "spans": [
+          "farmers face competition from thousands of others because they sell an identical product.",
+          "it is relatively easy for farmers to leave the marketplace for another crop."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Customers are not required to buy from any firm and may buy from other businesses instead, forcing firms to compete on price and output.",
+        "spans": [
+          "no one is required to buy their products, and even customers who might want those products may buy from other businesses instead."
+        ]
+      }
+    ],
+    "clueweb22-en0023-31-05998": [
+      {
+        "point_number": 1,
+        "point_content": "Firms interact with each other by competing on the open market, collaborating on similar projects, or merging into one, depending on the objectives of the owners.",
+        "spans": [
+          "They could compete on the open market, collaborate on similar projects, or merge into one, depending on the objectives of the owners."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Firms make strategic decisions about their supply chain based on factors like workforce skills, technological advantages, materials, and tax regulations.",
+        "spans": [
+          "In a globalized world, an organisation with enough capital - which just means wealth in the form of money, or a valuable property that could be invested into a new project or idea -  can be extremely strategic about its supply chain. Everything from skills in the workforce, technological advantages, available materials, and tax regulations factor into the decision of where to set up camp."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Governments compete to create the best business environment to attract companies, which affects jobs and prices of goods and services locally.",
+        "spans": [
+          "Because businesses can create jobs, governments will sometimes compete to make the best possible ‘business environment’ to incentivize companies to come to their region."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Firms grow by mergers and acquisitions; mergers are by mutual agreement, acquisitions can happen without consent if shares are bought on the stock exchange.",
+        "spans": [
+          "To grow more quickly firms engage in mergers and acquisitions. The difference is just that a merger is by mutual agreement, while an acquisition can happen without the direct consent of a firm, if the purchaser buys their equity or shares on the stock exchange."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "When few firms control a large part of the market or supply chain, it is an oligopoly; a single firm control is a monopoly; these can lead to collusion and reduced competition.",
+        "spans": [
+          "When a few firms control a large part of the market or supply chain, it’s called an oligopoly. When a single firm is in control, it’s a monopoly. In both cases, things could either become much more efficient and streamlined, or the larger firms can collude, or conspire with each other, to prevent competition, creating worse quality products at higher prices for consumers."
+        ]
+      }
+    ]
+  }
+}

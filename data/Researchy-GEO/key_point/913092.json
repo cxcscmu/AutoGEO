@@ -1,0 +1,55 @@
+{
+  "question": "how are funerals changing for the younger generation?",
+  "key_points": {
+    "null": [],
+    "clueweb22-en0001-81-12240": [
+      {
+        "point_number": 1,
+        "point_content": "Funerals and commemorative events are very meaningful and important events to attend, but attending a funeral or commemorative event may present a higher risk of spreading COVID-19 due to close contact and enclosed spaces.",
+        "spans": [
+          "Funerals and commemorative events are very meaningful and important events to attend.",
+          "Attending a funeral or commemorative event may present a higher risk of spreading COVID-19.",
+          "This increased risk may be from the close contact between grieving loved ones, friends and family, and also when people meet in enclosed spaces."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "There is no longer a legal requirement for people with COVID-19 infection to self-isolate, but people with symptoms are advised to stay at home and avoid contact with others.",
+        "spans": [
+          "There is no longer a legal requirement for people with COVID-19 infection to self-isolate.",
+          "If you have any of the main symptoms of COVID-19, you should order a PCR test.",
+          "You are advised to stay at home, avoid contact with other people, and follow the guidance for people with COVID-19 and their contacts while you wait for your test result."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "If attending a funeral while infectious with COVID-19, steps should be taken to reduce the chance of passing on the infection to others, such as wearing a well-fitting face covering, avoiding close contact with high-risk individuals, avoiding crowds, and maintaining good hygiene.",
+        "spans": [
+          "If you have COVID-19 and you need to leave your home to attend a funeral or commemorative event while you are still infectious, you can take steps to reduce the chance of passing on the infection to others:",
+          "Wear a well-fitting face covering made with multiple layers or a surgical face mask.",
+          "Avoid close contact with anyone you know who is at higher risk of becoming severely unwell if they are infected with COVID-19.",
+          "Avoid crowds during the funeral or commemorative event, or anywhere that is poorly ventilated or enclosed.",
+          "Limit close contact with other people outside your household as much as possible.",
+          "Be especially careful with your hand and respiratory hygiene."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Those arranging or managing funerals should consider enabling remote participation for people at higher risk and remind attendees to respect distancing without singling anyone out.",
+        "spans": [
+          "For those arranging or managing a funeral or commemorative event, if you become aware that someone who is at higher risk of becoming severely unwell with COVID-19 will be attending, you should:",
+          "try and enable them to participate remotely where this is possible (for example by live-streaming) should they wish to do so",
+          "consider reminding other attendees that there are individuals who may choose or need to maintain distancing – it is important that you don’t identify, or single anyone out, or release personal or confidential information"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Limiting close contact during funerals helps reduce the risk of catching or passing on COVID-19 and attendees should be considerate of others who may wish to take a more cautious approach.",
+        "spans": [
+          "Limiting close contact during funerals and commemorative events helps to reduce the risk of catching or passing on COVID-19.",
+          "It is important to consider that others attending a funeral or a commemorate event may wish to take a more cautious approach. We should all be considerate of this and provide the opportunity and space for others to reduce close contacts if they wish."
+        ]
+      }
+    ]
+  }
+}

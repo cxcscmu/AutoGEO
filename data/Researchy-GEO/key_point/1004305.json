@@ -1,0 +1,1129 @@
+{
+  "question": "why startups fail",
+  "key_points": {
+    "clueweb22-en0043-38-20354": [
+      {
+        "point_number": 1,
+        "point_content": "More than two-thirds of start-ups never deliver a positive return to investors.",
+        "spans": [
+          "More than two-thirds of them never deliver a positive return to investors."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Commonly, venture capitalists blame start-up failures on founders' inadequacies such as lack of grit, industry acumen, or leadership ability.",
+        "spans": [
+          "most are inclined to cite the inadequacies of its founders—in particular, their lack of grit, industry acumen, or leadership ability."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Blaming founders oversimplifies failure; situational factors also play a role.",
+        "spans": [
+          "Putting the blame on the founders oversimplifies a complex situation."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Six patterns of failure explain why many start-ups fail; two common avoidable reasons are focused on in the article.",
+        "spans": [
+          "I identified six patterns of failure, which I describe fully in my book. In this article I’ve chosen to focus on two of them in greater detail, for two reasons: First, they’re the most common avoidable reasons why start-ups go wrong."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "A start-up can fail due to 'good idea, bad bedfellows' where founders lack industry experience and have poor team and investor support.",
+        "spans": [
+          "Quincy had a good idea but bad bedfellows: Besides the founders, a range of resource providers were culpable in the venture’s collapse, including team members, manufacturing partners, and investors."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Lack of industry experience in founders can cause operational problems and difficulty in securing resources and partnerships.",
+        "spans": [
+          "The founders’ lack of fashion industry experience was at the root of many problems."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "False starts occur when entrepreneurs launch products without sufficient customer research, leading to wasted time and capital.",
+        "spans": [
+          "Many entrepreneurs who claim to embrace the lean start-up canon actually adopt only part of it. Specifically, they launch MVPs and iterate on them after getting feedback. By putting an MVP out there and testing how customers respond, founders are supposed to avoid squandering time and money building and marketing a product that no one wants.",
+          "Yet by neglecting to research customer needs before commencing their engineering efforts, entrepreneurs end up wasting valuable time and capital on MVPs that are likely to miss their mark. These are false starts."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Skipping customer discovery and MVP testing leads to false starts and failure, as seen in the Triangulate case.",
+        "spans": [
+          "In Nagaraj’s postmortem analysis of Triangulate’s failure, he acknowledged skipping this crucial step. He and his team failed to conduct up-front research to validate the demand for a matching engine or the appeal of the wingman concept. Nor did they conduct MVP tests akin to Quincy’s trunk shows. Instead they rushed to launch Wings as a fully functional product.",
+          "By giving short shrift to customer discovery and MVPs, Triangulate’s team fell victim to a false start—and turned the “fail fast” mantra into a self-fulfilling prophecy."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "A structured three-step product design process can help avoid false starts: problem definition, solution development, and solution validation.",
+        "spans": [
+          "The good news is that false starts can easily be avoided by following a structured, three-step product design process.",
+          "1. Problem definition.",
+          "2. Solution development.",
+          "3. Solution validation."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Entrepreneurs must balance conventional wisdom advice to avoid pitfalls like premature product launch, stubbornness, overconfidence, and under-resourcing.",
+        "spans": [
+          "It’s important for an entrepreneur to maintain balance. Guidance based on conventional wisdom is good—most of the time—but it shouldn’t be followed blindly.",
+          "Just do it!",
+          "Be persistent!",
+          "Bring passion!",
+          "Bootstrap!",
+          "Grow!"
+        ]
+      }
+    ],
+    "clueweb22-en0039-88-15995": [
+      {
+        "point_number": 1,
+        "point_content": "Startups fail because there is little or no market for the product they have built.",
+        "spans": [
+          "A major reason why companies fail, is that they run into the problem of their being little or no market for the product that they have built."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Startups fail due to business model failure, especially underestimating the cost of acquiring customers compared to the lifetime value of those customers.",
+        "spans": [
+          "one of the most common causes of failure in the startup world is that entrepreneurs are too optimistic about how easy it will be to acquire customers.",
+          "the cost of acquiring the customer (CAC) is actually higher than the lifetime value of that customer (LTV)."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "A weak management team is a common cause of startup failure, leading to poor strategy, execution, and team building.",
+        "spans": [
+          "An incredibly common problem that causes startups to fail is a weak management team.",
+          "They are often weak on strategy, building a product that no-one wants to buy as they failed to do enough work to validate the ideas before and during development.",
+          "They are usually poor at execution, which leads to issues with the product not getting built correctly or on time, and the go-to market execution will be poorly implemented.",
+          "They will build weak teams below them."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Startups fail because they run out of cash before reaching key milestones or securing additional funding.",
+        "spans": [
+          "A fourth major reason that startups fail is because they ran out of cash.",
+          "What frequently goes wrong, and leads to a company running out of cash, and unable to raise more, is that management failed to achieve the next milestone before cash ran out."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Startups fail due to product problems, including failure to achieve product/market fit.",
+        "spans": [
+          "Another reason that companies fail is because they fail to develop a product that meets the market need.",
+          "Most of the time the first product that a startup brings to market won’t meet the market need.",
+          "If this happens it is a clear indication of a team that didn’t do the work to get out and validate their ideas with customers before, and during, development."
+        ]
+      }
+    ],
+    "clueweb22-en0010-88-11266": [
+      {
+        "point_number": 1,
+        "point_content": "The number one reason why start-ups fail was 'no market need.'",
+        "spans": [
+          "The number one reason why start-ups fail was “no market need.”"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Nine of the top 20 reasons for startup failures – and five out of the top 10 – were related to customers – not meeting customers’ needs, not listening to them or even ignoring them.",
+        "spans": [
+          "Nine of the top 20 reasons for startup failures – and five out of the top 10 – were related to customers – not meeting customers’ needs, not listening to them or even ignoring them."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Startups fail when they are not solving a market problem, even if they have great technology and expertise.",
+        "spans": [
+          "Startups fail when they are not solving a market problem...We had great technology, great data on shopping behavior, great reputation as a though leader, great expertise, great advisors, etc, but what we didn’t have was technology or business model that solved a pain point in a scalable way."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Product design that didn’t meet customers’ needs can cause startup failure.",
+        "spans": [
+          "Another customer-related challenge that felled startups was product design that didn’t meet customers’ needs."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Not listening to customers and not getting feedback can lead to failure.",
+        "spans": [
+          "If only the start-up founders had listened to the customers they were trying to serve.",
+          "We spent way too much time building it for ourselves and not getting feedback from prospects — it’s easy to get tunnel vision.",
+          "It’s easy to get tricked into thinking your thing is cool. You have to pay attention to your customers and adapt to their needs."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Seven of the top 20 reasons for failure were related to the people and/or culture of the company.",
+        "spans": [
+          "Nearly the same number of reasons for failure – seven of the top 20 -- were related to the people and/or culture of the company."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Not having the right people on board or lack of alignment among founders and investors can cause failure.",
+        "spans": [
+          "Sometimes failure was the result of not having the right people on board.",
+          "Other times, the lack of alignment among the founders and/or their investors was to blame."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Lack of focus or passion among the team can doom startups.",
+        "spans": [
+          "The lack of focus or passion or both doomed other upstarts."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Only two of the top 20 reasons startups failed were due to money, indicating that people and customer alignment are more critical.",
+        "spans": [
+          "Of note, only two of the top 20 reasons that startups failed was due to money, or lack thereof."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Startups fail when people inside the company don’t care about customers or don’t cultivate a customer-centered culture.",
+        "spans": [
+          "The biggest, most tragic failures happen when people inside the company don’t care about customers, or don’t cultivate a culture centered on the customer."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Founders not interested in the domain or customers can lead to products that don’t meet customer needs and failure.",
+        "spans": [
+          "It failed less than two months after being funded by Y Combinator because its founders weren’t interested in the domain they had built their company around -- and that led them to produce a product that didn’t meet customers’ needs."
+        ]
+      }
+    ],
+    "clueweb22-en0020-35-11162": [
+      {
+        "point_number": 1,
+        "point_content": "Running out of cash or failing to raise new capital is the top reason startups fail.",
+        "spans": [
+          "Ran out of cash/failed to raise new capital",
+          "Money and time are finite and need to be allocated judiciously. For the startups on our list, running out of cash — tied with the inability to secure financing/investor interest — was the top reason startups cited for their failure."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "No market need is the second most common reason for startup failure.",
+        "spans": [
+          "No market need",
+          "Tackling problems that are interesting to solve rather than those that serve a market need was cited as the No. 2 reason for failure, noted in 35% of cases."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Startups often get outcompeted by others in the market, leading to failure.",
+        "spans": [
+          "Got outcompeted",
+          "ignoring it was also a recipe for failure in 20% of the startup failures."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "A flawed business model can cause startups to fail.",
+        "spans": [
+          "Flawed business model",
+          "Most failed founders agree that a business model is important — staying wedded to a single channel or failing to find ways to make money at scale left investors hesitant and founders unable to capitalize on any traction gained."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Regulatory or legal challenges can shut down startups.",
+        "spans": [
+          "Regulatory/legal challenges",
+          "Sometimes a startup can evolve from a simple idea and enter a world of legal complexities that can ultimately shut it down."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Pricing and cost issues can make a startup unsustainable.",
+        "spans": [
+          "Pricing/cost issues",
+          "Pricing is a dark art when it comes to startup success, and startup post-mortems highlight the difficulty in pricing a product high enough to eventually cover costs but low enough to bring in customers."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Having the wrong team or lack of key hires can lead to failure.",
+        "spans": [
+          "Not the right team",
+          "A diverse team with different skill sets was often cited as being critical to the success of a company."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Mistiming the product launch can cause failure.",
+        "spans": [
+          "Product mistimed",
+          "If you release your product too early, users may write it off as not good enough, and getting them back may be difficult if their first impression of you is negative. And if you release your product too late, you may have missed your window of opportunity in the market."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "A poor product can cause customers to leave and lead to failure.",
+        "spans": [
+          "Poor product",
+          "Sometimes, it all comes down to the product — and a flawed one was enough to sink companies in 8% of cases."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Disharmony among team members or investors can be fatal for startups.",
+        "spans": [
+          "Disharmony among team/investors",
+          "Discord with a co-founder was a fatal issue for startup post-mortem companies."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "A pivot that goes badly can lead to startup failure.",
+        "spans": [
+          "Pivot gone bad",
+          "Pivots like Burbn to Instagram or ThePoint to Groupon can go extraordinarily well. Or they can start you down the wrong road."
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "Burnout or lack of passion among founders and team members can cause failure.",
+        "spans": [
+          "Burned out/lacked passion",
+          "Work-life balance is not something that startup founders often get, so the risk of burning out is high."
+        ]
+      }
+    ],
+    "clueweb22-en0034-40-11219": [
+      {
+        "point_number": 1,
+        "point_content": "The biggest reasons why startups fail is they create a product that the market just doesn’t want.",
+        "spans": [
+          "The biggest reasons why startups fail is they create a product that the market just doesn’t want."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Running out of money before you can get anywhere is a big issue causing startup failure.",
+        "spans": [
+          "Another big issue? Running out of money before you can get anywhere."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Having the wrong team or partner-fit is essential to getting things off the ground and can cause failure.",
+        "spans": [
+          "Your team can make-or-break your startup, as 23 percent of failed startups know all too well.",
+          "Having the right team and partner-fit is essential to getting things off the ground."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Getting outcompeted by other companies is a reason why 19 percent of startups fail.",
+        "spans": [
+          "getting outcompeted is the reason why 19 percent of startups fail."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Pricing and cost issues can cause startups to fail if they cannot balance price and costs properly.",
+        "spans": [
+          "One reason why startups fail is because they can’t. It’s a balancing act — and tipping to either side can mean failure for your company."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Poor product quality or lack of understanding of the market can lead to startup failure.",
+        "spans": [
+          "Sometimes, startup Founders just come up short when it comes to product."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Lack of a clear business model causes 17 percent of startups to fail.",
+        "spans": [
+          "17 percent of startups failed because they didn’t learn this lesson soon enough."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Poor marketing leads to failure because no one knows about the product.",
+        "spans": [
+          "Poor marketing is a major reason a lot of startups fail"
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Ignoring customers and not getting user feedback can cause startups to fail.",
+        "spans": [
+          "Ignore Customers (14%)"
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Launching a product at the wrong time, either too early or too late, can cause failure.",
+        "spans": [
+          "Product Mistimed (13%)"
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Losing focus and getting distracted can cause startups to fail.",
+        "spans": [
+          "Lose Focus (13%)"
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "Disharmony among team members or between founders and investors can lead to failure.",
+        "spans": [
+          "Disharmony on Team/Investors (13%)"
+        ]
+      },
+      {
+        "point_number": 13,
+        "point_content": "Pivoting in the wrong direction can cause startups to fail.",
+        "spans": [
+          "Pivot Gone South (10%)"
+        ]
+      }
+    ],
+    "null": [],
+    "clueweb22-en0012-21-02274": [
+      {
+        "point_number": 1,
+        "point_content": "Six distinct patterns that account for the vast majority of startup failures.",
+        "spans": [
+          "six distinct patterns that account for the vast majority of startup failures"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Bad Bedfellows: The wrong team, investors, or partners can sink a venture just as quickly as the founder's talents and instincts can help it succeed.",
+        "spans": [
+          "Bad Bedfellows. Startup success is thought to rest largely on the founder’s talents and instincts. But the wrong team, investors, or partners can sink a venture just as quickly."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "False Starts: Following advice to 'fail fast' and 'launch before you’re ready' can lead to wasting time and capital on the wrong solutions.",
+        "spans": [
+          "False Starts. In following the oft-cited advice to “fail fast” and to “launch before you’re ready,” founders risk wasting time and capital on the wrong solutions."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "False Promises: Success with early adopters can be misleading and give founders unwarranted confidence to expand.",
+        "spans": [
+          "False Promises. Success with early adopters can be misleading and give founders unwarranted confidence to expand."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Speed Traps: Hypergrowth can spell disaster for even the most promising ventures despite pressure to 'get big fast'.",
+        "spans": [
+          "Speed Traps. Despite the pressure to “get big fast,” hypergrowth can spell disaster for even the most promising ventures."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Help Wanted: Rapidly scaling startups need lots of capital and talent, but mistakes can leave them suddenly in short supply of both.",
+        "spans": [
+          "Help Wanted. Rapidly scaling startups need lots of capital and talent, but they can make mistakes that leave them suddenly in short supply of both."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Cascading Miracles: The bigger the vision, the more things that can go wrong.",
+        "spans": [
+          "Cascading Miracles. Silicon Valley exhorts entrepreneurs to dream big. But the bigger the vision, the more things that can go wrong."
+        ]
+      }
+    ],
+    "clueweb22-en0022-29-06130": [
+      {
+        "point_number": 1,
+        "point_content": "Reasons for failure include money running out, being in the wrong market, a lack of research, bad partnerships, ineffective marketing, and not being an expert in the industry.",
+        "spans": [
+          "money running out",
+          "being in the wrong market",
+          "a lack of research",
+          "bad partnerships",
+          "ineffective marketing",
+          "not being an expert in the industry"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Money ran out because it stopped coming in, possibly due to poorly managed costs or insufficient sales, or inability to obtain financing.",
+        "spans": [
+          "Money Ran Out: This widely given reason doesn’t really explain why a business failed. The money ran out because it stopped coming in, so why did the cash flow dry up? Was it due to poorly managed costs or because sales weren't high enough? Money running out also relates to an inability to obtain financing or further financing needed to sustain a business, especially in the early days, until a business can start generating profits."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Targeting too broad a market or everyone in a town leads to failure; a narrowly defined niche is easier to market to the right audience.",
+        "spans": [
+          "Wrong Market: Too many people try to start a business targeting everyone as their demographic. This doesn’t work out well. Next, they try to target everyone in their town. Again, too broad. The more narrowly defined your niche is, the easier it will be to market to the right audience ."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Lack of research leads to offering products or services that customers do not want.",
+        "spans": [
+          "Lack of Research: You have to know what your customers want. Too many would-be entrepreneurs go into the market thinking they have a great service or product to offer, but they fail to realize that nobody wants that service or product. By doing your homework and researching your market, you will know exactly how to meet your potential customers’ needs."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Bad partnerships cause internal conflicts and can lead to business dissolution; clear business plans can avoid conflicts.",
+        "spans": [
+          "Bad Partnership: Often, when starting a business, a partner is needed. One of you is an expert in one area, and the other is an expert in another one. Your ideas for the company will conflict, and without a clear resolution, it starts internal strife. You work harder and your partner works less, but your partner thinks they are working harder than you. Ultimately, the business dissolves because the partnership didn’t work. By having a clear business plan that lays out the duties of each partner, you can avoid most conflicts before they even arise."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Bad marketing can cause failure; hiring marketing experts can improve business success.",
+        "spans": [
+          "Bad Marketing: It could be said that a business boils down to two aspects: marketing and bookkeeping. If you excel at both, it doesn’t matter what you are selling or offering because someone will buy it. The sad truth is that most entrepreneurs know their craft and little else. Instead of fumbling through your marketing campaign, hire out that aspect of your business. It costs money, but if done right, it will bring in much more than what you spent."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Lack of expertise and business skills leads to struggle and failure.",
+        "spans": [
+          "Not an Expert: Too many entrepreneurs start their business because they need a job. They have a vague idea of what they are doing, and they think that because they’re better than their peers, they should make a living doing it. The sad truth is that without business skills and real expertise, these entrepreneurs are destined to struggle."
+        ]
+      }
+    ],
+    "clueweb22-en0028-44-12630": [
+      {
+        "point_number": 1,
+        "point_content": "Running out of money is the leading cause of startup failure.",
+        "spans": [
+          "More than one-third of founders believe that running out of money led to failure."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Lack of financing or investor interest is a major reason for startup failure.",
+        "spans": [
+          "Second to that, founders attribute their failure to a lack of financing or investor interest."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "No business plan or model is a common cause of failure linked to running out of money.",
+        "spans": [
+          "Running out of money seems related to the third most common reason for failure: no business plan or model."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Strong business planning with an eye towards profitability is the surest way to avoid failure.",
+        "spans": [
+          "Based on the data, strong business planning with an eye towards profitability is the surest way to avoid failure."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Nearly 30% of founders recommend doing more research prior to launch to prevent failure.",
+        "spans": [
+          "Nearly 30% of respondents urged founders to do more research prior to launch"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Challenges with money and financing have remained the top reasons for failure over time.",
+        "spans": [
+          "challenges with money and financing remained the top reasons for failure."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "A lack of market need and mistimed products have become more prevalent reasons for failure recently.",
+        "spans": [
+          "Some causes of failure have grown more prevalent since 2014, including a lack of market need.",
+          "Notice that a lack of market need and mistimed products spiked only in 2020."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Legal challenges have been on the rise as a cause of startup failure.",
+        "spans": [
+          "Legal challenges have also been on the rise, perhaps due to increasing regulation of digital companies."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Pivoting is a common and often successful strategy to avoid failure.",
+        "spans": [
+          "In our survey of 150 founders, 55% reported pivoting to avoid failure.",
+          "nearly 75% of the founders who pivoted said it was successful."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Updating or improving the business plan is the most common pivot strategy.",
+        "spans": [
+          "A majority of founders pivoted by updating or improving their business plan."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Advice from founders includes learning from mistakes, listening to customers, and ensuring market need.",
+        "spans": [
+          "The leading suggestions are fundamental rules of startup survival: learn from mistakes, listen to customers, and ensure that there is a market for your product."
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "Founders recommend seeking outside help such as legal advice, networking, consultants, and diverse teams.",
+        "spans": [
+          "Less common but noteworthy is how many founders recommend looking for outside help in the form of legal advice (29%), networking (28%), consultants (28%), and a team with diversified skills (22%)."
+        ]
+      },
+      {
+        "point_number": 13,
+        "point_content": "Key conclusions for aspiring entrepreneurs include better research and planning, managing money carefully, pivoting, and learning from mistakes.",
+        "spans": [
+          "1. Research, plan, and prepare better.",
+          "2. Do not leave money to chance.",
+          "3. P ivots raise the odds of success.",
+          "4. Learn from shared mistakes."
+        ]
+      }
+    ],
+    "clueweb22-en0032-80-13450": [
+      {
+        "point_number": 1,
+        "point_content": "95 percent of start-ups fail, and 42 percent of them fail when they realize there is no market for their product or service.",
+        "spans": [
+          "95 percent of start-ups fail, and 42 percent of them fail when they realize there is no market for their product or service."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Startups fail because they didn't solve a problem that customers want to be solved.",
+        "spans": [
+          "When startups fail, it's usually not because they run out of money. It's because they didn't solve a problem that customers want to be solved."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Most startups fail because the founders don’t pay attention to understanding customers' real needs and creating something that solves those needs.",
+        "spans": [
+          "Most startups fail because the founders don’t pay attention to this simple formula.",
+          "The first thing you need to do is understand your customers' real need and then create something that solves those needs."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Startups fail due to business model failure, including not understanding the market and where they want to be in it.",
+        "spans": [
+          "The second mistake is not understanding the market and where they want to be in it. You have to understand what works in your industry and position your business accordingly."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "One of the biggest reasons why startups fail is due to a lack of a good management team.",
+        "spans": [
+          "One of the biggest reasons why startups fail is due to a lack of a good management team."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Startups fail because the management team is a bunch of poor leaders.",
+        "spans": [
+          "A lot of startups fail because the management team is a bunch of poor leaders."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Running out of cash is the number one reason startups fail.",
+        "spans": [
+          "\"Running out of cash is the number one reason startups fail,\" says Alex Nussen, a venture capitalist at DN Capital in London."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "If you fail to address customers' real problems, then there is no way that they will buy from you.",
+        "spans": [
+          "You may have the best product or service for them but if you fail to address their real problems, then there is no way that they will buy from you."
+        ]
+      }
+    ],
+    "clueweb22-en0010-10-08596": [
+      {
+        "point_number": 1,
+        "point_content": "Most start-ups don’t succeed: More than two-thirds of them never deliver a positive return to investors.",
+        "spans": [
+          "Most start-ups don’t succeed: More than two-thirds of them never deliver a positive return to investors."
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Many venture capital investors blame start-up failures on the inadequacies of founders, such as lack of grit, industry acumen, or leadership ability.",
+        "spans": [
+          "most are inclined to cite the inadequacies of its founders—in particular, their lack of grit, industry acumen, or leadership ability."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Blaming founders oversimplifies failure; failure often involves situational factors beyond founders' control.",
+        "spans": [
+          "Putting the blame on the founders oversimplifies a complex situation."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Six patterns of failure explain why many start-ups fail; two common avoidable reasons are discussed in detail.",
+        "spans": [
+          "I identified six patterns of failure, which I describe fully in my book.",
+          "In this article I’ve chosen to focus on two of them in greater detail, for two reasons: First, they’re the most common avoidable reasons why start-ups go wrong."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "A start-up with a good idea but lacking experienced team members, partners, or investors can fail due to operational and financial challenges.",
+        "spans": [
+          "Quincy had a good idea but bad bedfellows: Besides the founders, a range of resource providers were culpable in the venture’s collapse, including team members, manufacturing partners, and investors."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Lack of industry experience among founders can cause operational problems and difficulty in securing resources and investors.",
+        "spans": [
+          "The founders’ lack of fashion industry experience was at the root of many problems.",
+          "Without industry connections, they couldn’t leverage their professional networks to recruit team members or count on past relationships with factory managers to ensure prompt delivery. And without an industry track record, they had difficulty finding investors willing to bet on first-time founders."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Investors' pressure for rapid growth can exacerbate operational problems and cash burn in start-ups.",
+        "spans": [
+          "the founders were disappointed with the guidance they got from those VCs, who pressured them to grow at full tilt—like the technology start-ups the investors were more familiar with. Doing so forced Quincy to build inventory, burning through cash before it had resolved its production problems."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Many entrepreneurs adopt only part of the lean start-up approach, often neglecting upfront customer research, leading to false starts.",
+        "spans": [
+          "Many entrepreneurs who claim to embrace the lean start-up canon actually adopt only part of it, neglecting to research customer needs."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Skipping customer discovery and launching a product too early can lead to wasted time and capital on products that miss the market.",
+        "spans": [
+          "By neglecting to research customer needs before commencing their engineering efforts, entrepreneurs end up wasting valuable time and capital on MVPs that are likely to miss their mark.",
+          "In Nagaraj’s postmortem analysis of Triangulate’s failure, he acknowledged skipping this crucial step."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Entrepreneurs have a bias for action and eagerness to build, which can cause them to skip critical customer discovery steps.",
+        "spans": [
+          "Entrepreneurs have a bias for action; they’re eager to get started. And engineers love to build things."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "A structured three-step product design process can help avoid false starts: problem definition, solution development, and solution validation.",
+        "spans": [
+          "The good news is that false starts can easily be avoided by following a structured, three-step product design process.",
+          "1. Problem definition.",
+          "2. Solution development.",
+          "3. Solution validation."
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "Conventional entrepreneurial advice can backfire if followed blindly, leading to premature product launch, stubbornness, overconfidence, and resource misallocation.",
+        "spans": [
+          "Just do it! Great entrepreneurs make things happen and move fast to capture opportunity. But a bias for action can tempt an entrepreneur to truncate exploration and leap too soon into building and selling a product, as I’ve explained.",
+          "Be persistent! Entrepreneurs encounter setbacks over and over. True entrepreneurs dust themselves off and go back at it; they must be determined and resilient. However, if persistence turns into stubbornness, founders may have difficulty recognizing a false start for what it is.",
+          "Bring passion! A burning desire to have a world-changing impact can power entrepreneurs through the most daunting challenges. It can also attract employees, investors, and partners who’ll help make their dreams a reality. But in the extreme, passion can translate into overconfidence—and a penchant to skip critical up-front research.",
+          "Bootstrap! Because resources are limited, entrepreneurs must conserve them by being frugal and figuring out clever ways to make do with less. True enough, but if a start-up cannot consistently deliver on its value proposition because its team lacks crucial skills, its founders must decide whether to hire employees with those skills.",
+          "Grow! Rapid growth attracts investors and talent and gives a team a great morale boost. This may tempt founders to curtail customer research and prematurely launch their product. Also, fast growth can put heavy demands on team members and partners."
+        ]
+      }
+    ],
+    "clueweb22-en0023-06-09752": [
+      {
+        "point_number": 1,
+        "point_content": "90% of startups in India fail within 5 years of inception.",
+        "spans": [
+          "India is also home to 90% of startups that fail within 5 years of inception.",
+          "over 90% of the Indian startups fail within merely 5 years of inception"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Startups in India often imitate western ideas, which contributes to failure.",
+        "spans": [
+          "Startups in India often imitate western ideas, generate employment, and shut down due to lack of funds."
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Lack of confidence in founders leads to startup failure.",
+        "spans": [
+          "When a founder’s under-confident",
+          "Indian founders of startups, especially the ones who commence on their first-ever entrepreneurial journey, find entrepreneurship a nerve-wracking experience.",
+          "A founder needs to remain confident in his endeavors, which helps in keeping the morale of the team high, in turn, constituting to building an awesome startup."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Business models lacking innovation cause startups to fail.",
+        "spans": [
+          "When a business model lacks innovation",
+          "Indian startups are mostly copying or imitating the business ideas from successful companies abroad, which one of the reasons why our country has witnessed a significant dip in the overseas investment funding in Indian startups."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Market saturation makes it difficult for startups to succeed.",
+        "spans": [
+          "When the market niche is saturated",
+          "India, being one of the most populous countries in the world, is oversaturated with products and services that entered the market in multiple forms ages ago."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Negative cash flow and working capital issues lead to startup failure.",
+        "spans": [
+          "When one functions on negative cash flow & working capital",
+          "A business must maintain a continuous cash flow to run his/her business smoothly without any interruptions."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Forceful expansion before adequate profit margin causes losses.",
+        "spans": [
+          "When one works on forceful expansion",
+          "Do not think about expansion, at least until you reach your adequate gross profit margin or else get ready to take a dip in the losses."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Lack of a motivated team contributes to startup failure.",
+        "spans": [
+          "When there’s a lack of motivated team",
+          "A business runs successfully with a team of highly motivated individuals willing to put in their hard work and effort into making the business a success."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Not taking customer feedback seriously leads to losing customers.",
+        "spans": [
+          "When the feedback isn’t taken seriously",
+          "Take customer feedback and improve upon it if you don’t want your customer base to shift to using the services of your competitor."
+        ]
+      }
+    ],
+    "clueweb22-en0019-63-16947": [
+      {
+        "point_number": 1,
+        "point_content": "Lack of innovation is a major reason why startups fail, with 77% of venture capitalists thinking Indian startups lack innovation or unique business models.",
+        "spans": [
+          "77% of venture capitalists think that Indian startups lack innovation or unique business models",
+          "the most common reason is – lack of innovation"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Lack of funds and inability to raise follow-on funds is a key reason why startups fail.",
+        "spans": [
+          "lack of a profitable business model led to the startup shutting down",
+          "Lack of funding is one of the key reasons why startups fail",
+          "the inability to raise follow-on funds is one of the biggest reasons why startups fail"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Lack of focus on a single core business area can lead to failure; successful startups maintain focus.",
+        "spans": [
+          "When Bill Gates and Warren Buffet were asked about one factor that was responsible for their success, both replied with one word: focus",
+          "From the beginning, the company decided to focus only on food delivery"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Failure to achieve product-market fit, where the product does not meet consumer needs, causes many startups to fail.",
+        "spans": [
+          "A large number of startups fail for the simplest reason – the consumers have no need for its products",
+          "Does your product provide value to consumers? Are there consumers for your product?"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Leadership gaps and lack of strong vision and leadership contribute to startup failure.",
+        "spans": [
+          "Lack of vision and strong leadership is another common reason why startups fail",
+          "an enduring company requires a system of leadership that is implemented very early in its history"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Lack of agility and inability to adapt to changes can cause startups to fail.",
+        "spans": [
+          "In such a culture, agility can bring a competitive advantage to startups",
+          "it is most important for startups to remain adaptive and agile in order to progress"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Failure of the business model, including inability to acquire and monetize customers profitably, leads to startup failure.",
+        "spans": [
+          "They ignore the fact that customer acquisition and customer retention come at high costs and the startup needs a foolproof business model to sustain and profit",
+          "Does your startup have a scalable way to acquire customers? Can you find one?",
+          "Can you monetise those customers once acquired? Will the revenue from that customer outdo the cost of acquisition of that customer?"
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Lack of talent and competency is a significant reason for startup failure.",
+        "spans": [
+          "23% of startups fail due to lack of talent and skill"
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Ignoring customers and not being customer-centric can cause startups to fail.",
+        "spans": [
+          "Quite often startup founders have too much to handle – funding, recruitments, overall management of the organisation, and more. Customers may not even feature in their to-do lists",
+          "When startups are committed to being customer-centric, their decision-making becomes easy, their focus gets narrowed down and their popularity increases from word of mouth"
+        ]
+      }
+    ],
+    "clueweb22-en0038-54-14313": [
+      {
+        "point_number": 1,
+        "point_content": "The government is the second most reason for failures of startups in India.",
+        "spans": [
+          "the much-celebrated hyped startup India scheme of government that was supposed to provide help to startups in India has failed miserably.",
+          "our prestigious govt’ is now the second most reason for failures of startups in India"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "8 out of 10 startups fail and very few survive the first 3 years.",
+        "spans": [
+          "8 out of 10 startups fail.",
+          "there are very few which survive the first 3 years of a business"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Money troubles are a prominent but not the only reason for startup failure.",
+        "spans": [
+          "money was one of the prominent factors for failure but it was not the only reason which led to the closure of some of the startups.",
+          "only one of them failed “mainly” because of Money troubles"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Copycat approach leads to failure of startups in India.",
+        "spans": [
+          "99% of the times ‘the copycat’ ventures fail.",
+          "the replication of Western business models, and not lack of subsequent funding from the investors, is a major reason for failure"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Money troubles include poor financial planning, mixing personal and business finances, and extravagant spending.",
+        "spans": [
+          "Do not plan your business finances in a planned way.",
+          "Mix your personal finances with business money.",
+          "You Spend like a King on unnecessary stuff.",
+          "You will be penniless when you spend extravagantly on ads, the marketing team for fast customer acquisition."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Lack of money leads to inability to pay staff and rent, causing startup failure.",
+        "spans": [
+          "A lack of Money will put your startup in an ICU.",
+          "You will not have money to pay your staff. You will not have money to pay the rent."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Ease of doing business in India is low due to bad infrastructure, red-tapism, and corruption.",
+        "spans": [
+          "We still struggle with simple things like bad infrastructure, red-tapism, abrupt tax decisions, etc.",
+          "Red-Tapism here refers to “our slow bureaucracy process” where files move slower than tortoise and corruption move faster than a hare.",
+          "Our system is corrupt from top to bottom"
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Market not ready for innovation causes failure of innovative startups.",
+        "spans": [
+          "The market was too dependent on the offline medium.",
+          "The whole “Innovation” backfired.",
+          "The venture failed despite high investment from the founders."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Lack of ownership leads to slow death of startups.",
+        "spans": [
+          "The Lack of ownership led to the slow death of AMP (as we referred to Arrange My Party).",
+          "Since no one knew who was the real owner, the staff had a gala time working on the project.",
+          "The venture died a slow death within a few months of launch."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Unplanned approach and lack of business planning leads to failure.",
+        "spans": [
+          "We had no idea on how to set targets for the business and teams.",
+          "Failing to Plan is Planning to Fail",
+          "We did all the stupidity with no regard for the basic fundamental of a business called “Planning”."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Bad customer service leads to startup failure.",
+        "spans": [
+          "When we forget we are there because of customers. They are not there because of us.",
+          "Arrogance leads to us getting blinded to customer’s woes and bad service does not need any publicity."
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "Staff dissatisfaction and strikes can cause business closure.",
+        "spans": [
+          "The day your trusted lieutenants decide to march against you is the day your army loses.",
+          "Have you heard of industries getting closed because of strikes?"
+        ]
+      },
+      {
+        "point_number": 13,
+        "point_content": "Partner troubles and disagreements lead to startup failure.",
+        "spans": [
+          "When the partner is at each other’s throats for every disagreement, you know the new business/startup is just around the corner from the shutting shop."
+        ]
+      },
+      {
+        "point_number": 14,
+        "point_content": "Comfort zone issues cause failure; startups must evolve with the market.",
+        "spans": [
+          "Nokia was the market leader living in its own comfort zone.",
+          "Entrepreneurs and startups cannot afford to be in their comfort zone."
+        ]
+      },
+      {
+        "point_number": 15,
+        "point_content": "Poor marketing causes business failure even if the product is good.",
+        "spans": [
+          "The best of products suck when marketed improperly.",
+          "Businesses fail when they forget marketing is an important part of the business."
+        ]
+      },
+      {
+        "point_number": 16,
+        "point_content": "The biggest reason for new business failure early on is no market need for the product or service.",
+        "spans": [
+          "The biggest reason as per CB insights for new businesses’ failure early on is – no market need for a product or a service.",
+          "Think of it as a concept that sounded too good in your head, and you decided to start the product /s service based on your hunch (and no market research) – only to realize that the market does not want the product/service."
+        ]
+      }
+    ],
+    "clueweb22-en0009-79-11086": [
+      {
+        "point_number": 1,
+        "point_content": "Startups fail because their founders often lack a sense of self awareness.",
+        "spans": [
+          "startups fail because their founders often lack a sense of self awareness"
+        ]
+      },
+      {
+        "point_number": 2,
+        "point_content": "Most startups fail in the first or second year due to wrong market or industry selection.",
+        "spans": [
+          "Most of the startups fail in the first or second year due to wrong market or industry selection"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Many startups fail due to the lack of vision or wrong vision for the company’s product.",
+        "spans": [
+          "Many startups fail due to the lack of vision or wrong vision for the company’s product"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "If the business model of the startups fails then you cannot exist or compete in the market.",
+        "spans": [
+          "If the business model of the startups fails then you cannot exist or compete in the market"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Many Startups fail because of the weak feedback system of the company.",
+        "spans": [
+          "Many Startups fail because of the weak feedback system of the company"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Many startups fail in the initial years of operation due to poor management team.",
+        "spans": [
+          "Many startups fail in the initial years of operation due to poor management team"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "You look to start a business without proper research about the market. And that can prove to be final nail in the coffin of your dream of starting business.",
+        "spans": [
+          "You look to start a business without proper research about the market. And that can prove to be final nail in the coffin of your dream of starting business"
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Many startups fail due to the location of business.",
+        "spans": [
+          "Many startups fail due to the location of business"
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Many startups fail in the initial years because the founders are not aware about the cash burn rate of the company.",
+        "spans": [
+          "Many startups fail in the initial years because the founders are not aware about the cash burn rate of the company"
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "If the startups companies fail to develop the product as per the market need than they cannot sustain or succeed in the market.",
+        "spans": [
+          "If the startups companies fail to develop the product as per the market need than they cannot sustain or succeed in the market"
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Many startups fail due to the ego of the founders.",
+        "spans": [
+          "Many startups fail due to the ego of the founders"
+        ]
+      }
+    ]
+  }
+}

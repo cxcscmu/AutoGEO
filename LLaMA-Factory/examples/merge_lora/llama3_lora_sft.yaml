@@ -1,0 +1,12 @@
+### Note: DO NOT use quantized model or quantization_bit when merging lora adapters
+
+### model
+model_name_or_path: Qwen/Qwen3-1.7B 
+adapter_name_or_path: ../outputs/Researchy-GEO/cold_start/
+template: qwen
+trust_remote_code: true
+
+export_dir: ../outputs/Researchy-GEO/cold_start  
+export_size: 1
+export_device: auto  
+export_legacy_format: false

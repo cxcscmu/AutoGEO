@@ -180,19 +180,19 @@ def main():
         "grpo_eval_output_file": get_full_path(args.dataset, 'grpo_eval_file'),
     }
     
-    try:
-        main_logger.info(f"Downloading keypoint data from GitHub repository: {args.repo_owner}/{args.repo_name} ({args.branch})")
-        download_github_folder(
-            args.repo_owner,
-            args.repo_name,
-            args.folder_path,
-            args.branch
-        )
-        main_logger.info("Keypoint data downloaded successfully!")
-    except requests.exceptions.RequestException as e:
-        main_logger.error(f"Error occurred during keypoint data download: {e}")
-    except Exception as e:
-        main_logger.error(f"An unknown error occurred during keypoint data download: {e}")
+    # try:
+    #     main_logger.info(f"Downloading keypoint data from GitHub repository: {args.repo_owner}/{args.repo_name} ({args.branch})")
+    #     download_github_folder(
+    #         args.repo_owner,
+    #         args.repo_name,
+    #         args.folder_path,
+    #         args.branch
+    #     )
+    #     main_logger.info("Keypoint data downloaded successfully!")
+    # except requests.exceptions.RequestException as e:
+    #     main_logger.error(f"Error occurred during keypoint data download: {e}")
+    # except Exception as e:
+    #     main_logger.error(f"An unknown error occurred during keypoint data download: {e}")
     
     main_logger.info(f"Loading data for dataset: {args.dataset}")
     load_data(config=config)

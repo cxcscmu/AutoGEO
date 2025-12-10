@@ -40,7 +40,7 @@ pip install vllm==0.8.5.post1
 # Flash Attention
 echo "[2/7] Installing Flash Attention..."
 pip install setuptools
-pip install flash-attn --no-build-isolation
+pip install https://github.com/Dao-AILab/flash-attention/releases/download/v2.5.8/flash_attn-2.5.8+cu118torch2.3cxx11abiFALSE-cp311-cp311-linux_x86_64.whl
 
 # open-r1
 echo "[3/7] Installing open-r1..."
@@ -58,8 +58,16 @@ echo "✓ open-r1 installed"
 echo "[4/7] Installing google-generativeai..."
 pip install google-generativeai
 
+# TRL
+echo "[5/7] Installing TRL..."
+pip install trl==0.22.0
+
+# Additional dependencies
+echo "[6/7] Installing additional dependencies..."
+pip install -U antlr4-python3-runtime==4.13.0
+
 # LLaMA-Factory
-echo "[5/7] Installing LLaMA-Factory..."
+echo "[7/7] Installing LLaMA-Factory..."
 if [ ! -d "LLaMA-Factory" ]; then
     echo "Error: LLaMA-Factory directory not found. Please ensure submodules are initialized."
     echo "Run: git submodule update --init --recursive"
@@ -69,14 +77,6 @@ cd LLaMA-Factory
 pip install -e ".[torch,metrics]" --no-build-isolation
 cd ..
 echo "✓ LLaMA-Factory installed"
-
-# TRL
-echo "[6/7] Installing TRL..."
-pip install trl==0.22.0
-
-# Additional dependencies
-echo "[7/7] Installing additional dependencies..."
-pip install -U antlr4-python3-runtime==4.13.0
 
 echo ""
 echo "=========================================="

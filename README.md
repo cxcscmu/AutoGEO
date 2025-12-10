@@ -151,6 +151,12 @@ bash run_grpo.sh E-commerce
 ```
 Trains the model using Group Relative Policy Optimization. Checkpoint saved to `outputs/E-commerce/grpo`.
 
+If you encounter GRPO-related dependency errors, it is usually caused by version conflicts between LLaMA-Factory and open-r1. To resolve this, reinstall open-r1:
+```
+cd open-r1
+GIT_LFS_SKIP_SMUDGE=1 pip install -e ".[dev]"
+```
+
 **Step 3: Evaluation**
 ```bash
 python -m autogeo.evaluate \
@@ -163,9 +169,9 @@ python -m autogeo.evaluate \
 ## 📚 Supported Datasets & Engines & Metrics
 
 **Datasets:**
-- **Researchy-GEO** — Academic & technical queries
-- **E-commerce** — Commercial & product queries
-- **GEO-Bench** — Diverse GEO evaluation benchmark
+- **Researchy-GEO** — Academic dataset
+- **E-commerce** — Commercial dataset
+- **GEO-Bench** — Benchmark from [GEO](https://generative-engines.com/GEO/)
 
 **Generative Engines:**
 - **Gemini** (e.g., `gemini-2.5-flash-lite`)
@@ -178,7 +184,7 @@ python -m autogeo.evaluate \
 
 ## 🙏 Acknowledgements
 
-We thank the authors of [AutoRule](https://github.com/cxcscmu/AutoRule), [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory), [open-r1](https://github.com/huggingface/open-r1), and [DeepResearchGym](https://github.com/cxcscmu/deepresearch_benchmarking) for their inspiring codebase. We also thank [Qwen3](https://github.com/QwenLM/Qwen3) and [DeepSeek-R1](https://huggingface.co/deepseek-ai/DeepSeek-R1) for their excellent models.
+We thank the authors of [GEO](https://generative-engines.com/GEO/), [AutoRule](https://github.com/cxcscmu/AutoRule), [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory), [open-r1](https://github.com/huggingface/open-r1), and [DeepResearchGym](https://github.com/cxcscmu/deepresearch_benchmarking) for their inspiring works. We also thank [Qwen3](https://github.com/QwenLM/Qwen3) and [DeepSeek-R1](https://huggingface.co/deepseek-ai/DeepSeek-R1) for their excellent models.
 
 ## 📖 Citation
 

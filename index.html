@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AutoGEO - What Generative Search Engines Like</title>
+    <link rel="icon" type="image/svg+xml" href="assets/favicon.ico">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>AutoGEO: What Generative Search Engines Like and How to Optimize Web Content Cooperatively</h1>
+        <div class="authors">
+            <p>Yujiang Wu*, Shanshan Zhong*, Yubin Kim, Chenyan Xiong (*Equal contribution)</p>
+            <p class="equal-contribution">Carnegie Mellon University, Vody</p>
+            <p class="equal-contribution"></p>
+        </div>
+    </header>
+
+    <main>
+        <!-- Quick Links -->
+        <section class="quick-links">
+            <a href="https://arxiv.org/pdf/2510.11438" target="_blank" class="btn btn-primary">📄 Paper</a>
+            <a href="https://github.com/cxcscmu/AutoGEO" target="_blank" class="btn btn-secondary">🎉 Code</a>
+            <a href="https://huggingface.co/spaces/cx-cmu/AutoGEO_Mini" target="_blank" class="btn btn-secondary">🚀 Demo</a>
+        </section>
+
+        <!-- Abstract -->
+        <section class="abstract">
+            <h2>Overview</h2>
+            <p>AutoGEO automatically discovers actionable rules to improve content visibility in generative search engines. Unlike traditional methods that rely on expert-designed prompts and trial-and-error, AutoGEO uses large language models to automatically extract preference rules of generative search engines, enabling better adaptability across domains and engines. This paper has been accepted by ICLR 2026.</p>
+        </section>
+
+        <!-- Key Contributions -->
+        <section class="contributions">
+            <h2>Key Contributions</h2>
+            <div class="contribution-grid">
+                <div class="contribution-card">
+                    <h3>🎯 Automated Rule Discovery</h3>
+                    <p>Automatically extracts actionable rules from generative engines, eliminating manual prompt engineering.</p>
+                </div>
+                <div class="contribution-card">
+                    <h3>⚡ Dual Deployment Options</h3>
+                    <p>AutoGEO<sub>API</sub> for plug-and-play integration; AutoGEO<sub>Mini</sub> for cost-efficient fine-tuned models.</p>
+                </div>
+                <div class="contribution-card">
+                    <h3>📈 Significant Improvements</h3>
+                    <p>Up to <strong>50.99%</strong> improvement over baselines while maintaining generative engine utility.</p>
+                </div>
+                <div class="contribution-card">
+                    <h3>🔄 Cross-Engine Transferability</h3>
+                    <p>Rules transfer effectively across different LLMs (Gemini, GPT, Claude) and domains.</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- Introduction Figure -->
+        <section class="figure-section">
+            <h2>Introduction</h2>
+            <div class="figure-container">
+                <img src="assets/introduction.png" alt="AutoGEO Introduction" class="figure-image">
+                <div class="figure-caption">
+                    <p><strong>(a) Generative Engine Workflow:</strong> The engine retrieves relevant information and uses an LLM to generate the final answer.</p>
+                    <p><strong>(b) GEO Model Workflow:</strong> The GEO model rewrites relevant information to improve its visibility in the final output.</p>
+                    <p><strong>(c) Existing GEO Models:</strong> Traditional methods rely on expert-designed prompts and trial-and-error, with limited visibility improvements and adaptability.</p>
+                    <p><strong>(d) AutoGEO (Ours):</strong> AutoGEO automatically discovers actionable rules to flexibly build efficient GEO models. These rules can be applied directly in a prompt-based approach or used to fine-tune a compact model, enabling better adaptability across domains and engines.</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- Method Figure -->
+        <section class="figure-section">
+            <h2>Method</h2>
+            <div class="figure-container">
+                <img src="assets/method.png" alt="AutoGEO Method" class="figure-image">
+                <div class="figure-caption">
+                    <p><strong>Left Panel - Automated Preference Rule Discovery:</strong> Takes conversational interactions from the Generative Engine as input. An LLM analyzes these interactions to identify patterns and preferences that correlate with higher visibility. Outputs a structured Rule Set containing explicit, actionable guidelines for rewriting content.</p>
+                    <p><strong>Right Panel - Rule Guided GEO Models:</strong></p>
+                    <ul>
+                        <li><strong>AutoGEO<sub>API</sub> (Plug-and-play):</strong> The Rule Set is directly fed as an Instruction into a black-box LLM API (e.g., GPT-4, Claude). Designed for easy integration without complex fine-tuning.</li>
+                        <li><strong>AutoGEO<sub>Mini</sub> (Cost-efficient):</strong> Uses a two-stage process: Cold Start with rule-based prompting, followed by GRPO fine-tuning. Reduces inference costs and latency compared to large LLM APIs.</li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+
+        <!-- Rule Extraction Figure -->
+        <!-- <section class="figure-section">
+            <h2>Rule Extraction Algorithm</h2>
+            <div class="figure-container">
+                <img src="assets/rule_extraction.png" alt="Rule Extraction Algorithm" class="figure-image">
+                <div class="figure-caption">
+                    <p>The algorithm iterates through queries, generates answers, computes document visibility, selects document pairs with maximum visibility difference, uses an Explainer to capture differences, an Extractor to summarize insights, a Merger to combine rules, and a Filter to refine and retain rules relevant to engine preferences.</p>
+                </div>
+            </div>
+        </section> -->
+
+        <!-- Experimental Results -->
+        <section class="results">
+            <h2>Experimental Results</h2>
+            
+            <div class="result-highlight">
+                <h3>🚀 Superior Performance</h3>
+                <p>AutoGEO<sub>API</sub> and AutoGEO<sub>Mini</sub> consistently outperform all baselines across three datasets:</p>
+                <ul>
+                    <li><strong>AutoGEO<sub>API</sub>:</strong> Up to <strong>50.99%</strong> improvement over the strongest baseline</li>
+                    <li><strong>AutoGEO<sub>Mini</sub>:</strong> Average <strong>20.99%</strong> gain over baselines</li>
+                </ul>
+            </div>
+
+            <div class="result-highlight">
+                <h3>✅ Key Findings</h3>
+                <ul>
+                    <li><strong>Cross-Engine Robustness:</strong> Improvements are consistent across Gemini, GPT, and Claude engines</li>
+                    <li><strong>Utility Preservation:</strong> Maintains or slightly improves generative engine utility metrics (Precision, Recall, Clarity, Insight)</li>
+                    <li><strong>Challenging Scenarios:</strong> Substantially improves visibility for low-visibility documents</li>
+                    <li><strong>Rule Transferability:</strong> Rules show high overlap across LLMs (78-84%) and transfer effectively across engines</li>
+                </ul>
+            </div>
+
+            <div class="result-highlight">
+                <h3>🛡️ Cooperative vs. Adversarial</h3>
+                <p>AutoGEO achieves strong visibility improvements <strong>without harming</strong> engine utility, unlike adversarial methods (Hijack Attack, Poisoning Attack) that degrade answer quality.</p>
+            </div>
+            <p>More details can be found in the <a href="https://arxiv.org/pdf/2510.11438" target="_blank">📄 Paper</a>. Try it out in the <a href="https://huggingface.co/spaces/cx-cmu/AutoGEO_Mini" target="_blank">🚀 AutoGEO<sub>Mini</sub> Demo</a>.</p>
+        </section>
+
+        <!-- Resources -->
+        <section class="resources">
+            <h2>Resources</h2>
+            <div class="resource-grid">
+                <div class="resource-category">
+                    <h3>📚 Paper & Code & Demo</h3>
+                    <ul>
+                        <li><a href="https://arxiv.org/pdf/2510.11438" target="_blank">Paper on arXiv</a></li>
+                        <li><a href="https://github.com/cxcscmu/AutoGEO" target="_blank">Code on GitHub</a></li>
+                        <li><a href="https://huggingface.co/spaces/cx-cmu/AutoGEO_Mini" target="_blank">AutoGEO<sub>Mini</sub> Demo</a></li>
+                    </ul>
+                </div>
+                <div class="resource-category">
+                    <h3>🤖 AutoGEO<sub>Mini</sub> Checkpoints</h3>
+                    <ul>
+                        <li><a href="https://huggingface.co/cx-cmu/AutoGEO_mini_Qwen1.7B_Ecommerce" target="_blank">E-commerce Checkpoint</a></li>
+                        <li><a href="https://huggingface.co/cx-cmu/AutoGEO_mini_Qwen1.7B_GEOBench" target="_blank">GEO-Bench Checkpoint</a></li>
+                        <li><a href="https://huggingface.co/cx-cmu/AutoGEO_mini_Qwen1.7B_ResearchyGEO" target="_blank">Researchy-GEO Checkpoint</a></li>
+                    </ul>
+                </div>
+                <div class="resource-category">
+                    <h3>📦 Datasets</h3>
+                    <ul>
+                        <li><a href="https://huggingface.co/datasets/cx-cmu/E-commerce" target="_blank">E-commerce Dataset</a></li>
+                        <li><a href="https://huggingface.co/datasets/cx-cmu/GEO-Bench" target="_blank">GEO-Bench Dataset</a></li>
+                        <li><a href="https://huggingface.co/datasets/cx-cmu/Researchy-GEO" target="_blank">Researchy-GEO Dataset</a></li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+
+        <!-- Citation -->
+        <section class="citation">
+            <h2>Citation</h2>
+            <p>If you find AutoGEO useful, please cite:</p>
+            <div class="citation-box">
+                <pre><code>@article{wu2025generative,
+  title={What Generative Search Engines Like and How to Optimize Web Content Cooperatively},
+  author={Wu, Yujiang and Zhong, Shanshan and Kim, Yubin and Xiong, Chenyan},
+  journal={arXiv preprint arXiv:2510.11438},
+  year={2025}
+}</code></pre>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>© 2026 AutoGEO Team</p>
+    </footer>
+</body>
+</html>

@@ -16,7 +16,7 @@ AutoGEO automatically extracts content preference rules from generative engines 
 - **Output:** Rewritten document with higher visibility in generative engine (GE) responses
 - **Goal:** Maximize visibility without harming GE utility
 
-**Three core components:**
+**Three core components of AutoGEO:**
 
 1. **Rule Extraction** — Automatically mines content preferences from GEs.
 2. **AutoGEO<sub>API</sub>** — Prompt-based GEO model using extracted rules
@@ -24,11 +24,13 @@ AutoGEO automatically extracts content preference rules from generative engines 
 
 **Evaluation metrics:** **GEO score** (visibility) and **GEU score** (utility)
 
+A Note on Adaptation: Rule extraction is a critical component of AutoGEO. When applying AutoGEO to a different LLM-based generative engine or a new dataset/domain, we recommend rerunning the rule extraction pipeline to obtain a tailored version of AutoGEO<sub>API</sub>. Similarly, retraining AutoGEO<sub>Mini</sub> on the updated rules is advised.
+
 ## News
 
 - 🔥 **[2026-01-28]**: Cheers! Our paper has been accepted by ICLR 2026!
 - 🔥 **[2026-01-17]**: We have released our [AutoGEO<sub>Mini</sub> Demo](https://huggingface.co/spaces/cx-cmu/AutoGEO_Mini). Feel free to try it out!
-- 🔥 **[2026-01-17]**: We have released our checkpoints ([E-commerce](https://huggingface.co/cx-cmu/AutoGEO_mini_Qwen1.7B_Ecommerce), [GEO-Bench](https://huggingface.co/cx-cmu/AutoGEO_mini_Qwen1.7B_GEOBench), [Researchy-GEO](https://huggingface.co/cx-cmu/AutoGEO_mini_Qwen1.7B_ResearchyGEO)). 
+- 🔥 **[2026-01-17]**: We have released our checkpoints ([E-commerce](https://huggingface.co/cx-cmu/AutoGEO_mini_Qwen1.7B_Ecommerce), [GEO-Bench](https://huggingface.co/cx-cmu/AutoGEO_mini_Qwen1.7B_GEOBench), [Researchy-GEO](https://huggingface.co/cx-cmu/AutoGEO_mini_Qwen1.7B_ResearchyGEO)) for Gemini generative engine. 
 - 🔥 **[2025-12-08]**: We have released our code and datasets ([E-commerce](https://huggingface.co/datasets/cx-cmu/E-commerce), [GEO-Bench](https://huggingface.co/datasets/cx-cmu/GEO-Bench), [Researchy-GEO](https://huggingface.co/datasets/cx-cmu/Researchy-GEO)). 
 - 🔥 **[2025-10-11]**: Our paper is now available on [arXiv](https://arxiv.org/pdf/2510.11438). Check it out!
 
@@ -186,6 +188,7 @@ python -m autogeo.evaluate \
 **Metrics:**
 - **GEO Score** — Visibility (position, token count, citation frequency)
 - **GEU Score** — Utility (citation quality, keypoint coverage, response quality)
+
 
 ## 🙏 Acknowledgements
 

@@ -24,7 +24,7 @@ AutoGEO automatically extracts content preference rules from generative engines 
 
 **Evaluation metrics:** **GEO score** (visibility) and **GEU score** (utility)
 
-A Note on Adaptation: Rule extraction is a critical component of AutoGEO. When applying AutoGEO to a different LLM-based generative engine or a new dataset/domain, we recommend rerunning the rule extraction pipeline to obtain a tailored version of AutoGEO<sub>API</sub>. Similarly, retraining AutoGEO<sub>Mini</sub> on the updated rules is advised.
+Adaptation: Rule extraction is tailored to specific generative engines and datasets/domains. When switching to a different engine or dataset/domain, rerun rule extraction for AutoGEO<sub>API</sub> and retrain AutoGEO<sub>Mini</sub> accordingly.
 
 ## News
 

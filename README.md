@@ -28,7 +28,7 @@ AutoGEO automatically extracts content preference rules from generative engines 
 
 ## News
 
-- 🔥 **[2026-01-28]**: Cheers! Our paper has been accepted by ICLR 2026!
+- 🔥 **[2026-01-28]**: Cheers! Our paper has been accepted by [ICLR 2026](https://iclr.cc/virtual/2026/poster/10010153)!
 - 🔥 **[2026-01-17]**: We have released our [AutoGEO<sub>Mini</sub> Demo](https://huggingface.co/spaces/cx-cmu/AutoGEO_Mini). Feel free to try it out!
 - 🔥 **[2026-01-17]**: We have released our checkpoints ([E-commerce](https://huggingface.co/cx-cmu/AutoGEO_mini_Qwen1.7B_Ecommerce), [GEO-Bench](https://huggingface.co/cx-cmu/AutoGEO_mini_Qwen1.7B_GEOBench), [Researchy-GEO](https://huggingface.co/cx-cmu/AutoGEO_mini_Qwen1.7B_ResearchyGEO)) for Gemini generative engine. 
 - 🔥 **[2025-12-08]**: We have released our code and datasets ([E-commerce](https://huggingface.co/datasets/cx-cmu/E-commerce), [GEO-Bench](https://huggingface.co/datasets/cx-cmu/GEO-Bench), [Researchy-GEO](https://huggingface.co/datasets/cx-cmu/Researchy-GEO)). 
@@ -199,10 +199,11 @@ We thank the authors of [GEO](https://generative-engines.com/GEO/), [AutoRule](h
 If you find AutoGEO useful, please cite:
 
 ```bibtex
-@article{wu2025generative,
+@inproceedings{wu2026generative,
   title={What Generative Search Engines Like and How to Optimize Web Content Cooperatively},
   author={Wu, Yujiang and Zhong, Shanshan and Kim, Yubin and Xiong, Chenyan},
-  journal={arXiv preprint arXiv:2510.11438},
-  year={2025}
+  booktitle={The Fourteenth International Conference on Learning Representations (ICLR)},
+  year={2026},
+  url={https://openreview.net/forum?id=K8EinVWtUB}
 }
 ```
